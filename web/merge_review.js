@@ -14,7 +14,7 @@ const T = {
   savedLocal: '已保存到本地',
   downloaded: (n) => `已下载 · ${n} 项`,
   badge: {
-    pending: '待审核',
+    pending: '待选择',
     auto: (s) => `自动合并 · ≈ ${s.toFixed(2)}`,
     confirmed: '已确认',
     separate: 'YouTube 独有',
@@ -23,12 +23,12 @@ const T = {
   btn: {
     keepSeparate: '标为 YouTube 独有',
     confirm: '确认合并',
-    sendBack: '送回待审核',
+    sendBack: '送回待选择',
     reset: '重置',
   },
   sectionHead: {
-    pending: '待审核',
-    auto: '自动合并 — 请确认或送回审核',
+    pending: '待选择',
+    auto: '自动合并 — 请确认或送回待选择',
     confirmed: '已确认',
   },
   empty: {
