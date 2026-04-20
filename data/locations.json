@@ -114,5 +114,100 @@
       "lat": 46.134053,
       "lng": -100.159292
     }
+  ],
+  "BV11HQ7BXENK": [
+    {
+      "place_name": "Mesilla",
+      "google_maps_url": "https://www.google.com/maps/place/Mesilla,+NM/@32.2686705,-106.8056605,13z/data=!3m1!4b1!4m6!3m5!1s0x86de166e2bae7759:0xcbe6c4aa0c3ca519!8m2!3d32.2700945!4d-106.8008376!16s%2Fm%2F0208nzc?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.2686705,
+      "lng": -106.8056605
+    },
+    {
+      "place_name": "Las Cruces",
+      "google_maps_url": "https://www.google.com/maps/place/Las+Cruces,+NM/@32.2686705,-106.8056605,13z/data=!4m6!3m5!1s0x86de1ac745069869:0x636dd01df13f32bd!8m2!3d32.3142451!4d-106.7797529!16zL20vMHh0ejk?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.2686705,
+      "lng": -106.8056605
+    },
+    {
+      "place_name": "White Sands National Park",
+      "google_maps_url": "https://www.google.com/maps/place/White+Sands+National+Park/@32.7671159,-106.3098369,11z/data=!3m1!4b1!4m6!3m5!1s0x86e06303071072f3:0x36d1188767bf20c3!8m2!3d32.7872403!4d-106.3256816!16zL20vMDF3c19y?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.7671159,
+      "lng": -106.3098369
+    },
+    {
+      "place_name": "Waffle & Pancake Shoppe",
+      "google_maps_url": "https://www.google.com/maps/place/Waffle+%26+Pancake+Shoppe/@32.8802034,-105.9608187,17z/data=!3m1!4b1!4m6!3m5!1s0x86e0509a4a2ce8a5:0x9c7912636f5f1f62!8m2!3d32.8802034!4d-105.9608187!16s%2Fg%2F1vp6_mky?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "早餐店",
+      "lat": 32.8802034,
+      "lng": -105.9608187
+    },
+    {
+      "place_name": "PistachioLand",
+      "google_maps_url": "https://www.google.com/maps/place/PistachioLand/@32.9961532,-106.0071206,14z/data=!4m10!1m2!2m1!1spistachio!3m6!1s0x86e0459420769bdf:0x2491cfc106656a30!8m2!3d32.9961532!4d-105.9896111!15sCglwaXN0YWNoaW9aCyIJcGlzdGFjaGlvkgESdG91cmlzdF9hdHRyYWN0aW9umgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDIxSmVtVkhUVE5VVmtKNll6Qm9ZVkpYU2xkUFJHUmFVVEJuTVU1WFl4QULgAQD6AQQINxA6!16s%2Fg%2F11b6szy8xx?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "世界上最大的开心果雕塑，很多试吃，可以游览农场。",
+      "lat": 32.9961532,
+      "lng": -106.0071206
+    },
+    {
+      "place_name": "Big Chile Inn & Suites",
+      "google_maps_url": "https://www.google.com/maps/place/Big+Chile+Inn+%26+Suites/@32.3121607,-106.8077258,17z/data=!3m1!4b1!4m9!3m8!1s0x86de3de50b229589:0x2e6a2c6a06a0e776!5m2!4m1!1i2!8m2!3d32.3121607!4d-106.8077258!16s%2Fg%2F1thy07h3?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "世界上最大的辣椒雕塑。",
+      "lat": 32.3121607,
+      "lng": -106.8077258
+    },
+    {
+      "place_name": "Hatch",
+      "google_maps_url": "https://www.google.com/maps/place/Hatch,+NM+87937/@32.656494,-107.1963231,12z/data=!3m1!4b1!4m6!3m5!1s0x86dfac37b8e3c689:0x4529aa57946febf8!8m2!3d32.6653572!4d-107.1530744!16s%2Fm%2F0208bjg?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "辣椒之都",
+      "lat": 32.656494,
+      "lng": -107.1963231
+    },
+    {
+      "place_name": "Truth or Consequences",
+      "google_maps_url": "https://www.google.com/maps/place/Truth+or+Consequences,+NM/@33.1934229,-107.255,12z/data=!3m1!4b1!4m6!3m5!1s0x86df822e517366db:0xa0256938d20946!8m2!3d33.1284047!4d-107.2528069!16zL20vMHh3bTA?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.1934229,
+      "lng": -107.255
+    },
+    {
+      "place_name": "Geronimo Springs Museum",
+      "google_maps_url": "https://www.google.com/maps/place/Geronimo+Springs+Museum/@33.1300049,-107.2527038,17z/data=!3m1!4b1!4m6!3m5!1s0x86df82dc820ddf4f:0x203214218db409e3!8m2!3d33.1300049!4d-107.2527038!16s%2Fg%2F1tjxg2_k?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Truth or Consequences博物馆，很多矿石。",
+      "lat": 33.1300049,
+      "lng": -107.2527038
+    },
+    {
+      "place_name": "Pelican Spa",
+      "google_maps_url": "https://www.google.com/maps/place/Pelican+Spa/@33.1300049,-107.2527038,17z/data=!4m9!3m8!1s0x86df82db7060879d:0xca0fd671c40c845d!5m2!4m1!1i2!8m2!3d33.128686!4d-107.2522165!16s%2Fg%2F1tfgk7yn?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "温泉旅馆",
+      "lat": 33.1300049,
+      "lng": -107.2527038
+    },
+    {
+      "place_name": "Elephant Butte",
+      "google_maps_url": "https://www.google.com/maps/place/Elephant+Butte,+NM/@33.128686,-107.2522165,16z/data=!4m6!3m5!1s0x86df84a0787419a5:0x948e64288262427b!8m2!3d33.1770471!4d-107.2252675!16zL20vMHh3bG4?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "新墨西哥州最大的水库",
+      "lat": 33.128686,
+      "lng": -107.2522165
+    },
+    {
+      "place_name": "Santa Fe",
+      "google_maps_url": "https://www.google.com/maps/place/Santa+Fe,+NM/@35.67128,-106.003192,11z/data=!3m1!4b1!4m6!3m5!1s0x87185043e79852a9:0x8c902373fd88df40!8m2!3d35.6894307!4d-105.9381944!16zL20vMGYyNXk?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.67128,
+      "lng": -106.003192
+    }
+  ],
+  "BV1hmdRYREmB": [
+    {
+      "place_name": "Bentonville",
+      "google_maps_url": "https://www.google.com/maps/place/Bentonville,+AR/@36.3478135,-94.2404009,12z/data=!3m1!4b1!4m6!3m5!1s0x87c910004ed64949:0xda808cc82425bf02!8m2!3d36.3723561!4d-94.2102141!16zL20vMHFybDM?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.3478135,
+      "lng": -94.2404009
+    }
   ]
 }

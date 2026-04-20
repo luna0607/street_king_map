@@ -16,7 +16,13 @@
     <a class="btn" href="admin.html">Admin</a>
   </div>
 </header>
-<div id="map"></div>
+<div class="stage">
+  <div id="map"></div>
+  <aside id="panel" hidden>
+    <button id="panel-close" class="icon-btn" title="Close">×</button>
+    <div id="panel-body"></div>
+  </aside>
+</div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script src="map.js"></script>
