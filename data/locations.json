@@ -29,13 +29,6 @@
       "lng": -106.0678641
     },
     {
-      "place_name": "Taos Mountain Casino",
-      "google_maps_url": "https://www.google.com/maps/place/Taos+Mountain+Casino/@36.4277151,-105.5622428,17z/data=!3m1!4b1!4m6!3m5!1s0x87176581b901598b:0x1875af79694cab2c!8m2!3d36.4277151!4d-105.5622428!16s%2Fg%2F1tp08kx7?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
-      "comment": "赌场",
-      "lat": 36.4277151,
-      "lng": -105.5622428
-    },
-    {
       "place_name": "McDonald's",
       "google_maps_url": "https://www.google.com/maps/place/McDonald's/@36.4046628,-105.573853,17z/data=!3m1!4b1!4m6!3m5!1s0x87176523014183c3:0xcf55d7d961a8b8e1!8m2!3d36.4046628!4d-105.573853!16s%2Fg%2F1tz71vwg?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
       "comment": "小霸王用餐处",
@@ -289,6 +282,170 @@
       "comment": "",
       "lat": 42.9979673,
       "lng": -96.0607487
+    }
+  ],
+  "BV1NNDAB5EWa": [
+    {
+      "place_name": "像成龙的大哥的中餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/China+House+Cafe/@43.827217,-94.4458332,15z/data=!4m15!1m8!3m7!1s0x87f487ad9fe97dc1:0x844826ccb06e85e4!2sTruman,+MN+56088!3b1!8m2!3d43.8277341!4d-94.4371904!16zL20vMHc2azA!3m5!1s0x87f4878424a3c977:0x8db182cea3d6016c!8m2!3d43.8274721!4d-94.4367396!16s%2Fg%2F11g0gr_550?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.827217,
+      "lng": -94.4458332,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "台湾大爷的中餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/China+Restaurant/@43.8991582,-94.599563,11.17z/data=!4m18!1m9!3m8!1s0x87f4878424a3c977:0x8db182cea3d6016c!2sChina+House+Cafe!8m2!3d43.8274721!4d-94.4367396!9m1!1b1!16s%2Fg%2F11g0gr_550!3m7!1s0x87f493114b2e0bdb:0x3dba75b07115ad54!8m2!3d43.9790106!4d-94.6187376!9m1!1b1!16s%2Fg%2F1tr7dbxr?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.8991582,
+      "lng": -94.599563,
+      "contributor": "小霸王"
+    }
+  ],
+  "BV1SNXkBeE61": [
+    {
+      "place_name": "马克思火车站",
+      "google_maps_url": "https://www.google.com/maps/place/Marks/@34.2517263,-90.2802012,15z/data=!4m15!1m8!3m7!1s0x862ab8c101a37459:0x2d7338330abb34d4!2sMarks,+MS+38646!3b1!8m2!3d34.2565!4d-90.2720375!16zL20vMHdyZ3g!3m5!1s0x862ab8c4a142cc2f:0x226c44113a9480b5!8m2!3d34.258227!4d-90.272342!16s%2Fg%2F11g0g4qsl7?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.2517263,
+      "lng": -90.2802012,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "吃早饭的地方",
+      "google_maps_url": "https://www.google.com/maps/place/Country+kitchen+450+Martin+Luther+king/@34.2517263,-90.2802012,15z/data=!4m15!1m8!3m7!1s0x862ab8c101a37459:0x2d7338330abb34d4!2sMarks,+MS+38646!3b1!8m2!3d34.2565!4d-90.2720375!16zL20vMHdyZ3g!3m5!1s0x862ab9cfbb811f9f:0x6f856916433d6b62!8m2!3d34.2550965!4d-90.2739991!16s%2Fg%2F11t2lb3z3r?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.2517263,
+      "lng": -90.2802012,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "money村",
+      "google_maps_url": "https://www.google.com/maps/place/Emmett+Till+Historical+Marker/@33.6511902,-90.2132319,16.92z/data=!4m15!1m8!3m7!1s0x862ab8c101a37459:0x2d7338330abb34d4!2sMarks,+MS+38646!3b1!8m2!3d34.2565!4d-90.2720375!16zL20vMHdyZ3g!3m5!1s0x862a65c6216d6923:0x50f19fa03dfccf3b!8m2!3d33.6523205!4d-90.2087547!16s%2Fg%2F11c6w0xjjj?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.6511902,
+      "lng": -90.2132319,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "吃午饭的地方",
+      "google_maps_url": "https://www.google.com/maps/place/Jeems+Diner/@33.5166202,-90.1861192,16.54z/data=!4m15!1m8!3m7!1s0x862ab8c101a37459:0x2d7338330abb34d4!2sMarks,+MS+38646!3b1!8m2!3d34.2565!4d-90.2720375!16zL20vMHdyZ3g!3m5!1s0x862a6dd1ef1826db:0xe6c32b3bbcc684a6!8m2!3d33.5176659!4d-90.1815338!16s%2Fg%2F1tk63h74?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.5166202,
+      "lng": -90.1861192,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "黑人大学",
+      "google_maps_url": "https://www.google.com/maps/place/Mississippi+Valley+State+University,+MS+38941/@33.4584847,-90.4457416,12z/data=!4m15!1m8!3m7!1s0x862ab8c101a37459:0x2d7338330abb34d4!2sMarks,+MS+38646!3b1!8m2!3d34.2565!4d-90.2720375!16zL20vMHdyZ3g!3m5!1s0x862a41712aab7d47:0x32e4d28a050b938d!8m2!3d33.5191296!4d-90.3442449!16s%2Fm%2F0zrp7g3?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.4584847,
+      "lng": -90.4457416,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "华人杂货店",
+      "google_maps_url": "https://www.google.com/maps/place/L+%26+T+Food+Market/@33.4959641,-90.3568947,14z/data=!4m15!1m8!3m7!1s0x862ab8c101a37459:0x2d7338330abb34d4!2sMarks,+MS+38646!3b1!8m2!3d34.2565!4d-90.2720375!16zL20vMHdyZ3g!3m5!1s0x862a41b818841f23:0x1169c7573deba339!8m2!3d33.494489!4d-90.319532!16s%2Fg%2F1w0r08cy?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.4959641,
+      "lng": -90.3568947,
+      "contributor": "小霸王"
+    }
+  ],
+  "BV11FXoBPEEU": [
+    {
+      "place_name": "南达大学",
+      "google_maps_url": "https://www.google.com/maps/place/University+of+South+Dakota/@38.4353901,-112.269393,6z/data=!4m10!1m2!2m1!1su+of+sd!3m6!1s0x878e4f8961698e2b:0x7c8c9573e80c69ac!8m2!3d42.7883015!4d-96.9253381!15sCgd1IG9mIHNkkgERcHVibGljX3VuaXZlcnNpdHngAQA!16zL20vMDFuZ3ox?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.4353901,
+      "lng": -112.269393,
+      "contributor": "小霸王"
+    }
+  ],
+  "BV1eXXTByECp": [
+    {
+      "place_name": "黑人大食堂",
+      "google_maps_url": "https://www.google.com/maps/place/Stein's/@35.0912536,-90.0533313,14.21z/data=!4m6!3m5!1s0x87d57c57aa7aa20b:0x8f806536c3c76ec4!8m2!3d35.0856707!4d-90.0442209!16s%2Fg%2F1thqh8zl?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.0912536,
+      "lng": -90.0533313,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "高端黑人大食堂",
+      "google_maps_url": "https://www.google.com/maps/place/Fenominal+Food/@35.1049902,-90.0420393,14.21z/data=!4m6!3m5!1s0x87d57d00401557a1:0x6ba793cb50b179ac!8m2!3d35.1082438!4d-90.0217718!16s%2Fg%2F11w28ccq7x?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.1049902,
+      "lng": -90.0420393,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "洗衣店",
+      "google_maps_url": "https://www.google.com/maps/place/Klondike+Food+%26+Deli/@35.1588611,-90.0177072,20.62z/data=!4m6!3m5!1s0x87d57e381220c0e7:0xfae7e7dfa3d1cb73!8m2!3d35.1588194!4d-90.0178182!16s%2Fg%2F11bxc63r9t?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.1588611,
+      "lng": -90.0177072,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "金字塔",
+      "google_maps_url": "https://www.google.com/maps/place/Bass+Pro+Shops+at+the+Pyramid/@35.1605089,-90.0591426,14.21z/data=!3m1!5s0x87d57ee9461a3fa5:0xde0c202a15bce396!4m6!3m5!1s0x87d57fb0a736a201:0xd12514b55e244afc!8m2!3d35.155113!4d-90.052262!16s%2Fg%2F11qgyjtbsq?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.1605089,
+      "lng": -90.0591426,
+      "contributor": "小霸王"
+    }
+  ],
+  "BV1oTPpzDEw2": [
+    {
+      "place_name": "黑人饭中餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/Pearl+88/@34.1958454,-90.5607019,17z/data=!3m1!4b1!4m6!3m5!1s0x862ade561a593a1d:0x1c7f8843cf126879!8m2!3d34.195841!4d-90.558127!16s%2Fg%2F1tjt2975?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.1958454,
+      "lng": -90.5607019,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "蓝调小馆（要门票）",
+      "google_maps_url": "https://www.google.com/maps/place/Red's/@34.1955655,-90.5811749,14.29z/data=!4m14!1m7!3m6!1s0x862ade561a593a1d:0x1c7f8843cf126879!2sPearl+88!8m2!3d34.195841!4d-90.558127!16s%2Fg%2F1tjt2975!3m5!1s0x862adf0840220081:0xfec120c525df7308!8m2!3d34.1977322!4d-90.574205!16s%2Fg%2F11b7l1mzrp?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.1955655,
+      "lng": -90.5811749,
+      "contributor": "小霸王"
+    }
+  ],
+  "BV17xf1BuEDL": [
+    {
+      "place_name": "大爷的烧烤店",
+      "google_maps_url": "https://www.google.com/maps/place/Delta+Que+%26+Brew/@34.5299441,-90.6001821,15.62z/data=!4m15!1m8!3m7!1s0x87d4d511553cc865:0x78181aff2b901de0!2sHelena-West+Helena,+AR!3b1!8m2!3d34.5291892!4d-90.5911996!16zL20vMDlremRj!3m5!1s0x87d52b73a7ded1e7:0x97f471ea1c3e28f3!8m2!3d34.5246614!4d-90.5863618!16s%2Fg%2F11s7xppdyl?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.5299441,
+      "lng": -90.6001821,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "很破的海伦娜",
+      "google_maps_url": "https://www.google.com/maps/place/Kelly+Courtyard/@34.5259413,-90.5870353,18.54z/data=!4m15!1m8!3m7!1s0x87d4d511553cc865:0x78181aff2b901de0!2sHelena-West+Helena,+AR!3b1!8m2!3d34.5291892!4d-90.5911996!16zL20vMDlremRj!3m5!1s0x87d52abe89d6aaab:0x230838169b630a6f!8m2!3d34.5264905!4d-90.5865109!16s%2Fg%2F11xt6m_bnw?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.5259413,
+      "lng": -90.5870353,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "马维尔",
+      "google_maps_url": "https://www.google.com/maps/place/Marvell,+AR+72366/@34.5261751,-90.926425,12.37z/data=!4m6!3m5!1s0x87d4b58525cf31c9:0x632abea34d035206!8m2!3d34.5569568!4d-90.9125471!16zL20vMHF3OTI?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.5261751,
+      "lng": -90.926425,
+      "contributor": "小霸王"
+    },
+    {
+      "place_name": "伊莱恩",
+      "google_maps_url": "https://www.google.com/maps/place/Elaine,+AR+72333/@34.3071908,-90.8580464,16z/data=!3m1!4b1!4m6!3m5!1s0x862b38767fd7968d:0x15d5367c875e2a50!8m2!3d34.3080442!4d-90.8531622!16zL20vMHF3N3E?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.3071908,
+      "lng": -90.8580464,
+      "contributor": "小霸王"
     }
   ]
 }
