@@ -1,6 +1,6 @@
 const US_CENTER = [39.5, -98.35];
 const US_ZOOM = 4;
-const FOCUS_ZOOM = 11;
+const FOCUS_ZOOM = 8;
 
 const map = L.map("map", { zoomControl: false }).setView(US_CENTER, US_ZOOM);
 L.control.zoom({ position: "bottomright" }).addTo(map);
