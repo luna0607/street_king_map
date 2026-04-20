@@ -72,8 +72,9 @@ function setupHint() {
   } else {
     hintEl.innerHTML = `
       <strong>Contributor mode.</strong> Add, edit, or remove pins on any video below — your changes live in this browser only.
-      When done, click <strong>Submit on GitHub</strong> to open a pre-filled issue; a bot opens a pull request and tags you
-      as the contributor. No GitHub account? Use <strong>Export</strong> and send the file to the maintainer.`;
+      When done, click <strong>Submit on GitHub</strong> to open a pre-filled issue; a bot opens a pull request (~1–2 min)
+      and tags you as the contributor. A <a href="https://github.com/signup" target="_blank" rel="noopener">GitHub account</a>
+      is required. No account? Use <strong>Export</strong> and send the file to the maintainer.`;
     exportBtn.textContent = "Export";
     exportBtn.title = "Download your changes as contributions.json";
     submitBtn.hidden = false;

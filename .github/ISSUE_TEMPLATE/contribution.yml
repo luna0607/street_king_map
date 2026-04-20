@@ -7,8 +7,10 @@ body:
     attributes:
       value: |
         Paste the `contributions.json` you exported from the admin page below.
-        A bot will validate the JSON, open a pull request that closes this issue,
-        and record you as the contributor on each added pin.
+        After you submit, a bot takes **~1–2 minutes** to validate the JSON, open a
+        pull request that closes this issue, and record you as the contributor on each
+        added/edited pin. You'll get a comment here with the PR link when it's ready.
+        (Watch progress on the [Actions tab](../../actions).)
   - type: textarea
     id: json
     attributes:
