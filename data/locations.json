@@ -244,5 +244,51 @@
       "lat": 36.3329937,
       "lng": -95.238208
     }
+  ],
+  "BV1eCDCB6Ewn": [
+    {
+      "place_name": "火灾地点",
+      "google_maps_url": "https://www.google.com/maps/place/2026+Dalton+St,+Jackson,+MS+39204/@32.2898177,-90.2072003,17.04z/data=!4m15!1m8!3m7!1s0x86282b7f90741b21:0x713cde441f038a0!2sJackson,+MS!3b1!8m2!3d32.2981392!4d-90.18065!16zL20vMDQzeWo!3m5!1s0x862833bfe2ac5797:0x88c38ee7804580d4!8m2!3d32.2886409!4d-90.2056845!16s%2Fg%2F11jzybzns1?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.2898177,
+      "lng": -90.2072003
+    },
+    {
+      "place_name": "黑人区餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/Johnny+T's+Bistro+%26+Blues/@32.3051479,-90.1885311,17.71z/data=!4m15!1m8!3m7!1s0x86282b7f90741b21:0x713cde441f038a0!2sJackson,+MS!3b1!8m2!3d32.2981392!4d-90.18065!16zL20vMDQzeWo!3m5!1s0x862833ab69807c11:0xe061bf4a7c966422!8m2!3d32.3060107!4d-90.1882615!16s%2Fg%2F11bwgjnpv5?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.3051479,
+      "lng": -90.1885311
+    },
+    {
+      "place_name": "州府大厦",
+      "google_maps_url": "https://www.google.com/maps/place/Mississippi+State+Capitol/@32.3095708,-90.182563,14.71z/data=!4m15!1m8!3m7!1s0x86282b7f90741b21:0x713cde441f038a0!2sJackson,+MS!3b1!8m2!3d32.2981392!4d-90.18065!16zL20vMDQzeWo!3m5!1s0x8628325409b10bb9:0x39edf15fa023d86c!8m2!3d32.30348!4d-90.1821462!16s%2Fg%2F1tlw9fkb?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.3095708,
+      "lng": -90.182563
+    },
+    {
+      "place_name": "火车站/交通枢纽",
+      "google_maps_url": "https://www.google.com/maps/place/Jackson/@32.3001878,-90.1912086,17.33z/data=!4m15!1m8!3m7!1s0x86282b7f90741b21:0x713cde441f038a0!2sJackson,+MS!3b1!8m2!3d32.2981392!4d-90.18065!16zL20vMDQzeWo!3m5!1s0x862833ade81cced9:0xfcf52a9758c4efce!8m2!3d32.3009936!4d-90.1909909!16s%2Fm%2F02pzvdc?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.3001878,
+      "lng": -90.1912086
+    },
+    {
+      "place_name": "挂逼旅馆",
+      "google_maps_url": "https://www.google.com/maps/place/OYO+Townhouse+Jackson%2FRidgeland/@32.3626852,-90.190756,13.21z/data=!4m13!1m2!2m1!1soyo+inn!3m9!1s0x8629d29de8d3cad1:0xee1545c3a7168f75!5m2!4m1!1i2!8m2!3d32.3851898!4d-90.1486368!15sCgdveW8gaW5uIgOIAQGSAQVob3RlbOABAA!16s%2Fg%2F11ss5mb6t1?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 32.3626852,
+      "lng": -90.190756
+    }
+  ],
+  "BV17bSdByEYR": [
+    {
+      "place_name": "西北学院 大学",
+      "google_maps_url": "https://www.google.com/maps/place/Northwestern+College/@42.9979673,-96.0607487,17z/data=!3m1!4b1!4m6!3m5!1s0x878db55ceca084d7:0x42543520cb2cfda2!8m2!3d42.9979634!4d-96.0581738!16zL20vMDEzMXd5?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.9979673,
+      "lng": -96.0607487
+    }
   ]
 }
