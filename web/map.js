@@ -1,14 +1,33 @@
 const US_CENTER = [39.5, -98.35];
 const US_ZOOM = 4;
+const FOCUS_ZOOM = 11;
 
-const map = L.map("map").setView(US_CENTER, US_ZOOM);
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  maxZoom: 19,
+const map = L.map("map", { zoomControl: false }).setView(US_CENTER, US_ZOOM);
+L.control.zoom({ position: "bottomright" }).addTo(map);
+// Carto Voyager — cleaner, higher-DPI tiles than default OSM.
+L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
+  attribution:
+    '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+  subdomains: "abcd",
+  maxZoom: 20,
 }).addTo(map);
+
+const primaryIcon = L.divIcon({
+  className: "marker marker-primary",
+  html: `<svg viewBox="0 0 28 36" width="28" height="36"><path d="M14 0C6.3 0 0 6.3 0 14c0 10 14 22 14 22s14-12 14-22C28 6.3 21.7 0 14 0z" fill="currentColor"/><circle cx="14" cy="14" r="5.5" fill="#fff"/></svg>`,
+  iconSize: [28, 36],
+  iconAnchor: [14, 36],
+});
+const primaryIconActive = L.divIcon({
+  className: "marker marker-primary active",
+  html: primaryIcon.options.html,
+  iconSize: [34, 44],
+  iconAnchor: [17, 44],
+});
 
 const primaryLayer = L.layerGroup().addTo(map);
 const secondaryLayer = L.layerGroup().addTo(map);
+const primaryMarkers = new Map(); // bv -> marker
 
 const statusEl = document.getElementById("status");
 const panelEl = document.getElementById("panel");
@@ -46,6 +65,7 @@ async function load() {
 function render(videos) {
   primaryLayer.clearLayers();
   secondaryLayer.clearLayers();
+  primaryMarkers.clear();
   let videoCount = 0;
   let pinCount = 0;
   let unresolved = 0;
@@ -59,12 +79,13 @@ function render(videos) {
     }
     const primary = locs.find((l) => Number.isFinite(l.lat) && Number.isFinite(l.lng));
     if (!primary) continue;
-    const marker = L.marker([primary.lat, primary.lng]);
+    const marker = L.marker([primary.lat, primary.lng], { icon: primaryIcon, riseOnHover: true });
     marker.on("click", (e) => {
       L.DomEvent.stopPropagation(e);
       selectVideo(bv);
     });
     marker.addTo(primaryLayer);
+    primaryMarkers.set(bv, marker);
     videoCount++;
   }
 
@@ -75,14 +96,29 @@ function render(videos) {
 }
 
 function selectVideo(bv) {
-  if (selectedBv === bv) {
+  const prev = selectedBv;
+  if (prev === bv) {
     renderPanel();
     return;
   }
+  if (prev && primaryMarkers.has(prev)) {
+    primaryMarkers.get(prev).setIcon(primaryIcon);
+  }
   selectedBv = bv;
   selectedLocIdx = 0;
+  if (primaryMarkers.has(bv)) primaryMarkers.get(bv).setIcon(primaryIconActive);
   renderSecondaryMarkers();
+  flyToLocation(0);
   openPanel();
+}
+
+function flyToLocation(idx) {
+  const locs = (locationsByBv[selectedBv] || []).filter(
+    (l) => Number.isFinite(l.lat) && Number.isFinite(l.lng),
+  );
+  const loc = locs[idx];
+  if (!loc) return;
+  map.flyTo([loc.lat, loc.lng], FOCUS_ZOOM, { duration: 0.75 });
 }
 
 function renderSecondaryMarkers() {
@@ -110,6 +146,7 @@ function renderSecondaryMarkers() {
 function focusLocation(idx) {
   selectedLocIdx = idx;
   renderPanel();
+  flyToLocation(idx);
   const card = panelBody.querySelector(`[data-loc-idx="${idx}"]`);
   if (card) card.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
@@ -124,6 +161,7 @@ function openPanel() {
 
 function closePanel() {
   if (!selectedBv) return;
+  if (primaryMarkers.has(selectedBv)) primaryMarkers.get(selectedBv).setIcon(primaryIcon);
   selectedBv = null;
   panelEl.hidden = true;
   document.body.classList.remove("panel-open");
