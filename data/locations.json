@@ -447,5 +447,143 @@
       "lng": -90.8580464,
       "contributor": "小霸王"
     }
+  ],
+  "BV1AU411F7jB": [
+    {
+      "place_name": "3街恐怖麦当劳",
+      "google_maps_url": "https://www.google.com/maps/place/McDonald's/@47.6106926,-122.3409694,728m/data=!3m2!1e3!4b1!4m6!3m5!1s0x54906ab4aec4de35:0xa36afb7a1fcc9d99!8m2!3d47.610689!4d-122.3383891!16s%2Fg%2F12hlmhqdf?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 47.6106926,
+      "lng": -122.3409694,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Pike Place Market",
+      "google_maps_url": "https://www.google.com/maps/place/Pike+Place+Market,+Seattle,+WA/@47.6106926,-122.3409694,801m/data=!3m1!1e3!4m6!3m5!1s0x54906ab2c151d6cb:0x60441d5f633e9f1c!8m2!3d47.6096659!4d-122.3421672!16zL20vMDJrOTUz?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 47.6106926,
+      "lng": -122.3409694,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "世界第一家星巴克",
+      "google_maps_url": "https://www.google.com/maps/place/Starbucks+Coffee+Company/@47.6100472,-122.3426536,17z/data=!3m1!5s0x54906ab2b8928821:0x66d5436614db27fb!4m10!1m2!2m1!1s1st+starbucks!3m6!1s0x54906b007b882aaf:0x97ce262f21d06791!8m2!3d47.61004!4d-122.34259!15sCg0xc3Qgc3RhcmJ1Y2tzIgOIAQFaDyINMXN0IHN0YXJidWNrc5IBC2NvZmZlZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5vYnkxVFNXMVJSUkFC4AEA-gEECAAQRg!16s%2Fm%2F010865xh?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 47.6100472,
+      "lng": -122.3426536,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1wK421x7Yw": [
+    {
+      "place_name": "市中心公交站",
+      "google_maps_url": "https://www.google.com/maps/place/3rd+Ave+%26+Union+St/@47.6080446,-122.3363802,17z/data=!3m1!4b1!4m6!3m5!1s0x54906ab3c1220d4f:0x6cf09cc34fa5e6ea!8m2!3d47.6080446!4d-122.3363802!16s%2Fg%2F1tj7w24v?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "RT124 Downtown Seattle 3rd Ave & Union St",
+      "lat": 47.6080446,
+      "lng": -122.3363802,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "西雅图机场",
+      "google_maps_url": "https://www.google.com/maps/place/Seattle-Tacoma+International+Airport/@47.4434893,-122.342433,13z/data=!3m1!4b1!4m6!3m5!1s0x5490435542eafefd:0x99d3d9c4c7dc37b7!8m2!3d47.4483652!4d-122.3085926!16zL20vMDFuNWRy?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Seattle-Tacoma International Airport",
+      "lat": 47.4434893,
+      "lng": -122.342433,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV11i421o77Y": [
+    {
+      "place_name": "铁板烧餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/China+Buffet+%26+Mongolian+Grille/@40.8143365,-96.6301406,12z/data=!4m10!1m2!2m1!1schina+buffet+lincoln+nebraska!3m6!1s0x8796bc518dd71a35:0xf9aea386276f3d02!8m2!3d40.8143365!4d-96.6301406!15sCh1jaGluYSBidWZmZXQgbGluY29sbiBuZWJyYXNrYVofIh1jaGluYSBidWZmZXQgbGluY29sbiBuZWJyYXNrYZIBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUnVMVXczVFZabkVBReABAPoBBAhAEEI!16s%2Fg%2F1vtzhqck?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "China Buffet & Mongolian Grille",
+      "lat": 40.8143365,
+      "lng": -96.6301406,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV14u4m1u7bM": [
+    {
+      "place_name": "穷鬼酒店",
+      "google_maps_url": "https://www.google.com/maps/place/Maingate+Lakeside+Resort/@28.2989667,-81.6819752,11z/data=!4m10!1m2!2m1!1smaingate+lakeside+resort!3m6!1s0x88dd7ea2ff15284d:0xf95efd7eca7c0790!8m2!3d28.3410336!4d-81.5959432!15sChhtYWluZ2F0ZSBsYWtlc2lkZSByZXNvcnRaGiIYbWFpbmdhdGUgbGFrZXNpZGUgcmVzb3J0kgEMcmVzb3J0X2hvdGVsmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVF0Y1hZdGFuZG5SUkFC4AEA-gEECAAQRQ!16s%2Fg%2F11g_9p7pm?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 28.2989667,
+      "lng": -81.6819752,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1ff421f7j6": [
+    {
+      "place_name": "中餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/China+Buffet/@33.0063354,-81.3201112,15z/data=!3m1!4b1!4m6!3m5!1s0x88f96e4bba843c75:0x26c9a159b0e3e34f!8m2!3d33.0063358!4d-81.3098115!16s%2Fg%2F1tfvtsyh?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "China Buffet",
+      "lat": 33.0063354,
+      "lng": -81.3201112,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1gq421A7Kh": [
+    {
+      "place_name": "餐车",
+      "google_maps_url": "https://www.google.com/maps/place/Duke's+Seafood+Food+Truck/@29.6579339,-81.6619034,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgIDOtNP3fw!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFWirTwsBRdfD3AD6K-kzc-W6tdTYLctek5kgkuamQLMMNgoSAgAAy9xHRlkVL90BpbvBS1maeAJWp7mzG9hUouj1pyJTS5SWRwgsi2YY3UfLz6r9esoTfeTr4GO9Mf9B1HNiE%3Dw114-h86-k-no!7i4031!8i3023!4m7!3m6!1s0x88e665a448615555:0xfbaa45be7037822b!8m2!3d29.657875!4d-81.6616584!10e5!16s%2Fg%2F11hy9nzk98?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Duke's Seafood Food Truck",
+      "lat": 29.6579339,
+      "lng": -81.6619034,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1gx421X7pj": [
+    {
+      "place_name": "奥马哈火车站",
+      "google_maps_url": "https://www.google.com/maps/place/Omaha+Amtrak+Station/@41.249776,-95.9374763,15z/data=!3m1!4b1!4m6!3m5!1s0x87938fa77060aa93:0x588a583a2a51e6fb!8m2!3d41.2497765!4d-95.9271766!16s%2Fm%2F02qfl56?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Omaha Amtrak Station",
+      "lat": 41.249776,
+      "lng": -95.9374763,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1fK421a7Xj": [
+    {
+      "place_name": "Orlando Sun Resor",
+      "google_maps_url": "https://www.google.com/maps/place/Orlando+Sun+Resort+and+Convention+Center/@28.3995401,-81.5784639,12z/data=!4m10!1m2!2m1!1sorlando+sun+resort!3m6!1s0x88dd7f0019453d71:0x4cbe02460ef00e56!8m2!3d28.3349484!4d-81.538948!15sChJvcmxhbmRvIHN1biByZXNvcnSSAQVob3RlbOABAA!16s%2Fg%2F11xcrj8bl5?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "https://www.reddit.com/r/urbanexploration/comments/1cyswe8/abandoned_orlando_sun_resort_by_walt_disney_world/",
+      "lat": 28.3995401,
+      "lng": -81.5784639,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1WC41157iB": [
+    {
+      "place_name": "托皮卡",
+      "google_maps_url": "https://www.google.com/maps/place/Topeka,+KS/@39.013297,-95.7080975,12z/data=!3m1!4b1!4m6!3m5!1s0x87bf02e4daec7a29:0xbe2be7d06ae3a7f0!8m2!3d39.0473451!4d-95.6751576!16zL20vMGZ0eWM?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.013297,
+      "lng": -95.7080975,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "墨西哥菜",
+      "google_maps_url": "https://www.google.com/maps/place/Zoila's+Cafe/@39.013297,-95.7080975,12z/data=!4m6!3m5!1s0x87bf03a910e21735:0xeed2bdc3f005f6ff!8m2!3d39.0486583!4d-95.6607404!16s%2Fg%2F11gtgbq2zj?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Zoila's Cafe",
+      "lat": 39.013297,
+      "lng": -95.7080975,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "铁栅栏包围的拉美人杂货店",
+      "google_maps_url": "https://www.google.com/maps/place/Deportes+Y+Mas/@39.0469096,-95.6549217,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICE87elEQ!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHHT5D_Mc-bIpNsnFJOdLGLAgXXaoBNPO2m6G5uO0vRk0PfkqO2ijDPDGn2y_LWnlBaalku1VfiWnSQGIhrKMCm5aHxVT2cmL76BrtYW8mi9aFT9b90xMiO92IjE7MeJLv46Dga%3Dw152-h86-k-no!7i2560!8i1440!4m7!3m6!1s0x87bf03650d55463d:0x88b76db6c3844d75!8m2!3d39.04681!4d-95.6549944!10e5!16s%2Fg%2F1tlwg4sm?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Deportes Y Mas",
+      "lat": 39.0469096,
+      "lng": -95.6549217,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "种族隔离历史遗迹",
+      "google_maps_url": "https://www.google.com/maps/place/Brown+v.+Board+of+Education+National+Historical+Park/@39.0379668,-95.6866952,15z/data=!3m1!4b1!4m6!3m5!1s0x87bf0317e5852a41:0x1e498147ded1ea46!8m2!3d39.0379673!4d-95.6763955!16zL20vMDNfZnAz?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Brown v. Board of Education National Historical Park",
+      "lat": 39.0379668,
+      "lng": -95.6866952,
+      "contributor": "luna0607"
+    }
   ]
 }
