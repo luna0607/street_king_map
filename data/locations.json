@@ -208,6 +208,41 @@
       "comment": "",
       "lat": 36.3478135,
       "lng": -94.2404009
+    },
+    {
+      "place_name": "Crystal Bridges Museum of American Art",
+      "google_maps_url": "https://www.google.com/maps/place/Crystal+Bridges+Museum+of+American+Art/@36.3478135,-94.2404009,12z/data=!4m6!3m5!1s0x87c91a14c433925b:0xad260359e45b143b!8m2!3d36.3818542!4d-94.2026525!16zL20vMGJiNDYx?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "沃尔玛家族建立的很大很高质量的博物馆",
+      "lat": 36.3478135,
+      "lng": -94.2404009
+    },
+    {
+      "place_name": "Walmart Home Office Campus",
+      "google_maps_url": "https://www.google.com/maps/place/Walmart+Home+Office+Campus/@36.3540821,-94.2087773,13.78z/data=!4m6!3m5!1s0x87c91b006cb2cc2f:0xc0ff4e48b0503e1!8m2!3d36.3636107!4d-94.1920784!16s%2Fg%2F11ww0qxwy1?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "沃尔玛总部",
+      "lat": 36.3540821,
+      "lng": -94.2087773
+    },
+    {
+      "place_name": "Rogers",
+      "google_maps_url": "https://www.google.com/maps/place/Rogers,+AR/@36.334496,-94.1656765,12z/data=!3m1!4b1!4m6!3m5!1s0x87c910d451c1567d:0xce19becf5373f4d4!8m2!3d36.3335129!4d-94.1256953!16zL20vMHFycnA?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.334496,
+      "lng": -94.1656765
+    },
+    {
+      "place_name": "Daisy Airgun Museum",
+      "google_maps_url": "https://www.google.com/maps/place/Daisy+Airgun+Museum/@36.3329937,-95.238208,8z/data=!4m10!1m2!2m1!1sgun+museum!3m6!1s0x87c9170586775fd3:0xa94758a4b6c10872!8m2!3d36.3329937!4d-94.1176025!15sCgpndW4gbXVzZXVtWgwiCmd1biBtdXNldW2SAQ5oaXN0b3J5X211c2V1bZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNNWJtRk1TbmRCUlJBQuABAPoBBAgAEEU!16s%2Fg%2F1td5m6y1?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "气枪博物馆",
+      "lat": 36.3329937,
+      "lng": -95.238208
+    },
+    {
+      "place_name": "J.B. Hunt Transport Services, Inc.",
+      "google_maps_url": "https://www.google.com/maps/place/J.B.+Hunt+Transport+Services,+Inc./@36.3329937,-95.238208,8z/data=!4m10!1m2!2m1!1sjb+hunt!3m6!1s0x87c91479e0ca88f5:0xa092ccb486ecafd8!8m2!3d36.2447313!4d-94.1494438!15sCgdqYiBodW50IgOIAQFaCSIHamIgaHVudJIBFnRyYW5zcG9ydGF0aW9uX3NlcnZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUjFkRGRUWlU5UkVBReABAPoBBQj-ARA5!16s%2Fg%2F1v8l0401?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "J.B. Hunt总部",
+      "lat": 36.3329937,
+      "lng": -95.238208
     }
   ]
 }
