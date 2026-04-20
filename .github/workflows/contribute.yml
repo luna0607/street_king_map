@@ -47,6 +47,8 @@ jobs:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
           ADDED: ${{ steps.merge.outputs.added }}
+          UPDATED: ${{ steps.merge.outputs.updated }}
+          REMOVED: ${{ steps.merge.outputs.removed }}
           SKIPPED: ${{ steps.merge.outputs.skipped }}
         run: |
           set -e
@@ -55,8 +57,11 @@ jobs:
           git add data/locations.json
           git commit -m "Contribution from @${ISSUE_AUTHOR} (#${ISSUE_NUMBER})
 
-          Added ${ADDED} pin(s), skipped ${SKIPPED} duplicate(s)."
+          added=${ADDED} updated=${UPDATED} removed=${REMOVED} skipped=${SKIPPED}"
           git push --force origin "$BRANCH"
+
+          BODY=$(printf 'Closes #%s\n\nAdded **%s**, edited **%s**, removed **%s** (skipped **%s** duplicate adds).' \
+            "$ISSUE_NUMBER" "$ADDED" "$UPDATED" "$REMOVED" "$SKIPPED")
 
           if gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
             PR_URL=$(gh pr view "$BRANCH" --json url --jq .url)
@@ -64,9 +69,7 @@ jobs:
           else
             PR_URL=$(gh pr create \
               --title "Pin contribution from @${ISSUE_AUTHOR} (#${ISSUE_NUMBER})" \
-              --body "Closes #${ISSUE_NUMBER}
-
-          Added **${ADDED}** pin(s), skipped **${SKIPPED}** duplicate(s) (same Google Maps URL)." \
+              --body "$BODY" \
               --head "$BRANCH" --base main)
           fi
 

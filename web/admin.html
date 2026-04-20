@@ -24,6 +24,49 @@
 </header>
 <p id="hint" class="hint"></p>
 <main id="list"></main>
+
+<dialog id="edit-dialog" class="modal">
+  <form id="edit-form" method="dialog">
+    <header class="modal-head">
+      <h3 id="edit-title">Edit pin</h3>
+      <button type="button" class="icon-btn" data-close>×</button>
+    </header>
+    <label>Place name
+      <input name="place_name" type="text" placeholder="Optional">
+    </label>
+    <label>Google Maps URL
+      <input name="google_maps_url" type="url" required>
+    </label>
+    <span id="edit-coord-hint" class="coord-hint"></span>
+    <label>Comment
+      <textarea name="comment" rows="2" placeholder="Optional"></textarea>
+    </label>
+    <footer class="modal-foot">
+      <button type="button" class="btn ghost" data-close>Cancel</button>
+      <button type="submit" class="btn primary">Save</button>
+    </footer>
+  </form>
+</dialog>
+
+<dialog id="submit-dialog" class="modal">
+  <div>
+    <header class="modal-head">
+      <h3>Submission ready</h3>
+      <button type="button" class="icon-btn" data-close>×</button>
+    </header>
+    <p>A pre-filled GitHub issue form is open in a new tab. <strong>Click "Submit new issue" there</strong> to finish — a bot will
+      automatically open a pull request, tag you as the contributor, and notify the maintainer.</p>
+    <p class="subtle">Your edits are still saved in this browser, so you won't lose them if something goes sideways. After the
+      maintainer merges the PR, the pins will appear on the public map and your local "new" badges will clear automatically.</p>
+    <div id="submit-dialog-summary" class="summary"></div>
+    <footer class="modal-foot">
+      <button type="button" class="btn ghost" id="submit-reopen">Reopen issue form</button>
+      <button type="button" class="btn ghost" id="submit-export">Download JSON instead</button>
+      <button type="button" class="btn primary" data-close>Got it</button>
+    </footer>
+  </div>
+</dialog>
+
 <script src="admin.js"></script>
 </body>
 </html>

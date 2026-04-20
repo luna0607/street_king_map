@@ -439,6 +439,108 @@ body.admin {
   background: var(--accent);
   color: #fff;
 }
+.badge-edit {
+  background: var(--accent-orange);
+  color: #1a1205;
+}
+.badge-remove {
+  background: var(--danger);
+  color: #fff;
+}
+.locations li.is-edited {
+  border-color: rgba(245, 158, 11, 0.45);
+  background: rgba(245, 158, 11, 0.06);
+}
+.locations li.is-removed {
+  border-color: rgba(239, 68, 68, 0.5);
+  background: rgba(239, 68, 68, 0.06);
+  opacity: 0.75;
+  text-decoration: line-through;
+  text-decoration-color: rgba(239, 68, 68, 0.6);
+}
+.locations li.is-removed .place,
+.locations li.is-removed .url,
+.locations li.is-removed .coords {
+  text-decoration: inherit;
+}
+
+/* ===== Modal dialogs ===== */
+.modal {
+  border: none;
+  padding: 0;
+  width: min(480px, 94vw);
+  max-width: 94vw;
+  background: var(--surface-solid);
+  color: var(--text);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 24px 60px -20px rgba(0, 0, 0, 0.7), 0 0 0 1px var(--border-strong);
+}
+.modal::backdrop {
+  background: rgba(5, 7, 12, 0.55);
+  backdrop-filter: blur(4px);
+}
+.modal form, .modal > div {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 18px 20px 20px;
+}
+.modal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2px;
+}
+.modal-head h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.modal label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--muted);
+}
+.modal input, .modal textarea {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border-strong);
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  font: inherit;
+  font-size: 13px;
+  transition: border-color 0.15s, background 0.15s;
+  resize: vertical;
+}
+.modal input:focus, .modal textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+  background: #1f2538;
+}
+.modal .coord-hint {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: -6px;
+}
+.modal-foot {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 4px;
+}
+.modal p { margin: 0; font-size: 14px; line-height: 1.5; }
+.modal p.subtle { color: var(--muted); font-size: 13px; }
+.modal .summary {
+  padding: 10px 12px;
+  background: rgba(99, 102, 241, 0.08);
+  border: 1px solid rgba(99, 102, 241, 0.22);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+}
 body.contributor-mode .bar::before {
   content: "CONTRIB";
   font-size: 10px;
