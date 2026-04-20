@@ -32,7 +32,8 @@ const T = {
     confirmed: '已确认',
   },
   empty: {
-    merged: '暂无合并项',
+    merged: '暂无共有视频',
+    pending: '暂无待选择视频',
     yt_only: '暂无 YouTube 独有视频',
     bili_only: '暂无 Bilibili 独有视频',
   },
@@ -138,11 +139,12 @@ function usedBvs() {
 }
 
 function updateTabCounts() {
-  const counts = { merged: 0, yt_only: 0, bili_only: 0 };
+  const counts = { merged: 0, pending: 0, yt_only: 0, bili_only: 0 };
   for (const r of review) {
     const st = itemState(r);
     if (st === 'separate') counts.yt_only++;
-    else counts.merged++;  // pending + auto + confirmed all belong here
+    else if (st === 'pending') counts.pending++;
+    else counts.merged++; // auto + confirmed
   }
   const used = usedBvs();
   counts.bili_only = biliVideos.filter(b => !used.has(b.bv)).length;
@@ -157,19 +159,19 @@ function render() {
   updateTabCounts();
 
   if (activeTab === 'merged') return renderMerged();
+  if (activeTab === 'pending') return renderPending();
   if (activeTab === 'yt_only') return renderYTOnly();
   if (activeTab === 'bili_only') return renderBiliOnly();
 }
 
 function renderMerged() {
-  const groups = { pending: [], auto: [], confirmed: [] };
+  const groups = { auto: [], confirmed: [] };
   review.forEach((item, idx) => {
     const st = itemState(item);
     if (st in groups) groups[st].push({ item, idx });
   });
 
   const sections = [
-    section(T.sectionHead.pending, groups.pending, false),
     section(T.sectionHead.auto, groups.auto, false),
     section(T.sectionHead.confirmed, groups.confirmed, true),
   ].filter(Boolean);
@@ -179,6 +181,18 @@ function renderMerged() {
     return;
   }
   listEl.innerHTML = sections.join('');
+}
+
+function renderPending() {
+  const entries = [];
+  review.forEach((item, idx) => {
+    if (itemState(item) === 'pending') entries.push({ item, idx });
+  });
+  if (!entries.length) {
+    listEl.innerHTML = `<div class="rv-empty">${T.empty.pending}</div>`;
+    return;
+  }
+  listEl.innerHTML = entries.map(({ item, idx }) => renderItem(item, idx)).join('');
 }
 
 function section(title, entries, collapsed) {
