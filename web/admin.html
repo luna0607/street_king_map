@@ -21,12 +21,7 @@
     <a class="btn ghost" href="index.html">← Map</a>
   </div>
 </header>
-<p class="hint">
-  Run <code>python3 scripts/serve.py</code> and every <strong>Add pin</strong> / remove writes directly to
-  <code>data/locations.json</code>. Paste a Google Maps URL — coords are extracted client-side when the URL
-  contains them (<code>@lat,lng</code>, <code>!3d…!4d…</code>, <code>q=/ll=</code>).
-  For short URLs (<code>maps.app.goo.gl</code>) run <code>python3 scripts/resolve_locations.py</code> once after adding.
-</p>
+<p id="hint" class="hint"></p>
 <main id="list"></main>
 <script src="admin.js"></script>
 </body>
