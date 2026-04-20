@@ -1,1 +1,118 @@
-{}
+{
+  "BV1rcdzBnEjd": [
+    {
+      "place_name": "Taos",
+      "google_maps_url": "https://www.google.com/maps/place/Taos+Pueblo,+NM/@36.4629107,-105.641212,12z/data=!3m1!4b1!4m6!3m5!1s0x87176fa2b43ecd13:0x7e19a1aacea18d12!8m2!3d36.438638!4d-105.5444545!16zL20vMGYyMm4?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "$25 entry fee",
+      "lat": 36.4629107,
+      "lng": -105.641212
+    },
+    {
+      "place_name": "Española",
+      "google_maps_url": "https://www.google.com/maps/place/Espa%C3%B1ola,+NM/@36.003464,-106.0702861,13z/data=!3m1!4b1!4m6!3m5!1s0x87183c881ff03b13:0x4407bc0826d83d69!8m2!3d35.9910383!4d-106.0818233!16zL20vMDEzaGd0?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.003464,
+      "lng": -106.0702861
+    },
+    {
+      "place_name": "Tortilleria Temosachi",
+      "google_maps_url": "https://www.google.com/maps/place/Tortilleria+Temosachi/@35.9901993,-106.065453,17z/data=!3m1!4b1!4m6!3m5!1s0x87183c7fdd2f7733:0x22ba510721b48246!8m2!3d35.9901993!4d-106.065453!16s%2Fg%2F11bc96g6gy?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "小霸王用餐处，墨西哥菜，$15。",
+      "lat": 35.9901993,
+      "lng": -106.065453
+    },
+    {
+      "place_name": "Santa Claran Hotel Casino",
+      "google_maps_url": "https://www.google.com/maps/place/Santa+Claran+Hotel+Casino/@35.9965862,-106.0678641,17z/data=!4m9!3m8!1s0x87183c81638ccba1:0xf20b76cd34d22c03!5m2!4m1!1i2!8m2!3d35.9965862!4d-106.0678641!16s%2Fg%2F12llkrqs7?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "赌场，可以领取免费可乐。",
+      "lat": 35.9965862,
+      "lng": -106.0678641
+    },
+    {
+      "place_name": "Taos Mountain Casino",
+      "google_maps_url": "https://www.google.com/maps/place/Taos+Mountain+Casino/@36.4277151,-105.5622428,17z/data=!3m1!4b1!4m6!3m5!1s0x87176581b901598b:0x1875af79694cab2c!8m2!3d36.4277151!4d-105.5622428!16s%2Fg%2F1tp08kx7?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "赌场",
+      "lat": 36.4277151,
+      "lng": -105.5622428
+    },
+    {
+      "place_name": "McDonald's",
+      "google_maps_url": "https://www.google.com/maps/place/McDonald's/@36.4046628,-105.573853,17z/data=!3m1!4b1!4m6!3m5!1s0x87176523014183c3:0xcf55d7d961a8b8e1!8m2!3d36.4046628!4d-105.573853!16s%2Fg%2F1tz71vwg?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "小霸王用餐处",
+      "lat": 36.4046628,
+      "lng": -105.573853
+    },
+    {
+      "place_name": "Wengert Patio",
+      "google_maps_url": "https://www.google.com/maps/place/Wengert+Patio/@36.4065284,-105.57244,17z/data=!3m1!4b1!4m6!3m5!1s0x8717655f87e9b42f:0x4e88a9a9d6a45772!8m2!3d36.4065284!4d-105.57244!16s%2Fg%2F11st5xr41j?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "昂贵画廊",
+      "lat": 36.4065284,
+      "lng": -105.57244
+    },
+    {
+      "place_name": "Santa Fe",
+      "google_maps_url": "https://www.google.com/maps/place/Santa+Fe,+NM/@35.67128,-106.003192,12z/data=!3m1!4b1!4m6!3m5!1s0x87185043e79852a9:0x8c902373fd88df40!8m2!3d35.6894307!4d-105.9381944!16zL20vMGYyNXk?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "市中心有个大教堂",
+      "lat": 35.67128,
+      "lng": -106.003192
+    },
+    {
+      "place_name": "Albuquerque",
+      "google_maps_url": "https://www.google.com/maps/place/Albuquerque,+NM/@35.0823726,-106.671984,11z/data=!3m1!4b1!4m6!3m5!1s0x87220addd309837b:0xc0d3f8ceb8d9f6fd!8m2!3d35.0843859!4d-106.650422!16zL20vMGRqZDM?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.0823726,
+      "lng": -106.671984
+    },
+    {
+      "place_name": "Indian Pueblo Cultural Center",
+      "google_maps_url": "https://www.google.com/maps/place/Indian+Pueblo+Cultural+Center/@35.4526977,-108.7590363,7.37z/data=!3m1!5s0x8722733a03ef6b0f:0x2c175ed2d20b0ab4!4m10!1m2!2m1!1salbuquerque+cultural+center!3m6!1s0x87227339ff929717:0x3422514fbdbffc0!8m2!3d35.1104409!4d-106.6587547!15sChthbGJ1cXVlcnF1ZSBjdWx0dXJhbCBjZW50ZXJaHSIbYWxidXF1ZXJxdWUgY3VsdHVyYWwgY2VudGVykgEPY3VsdHVyYWxfY2VudGVy4AEA!16s%2Fm%2F0260dt6?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "原住民文化中心 $6",
+      "lat": 35.4526977,
+      "lng": -108.7590363
+    },
+    {
+      "place_name": "Jemez Pueblo",
+      "google_maps_url": "https://www.google.com/maps/place/Jemez+Pueblo,+NM/@35.4526977,-108.7590363,7.37z/data=!4m6!3m5!1s0x87229009a02bdcf7:0x3bed54226af97381!8m2!3d35.6113233!4d-106.7247962!16zL20vMHh3NDg?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "很热闹，有卖吃的， 热狗烤肠。",
+      "lat": 35.4526977,
+      "lng": -108.7590363
+    }
+  ],
+  "BV1hnjvzCERp": [
+    {
+      "place_name": "Bismarck",
+      "google_maps_url": "https://www.google.com/maps/place/Bismarck,+ND/@46.8163175,-100.7634965,12z/data=!3m1!4b1!4m6!3m5!1s0x52d7831257d8e963:0xccaabd12f9bbca93!8m2!3d46.8041643!4d-100.7877616!16zL20vMGZ2eXo?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 46.8163175,
+      "lng": -100.7634965
+    },
+    {
+      "place_name": "Minot",
+      "google_maps_url": "https://www.google.com/maps/place/Minot,+ND/@48.2383425,-101.2671455,12z/data=!3m1!4b1!4m6!3m5!1s0x52deb78ae5ce7f0d:0xbcc590331b734416!8m2!3d48.2329668!4d-101.2922906!16zL20vMHlzNGY?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.2383425,
+      "lng": -101.2671455
+    },
+    {
+      "place_name": "Williston",
+      "google_maps_url": "https://www.google.com/maps/place/Williston,+ND+58801/@48.2050295,-103.6663076,12z/data=!3m1!4b1!4m6!3m5!1s0x53215b60037038eb:0xe0fc0dfcfeb0f1e3!8m2!3d48.1469683!4d-103.6179745!16zL20vMHlzYzE?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.2050295,
+      "lng": -103.6663076
+    },
+    {
+      "place_name": "University of Mary",
+      "google_maps_url": "https://www.google.com/maps/place/University+of+Mary/@46.7219108,-100.7536009,17z/data=!3m1!4b1!4m6!3m5!1s0x52d79c3a02b5607d:0x738cbb4e2494f768!8m2!3d46.7219108!4d-100.7536009!16zL20vMDRwMmdx?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "天主教大学，学费9000刀。",
+      "lat": 46.7219108,
+      "lng": -100.7536009
+    },
+    {
+      "place_name": "Strasburg",
+      "google_maps_url": "https://www.google.com/maps/place/Strasburg,+ND+58573/@46.134053,-100.159292,15z/data=!3m1!4b1!4m6!3m5!1s0x52d6ee7b74b44039:0xffd5d64193836a2d!8m2!3d46.133601!4d-100.1615042!16zL20vMHluem0?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "德国裔比例最高的镇之一",
+      "lat": 46.134053,
+      "lng": -100.159292
+    }
+  ]
+}
