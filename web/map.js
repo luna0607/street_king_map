@@ -33,6 +33,7 @@ const statusEl = document.getElementById("status");
 const panelEl = document.getElementById("panel");
 const panelBody = document.getElementById("panel-body");
 const panelClose = document.getElementById("panel-close");
+const mapFullscreenBtn = document.getElementById("map-fullscreen");
 
 let videoByBv = new Map();
 let locationsByBv = {};
@@ -40,6 +41,7 @@ let selectedBv = null;
 let selectedLocIdx = 0;
 
 panelClose.addEventListener("click", closePanel);
+mapFullscreenBtn.addEventListener("click", () => { closePanel(); window.scrollTo({ top: 0, behavior: "smooth" }); });
 map.on("click", closePanel); // clicking empty map area closes panel
 document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
 
@@ -153,6 +155,7 @@ function focusLocation(idx) {
 
 function openPanel() {
   panelEl.hidden = false;
+  mapFullscreenBtn.hidden = false;
   document.body.classList.add("panel-open");
   renderPanel();
   // Let Leaflet recompute size now that the map container shrank.
@@ -164,6 +167,7 @@ function closePanel() {
   if (primaryMarkers.has(selectedBv)) primaryMarkers.get(selectedBv).setIcon(primaryIcon);
   selectedBv = null;
   panelEl.hidden = true;
+  mapFullscreenBtn.hidden = true;
   document.body.classList.remove("panel-open");
   secondaryLayer.clearLayers();
   requestAnimationFrame(() => map.invalidateSize());

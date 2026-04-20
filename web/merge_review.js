@@ -1,7 +1,7 @@
 'use strict';
 
-const REVIEW_URL = '/data/merge_review.json';
-const VIDEOS_URL = '/data/videos.json';
+const REVIEW_URL = '../data/merge_review.json';
+const VIDEOS_URL = '../data/videos.json';
 const API_REVIEW = '/api/merge_review';
 const LS_KEY = 'merge_review_v2';
 
