@@ -39,13 +39,13 @@
   #review-list { max-width: 980px; margin: 14px auto 48px; padding: 0 16px; display: grid; gap: 20px; }
   .rv-empty { text-align: center; color: var(--muted); padding: 40px 20px; font-size: 13px; }
 
-  .rv-bili-link {
+  .rv-link-form {
     display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
     padding: 10px 0 0;
     border-top: 1px dashed var(--border);
     margin-top: 2px;
   }
-  .rv-bili-link input {
+  .rv-link-form input {
     flex: 1; min-width: 220px;
     background: var(--bg); color: var(--text);
     border: 1px solid var(--border-strong);
@@ -54,16 +54,16 @@
     font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
     transition: border-color 0.15s, background 0.15s;
   }
-  .rv-bili-link input::placeholder { color: var(--muted); font-family: "Inter", sans-serif; }
-  .rv-bili-link input:focus {
+  .rv-link-form input::placeholder { color: var(--muted); font-family: "Inter", sans-serif; }
+  .rv-link-form input:focus {
     outline: none; border-color: var(--accent); background: #1f2538;
   }
-  .rv-bili-link input.err { border-color: var(--danger); background: rgba(239, 68, 68, 0.06); }
-  .rv-bili-link .rv-link-msg {
+  .rv-link-form input.err { border-color: var(--danger); background: rgba(239, 68, 68, 0.06); }
+  .rv-link-form .rv-link-msg {
     font-size: 11px; color: var(--danger);
     width: 100%;
   }
-  .rv-bili-link .rv-link-msg.ok { color: var(--accent-green); }
+  .rv-link-form .rv-link-msg.ok { color: var(--accent-green); }
   .rv-item {
     background: var(--surface);
     backdrop-filter: blur(14px);
@@ -200,6 +200,22 @@
   <button class="rv-tab" data-tab="bili_only" role="tab">Bilibili 独有<span class="rv-tab-count" data-count="bili_only">0</span></button>
 </nav>
 <main id="review-list"></main>
+
+<dialog id="reset-dialog" class="modal">
+  <div>
+    <header class="modal-head">
+      <h3>重置所有选择？</h3>
+      <button type="button" class="icon-btn" data-close>×</button>
+    </header>
+    <p>这会清除你在本页面所做的全部选择，并恢复到初始的自动合并状态。</p>
+    <p class="subtle">该操作无法撤销，本地浏览器中的改动也会一并清空。</p>
+    <footer class="modal-foot">
+      <button type="button" class="btn ghost" data-close>取消</button>
+      <button type="button" class="btn danger" id="reset-confirm">确认重置</button>
+    </footer>
+  </div>
+</dialog>
+
 <script src="merge_review.js"></script>
 </body>
 </html>

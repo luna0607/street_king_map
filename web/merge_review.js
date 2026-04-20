@@ -44,6 +44,12 @@ const T = {
     errNotFound: '未在 yt_videos.json 中找到该 YouTube 视频',
     ok: (name) => `已合并到 ${name}`,
   },
+  ytLink: {
+    placeholder: '或粘贴对应的 Bilibili 链接 / BV 号',
+    submit: '合并到 Bilibili',
+    errInvalid: '无法识别 Bilibili 链接或 BV 号',
+    errNotFound: '未在 videos.json 中找到该 Bilibili 视频',
+  },
   viewsSuffix: '次观看',
   untitled: '(无标题)',
   noThumb: '暂无封面',
@@ -230,7 +236,7 @@ function renderBiliOnly() {
   listEl.innerHTML = entries.map(b => `
     <section class="rv-item rv-item-single">
       ${videoCard(b, 'bilibili')}
-      <form class="rv-bili-link" data-bv="${escapeHTML(b.bv)}">
+      <form class="rv-link-form rv-bili-link" data-bv="${escapeHTML(b.bv)}">
         <input type="text" placeholder="${T.biliLink.placeholder}" autocomplete="off" spellcheck="false">
         <button class="btn primary" type="submit">${T.biliLink.submit}</button>
         <span class="rv-link-msg"></span>
@@ -250,6 +256,39 @@ function extractYTVid(s) {
   m = s.match(/^([A-Za-z0-9_-]{11})$/);
   if (m) return m[1];
   return null;
+}
+
+function extractBV(s) {
+  if (!s) return null;
+  const m = s.match(/BV[A-Za-z0-9]{10}/);
+  return m ? m[0] : null;
+}
+
+function linkYTToBili(form) {
+  const idx = +form.dataset.idx;
+  const input = form.querySelector('input');
+  const msg = form.querySelector('.rv-link-msg');
+  const setErr = (text) => {
+    input.classList.add('err');
+    msg.classList.remove('ok');
+    msg.textContent = text;
+  };
+  input.classList.remove('err');
+  msg.textContent = '';
+
+  const bv = extractBV(input.value);
+  if (!bv) return setErr(T.ytLink.errInvalid);
+  const bili = biliVideos.find(b => b.bv === bv);
+  if (!bili) return setErr(T.ytLink.errNotFound);
+
+  decide(idx, {
+    action: 'merge',
+    bv: bili.bv,
+    bilibili_name: bili.name,
+    similarity: 1.0,
+    manual: true,
+    confirmed: true,
+  });
 }
 
 function linkBiliToYT(form) {
@@ -298,7 +337,12 @@ function renderItem(item, idx) {
           similarity: c.similarity,
           extraClass: 'rv-candidate',
           dataset: `data-idx="${idx}" data-cand="${cidx}"`,
-        })).join('')}`;
+        })).join('')}
+      <form class="rv-link-form rv-yt-link" data-idx="${idx}">
+        <input type="text" placeholder="${T.ytLink.placeholder}" autocomplete="off" spellcheck="false">
+        <button class="btn primary" type="submit">${T.ytLink.submit}</button>
+        <span class="rv-link-msg"></span>
+      </form>`;
     actions = `
       <button class="btn ghost" data-action="keep_separate" data-idx="${idx}">${T.btn.keepSeparate}</button>`;
   } else if (state === 'auto') {
@@ -406,10 +450,11 @@ function downloadReview() {
 }
 
 listEl.addEventListener('submit', (ev) => {
-  const form = ev.target.closest('form.rv-bili-link');
+  const form = ev.target.closest('form.rv-link-form');
   if (!form) return;
   ev.preventDefault();
-  linkBiliToYT(form);
+  if (form.classList.contains('rv-bili-link')) linkBiliToYT(form);
+  else if (form.classList.contains('rv-yt-link')) linkYTToBili(form);
 });
 
 listEl.addEventListener('click', (ev) => {
@@ -454,7 +499,16 @@ tabsEl.addEventListener('click', (ev) => {
   render();
 });
 
-document.getElementById('reload').addEventListener('click', load);
+const resetDialog = document.getElementById('reset-dialog');
+document.getElementById('reload').addEventListener('click', () => resetDialog.showModal());
+document.getElementById('reset-confirm').addEventListener('click', async () => {
+  try { localStorage.removeItem(LS_KEY); } catch {}
+  resetDialog.close();
+  await load();
+});
+resetDialog.addEventListener('click', (ev) => {
+  if (ev.target.closest('[data-close]')) resetDialog.close();
+});
 document.getElementById('download-review').addEventListener('click', downloadReview);
 
 async function load() {
