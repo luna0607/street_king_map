@@ -4,13 +4,14 @@
 Depends only on the Python standard library.
 """
 
+import argparse
 import json
 import re
 import sys
 from html.parser import HTMLParser
 from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
+REPO = Path(__file__).resolve().parent.parent
 
 
 def strip_leading_slashes(url: str) -> str:
@@ -163,14 +164,21 @@ def process(input_path: Path, output_path: Path) -> list[dict]:
 
 
 def main(argv: list[str]) -> int:
-    if len(argv) < 2:
-        print("usage: extract_bilibili_metadata.py <input> [<input> ...]", file=sys.stderr)
-        return 2
-    for arg in argv[1:]:
+    ap = argparse.ArgumentParser(description="Extract bilibili upload-grid HTML to JSON.")
+    ap.add_argument("inputs", nargs="+", help="HTML files (relative paths resolved against repo root)")
+    ap.add_argument("--out-dir", default="data", help="where to write <name>.json files (default: data)")
+    args = ap.parse_args(argv[1:])
+
+    out_dir = Path(args.out_dir)
+    if not out_dir.is_absolute():
+        out_dir = REPO / out_dir
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    for arg in args.inputs:
         in_path = Path(arg)
         if not in_path.is_absolute():
-            in_path = HERE / in_path
-        out_path = in_path.with_suffix(in_path.suffix + ".json") if in_path.suffix else in_path.with_name(in_path.name + ".json")
+            in_path = REPO / in_path
+        out_path = out_dir / (in_path.name + ".json")
         process(in_path, out_path)
     return 0
 

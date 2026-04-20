@@ -12,9 +12,10 @@ import sys
 from datetime import date
 from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
-INPUTS = [HERE / f"bilibili_metadata_{i}.json" for i in (1, 2, 3, 4)]
-OUTPUT = HERE / "bilibili_metadata_all.json"
+REPO = Path(__file__).resolve().parent.parent
+DATA = REPO / "data"
+INPUTS = [DATA / f"bilibili_metadata_{i}.json" for i in (1, 2, 3, 4)]
+OUTPUT = DATA / "videos.json"
 CURRENT_YEAR = 2026  # MM-DD rows render without year when posted in the current year.
 
 BV_RE = re.compile(r"/video/(BV[0-9A-Za-z]+)")
@@ -41,15 +42,15 @@ def main() -> int:
         entries = json.loads(path.read_text(encoding="utf-8"))
         for e in entries:
             e["post_date"] = normalize_date(e.get("post_date", ""))
+            e["bv"] = bv_id(e.get("link", ""))
             e["_source_file"] = path.name
-            e["_bv"] = bv_id(e.get("link", ""))
         per_file.append((path.name, len(entries)))
         merged.extend(entries)
 
     # Duplicate check by BV id.
     seen: dict[str, list[int]] = {}
     for i, e in enumerate(merged):
-        seen.setdefault(e["_bv"], []).append(i)
+        seen.setdefault(e["bv"], []).append(i)
     duplicates = {bv: idxs for bv, idxs in seen.items() if len(idxs) > 1}
 
     # Date format check.
