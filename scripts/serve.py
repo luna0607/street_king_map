@@ -17,6 +17,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 LOCATIONS = REPO / "data" / "locations.json"
+MERGE_REVIEW = REPO / "data" / "merge_review.json"
 DEFAULT_PORT = 8000
 
 
@@ -30,10 +31,15 @@ class Handler(SimpleHTTPRequestHandler):
         super().end_headers()
 
     def do_POST(self):  # noqa: N802 (stdlib name)
-        if self.path != "/api/locations":
-            self.send_error(HTTPStatus.NOT_FOUND)
+        if self.path == "/api/locations":
+            self._save_json(LOCATIONS, expect="object")
             return
+        if self.path == "/api/merge_review":
+            self._save_json(MERGE_REVIEW, expect="array")
+            return
+        self.send_error(HTTPStatus.NOT_FOUND)
 
+    def _save_json(self, target: Path, expect: str) -> None:
         length = int(self.headers.get("Content-Length", "0"))
         body = self.rfile.read(length) if length else b""
         try:
@@ -41,16 +47,18 @@ class Handler(SimpleHTTPRequestHandler):
         except (json.JSONDecodeError, UnicodeDecodeError) as exc:
             self._json(HTTPStatus.BAD_REQUEST, {"ok": False, "error": f"invalid JSON: {exc}"})
             return
-        if not isinstance(data, dict):
+        if expect == "object" and not isinstance(data, dict):
             self._json(HTTPStatus.BAD_REQUEST, {"ok": False, "error": "expected JSON object"})
             return
+        if expect == "array" and not isinstance(data, list):
+            self._json(HTTPStatus.BAD_REQUEST, {"ok": False, "error": "expected JSON array"})
+            return
 
-        tmp = LOCATIONS.with_suffix(".json.tmp")
+        tmp = target.with_suffix(".json.tmp")
         tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        tmp.replace(LOCATIONS)
-        pin_count = sum(len(v) for v in data.values() if isinstance(v, list))
-        self.log_message("saved locations.json (%d videos, %d pins)", len(data), pin_count)
-        self._json(HTTPStatus.OK, {"ok": True, "videos": len(data), "pins": pin_count})
+        tmp.replace(target)
+        self.log_message("saved %s (%d items)", target.name, len(data))
+        self._json(HTTPStatus.OK, {"ok": True, "items": len(data)})
 
     def _json(self, status: HTTPStatus, payload: dict) -> None:
         body = json.dumps(payload).encode("utf-8")
@@ -67,6 +75,7 @@ def main() -> int:
         server.allow_reuse_address = True
         print(f"street_king_map dev server: http://127.0.0.1:{port}")
         print(f"  admin: http://127.0.0.1:{port}/web/admin.html")
+        print(f"  merge: http://127.0.0.1:{port}/web/merge_review.html")
         print(f"  map:   http://127.0.0.1:{port}/web/index.html")
         try:
             server.serve_forever()

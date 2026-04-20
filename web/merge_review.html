@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>合并审核 · Street King Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+<style>
+  .rv-tabs {
+    max-width: 980px; margin: 18px auto 0; padding: 0 16px;
+    display: flex; gap: 6px; flex-wrap: wrap;
+  }
+  .rv-tab {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: var(--surface); backdrop-filter: blur(14px);
+    border: 1px solid var(--border); color: var(--muted);
+    padding: 9px 16px; border-radius: var(--radius-sm);
+    cursor: pointer; font: inherit; font-size: 13px; font-weight: 500;
+    letter-spacing: -0.005em;
+    transition: color 0.15s, background 0.15s, border-color 0.15s;
+  }
+  .rv-tab:hover { color: var(--text); border-color: var(--border-strong); }
+  .rv-tab.active {
+    background: rgba(99, 102, 241, 0.14);
+    border-color: rgba(99, 102, 241, 0.45);
+    color: var(--text);
+  }
+  .rv-tab-count {
+    font-size: 11px; color: var(--muted);
+    padding: 2px 8px; background: rgba(255, 255, 255, 0.05);
+    border-radius: 999px; font-variant-numeric: tabular-nums;
+    min-width: 26px; text-align: center;
+  }
+  .rv-tab.active .rv-tab-count { color: var(--accent-hover); background: rgba(99, 102, 241, 0.2); }
+
+  #review-list { max-width: 980px; margin: 14px auto 48px; padding: 0 16px; display: grid; gap: 20px; }
+  .rv-empty { text-align: center; color: var(--muted); padding: 40px 20px; font-size: 13px; }
+
+  .rv-bili-link {
+    display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+    padding: 10px 0 0;
+    border-top: 1px dashed var(--border);
+    margin-top: 2px;
+  }
+  .rv-bili-link input {
+    flex: 1; min-width: 220px;
+    background: var(--bg); color: var(--text);
+    border: 1px solid var(--border-strong);
+    padding: 7px 12px; border-radius: var(--radius-sm);
+    font: inherit; font-size: 12px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .rv-bili-link input::placeholder { color: var(--muted); font-family: "Inter", sans-serif; }
+  .rv-bili-link input:focus {
+    outline: none; border-color: var(--accent); background: #1f2538;
+  }
+  .rv-bili-link input.err { border-color: var(--danger); background: rgba(239, 68, 68, 0.06); }
+  .rv-bili-link .rv-link-msg {
+    font-size: 11px; color: var(--danger);
+    width: 100%;
+  }
+  .rv-bili-link .rv-link-msg.ok { color: var(--accent-green); }
+  .rv-item {
+    background: var(--surface);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 16px;
+    display: grid;
+    gap: 14px;
+    transition: border-color 0.15s;
+  }
+  .rv-item.decided-confirmed { border-color: rgba(16, 185, 129, 0.45); background: rgba(16, 185, 129, 0.05); }
+  .rv-item.decided-separate { border-color: rgba(99, 102, 241, 0.45); background: rgba(99, 102, 241, 0.05); }
+  .rv-item.decided-auto { border-color: rgba(245, 158, 11, 0.4); background: rgba(245, 158, 11, 0.04); }
+  .rv-item.decided-pending {}
+  .rv-section { margin-bottom: 4px; }
+  .rv-section[open] { margin-bottom: 12px; }
+  .rv-section-head {
+    cursor: pointer; list-style: none;
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 14px;
+    background: var(--surface-solid);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    font-size: 13px; font-weight: 600; color: var(--text);
+    transition: background 0.15s;
+    user-select: none;
+  }
+  .rv-section-head::-webkit-details-marker { display: none; }
+  .rv-section-head:hover { background: #1f2538; }
+  .rv-section[open] .rv-section-head { border-radius: var(--radius-sm) var(--radius-sm) 0 0; border-bottom-color: transparent; }
+  .rv-section-head::before {
+    content: '▸'; color: var(--muted); font-size: 10px;
+    transition: transform 0.15s;
+  }
+  .rv-section[open] .rv-section-head::before { transform: rotate(90deg); }
+  .rv-section-title { flex: 1; letter-spacing: -0.005em; }
+  .rv-section-count {
+    font-size: 11px; color: var(--muted); font-weight: 500;
+    padding: 2px 8px; background: rgba(255, 255, 255, 0.05);
+    border-radius: 999px;
+  }
+  .rv-section-body { display: grid; gap: 12px; padding: 12px 0 4px; }
+  .rv-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+  .rv-head h2 { margin: 0; font-size: 14px; font-weight: 600; letter-spacing: -0.005em; }
+  .rv-decision {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase;
+    padding: 3px 8px; border-radius: 999px;
+  }
+  .rv-decision.pending { background: rgba(245, 158, 11, 0.14); color: var(--accent-orange); border: 1px solid rgba(245, 158, 11, 0.35); }
+  .rv-decision.merge   { background: rgba(16, 185, 129, 0.14); color: var(--accent-green); border: 1px solid rgba(16, 185, 129, 0.35); }
+  .rv-decision.auto    { background: rgba(245, 158, 11, 0.14); color: var(--accent-orange); border: 1px solid rgba(245, 158, 11, 0.35); }
+  .rv-decision.separate{ background: rgba(99, 102, 241, 0.14); color: var(--accent-hover); border: 1px solid rgba(99, 102, 241, 0.35); }
+  .vcard {
+    display: grid; grid-template-columns: 160px 1fr; gap: 12px;
+    background: var(--surface-solid); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 10px;
+    transition: border-color 0.15s, box-shadow 0.15s, transform 0.05s;
+  }
+  .vcard img {
+    width: 100%; aspect-ratio: 16/9; object-fit: cover;
+    border-radius: var(--radius-sm); background: #222;
+  }
+  .vcard-body { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+  .vcard-title { font-size: 13px; font-weight: 600; line-height: 1.35; letter-spacing: -0.005em; color: var(--text); text-decoration: none; }
+  .vcard-title:hover { color: var(--accent-hover); }
+  .vcard-meta { font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; display: flex; flex-wrap: wrap; gap: 8px; }
+  .vcard .site-tag {
+    display: inline-block; padding: 1px 6px; border-radius: 4px;
+    font-size: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase;
+  }
+  .site-tag.youtube { background: rgba(239, 68, 68, 0.14); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.3); }
+  .site-tag.bilibili { background: rgba(59, 130, 246, 0.14); color: #93c5fd; border: 1px solid rgba(59, 130, 246, 0.3); }
+
+  .rv-candidates-label {
+    font-size: 11px; color: var(--muted); letter-spacing: 0.04em; text-transform: uppercase;
+    margin: 2px 0 -4px;
+  }
+  .rv-candidate {
+    position: relative; cursor: pointer;
+  }
+  .rv-candidate:hover { border-color: var(--border-strong); }
+  .rv-candidate.selected {
+    border-color: var(--accent-green);
+    box-shadow: 0 0 0 1px var(--accent-green), 0 6px 20px -10px rgba(16, 185, 129, 0.5);
+  }
+  .rv-sim {
+    position: absolute; top: 8px; right: 10px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 11px; color: var(--muted);
+    padding: 2px 6px; border-radius: 4px;
+    background: rgba(11, 13, 18, 0.55);
+  }
+  .rv-sim.hi { color: var(--accent-green); }
+  .rv-sim.mid { color: var(--accent-orange); }
+  .rv-sim.lo { color: var(--muted); }
+
+  .rv-actions { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-end; padding-top: 4px; border-top: 1px dashed var(--border); margin-top: 2px; padding-top: 10px; }
+  .rv-empty { text-align: center; color: var(--muted); padding: 40px 20px; font-size: 13px; }
+
+  .rv-summary {
+    max-width: 980px; margin: 16px auto 0; padding: 12px 16px;
+    background: var(--surface); backdrop-filter: blur(14px);
+    border: 1px solid var(--border); border-radius: var(--radius);
+    display: flex; gap: 16px; flex-wrap: wrap;
+    font-size: 13px; color: var(--muted);
+  }
+  .rv-summary strong { color: var(--text); font-weight: 600; }
+  .rv-summary .rv-warn {
+    color: var(--accent-orange);
+    font-weight: 500;
+    width: 100%;
+  }
+
+  @media (max-width: 720px) {
+    .vcard { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body class="admin">
+<header class="bar">
+  <h1>合并审核</h1>
+  <div class="bar-right">
+    <span id="save-status" class="status" data-kind=""></span>
+    <button id="reload" class="btn ghost">重置</button>
+    <button id="download-review" class="btn ghost">下载审核结果</button>
+    <a class="btn ghost" href="admin.html">← 管理</a>
+  </div>
+</header>
+<nav id="tabs" class="rv-tabs" role="tablist">
+  <button class="rv-tab active" data-tab="merged" role="tab">YouTube 与 Bilibili 共有（审核中）<span class="rv-tab-count" data-count="merged">0</span></button>
+  <button class="rv-tab" data-tab="yt_only" role="tab">YouTube 独有<span class="rv-tab-count" data-count="yt_only">0</span></button>
+  <button class="rv-tab" data-tab="bili_only" role="tab">Bilibili 独有<span class="rv-tab-count" data-count="bili_only">0</span></button>
+</nav>
+<main id="review-list"></main>
+<script src="merge_review.js"></script>
+</body>
+</html>
