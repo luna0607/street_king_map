@@ -1,0 +1,38 @@
+name: Pin contribution
+description: Submit new location pins for videos on the map
+title: "[Pins] "
+labels: ["contribution"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Paste the `contributions.json` you exported from the admin page below.
+        A bot will validate the JSON, open a pull request that closes this issue,
+        and record you as the contributor on each added pin.
+  - type: textarea
+    id: json
+    attributes:
+      label: Contributions JSON
+      description: The full body of your `contributions.json` file (an object keyed by BV id).
+      render: json
+      placeholder: |
+        {
+          "BV1xxxxxxxx": [
+            {
+              "place_name": "Example",
+              "google_maps_url": "https://www.google.com/maps/place/...",
+              "comment": "",
+              "lat": 40.0,
+              "lng": -74.0
+            }
+          ]
+        }
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Note to the maintainer (optional)
+      description: Anything to add
+    validations:
+      required: false

@@ -1,5 +1,7 @@
 const LIVE_MODE = /^(localhost|127\.0\.0\.1|0\.0\.0\.0|\[::1\])$/.test(location.hostname);
 const CONTRIB_KEY = "street_king_map.contributions";
+const ISSUE_URL = "https://github.com/luna0607/street_king_map/issues/new";
+const MAX_PREFILL_LEN = 6000; // GitHub issue form URL prefill cap (approx)
 
 const state = {
   videos: [],
@@ -15,6 +17,7 @@ const filterEl = document.getElementById("filter");
 const hintEl = document.getElementById("hint");
 const exportBtn = document.getElementById("download");
 const reloadBtn = document.getElementById("reload");
+const submitBtn = document.getElementById("submit-gh");
 
 filterEl.addEventListener("input", () => {
   state.filter = filterEl.value.trim().toLowerCase();
@@ -23,6 +26,7 @@ filterEl.addEventListener("input", () => {
 
 exportBtn.addEventListener("click", download);
 reloadBtn.addEventListener("click", reloadFromDisk);
+submitBtn.addEventListener("click", submitOnGithub);
 
 document.body.classList.toggle("contributor-mode", !LIVE_MODE);
 setupHint();
@@ -40,14 +44,37 @@ function setupHint() {
   } else {
     hintEl.innerHTML = `
       <strong>Contributor mode.</strong> You can add pins to any video below — they live in this browser only.
-      When done, click <strong>Export contributions</strong> to download a small JSON file of your additions,
-      then send it to the repo owner
-      (<a href="https://github.com/luna0607/street_king_map/issues/new?title=Location+contributions&body=Attach+contributions.json" target="_blank" rel="noopener">open a GitHub issue</a>
-      or email) so they can merge it.`;
-    exportBtn.textContent = "Export contributions";
-    exportBtn.title = "Download only your additions";
-    exportBtn.classList.add("primary");
+      When done, click <strong>Submit on GitHub</strong> to open a pre-filled issue; a bot opens a pull request
+      and tags you as the contributor. No GitHub account? Use <strong>Export</strong> instead and send the file
+      to the maintainer.`;
+    exportBtn.textContent = "Export";
+    exportBtn.title = "Download your additions as contributions.json";
+    submitBtn.hidden = false;
     reloadBtn.textContent = "Discard my edits";
+  }
+}
+
+function submitOnGithub() {
+  const payload = stripEmpty(state.contributions);
+  if (!Object.keys(payload).length) {
+    alert("Add at least one pin before submitting.");
+    return;
+  }
+  const json = JSON.stringify(payload, null, 2);
+  const url = new URL(ISSUE_URL);
+  url.searchParams.set("template", "contribution.yml");
+  const withJson = new URL(url);
+  withJson.searchParams.set("json", json);
+  // Copy to clipboard as a safety net regardless.
+  try { navigator.clipboard?.writeText(json); } catch {}
+  if (withJson.toString().length > MAX_PREFILL_LEN) {
+    alert(
+      "Your contributions are too large to prefill the issue form via URL.\n\n" +
+      "The JSON has been copied to your clipboard. Opening the issue form now — paste it into the 'Contributions JSON' field."
+    );
+    window.open(url.toString(), "_blank", "noopener");
+  } else {
+    window.open(withJson.toString(), "_blank", "noopener");
   }
 }
 

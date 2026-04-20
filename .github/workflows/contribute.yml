@@ -1,0 +1,88 @@
+name: Contribute pins
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: contribute-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  process:
+    if: contains(github.event.issue.labels.*.name, 'contribution')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Parse + merge contribution
+        id: merge
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python3 scripts/process_issue_contribution.py
+
+      - name: Open pull request
+        if: steps.merge.outputs.ok == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ADDED: ${{ steps.merge.outputs.added }}
+          SKIPPED: ${{ steps.merge.outputs.skipped }}
+        run: |
+          set -e
+          BRANCH="contrib/issue-${ISSUE_NUMBER}"
+          git checkout -b "$BRANCH"
+          git add data/locations.json
+          git commit -m "Contribution from @${ISSUE_AUTHOR} (#${ISSUE_NUMBER})
+
+          Added ${ADDED} pin(s), skipped ${SKIPPED} duplicate(s)."
+          git push --force origin "$BRANCH"
+
+          if gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
+            PR_URL=$(gh pr view "$BRANCH" --json url --jq .url)
+            echo "PR already exists: $PR_URL"
+          else
+            PR_URL=$(gh pr create \
+              --title "Pin contribution from @${ISSUE_AUTHOR} (#${ISSUE_NUMBER})" \
+              --body "Closes #${ISSUE_NUMBER}
+
+          Added **${ADDED}** pin(s), skipped **${SKIPPED}** duplicate(s) (same Google Maps URL)." \
+              --head "$BRANCH" --base main)
+          fi
+
+          gh issue comment "$ISSUE_NUMBER" --body "Thanks @${ISSUE_AUTHOR}! A pull request has been opened: ${PR_URL}"
+
+      - name: Report failure
+        if: steps.merge.outputs.ok != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ERROR: ${{ steps.merge.outputs.error }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "Sorry @${GITHUB_ACTOR} — your contribution couldn't be processed automatically.
+
+          \`\`\`
+          ${ERROR}
+          \`\`\`
+
+          Please double-check the JSON in this issue and edit it, or ping the maintainer."

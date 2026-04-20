@@ -22,6 +22,8 @@ def main(argv: list[str]) -> int:
     ap.add_argument("contributions", help="path to contributions.json")
     ap.add_argument("--target", default=str(LOCATIONS),
                     help=f"locations.json to merge into (default: {LOCATIONS.relative_to(REPO)})")
+    ap.add_argument("--contributor", default=None,
+                    help="stamp added pins with this contributor name (GitHub login)")
     ap.add_argument("--dry-run", action="store_true", help="print the plan without writing")
     args = ap.parse_args(argv[1:])
 
@@ -52,6 +54,8 @@ def main(argv: list[str]) -> int:
             if url and url in existing_urls:
                 skipped += 1
                 continue
+            if args.contributor:
+                loc = {**loc, "contributor": args.contributor}
             existing.append(loc)
             existing_urls.add(url)
             added += 1
