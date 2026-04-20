@@ -8,20 +8,31 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 const status = document.getElementById("status");
+const markerLayer = L.layerGroup().addTo(map);
+let videoByBv = new Map();
 
-Promise.all([
-  fetch("../data/videos.json").then((r) => r.json()),
-  fetch("../data/locations.json").then((r) => r.json()),
-])
-  .then(([videos, locations]) => render(videos, locations))
-  .catch((err) => {
+load();
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden) load();
+});
+
+async function load() {
+  try {
+    const [videos, locations] = await Promise.all([
+      fetch("../data/videos.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("../data/locations.json", { cache: "no-store" }).then((r) => r.json()),
+    ]);
+    videoByBv = new Map(videos.map((v) => [v.bv, v]));
+    render(videos, locations);
+  } catch (err) {
     status.textContent = "Failed to load data";
     console.error(err);
-  });
+  }
+}
 
 function render(videos, locations) {
-  const videoByBv = new Map(videos.map((v) => [v.bv, v]));
-  const markers = [];
+  markerLayer.clearLayers();
+  let pinCount = 0;
   let missingCoords = 0;
 
   for (const [bv, locs] of Object.entries(locations)) {
@@ -32,14 +43,14 @@ function render(videos, locations) {
         missingCoords++;
         continue;
       }
-      const marker = L.marker([loc.lat, loc.lng]).addTo(map);
+      const marker = L.marker([loc.lat, loc.lng]);
       marker.bindPopup(popupHtml(video, loc), { maxWidth: 360, minWidth: 280 });
-      markers.push(marker);
+      marker.addTo(markerLayer);
+      pinCount++;
     }
   }
 
-  const pieces = [`${markers.length} pin${markers.length === 1 ? "" : "s"}`];
-  pieces.push(`${videos.length} videos`);
+  const pieces = [`${pinCount} pin${pinCount === 1 ? "" : "s"}`, `${videos.length} videos`];
   if (missingCoords) pieces.push(`${missingCoords} unresolved`);
   status.textContent = pieces.join(" · ");
 }
@@ -49,7 +60,7 @@ function popupHtml(video, loc) {
   return `
     <div class="popup">
       <a class="popup-title" href="${esc(video.link)}" target="_blank" rel="noopener">${esc(video.name)}</a>
-      <img class="popup-thumb" src="${ensureHttps(video.thumbnail)}" alt="" loading="lazy">
+      <img class="popup-thumb" src="${ensureHttps(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
       <div class="popup-meta">
         <span>${esc(video.post_date)}</span>
         <span>·</span>

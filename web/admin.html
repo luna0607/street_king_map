@@ -12,16 +12,17 @@
   <div class="bar-right">
     <input id="filter" type="search" placeholder="Filter by title / date / BV…">
     <span id="stats" class="status"></span>
-    <button id="download" class="btn">Download locations.json</button>
-    <button id="reload" class="btn ghost">Reload from disk</button>
+    <span id="save-status" class="status" data-kind=""></span>
+    <button id="reload" class="btn ghost">Reload</button>
+    <button id="download" class="btn ghost">Export</button>
     <a class="btn ghost" href="index.html">← Map</a>
   </div>
 </header>
 <p class="hint">
-  Edits live in your browser (localStorage). Paste a Google Maps URL — if it contains coordinates
-  (desktop/share URLs with <code>@lat,lng</code> or <code>!3d…!4d…</code>) we extract them client-side.
-  Short URLs (<code>maps.app.goo.gl</code>) get saved as-is; run
-  <code>python3 scripts/resolve_locations.py</code> after downloading to fill the coordinates.
+  Run <code>python3 scripts/serve.py</code> and every <strong>Add pin</strong> / remove writes directly to
+  <code>data/locations.json</code>. Paste a Google Maps URL — coords are extracted client-side when the URL
+  contains them (<code>@lat,lng</code>, <code>!3d…!4d…</code>, <code>q=/ll=</code>).
+  For short URLs (<code>maps.app.goo.gl</code>) run <code>python3 scripts/resolve_locations.py</code> once after adding.
 </p>
 <main id="list"></main>
 <script src="admin.js"></script>

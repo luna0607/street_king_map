@@ -1,5 +1,3 @@
-const STORAGE_KEY = "street_king_map.locations_draft";
-
 const state = {
   videos: [],
   locations: {}, // bv -> [ { place_name, google_maps_url, lat, lng, comment } ]
@@ -8,6 +6,7 @@ const state = {
 
 const listEl = document.getElementById("list");
 const statsEl = document.getElementById("stats");
+const saveStatusEl = document.getElementById("save-status");
 const filterEl = document.getElementById("filter");
 
 filterEl.addEventListener("input", () => {
@@ -21,34 +20,76 @@ document.getElementById("reload").addEventListener("click", reloadFromDisk);
 boot();
 
 async function boot() {
-  const [videos, baseLocations] = await Promise.all([
-    fetch("../data/videos.json").then((r) => r.json()),
-    fetch("../data/locations.json").then((r) => r.json()),
+  const [videos, locations] = await Promise.all([
+    fetch("../data/videos.json", { cache: "no-store" }).then((r) => r.json()),
+    fetch("../data/locations.json", { cache: "no-store" }).then((r) => r.json()),
   ]);
   state.videos = videos;
-  const draft = loadDraft();
-  state.locations = draft ?? baseLocations ?? {};
+  state.locations = locations || {};
+  await migrateLegacyDraft();
   renderList();
 }
 
-function loadDraft() {
+// One-time migration: import any pins left in the old localStorage draft.
+async function migrateLegacyDraft() {
+  const LEGACY_KEY = "street_king_map.locations_draft";
+  const raw = localStorage.getItem(LEGACY_KEY);
+  if (!raw) return;
+  let draft;
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    return raw ? JSON.parse(raw) : null;
+    draft = JSON.parse(raw);
   } catch {
-    return null;
+    localStorage.removeItem(LEGACY_KEY);
+    return;
   }
-}
-
-function saveDraft() {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state.locations));
-  updateStats();
+  let imported = 0;
+  for (const [bv, locs] of Object.entries(draft || {})) {
+    if (!Array.isArray(locs) || !locs.length) continue;
+    const existing = state.locations[bv] || [];
+    const existingUrls = new Set(existing.map((l) => l.google_maps_url));
+    for (const loc of locs) {
+      if (existingUrls.has(loc.google_maps_url)) continue;
+      existing.push(loc);
+      imported++;
+    }
+    state.locations[bv] = existing;
+  }
+  if (imported > 0) {
+    await persist();
+    console.log(`migrated ${imported} pins from old localStorage draft`);
+  }
+  localStorage.removeItem(LEGACY_KEY);
 }
 
 async function reloadFromDisk() {
-  if (!confirm("Discard local edits and reload data/locations.json from disk?")) return;
-  localStorage.removeItem(STORAGE_KEY);
   await boot();
+  setSaveStatus("reloaded", "ok");
+}
+
+async function persist() {
+  const cleaned = {};
+  for (const [bv, locs] of Object.entries(state.locations)) {
+    if (locs && locs.length) cleaned[bv] = locs;
+  }
+  setSaveStatus("saving…", "pending");
+  try {
+    const resp = await fetch("/api/locations", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(cleaned),
+    });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    setSaveStatus("saved ✓", "ok");
+  } catch (err) {
+    console.error(err);
+    setSaveStatus(`save failed (${err.message}) — start scripts/serve.py`, "err");
+  }
+  updateStats();
+}
+
+function setSaveStatus(text, kind) {
+  saveStatusEl.textContent = text;
+  saveStatusEl.dataset.kind = kind || "";
 }
 
 function download() {
@@ -120,7 +161,7 @@ function renderCard(v) {
   return `
     <article class="card" data-bv="${esc(v.bv)}">
       <a class="card-thumb" href="${esc(v.link)}" target="_blank" rel="noopener">
-        <img src="${ensureHttps(v.thumbnail)}" alt="" loading="lazy">
+        <img src="${ensureHttps(v.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
       </a>
       <div class="card-body">
         <div class="card-head">
@@ -156,8 +197,8 @@ function handleAdd(e, bv) {
     loc.lng = coords.lng;
   }
   (state.locations[bv] ??= []).push(loc);
-  saveDraft();
   renderList();
+  persist();
 }
 
 function removeLocation(bv, idx) {
@@ -165,8 +206,8 @@ function removeLocation(bv, idx) {
   if (!list) return;
   list.splice(idx, 1);
   if (!list.length) delete state.locations[bv];
-  saveDraft();
   renderList();
+  persist();
 }
 
 function updateStats() {

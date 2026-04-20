@@ -41,6 +41,9 @@ body:not(.admin) { overflow: hidden; }
   gap: 10px;
 }
 .status { color: var(--muted); font-size: 12px; }
+.status[data-kind="ok"] { color: var(--accent); }
+.status[data-kind="pending"] { color: var(--warn); }
+.status[data-kind="err"] { color: #f15a5a; }
 
 .btn {
   background: var(--panel-2);
