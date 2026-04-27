@@ -611,5 +611,103 @@
       "lng": -94.8336228,
       "contributor": "luna0607"
     }
+  ],
+  "BV1nH4y1K7WB": [
+    {
+      "place_name": "Hoyt小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Hoyt,+KS+66440/@39.2497235,-95.7215157,2454m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87bfab5b2d65fe65:0xe2b95ae2b9ee1a3c!8m2!3d39.247775!4d-95.706371!16zL20vMHQ3ZjQ?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.2497235,
+      "lng": -95.7215157,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "邮局",
+      "google_maps_url": "https://www.google.com/maps/place/United+States+Postal+Service/@39.2486623,-95.7086313,17z/data=!3m1!4b1!4m6!3m5!1s0x87bfab69fbf293ed:0xffb8f9c7a6d9f4f3!8m2!3d39.2486623!4d-95.7060564!16s%2Fg%2F1tdlc75x?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "24小时不锁",
+      "lat": 39.2486623,
+      "lng": -95.7086313,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "唯一开门的杂货店",
+      "google_maps_url": "https://www.google.com/maps/place/Hoyt+Liquor+Store/@39.2488167,-95.7098768,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgIDGmvy8YQ!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFE8aXHxkNQm-160hxL9KRWeb0rKiclyKaLI_t4WhA-ul7gRoZFHLRA8n6QgJuGIWKgp1dGvM0PVT_srCWSE3a1tB4_SadzfsNT_SuRMxGMtxK4iVR2qe5dV0nUN6Lp-nmPWJzv%3Dw86-h114-k-no!7i3000!8i4000!4m11!1m2!2m1!1sgrocery+store+hoyt+kansas!3m7!1s0x87bfab0cd93848dd:0x97c85001c39ca2c2!8m2!3d39.2490535!4d-95.7098773!10e5!15sChlncm9jZXJ5IHN0b3JlIGhveXQga2Fuc2FzWhsiGWdyb2Nlcnkgc3RvcmUgaG95dCBrYW5zYXOSAQxsaXF1b3Jfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUTFOWFZsVkVSbkVBReABAPoBBAgsECQ!16s%2Fg%2F11f9j8xtd9?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Hoyt Liquor Store",
+      "lat": 39.2488167,
+      "lng": -95.7098768,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Mayetta小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Mayetta,+KS+66509/@39.3380439,-95.7422475,15z/data=!3m1!4b1!4m6!3m5!1s0x87bfad51b6a6de87:0xa785b05dcbfcbb45!8m2!3d39.3391585!4d-95.7227399!16zL20vMHQ3Zmg?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Mayetta",
+      "lat": 39.3380439,
+      "lng": -95.7422475,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Mayetta邮局",
+      "google_maps_url": "https://www.google.com/maps/place/United+States+Postal+Service/@39.3380439,-95.7422475,15z/data=!4m6!3m5!1s0x87bfad519cb6aac1:0xcd3f35cf1d825f00!8m2!3d39.3379341!4d-95.7240379!16s%2Fg%2F1v5k3jpz?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.3380439,
+      "lng": -95.7422475,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Mayetta杂货店",
+      "google_maps_url": "https://www.google.com/maps/place/The+Trading+Post/@39.3381265,-95.7240954,19.23z/data=!4m14!1m7!3m6!1s0x87bfad519cb6aac1:0xcd3f35cf1d825f00!2sUnited+States+Postal+Service!8m2!3d39.3379341!4d-95.7240379!16s%2Fg%2F1v5k3jpz!3m5!1s0x87bfad898e103d55:0x1cf83035b46ed83a!8m2!3d39.3383055!4d-95.7230511!16s%2Fg%2F11rm1d5_0k?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.3381265,
+      "lng": -95.7240954,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Holton小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Holton,+KS+66436/@39.3381265,-95.7240954,19.23z/data=!4m6!3m5!1s0x87be4b266a8f5cd5:0x1c0c99f2b9069e0d!8m2!3d39.4652724!4d-95.7363723!16s%2Fg%2F11bc6krnsl?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.3381265,
+      "lng": -95.7240954,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Holton中餐馆China",
+      "google_maps_url": "https://www.google.com/maps/place/China/@39.4628787,-95.7375086,17z/data=!3m1!4b1!4m6!3m5!1s0x87be4b2c221c77fd:0xc72cf82087024e65!8m2!3d39.4628746!4d-95.7349283!16s%2Fg%2F11bbtkjp8l?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.4628787,
+      "lng": -95.7375086,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Netawaka小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Netawaka,+KS+66516/@39.6022495,-95.7307512,15z/data=!3m1!4b1!4m6!3m5!1s0x87bfccbb06d08c35:0x8dded609feaca68a!8m2!3d39.6027744!4d-95.7183173!16zL20vMHQ3ZnY?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.6022495,
+      "lng": -95.7307512,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Fairview小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Fairview,+KS+66425/@39.8387136,-95.7653371,14z/data=!3m1!4b1!4m6!3m5!1s0x87957ff977242301:0xa2727367b8ac375b!8m2!3d39.8411112!4d-95.7280415!16zL20vMHQ1YzQ?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.8387136,
+      "lng": -95.7653371,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Fairview邮局",
+      "google_maps_url": "https://www.google.com/maps/place/United+States+Postal+Service/@39.8399905,-95.7305105,17z/data=!3m1!4b1!4m6!3m5!1s0x87bfd5557d16e6c7:0x731a8e2b0b55b6c4!8m2!3d39.8399864!4d-95.7279302!16s%2Fg%2F1tgj99_d?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.8399905,
+      "lng": -95.7305105,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Dawson小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Dawson,+NE+68337/@40.1309294,-95.8399122,15z/data=!3m1!4b1!4m6!3m5!1s0x879598c4ad89fe1f:0x248f12390ac4e5bf!8m2!3d40.1311123!4d-95.8305486!16zL20vMHg5MjE?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.1309294,
+      "lng": -95.8399122,
+      "contributor": "luna0607"
+    }
   ]
 }
