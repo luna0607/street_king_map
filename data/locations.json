@@ -709,5 +709,31 @@
       "lng": -95.8399122,
       "contributor": "luna0607"
     }
+  ],
+  "BV1yp421D7SC": [
+    {
+      "place_name": "耶马希小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Yemassee,+SC/@32.6617695,-80.9175424,12z/data=!3m1!4b1!4m6!3m5!1s0x88fbff1b72a0628d:0xe84e1c0804dffb70!8m2!3d32.6884817!4d-80.8515212!16zL20vMDEza3lo?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Yemassee",
+      "lat": 32.6617695,
+      "lng": -80.9175424,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "穷鬼酒店",
+      "google_maps_url": "https://www.google.com/maps/place/Knights+Inn+Yemassee/@32.6289665,-83.18573,8z/data=!4m17!1m5!2m4!1sknights+inn+!5m2!5m1!1s2026-05-03!3m10!1s0x88fbfefdd46c39ef:0x208ded4c730348fd!5m3!1s2026-05-03!4m1!1i2!8m2!3d32.6284704!4d-80.8778751!15sCgtrbmlnaHRzIGlubiIDiAEBWg0iC2tuaWdodHMgaW5ukgEFaG90ZWzgAQA!16s%2Fg%2F1tc_xg84?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Knights Inn",
+      "lat": 32.6289665,
+      "lng": -83.18573,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "早餐店",
+      "google_maps_url": "https://www.google.com/maps/place/Waffle+House/@32.6301419,-81.1686812,10z/data=!4m10!1m2!2m1!1sWaffle+House!3m6!1s0x88fbf96ec0367589:0xd35b1a35774c661a!8m2!3d32.6321518!4d-80.8748392!15sCgxXYWZmbGUgSG91c2UiA4gBAVoOIgx3YWZmbGUgaG91c2WSARRicmVha2Zhc3RfcmVzdGF1cmFudOABAA!16s%2Fg%2F1vqmk6s9?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Waffle House",
+      "lat": 32.6301419,
+      "lng": -81.1686812,
+      "contributor": "luna0607"
+    }
   ]
 }
