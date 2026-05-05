@@ -735,5 +735,211 @@
       "lng": -81.1686812,
       "contributor": "luna0607"
     }
+  ],
+  "BV1qx4y1877k": [
+    {
+      "place_name": "里弗顿",
+      "google_maps_url": "https://www.google.com/maps/place/Riverton,+IA+51650/@40.6934415,-95.8090272,11.45z/data=!4m6!3m5!1s0x8794eecf81ae822f:0x73890464a1914002!8m2!3d40.686945!4d-95.5686027!16zL20vMHN6bjI?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.6934415,
+      "lng": -95.8090272,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "汉堡",
+      "google_maps_url": "https://www.google.com/maps/place/Hamburg,+IA+51640/@40.6063897,-95.676862,14z/data=!3m1!4b1!4m15!1m8!3m7!1s0x8794eecf81ae822f:0x73890464a1914002!2sRiverton,+IA+51650!3b1!8m2!3d40.686945!4d-95.5686027!16zL20vMHN6bjI!3m5!1s0x8794f96946eef553:0x913d6cb2d6227c32!8m2!3d40.6044458!4d-95.6577711!16zL20vMHN6bTE?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.6063897,
+      "lng": -95.676862,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Rock Port",
+      "google_maps_url": "https://www.google.com/maps/place/Rock+Port,+MO+64482/@40.1512603,-97.4937355,6.35z/data=!4m6!3m5!1s0x87951b661ca26999:0x494d054f134c6e59!8m2!3d40.4116594!4d-95.5148427!16zL20vMHdzOXM?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.1512603,
+      "lng": -97.4937355,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "里弗顿邮局",
+      "google_maps_url": "https://www.google.com/maps/place/United+States+Postal+Service/@40.0038854,-97.4940241,6z/data=!4m10!1m2!2m1!1sriverton+post+office!3m6!1s0x8794f02391f2ced1:0x612890fab0846d8b!8m2!3d40.687478!4d-95.568654!15sChRyaXZlcnRvbiBwb3N0IG9mZmljZVoWIhRyaXZlcnRvbiBwb3N0IG9mZmljZZIBC3Bvc3Rfb2ZmaWNl4AEA!16s%2Fg%2F1tj1slgn?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "进行了一段尬聊",
+      "lat": 40.0038854,
+      "lng": -97.4940241,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "汉堡药店（杂货店）",
+      "google_maps_url": "https://www.google.com/maps/place/Stoner+Drug+Co/@40.6059225,-95.9755938,10z/data=!4m10!1m2!2m1!1sstoner+drug!3m6!1s0x8794f96f14bba3fd:0x4d50babc71e91b5e!8m2!3d40.6046416!4d-95.6579062!15sCgtzdG9uZXIgZHJ1Z1oNIgtzdG9uZXIgZHJ1Z5IBCWRydWdzdG9yZeABAA!16s%2Fg%2F1tfbtcy5?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.6059225,
+      "lng": -95.9755938,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "汉堡图书馆",
+      "google_maps_url": "https://www.google.com/maps/place/Hamburg+Public+Library/@40.6063168,-95.6599827,17z/data=!3m1!4b1!4m6!3m5!1s0x8794f96f9a63bed9:0xe0d02a16cafb6d28!8m2!3d40.6063168!4d-95.6574078!16s%2Fg%2F11cjkw9vnv?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.6063168,
+      "lng": -95.6599827,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "布朗维尔",
+      "google_maps_url": "https://www.google.com/maps/place/Brownville,+NE+68321/@40.3984802,-95.6824491,14z/data=!3m1!4b1!4m6!3m5!1s0x879506bdd5b0bd5b:0xb654ffcda533db94!8m2!3d40.3977793!4d-95.6580455!16zL20vMHg4Yjk?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.3984802,
+      "lng": -95.6824491,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "布朗维尔饭店",
+      "google_maps_url": "https://www.google.com/maps/place/The+Lyceum/@40.3984802,-95.6824491,14z/data=!4m6!3m5!1s0x879506bcd8a974b9:0x6482dc8049edb874!8m2!3d40.3976059!4d-95.6581182!16s%2Fg%2F1vnnjx9y?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "只供应午饭",
+      "lat": 40.3984802,
+      "lng": -95.6824491,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "布朗维尔杂货店",
+      "google_maps_url": "https://www.google.com/maps/place/Brownville+Market/@40.3976059,-95.6606931,17z/data=!4m6!3m5!1s0x879506bc5670be0d:0xd4c92b1005856de!8m2!3d40.3977311!4d-95.6590483!16s%2Fg%2F11cp5qtmlj?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "可领取小镇宣传册",
+      "lat": 40.3976059,
+      "lng": -95.6606931,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1Jp421S7wV": [
+    {
+      "place_name": "林肯",
+      "google_maps_url": "https://www.google.com/maps/place/Lincoln,+NE/@40.8042454,-96.8506152,11z/data=!3m1!4b1!4m6!3m5!1s0x8796be59ca561265:0x633a859b1fd5deb9!8m2!3d40.8136634!4d-96.7025764!16zL20vMDRneGY?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8042454,
+      "lng": -96.8506152,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "大教堂",
+      "google_maps_url": "https://www.google.com/maps/place/Saint+Mary's+Catholic+Church,+Lincoln/@40.8076737,-96.7029478,1792m/data=!3m1!1e3!4m10!1m2!2m1!1schurch!3m6!1s0x8796bef956929775:0x37c8ee7b6956973d!8m2!3d40.8095492!4d-96.7008374!15sCgZjaHVyY2haCCIGY2h1cmNokgEPY2F0aG9saWNfY2h1cmNomgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU4wYVRWZlUzWkJSUkFC4AEA-gEECAAQSw!16s%2Fg%2F1tfs1kzn?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8076737,
+      "lng": -96.7029478,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1Qm411277C": [
+    {
+      "place_name": "堪萨斯",
+      "google_maps_url": "https://www.google.com/maps/place/Kansas+City,+MO/@39.0902344,-94.5755075,117573m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87c0f75eafe99997:0x558525e66aaa51a2!8m2!3d39.0997265!4d-94.5785667!16zL20vMDRmX2Q?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0902344,
+      "lng": -94.5755075,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "假冒伪劣中餐馆（drive-thru only）",
+      "google_maps_url": "https://www.google.com/maps/place/Golden+Seafood/@38.6098466,-104.8257721,3787831m/data=!3m1!1e3!4m10!1m2!2m1!1sgolden+sea+food!3m6!1s0x87c0fb28121603f3:0x34336e4980a41563!8m2!3d39.0763695!4d-94.5199829!15sCg5nb2xkZW4gc2VhZm9vZCIDiAEBWhAiDmdvbGRlbiBzZWFmb29kkgEQY2hpbmVzZV90YWtlYXdheeABAA!16s%2Fg%2F1tt1hrcy?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6098466,
+      "lng": -104.8257721,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "全黑人便利店",
+      "google_maps_url": "https://www.google.com/maps/place/2604+E+27th+St,+Kansas+City,+MO+64127/@39.0773389,-94.554662,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0fabab528911f:0xa94b499b615573bf!8m2!3d39.0773389!4d-94.5520871!16s%2Fg%2F11c5cgz8fk?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0773389,
+      "lng": -94.554662,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "全黑人麦当劳",
+      "google_maps_url": "https://www.google.com/maps/place/1421+Prospect+Ave,+Kansas+City,+MO+64127/@39.0954583,-94.5536457,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0fa906bb9390d:0x76802e0a4efccfd3!8m2!3d39.0954583!4d-94.5510708!16s%2Fg%2F11c2dyb5_p?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0954583,
+      "lng": -94.5536457,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "社区食堂旁边的便利店",
+      "google_maps_url": "https://www.google.com/maps/place/Harold's+Drive-In/@39.1041637,-94.5667114,17z/data=!4m6!3m5!1s0x87c0f07e4c6d5b6b:0x1eff55bbdd8afec2!8m2!3d39.10516!4d-94.565278!16s%2Fg%2F1tp_6xz2?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "可以上厕所",
+      "lat": 39.1041637,
+      "lng": -94.5667114,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "社区食堂（God bless you!）",
+      "google_maps_url": "https://www.google.com/maps/place/NourishKC+Community+Kitchen/@39.10516,-94.565278,17z/data=!4m14!1m7!3m6!1s0x87c0f07e4c6d5b6b:0x1eff55bbdd8afec2!2sHarold's+Drive-In!8m2!3d39.10516!4d-94.565278!16s%2Fg%2F1tp_6xz2!3m5!1s0x87c0f05b9e37f569:0x5a84a0705decfd23!8m2!3d39.1041637!4d-94.5641365!16s%2Fg%2F1tj9cj8f?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.10516,
+      "lng": -94.565278,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "拉丁美洲超市",
+      "google_maps_url": "https://www.google.com/maps/place/Gringo+Loco/@39.1056735,-94.5387057,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0faf67c1669cb:0x19eefdebe9a73c99!8m2!3d39.1056735!4d-94.5361308!16s%2Fg%2F11bz_4ghk2?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.1056735,
+      "lng": -94.5387057,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Prospect Ave加油站（无厕所）",
+      "google_maps_url": "https://www.google.com/maps/place/Everyday/@39.1032312,-94.5534982,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0fa88b99bac41:0x6908c8fa8179f4e4!8m2!3d39.1032312!4d-94.5509233!16s%2Fg%2F11t9wpfqv3?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "友善老姐告知附近麦当劳有厕所以及怎么走",
+      "lat": 39.1032312,
+      "lng": -94.5534982,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "黑人炸鱼店",
+      "google_maps_url": "https://www.google.com/maps/place/Lutfis+Fried+Fish/@39.0595081,-94.5555547,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0e599cbc1a28d:0x517bd442e9d38f7a!8m2!3d39.0595081!4d-94.5529798!16s%2Fg%2F11vd5xhgls?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0595081,
+      "lng": -94.5555547,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "高端美术馆",
+      "google_maps_url": "https://www.google.com/maps/place/The+Nelson-Atkins+Museum+of+Art/@39.0595008,-94.5941792,13z/data=!4m10!1m2!2m1!1smuseum!3m6!1s0x87c0efeadd9f2045:0x2b569169f9c6c4c5!8m2!3d39.0449506!4d-94.5809284!15sCgZtdXNldW1aCCIGbXVzZXVtkgEKYXJ0X211c2V1bZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOdGRsazNNVTkzRUFF4AEA-gEFCNcCEEY!16zL20vMDMyMWpm?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0595008,
+      "lng": -94.5941792,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "黑人炸鱼薯条店",
+      "google_maps_url": "https://www.google.com/maps/place/J'S+Fish+And+Chicken/@39.1349852,-94.6566503,14z/data=!4m10!1m2!2m1!1s%26+chicken!3m6!1s0x87c0f3f6b9bafd8d:0x948fe758a13f2b09!8m2!3d39.1401948!4d-94.6594509!15sCgkmIGNoaWNrZW5aCyIJJiBjaGlja2VukgESY2hpY2tlbl9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5vYkU5MmF6aFJSUkFC4AEA-gEFCI0BEEk!16s%2Fg%2F11cs5q1y_w?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "堪萨斯州的堪萨斯城",
+      "lat": 39.1349852,
+      "lng": -94.6566503,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "废弃商店",
+      "google_maps_url": "https://www.google.com/maps/place/1103+Quindaro+Blvd,+Kansas+City,+KS+66104/@39.1353827,-94.6381923,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0f1509c123aa5:0x3af1bd9e704017d0!8m2!3d39.1353827!4d-94.6381923!16s%2Fg%2F11qg144600?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.1353827,
+      "lng": -94.6381923,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "地下室酒水店",
+      "google_maps_url": "https://www.google.com/maps/place/437+Quindaro+Blvd,+Kansas+City,+KS+66101/@39.130191,-94.6237225,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0f13ece3b828d:0x6fffd17cb6703b97!8m2!3d39.130191!4d-94.6211476!16s%2Fg%2F11c2hmbf18?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.130191,
+      "lng": -94.6237225,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "汉堡店（越南人开的）",
+      "google_maps_url": "https://www.google.com/maps/place/Texas+Tom+Burger/@39.1315942,-94.629834,17z/data=!3m1!4b1!4m6!3m5!1s0x87c0f146ddfdc283:0x50bf0eb943685a5!8m2!3d39.1315942!4d-94.6272591!16s%2Fg%2F1260qc473?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Texas Tom Burger",
+      "lat": 39.1315942,
+      "lng": -94.629834,
+      "contributor": "luna0607"
+    }
   ]
 }
