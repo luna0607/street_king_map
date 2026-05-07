@@ -941,5 +941,189 @@
       "lng": -94.629834,
       "contributor": "luna0607"
     }
+  ],
+  "BV1kr421u7H8": [
+    {
+      "place_name": "Elkhorn",
+      "google_maps_url": "https://www.google.com/maps/place/Elkhorn,+Omaha,+NE/@41.270611,-96.3911333,12z/data=!3m1!4b1!4m6!3m5!1s0x8793e558102be00b:0x1672aaf0aee1d3a2!8m2!3d41.2831958!4d-96.2368465!16s%2Fm%2F0204ly4?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.270611,
+      "lng": -96.3911333,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "滑铁卢",
+      "google_maps_url": "https://www.google.com/maps/place/Waterloo,+NE+68069/@41.2866827,-96.3143745,14z/data=!3m1!4b1!4m6!3m5!1s0x8793e4dc2ec03f8d:0xd7821ed6ccc49aab!8m2!3d41.2872781!4d-96.2880569!16s%2Fm%2F020615p?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.2866827,
+      "lng": -96.3143745,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "办活动的地方（夏日市场）",
+      "google_maps_url": "https://www.google.com/maps/place/Junkstock/@41.2866827,-96.3143745,14z/data=!4m6!3m5!1s0x8793fad460b44c13:0xa4af361eddb7a655!8m2!3d41.2690658!4d-96.2739944!16s%2Fg%2F11c1qclt5m?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.2866827,
+      "lng": -96.3143745,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "图书馆",
+      "google_maps_url": "https://www.google.com/maps/place/Agnes+Robinson+Waterloo+Public+Library/@41.2852884,-96.3608265,13z/data=!4m10!1m2!2m1!1slibrary!3m6!1s0x8793e4dc83d53657:0x8f2b28f10a204932!8m2!3d41.2852918!4d-96.2887053!15sCgdsaWJyYXJ5kgEOcHVibGljX2xpYnJhcnngAQA!16s%2Fm%2F0j9b3p5?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "5刀一包book sale",
+      "lat": 41.2852884,
+      "lng": -96.3608265,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "明登",
+      "google_maps_url": "https://www.google.com/maps/place/Minden,+IA+51553/@41.4699476,-95.5826348,14z/data=!3m1!4b1!4m6!3m5!1s0x879312b24093d749:0x657cdbec4eb86859!8m2!3d41.4669362!4d-95.5427822!16zL20vMHQybG0?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.4699476,
+      "lng": -95.5826348,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "尼欧拉小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Blue+Cow+Market/@41.4515955,-95.6278762,15z/data=!4m6!3m5!1s0x8793733e599933db:0xa65f118cdb6068e6!8m2!3d41.4488313!4d-95.6154759!16s%2Fg%2F1tdgvx58?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "高中生哥们交谈",
+      "lat": 41.4515955,
+      "lng": -95.6278762,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "尼欧拉邮局",
+      "google_maps_url": "https://www.google.com/maps/place/United+States+Postal+Service/@41.4488313,-95.6180562,17z/data=!4m6!3m5!1s0x8793733c880c72af:0xdf41b0049de7bb1d!8m2!3d41.4487017!4d-95.6168166!16s%2Fg%2F1td9f7m5?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.4488313,
+      "lng": -95.6180562,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1CM4m1d7sn": [
+    {
+      "place_name": "纽瓦克宾夕法尼亚车站",
+      "google_maps_url": "https://www.google.com/maps/place/Newark+Penn+Station/@40.7344292,-74.1672089,17z/data=!4m10!1m2!2m1!1snewark+penn+station!3m6!1s0x89c2538f2a463203:0xe69f8a21e2a52f2a!8m2!3d40.7341483!4d-74.1645065!15sChNuZXdhcmsgcGVubiBzdGF0aW9uWhUiE25ld2FyayBwZW5uIHN0YXRpb26SAQt0cmFpbl9kZXBvdOABAA!16s%2Fg%2F11szjw3vlf?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.7344292,
+      "lng": -74.1672089,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "世贸中心地铁站",
+      "google_maps_url": "https://www.google.com/maps/place/World+Trade+Center/@40.7122241,-74.0135018,17z/data=!4m10!1m2!2m1!1sWorld+Trade+Center+stattion!3m6!1s0x89c25a191cac2c15:0x7f33d7e5a45131b9!8m2!3d40.712097!4d-74.010139!15sChpXb3JsZCBUcmFkZSBDZW50ZXIgc3RhdGlvbpIBDnN1YndheV9zdGF0aW9u4AEA!16zL20vMDlyOXYy?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.7122241,
+      "lng": -74.0135018,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV17i421X7Ai": [
+    {
+      "place_name": "24小时餐厅偶遇黑人npc",
+      "google_maps_url": "https://www.google.com/maps/place/Rusty's+Flavor/@40.8139694,-73.962657,15z/data=!3m1!4b1!4m6!3m5!1s0x89c2f6717cf12ba9:0xf81f67833cca1790!8m2!3d40.8139709!4d-73.9442246!16s%2Fg%2F11cmd1rc8m?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8139694,
+      "lng": -73.962657,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "公寓门口吃个饭",
+      "google_maps_url": "https://www.google.com/maps/@40.8147762,-73.9439835,3a,69.7y,123.16h,98.08t/data=!3m7!1e1!3m5!1s42_jj0cXxJv6hX3asQaRXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.081380352454161%26panoid%3D42_jj0cXxJv6hX3asQaRXw%26yaw%3D123.16494724964475!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8147762,
+      "lng": -73.9439835,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "没开门的黑人饭店",
+      "google_maps_url": "https://www.google.com/maps/place/Dr.+Rosetta+Garries,+MD/@40.8166963,-73.9481509,17.96z/data=!4m9!1m2!2m1!1sbaraka+restaurant!3m5!1s0x89c2f67049a41479:0xd1faafbefff6d8a0!8m2!3d40.8168306!4d-73.946087!16s%2Fg%2F1tf1cpfr?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8166963,
+      "lng": -73.9481509,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "开门了的黑人饭店",
+      "google_maps_url": "https://www.google.com/maps/place/King+Barka/@40.8166963,-73.9481509,17.96z/data=!4m10!1m2!2m1!1sbaraka+restaurant!3m6!1s0x89c2f67033a53531:0xf0c9d28b458515fd!8m2!3d40.8167896!4d-73.9467678!15sChFiYXJha2EgcmVzdGF1cmFudFoTIhFiYXJha2EgcmVzdGF1cmFudJIBE2phbWFpY2FuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlVkRTVNUVhOblJSQULgAQD6AQQIABBJ!16s%2Fg%2F11c1ldb7sd?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8166963,
+      "lng": -73.9481509,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "历史建筑",
+      "google_maps_url": "https://www.google.com/maps/place/Hotel+Theresa/@40.8156632,-73.968731,14z/data=!3m1!5s0x89c2f60d4dfda393:0x89488132bb79a56e!4m6!3m5!1s0x89c2f612958a6eb5:0x49cc21fc00ea6a7b!8m2!3d40.8087589!4d-73.9488673!16zL20vMDdsbWc4?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Harlem主街",
+      "lat": 40.8156632,
+      "lng": -73.968731,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "哥伦比亚大学",
+      "google_maps_url": "https://www.google.com/maps/place/Columbia+University/@40.8087574,-73.9672997,15z/data=!4m6!3m5!1s0x89c2f63e96d30dc9:0x577933f947e52750!8m2!3d40.8075355!4d-73.9625727!16zL20vMDF3NW0?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "但是门口有保安没进去",
+      "lat": 40.8087574,
+      "lng": -73.9672997,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "时代广场",
+      "google_maps_url": "https://www.google.com/maps/place/Times+Square/@40.7579747,-73.9881229,17z/data=!3m2!4b1!5s0x89c258f52ad45a79:0x8131f549e8af76f4!4m6!3m5!1s0x89c25855c6480299:0x55194ec5a1ae072e!8m2!3d40.7579747!4d-73.9855426!16zL20vMDdxZHI?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.7579747,
+      "lng": -73.9881229,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "时代广场麦当劳",
+      "google_maps_url": "https://www.google.com/maps/place/McDonald's/@40.7579747,-73.9881229,17z/data=!3m1!5s0x89c259aabb9f5417:0xad1d088aed06522f!4m6!3m5!1s0x89c2597777397641:0x4387a82ee10d3e3b!8m2!3d40.7577297!4d-73.9853627!16s%2Fg%2F11fld77pvs?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.7579747,
+      "lng": -73.9881229,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1NU411f791": [
+    {
+      "place_name": "巴菲特股东大会现场",
+      "google_maps_url": "https://www.google.com/maps/place/Omaha+Convention+Center,+Berkshire+Hathaway/@41.2643528,-95.9290829,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICZ1eXgtwE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAF9g2jipXLQ8yoG59Juv3BVKSSnp17Hv8Vw7Fw445YJhll1eTkyJ2E5A883OPDWhyXbbJqWpY7rodVEouuLEYbWnR6_zl7qL9s88Eu7VDgTjoV6BQ9IFHnxzB4Xc57FDOzfScaxtg%3Dw114-h86-k-no!7i4032!8i3024!4m7!3m6!1s0x87938fb98e7cba1f:0xa07eb8f214bafcf4!8m2!3d41.2643488!4d-95.9279009!10e5!16s%2Fg%2F11h1z831qr?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.2643528,
+      "lng": -95.9290829,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "巴菲特的家",
+      "google_maps_url": "https://www.google.com/maps/place/5505+Farnam+St,+Omaha,+NE+68132/@41.2575762,-96.0168923,15z/data=!3m1!4b1!4m6!3m5!1s0x87938dc5cd79393d:0x76e40b902d43768c!8m2!3d41.2575777!4d-95.9984599!16s%2Fg%2F11c2fkj1_6?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.2575762,
+      "lng": -96.0168923,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "巴菲特纪录片中的麦当劳",
+      "google_maps_url": "https://www.google.com/maps/place/McDonald's/@41.2575684,-96.0478993,13z/data=!4m10!1m2!2m1!1sMcDonald's!3m6!1s0x87938e71cfb4a64f:0x53b3789775109a9f!8m2!3d41.258775!4d-95.973665!15sCgpNY0RvbmFsZCdzIgOIAQFaDCIKbWNkb25hbGQnc5IBFGZhc3RfZm9vZF9yZXN0YXVyYW504AEA!16s%2Fg%2F1th1vkbb?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.2575684,
+      "lng": -96.0478993,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "伯克希尔公司总部",
+      "google_maps_url": "https://www.google.com/maps/place/Blackstone+Plaza/@41.2575684,-96.0478993,13z/data=!3m1!5s0x87938e689b5af833:0xe40a4045c9fcd041!4m6!3m5!1s0x87938f6c674d53ab:0xff6a8817e6c7b332!8m2!3d41.2574318!4d-95.9658403!16s%2Fg%2F11j6sv42p1?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Blackstone Plaza",
+      "lat": 41.2575684,
+      "lng": -96.0478993,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "黑人餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/Get+N+Go+Fish/@41.2749423,-95.9470294,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICXzsKWUQ!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFMtDlHCIT63wAgzH0q1ExpMnSzAGRs-OHxKZpbciGr-Q1SuLAv0clWzRJfa-xIJi_OE9kDZRCAysMChK_r9NdSpHfgJv6Ckvq_xO6q-NjyON6nixpyqfJtFZJgB9shLGHPQwQ%3Dw114-h86-k-no!7i4000!8i3000!4m7!3m6!1s0x87938e317175ad77:0xe6ade50c8bf10370!8m2!3d41.2749412!4d-95.9472564!10e5!16s%2Fg%2F1tjl6dq2?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.2749423,
+      "lng": -95.9470294,
+      "contributor": "luna0607"
+    }
   ]
 }
