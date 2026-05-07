@@ -1175,5 +1175,79 @@
       "lng": -73.8843976,
       "contributor": "luna0607"
     }
+  ],
+  "BV1bz421b7Tx": [
+    {
+      "place_name": "泰伯",
+      "google_maps_url": "https://www.google.com/maps/place/Tabor,+IA+51653/@40.896865,-95.7105528,14z/data=!3m1!4b1!4m6!3m5!1s0x87948bd6acea63bb:0x7eb626a397b1b115!8m2!3d40.8983329!4d-95.6713891!16zL20vMDEzY2hn?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "百人小镇",
+      "lat": 40.896865,
+      "lng": -95.7105528,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "泰伯图书馆",
+      "google_maps_url": "https://www.google.com/maps/place/Tabor+Public+Library/@40.8999266,-95.6741712,17z/data=!4m10!1m2!2m1!1stabor+library!3m6!1s0x87948961ee318535:0xee72c81b36c566cb!8m2!3d40.899927!4d-95.6716551!15sCg10YWJvciBsaWJyYXJ5kgEOcHVibGljX2xpYnJhcnngAQA!16s%2Fm%2F0j8y0h8?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8999266,
+      "lng": -95.6741712,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "市政厅",
+      "google_maps_url": "https://www.google.com/maps/place/Tabor+City+Hall/@40.8999266,-95.6741712,17z/data=!4m6!3m5!1s0x87948bdf23996819:0xddfb9c7ab003fb82!8m2!3d40.8981082!4d-95.6711639!16s%2Fg%2F1hdzjmnpn?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8999266,
+      "lng": -95.6741712,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "墓地",
+      "google_maps_url": "https://www.google.com/maps/place/Tabor+Cemetery/@44.6026437,-94.4215897,17z/data=!4m10!1m2!2m1!1sTabor+cemetery!3m6!1s0x87f50ab894555555:0x2ad39e4507f26784!8m2!3d44.6026437!4d-94.4170836!15sCg5UYWJvciBjZW1ldGVyeVoQIg50YWJvciBjZW1ldGVyeZIBCGNlbWV0ZXJ5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5UVU52TXpsbWRrbDNFQUXgAQD6AQQIABAX!16s%2Fg%2F11w34yn0b0?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.6026437,
+      "lng": -94.4215897,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "莫尔文",
+      "google_maps_url": "https://www.google.com/maps/place/Malvern,+IA+51551/@41.0017511,-95.6207628,14z/data=!3m1!4b1!4m6!3m5!1s0x8794850d2b2efd3f:0x3ff8c351cdbdbf47!8m2!3d41.006292!4d-95.5851456!16zL20vMHQxaDU?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.0017511,
+      "lng": -95.6207628,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "莫尔文餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/The+Salty+Heifer+Cafe/@41.0016765,-95.5851695,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICD_omtigE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFWU0Rv431SrhOxAzwX60JmYayiks68XV1q3TAWa7yS19pn5tK4VLqTE-JO95UEEqSG7mW6Nfo--YVonGNMt_3YTRXuYz1A2WnlXqKWyATKVVDJc2_WZ8SumKZj-i10JwLSr913-w%3Dw114-h86-k-no!7i4000!8i3000!4m7!3m6!1s0x8794856a2a686377:0x686501a252bc4!8m2!3d41.0016467!4d-95.5848943!10e5!16s%2Fg%2F1tdcs0qk?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.0016765,
+      "lng": -95.5851695,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "斯坦顿",
+      "google_maps_url": "https://www.google.com/maps/place/Stanton,+IA+51573/@40.9810871,-95.1404583,14z/data=!3m1!4b1!4m6!3m5!1s0x8794b258b880cdab:0x628f81fea692db9a!8m2!3d40.9777689!4d-95.1016534!16zL20vMHQxc2g?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9810871,
+      "lng": -95.1404583,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "斯坦顿水塔",
+      "google_maps_url": "https://www.google.com/maps/place/Stanton+Water+Tower/@40.972692,-95.1040346,17z/data=!3m1!4b1!4m6!3m5!1s0x8794b3004500a36b:0xafa9415e68f41c5a!8m2!3d40.972692!4d-95.1014543!16s%2Fg%2F11x8_m71jx?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "可眺望",
+      "lat": 40.972692,
+      "lng": -95.1040346,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "瑞典文化中心",
+      "google_maps_url": "https://www.google.com/maps/place/Swedish+Heritage+%26+Cultural+Center/@40.9820315,-95.1040607,17z/data=!3m1!4b1!4m6!3m5!1s0x8794b2f5ff78935d:0x9ec8aa0b40ddeac5!8m2!3d40.9820315!4d-95.1014804!16s%2Fg%2F11b_3g21hr?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9820315,
+      "lng": -95.1040607,
+      "contributor": "luna0607"
+    }
   ]
 }
