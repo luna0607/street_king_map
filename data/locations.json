@@ -1249,5 +1249,101 @@
       "lng": -95.1040607,
       "contributor": "luna0607"
     }
+  ],
+  "BV1By411q719": [
+    {
+      "place_name": "Pacific Junction",
+      "google_maps_url": "https://www.google.com/maps/place/Pacific+Junction,+IA+51561/@41.0201269,-95.8684059,25417m/data=!3m1!1e3!4m6!3m5!1s0x87947c63c4412f3b:0xa06a1631a589dc4b!8m2!3d41.0187126!4d-95.8010851!16zL20vMHQxaGo?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.0201269,
+      "lng": -95.8684059,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "铁路桥",
+      "google_maps_url": "https://www.google.com/maps/place/Historic+Plattsmouth+Iron+Toll+Bridge/@40.9998646,-95.8686099,640m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87947aefc2e22235:0xc95439804285bfb4!8m2!3d40.9998646!4d-95.8686099!16s%2Fm%2F0272s18?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9998646,
+      "lng": -95.8686099,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "公路桥（收费）",
+      "google_maps_url": "https://www.google.com/maps/place/Historic+Bellevue+Iron+Toll+Bridge/@41.1372073,-95.8830497,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICr2evy0QE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHeE4pA4MUGtozP7hUnnbE05BRBYYfrgK9D380YjtSsqUO-DRbtHkibtGsBnJus1ABJaTV0OMhZGBZc8isY3OlwMG2VIxE5eFnongHbDkB0VR6yCrcXLl8lf_BvL85SSYhGwCkfnw%3Dw86-h114-k-no!7i3024!8i4032!4m11!1m2!2m1!1s+toll+bridge!3m7!1s0x879387f31e07acaf:0xd0831363d61f1555!8m2!3d41.1372073!4d-95.8830497!10e5!15sCgt0b2xsIGJyaWRnZZIBE2hpc3RvcmljYWxfbGFuZG1hcmvgAQA!16s%2Fm%2F0272sv0?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.1372073,
+      "lng": -95.8830497,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Plattsmouth小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Plattsmouth,+NE+68048/@41.0016275,-95.8952029,13z/data=!3m1!4b1!4m6!3m5!1s0x87947a80466874a9:0x1ba5bdff1dcc505a!8m2!3d41.0111103!4d-95.8808424!16zL20vMHg1NHY?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.0016275,
+      "lng": -95.8952029,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Plattsmouth镇上唯一的早餐店",
+      "google_maps_url": "https://www.google.com/maps/place/Mom's+Cafe+%26+Catering/@41.0016275,-95.8952029,13z/data=!4m6!3m5!1s0x87947a626a60fc55:0x3960c79840fe630c!8m2!3d41.0113796!4d-95.884401!16s%2Fg%2F1tm132wm?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.0016275,
+      "lng": -95.8952029,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "诺德伟小镇（Nordaway）",
+      "google_maps_url": "https://www.google.com/maps/place/Nodaway,+IA+50857/@40.937016,-94.8960264,15z/data=!3m1!4b1!4m6!3m5!1s0x87eb4f55398d17c5:0x5e0249d157460490!8m2!3d40.9377263!4d-94.8935601!16zL20vMHNyYno?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "有一个废弃学校",
+      "lat": 40.937016,
+      "lng": -94.8960264,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1yr421F7u8": [
+    {
+      "place_name": "约翰迪尔总部",
+      "google_maps_url": "https://www.google.com/maps/place/Deere+%26+Company+World+Headquarters/@41.476482,-90.42467,17z/data=!3m1!4b1!4m6!3m5!1s0x87e23af18604b37f:0xdb7e5c4e1064ccff!8m2!3d41.476482!4d-90.42467!16s%2Fg%2F1td6bf8z?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.476482,
+      "lng": -90.42467,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1As421M7xp": [
+    {
+      "place_name": "Chesterfield Mall（已爆破）",
+      "google_maps_url": "https://www.google.com/maps/place/Drury+Plaza+Hotel+St.+Louis+Chesterfield/@38.6525259,-90.5605373,3a,75y,65.55h,90.26t/data=!3m7!1e1!3m5!1sohXSTB27r3BtJj06FUinpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.2636663149125127%26panoid%3DohXSTB27r3BtJj06FUinpQ%26yaw%3D65.548059935294!7i13312!8i6656!4m19!1m6!2m5!1sHotels!5m3!5m2!1s2026-07-11!2i2!3m11!1s0x87df2b2b3ab1b70d:0x7d1afd073a88d642!5m4!1s2026-07-11!2i2!4m1!1i2!8m2!3d38.6524023!4d-90.5607042!15sCgZIb3RlbHOSAQVob3RlbKoBOhABKgoiBmhvdGVscygAMh4QASIainsixGVQ51rDIRxGAWYdQunD1rZjbCyu2qAyChACIgZob3RlbHPgAQA!16s%2Fg%2F1w0p653z?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6525259,
+      "lng": -90.5605373,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1ym421V7XT": [
+    {
+      "place_name": "废墟校区",
+      "google_maps_url": "https://www.google.com/maps/place/Scullin+School/@38.6810408,-90.247901,17z/data=!3m1!4b1!4m6!3m5!1s0x87df4b13d14bfc95:0xea84545b619b7878!8m2!3d38.6810408!4d-90.247901!16s%2Fg%2F1thghl4h?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6810408,
+      "lng": -90.247901,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "中餐",
+      "google_maps_url": "https://www.google.com/maps/place/Newstead+Chop+Suey+Cat+Fish/@38.6636532,-90.2231726,17z/data=!3m1!4b1!4m6!3m5!1s0x87df4b431c60449b:0xd3ac9e13851b3273!8m2!3d38.6636532!4d-90.2231726!16s%2Fg%2F11cs2hc9td?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6636532,
+      "lng": -90.2231726,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "社区图书馆",
+      "google_maps_url": "https://www.google.com/maps/place/St.+Louis+Public+Library+-+Julia+Davis+Library/@38.6700887,-90.2369822,3a,75y,13.49h,90t/data=!3m7!1e1!3m5!1sDw-s_NpjrjRi6AuirWWfyw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DDw-s_NpjrjRi6AuirWWfyw%26yaw%3D13.494493!7i16384!8i8192!4m13!1m2!2m1!1slibrary!3m9!1s0x87df4b43bbc6da89:0xc392a659ab6341e7!8m2!3d38.6703954!4d-90.2368834!10e5!14m1!1BCgIgARICCAI!15sCgdsaWJyYXJ5kgEOcHVibGljX2xpYnJhcnngAQA!16s%2Fg%2F1vk6zs8p?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6700887,
+      "lng": -90.2369822,
+      "contributor": "luna0607"
+    }
   ]
 }
