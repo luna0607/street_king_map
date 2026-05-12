@@ -1345,5 +1345,159 @@
       "lng": -90.2369822,
       "contributor": "luna0607"
     }
+  ],
+  "BV1dKfgBNEpb": [
+    {
+      "place_name": "奥克兰 (内布拉斯加州)",
+      "google_maps_url": "https://www.google.com/maps/place/Oakland,+%E5%85%A7%E5%B8%83%E6%8B%89%E6%96%AF%E5%8A%A0+68045%E7%BE%8E%E5%9C%8B/@41.837364,-96.467504,15z/data=!3m1!4b1!4m6!3m5!1s0x879186c00c080e01:0xfddd2eaae33f7e77!8m2!3d41.8357057!4d-96.4666634!16zL20vMHg0czE?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.837364,
+      "lng": -96.467504,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Nelson's Food Pride",
+      "google_maps_url": "https://www.google.com/maps/place/Nelson's+Food+Pride/@41.8376428,-96.4663503,17z/data=!3m1!4b1!4m6!3m5!1s0x879186ea049b2b7d:0xb5d5eae0865e307e!8m2!3d41.8376428!4d-96.4663503!16s%2Fg%2F1tdky55k?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "瑞典风杂货店",
+      "lat": 41.8376428,
+      "lng": -96.4663503,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Swedish Heritage Center",
+      "google_maps_url": "https://www.google.com/maps/place/Swedish+Heritage+Center/@41.8358999,-96.4656986,17z/data=!3m1!4b1!4m6!3m5!1s0x879186c2f2db2a67:0xb13ab0b346ed6997!8m2!3d41.8358959!4d-96.4631237!16s%2Fm%2F0w7mtw9?entry=tts&g_ep=EgoyMDI2MDUwNi4wIPu8ASoASAFQAw%3D%3D&skid=ffbc7287-5c10-49b8-94e3-e8ebecbba3e4",
+      "comment": "1985教堂倒闭",
+      "lat": 41.8358999,
+      "lng": -96.4656986,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "堪萨斯州林兹堡",
+      "google_maps_url": "https://www.google.com/maps/place/67456%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E6%9E%97%E8%8C%B2%E5%A0%A1/@38.5771442,-97.6920531,14z/data=!3m1!4b1!4m6!3m5!1s0x87bcb1dc0ebb16a9:0xbd76be59b7f9aa2b!8m2!3d38.5736176!4d-97.6744838!16zL20vMHQ4bTU?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.5771442,
+      "lng": -97.6920531,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Red Barn Studio Museum",
+      "google_maps_url": "https://www.google.com/maps/place/Red+Barn+Studio+Museum/@38.5714898,-97.6789239,17z/data=!3m1!4b1!4m6!3m5!1s0x87bcb1de2d4528bf:0x882cf5db062881d5!8m2!3d38.5714856!4d-97.676349!16s%2Fg%2F1tczfdwh?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.5714898,
+      "lng": -97.6789239,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Zion Lutheran Church",
+      "google_maps_url": "https://www.google.com/maps/place/Zion+Lutheran+Church/@40.9154064,-97.851781,17z/data=!3m1!4b1!4m6!3m5!1s0x8799fc3f05f615d7:0x1d1340f1eb5ec1d0!8m2!3d40.9154024!4d-97.8471676!16s%2Fg%2F1td77248?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9154064,
+      "lng": -97.851781,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Garland",
+      "google_maps_url": "https://www.google.com/maps/place/Garland,+%E5%85%A7%E5%B8%83%E6%8B%89%E6%96%AF%E5%8A%A0+68360%E7%BE%8E%E5%9C%8B/@40.9447704,-96.9906314,15.87z/data=!4m6!3m5!1s0x8796d0de1dc9e619:0xaac08c5af50bc00!8m2!3d40.9447298!4d-96.9855818!16zL20vMHg5cHQ?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9447704,
+      "lng": -96.9906314,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Otoe",
+      "google_maps_url": "https://www.google.com/maps/place/Otoe,+%E5%85%A7%E5%B8%83%E6%8B%89%E6%96%AF%E5%8A%A0+68417%E7%BE%8E%E5%9C%8B/@40.7237876,-96.1258923,16z/data=!3m1!4b1!4m6!3m5!1s0x87943ec9d7b6db85:0xf4fed17b0b7678dc!8m2!3d40.7236135!4d-96.1169524!16zL20vMHg4ajU?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.7237876,
+      "lng": -96.1258923,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV18YFmzKEZT": [
+    {
+      "place_name": "圣路易斯",
+      "google_maps_url": "https://www.google.com/maps/place/%E7%BE%8E%E5%9C%8B%E5%AF%86%E8%98%87%E9%87%8C%E8%81%96%E8%B7%AF%E6%98%93%E6%96%AF/@38.6533026,-90.408429,11z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4a9faed8ef9:0xbe39eaca22bbe05b!8m2!3d38.627428!4d-90.1982439!16zL20vMDZ3eHc?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6533026,
+      "lng": -90.408429,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Beaumont High School",
+      "google_maps_url": "https://www.google.com/maps/place/Beaumont+High+School/@38.6625269,-91.3755223,9z/data=!4m10!1m2!2m1!1sbeaumont+high+school!3m6!1s0x87df4ca885050b57:0xb2bf9860adfea89b!8m2!3d38.6625269!4d-90.2219578!15sChRiZWF1bW9udCBoaWdoIHNjaG9vbJIBC2hpZ2hfc2Nob29s4AEA!16s%2Fm%2F0h1gm5l?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6625269,
+      "lng": -91.3755223,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Newstead Chop Suey Cat Fish",
+      "google_maps_url": "https://www.google.com/maps/place/Newstead+Chop+Suey+Cat+Fish/@38.6636539,-90.2257493,16.99z/data=!4m6!3m5!1s0x87df4b431c60449b:0xd3ac9e13851b3273!8m2!3d38.6636532!4d-90.2231726!16s%2Fg%2F11cs2hc9td?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6636539,
+      "lng": -90.2257493,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Jaden's Diner",
+      "google_maps_url": "https://www.google.com/maps/place/Jaden's+Diner/@38.6546114,-90.242753,17z/data=!3m1!4b1!4m6!3m5!1s0x87df4b4a7c48f439:0x797d9dd66be5d9d8!8m2!3d38.6546072!4d-90.2401781!16s%2Fg%2F1v3knm5_?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6546114,
+      "lng": -90.242753,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "东圣路易斯",
+      "google_maps_url": "https://www.google.com/maps/place/%E7%BE%8E%E5%9C%8B%E4%BC%8A%E5%88%A9%E8%AB%BE%E6%9D%B1%E8%81%96%E8%B7%AF%E6%98%93%E6%96%AF/@38.6108158,-90.1965815,12z/data=!3m1!4b1!4m6!3m5!1s0x87d8ac4375b5735f:0x8d1aa65674cc6d0!8m2!3d38.624514!4d-90.1506465!16zL20vMHNneGc?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6108158,
+      "lng": -90.1965815,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1Ur6NBcEry": [
+    {
+      "place_name": "Aztec",
+      "google_maps_url": "https://www.google.com/maps/place/Aztec,+%E6%96%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%BE%8E%E5%9C%8B/@36.8094276,-108.0584371,12z/data=!3m1!4b1!4m6!3m5!1s0x873c76616a8f642f:0x7b98e1083808d308!8m2!3d36.8222261!4d-107.9928455!16zL20vMHh2d18?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.8094276,
+      "lng": -108.0584371,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1pQkKBcEex": [
+    {
+      "place_name": "Hotel O Longhorn Boise City OK",
+      "google_maps_url": "https://www.google.com/maps/place/Hotel+O+Longhorn+Boise+City+OK/@36.7296179,-102.5012981,17z/data=!4m21!1m11!3m10!1s0x870f66af7e2ba0b3:0xd3a1b2ede94774b9!2sHotel+O+Longhorn+Boise+City+OK!5m2!4m1!1i2!8m2!3d36.7294502!4d-102.5013427!10e1!16s%2Fg%2F1thz235l!3m8!1s0x870f66af7e2ba0b3:0xd3a1b2ede94774b9!5m2!4m1!1i2!8m2!3d36.7294502!4d-102.5013427!16s%2Fg%2F1thz235l?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.7296179,
+      "lng": -102.5012981,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "锡马龙郡",
+      "google_maps_url": "https://www.google.com/maps/place/%E7%BE%8E%E5%9C%8B%E5%A5%A7%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A6%AC%E9%8C%AB%E9%A6%AC%E9%BE%8D%E9%83%A1/@36.7502896,-102.8449082,10z/data=!3m1!4b1!4m6!3m5!1s0x870f679f1e8cf7d5:0xec2f0c4cf9a0d4c8!8m2!3d36.7936335!4d-102.6216211!16zL20vMG15N3M?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.7502896,
+      "lng": -102.8449082,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV19ymsBLEC8": [
+    {
+      "place_name": "Chautauqua County",
+      "google_maps_url": "https://www.google.com/maps/place/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E5%AD%B8%E6%89%98%E6%93%B4%E9%83%A1/@42.341193,-80.0702857,9z/data=!3m1!4b1!4m6!3m5!1s0x89d2b5c77bcd8a47:0x6612237daa58990f!8m2!3d42.2312829!4d-79.560344!16zL20vMGRyc18?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.341193,
+      "lng": -80.0702857,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Jamestown",
+      "google_maps_url": "https://www.google.com/maps/place/14701%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E8%A9%B9%E5%A7%86%E6%96%AF%E6%95%A6/@42.1012953,-79.2798554,13z/data=!3m1!4b1!4m6!3m5!1s0x89d2a8e4143e8a2b:0x650f6a65c85e2b7b!8m2!3d42.0970023!4d-79.2353259!16zL20vMHh5bmw?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.1012953,
+      "lng": -79.2798554,
+      "contributor": "luna0607"
+    }
   ]
 }
