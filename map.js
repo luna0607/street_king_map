@@ -211,7 +211,7 @@ function renderSecondaryMarkers() {
       radius: 8,
       color: "#fff",
       weight: 2,
-      fillColor: "#f0a75b",
+      fillColor: "#f59e0b",
       fillOpacity: 1,
     });
     m.on("click", (e) => {

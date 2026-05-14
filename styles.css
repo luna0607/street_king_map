@@ -279,14 +279,14 @@ a { color: inherit; transition: all 0.2s ease; }
 
 /* Custom markers */
 .marker-primary {
-  color: var(--accent);
+  color: var(--accent-blue);
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.45));
   transition: transform 0.15s;
 }
 .marker-primary:hover { transform: translateY(-2px); }
 .marker-primary.active {
-  color: var(--accent-orange);
-  filter: drop-shadow(0 4px 10px rgba(245, 158, 11, 0.45));
+  color: var(--accent-blue);
+  filter: drop-shadow(0 4px 10px rgba(14, 165, 233, 0.45));
 }
 
 /* ===== Side panel ===== */
