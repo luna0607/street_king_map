@@ -1,0 +1,1556 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.95,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国一座叫开罗的城市的市中心",
+      "music": 0.0
+    },
+    {
+      "from": 2.95,
+      "to": 4.99,
+      "sid": 2,
+      "location": 2,
+      "content": "这片在1920年人口巅峰的时候",
+      "music": 0.0
+    },
+    {
+      "from": 4.99,
+      "to": 6.17,
+      "sid": 3,
+      "location": 2,
+      "content": "就有1万5000人",
+      "music": 0.0
+    },
+    {
+      "from": 6.17,
+      "to": 8.21,
+      "sid": 4,
+      "location": 2,
+      "content": "现在只剩下1700人",
+      "music": 0.0
+    },
+    {
+      "from": 8.21,
+      "to": 9.97,
+      "sid": 5,
+      "location": 2,
+      "content": "由于持续的人口流失",
+      "music": 0.0
+    },
+    {
+      "from": 9.97,
+      "to": 12.39,
+      "sid": 6,
+      "location": 2,
+      "content": "开罗的市中心已经变成了一片废墟",
+      "music": 0.0
+    },
+    {
+      "from": 12.39,
+      "to": 14.72,
+      "sid": 7,
+      "location": 2,
+      "content": "但这座城市是充满着历史",
+      "music": 0.0
+    },
+    {
+      "from": 14.72,
+      "to": 17.2,
+      "sid": 8,
+      "location": 2,
+      "content": "首先是它的战略位置非常的重要",
+      "music": 0.0
+    },
+    {
+      "from": 17.2,
+      "to": 18.82,
+      "sid": 9,
+      "location": 2,
+      "content": "在两条美国重要河流",
+      "music": 0.0
+    },
+    {
+      "from": 18.82,
+      "to": 21.23,
+      "sid": 10,
+      "location": 2,
+      "content": "俄亥俄河和密西西比河的交界处",
+      "music": 0.0
+    },
+    {
+      "from": 21.23,
+      "to": 23.57,
+      "sid": 11,
+      "location": 2,
+      "content": "这里同样是三洲交界的地方",
+      "music": 0.0
+    },
+    {
+      "from": 23.57,
+      "to": 26.21,
+      "sid": 12,
+      "location": 2,
+      "content": "我现在正在跨过俄亥俄河上的铁桥",
+      "music": 0.0
+    },
+    {
+      "from": 26.21,
+      "to": 29.65,
+      "sid": 13,
+      "location": 2,
+      "content": "在驶过伊利诺伊州的界碑和欢迎洲牌之后",
+      "music": 0.0
+    },
+    {
+      "from": 29.65,
+      "to": 32.81,
+      "sid": 14,
+      "location": 2,
+      "content": "我很快就见到了这个欢迎来到开罗的牌子",
+      "music": 0.0
+    },
+    {
+      "from": 32.81,
+      "to": 34.89,
+      "sid": 15,
+      "location": 2,
+      "content": "只不过现在他已经是锈迹斑斑",
+      "music": 0.0
+    },
+    {
+      "from": 34.89,
+      "to": 36.39,
+      "sid": 16,
+      "location": 2,
+      "content": "而且爬满着藤蔓",
+      "music": 0.0
+    },
+    {
+      "from": 36.39,
+      "to": 37.23,
+      "sid": 17,
+      "location": 2,
+      "content": "进城之后",
+      "music": 0.0
+    },
+    {
+      "from": 37.23,
+      "to": 38.57,
+      "sid": 18,
+      "location": 2,
+      "content": "我经过了这个牌匾",
+      "music": 0.0
+    },
+    {
+      "from": 38.57,
+      "to": 40.489,
+      "sid": 19,
+      "location": 2,
+      "content": "写到开罗历史街区",
+      "music": 0.0
+    },
+    {
+      "from": 40.489,
+      "to": 42.209,
+      "sid": 20,
+      "location": 2,
+      "content": "这边曾经有很多商业",
+      "music": 0.0
+    },
+    {
+      "from": 42.209,
+      "to": 44.529,
+      "sid": 21,
+      "location": 2,
+      "content": "但现在只剩下大片大片的空地",
+      "music": 0.0
+    },
+    {
+      "from": 44.529,
+      "to": 47.049,
+      "sid": 22,
+      "location": 2,
+      "content": "大概是因为原先的商业楼变成了危房",
+      "music": 0.0
+    },
+    {
+      "from": 47.049,
+      "to": 48.73,
+      "sid": 23,
+      "location": 2,
+      "content": "都被当地拆掉了",
+      "music": 0.0
+    },
+    {
+      "from": 48.73,
+      "to": 52.25,
+      "sid": 24,
+      "location": 2,
+      "content": "以我刚刚经过的牌匾来定位这条曾经的主街",
+      "music": 0.0
+    },
+    {
+      "from": 52.25,
+      "to": 53.71,
+      "sid": 25,
+      "location": 2,
+      "content": "是这张照片的样子",
+      "music": 0.0
+    },
+    {
+      "from": 53.71,
+      "to": 56.129,
+      "sid": 26,
+      "location": 2,
+      "content": "而这是拆迁之前的样子",
+      "music": 0.0
+    },
+    {
+      "from": 56.129,
+      "to": 58.389,
+      "sid": 27,
+      "location": 2,
+      "content": "现在这边的草坪倒是维护的不错",
+      "music": 0.0
+    },
+    {
+      "from": 58.389,
+      "to": 60.169,
+      "sid": 28,
+      "location": 2,
+      "content": "但是这边的路况真的很差",
+      "music": 0.0
+    },
+    {
+      "from": 60.169,
+      "to": 61.31,
+      "sid": 29,
+      "location": 2,
+      "content": "有很多坑",
+      "music": 0.0
+    },
+    {
+      "from": 61.31,
+      "to": 63.47,
+      "sid": 30,
+      "location": 2,
+      "content": "以至于当地放了很多三角路障",
+      "music": 0.0
+    },
+    {
+      "from": 63.47,
+      "to": 65.05,
+      "sid": 31,
+      "location": 2,
+      "content": "防止我掉到洞里面去",
+      "music": 0.0
+    },
+    {
+      "from": 65.05,
+      "to": 66.77,
+      "sid": 32,
+      "location": 2,
+      "content": "这是真的在打地鼠啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.77,
+      "to": 68.87,
+      "sid": 33,
+      "location": 2,
+      "content": "还得前面的路怎么走",
+      "music": 0.0
+    },
+    {
+      "from": 70.34,
+      "to": 72.38,
+      "sid": 34,
+      "location": 2,
+      "content": "这个本来叫commercial avenue的",
+      "music": 0.0
+    },
+    {
+      "from": 72.38,
+      "to": 74.62,
+      "sid": 35,
+      "location": 2,
+      "content": "应该是本来是都是商店什么的",
+      "music": 0.0
+    },
+    {
+      "from": 74.62,
+      "to": 76.72,
+      "sid": 36,
+      "location": 2,
+      "content": "现在反正是什么都没有了",
+      "music": 0.0
+    },
+    {
+      "from": 76.72,
+      "to": 79.21,
+      "sid": 37,
+      "location": 2,
+      "content": "都是空空的行驶",
+      "music": 0.0
+    },
+    {
+      "from": 79.21,
+      "to": 80.59,
+      "sid": 38,
+      "location": 2,
+      "content": "在当年的商业街上",
+      "music": 0.0
+    },
+    {
+      "from": 80.59,
+      "to": 82.85,
+      "sid": 39,
+      "location": 2,
+      "content": "唯一屹立不倒的是这一座大宅",
+      "music": 0.0
+    },
+    {
+      "from": 82.85,
+      "to": 85.25,
+      "sid": 40,
+      "location": 2,
+      "content": "但是一看也是废弃了",
+      "music": 0.0
+    },
+    {
+      "from": 86.8,
+      "to": 89.4,
+      "sid": 41,
+      "location": 2,
+      "content": "这地方看着也不能住啊",
+      "music": 0.0
+    },
+    {
+      "from": 90.92,
+      "to": 93.12,
+      "sid": 42,
+      "location": 2,
+      "content": "应该是被火烧过的",
+      "music": 0.0
+    },
+    {
+      "from": 97.38,
+      "to": 103.669,
+      "sid": 43,
+      "location": 2,
+      "content": "然后再过去就是火车和俄亥俄河",
+      "music": 0.0
+    },
+    {
+      "from": 103.669,
+      "to": 106.16,
+      "sid": 44,
+      "location": 2,
+      "content": "泰罗最早的发展就是因为航运",
+      "music": 0.0
+    },
+    {
+      "from": 106.16,
+      "to": 108.36,
+      "sid": 45,
+      "location": 2,
+      "content": "由于这是美国两条大河的交界处",
+      "music": 0.0
+    },
+    {
+      "from": 108.36,
+      "to": 110.96,
+      "sid": 46,
+      "location": 2,
+      "content": "当年所有从芝加哥前往新奥尔良的蒸汽船",
+      "music": 0.0
+    },
+    {
+      "from": 110.96,
+      "to": 111.98,
+      "sid": 47,
+      "location": 2,
+      "content": "都必须经过这里",
+      "music": 0.0
+    },
+    {
+      "from": 111.98,
+      "to": 114.72,
+      "sid": 48,
+      "location": 2,
+      "content": "因此这边建起了许多与航运相关的设施",
+      "music": 0.0
+    },
+    {
+      "from": 114.72,
+      "to": 116.4,
+      "sid": 49,
+      "location": 2,
+      "content": "比如说船只修理厂",
+      "music": 0.0
+    },
+    {
+      "from": 116.4,
+      "to": 118.28,
+      "sid": 50,
+      "location": 2,
+      "content": "随后铁道也伸到了这里",
+      "music": 0.0
+    },
+    {
+      "from": 118.28,
+      "to": 120.88,
+      "sid": 51,
+      "location": 2,
+      "content": "我刚刚穿越的是开罗城的防洪堤",
+      "music": 0.0
+    },
+    {
+      "from": 120.88,
+      "to": 122.04,
+      "sid": 52,
+      "location": 2,
+      "content": "由于建在河边",
+      "music": 0.0
+    },
+    {
+      "from": 122.04,
+      "to": 123.16,
+      "sid": 53,
+      "location": 2,
+      "content": "而且地势很低",
+      "music": 0.0
+    },
+    {
+      "from": 123.16,
+      "to": 125.04,
+      "sid": 54,
+      "location": 2,
+      "content": "开罗常常会发洪水",
+      "music": 0.0
+    },
+    {
+      "from": 125.04,
+      "to": 126.44,
+      "sid": 55,
+      "location": 2,
+      "content": "不过当年繁荣时候",
+      "music": 0.0
+    },
+    {
+      "from": 126.44,
+      "to": 127.87,
+      "sid": 56,
+      "location": 2,
+      "content": "这边还是非常的富裕",
+      "music": 0.0
+    },
+    {
+      "from": 127.87,
+      "to": 130.79,
+      "sid": 57,
+      "location": 2,
+      "content": "因此建设了一套非常完备的防洪工事",
+      "music": 0.0
+    },
+    {
+      "from": 130.79,
+      "to": 133.51,
+      "sid": 58,
+      "location": 2,
+      "content": "这边墙上也标注了每一次发大水的水位线",
+      "music": 0.0
+    },
+    {
+      "from": 133.51,
+      "to": 136.64,
+      "sid": 59,
+      "location": 2,
+      "content": "我在大堤边看到了一个坐在车里发呆的老人",
+      "music": 0.0
+    },
+    {
+      "from": 136.64,
+      "to": 137.78,
+      "sid": 60,
+      "location": 2,
+      "content": "Anything inch",
+      "music": 0.0
+    },
+    {
+      "from": 137.78,
+      "to": 139.24,
+      "sid": 61,
+      "location": 2,
+      "content": "anything going on ne般",
+      "music": 0.0
+    },
+    {
+      "from": 139.24,
+      "to": 139.82,
+      "sid": 62,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 139.82,
+      "to": 141.62,
+      "sid": 63,
+      "location": 2,
+      "content": "I like come over watch f",
+      "music": 0.0
+    },
+    {
+      "from": 141.62,
+      "to": 143.36,
+      "sid": 64,
+      "location": 2,
+      "content": "So being washed the boats go",
+      "music": 0.0
+    },
+    {
+      "from": 143.36,
+      "to": 144.12,
+      "sid": 65,
+      "location": 2,
+      "content": "And saw",
+      "music": 0.0
+    },
+    {
+      "from": 144.12,
+      "to": 145.94,
+      "sid": 66,
+      "location": 2,
+      "content": "You be cooling sun go down",
+      "music": 0.0
+    },
+    {
+      "from": 145.94,
+      "to": 147.12,
+      "sid": 67,
+      "location": 2,
+      "content": "Nice place to be",
+      "music": 0.0
+    },
+    {
+      "from": 147.12,
+      "to": 148.079,
+      "sid": 68,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 148.079,
+      "to": 149.859,
+      "sid": 69,
+      "location": 2,
+      "content": "Are you from ko",
+      "music": 0.0
+    },
+    {
+      "from": 149.859,
+      "to": 153.259,
+      "sid": 70,
+      "location": 2,
+      "content": "我在弗勒twenty eleven friday",
+      "music": 0.0
+    },
+    {
+      "from": 154.0,
+      "to": 158.48,
+      "sid": 71,
+      "location": 2,
+      "content": "did it five flos is this your usual smart呀",
+      "music": 0.0
+    },
+    {
+      "from": 158.48,
+      "to": 160.28,
+      "sid": 72,
+      "location": 2,
+      "content": "哦除了大堤",
+      "music": 0.0
+    },
+    {
+      "from": 160.28,
+      "to": 162.66,
+      "sid": 73,
+      "location": 2,
+      "content": "这边还有一个南北战争的遗址公园",
+      "music": 0.0
+    },
+    {
+      "from": 162.66,
+      "to": 165.4,
+      "sid": 74,
+      "location": 2,
+      "content": "开罗在南北战争中的战略意义非常的大",
+      "music": 0.0
+    },
+    {
+      "from": 165.4,
+      "to": 168.55,
+      "sid": 75,
+      "location": 2,
+      "content": "这边算是原先的老北方和老南方的交界处",
+      "music": 0.0
+    },
+    {
+      "from": 168.55,
+      "to": 171.11,
+      "sid": 76,
+      "location": 2,
+      "content": "曾经的美国总统格兰特作为军官的时候",
+      "music": 0.0
+    },
+    {
+      "from": 171.11,
+      "to": 173.03,
+      "sid": 77,
+      "location": 2,
+      "content": "还带兵占领过智利",
+      "music": 0.0
+    },
+    {
+      "from": 173.03,
+      "to": 175.19,
+      "sid": 78,
+      "location": 2,
+      "content": "这个塔跟修了没修一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.19,
+      "to": 177.53,
+      "sid": 79,
+      "location": 2,
+      "content": "反正是左边是俄亥俄河",
+      "music": 0.0
+    },
+    {
+      "from": 177.53,
+      "to": 179.75,
+      "sid": 80,
+      "location": 2,
+      "content": "右边是密西西比河",
+      "music": 0.0
+    },
+    {
+      "from": 179.75,
+      "to": 181.11,
+      "sid": 81,
+      "location": 2,
+      "content": "从公园里出来",
+      "music": 0.0
+    },
+    {
+      "from": 181.11,
+      "to": 183.59,
+      "sid": 82,
+      "location": 2,
+      "content": "我还发现这边的一座跨河大桥被封住了",
+      "music": 0.0
+    },
+    {
+      "from": 183.59,
+      "to": 184.21,
+      "sid": 83,
+      "location": 2,
+      "content": "在修路",
+      "music": 0.0
+    },
+    {
+      "from": 184.21,
+      "to": 186.33,
+      "sid": 84,
+      "location": 2,
+      "content": "现在一共有三座大桥经过开罗",
+      "music": 0.0
+    },
+    {
+      "from": 186.33,
+      "to": 187.75,
+      "sid": 85,
+      "location": 2,
+      "content": "而被封死的那一座桥",
+      "music": 0.0
+    },
+    {
+      "from": 187.75,
+      "to": 189.11,
+      "sid": 86,
+      "location": 2,
+      "content": "是最南边的一座",
+      "music": 0.0
+    },
+    {
+      "from": 189.11,
+      "to": 192.17,
+      "sid": 87,
+      "location": 2,
+      "content": "其实这三座大桥算是开罗衰落的原因之一",
+      "music": 0.0
+    },
+    {
+      "from": 192.17,
+      "to": 193.31,
+      "sid": 88,
+      "location": 2,
+      "content": "在20世纪之前",
+      "music": 0.0
+    },
+    {
+      "from": 193.31,
+      "to": 196.15,
+      "sid": 89,
+      "location": 2,
+      "content": "所有的火车和汽车都要在开罗装上轮渡",
+      "music": 0.0
+    },
+    {
+      "from": 196.15,
+      "to": 197.07,
+      "sid": 90,
+      "location": 2,
+      "content": "才能过河",
+      "music": 0.0
+    },
+    {
+      "from": 197.07,
+      "to": 199.71,
+      "sid": 91,
+      "location": 2,
+      "content": "虽然说桥梁使得运输变得便捷了很多",
+      "music": 0.0
+    },
+    {
+      "from": 199.71,
+      "to": 201.83,
+      "sid": 92,
+      "location": 2,
+      "content": "但是他们也使得很多开罗本地人",
+      "music": 0.0
+    },
+    {
+      "from": 201.83,
+      "to": 203.11,
+      "sid": 93,
+      "location": 2,
+      "content": "失去了工作机会",
+      "music": 0.0
+    },
+    {
+      "from": 203.11,
+      "to": 204.21,
+      "sid": 94,
+      "location": 2,
+      "content": "可就算是这样",
+      "music": 0.0
+    },
+    {
+      "from": 204.21,
+      "to": 207.579,
+      "sid": 95,
+      "location": 2,
+      "content": "泰罗也是一座拥有三座跨河公路桥的城市",
+      "music": 0.0
+    },
+    {
+      "from": 207.579,
+      "to": 210.339,
+      "sid": 96,
+      "location": 2,
+      "content": "这边也应该有很多加油站和旅馆之类的",
+      "music": 0.0
+    },
+    {
+      "from": 210.339,
+      "to": 211.499,
+      "sid": 97,
+      "location": 2,
+      "content": "除非你跟我一样",
+      "music": 0.0
+    },
+    {
+      "from": 211.499,
+      "to": 213.759,
+      "sid": 98,
+      "location": 2,
+      "content": "选择住在免费的废弃小屋里",
+      "music": 0.0
+    },
+    {
+      "from": 213.759,
+      "to": 215.89,
+      "sid": 99,
+      "location": 2,
+      "content": "你得在城外才能找到旅店",
+      "music": 0.0
+    },
+    {
+      "from": 215.89,
+      "to": 218.53,
+      "sid": 100,
+      "location": 2,
+      "content": "因为整个开罗都没有什么像样的商业了",
+      "music": 0.0
+    },
+    {
+      "from": 218.53,
+      "to": 220.29,
+      "sid": 101,
+      "location": 2,
+      "content": "造成开罗衰落的主要原因",
+      "music": 0.0
+    },
+    {
+      "from": 220.29,
+      "to": 222.019,
+      "sid": 102,
+      "location": 2,
+      "content": "还是因为这边的种族冲突",
+      "music": 0.0
+    },
+    {
+      "from": 222.019,
+      "to": 223.399,
+      "sid": 103,
+      "location": 2,
+      "content": "在南北战争之后",
+      "music": 0.0
+    },
+    {
+      "from": 223.399,
+      "to": 224.779,
+      "sid": 104,
+      "location": 2,
+      "content": "开罗由于地理位置",
+      "music": 0.0
+    },
+    {
+      "from": 224.779,
+      "to": 225.419,
+      "sid": 105,
+      "location": 2,
+      "content": "成了很多",
+      "music": 0.0
+    },
+    {
+      "from": 225.419,
+      "to": 228.199,
+      "sid": 106,
+      "location": 2,
+      "content": "原先黑奴北上寻找工作机会的必经之路",
+      "music": 0.0
+    },
+    {
+      "from": 228.199,
+      "to": 230.529,
+      "sid": 107,
+      "location": 2,
+      "content": "而很多人选择直接留在开罗",
+      "music": 0.0
+    },
+    {
+      "from": 230.529,
+      "to": 231.729,
+      "sid": 108,
+      "location": 2,
+      "content": "在1900年",
+      "music": 0.0
+    },
+    {
+      "from": 231.729,
+      "to": 233.369,
+      "sid": 109,
+      "location": 2,
+      "content": "开罗的1万3000人口中",
+      "music": 0.0
+    },
+    {
+      "from": 233.369,
+      "to": 234.5,
+      "sid": 110,
+      "location": 2,
+      "content": "5000人是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 234.5,
+      "to": 237.12,
+      "sid": 111,
+      "location": 2,
+      "content": "虽然说他们占到了人口比例的40%",
+      "music": 0.0
+    },
+    {
+      "from": 237.12,
+      "to": 240.32,
+      "sid": 112,
+      "location": 2,
+      "content": "但是开罗还是一座以保守白人为主导的城市",
+      "music": 0.0
+    },
+    {
+      "from": 240.32,
+      "to": 242.0,
+      "sid": 113,
+      "location": 2,
+      "content": "黑人在本地没有投票权",
+      "music": 0.0
+    },
+    {
+      "from": 242.0,
+      "to": 243.86,
+      "sid": 114,
+      "location": 2,
+      "content": "自然他们也没有什么话语权",
+      "music": 0.0
+    },
+    {
+      "from": 243.86,
+      "to": 247.56,
+      "sid": 115,
+      "location": 2,
+      "content": "因此黑人在就业和住房市场上受到了各种限制",
+      "music": 0.0
+    },
+    {
+      "from": 247.56,
+      "to": 250.24,
+      "sid": 116,
+      "location": 2,
+      "content": "他们被排除在了一切非体力工作之外",
+      "music": 0.0
+    },
+    {
+      "from": 250.24,
+      "to": 253.12,
+      "sid": 117,
+      "location": 2,
+      "content": "而且他们只能在开罗一小片被圈起来的地方",
+      "music": 0.0
+    },
+    {
+      "from": 253.12,
+      "to": 254.49,
+      "sid": 118,
+      "location": 2,
+      "content": "买房或者租房",
+      "music": 0.0
+    },
+    {
+      "from": 254.49,
+      "to": 256.87,
+      "sid": 119,
+      "location": 2,
+      "content": "这块地的配套设施非常的糟糕",
+      "music": 0.0
+    },
+    {
+      "from": 256.87,
+      "to": 258.57,
+      "sid": 120,
+      "location": 2,
+      "content": "供水被污染严重",
+      "music": 0.0
+    },
+    {
+      "from": 258.57,
+      "to": 260.409,
+      "sid": 121,
+      "location": 2,
+      "content": "而且常常犯鼠患",
+      "music": 0.0
+    },
+    {
+      "from": 260.409,
+      "to": 261.289,
+      "sid": 122,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 261.289,
+      "to": 262.249,
+      "sid": 123,
+      "location": 2,
+      "content": "在1909年",
+      "music": 0.0
+    },
+    {
+      "from": 262.249,
+      "to": 263.929,
+      "sid": 124,
+      "location": 2,
+      "content": "几起白人针对黑人的私刑",
+      "music": 0.0
+    },
+    {
+      "from": 263.929,
+      "to": 264.889,
+      "sid": 125,
+      "location": 2,
+      "content": "由于过于残忍",
+      "music": 0.0
+    },
+    {
+      "from": 264.889,
+      "to": 266.169,
+      "sid": 126,
+      "location": 2,
+      "content": "直接惊动了全美",
+      "music": 0.0
+    },
+    {
+      "from": 266.169,
+      "to": 268.94,
+      "sid": 127,
+      "location": 2,
+      "content": "在一场有1万多白人围观的私刑中",
+      "music": 0.0
+    },
+    {
+      "from": 268.94,
+      "to": 270.76,
+      "sid": 128,
+      "location": 2,
+      "content": "一名黑人被吊了起来",
+      "music": 0.0
+    },
+    {
+      "from": 270.76,
+      "to": 273.32,
+      "sid": 129,
+      "location": 2,
+      "content": "挨了500多颗子弹之后被火烧死",
+      "music": 0.0
+    },
+    {
+      "from": 273.32,
+      "to": 274.04,
+      "sid": 130,
+      "location": 2,
+      "content": "在此之后",
+      "music": 0.0
+    },
+    {
+      "from": 274.04,
+      "to": 275.5,
+      "sid": 131,
+      "location": 2,
+      "content": "很多白人还觉得不过瘾",
+      "music": 0.0
+    },
+    {
+      "from": 275.5,
+      "to": 277.28,
+      "sid": 132,
+      "location": 2,
+      "content": "于是他们跑到监狱里面去找",
+      "music": 0.0
+    },
+    {
+      "from": 277.28,
+      "to": 278.8,
+      "sid": 133,
+      "location": 2,
+      "content": "有没有被关起来的黑人",
+      "music": 0.0
+    },
+    {
+      "from": 281.669,
+      "to": 284.87,
+      "sid": 134,
+      "location": 2,
+      "content": "以至于军队介入了才平息了这一场骚乱",
+      "music": 0.0
+    },
+    {
+      "from": 284.87,
+      "to": 286.39,
+      "sid": 135,
+      "location": 2,
+      "content": "之后的60年里",
+      "music": 0.0
+    },
+    {
+      "from": 288.65,
+      "to": 291.25,
+      "sid": 136,
+      "location": 2,
+      "content": "但是由于当地的工作机会慢慢减少",
+      "music": 0.0
+    },
+    {
+      "from": 291.25,
+      "to": 293.44,
+      "sid": 137,
+      "location": 2,
+      "content": "族群街的竞争也更加激烈",
+      "music": 0.0
+    },
+    {
+      "from": 293.44,
+      "to": 295.74,
+      "sid": 138,
+      "location": 2,
+      "content": "在1967年的民权运动期间",
+      "music": 0.0
+    },
+    {
+      "from": 295.74,
+      "to": 298.28,
+      "sid": 139,
+      "location": 2,
+      "content": "当地的黑人开始努力争取平等的权益",
+      "music": 0.0
+    },
+    {
+      "from": 298.28,
+      "to": 299.919,
+      "sid": 140,
+      "location": 2,
+      "content": "并解除种族隔离",
+      "music": 0.0
+    },
+    {
+      "from": 299.919,
+      "to": 301.319,
+      "sid": 141,
+      "location": 2,
+      "content": "但是无论是市政府",
+      "music": 0.0
+    },
+    {
+      "from": 301.319,
+      "to": 304.679,
+      "sid": 142,
+      "location": 2,
+      "content": "警察局还是一切的公家权力都掌握在白人手里",
+      "music": 0.0
+    },
+    {
+      "from": 304.679,
+      "to": 305.919,
+      "sid": 143,
+      "location": 2,
+      "content": "因此接下来的几年中",
+      "music": 0.0
+    },
+    {
+      "from": 305.919,
+      "to": 307.679,
+      "sid": 144,
+      "location": 2,
+      "content": "开楼市持续的冲突不断",
+      "music": 0.0
+    },
+    {
+      "from": 307.679,
+      "to": 310.439,
+      "sid": 145,
+      "location": 2,
+      "content": "再加上黑人族群非常团结一致",
+      "music": 0.0
+    },
+    {
+      "from": 312.279,
+      "to": 315.58,
+      "sid": 146,
+      "location": 2,
+      "content": "也差不多是所有开罗城里面白人开的商店",
+      "music": 0.0
+    },
+    {
+      "from": 315.58,
+      "to": 316.9,
+      "sid": 147,
+      "location": 2,
+      "content": "各种因素加在一起",
+      "music": 0.0
+    },
+    {
+      "from": 316.9,
+      "to": 319.62,
+      "sid": 148,
+      "location": 2,
+      "content": "导致开罗本地的经济遭到严重的衰退",
+      "music": 0.0
+    },
+    {
+      "from": 319.62,
+      "to": 322.48,
+      "sid": 149,
+      "location": 2,
+      "content": "很多当地的白人带着资本跑路了",
+      "music": 0.0
+    },
+    {
+      "from": 322.48,
+      "to": 325.28,
+      "sid": 150,
+      "location": 2,
+      "content": "虽然说大部分开罗的老房子都拆掉了",
+      "music": 0.0
+    },
+    {
+      "from": 325.28,
+      "to": 327.5,
+      "sid": 151,
+      "location": 2,
+      "content": "但是无论是通过影像还是废墟",
+      "music": 0.0
+    },
+    {
+      "from": 327.5,
+      "to": 330.31,
+      "sid": 152,
+      "location": 2,
+      "content": "依旧不难在这里找到当年繁华的影子",
+      "music": 0.0
+    },
+    {
+      "from": 330.31,
+      "to": 332.21,
+      "sid": 153,
+      "location": 2,
+      "content": "比如说在这个历史街区里面",
+      "music": 0.0
+    },
+    {
+      "from": 332.21,
+      "to": 333.63,
+      "sid": 154,
+      "location": 2,
+      "content": "有一座很大的老房子",
+      "music": 0.0
+    },
+    {
+      "from": 333.63,
+      "to": 334.95,
+      "sid": 155,
+      "location": 2,
+      "content": "叫做玉兰庄园",
+      "music": 0.0
+    },
+    {
+      "from": 334.95,
+      "to": 337.65,
+      "sid": 156,
+      "location": 2,
+      "content": "这是当年美国格兰特总统的好朋友",
+      "music": 0.0
+    },
+    {
+      "from": 337.65,
+      "to": 339.19,
+      "sid": 157,
+      "location": 2,
+      "content": "开罗的社会名流建造的",
+      "music": 0.0
+    },
+    {
+      "from": 339.19,
+      "to": 342.15,
+      "sid": 158,
+      "location": 2,
+      "content": "目前开楼剩下的人中69%是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 342.15,
+      "to": 343.69,
+      "sid": 159,
+      "location": 2,
+      "content": "25%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 343.69,
+      "to": 346.11,
+      "sid": 160,
+      "location": 2,
+      "content": "而且这边的人口还在急剧的流失",
+      "music": 0.0
+    },
+    {
+      "from": 346.11,
+      "to": 348.73,
+      "sid": 161,
+      "location": 2,
+      "content": "主要是本地实在没有什么就业机会",
+      "music": 0.0
+    },
+    {
+      "from": 348.73,
+      "to": 351.63,
+      "sid": 162,
+      "location": 2,
+      "content": "我先去看一下开罗城里面唯一一家杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 351.63,
+      "to": 355.43,
+      "sid": 163,
+      "location": 2,
+      "content": "我还查了一下这一家店是一种社区合作社模式",
+      "music": 0.0
+    },
+    {
+      "from": 355.43,
+      "to": 357.39,
+      "sid": 164,
+      "location": 2,
+      "content": "其实更像是一个非营利组织",
+      "music": 0.0
+    },
+    {
+      "from": 357.39,
+      "to": 359.14,
+      "sid": 165,
+      "location": 2,
+      "content": "而不是为了赚钱的商店",
+      "music": 0.0
+    },
+    {
+      "from": 359.14,
+      "to": 361.46,
+      "sid": 166,
+      "location": 2,
+      "content": "目的是为了给开罗这个没有新鲜蔬菜",
+      "music": 0.0
+    },
+    {
+      "from": 361.46,
+      "to": 362.18,
+      "sid": 167,
+      "location": 2,
+      "content": "水果的食物",
+      "music": 0.0
+    },
+    {
+      "from": 362.18,
+      "to": 363.64,
+      "sid": 168,
+      "location": 2,
+      "content": "沙漠社区一个选择",
+      "music": 0.0
+    },
+    {
+      "from": 363.64,
+      "to": 365.14,
+      "sid": 169,
+      "location": 2,
+      "content": "我查了一下他们的官网",
+      "music": 0.0
+    },
+    {
+      "from": 365.14,
+      "to": 365.98,
+      "sid": 170,
+      "location": 2,
+      "content": "联合创始人",
+      "music": 0.0
+    },
+    {
+      "from": 365.98,
+      "to": 368.8,
+      "sid": 171,
+      "location": 2,
+      "content": "都是开罗本地学校里面的退休黑人教师",
+      "music": 0.0
+    },
+    {
+      "from": 368.8,
+      "to": 370.38,
+      "sid": 172,
+      "location": 2,
+      "content": "名字叫rice超市",
+      "music": 0.0
+    },
+    {
+      "from": 370.38,
+      "to": 372.96,
+      "sid": 173,
+      "location": 2,
+      "content": "rice大概就是上车或者说复活的意思",
+      "music": 0.0
+    },
+    {
+      "from": 372.96,
+      "to": 375.5,
+      "sid": 174,
+      "location": 2,
+      "content": "我感觉里面的商品选择虽然不是很多",
+      "music": 0.0
+    },
+    {
+      "from": 375.5,
+      "to": 377.84,
+      "sid": 175,
+      "location": 2,
+      "content": "但是基本的购物需求都能满足了",
+      "music": 0.0
+    },
+    {
+      "from": 377.84,
+      "to": 380.76,
+      "sid": 176,
+      "location": 2,
+      "content": "然后看他们这个架子上面只有零糖可乐",
+      "music": 0.0
+    },
+    {
+      "from": 380.76,
+      "to": 383.48,
+      "sid": 177,
+      "location": 2,
+      "content": "一种可能性是他们只卖无糖的健康可乐",
+      "music": 0.0
+    },
+    {
+      "from": 383.48,
+      "to": 386.23,
+      "sid": 178,
+      "location": 2,
+      "content": "也有可能是本地人只爱喝原味的可乐",
+      "music": 0.0
+    },
+    {
+      "from": 386.23,
+      "to": 389.31,
+      "sid": 179,
+      "location": 2,
+      "content": "不知道你们是喜欢无糖版的还是原味的可乐呢",
+      "music": 0.0
+    },
+    {
+      "from": 389.31,
+      "to": 392.57,
+      "sid": 180,
+      "location": 2,
+      "content": "然后我买了一个类似雪碧的饮料和两根香蕉",
+      "music": 0.0
+    },
+    {
+      "from": 392.57,
+      "to": 394.51,
+      "sid": 181,
+      "location": 2,
+      "content": "一共花了我1.87美元",
+      "music": 0.0
+    },
+    {
+      "from": 394.51,
+      "to": 395.73,
+      "sid": 182,
+      "location": 2,
+      "content": "价格还可以吧",
+      "music": 0.0
+    },
+    {
+      "from": 395.73,
+      "to": 398.73,
+      "sid": 183,
+      "location": 2,
+      "content": "不知道大家还记不记得开头我刚进开罗的时候",
+      "music": 0.0
+    },
+    {
+      "from": 398.73,
+      "to": 401.14,
+      "sid": 184,
+      "location": 2,
+      "content": "路过了一个爬满藤蔓的生锈欢迎台",
+      "music": 0.0
+    },
+    {
+      "from": 401.14,
+      "to": 403.14,
+      "sid": 185,
+      "location": 2,
+      "content": "我从另外一个方向离开开罗的时候",
+      "music": 0.0
+    },
+    {
+      "from": 403.14,
+      "to": 404.82,
+      "sid": 186,
+      "location": 2,
+      "content": "发现了一个保留完好一些的",
+      "music": 0.0
+    },
+    {
+      "from": 404.82,
+      "to": 406.1,
+      "sid": 187,
+      "location": 2,
+      "content": "欢迎来到开罗的牌子",
+      "music": 0.0
+    },
+    {
+      "from": 406.1,
+      "to": 407.84,
+      "sid": 188,
+      "location": 2,
+      "content": "上面写着开罗有古宅",
+      "music": 0.0
+    },
+    {
+      "from": 407.84,
+      "to": 408.5,
+      "sid": 189,
+      "location": 2,
+      "content": "图书馆",
+      "music": 0.0
+    },
+    {
+      "from": 408.5,
+      "to": 409.66,
+      "sid": 190,
+      "location": 2,
+      "content": "博物馆和公园",
+      "music": 0.0
+    },
+    {
+      "from": 409.66,
+      "to": 410.0,
+      "sid": 191,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 410.0,
+      "to": 411.28,
+      "sid": 192,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 411.28,
+      "to": 414.06,
+      "sid": 193,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

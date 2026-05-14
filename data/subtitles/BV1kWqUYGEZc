@@ -1,0 +1,1532 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.4,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了科罗拉多州",
+      "music": 0.0
+    },
+    {
+      "from": 1.4,
+      "to": 3.34,
+      "sid": 2,
+      "location": 2,
+      "content": "和堪萨斯州交界的荒野上",
+      "music": 0.0
+    },
+    {
+      "from": 3.34,
+      "to": 6.27,
+      "sid": 3,
+      "location": 2,
+      "content": "这个蓝牌子上面写着欢迎再来到堪萨斯",
+      "music": 0.0
+    },
+    {
+      "from": 6.27,
+      "to": 9.29,
+      "sid": 4,
+      "location": 2,
+      "content": "然后前面就是欢迎来到科罗拉多州的牌子",
+      "music": 0.0
+    },
+    {
+      "from": 9.29,
+      "to": 12.25,
+      "sid": 5,
+      "location": 2,
+      "content": "人们提到科罗拉多都会想到它壮美的山峰",
+      "music": 0.0
+    },
+    {
+      "from": 12.25,
+      "to": 14.25,
+      "sid": 6,
+      "location": 2,
+      "content": "但是这个州的东部地区都是这样",
+      "music": 0.0
+    },
+    {
+      "from": 14.25,
+      "to": 15.64,
+      "sid": 7,
+      "location": 2,
+      "content": "人烟稀少的荒野",
+      "music": 0.0
+    },
+    {
+      "from": 15.64,
+      "to": 18.61,
+      "sid": 8,
+      "location": 2,
+      "content": "这条主要的公路都很少有来往的车辆",
+      "music": 0.0
+    },
+    {
+      "from": 18.61,
+      "to": 21.85,
+      "sid": 9,
+      "location": 2,
+      "content": "而这边半干旱的气候也不太利于植物的生长",
+      "music": 0.0
+    },
+    {
+      "from": 21.85,
+      "to": 23.19,
+      "sid": 10,
+      "location": 2,
+      "content": "如果是在我们中国",
+      "music": 0.0
+    },
+    {
+      "from": 23.19,
+      "to": 25.85,
+      "sid": 11,
+      "location": 2,
+      "content": "这里铁定是古代的苦寒流放之地",
+      "music": 0.0
+    },
+    {
+      "from": 25.85,
+      "to": 27.89,
+      "sid": 12,
+      "location": 2,
+      "content": "而在80多年前的二战期间",
+      "music": 0.0
+    },
+    {
+      "from": 27.89,
+      "to": 28.93,
+      "sid": 13,
+      "location": 2,
+      "content": "大约有1万名",
+      "music": 0.0
+    },
+    {
+      "from": 28.93,
+      "to": 31.15,
+      "sid": 14,
+      "location": 2,
+      "content": "原先住在太平洋沿岸的日裔美国人",
+      "music": 0.0
+    },
+    {
+      "from": 31.15,
+      "to": 32.65,
+      "sid": 15,
+      "location": 2,
+      "content": "由于被怀疑是间谍",
+      "music": 0.0
+    },
+    {
+      "from": 32.65,
+      "to": 33.61,
+      "sid": 16,
+      "location": 2,
+      "content": "都被流放到了",
+      "music": 0.0
+    },
+    {
+      "from": 33.61,
+      "to": 35.95,
+      "sid": 17,
+      "location": 2,
+      "content": "离州界线只有15分钟车程的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 35.95,
+      "to": 37.589,
+      "sid": 18,
+      "location": 2,
+      "content": "格拉纳达路上",
+      "music": 0.0
+    },
+    {
+      "from": 37.589,
+      "to": 39.869,
+      "sid": 19,
+      "location": 2,
+      "content": "可以看到这片区域主要的经济模式",
+      "music": 0.0
+    },
+    {
+      "from": 39.869,
+      "to": 40.909,
+      "sid": 20,
+      "location": 2,
+      "content": "有的人养牛",
+      "music": 0.0
+    },
+    {
+      "from": 40.909,
+      "to": 43.379,
+      "sid": 21,
+      "location": 2,
+      "content": "也有人通过抽地下水灌溉种地",
+      "music": 0.0
+    },
+    {
+      "from": 43.379,
+      "to": 45.539,
+      "sid": 22,
+      "location": 2,
+      "content": "还有人就利用这边大片的空间",
+      "music": 0.0
+    },
+    {
+      "from": 45.539,
+      "to": 47.119,
+      "sid": 23,
+      "location": 2,
+      "content": "随便堆一堆各种东西",
+      "music": 0.0
+    },
+    {
+      "from": 47.119,
+      "to": 49.659,
+      "sid": 24,
+      "location": 2,
+      "content": "现在我进到了只有445个人的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 49.659,
+      "to": 50.73,
+      "sid": 25,
+      "location": 2,
+      "content": "格拉纳达里",
+      "music": 0.0
+    },
+    {
+      "from": 50.73,
+      "to": 52.17,
+      "sid": 26,
+      "location": 2,
+      "content": "这种百人的农业小镇",
+      "music": 0.0
+    },
+    {
+      "from": 52.17,
+      "to": 54.09,
+      "sid": 27,
+      "location": 2,
+      "content": "一般来说都有一个标志性建筑",
+      "music": 0.0
+    },
+    {
+      "from": 54.09,
+      "to": 56.37,
+      "sid": 28,
+      "location": 2,
+      "content": "也就是镇上面最高的谷仓塔",
+      "music": 0.0
+    },
+    {
+      "from": 56.37,
+      "to": 59.99,
+      "sid": 29,
+      "location": 2,
+      "content": "一般来说它们都是在货运铁路线边方便运输",
+      "music": 0.0
+    },
+    {
+      "from": 59.99,
+      "to": 62.39,
+      "sid": 30,
+      "location": 2,
+      "content": "目前格拉拉达的人口是24%",
+      "music": 0.0
+    },
+    {
+      "from": 62.39,
+      "to": 63.75,
+      "sid": 31,
+      "location": 2,
+      "content": "白人73%",
+      "music": 0.0
+    },
+    {
+      "from": 63.75,
+      "to": 66.37,
+      "sid": 32,
+      "location": 2,
+      "content": "拉美人还有3%是混合种族",
+      "music": 0.0
+    },
+    {
+      "from": 66.37,
+      "to": 69.49,
+      "sid": 33,
+      "location": 2,
+      "content": "现在这个小镇里面一个亚洲人和黑人都没有",
+      "music": 0.0
+    },
+    {
+      "from": 69.49,
+      "to": 70.69,
+      "sid": 34,
+      "location": 2,
+      "content": "因此小镇主路上",
+      "music": 0.0
+    },
+    {
+      "from": 70.69,
+      "to": 72.57,
+      "sid": 35,
+      "location": 2,
+      "content": "这个博物馆上面印着的亚洲面孔",
+      "music": 0.0
+    },
+    {
+      "from": 72.57,
+      "to": 74.03,
+      "sid": 36,
+      "location": 2,
+      "content": "就显得格外的突兀",
+      "music": 0.0
+    },
+    {
+      "from": 74.03,
+      "to": 76.31,
+      "sid": 37,
+      "location": 2,
+      "content": "这个人其实是当年被派到欧洲去",
+      "music": 0.0
+    },
+    {
+      "from": 76.31,
+      "to": 79.16,
+      "sid": 38,
+      "location": 2,
+      "content": "和意大利人作战的日本籍美国大兵",
+      "music": 0.0
+    },
+    {
+      "from": 79.16,
+      "to": 81.16,
+      "sid": 39,
+      "location": 2,
+      "content": "而旁边的另外一扇窗上面印着",
+      "music": 0.0
+    },
+    {
+      "from": 81.16,
+      "to": 83.04,
+      "sid": 40,
+      "location": 2,
+      "content": "就是当年1万多日裔美国人",
+      "music": 0.0
+    },
+    {
+      "from": 83.04,
+      "to": 86.59,
+      "sid": 41,
+      "location": 2,
+      "content": "在格拉纳达小镇外的荒野里被囚禁的集中营",
+      "music": 0.0
+    },
+    {
+      "from": 86.59,
+      "to": 89.73,
+      "sid": 42,
+      "location": 2,
+      "content": "这个博物馆是本地人自己搞的非政府组织",
+      "music": 0.0
+    },
+    {
+      "from": 89.73,
+      "to": 92.53,
+      "sid": 43,
+      "location": 2,
+      "content": "毕竟这也算是当地很重要的一段历史",
+      "music": 0.0
+    },
+    {
+      "from": 92.53,
+      "to": 94.37,
+      "sid": 44,
+      "location": 2,
+      "content": "不过这边实在是太偏了",
+      "music": 0.0
+    },
+    {
+      "from": 94.37,
+      "to": 96.14,
+      "sid": 45,
+      "location": 2,
+      "content": "来参观的人其实很少",
+      "music": 0.0
+    },
+    {
+      "from": 96.14,
+      "to": 98.74,
+      "sid": 46,
+      "location": 2,
+      "content": "再加上本地一共也就只有几百个居民",
+      "music": 0.0
+    },
+    {
+      "from": 98.74,
+      "to": 101.36,
+      "sid": 47,
+      "location": 2,
+      "content": "因此他们这两天似乎没有开门的样子",
+      "music": 0.0
+    },
+    {
+      "from": 101.36,
+      "to": 104.14,
+      "sid": 48,
+      "location": 2,
+      "content": "不过看网上的照片里面其实面积也不大",
+      "music": 0.0
+    },
+    {
+      "from": 104.14,
+      "to": 106.7,
+      "sid": 49,
+      "location": 2,
+      "content": "不过好在除了本地人自发稿的组织",
+      "music": 0.0
+    },
+    {
+      "from": 106.7,
+      "to": 108.78,
+      "sid": 50,
+      "location": 2,
+      "content": "这边还有美国国家公园管理局",
+      "music": 0.0
+    },
+    {
+      "from": 108.78,
+      "to": 110.67,
+      "sid": 51,
+      "location": 2,
+      "content": "管辖下的国家历史遗址",
+      "music": 0.0
+    },
+    {
+      "from": 110.67,
+      "to": 112.87,
+      "sid": 52,
+      "location": 2,
+      "content": "其实我有一种上当受骗的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 112.87,
+      "to": 115.35,
+      "sid": 53,
+      "location": 2,
+      "content": "这个遗址的核心就是这个小广场了",
+      "music": 0.0
+    },
+    {
+      "from": 115.35,
+      "to": 117.11,
+      "sid": 54,
+      "location": 2,
+      "content": "几个牌子静静地立在这里",
+      "music": 0.0
+    },
+    {
+      "from": 117.11,
+      "to": 118.52,
+      "sid": 55,
+      "location": 2,
+      "content": "叙述着当年的历史",
+      "music": 0.0
+    },
+    {
+      "from": 118.52,
+      "to": 120.42,
+      "sid": 56,
+      "location": 2,
+      "content": "这便是当年集中营的原址",
+      "music": 0.0
+    },
+    {
+      "from": 120.42,
+      "to": 121.74,
+      "sid": 57,
+      "location": 2,
+      "content": "二战结束了之后",
+      "music": 0.0
+    },
+    {
+      "from": 121.74,
+      "to": 123.6,
+      "sid": 58,
+      "location": 2,
+      "content": "这些日裔美国人就离开了这里",
+      "music": 0.0
+    },
+    {
+      "from": 123.6,
+      "to": 126.23,
+      "sid": 59,
+      "location": 2,
+      "content": "这些原先的房子也都被拆掉了",
+      "music": 0.0
+    },
+    {
+      "from": 126.43,
+      "to": 127.91,
+      "sid": 60,
+      "location": 2,
+      "content": "要不是这边有一个石头",
+      "music": 0.0
+    },
+    {
+      "from": 127.91,
+      "to": 129.83,
+      "sid": 61,
+      "location": 2,
+      "content": "显示里是美国国家历史遗址",
+      "music": 0.0
+    },
+    {
+      "from": 129.83,
+      "to": 132.31,
+      "sid": 62,
+      "location": 2,
+      "content": "我还以为自己来错了地方",
+      "music": 0.0
+    },
+    {
+      "from": 137.22,
+      "to": 139.14,
+      "sid": 63,
+      "location": 2,
+      "content": "这边的管理也是非常的随意",
+      "music": 0.0
+    },
+    {
+      "from": 139.14,
+      "to": 140.08,
+      "sid": 64,
+      "location": 2,
+      "content": "无人值守",
+      "music": 0.0
+    },
+    {
+      "from": 140.08,
+      "to": 142.14,
+      "sid": 65,
+      "location": 2,
+      "content": "有一个牌子提醒你这边不能打猎",
+      "music": 0.0
+    },
+    {
+      "from": 142.14,
+      "to": 143.579,
+      "sid": 66,
+      "location": 2,
+      "content": "或者说乱倒垃圾",
+      "music": 0.0
+    },
+    {
+      "from": 143.579,
+      "to": 144.219,
+      "sid": 67,
+      "location": 2,
+      "content": "这个牌子",
+      "music": 0.0
+    },
+    {
+      "from": 144.219,
+      "to": 147.1,
+      "sid": 68,
+      "location": 2,
+      "content": "也就是说公园的开放时间是日出到日落",
+      "music": 0.0
+    },
+    {
+      "from": 147.1,
+      "to": 148.3,
+      "sid": 69,
+      "location": 2,
+      "content": "你们想参观的话",
+      "music": 0.0
+    },
+    {
+      "from": 148.3,
+      "to": 149.34,
+      "sid": 70,
+      "location": 2,
+      "content": "自己看着办吧",
+      "music": 0.0
+    },
+    {
+      "from": 149.34,
+      "to": 151.06,
+      "sid": 71,
+      "location": 2,
+      "content": "在核心的小广场之外",
+      "music": 0.0
+    },
+    {
+      "from": 151.06,
+      "to": 153.83,
+      "sid": 72,
+      "location": 2,
+      "content": "这个公园里面还保留着当年营地的结构",
+      "music": 0.0
+    },
+    {
+      "from": 153.83,
+      "to": 156.81,
+      "sid": 73,
+      "location": 2,
+      "content": "我就是沿着他们原先中间的路随便开一开",
+      "music": 0.0
+    },
+    {
+      "from": 156.81,
+      "to": 158.27,
+      "sid": 74,
+      "location": 2,
+      "content": "虽然说这个国家遗址",
+      "music": 0.0
+    },
+    {
+      "from": 158.27,
+      "to": 160.48,
+      "sid": 75,
+      "location": 2,
+      "content": "是一个无人值守的荒野公园",
+      "music": 0.0
+    },
+    {
+      "from": 160.48,
+      "to": 161.94,
+      "sid": 76,
+      "location": 2,
+      "content": "按照法律上的定义",
+      "music": 0.0
+    },
+    {
+      "from": 161.94,
+      "to": 164.72,
+      "sid": 77,
+      "location": 2,
+      "content": "这边跟很多美国的知名景点是平级的",
+      "music": 0.0
+    },
+    {
+      "from": 164.72,
+      "to": 166.14,
+      "sid": 78,
+      "location": 2,
+      "content": "比如说华盛顿特区",
+      "music": 0.0
+    },
+    {
+      "from": 166.14,
+      "to": 168.0,
+      "sid": 79,
+      "location": 2,
+      "content": "林肯被刺杀的福特剧院",
+      "music": 0.0
+    },
+    {
+      "from": 168.0,
+      "to": 171.0,
+      "sid": 80,
+      "location": 2,
+      "content": "和连接白宫和国会大厦的宾夕法尼亚大道",
+      "music": 0.0
+    },
+    {
+      "from": 171.0,
+      "to": 173.9,
+      "sid": 81,
+      "location": 2,
+      "content": "如今这个遗址隔壁就是小镇的垃圾填埋场",
+      "music": 0.0
+    },
+    {
+      "from": 173.9,
+      "to": 176.4,
+      "sid": 82,
+      "location": 2,
+      "content": "我倒是感觉在这个填埋场门口的停牌",
+      "music": 0.0
+    },
+    {
+      "from": 176.4,
+      "to": 178.04,
+      "sid": 83,
+      "location": 2,
+      "content": "和格拉拉达小镇主路上",
+      "music": 0.0
+    },
+    {
+      "from": 178.04,
+      "to": 180.5,
+      "sid": 84,
+      "location": 2,
+      "content": "废弃建筑里面找到了不少战争的痕迹",
+      "music": 0.0
+    },
+    {
+      "from": 180.5,
+      "to": 181.4,
+      "sid": 85,
+      "location": 2,
+      "content": "众所周知",
+      "music": 0.0
+    },
+    {
+      "from": 181.4,
+      "to": 182.84,
+      "sid": 86,
+      "location": 2,
+      "content": "美国当年向日本宣战",
+      "music": 0.0
+    },
+    {
+      "from": 182.84,
+      "to": 184.42,
+      "sid": 87,
+      "location": 2,
+      "content": "就是因为珍珠港事件",
+      "music": 0.0
+    },
+    {
+      "from": 184.42,
+      "to": 187.74,
+      "sid": 88,
+      "location": 2,
+      "content": "当年美国太平洋舰队有八艘战列舰受到了重创",
+      "music": 0.0
+    },
+    {
+      "from": 187.74,
+      "to": 189.03,
+      "sid": 89,
+      "location": 2,
+      "content": "或者直接报废",
+      "music": 0.0
+    },
+    {
+      "from": 189.03,
+      "to": 191.07,
+      "sid": 90,
+      "location": 2,
+      "content": "唯一一艘逃过一劫的战列舰",
+      "music": 0.0
+    },
+    {
+      "from": 191.07,
+      "to": 193.91,
+      "sid": 91,
+      "location": 2,
+      "content": "就是以格纳纳达所在的科罗拉多州命名的",
+      "music": 0.0
+    },
+    {
+      "from": 193.91,
+      "to": 195.399,
+      "sid": 92,
+      "location": 2,
+      "content": "科罗拉多号战列舰",
+      "music": 0.0
+    },
+    {
+      "from": 195.399,
+      "to": 197.399,
+      "sid": 93,
+      "location": 2,
+      "content": "当时他正好在西雅图附近的",
+      "music": 0.0
+    },
+    {
+      "from": 197.399,
+      "to": 199.359,
+      "sid": 94,
+      "location": 2,
+      "content": "普吉特造船厂里面进行改造",
+      "music": 0.0
+    },
+    {
+      "from": 199.359,
+      "to": 200.839,
+      "sid": 95,
+      "location": 2,
+      "content": "并不停在珍珠港内",
+      "music": 0.0
+    },
+    {
+      "from": 200.839,
+      "to": 202.95,
+      "sid": 96,
+      "location": 2,
+      "content": "在加装了更多的防空炮之后",
+      "music": 0.0
+    },
+    {
+      "from": 202.95,
+      "to": 206.09,
+      "sid": 97,
+      "location": 2,
+      "content": "科罗拉多号先是在旧金山的金门大桥附近巡逻",
+      "music": 0.0
+    },
+    {
+      "from": 206.09,
+      "to": 209.01,
+      "sid": 98,
+      "location": 2,
+      "content": "以防止美国本土直接遭到空中打击",
+      "music": 0.0
+    },
+    {
+      "from": 209.01,
+      "to": 210.43,
+      "sid": 99,
+      "location": 2,
+      "content": "随后的1942年",
+      "music": 0.0
+    },
+    {
+      "from": 210.43,
+      "to": 212.79,
+      "sid": 100,
+      "location": 2,
+      "content": "科罗拉多号返回太平洋前线作战",
+      "music": 0.0
+    },
+    {
+      "from": 212.79,
+      "to": 214.45,
+      "sid": 101,
+      "location": 2,
+      "content": "在战后的1947年",
+      "music": 0.0
+    },
+    {
+      "from": 214.45,
+      "to": 215.77,
+      "sid": 102,
+      "location": 2,
+      "content": "美国海军就退役了",
+      "music": 0.0
+    },
+    {
+      "from": 215.77,
+      "to": 216.73,
+      "sid": 103,
+      "location": 2,
+      "content": "科罗拉多号",
+      "music": 0.0
+    },
+    {
+      "from": 216.73,
+      "to": 217.77,
+      "sid": 104,
+      "location": 2,
+      "content": "在1959年",
+      "music": 0.0
+    },
+    {
+      "from": 217.77,
+      "to": 219.61,
+      "sid": 105,
+      "location": 2,
+      "content": "科罗拉多号被出售拆解",
+      "music": 0.0
+    },
+    {
+      "from": 219.61,
+      "to": 221.61,
+      "sid": 106,
+      "location": 2,
+      "content": "其实美国二战很多经典战列舰",
+      "music": 0.0
+    },
+    {
+      "from": 221.61,
+      "to": 224.41,
+      "sid": 107,
+      "location": 2,
+      "content": "在战后都和科罗拉多号一样被拆解了",
+      "music": 0.0
+    },
+    {
+      "from": 224.41,
+      "to": 227.6,
+      "sid": 108,
+      "location": 2,
+      "content": "同期为数不多保留下来的就是密苏里号战列舰",
+      "music": 0.0
+    },
+    {
+      "from": 227.6,
+      "to": 230.56,
+      "sid": 109,
+      "location": 2,
+      "content": "它不仅是美国二战最后一艘退役的战列舰",
+      "music": 0.0
+    },
+    {
+      "from": 230.56,
+      "to": 233.14,
+      "sid": 110,
+      "location": 2,
+      "content": "而且它也是日本签字投降仪式的地方",
+      "music": 0.0
+    },
+    {
+      "from": 233.14,
+      "to": 235.62,
+      "sid": 111,
+      "location": 2,
+      "content": "如果大家想要体验这些经典舰船的话",
+      "music": 0.0
+    },
+    {
+      "from": 235.62,
+      "to": 237.28,
+      "sid": 112,
+      "location": 2,
+      "content": "可以来到这个位于夏威夷的",
+      "music": 0.0
+    },
+    {
+      "from": 237.28,
+      "to": 239.0,
+      "sid": 113,
+      "location": 2,
+      "content": "密苏里号战列舰纪念馆",
+      "music": 0.0
+    },
+    {
+      "from": 239.0,
+      "to": 240.92,
+      "sid": 114,
+      "location": 2,
+      "content": "或者说大家可以和我一起启动",
+      "music": 0.0
+    },
+    {
+      "from": 240.92,
+      "to": 242.94,
+      "sid": 115,
+      "location": 2,
+      "content": "战舰世界的13.11版本",
+      "music": 0.0
+    },
+    {
+      "from": 242.94,
+      "to": 244.66,
+      "sid": 116,
+      "location": 2,
+      "content": "一年一度的圣诞香来了",
+      "music": 0.0
+    },
+    {
+      "from": 244.66,
+      "to": 246.16,
+      "sid": 117,
+      "location": 2,
+      "content": "包含各种历史名舰",
+      "music": 0.0
+    },
+    {
+      "from": 246.16,
+      "to": 248.87,
+      "sid": 118,
+      "location": 2,
+      "content": "绝版强船等100多艘稀有舰船",
+      "music": 0.0
+    },
+    {
+      "from": 248.87,
+      "to": 250.67,
+      "sid": 119,
+      "location": 2,
+      "content": "还会随机掉落黄金箱",
+      "music": 0.0
+    },
+    {
+      "from": 250.67,
+      "to": 252.37,
+      "sid": 120,
+      "location": 2,
+      "content": "能开出黄金舰船",
+      "music": 0.0
+    },
+    {
+      "from": 252.37,
+      "to": 254.47,
+      "sid": 121,
+      "location": 2,
+      "content": "同时在这世界13.11",
+      "music": 0.0
+    },
+    {
+      "from": 254.47,
+      "to": 256.35,
+      "sid": 122,
+      "location": 2,
+      "content": "创作者大赛正在进行中",
+      "music": 0.0
+    },
+    {
+      "from": 256.35,
+      "to": 257.87,
+      "sid": 123,
+      "location": 2,
+      "content": "投稿视频参加活动",
+      "music": 0.0
+    },
+    {
+      "from": 257.87,
+      "to": 258.55,
+      "sid": 124,
+      "location": 2,
+      "content": "奖金奖励",
+      "music": 0.0
+    },
+    {
+      "from": 258.55,
+      "to": 260.59,
+      "sid": 125,
+      "location": 2,
+      "content": "还有圣诞香传奇舰船等着你",
+      "music": 0.0
+    },
+    {
+      "from": 260.59,
+      "to": 263.28,
+      "sid": 126,
+      "location": 2,
+      "content": "后续还有可能参加神秘官方线下活动",
+      "music": 0.0
+    },
+    {
+      "from": 263.28,
+      "to": 264.8,
+      "sid": 127,
+      "location": 2,
+      "content": "参与了北极远征的舰长",
+      "music": 0.0
+    },
+    {
+      "from": 264.8,
+      "to": 267.02,
+      "sid": 128,
+      "location": 2,
+      "content": "不要忘记领取你的时机船哦",
+      "music": 0.0
+    },
+    {
+      "from": 267.02,
+      "to": 269.94,
+      "sid": 129,
+      "location": 2,
+      "content": "回到开头的格拉纳达小镇博物馆门口",
+      "music": 0.0
+    },
+    {
+      "from": 269.94,
+      "to": 271.38,
+      "sid": 130,
+      "location": 2,
+      "content": "这块牌子上面列出了",
+      "music": 0.0
+    },
+    {
+      "from": 271.38,
+      "to": 273.45,
+      "sid": 131,
+      "location": 2,
+      "content": "这片区域内的重要历史事件",
+      "music": 0.0
+    },
+    {
+      "from": 273.45,
+      "to": 275.67,
+      "sid": 132,
+      "location": 2,
+      "content": "除了刚刚看的集中营遗址",
+      "music": 0.0
+    },
+    {
+      "from": 275.67,
+      "to": 276.65,
+      "sid": 133,
+      "location": 2,
+      "content": "1864年",
+      "music": 0.0
+    },
+    {
+      "from": 276.65,
+      "to": 279.53,
+      "sid": 134,
+      "location": 2,
+      "content": "这里还发生过针对美洲原住民的沙溪惨案",
+      "music": 0.0
+    },
+    {
+      "from": 279.53,
+      "to": 281.85,
+      "sid": 135,
+      "location": 2,
+      "content": "当年事件的发生地也被指定为了",
+      "music": 0.0
+    },
+    {
+      "from": 281.85,
+      "to": 283.35,
+      "sid": 136,
+      "location": 2,
+      "content": "美国国家历史遗址",
+      "music": 0.0
+    },
+    {
+      "from": 283.35,
+      "to": 285.73,
+      "sid": 137,
+      "location": 2,
+      "content": "它距离格拉纳达也就只有75km",
+      "music": 0.0
+    },
+    {
+      "from": 285.73,
+      "to": 287.12,
+      "sid": 138,
+      "location": 2,
+      "content": "50分钟的车程",
+      "music": 0.0
+    },
+    {
+      "from": 287.12,
+      "to": 287.84,
+      "sid": 139,
+      "location": 2,
+      "content": "这段路上",
+      "music": 0.0
+    },
+    {
+      "from": 287.84,
+      "to": 289.0,
+      "sid": 140,
+      "location": 2,
+      "content": "我唯一经过的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 289.0,
+      "to": 291.0,
+      "sid": 141,
+      "location": 2,
+      "content": "就是这个叫做布里斯托的地方",
+      "music": 0.0
+    },
+    {
+      "from": 291.0,
+      "to": 293.16,
+      "sid": 142,
+      "location": 2,
+      "content": "布里斯托小镇最显眼的就是这一排",
+      "music": 0.0
+    },
+    {
+      "from": 293.16,
+      "to": 295.739,
+      "sid": 143,
+      "location": 2,
+      "content": "停在马路边上的农用器械机器",
+      "music": 0.0
+    },
+    {
+      "from": 295.739,
+      "to": 296.899,
+      "sid": 144,
+      "location": 2,
+      "content": "转一圈看一看",
+      "music": 0.0
+    },
+    {
+      "from": 296.899,
+      "to": 299.87,
+      "sid": 145,
+      "location": 2,
+      "content": "这个应该就是当年布里斯托学校的停车场",
+      "music": 0.0
+    },
+    {
+      "from": 299.87,
+      "to": 302.59,
+      "sid": 146,
+      "location": 2,
+      "content": "不过布里斯托这样的偏远农业小镇的学校",
+      "music": 0.0
+    },
+    {
+      "from": 302.59,
+      "to": 304.5,
+      "sid": 147,
+      "location": 2,
+      "content": "一般来说现在都是废弃的",
+      "music": 0.0
+    },
+    {
+      "from": 304.5,
+      "to": 306.36,
+      "sid": 148,
+      "location": 2,
+      "content": "毕竟小智主街上面的老房子",
+      "music": 0.0
+    },
+    {
+      "from": 306.36,
+      "to": 308.19,
+      "sid": 149,
+      "location": 2,
+      "content": "看着都是闲置很久了",
+      "music": 0.0
+    },
+    {
+      "from": 308.19,
+      "to": 309.75,
+      "sid": 150,
+      "location": 2,
+      "content": "往遗址地的方向开",
+      "music": 0.0
+    },
+    {
+      "from": 309.75,
+      "to": 311.75,
+      "sid": 151,
+      "location": 2,
+      "content": "其实当时已经快五点钟了",
+      "music": 0.0
+    },
+    {
+      "from": 311.75,
+      "to": 314.299,
+      "sid": 152,
+      "location": 2,
+      "content": "遗址地网站上面写的是四点钟关门",
+      "music": 0.0
+    },
+    {
+      "from": 314.299,
+      "to": 317.339,
+      "sid": 153,
+      "location": 2,
+      "content": "但是由于刚刚去了格拉纳达小镇的集中营遗址",
+      "music": 0.0
+    },
+    {
+      "from": 317.339,
+      "to": 320.499,
+      "sid": 154,
+      "location": 2,
+      "content": "我估计那个沙溪惨案的地方也跟这个差不多",
+      "music": 0.0
+    },
+    {
+      "from": 320.499,
+      "to": 321.339,
+      "sid": 155,
+      "location": 2,
+      "content": "就是露天的",
+      "music": 0.0
+    },
+    {
+      "from": 321.339,
+      "to": 322.7,
+      "sid": 156,
+      "location": 2,
+      "content": "让你随便进去看一看",
+      "music": 0.0
+    },
+    {
+      "from": 322.7,
+      "to": 325.16,
+      "sid": 157,
+      "location": 2,
+      "content": "于是我还是抱着一丝希望接着往前开",
+      "music": 0.0
+    },
+    {
+      "from": 325.16,
+      "to": 328.06,
+      "sid": 158,
+      "location": 2,
+      "content": "不过有一说一这个日落时分的景象倒是挺不错",
+      "music": 0.0
+    },
+    {
+      "from": 328.06,
+      "to": 329.46,
+      "sid": 159,
+      "location": 2,
+      "content": "在过了这个路口之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 329.46,
+      "to": 332.29,
+      "sid": 160,
+      "location": 2,
+      "content": "剩下来的路基本上都是没有铺柏油的十字路",
+      "music": 0.0
+    },
+    {
+      "from": 332.29,
+      "to": 335.38,
+      "sid": 161,
+      "location": 2,
+      "content": "路两边大部分都是无人居住的农田和草场",
+      "music": 0.0
+    },
+    {
+      "from": 335.38,
+      "to": 338.42,
+      "sid": 162,
+      "location": 2,
+      "content": "去程的十英里或者说16km的石子路上",
+      "music": 0.0
+    },
+    {
+      "from": 338.42,
+      "to": 340.52,
+      "sid": 163,
+      "location": 2,
+      "content": "我一辆对面的来车都没有碰到",
+      "music": 0.0
+    },
+    {
+      "from": 340.52,
+      "to": 343.02,
+      "sid": 164,
+      "location": 2,
+      "content": "当年为了找到这个事件发生的遗址",
+      "music": 0.0
+    },
+    {
+      "from": 343.02,
+      "to": 345.06,
+      "sid": 165,
+      "location": 2,
+      "content": "历史学家和原住民部落的后代",
+      "music": 0.0
+    },
+    {
+      "from": 345.06,
+      "to": 346.43,
+      "sid": 166,
+      "location": 2,
+      "content": "都花了不少的功夫",
+      "music": 0.0
+    },
+    {
+      "from": 346.43,
+      "to": 349.39,
+      "sid": 167,
+      "location": 2,
+      "content": "在这片荒凉的平原上面开了20多分钟之后",
+      "music": 0.0
+    },
+    {
+      "from": 349.39,
+      "to": 352.49,
+      "sid": 168,
+      "location": 2,
+      "content": "我终于在05:30左右的时候抵达了这个遗址",
+      "music": 0.0
+    },
+    {
+      "from": 352.49,
+      "to": 354.05,
+      "sid": 169,
+      "location": 2,
+      "content": "不过这里给我的感觉更像是",
+      "music": 0.0
+    },
+    {
+      "from": 354.05,
+      "to": 356.57,
+      "sid": 170,
+      "location": 2,
+      "content": "把周围的草场中的一小片圈了起来",
+      "music": 0.0
+    },
+    {
+      "from": 356.57,
+      "to": 358.97,
+      "sid": 171,
+      "location": 2,
+      "content": "然后在这边立了一块牌子做标记",
+      "music": 0.0
+    },
+    {
+      "from": 358.97,
+      "to": 361.75,
+      "sid": 172,
+      "location": 2,
+      "content": "没想到这一边的管理还要更加严格一些",
+      "music": 0.0
+    },
+    {
+      "from": 361.75,
+      "to": 362.91,
+      "sid": 173,
+      "location": 2,
+      "content": "有一道小门",
+      "music": 0.0
+    },
+    {
+      "from": 362.91,
+      "to": 365.07,
+      "sid": 174,
+      "location": 2,
+      "content": "可能是因为游客太少的缘故",
+      "music": 0.0
+    },
+    {
+      "from": 365.07,
+      "to": 366.75,
+      "sid": 175,
+      "location": 2,
+      "content": "这里只有周四到周一的",
+      "music": 0.0
+    },
+    {
+      "from": 366.75,
+      "to": 368.87,
+      "sid": 176,
+      "location": 2,
+      "content": "早上九点到下午四点开门",
+      "music": 0.0
+    },
+    {
+      "from": 368.87,
+      "to": 370.79,
+      "sid": 177,
+      "location": 2,
+      "content": "其实在国家公园的网站上面",
+      "music": 0.0
+    },
+    {
+      "from": 370.79,
+      "to": 373.31,
+      "sid": 178,
+      "location": 2,
+      "content": "他们也承认这边基本上没有专门的开发",
+      "music": 0.0
+    },
+    {
+      "from": 373.31,
+      "to": 376.24,
+      "sid": 179,
+      "location": 2,
+      "content": "里面就是一个野餐区和一个小房子",
+      "music": 0.0
+    },
+    {
+      "from": 376.24,
+      "to": 379.34,
+      "sid": 180,
+      "location": 2,
+      "content": "所以说其实进去能看到的东西也非常的有限",
+      "music": 0.0
+    },
+    {
+      "from": 379.34,
+      "to": 381.04,
+      "sid": 181,
+      "location": 2,
+      "content": "这期视频我基本上没有讲",
+      "music": 0.0
+    },
+    {
+      "from": 381.04,
+      "to": 382.71,
+      "sid": 182,
+      "location": 2,
+      "content": "历史上究竟发生了什么",
+      "music": 0.0
+    },
+    {
+      "from": 382.71,
+      "to": 385.72,
+      "sid": 183,
+      "location": 2,
+      "content": "一是因为这两个事件讲起来都有一些太过沉重",
+      "music": 0.0
+    },
+    {
+      "from": 385.72,
+      "to": 388.32,
+      "sid": 184,
+      "location": 2,
+      "content": "二是因为我个人的视角非常有局限性",
+      "music": 0.0
+    },
+    {
+      "from": 388.32,
+      "to": 389.32,
+      "sid": 185,
+      "location": 2,
+      "content": "如果感兴趣的话",
+      "music": 0.0
+    },
+    {
+      "from": 389.32,
+      "to": 391.12,
+      "sid": 186,
+      "location": 2,
+      "content": "大家可以自行去深入了解",
+      "music": 0.0
+    },
+    {
+      "from": 391.12,
+      "to": 393.01,
+      "sid": 187,
+      "location": 2,
+      "content": "我这次就纯当瞎逛了",
+      "music": 0.0
+    },
+    {
+      "from": 393.01,
+      "to": 394.59,
+      "sid": 188,
+      "location": 2,
+      "content": "好的这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 394.59,
+      "to": 395.01,
+      "sid": 189,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 395.01,
+      "to": 397.32,
+      "sid": 190,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

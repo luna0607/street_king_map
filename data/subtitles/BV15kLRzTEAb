@@ -1,0 +1,5943 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "en",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.1,
+      "sid": 1,
+      "location": 2,
+      "content": "Lu Xun once said",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1.1,
+      "to": 2.62,
+      "sid": 2,
+      "location": 2,
+      "content": "Florida doesn't tolerate idleness",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 2.62,
+      "to": 5.54,
+      "sid": 3,
+      "location": 2,
+      "content": "Many of the crazy incidents in the U.S. happen in Florida",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 5.54,
+      "to": 7.9,
+      "sid": 4,
+      "location": 2,
+      "content": "For instance, a Florida man broke into someone's house",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 7.9,
+      "to": 8.56,
+      "sid": 5,
+      "location": 2,
+      "content": "didn't take anything",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 8.56,
+      "to": 10.0,
+      "sid": 6,
+      "location": 2,
+      "content": "and only shaved the cat's head",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 10.0,
+      "to": 12.0,
+      "sid": 7,
+      "location": 2,
+      "content": "Another Florida man broke into a prison",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 12.0,
+      "to": 13.29,
+      "sid": 8,
+      "location": 2,
+      "content": "just to hang out with his friends",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 13.29,
+      "to": 16.31,
+      "sid": 9,
+      "location": 2,
+      "content": "Official statistics actually echo these bizarre news stories",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 16.31,
+      "to": 18.41,
+      "sid": 10,
+      "location": 2,
+      "content": "17.5% of Florida's residents",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 18.41,
+      "to": 19.41,
+      "sid": 11,
+      "location": 2,
+      "content": "which is about 3 million people",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 19.41,
+      "to": 20.81,
+      "sid": 12,
+      "location": 2,
+      "content": "do indeed have mental illnesses",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 20.81,
+      "to": 23.25,
+      "sid": 13,
+      "location": 2,
+      "content": "making Florida the state with the highest number of mentally ill individuals in the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 23.25,
+      "to": 24.54,
+      "sid": 14,
+      "location": 2,
+      "content": "and among these, the most dangerous",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 24.54,
+      "to": 26.3,
+      "sid": 15,
+      "location": 2,
+      "content": "criminals with mental illnesses are detained at",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 26.3,
+      "to": 28.94,
+      "sid": 16,
+      "location": 2,
+      "content": "a very remote African American town where I'm heading today",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 28.94,
+      "to": 31.36,
+      "sid": 17,
+      "location": 2,
+      "content": "the Florida State Hospital in Chattahoochee",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 31.36,
+      "to": 33.16,
+      "sid": 18,
+      "location": 2,
+      "content": "which has a population of just 2,955 people",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 33.16,
+      "to": 34.56,
+      "sid": 19,
+      "location": 2,
+      "content": "50.5% are Black",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 34.56,
+      "to": 35.92,
+      "sid": 20,
+      "location": 2,
+      "content": "41% are White",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 35.92,
+      "to": 37.5,
+      "sid": 21,
+      "location": 2,
+      "content": "There are only 22 Asians in total",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 37.5,
+      "to": 39.92,
+      "sid": 22,
+      "location": 2,
+      "content": "And only two Chinese people work in psychiatric hospitals",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 39.92,
+      "to": 40.48,
+      "sid": 23,
+      "location": 2,
+      "content": "Coincidentally",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 40.48,
+      "to": 41.98,
+      "sid": 24,
+      "location": 2,
+      "content": "One of them is a pen pal from my channel",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 41.98,
+      "to": 44.38,
+      "sid": 25,
+      "location": 2,
+      "content": "Let's have him share his bizarre experiences working there",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 44.38,
+      "to": 46.16,
+      "sid": 26,
+      "location": 2,
+      "content": "This is a specialized forensic psychiatric hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 46.16,
+      "to": 48.29,
+      "sid": 27,
+      "location": 2,
+      "content": "We don't take patients from the community",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 48.29,
+      "to": 50.03,
+      "sid": 28,
+      "location": 2,
+      "content": "In a rather remote location",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 50.03,
+      "to": 52.099,
+      "sid": 29,
+      "location": 2,
+      "content": "about an hour from the nearest city, Tallahassee",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 52.099,
+      "to": 54.079,
+      "sid": 30,
+      "location": 2,
+      "content": "which is around 50 minutes away",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 54.079,
+      "to": 57.399,
+      "sid": 31,
+      "location": 2,
+      "content": "on the border between Florida and Georgia",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 57.399,
+      "to": 58.399,
+      "sid": 32,
+      "location": 2,
+      "content": "theoretically speaking",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 58.399,
+      "to": 59.679,
+      "sid": 33,
+      "location": 2,
+      "content": "once you get to the hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 59.679,
+      "to": 63.65,
+      "sid": 34,
+      "location": 2,
+      "content": "you can walk from Florida into Georgia",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 63.65,
+      "to": 65.77,
+      "sid": 35,
+      "location": 2,
+      "content": "since you have mental health issues",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 65.77,
+      "to": 66.63,
+      "sid": 36,
+      "location": 2,
+      "content": "you wouldn't be held responsible",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 66.63,
+      "to": 68.37,
+      "sid": 37,
+      "location": 2,
+      "content": "This is a rather special plea.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 68.37,
+      "to": 70.92,
+      "sid": 38,
+      "location": 2,
+      "content": "As commonly said, if you have a mental illness, you can kill without legal repercussions.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 70.92,
+      "to": 72.28,
+      "sid": 39,
+      "location": 2,
+      "content": "Because you have a mental disorder,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 72.28,
+      "to": 74.52,
+      "sid": 40,
+      "location": 2,
+      "content": "you are not considered guilty in a legal sense.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 74.52,
+      "to": 77.24,
+      "sid": 41,
+      "location": 2,
+      "content": "However, you still have to undergo mandatory treatment and such.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 77.24,
+      "to": 78.82,
+      "sid": 42,
+      "location": 2,
+      "content": "You can't just run around on the streets freely.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 78.82,
+      "to": 81.22,
+      "sid": 43,
+      "location": 2,
+      "content": "You would be placed in a forensic psychiatric hospital,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 81.22,
+      "to": 83.62,
+      "sid": 44,
+      "location": 2,
+      "content": "or in a general psychiatric hospital’s",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 83.62,
+      "to": 86.04,
+      "sid": 45,
+      "location": 2,
+      "content": "forensic ward for long-term treatment.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 86.04,
+      "to": 89.6,
+      "sid": 46,
+      "location": 2,
+      "content": "Until the court, this judicial system, and this mental health institution all say",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 89.6,
+      "to": 90.84,
+      "sid": 47,
+      "location": 2,
+      "content": "Oh, it seems like you're fine",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 90.84,
+      "to": 93.2,
+      "sid": 48,
+      "location": 2,
+      "content": "You can be conditionally released back into the community",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 93.2,
+      "to": 94.94,
+      "sid": 49,
+      "location": 2,
+      "content": "Many people find this absurd",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 94.94,
+      "to": 96.06,
+      "sid": 50,
+      "location": 2,
+      "content": "But on the other hand",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 96.06,
+      "to": 98.64,
+      "sid": 51,
+      "location": 2,
+      "content": "The court is still quite cautious when making these decisions",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 98.64,
+      "to": 99.86,
+      "sid": 52,
+      "location": 2,
+      "content": "They do take various factors into consideration, right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 99.86,
+      "to": 101.18,
+      "sid": 53,
+      "location": 2,
+      "content": "Your behavior in the case",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 101.18,
+      "to": 104.34,
+      "sid": 54,
+      "location": 2,
+      "content": "Whether it demonstrated any logic and planning",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 104.34,
+      "to": 105.02,
+      "sid": 55,
+      "location": 2,
+      "content": "In other words",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 105.02,
+      "to": 107.3,
+      "sid": 56,
+      "location": 2,
+      "content": "a typical murder is almost impossible to pin a charge on",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 107.3,
+      "to": 109.22,
+      "sid": 57,
+      "location": 2,
+      "content": "because your planning is too obvious",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 109.22,
+      "to": 112.24,
+      "sid": 58,
+      "location": 2,
+      "content": "it's clear that you did this to cover up the crime",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 112.24,
+      "to": 113.0,
+      "sid": 59,
+      "location": 2,
+      "content": "to dispose of the evidence",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 113.0,
+      "to": 113.7,
+      "sid": 60,
+      "location": 2,
+      "content": "to commit the murder",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 114.8,
+      "to": 116.76,
+      "sid": 61,
+      "location": 2,
+      "content": "these kinds of actions show too much planning",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 116.76,
+      "to": 117.64,
+      "sid": 62,
+      "location": 2,
+      "content": "to get into such a situation in a regular class",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 117.64,
+      "to": 119.34,
+      "sid": 63,
+      "location": 2,
+      "content": "usually people here act in this way",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 119.34,
+      "to": 120.58,
+      "sid": 64,
+      "location": 2,
+      "content": "The logic is particularly muddled.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 120.58,
+      "to": 122.34,
+      "sid": 65,
+      "location": 2,
+      "content": "It might also be related to some history.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 122.34,
+      "to": 123.38,
+      "sid": 66,
+      "location": 2,
+      "content": "A mental illness episode occurred.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 123.38,
+      "to": 125.08,
+      "sid": 67,
+      "location": 2,
+      "content": "And then they killed their family members.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 125.08,
+      "to": 126.62,
+      "sid": 68,
+      "location": 2,
+      "content": "Including their father or mother.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 126.62,
+      "to": 127.34,
+      "sid": 69,
+      "location": 2,
+      "content": "There are various scenarios.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 127.34,
+      "to": 129.94,
+      "sid": 70,
+      "location": 2,
+      "content": "For example, some people might feel that their father or mother",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 129.94,
+      "to": 130.88,
+      "sid": 71,
+      "location": 2,
+      "content": "Was possessed by Satan.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 130.88,
+      "to": 133.56,
+      "sid": 72,
+      "location": 2,
+      "content": "Or in that moment, they felt their family was trying to harm them.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 133.56,
+      "to": 134.06,
+      "sid": 73,
+      "location": 2,
+      "content": "Then",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 134.06,
+      "to": 137.47,
+      "sid": 74,
+      "location": 2,
+      "content": "he might, for instance, grab a knife and stab to death impulsively",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 137.47,
+      "to": 139.91,
+      "sid": 75,
+      "location": 2,
+      "content": "and afterwards, he would undoubtedly feel extremely remorseful",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 139.91,
+      "to": 140.71,
+      "sid": 76,
+      "location": 2,
+      "content": "crying bitterly",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 140.71,
+      "to": 141.59,
+      "sid": 77,
+      "location": 2,
+      "content": "situations like this",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 141.59,
+      "to": 143.71,
+      "sid": 78,
+      "location": 2,
+      "content": "are often unplanned",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 143.71,
+      "to": 144.7,
+      "sid": 79,
+      "location": 2,
+      "content": "because if they",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 144.7,
+      "to": 147.72,
+      "sid": 80,
+      "location": 2,
+      "content": "have had long-standing conflicts with their parents",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 147.72,
+      "to": 149.1,
+      "sid": 81,
+      "location": 2,
+      "content": "you might naturally suspect them",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 149.1,
+      "to": 151.7,
+      "sid": 82,
+      "location": 2,
+      "content": "But some families actually have a very good relationship",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 151.7,
+      "to": 153.28,
+      "sid": 83,
+      "location": 2,
+      "content": "But at that moment",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 153.28,
+      "to": 155.44,
+      "sid": 84,
+      "location": 2,
+      "content": "He might suddenly not recognize his parents",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 155.44,
+      "to": 156.8,
+      "sid": 85,
+      "location": 2,
+      "content": "And he felt that someone was trying to harm him",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 156.8,
+      "to": 158.0,
+      "sid": 86,
+      "location": 2,
+      "content": "And this person was getting closer to me",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 158.0,
+      "to": 158.92,
+      "sid": 87,
+      "location": 2,
+      "content": "He would grab whatever was at hand",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 158.92,
+      "to": 160.76,
+      "sid": 88,
+      "location": 2,
+      "content": "If he mentioned a clear goal or purpose in this belief",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 160.76,
+      "to": 162.66,
+      "sid": 89,
+      "location": 2,
+      "content": "A very specific target or objective",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 162.66,
+      "to": 164.86,
+      "sid": 90,
+      "location": 2,
+      "content": "Then in most cases, if the police found this item",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 164.86,
+      "to": 166.06,
+      "sid": 91,
+      "location": 2,
+      "content": "Basically, if you don’t know how to do it",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 166.06,
+      "to": 168.48,
+      "sid": 92,
+      "location": 2,
+      "content": "Often, it might end up hurting someone",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 168.48,
+      "to": 170.62,
+      "sid": 93,
+      "location": 2,
+      "content": "No matter how you look into it, there seems to be no conflict",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 170.62,
+      "to": 171.96,
+      "sid": 94,
+      "location": 2,
+      "content": "Maybe while driving on the street",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 171.96,
+      "to": 173.64,
+      "sid": 95,
+      "location": 2,
+      "content": "He already had a gun, after all",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 173.64,
+      "to": 174.42,
+      "sid": 96,
+      "location": 2,
+      "content": "You know, being an American",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 174.42,
+      "to": 177.5,
+      "sid": 97,
+      "location": 2,
+      "content": "Then suddenly, he might think someone is out to get him",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 177.5,
+      "to": 179.9,
+      "sid": 98,
+      "location": 2,
+      "content": "And he starts running around, firing his gun randomly",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 179.9,
+      "to": 181.7,
+      "sid": 99,
+      "location": 2,
+      "content": "You can see the whole process",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 181.7,
+      "to": 183.9,
+      "sid": 100,
+      "location": 2,
+      "content": "He didn’t have any specific goals in mind.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 183.9,
+      "to": 185.78,
+      "sid": 101,
+      "location": 2,
+      "content": "He didn’t mention targeting anyone in particular.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 185.78,
+      "to": 187.46,
+      "sid": 102,
+      "location": 2,
+      "content": "He didn’t say he had to achieve anything with anyone.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 187.46,
+      "to": 188.62,
+      "sid": 103,
+      "location": 2,
+      "content": "He just felt that someone was chasing him.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 188.62,
+      "to": 189.58,
+      "sid": 104,
+      "location": 2,
+      "content": "He didn’t know who this person was.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 189.58,
+      "to": 190.5,
+      "sid": 105,
+      "location": 2,
+      "content": "After saying he might have hurt someone,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 190.5,
+      "to": 192.1,
+      "sid": 106,
+      "location": 2,
+      "content": "he asked if the person was still there.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 192.1,
+      "to": 192.8,
+      "sid": 107,
+      "location": 2,
+      "content": "He didn’t run away,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 192.8,
+      "to": 194.48,
+      "sid": 108,
+      "location": 2,
+      "content": "he just stayed where he was.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 194.48,
+      "to": 195.32,
+      "sid": 109,
+      "location": 2,
+      "content": "The police arrived",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 195.32,
+      "to": 197.0,
+      "sid": 110,
+      "location": 2,
+      "content": "and asked, gun in hand, what you were doing",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 197.0,
+      "to": 198.72,
+      "sid": 111,
+      "location": 2,
+      "content": "He told the police about this person",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 198.72,
+      "to": 199.6,
+      "sid": 112,
+      "location": 2,
+      "content": "Is this person Satan?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 199.6,
+      "to": 200.8,
+      "sid": 113,
+      "location": 2,
+      "content": "When he was doing these things",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 200.8,
+      "to": 202.32,
+      "sid": 114,
+      "location": 2,
+      "content": "he might not have considered the severity of his actions",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 202.32,
+      "to": 203.18,
+      "sid": 115,
+      "location": 2,
+      "content": "Once it was done",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 203.18,
+      "to": 203.8,
+      "sid": 116,
+      "location": 2,
+      "content": "he wasn't afraid",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 203.8,
+      "to": 204.36,
+      "sid": 117,
+      "location": 2,
+      "content": "he didn't run",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 204.36,
+      "to": 207.33,
+      "sid": 118,
+      "location": 2,
+      "content": "Since these patients attack people quite randomly",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 207.33,
+      "to": 209.33,
+      "sid": 119,
+      "location": 2,
+      "content": "do you think working in this hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 209.33,
+      "to": 211.19,
+      "sid": 120,
+      "location": 2,
+      "content": "poses any safety risks?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 211.19,
+      "to": 213.25,
+      "sid": 121,
+      "location": 2,
+      "content": "I don’t feel particularly at risk mentally",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 213.25,
+      "to": 214.17,
+      "sid": 122,
+      "location": 2,
+      "content": "but objectively speaking",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 214.17,
+      "to": 216.08,
+      "sid": 123,
+      "location": 2,
+      "content": "even during our training",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 216.08,
+      "to": 217.76,
+      "sid": 124,
+      "location": 2,
+      "content": "it was repeatedly emphasized to us",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 217.76,
+      "to": 219.36,
+      "sid": 125,
+      "location": 2,
+      "content": "that you should never turn your back on them",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 219.36,
+      "to": 221.36,
+      "sid": 126,
+      "location": 2,
+      "content": "it’s best to keep your back against the wall",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 221.36,
+      "to": 222.42,
+      "sid": 127,
+      "location": 2,
+      "content": "Let them go first",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 222.42,
+      "to": 223.96,
+      "sid": 128,
+      "location": 2,
+      "content": "It still feels a bit like a prison",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 223.96,
+      "to": 226.1,
+      "sid": 129,
+      "location": 2,
+      "content": "Look, they can't get out of any of the doors",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 226.1,
+      "to": 228.02,
+      "sid": 130,
+      "location": 2,
+      "content": "They have to find an employee to open the door",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 228.02,
+      "to": 228.82,
+      "sid": 131,
+      "location": 2,
+      "content": "I have the key",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 228.82,
+      "to": 230.7,
+      "sid": 132,
+      "location": 2,
+      "content": "So, it's suggested that I open the door when",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 230.7,
+      "to": 231.42,
+      "sid": 133,
+      "location": 2,
+      "content": "The patient needs to leave",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 231.42,
+      "to": 231.9,
+      "sid": 134,
+      "location": 2,
+      "content": "Just ask him",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 231.9,
+      "to": 232.54,
+      "sid": 135,
+      "location": 2,
+      "content": "What are you doing here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 232.54,
+      "to": 234.9,
+      "sid": 136,
+      "location": 2,
+      "content": "Make sure there are no patients who are particularly close to him.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 234.9,
+      "to": 235.84,
+      "sid": 137,
+      "location": 2,
+      "content": "In situations like this,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 235.84,
+      "to": 237.8,
+      "sid": 138,
+      "location": 2,
+      "content": "the hospital is divided into two sections,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 237.8,
+      "to": 240.51,
+      "sid": 139,
+      "location": 2,
+      "content": "one with more comprehensive functions,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 240.51,
+      "to": 243.29,
+      "sid": 140,
+      "location": 2,
+      "content": "where patients generally behave well.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 243.29,
+      "to": 245.09,
+      "sid": 141,
+      "location": 2,
+      "content": "So, working there is a bit easier.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 245.09,
+      "to": 249.05,
+      "sid": 142,
+      "location": 2,
+      "content": "Recently, I've started to work in the forensic area,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 249.05,
+      "to": 250.45,
+      "sid": 143,
+      "location": 2,
+      "content": "where the patients are,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 250.45,
+      "to": 252.29,
+      "sid": 144,
+      "location": 2,
+      "content": "likely just admitted to the psychiatric hospital.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 252.29,
+      "to": 254.66,
+      "sid": 145,
+      "location": 2,
+      "content": "So they generally have a shorter treatment period",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 254.66,
+      "to": 255.78,
+      "sid": 146,
+      "location": 2,
+      "content": "They tend to be more aggressive",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 255.78,
+      "to": 257.4,
+      "sid": 147,
+      "location": 2,
+      "content": "Or the place has very strict rules",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 257.4,
+      "to": 259.329,
+      "sid": 148,
+      "location": 2,
+      "content": "Including security checks when we enter",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 259.329,
+      "to": 260.809,
+      "sid": 149,
+      "location": 2,
+      "content": "No electronic devices are allowed",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 260.809,
+      "to": 262.529,
+      "sid": 150,
+      "location": 2,
+      "content": "They have many more locks on their doors",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 262.529,
+      "to": 264.569,
+      "sid": 151,
+      "location": 2,
+      "content": "How exactly do you conduct the treatment?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 264.569,
+      "to": 265.769,
+      "sid": 152,
+      "location": 2,
+      "content": "Each person's issues are different",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 265.769,
+      "to": 267.169,
+      "sid": 153,
+      "location": 2,
+      "content": "For example, schizophrenia",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 267.169,
+      "to": 268.009,
+      "sid": 154,
+      "location": 2,
+      "content": "Conditions like this",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 268.009,
+      "to": 270.5,
+      "sid": 155,
+      "location": 2,
+      "content": "you need to tell them to take their medication",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 270.5,
+      "to": 273.2,
+      "sid": 156,
+      "location": 2,
+      "content": "taking medication regularly is absolutely crucial",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 273.2,
+      "to": 274.86,
+      "sid": 157,
+      "location": 2,
+      "content": "conduct some mental health education",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 274.86,
+      "to": 276.44,
+      "sid": 158,
+      "location": 2,
+      "content": "including what this condition is about",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 276.44,
+      "to": 277.789,
+      "sid": 159,
+      "location": 2,
+      "content": "why you might have it",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 277.789,
+      "to": 278.069,
+      "sid": 160,
+      "location": 2,
+      "content": "why you have it",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 278.069,
+      "to": 279.629,
+      "sid": 161,
+      "location": 2,
+      "content": "and how important it is to take the medication afterward",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 279.629,
+      "to": 281.309,
+      "sid": 162,
+      "location": 2,
+      "content": "what benefits taking the medication can bring to your condition",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 281.309,
+      "to": 284.149,
+      "sid": 163,
+      "location": 2,
+      "content": "Then there are some people who might also have issues with emotional regulation.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 284.149,
+      "to": 285.849,
+      "sid": 164,
+      "location": 2,
+      "content": "Their ability to control their behavior is also relatively poor.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 285.849,
+      "to": 287.48,
+      "sid": 165,
+      "location": 2,
+      "content": "They can get angry quite easily, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 287.48,
+      "to": 289.54,
+      "sid": 166,
+      "location": 2,
+      "content": "And when they get angry, they might become quite aggressive.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 289.54,
+      "to": 290.84,
+      "sid": 167,
+      "location": 2,
+      "content": "So you need to talk to them about it, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 290.84,
+      "to": 291.84,
+      "sid": 168,
+      "location": 2,
+      "content": "Why do you get angry?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 291.84,
+      "to": 294.36,
+      "sid": 169,
+      "location": 2,
+      "content": "How do you manage your anger when you feel it?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 294.36,
+      "to": 295.0,
+      "sid": 170,
+      "location": 2,
+      "content": "Because, you see,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 295.0,
+      "to": 296.64,
+      "sid": 171,
+      "location": 2,
+      "content": "If you don’t manage it, you could end up in trouble.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 296.64,
+      "to": 297.92,
+      "sid": 172,
+      "location": 2,
+      "content": "Even after you go out and come back",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 297.92,
+      "to": 298.8,
+      "sid": 173,
+      "location": 2,
+      "content": "I know you don’t want to come back",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 298.8,
+      "to": 301.32,
+      "sid": 174,
+      "location": 2,
+      "content": "These skills are crucial for you",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 301.32,
+      "to": 302.58,
+      "sid": 175,
+      "location": 2,
+      "content": "For future planning and such",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 302.58,
+      "to": 303.88,
+      "sid": 176,
+      "location": 2,
+      "content": "After you go out, right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 303.88,
+      "to": 305.08,
+      "sid": 177,
+      "location": 2,
+      "content": "How are you going to find a job",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 305.08,
+      "to": 307.35,
+      "sid": 178,
+      "location": 2,
+      "content": "And how are you going to reintegrate into society, right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 307.35,
+      "to": 308.79,
+      "sid": 179,
+      "location": 2,
+      "content": "How can you ensure that you won’t come back, right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 308.79,
+      "to": 311.19,
+      "sid": 180,
+      "location": 2,
+      "content": "In short, it’s about helping them reintegrate into society",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 311.19,
+      "to": 315.03,
+      "sid": 181,
+      "location": 2,
+      "content": "Stop frequently getting into trouble or dealing with the legal system",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 315.03,
+      "to": 316.83,
+      "sid": 182,
+      "location": 2,
+      "content": "which prevents them from returning to the hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 316.83,
+      "to": 318.2,
+      "sid": 183,
+      "location": 2,
+      "content": "aside from treatment",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 319.88,
+      "to": 322.64,
+      "sid": 184,
+      "location": 2,
+      "content": "this is basically what the patients' lives look like",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 322.64,
+      "to": 324.48,
+      "sid": 185,
+      "location": 2,
+      "content": "they have to get up before seven",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 324.48,
+      "to": 326.0,
+      "sid": 186,
+      "location": 2,
+      "content": "then take their medication and roll call",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 326.0,
+      "to": 327.08,
+      "sid": 187,
+      "location": 2,
+      "content": "after that, they have breakfast",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 327.08,
+      "to": 330.22,
+      "sid": 188,
+      "location": 2,
+      "content": "they have their first class of the morning at nine",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 330.22,
+      "to": 331.82,
+      "sid": 189,
+      "location": 2,
+      "content": "then from nine to ten, they have a session",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 331.82,
+      "to": 333.9,
+      "sid": 190,
+      "location": 2,
+      "content": "Then from ten to eleven, there's a trip back to the ward.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 333.9,
+      "to": 335.539,
+      "sid": 191,
+      "location": 2,
+      "content": "After that, it's lunchtime.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 335.539,
+      "to": 336.419,
+      "sid": 192,
+      "location": 2,
+      "content": "After lunch,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 336.419,
+      "to": 337.659,
+      "sid": 193,
+      "location": 2,
+      "content": "I have a class from one to two in the afternoon.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 337.659,
+      "to": 339.55,
+      "sid": 194,
+      "location": 2,
+      "content": "And from two to three, I have another class.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 339.55,
+      "to": 342.13,
+      "sid": 195,
+      "location": 2,
+      "content": "The classes mainly cover two aspects,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 342.13,
+      "to": 344.36,
+      "sid": 196,
+      "location": 2,
+      "content": "one of which is related to treatment.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 344.36,
+      "to": 345.32,
+      "sid": 197,
+      "location": 2,
+      "content": "Many people,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 345.32,
+      "to": 347.1,
+      "sid": 198,
+      "location": 2,
+      "content": "have issues with substance addiction.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 347.1,
+      "to": 349.18,
+      "sid": 199,
+      "location": 2,
+      "content": "That's about preventing substance addiction",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 349.18,
+      "to": 351.48,
+      "sid": 200,
+      "location": 2,
+      "content": "or rather, helping you understand why people become addicted to substances",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 351.48,
+      "to": 352.88,
+      "sid": 201,
+      "location": 2,
+      "content": "the serious consequences of substance addiction",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 352.88,
+      "to": 355.85,
+      "sid": 202,
+      "location": 2,
+      "content": "and how you can deal with your own substance addiction issues",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 355.85,
+      "to": 357.35,
+      "sid": 203,
+      "location": 2,
+      "content": "how to make decisions",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 357.35,
+      "to": 359.21,
+      "sid": 204,
+      "location": 2,
+      "content": "and also some career planning",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 359.21,
+      "to": 361.45,
+      "sid": 205,
+      "location": 2,
+      "content": "including what you'll do once you're out of here one day",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 361.45,
+      "to": 363.11,
+      "sid": 206,
+      "location": 2,
+      "content": "and how we can find jobs",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 363.11,
+      "to": 365.88,
+      "sid": 207,
+      "location": 2,
+      "content": "and how to apply for social security benefits",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 365.88,
+      "to": 368.96,
+      "sid": 208,
+      "location": 2,
+      "content": "And then there are courses on managing one's anger.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 368.96,
+      "to": 372.33,
+      "sid": 209,
+      "location": 2,
+      "content": "And how to improve overall physical health.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 372.33,
+      "to": 375.89,
+      "sid": 210,
+      "location": 2,
+      "content": "Courses like these, which are therapeutic in nature, make up half of the program.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 375.89,
+      "to": 378.08,
+      "sid": 211,
+      "location": 2,
+      "content": "The other half might be about",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 378.08,
+      "to": 379.72,
+      "sid": 212,
+      "location": 2,
+      "content": "various hobbies and interests that people have.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 379.72,
+      "to": 381.34,
+      "sid": 213,
+      "location": 2,
+      "content": "For example, they offer gardening classes.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 381.34,
+      "to": 383.1,
+      "sid": 214,
+      "location": 2,
+      "content": "Cooking classes are available too.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 383.1,
+      "to": 384.78,
+      "sid": 215,
+      "location": 2,
+      "content": "There are fitness classes as well.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 384.78,
+      "to": 385.7,
+      "sid": 216,
+      "location": 2,
+      "content": "And there’s a library too.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 385.7,
+      "to": 386.94,
+      "sid": 217,
+      "location": 2,
+      "content": "Everyone loves going to the library",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 386.94,
+      "to": 388.22,
+      "sid": 218,
+      "location": 2,
+      "content": "not because everyone likes reading",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 388.22,
+      "to": 389.5,
+      "sid": 219,
+      "location": 2,
+      "content": "but because you can use computers there",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 389.5,
+      "to": 391.02,
+      "sid": 220,
+      "location": 2,
+      "content": "Can those computers connect to the internet?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 391.02,
+      "to": 391.86,
+      "sid": 221,
+      "location": 2,
+      "content": "Yes, they can.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 391.86,
+      "to": 392.18,
+      "sid": 222,
+      "location": 2,
+      "content": "Absolutely.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 392.18,
+      "to": 393.98,
+      "sid": 223,
+      "location": 2,
+      "content": "It’s the only place where you can get online, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 393.98,
+      "to": 394.62,
+      "sid": 224,
+      "location": 2,
+      "content": "But you know",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 394.62,
+      "to": 397.38,
+      "sid": 225,
+      "location": 2,
+      "content": "it’s just like having computer classes at school",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 397.38,
+      "to": 398.94,
+      "sid": 226,
+      "location": 2,
+      "content": "Of course, you can connect to the internet.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 398.94,
+      "to": 400.13,
+      "sid": 227,
+      "location": 2,
+      "content": "But when you're online,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 400.13,
+      "to": 401.17,
+      "sid": 228,
+      "location": 2,
+      "content": "whatever you access,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 401.17,
+      "to": 403.27,
+      "sid": 229,
+      "location": 2,
+      "content": "everyone, as administrators, can see it.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 403.27,
+      "to": 406.55,
+      "sid": 230,
+      "location": 2,
+      "content": "Some people might want to continue their education,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 406.55,
+      "to": 409.51,
+      "sid": 231,
+      "location": 2,
+      "content": "taking some online courses and such.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 409.51,
+      "to": 411.46,
+      "sid": 232,
+      "location": 2,
+      "content": "Others might enroll in some online courses,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 411.46,
+      "to": 413.7,
+      "sid": 233,
+      "location": 2,
+      "content": "Then some people might watch videos or something like that.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 413.7,
+      "to": 415.36,
+      "sid": 234,
+      "location": 2,
+      "content": "After the three o'clock class ends,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 415.36,
+      "to": 416.9,
+      "sid": 235,
+      "location": 2,
+      "content": "Everyone knows they have to return to the ward.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 416.9,
+      "to": 420.0,
+      "sid": 236,
+      "location": 2,
+      "content": "Based on everyone's overall functional level,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 420.0,
+      "to": 421.12,
+      "sid": 237,
+      "location": 2,
+      "content": "or how well they perform,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 421.12,
+      "to": 423.48,
+      "sid": 238,
+      "location": 2,
+      "content": "there's a question of whether you can go out at all.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 423.48,
+      "to": 426.579,
+      "sid": 239,
+      "location": 2,
+      "content": "If you have the highest level of freedom to move around,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 426.579,
+      "to": 428.259,
+      "sid": 240,
+      "location": 2,
+      "content": "you can walk around the hospital,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 428.259,
+      "to": 429.519,
+      "sid": 241,
+      "location": 2,
+      "content": "but you're still limited to the hospital grounds.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 429.519,
+      "to": 430.579,
+      "sid": 242,
+      "location": 2,
+      "content": "You can take a stroll,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 430.579,
+      "to": 431.86,
+      "sid": 243,
+      "location": 2,
+      "content": "and chat with others.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 431.86,
+      "to": 433.4,
+      "sid": 244,
+      "location": 2,
+      "content": "You could play some basketball.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 433.4,
+      "to": 435.82,
+      "sid": 245,
+      "location": 2,
+      "content": "Then head to the nearby convenience store to grab some snacks.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 435.82,
+      "to": 437.36,
+      "sid": 246,
+      "location": 2,
+      "content": "Like fried chicken,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 437.36,
+      "to": 438.8,
+      "sid": 247,
+      "location": 2,
+      "content": "or pizza.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 438.8,
+      "to": 442.02,
+      "sid": 248,
+      "location": 2,
+      "content": "The food they serve isn't particularly bad,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 442.02,
+      "to": 443.92,
+      "sid": 249,
+      "location": 2,
+      "content": "it's just okay.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 443.92,
+      "to": 445.289,
+      "sid": 250,
+      "location": 2,
+      "content": "But would you want to eat the same thing every day?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 445.289,
+      "to": 446.269,
+      "sid": 251,
+      "location": 2,
+      "content": "You'd definitely get tired of it.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 446.269,
+      "to": 449.009,
+      "sid": 252,
+      "location": 2,
+      "content": "Going to the convenience store to buy snacks is their favorite part.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 449.009,
+      "to": 450.75,
+      "sid": 253,
+      "location": 2,
+      "content": "Like the pizza I mentioned",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 450.75,
+      "to": 452.93,
+      "sid": 254,
+      "location": 2,
+      "content": "or fried chicken and such",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 452.93,
+      "to": 454.71,
+      "sid": 255,
+      "location": 2,
+      "content": "Do they eat at the same cafeteria as you?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 454.71,
+      "to": 455.91,
+      "sid": 256,
+      "location": 2,
+      "content": "It’s all from the same cafeteria",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 455.91,
+      "to": 458.72,
+      "sid": 257,
+      "location": 2,
+      "content": "For instance, we might have to buy from the cafeteria",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 458.72,
+      "to": 460.56,
+      "sid": 258,
+      "location": 2,
+      "content": "Some patients have special dietary needs",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 460.56,
+      "to": 461.84,
+      "sid": 259,
+      "location": 2,
+      "content": "For example, some of them",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 461.84,
+      "to": 463.82,
+      "sid": 260,
+      "location": 2,
+      "content": "Many of them also have underlying conditions",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 463.82,
+      "to": 464.94,
+      "sid": 261,
+      "location": 2,
+      "content": "Some may have diabetes",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 464.94,
+      "to": 465.84,
+      "sid": 262,
+      "location": 2,
+      "content": "Some people might have",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 465.84,
+      "to": 467.5,
+      "sid": 263,
+      "location": 2,
+      "content": "but I know they can't eat certain foods because of these illnesses",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 467.5,
+      "to": 468.68,
+      "sid": 264,
+      "location": 2,
+      "content": "and can't eat specific foods",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 468.68,
+      "to": 470.0,
+      "sid": 265,
+      "location": 2,
+      "content": "some people can't eat rice",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 470.0,
+      "to": 472.84,
+      "sid": 266,
+      "location": 2,
+      "content": "so whenever there's rice, they'll change it to something else",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 472.84,
+      "to": 473.4,
+      "sid": 267,
+      "location": 2,
+      "content": "because of this",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 473.4,
+      "to": 476.5,
+      "sid": 268,
+      "location": 2,
+      "content": "the food for patients is still a bit different from what we have",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 476.5,
+      "to": 478.62,
+      "sid": 269,
+      "location": 2,
+      "content": "this employee is a little different",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 478.62,
+      "to": 479.7,
+      "sid": 270,
+      "location": 2,
+      "content": "if these things weren't available",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 479.7,
+      "to": 481.32,
+      "sid": 271,
+      "location": 2,
+      "content": "You can only stay in the ward.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 481.32,
+      "to": 482.3,
+      "sid": 272,
+      "location": 2,
+      "content": "Can I use my phone?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 482.3,
+      "to": 485.18,
+      "sid": 273,
+      "location": 2,
+      "content": "While staying, you can't use electronic products with internet access.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 485.18,
+      "to": 486.68,
+      "sid": 274,
+      "location": 2,
+      "content": "You can use an MP3 player to listen to music.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 486.68,
+      "to": 487.5,
+      "sid": 275,
+      "location": 2,
+      "content": "That might be possible.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 487.5,
+      "to": 488.98,
+      "sid": 276,
+      "location": 2,
+      "content": "And some wards",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 488.98,
+      "to": 490.02,
+      "sid": 277,
+      "location": 2,
+      "content": "like the one I work in",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 490.02,
+      "to": 491.42,
+      "sid": 278,
+      "location": 2,
+      "content": "where they behave exceptionally well",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 491.42,
+      "to": 493.18,
+      "sid": 279,
+      "location": 2,
+      "content": "allow a Switch in their ward.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 493.18,
+      "to": 494.14,
+      "sid": 280,
+      "location": 2,
+      "content": "As long as it's not connected to the internet",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 494.14,
+      "to": 494.84,
+      "sid": 281,
+      "location": 2,
+      "content": "You can play on your own",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 494.84,
+      "to": 496.24,
+      "sid": 282,
+      "location": 2,
+      "content": "But most patients can't afford it either",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 496.24,
+      "to": 498.16,
+      "sid": 283,
+      "location": 2,
+      "content": "That's because many families are really poor",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 498.16,
+      "to": 499.92,
+      "sid": 284,
+      "location": 2,
+      "content": "And many other wards don't allow",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 499.92,
+      "to": 502.68,
+      "sid": 285,
+      "location": 2,
+      "content": "Even things like a switch aren't allowed, but reading books is fine",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 502.68,
+      "to": 504.16,
+      "sid": 286,
+      "location": 2,
+      "content": "Books with hard covers are not allowed",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 504.16,
+      "to": 506.08,
+      "sid": 287,
+      "location": 2,
+      "content": "Because you know, that stuff can be used to hurt people",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 506.08,
+      "to": 507.44,
+      "sid": 288,
+      "location": 2,
+      "content": "Because the hard cover is very hard",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 507.44,
+      "to": 508.28,
+      "sid": 289,
+      "location": 2,
+      "content": "And there's a pointy part.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 508.28,
+      "to": 510.99,
+      "sid": 290,
+      "location": 2,
+      "content": "Maybe everyone can play some cards or board games.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 510.99,
+      "to": 512.27,
+      "sid": 291,
+      "location": 2,
+      "content": "That works.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 512.27,
+      "to": 515.58,
+      "sid": 292,
+      "location": 2,
+      "content": "But many patients aren't really interested.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 515.58,
+      "to": 518.28,
+      "sid": 293,
+      "location": 2,
+      "content": "Looks like your living environment is pretty good.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 518.28,
+      "to": 520.4,
+      "sid": 294,
+      "location": 2,
+      "content": "It sounds not so bad.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 520.4,
+      "to": 522.88,
+      "sid": 295,
+      "location": 2,
+      "content": "But in reality, no patient wants to stay.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 522.88,
+      "to": 523.76,
+      "sid": 296,
+      "location": 2,
+      "content": "That's still the thing.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 523.76,
+      "to": 526.1,
+      "sid": 297,
+      "location": 2,
+      "content": "Humans still don't like a life without freedom.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 526.1,
+      "to": 528.74,
+      "sid": 298,
+      "location": 2,
+      "content": "It's about how everything you do every day is monitored by others.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 528.74,
+      "to": 530.58,
+      "sid": 299,
+      "location": 2,
+      "content": "First, let me talk about the ward I work in.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 530.58,
+      "to": 531.97,
+      "sid": 300,
+      "location": 2,
+      "content": "It's exclusively for men.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 531.97,
+      "to": 533.61,
+      "sid": 301,
+      "location": 2,
+      "content": "I haven't worked in the women's ward.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 533.61,
+      "to": 536.26,
+      "sid": 302,
+      "location": 2,
+      "content": "So, I don't have much insight into that side of things.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 536.26,
+      "to": 538.54,
+      "sid": 303,
+      "location": 2,
+      "content": "There are more Black patients, yeah.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 538.54,
+      "to": 541.06,
+      "sid": 304,
+      "location": 2,
+      "content": "Probably around 40% to 50% are Black.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 541.06,
+      "to": 543.58,
+      "sid": 305,
+      "location": 2,
+      "content": "Then about 40% are White, right.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 543.58,
+      "to": 545.02,
+      "sid": 306,
+      "location": 2,
+      "content": "The rest are Latino.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 545.02,
+      "to": 547.26,
+      "sid": 307,
+      "location": 2,
+      "content": "And there are even some Asians",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 547.26,
+      "to": 551.75,
+      "sid": 308,
+      "location": 2,
+      "content": "who are in social classes that are objectively higher",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 551.75,
+      "to": 553.35,
+      "sid": 309,
+      "location": 2,
+      "content": "who get into these troubles",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 553.35,
+      "to": 554.61,
+      "sid": 310,
+      "location": 2,
+      "content": "dealing with the justice system",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 554.61,
+      "to": 556.01,
+      "sid": 311,
+      "location": 2,
+      "content": "and have these mental health issues",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 556.01,
+      "to": 559.21,
+      "sid": 312,
+      "location": 2,
+      "content": "which are indeed related to their long-term poverty",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 559.21,
+      "to": 560.97,
+      "sid": 313,
+      "location": 2,
+      "content": "as well as their level of education",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 560.97,
+      "to": 561.89,
+      "sid": 314,
+      "location": 2,
+      "content": "objectively speaking",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 561.89,
+      "to": 564.39,
+      "sid": 315,
+      "location": 2,
+      "content": "the lack of a support system in their lives also plays a role",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 564.39,
+      "to": 565.99,
+      "sid": 316,
+      "location": 2,
+      "content": "Because if you have a support system",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 565.99,
+      "to": 568.059,
+      "sid": 317,
+      "location": 2,
+      "content": "you're less likely to turn to crime",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 568.059,
+      "to": 570.699,
+      "sid": 318,
+      "location": 2,
+      "content": "Some people just don't have good family support",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 570.699,
+      "to": 572.419,
+      "sid": 319,
+      "location": 2,
+      "content": "And that's partly due to cultural reasons",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 572.419,
+      "to": 573.739,
+      "sid": 320,
+      "location": 2,
+      "content": "American culture might differ from Chinese culture",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 573.739,
+      "to": 574.219,
+      "sid": 321,
+      "location": 2,
+      "content": "As you know",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 574.219,
+      "to": 574.699,
+      "sid": 322,
+      "location": 2,
+      "content": "In China",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 574.699,
+      "to": 577.36,
+      "sid": 323,
+      "location": 2,
+      "content": "Let's say you have a relative",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 577.36,
+      "to": 578.66,
+      "sid": 324,
+      "location": 2,
+      "content": "who is wandering the streets",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 578.66,
+      "to": 580.74,
+      "sid": 325,
+      "location": 2,
+      "content": "If this matter gets known by people around you",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 580.74,
+      "to": 582.62,
+      "sid": 326,
+      "location": 2,
+      "content": "it could really affect your reputation",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 582.62,
+      "to": 583.9,
+      "sid": 327,
+      "location": 2,
+      "content": "but this kind of thing might not happen in the United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 583.9,
+      "to": 586.16,
+      "sid": 328,
+      "location": 2,
+      "content": "some people might have been in and out of prison",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 586.16,
+      "to": 588.68,
+      "sid": 329,
+      "location": 2,
+      "content": "or psychiatric hospitals for over a decade",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 588.68,
+      "to": 590.92,
+      "sid": 330,
+      "location": 2,
+      "content": "their families might have abandoned them when they were very young",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 590.92,
+      "to": 592.92,
+      "sid": 331,
+      "location": 2,
+      "content": "or just don't keep in touch much, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 592.92,
+      "to": 593.72,
+      "sid": 332,
+      "location": 2,
+      "content": "like many of them",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 593.72,
+      "to": 596.2,
+      "sid": 333,
+      "location": 2,
+      "content": "used to sell medicine on the streets",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 596.2,
+      "to": 597.2,
+      "sid": 334,
+      "location": 2,
+      "content": "On the other hand,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 597.2,
+      "to": 600.52,
+      "sid": 335,
+      "location": 2,
+      "content": "if you have the financial means or resources at home,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 600.52,
+      "to": 602.2,
+      "sid": 336,
+      "location": 2,
+      "content": "you can start treatment earlier,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 602.2,
+      "to": 603.93,
+      "sid": 337,
+      "location": 2,
+      "content": "and it won't progress to this stage.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 603.93,
+      "to": 605.57,
+      "sid": 338,
+      "location": 2,
+      "content": "It's not just about money,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 605.57,
+      "to": 607.15,
+      "sid": 339,
+      "location": 2,
+      "content": "I think it's also about awareness.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 607.15,
+      "to": 608.49,
+      "sid": 340,
+      "location": 2,
+      "content": "This is true in other countries as well,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 608.49,
+      "to": 610.33,
+      "sid": 341,
+      "location": 2,
+      "content": "for example, in more rural areas,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 610.33,
+      "to": 613.28,
+      "sid": 342,
+      "location": 2,
+      "content": "there's often less understanding of mental health issues.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 613.28,
+      "to": 615.02,
+      "sid": 343,
+      "location": 2,
+      "content": "People think this person is not acting right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 615.02,
+      "to": 616.7,
+      "sid": 344,
+      "location": 2,
+      "content": "but no one would say it out loud",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 616.7,
+      "to": 617.7,
+      "sid": 345,
+      "location": 2,
+      "content": "If someone is not acting right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 617.7,
+      "to": 620.18,
+      "sid": 346,
+      "location": 2,
+      "content": "they should go to the hospital for treatment, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 620.18,
+      "to": 620.94,
+      "sid": 347,
+      "location": 2,
+      "content": "Overall",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 620.94,
+      "to": 622.94,
+      "sid": 348,
+      "location": 2,
+      "content": "there's a lack of understanding about mental health",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 622.94,
+      "to": 624.14,
+      "sid": 349,
+      "location": 2,
+      "content": "or how it affects people",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 624.14,
+      "to": 625.58,
+      "sid": 350,
+      "location": 2,
+      "content": "This is true in many countries",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 625.58,
+      "to": 626.66,
+      "sid": 351,
+      "location": 2,
+      "content": "and you can see the same issues there",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 626.66,
+      "to": 629.04,
+      "sid": 352,
+      "location": 2,
+      "content": "Especially if you're living in those poor communities",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 629.04,
+      "to": 630.679,
+      "sid": 353,
+      "location": 2,
+      "content": "People think mental health",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 630.679,
+      "to": 631.939,
+      "sid": 354,
+      "location": 2,
+      "content": "This is purely nonsense, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 631.939,
+      "to": 632.979,
+      "sid": 355,
+      "location": 2,
+      "content": "How could humans have such things?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 632.979,
+      "to": 634.319,
+      "sid": 356,
+      "location": 2,
+      "content": "The ratio of patients to doctors",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 634.319,
+      "to": 637.22,
+      "sid": 357,
+      "location": 2,
+      "content": "And the ratio of patients to staff members",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 637.22,
+      "to": 640.02,
+      "sid": 358,
+      "location": 2,
+      "content": "Ego is somewhat particularly strict, to be precise",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 640.02,
+      "to": 640.42,
+      "sid": 359,
+      "location": 2,
+      "content": "They said",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 640.42,
+      "to": 641.5,
+      "sid": 360,
+      "location": 2,
+      "content": "I'm not a doctor either",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 641.5,
+      "to": 642.74,
+      "sid": 361,
+      "location": 2,
+      "content": "I'm not a doctor either.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 642.74,
+      "to": 646.54,
+      "sid": 362,
+      "location": 2,
+      "content": "We don't need too many people who can diagnose patients here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 646.54,
+      "to": 648.13,
+      "sid": 363,
+      "location": 2,
+      "content": "Since it's a psychiatric hospital, after all.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 648.13,
+      "to": 651.29,
+      "sid": 364,
+      "location": 2,
+      "content": "Mostly, we need some psychiatrists.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 651.29,
+      "to": 653.49,
+      "sid": 365,
+      "location": 2,
+      "content": "And a few psychologists are sufficient.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 653.49,
+      "to": 655.22,
+      "sid": 366,
+      "location": 2,
+      "content": "We don't need a lot of them.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 655.22,
+      "to": 656.62,
+      "sid": 367,
+      "location": 2,
+      "content": "Including psychiatrists.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 656.62,
+      "to": 657.82,
+      "sid": 368,
+      "location": 2,
+      "content": "These kinds of jobs, you know,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 657.82,
+      "to": 660.19,
+      "sid": 369,
+      "location": 2,
+      "content": "require a lot of education.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 660.19,
+      "to": 661.27,
+      "sid": 370,
+      "location": 2,
+      "content": "You should pursue an undergraduate degree.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 661.27,
+      "to": 661.91,
+      "sid": 371,
+      "location": 2,
+      "content": "You should go on to get your Ph.D.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 661.91,
+      "to": 663.29,
+      "sid": 372,
+      "location": 2,
+      "content": "After completing your Ph.D., you'll need to do some internships.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 663.29,
+      "to": 664.03,
+      "sid": 373,
+      "location": 2,
+      "content": "Once the internship is over,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 664.03,
+      "to": 664.67,
+      "sid": 374,
+      "location": 2,
+      "content": "let me explain,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 664.67,
+      "to": 665.59,
+      "sid": 375,
+      "location": 2,
+      "content": "you'll need to complete another Ph.D.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 665.59,
+      "to": 667.91,
+      "sid": 376,
+      "location": 2,
+      "content": "later, you'll accumulate enough clinical practice,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 667.91,
+      "to": 670.13,
+      "sid": 377,
+      "location": 2,
+      "content": "and finally, you'll go and get your license.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 670.13,
+      "to": 671.73,
+      "sid": 378,
+      "location": 2,
+      "content": "This process is quite lengthy.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 671.73,
+      "to": 672.69,
+      "sid": 379,
+      "location": 2,
+      "content": "They're referred to as outsiders",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 672.69,
+      "to": 675.48,
+      "sid": 380,
+      "location": 2,
+      "content": "simply because there aren't as many locals",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 675.48,
+      "to": 677.78,
+      "sid": 381,
+      "location": 2,
+      "content": "with this qualification",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 677.78,
+      "to": 680.74,
+      "sid": 382,
+      "location": 2,
+      "content": "a psychologist can handle over a hundred patients",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 680.74,
+      "to": 681.12,
+      "sid": 383,
+      "location": 2,
+      "content": "forty",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 681.12,
+      "to": 684.57,
+      "sid": 384,
+      "location": 2,
+      "content": "so there aren't that many in the entire hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 684.57,
+      "to": 686.59,
+      "sid": 385,
+      "location": 2,
+      "content": "but it depends on how you define a psychologist",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 686.59,
+      "to": 690.35,
+      "sid": 386,
+      "location": 2,
+      "content": "if you consider all those with a master’s degree",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 690.35,
+      "to": 691.55,
+      "sid": 387,
+      "location": 2,
+      "content": "to be qualified",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 691.55,
+      "to": 694.17,
+      "sid": 388,
+      "location": 2,
+      "content": "That's roughly thirty to forty.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 694.17,
+      "to": 695.25,
+      "sid": 389,
+      "location": 2,
+      "content": "Something like that.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 695.25,
+      "to": 697.45,
+      "sid": 390,
+      "location": 2,
+      "content": "But with a doctoral degree.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 697.45,
+      "to": 701.28,
+      "sid": 391,
+      "location": 2,
+      "content": "Really has the capability to write reports for the court.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 701.28,
+      "to": 702.26,
+      "sid": 392,
+      "location": 2,
+      "content": "There aren't many people.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 702.26,
+      "to": 704.54,
+      "sid": 393,
+      "location": 2,
+      "content": "That requires a doctoral degree.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 704.54,
+      "to": 705.81,
+      "sid": 394,
+      "location": 2,
+      "content": "Right.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 705.81,
+      "to": 709.07,
+      "sid": 395,
+      "location": 2,
+      "content": "And also a relevant license for such a psychologist.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 709.07,
+      "to": 710.83,
+      "sid": 396,
+      "location": 2,
+      "content": "There might only be three people.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 710.83,
+      "to": 711.77,
+      "sid": 397,
+      "location": 2,
+      "content": "It's still two people",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 711.77,
+      "to": 712.55,
+      "sid": 398,
+      "location": 2,
+      "content": "Psychologist",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 712.55,
+      "to": 714.29,
+      "sid": 399,
+      "location": 2,
+      "content": "They're usually either white",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 714.29,
+      "to": 715.23,
+      "sid": 400,
+      "location": 2,
+      "content": "or more Asian",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 715.23,
+      "to": 718.579,
+      "sid": 401,
+      "location": 2,
+      "content": "and the local staff are mostly Black, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 718.579,
+      "to": 719.779,
+      "sid": 402,
+      "location": 2,
+      "content": "Is that the vibe?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 719.779,
+      "to": 720.779,
+      "sid": 403,
+      "location": 2,
+      "content": "There are a lot of employees",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 720.779,
+      "to": 721.419,
+      "sid": 404,
+      "location": 2,
+      "content": "a significant number of",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 721.419,
+      "to": 723.319,
+      "sid": 405,
+      "location": 2,
+      "content": "like the teachers who give the classes",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 723.319,
+      "to": 724.019,
+      "sid": 406,
+      "location": 2,
+      "content": "Nurse",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 724.019,
+      "to": 726.02,
+      "sid": 407,
+      "location": 2,
+      "content": "The hospital even has its own fire station",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 726.02,
+      "to": 727.4,
+      "sid": 408,
+      "location": 2,
+      "content": "and its own police station",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 727.4,
+      "to": 728.3,
+      "sid": 409,
+      "location": 2,
+      "content": "like the cafeteria or something",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 728.3,
+      "to": 730.98,
+      "sid": 410,
+      "location": 2,
+      "content": "We currently have around 1,300 patients",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 730.98,
+      "to": 732.75,
+      "sid": 411,
+      "location": 2,
+      "content": "and probably over 2,000 staff members",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 732.75,
+      "to": 734.75,
+      "sid": 412,
+      "location": 2,
+      "content": "I don’t think this job is particularly great",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 734.75,
+      "to": 737.91,
+      "sid": 413,
+      "location": 2,
+      "content": "All state government jobs aren’t that high up either",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 737.91,
+      "to": 738.97,
+      "sid": 414,
+      "location": 2,
+      "content": "Tell It Like It Is",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 738.97,
+      "to": 740.41,
+      "sid": 415,
+      "location": 2,
+      "content": "People who are not from here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 740.41,
+      "to": 741.85,
+      "sid": 416,
+      "location": 2,
+      "content": "Why would they want to come and work here?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 741.85,
+      "to": 743.93,
+      "sid": 417,
+      "location": 2,
+      "content": "Some might prefer to stay closer to home.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 743.93,
+      "to": 746.72,
+      "sid": 418,
+      "location": 2,
+      "content": "Or they might be used to it or for other reasons, they stay in this area.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 746.72,
+      "to": 750.539,
+      "sid": 419,
+      "location": 2,
+      "content": "After all, you are one of the few Asians in this hospital, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 750.539,
+      "to": 754.56,
+      "sid": 420,
+      "location": 2,
+      "content": "Have you encountered any unfriendly or discriminatory issues as a foreigner?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 754.56,
+      "to": 755.6,
+      "sid": 421,
+      "location": 2,
+      "content": "One aspect might be",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 755.6,
+      "to": 758.76,
+      "sid": 422,
+      "location": 2,
+      "content": "That I am considered a doctor in their eyes.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 758.76,
+      "to": 760.72,
+      "sid": 423,
+      "location": 2,
+      "content": "Strictly speaking, I am here to assist them.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 760.72,
+      "to": 762.36,
+      "sid": 424,
+      "location": 2,
+      "content": "Then there wasn't any specific conflict.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 762.36,
+      "to": 763.5,
+      "sid": 425,
+      "location": 2,
+      "content": "In a sense,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 763.5,
+      "to": 765.58,
+      "sid": 426,
+      "location": 2,
+      "content": "You also know there's a power disparity here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 765.58,
+      "to": 766.2,
+      "sid": 427,
+      "location": 2,
+      "content": "In a way,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 766.2,
+      "to": 767.12,
+      "sid": 428,
+      "location": 2,
+      "content": "They need to please me.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 767.12,
+      "to": 769.86,
+      "sid": 429,
+      "location": 2,
+      "content": "Although I don't directly control whether they get released or not,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 769.86,
+      "to": 771.9,
+      "sid": 430,
+      "location": 2,
+      "content": "As a healthcare provider,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 771.9,
+      "to": 774.14,
+      "sid": 431,
+      "location": 2,
+      "content": "My assessment of them is crucial.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 774.14,
+      "to": 776.27,
+      "sid": 432,
+      "location": 2,
+      "content": "Even if there's some underlying urgency.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 776.27,
+      "to": 777.75,
+      "sid": 433,
+      "location": 2,
+      "content": "They might not be able to express it to me",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 777.75,
+      "to": 779.61,
+      "sid": 434,
+      "location": 2,
+      "content": "because there's no benefit for them in doing so",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 779.61,
+      "to": 779.87,
+      "sid": 435,
+      "location": 2,
+      "content": "Right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 779.87,
+      "to": 781.59,
+      "sid": 436,
+      "location": 2,
+      "content": "but overall, I feel very welcomed",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 781.59,
+      "to": 783.64,
+      "sid": 437,
+      "location": 2,
+      "content": "What level of improvement is required for discharge?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 783.64,
+      "to": 784.9,
+      "sid": 438,
+      "location": 2,
+      "content": "When he is discharged",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 784.9,
+      "to": 788.28,
+      "sid": 439,
+      "location": 2,
+      "content": "he is often not directly released back into the community",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 788.28,
+      "to": 789.24,
+      "sid": 440,
+      "location": 2,
+      "content": "in our facility",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 789.24,
+      "to": 791.2,
+      "sid": 441,
+      "location": 2,
+      "content": "it's essentially a high-level psychiatric hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 791.2,
+      "to": 792.48,
+      "sid": 442,
+      "location": 2,
+      "content": "They think your functions are quite good.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 792.48,
+      "to": 796.58,
+      "sid": 443,
+      "location": 2,
+      "content": "They can place you in some dormitories in the community.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 796.58,
+      "to": 798.36,
+      "sid": 444,
+      "location": 2,
+      "content": "Once you get there,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 798.36,
+      "to": 800.84,
+      "sid": 445,
+      "location": 2,
+      "content": "the place will also provide you with some medical services.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 800.84,
+      "to": 802.28,
+      "sid": 446,
+      "location": 2,
+      "content": "But they manage you less strictly.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 802.28,
+      "to": 804.54,
+      "sid": 447,
+      "location": 2,
+      "content": "At that time, you can go out and do some part-time jobs.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 804.54,
+      "to": 805.68,
+      "sid": 448,
+      "location": 2,
+      "content": "Although many patients say,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 805.68,
+      "to": 806.12,
+      "sid": 449,
+      "location": 2,
+      "content": "I went out,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 806.12,
+      "to": 807.32,
+      "sid": 450,
+      "location": 2,
+      "content": "I want to go straight to where I want to go.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 807.32,
+      "to": 808.44,
+      "sid": 451,
+      "location": 2,
+      "content": "Living with my mom",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 808.44,
+      "to": 809.82,
+      "sid": 452,
+      "location": 2,
+      "content": "or going somewhere, uh",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 809.82,
+      "to": 812.6,
+      "sid": 453,
+      "location": 2,
+      "content": "living with my wife or my kids",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 812.6,
+      "to": 815.98,
+      "sid": 454,
+      "location": 2,
+      "content": "generally speaking, such requests are not allowed",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 815.98,
+      "to": 817.5,
+      "sid": 455,
+      "location": 2,
+      "content": "because the logic is simple",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 817.5,
+      "to": 820.46,
+      "sid": 456,
+      "location": 2,
+      "content": "you committed a crime in that environment, which led to your incarceration",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 820.46,
+      "to": 822.51,
+      "sid": 457,
+      "location": 2,
+      "content": "we don’t really trust that putting you back there would be safe",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 822.51,
+      "to": 824.57,
+      "sid": 458,
+      "location": 2,
+      "content": "they can provide you with the knowledge you need",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 824.57,
+      "to": 825.67,
+      "sid": 459,
+      "location": 2,
+      "content": "from when you were at home",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 825.67,
+      "to": 827.95,
+      "sid": 460,
+      "location": 2,
+      "content": "Your parents have never taken you to see a mental health professional",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 827.95,
+      "to": 829.91,
+      "sid": 461,
+      "location": 2,
+      "content": "nor have they supervised your medication",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 829.91,
+      "to": 830.67,
+      "sid": 462,
+      "location": 2,
+      "content": "So what happened next?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 830.67,
+      "to": 833.41,
+      "sid": 463,
+      "location": 2,
+      "content": "When you were doing some odd things",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 833.41,
+      "to": 833.81,
+      "sid": 464,
+      "location": 2,
+      "content": "no one intervened",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 833.81,
+      "to": 835.65,
+      "sid": 465,
+      "location": 2,
+      "content": "Now you're receiving treatment in that place",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 835.65,
+      "to": 836.61,
+      "sid": 466,
+      "location": 2,
+      "content": "and someone is looking after you",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 836.61,
+      "to": 838.81,
+      "sid": 467,
+      "location": 2,
+      "content": "and you might gain a bit more independence",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 838.81,
+      "to": 841.45,
+      "sid": 468,
+      "location": 2,
+      "content": "like finding a job and working for a while until it's about right",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 841.45,
+      "to": 843.01,
+      "sid": 469,
+      "location": 2,
+      "content": "Then they might decide from there",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 843.01,
+      "to": 845.43,
+      "sid": 470,
+      "location": 2,
+      "content": "whether they can take you home or not",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 845.43,
+      "to": 848.67,
+      "sid": 471,
+      "location": 2,
+      "content": "I had a meal at a restaurant near your hospital before",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 848.67,
+      "to": 850.51,
+      "sid": 472,
+      "location": 2,
+      "content": "and a local grandma said",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 850.51,
+      "to": 854.13,
+      "sid": 473,
+      "location": 2,
+      "content": "your hospital doesn’t take good care of patients",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 855.68,
+      "to": 857.2,
+      "sid": 474,
+      "location": 2,
+      "content": "I basically agree",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 857.2,
+      "to": 860.5,
+      "sid": 475,
+      "location": 2,
+      "content": "if you’re treating them as patients",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 860.5,
+      "to": 863.36,
+      "sid": 476,
+      "location": 2,
+      "content": "it’s true that in terms of the medical services provided",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 863.36,
+      "to": 865.22,
+      "sid": 477,
+      "location": 2,
+      "content": "there are often times",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 865.22,
+      "to": 867.16,
+      "sid": 478,
+      "location": 2,
+      "content": "There's no way to meet these patients' needs",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 867.16,
+      "to": 868.66,
+      "sid": 479,
+      "location": 2,
+      "content": "On the other hand",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 868.66,
+      "to": 871.049,
+      "sid": 480,
+      "location": 2,
+      "content": "it's not entirely a hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 871.049,
+      "to": 872.229,
+      "sid": 481,
+      "location": 2,
+      "content": "although it's called a hospital",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 872.229,
+      "to": 872.809,
+      "sid": 482,
+      "location": 2,
+      "content": "but as I said",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 872.809,
+      "to": 875.189,
+      "sid": 483,
+      "location": 2,
+      "content": "because these people are forced to be here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 875.189,
+      "to": 877.25,
+      "sid": 484,
+      "location": 2,
+      "content": "it has certain prison-like attributes",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 877.25,
+      "to": 878.29,
+      "sid": 485,
+      "location": 2,
+      "content": "What's different",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 878.29,
+      "to": 879.17,
+      "sid": 486,
+      "location": 2,
+      "content": "is the norm",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 879.17,
+      "to": 880.25,
+      "sid": 487,
+      "location": 2,
+      "content": "As natural beings,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 880.25,
+      "to": 881.41,
+      "sid": 488,
+      "location": 2,
+      "content": "most of the time,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 881.41,
+      "to": 883.85,
+      "sid": 489,
+      "location": 2,
+      "content": "you don't need to prove that you're a good person.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 883.85,
+      "to": 885.55,
+      "sid": 490,
+      "location": 2,
+      "content": "Even when you do nothing,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 885.55,
+      "to": 887.71,
+      "sid": 491,
+      "location": 2,
+      "content": "you are naturally considered a good person.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 887.71,
+      "to": 889.27,
+      "sid": 492,
+      "location": 2,
+      "content": "In this hospital,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 889.27,
+      "to": 890.39,
+      "sid": 493,
+      "location": 2,
+      "content": "once you step in,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 890.39,
+      "to": 891.43,
+      "sid": 494,
+      "location": 2,
+      "content": "even if you do nothing,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 891.43,
+      "to": 892.91,
+      "sid": 495,
+      "location": 2,
+      "content": "you will naturally be considered a bad person.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 892.91,
+      "to": 896.209,
+      "sid": 496,
+      "location": 2,
+      "content": "So you need to work really hard to prove yourself in this hospital.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 896.209,
+      "to": 897.749,
+      "sid": 497,
+      "location": 2,
+      "content": "Although I have a criminal record,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 897.749,
+      "to": 899.109,
+      "sid": 498,
+      "location": 2,
+      "content": "I will behave well.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 899.109,
+      "to": 901.869,
+      "sid": 499,
+      "location": 2,
+      "content": "To show that the criminal record isn't who I truly am.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 901.869,
+      "to": 901.989,
+      "sid": 500,
+      "location": 2,
+      "content": "I",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 901.989,
+      "to": 903.949,
+      "sid": 501,
+      "location": 2,
+      "content": "I think there might be some fundamental differences in logic,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 903.949,
+      "to": 908.04,
+      "sid": 502,
+      "location": 2,
+      "content": "compared to ordinary psychiatric hospitals.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 908.04,
+      "to": 910.8,
+      "sid": 503,
+      "location": 2,
+      "content": "On the other hand, as we mentioned,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 910.8,
+      "to": 912.52,
+      "sid": 504,
+      "location": 2,
+      "content": "it is, after all, a state-run psychiatric facility.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 912.52,
+      "to": 913.16,
+      "sid": 505,
+      "location": 2,
+      "content": "It's public.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 913.16,
+      "to": 914.74,
+      "sid": 506,
+      "location": 2,
+      "content": "So it's funded by taxpayers' money.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 914.74,
+      "to": 916.26,
+      "sid": 507,
+      "location": 2,
+      "content": "The funding has always been tight.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 916.26,
+      "to": 917.45,
+      "sid": 508,
+      "location": 2,
+      "content": "Objectively speaking,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 918.11,
+      "to": 921.27,
+      "sid": 509,
+      "location": 2,
+      "content": "many patients receive very limited medical resources.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 921.27,
+      "to": 922.19,
+      "sid": 510,
+      "location": 2,
+      "content": "There's no way around it.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 922.19,
+      "to": 923.19,
+      "sid": 511,
+      "location": 2,
+      "content": "To be objective,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 923.19,
+      "to": 927.3,
+      "sid": 512,
+      "location": 2,
+      "content": "improving the quality of healthcare services is actually quite straightforward.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 927.3,
+      "to": 928.34,
+      "sid": 513,
+      "location": 2,
+      "content": "As long as there's money.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 928.34,
+      "to": 930.22,
+      "sid": 514,
+      "location": 2,
+      "content": "Everyone can provide excellent medical services",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 930.22,
+      "to": 933.33,
+      "sid": 515,
+      "location": 2,
+      "content": "Just like many private hospitals we commonly see, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 933.33,
+      "to": 934.73,
+      "sid": 516,
+      "location": 2,
+      "content": "But the money for private hospitals",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 934.73,
+      "to": 936.13,
+      "sid": 517,
+      "location": 2,
+      "content": "Comes from the patients themselves",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 936.13,
+      "to": 936.81,
+      "sid": 518,
+      "location": 2,
+      "content": "The more you pay",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 936.81,
+      "to": 938.35,
+      "sid": 519,
+      "location": 2,
+      "content": "The better service you can enjoy",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 938.35,
+      "to": 939.61,
+      "sid": 520,
+      "location": 2,
+      "content": "But if no one is willing to pay",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 939.61,
+      "to": 941.22,
+      "sid": 521,
+      "location": 2,
+      "content": "And only the state government is expected to foot the bill",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 941.22,
+      "to": 942.9,
+      "sid": 522,
+      "location": 2,
+      "content": "That would indeed be quite challenging",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 942.9,
+      "to": 947.28,
+      "sid": 523,
+      "location": 2,
+      "content": "I think your facility doesn't provide enough care for mental health patients.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 947.28,
+      "to": 948.44,
+      "sid": 524,
+      "location": 2,
+      "content": "But the amount of money you spend",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 948.44,
+      "to": 949.88,
+      "sid": 525,
+      "location": 2,
+      "content": "is actually much more than what it costs to maintain a regular prisoner.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 949.88,
+      "to": 952.43,
+      "sid": 526,
+      "location": 2,
+      "content": "Right, right, right.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 952.43,
+      "to": 953.51,
+      "sid": 527,
+      "location": 2,
+      "content": "It does cost significantly more than a regular prisoner.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 953.51,
+      "to": 955.31,
+      "sid": 528,
+      "location": 2,
+      "content": "So, do you think there's a better way?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 955.31,
+      "to": 957.91,
+      "sid": 529,
+      "location": 2,
+      "content": "To be honest,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 957.91,
+      "to": 958.63,
+      "sid": 530,
+      "location": 2,
+      "content": "I'm telling it like it is",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 959.59,
+      "to": 962.329,
+      "sid": 531,
+      "location": 2,
+      "content": "Although I work in the mental health system",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 962.329,
+      "to": 965.049,
+      "sid": 532,
+      "location": 2,
+      "content": "I'm still a bit puzzled about what counts as fair in this situation",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 965.049,
+      "to": 967.35,
+      "sid": 533,
+      "location": 2,
+      "content": "I have some of my own uncertainties",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 967.35,
+      "to": 968.09,
+      "sid": 534,
+      "location": 2,
+      "content": "As I mentioned",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 968.09,
+      "to": 971.63,
+      "sid": 535,
+      "location": 2,
+      "content": "You might argue that they weren't of sound mind when they committed the crime",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 971.63,
+      "to": 972.57,
+      "sid": 536,
+      "location": 2,
+      "content": "But objectively speaking",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 972.57,
+      "to": 974.74,
+      "sid": 537,
+      "location": 2,
+      "content": "someone was harmed in the process",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 974.74,
+      "to": 976.1,
+      "sid": 538,
+      "location": 2,
+      "content": "they were ultimately found not guilty",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 976.1,
+      "to": 977.28,
+      "sid": 539,
+      "location": 2,
+      "content": "because of their mental illness",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 977.28,
+      "to": 979.12,
+      "sid": 540,
+      "location": 2,
+      "content": "What should the person who has been hurt do?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 979.12,
+      "to": 983.47,
+      "sid": 541,
+      "location": 2,
+      "content": "No one takes responsibility or pays for the harm done to them.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 983.47,
+      "to": 986.13,
+      "sid": 542,
+      "location": 2,
+      "content": "If we simply view him as a patient,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 986.13,
+      "to": 988.47,
+      "sid": 543,
+      "location": 2,
+      "content": "I think it's because not all mental illnesses",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 988.47,
+      "to": 991.21,
+      "sid": 544,
+      "location": 2,
+      "content": "and in fact, most people with mental illnesses",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 991.21,
+      "to": 994.1,
+      "sid": 545,
+      "location": 2,
+      "content": "aren't highly aggressive, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 994.1,
+      "to": 996.78,
+      "sid": 546,
+      "location": 2,
+      "content": "Most of the time, they harm themselves",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 996.78,
+      "to": 997.92,
+      "sid": 547,
+      "location": 2,
+      "content": "rather than others.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 997.92,
+      "to": 999.3,
+      "sid": 548,
+      "location": 2,
+      "content": "So, from this perspective,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 999.3,
+      "to": 1001.86,
+      "sid": 549,
+      "location": 2,
+      "content": "I think we've invested a lot of resources",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1001.86,
+      "to": 1004.82,
+      "sid": 550,
+      "location": 2,
+      "content": "into treating those with mental illnesses who have harmed others",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1004.82,
+      "to": 1007.48,
+      "sid": 551,
+      "location": 2,
+      "content": "and this makes me feel a bit uneasy",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1007.48,
+      "to": 1010.16,
+      "sid": 552,
+      "location": 2,
+      "content": "or somewhat unfair",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1010.16,
+      "to": 1011.12,
+      "sid": 553,
+      "location": 2,
+      "content": "because in other jobs and internships, I've seen many patients",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1011.12,
+      "to": 1015.509,
+      "sid": 554,
+      "location": 2,
+      "content": "who are just as severely ill",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1015.509,
+      "to": 1016.709,
+      "sid": 555,
+      "location": 2,
+      "content": "but they have never harmed anyone",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1016.709,
+      "to": 1018.569,
+      "sid": 556,
+      "location": 2,
+      "content": "and they work hard to overcome their mental illnesses",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1022.08,
+      "to": 1023.04,
+      "sid": 557,
+      "location": 2,
+      "content": "But in this process,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1023.04,
+      "to": 1023.56,
+      "sid": 558,
+      "location": 2,
+      "content": "As I mentioned,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1023.56,
+      "to": 1024.6,
+      "sid": 559,
+      "location": 2,
+      "content": "It might be due to poverty,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1024.6,
+      "to": 1027.08,
+      "sid": 560,
+      "location": 2,
+      "content": "Or perhaps other objective reasons",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1027.08,
+      "to": 1028.75,
+      "sid": 561,
+      "location": 2,
+      "content": "There's no way to overcome it.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1028.75,
+      "to": 1030.63,
+      "sid": 562,
+      "location": 2,
+      "content": "If you really want my opinion,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1030.63,
+      "to": 1031.59,
+      "sid": 563,
+      "location": 2,
+      "content": "I'd give them the money,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1031.59,
+      "to": 1033.45,
+      "sid": 564,
+      "location": 2,
+      "content": "It's far more worthwhile than sending money to such places.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1033.45,
+      "to": 1035.879,
+      "sid": 565,
+      "location": 2,
+      "content": "But on the other hand, if you don't take up the sword,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1035.879,
+      "to": 1036.719,
+      "sid": 566,
+      "location": 2,
+      "content": "This is like building a prison",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1036.719,
+      "to": 1037.719,
+      "sid": 567,
+      "location": 2,
+      "content": "If you don’t build a mental health facility",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1037.719,
+      "to": 1038.519,
+      "sid": 568,
+      "location": 2,
+      "content": "To lock them up",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1038.519,
+      "to": 1039.459,
+      "sid": 569,
+      "location": 2,
+      "content": "After they commit crimes",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1039.459,
+      "to": 1040.839,
+      "sid": 570,
+      "location": 2,
+      "content": "No matter where you send them",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1040.839,
+      "to": 1044.58,
+      "sid": 571,
+      "location": 2,
+      "content": "They will eventually return to the community",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1044.58,
+      "to": 1045.76,
+      "sid": 572,
+      "location": 2,
+      "content": "And they will likely reoffend",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1045.76,
+      "to": 1047.32,
+      "sid": 573,
+      "location": 2,
+      "content": "If you don’t treat them, right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1047.32,
+      "to": 1049.12,
+      "sid": 574,
+      "location": 2,
+      "content": "They will remain a source of social instability",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1049.12,
+      "to": 1049.96,
+      "sid": 575,
+      "location": 2,
+      "content": "To be objective,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1049.96,
+      "to": 1053.11,
+      "sid": 576,
+      "location": 2,
+      "content": "many of them aren't really that cruel,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1053.11,
+      "to": 1055.87,
+      "sid": 577,
+      "location": 2,
+      "content": "what I mentioned earlier were mostly high-profile cases,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1055.87,
+      "to": 1058.36,
+      "sid": 578,
+      "location": 2,
+      "content": "some people's cases really aren't that serious,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1058.36,
+      "to": 1059.4,
+      "sid": 579,
+      "location": 2,
+      "content": "when you think about these people,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1059.4,
+      "to": 1060.22,
+      "sid": 580,
+      "location": 2,
+      "content": "he's also quite,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1060.22,
+      "to": 1062.0,
+      "sid": 581,
+      "location": 2,
+      "content": "and objectively, they do need help,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1062.0,
+      "to": 1062.2,
+      "sid": 582,
+      "location": 2,
+      "content": "they",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1062.2,
+      "to": 1063.62,
+      "sid": 583,
+      "location": 2,
+      "content": "are different from those in prison.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1063.62,
+      "to": 1064.96,
+      "sid": 584,
+      "location": 2,
+      "content": "They truly need help.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1064.96,
+      "to": 1068.72,
+      "sid": 585,
+      "location": 2,
+      "content": "Because their mental illnesses can't be solved by imprisonment.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1068.72,
+      "to": 1070.67,
+      "sid": 586,
+      "location": 2,
+      "content": "Imprisoning them just means they will be released eventually.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1070.67,
+      "to": 1072.31,
+      "sid": 587,
+      "location": 2,
+      "content": "Prison is not a place where you lock someone up forever.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1072.31,
+      "to": 1073.15,
+      "sid": 588,
+      "location": 2,
+      "content": "They don't stay there for life.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1073.15,
+      "to": 1074.39,
+      "sid": 589,
+      "location": 2,
+      "content": "Especially for these individuals,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1074.39,
+      "to": 1075.33,
+      "sid": 590,
+      "location": 2,
+      "content": "many of whom have minor offenses.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1075.33,
+      "to": 1077.12,
+      "sid": 591,
+      "location": 2,
+      "content": "They serve two or three years and are released.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1077.12,
+      "to": 1079.5,
+      "sid": 592,
+      "location": 2,
+      "content": "Considering their own criminal behavior",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1079.5,
+      "to": 1081.14,
+      "sid": 593,
+      "location": 2,
+      "content": "Indeed, a lot of times he can't control himself.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1081.14,
+      "to": 1081.68,
+      "sid": 594,
+      "location": 2,
+      "content": "Right?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1081.68,
+      "to": 1082.64,
+      "sid": 595,
+      "location": 2,
+      "content": "It's like when you talk about him, it's as if you're talking about him.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1082.64,
+      "to": 1085.349,
+      "sid": 596,
+      "location": 2,
+      "content": "Sometimes he suddenly feels like someone is possessed by a big egg.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1085.349,
+      "to": 1086.029,
+      "sid": 597,
+      "location": 2,
+      "content": "This matter.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1086.029,
+      "to": 1087.709,
+      "sid": 598,
+      "location": 2,
+      "content": "If you don't receive mental health treatment,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1087.709,
+      "to": 1088.99,
+      "sid": 599,
+      "location": 2,
+      "content": "If you don't take psychiatric medication,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1088.99,
+      "to": 1091.77,
+      "sid": 600,
+      "location": 2,
+      "content": "It's not something he can control through his own will.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1091.77,
+      "to": 1093.47,
+      "sid": 601,
+      "location": 2,
+      "content": "From a personal interest standpoint,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1093.47,
+      "to": 1096.33,
+      "sid": 602,
+      "location": 2,
+      "content": "I wouldn't say I'm willing to be a mentor for life,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1096.33,
+      "to": 1098.13,
+      "sid": 603,
+      "location": 2,
+      "content": "Or walk alongside the judicial system,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1098.13,
+      "to": 1100.29,
+      "sid": 604,
+      "location": 2,
+      "content": "But on the other hand, it is a very valuable experience.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1100.29,
+      "to": 1102.05,
+      "sid": 605,
+      "location": 2,
+      "content": "Because you get to meet many people,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1102.05,
+      "to": 1105.82,
+      "sid": 606,
+      "location": 2,
+      "content": "People or patients you would never encounter in your normal life.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1105.82,
+      "to": 1107.46,
+      "sid": 607,
+      "location": 2,
+      "content": "They have their own unique issues.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1107.46,
+      "to": 1108.7,
+      "sid": 608,
+      "location": 2,
+      "content": "Sometimes you realize,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1108.7,
+      "to": 1111.04,
+      "sid": 609,
+      "location": 2,
+      "content": "What we call mental health issues,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1111.04,
+      "to": 1113.22,
+      "sid": 610,
+      "location": 2,
+      "content": "Is both a physiological and a social problem.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1113.22,
+      "to": 1114.72,
+      "sid": 611,
+      "location": 2,
+      "content": "For a person's social environment,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1114.72,
+      "to": 1116.64,
+      "sid": 612,
+      "location": 2,
+      "content": "Life background,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1116.64,
+      "to": 1117.38,
+      "sid": 613,
+      "location": 2,
+      "content": "And when you help them,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1117.38,
+      "to": 1118.84,
+      "sid": 614,
+      "location": 2,
+      "content": "How to consider the social aspect,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1118.84,
+      "to": 1121.47,
+      "sid": 615,
+      "location": 2,
+      "content": "How the system has led them to this point,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1121.47,
+      "to": 1123.79,
+      "sid": 616,
+      "location": 2,
+      "content": "And when they need to make changes,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1123.79,
+      "to": 1125.71,
+      "sid": 617,
+      "location": 2,
+      "content": "How they can reintegrate into the system.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1125.71,
+      "to": 1127.51,
+      "sid": 618,
+      "location": 2,
+      "content": "Of course, as I always say,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1127.51,
+      "to": 1128.27,
+      "sid": 619,
+      "location": 2,
+      "content": "I really find it interesting,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1129.65,
+      "to": 1131.05,
+      "sid": 620,
+      "location": 2,
+      "content": "Because I studied for a year,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1131.05,
+      "to": 1132.49,
+      "sid": 621,
+      "location": 2,
+      "content": "And then I moved on to do something else.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1132.49,
+      "to": 1133.53,
+      "sid": 622,
+      "location": 2,
+      "content": "My supervisor is quite old now,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1135.09,
+      "to": 1137.25,
+      "sid": 623,
+      "location": 2,
+      "content": "My supervisor is already quite advanced in age.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 1137.25,
+      "to": 1139.22,
+      "sid": 624,
+      "location": 2,
+      "content": "And he has worked at this traditional Chinese medicine hospital for 45 years.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1139.22,
+      "to": 1142.04,
+      "sid": 625,
+      "location": 2,
+      "content": "He says that back when he was a doctoral student interning here,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1142.04,
+      "to": 1143.12,
+      "sid": 626,
+      "location": 2,
+      "content": "After he interned elsewhere for a while,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1143.12,
+      "to": 1146.54,
+      "sid": 627,
+      "location": 2,
+      "content": "When deciding on his future career path,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1146.54,
+      "to": 1149.24,
+      "sid": 628,
+      "location": 2,
+      "content": "He thought about all the places he had worked at,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1149.24,
+      "to": 1151.58,
+      "sid": 629,
+      "location": 2,
+      "content": "Which place intrigued him the most,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1151.58,
+      "to": 1154.42,
+      "sid": 630,
+      "location": 2,
+      "content": "Which place he was most curious about,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1154.42,
+      "to": 1157.51,
+      "sid": 631,
+      "location": 2,
+      "content": "He found that this 'China Hui',",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1157.51,
+      "to": 1159.25,
+      "sid": 632,
+      "location": 2,
+      "content": "And the Florida State Hospital were the most intriguing to him,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1159.25,
+      "to": 1161.15,
+      "sid": 633,
+      "location": 2,
+      "content": "This made him want to learn more,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1161.15,
+      "to": 1164.44,
+      "sid": 634,
+      "location": 2,
+      "content": "Working for 45 years,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1164.44,
+      "to": 1166.1,
+      "sid": 635,
+      "location": 2,
+      "content": "He still finds it fascinating,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1166.1,
+      "to": 1166.92,
+      "sid": 636,
+      "location": 2,
+      "content": "A lot of things happen here,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1166.92,
+      "to": 1168.52,
+      "sid": 637,
+      "location": 2,
+      "content": "That he finds truly amazing.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1168.52,
+      "to": 1169.88,
+      "sid": 638,
+      "location": 2,
+      "content": "Humans are truly amazing.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1169.88,
+      "to": 1171.56,
+      "sid": 639,
+      "location": 2,
+      "content": "Even in his 70s,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1171.56,
+      "to": 1172.98,
+      "sid": 640,
+      "location": 2,
+      "content": "He hasn't retired yet,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1172.98,
+      "to": 1174.0,
+      "sid": 641,
+      "location": 2,
+      "content": "If he retired,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1174.0,
+      "to": 1174.96,
+      "sid": 642,
+      "location": 2,
+      "content": "It might be hard to find a successor,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1174.96,
+      "to": 1175.92,
+      "sid": 643,
+      "location": 2,
+      "content": "It's a tough match, and not highly valued,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1175.92,
+      "to": 1177.04,
+      "sid": 644,
+      "location": 2,
+      "content": "And objectively speaking,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1177.04,
+      "to": 1178.91,
+      "sid": 645,
+      "location": 2,
+      "content": "If you worry about your safety,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1178.91,
+      "to": 1180.55,
+      "sid": 646,
+      "location": 2,
+      "content": "Or other concerns,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1180.55,
+      "to": 1182.83,
+      "sid": 647,
+      "location": 2,
+      "content": "It can make you feel uncomfortable.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1182.83,
+      "to": 1183.76,
+      "sid": 648,
+      "location": 2,
+      "content": "On the other hand,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1183.76,
+      "to": 1185.16,
+      "sid": 649,
+      "location": 2,
+      "content": "While you can write a lot of reports here,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1185.16,
+      "to": 1186.2,
+      "sid": 650,
+      "location": 2,
+      "content": "A lot of the feelings of helplessness,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1186.2,
+      "to": 1188.76,
+      "sid": 651,
+      "location": 2,
+      "content": "Ultimately stem from how the system is structured,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1188.76,
+      "to": 1190.14,
+      "sid": 652,
+      "location": 2,
+      "content": "You don't have the power to change the system.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1190.14,
+      "to": 1192.42,
+      "sid": 653,
+      "location": 2,
+      "content": "The largest forensic psychiatric hospital in Florida,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1192.42,
+      "to": 1194.34,
+      "sid": 654,
+      "location": 2,
+      "content": "Is it different from what you imagined?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1194.34,
+      "to": 1196.14,
+      "sid": 655,
+      "location": 2,
+      "content": "Feel free to share your thoughts in the comments.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1196.14,
+      "to": 1197.72,
+      "sid": 656,
+      "location": 2,
+      "content": "That's it for this video.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.0"
+    },
+    {
+      "from": 1197.72,
+      "to": 1200.02,
+      "sid": 657,
+      "location": 2,
+      "content": "Feel free to share your thoughts in the comments section.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 1200.02,
+      "to": 1201.22,
+      "sid": 658,
+      "location": 2,
+      "content": "That's all for this video.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 1201.22,
+      "to": 1204.4,
+      "sid": 659,
+      "location": 2,
+      "content": "Follow me to explore places that most people don't venture into.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    }
+  ]
+}

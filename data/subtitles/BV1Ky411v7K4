@@ -1,0 +1,900 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.96,
+      "sid": 1,
+      "location": 2,
+      "content": "今天带大家看一个我出去拍视频",
+      "music": 0.0
+    },
+    {
+      "from": 1.96,
+      "to": 4.42,
+      "sid": 2,
+      "location": 2,
+      "content": "这么多期住过的最离谱的汽车旅馆",
+      "music": 0.0
+    },
+    {
+      "from": 4.42,
+      "to": 5.56,
+      "sid": 3,
+      "location": 2,
+      "content": "房间大的离谱",
+      "music": 0.0
+    },
+    {
+      "from": 5.56,
+      "to": 7.24,
+      "sid": 4,
+      "location": 2,
+      "content": "里面的虫子也多的离谱",
+      "music": 0.0
+    },
+    {
+      "from": 7.24,
+      "to": 8.46,
+      "sid": 5,
+      "location": 2,
+      "content": "先来办个入住",
+      "music": 0.0
+    },
+    {
+      "from": 8.46,
+      "to": 10.84,
+      "sid": 6,
+      "location": 2,
+      "content": "这边有不少南美的工人住在这里",
+      "music": 0.0
+    },
+    {
+      "from": 10.84,
+      "to": 13.48,
+      "sid": 7,
+      "location": 2,
+      "content": "然后酒店还自带一个老虎机小屋",
+      "music": 0.0
+    },
+    {
+      "from": 13.48,
+      "to": 15.12,
+      "sid": 8,
+      "location": 2,
+      "content": "很多人可以一边住店",
+      "music": 0.0
+    },
+    {
+      "from": 15.12,
+      "to": 16.43,
+      "sid": 9,
+      "location": 2,
+      "content": "一边跑亲子",
+      "music": 0.3818181471074412
+    },
+    {
+      "from": 16.43,
+      "to": 19.21,
+      "sid": 10,
+      "location": 2,
+      "content": "这家店在网上的评价也是非常的炸裂",
+      "music": 0.0
+    },
+    {
+      "from": 19.21,
+      "to": 23.189,
+      "sid": 11,
+      "location": 2,
+      "content": "网友A评价到酒店员工边上班边玩老虎机",
+      "music": 0.0
+    },
+    {
+      "from": 23.189,
+      "to": 26.409,
+      "sid": 12,
+      "location": 2,
+      "content": "酒鬼喝着酒脱掉鞋子在里面走来走去",
+      "music": 0.0
+    },
+    {
+      "from": 26.409,
+      "to": 28.64,
+      "sid": 13,
+      "location": 2,
+      "content": "房间的地板上面有死老鼠",
+      "music": 0.0
+    },
+    {
+      "from": 28.64,
+      "to": 30.34,
+      "sid": 14,
+      "location": 2,
+      "content": "蟑螂在门边爬",
+      "music": 0.0
+    },
+    {
+      "from": 30.34,
+      "to": 31.58,
+      "sid": 15,
+      "location": 2,
+      "content": "网友B表示",
+      "music": 0.0
+    },
+    {
+      "from": 31.58,
+      "to": 33.26,
+      "sid": 16,
+      "location": 2,
+      "content": "他们刚进房间就发现",
+      "music": 0.0
+    },
+    {
+      "from": 33.26,
+      "to": 35.74,
+      "sid": 17,
+      "location": 2,
+      "content": "里面至少有十名西班牙裔男子",
+      "music": 0.0
+    },
+    {
+      "from": 35.74,
+      "to": 38.9,
+      "sid": 18,
+      "location": 2,
+      "content": "从床到地板睡在各处",
+      "music": 0.0
+    },
+    {
+      "from": 43.02,
+      "to": 45.46,
+      "sid": 19,
+      "location": 2,
+      "content": "嗯来开盲盒了啊",
+      "music": 0.0
+    },
+    {
+      "from": 45.46,
+      "to": 49.52,
+      "sid": 20,
+      "location": 2,
+      "content": "嗯嗯嗯小心思",
+      "music": 0.0
+    },
+    {
+      "from": 59.96,
+      "to": 62.08,
+      "sid": 21,
+      "location": 2,
+      "content": "这个还是有泳池的啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.08,
+      "to": 66.74,
+      "sid": 22,
+      "location": 2,
+      "content": "但这个泳池里面有一股很重的氯气的味道",
+      "music": 0.0
+    },
+    {
+      "from": 66.74,
+      "to": 67.86,
+      "sid": 23,
+      "location": 2,
+      "content": "消毒水",
+      "music": 0.0
+    },
+    {
+      "from": 67.86,
+      "to": 70.61,
+      "sid": 24,
+      "location": 2,
+      "content": "这是鸭倒是不贵",
+      "music": 0.0
+    },
+    {
+      "from": 70.61,
+      "to": 72.91,
+      "sid": 25,
+      "location": 2,
+      "content": "一罐一块钱我也买一哇",
+      "music": 0.0
+    },
+    {
+      "from": 72.91,
+      "to": 75.23,
+      "sid": 26,
+      "location": 2,
+      "content": "这个房间还蛮大的",
+      "music": 0.0
+    },
+    {
+      "from": 75.96,
+      "to": 79.16,
+      "sid": 27,
+      "location": 2,
+      "content": "可以塞得下一家人",
+      "music": 0.0
+    },
+    {
+      "from": 79.16,
+      "to": 84.13,
+      "sid": 28,
+      "location": 2,
+      "content": "我感觉家庭房我一个人睡有点太奢侈了",
+      "music": 0.0
+    },
+    {
+      "from": 84.13,
+      "to": 86.71,
+      "sid": 29,
+      "location": 2,
+      "content": "这是这是因为我到的太晚了",
+      "music": 0.0
+    },
+    {
+      "from": 86.71,
+      "to": 89.289,
+      "sid": 30,
+      "location": 2,
+      "content": "他把这个总统套房留给我了吗",
+      "music": 0.0
+    },
+    {
+      "from": 89.569,
+      "to": 90.749,
+      "sid": 31,
+      "location": 2,
+      "content": "感觉还可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 90.749,
+      "to": 92.469,
+      "sid": 32,
+      "location": 2,
+      "content": "这个设施确实是有一点老",
+      "music": 0.0
+    },
+    {
+      "from": 92.469,
+      "to": 94.769,
+      "sid": 33,
+      "location": 2,
+      "content": "然后隔音也不太行",
+      "music": 0.0
+    },
+    {
+      "from": 96.06,
+      "to": 98.62,
+      "sid": 34,
+      "location": 2,
+      "content": "这窗帘也拉不上去了",
+      "music": 0.0
+    },
+    {
+      "from": 98.62,
+      "to": 99.94,
+      "sid": 35,
+      "location": 2,
+      "content": "然后这是个窗机",
+      "music": 0.0
+    },
+    {
+      "from": 101.3,
+      "to": 102.78,
+      "sid": 36,
+      "location": 2,
+      "content": "看看",
+      "music": 0.0
+    },
+    {
+      "from": 105.6,
+      "to": 106.72,
+      "sid": 37,
+      "location": 2,
+      "content": "开一下就起来",
+      "music": 0.0
+    },
+    {
+      "from": 108.8,
+      "to": 110.08,
+      "sid": 38,
+      "location": 2,
+      "content": "嚯",
+      "music": 0.0
+    },
+    {
+      "from": 116.58,
+      "to": 119.0,
+      "sid": 39,
+      "location": 2,
+      "content": "哎呀厕所哇",
+      "music": 0.0
+    },
+    {
+      "from": 119.0,
+      "to": 120.1,
+      "sid": 40,
+      "location": 2,
+      "content": "地上有一个小强",
+      "music": 0.0
+    },
+    {
+      "from": 120.1,
+      "to": 120.86,
+      "sid": 41,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    },
+    {
+      "from": 120.86,
+      "to": 124.38,
+      "sid": 42,
+      "location": 2,
+      "content": "这地上有个小强",
+      "music": 0.0
+    },
+    {
+      "from": 125.42,
+      "to": 128.21,
+      "sid": 43,
+      "location": 2,
+      "content": "安排上了洗澡的",
+      "music": 0.0
+    },
+    {
+      "from": 128.21,
+      "to": 130.85,
+      "sid": 44,
+      "location": 2,
+      "content": "这墙上就是有点太老了",
+      "music": 0.0
+    },
+    {
+      "from": 130.85,
+      "to": 132.77,
+      "sid": 45,
+      "location": 2,
+      "content": "其实总的来说房间还OK啊",
+      "music": 0.0
+    },
+    {
+      "from": 132.77,
+      "to": 135.86,
+      "sid": 46,
+      "location": 2,
+      "content": "镜子上面这是岁月的痕迹",
+      "music": 0.0
+    },
+    {
+      "from": 135.86,
+      "to": 137.9,
+      "sid": 47,
+      "location": 2,
+      "content": "这也不是酒店的问题吧",
+      "music": 0.0
+    },
+    {
+      "from": 137.9,
+      "to": 140.46,
+      "sid": 48,
+      "location": 2,
+      "content": "除非他愿意再装修一下",
+      "music": 0.0
+    },
+    {
+      "from": 143.0,
+      "to": 145.36,
+      "sid": 49,
+      "location": 2,
+      "content": "哎呦这里又来一只",
+      "music": 0.0
+    },
+    {
+      "from": 148.42,
+      "to": 152.38,
+      "sid": 50,
+      "location": 2,
+      "content": "无影脚那个戒指上面还有小孩子贴贴纸",
+      "music": 0.0
+    },
+    {
+      "from": 157.06,
+      "to": 160.309,
+      "sid": 51,
+      "location": 2,
+      "content": "地上刚刚我又踩死一只来打虫子",
+      "music": 0.0
+    },
+    {
+      "from": 160.309,
+      "to": 163.509,
+      "sid": 52,
+      "location": 2,
+      "content": "属于是我觉得旅馆应该向我发一波除虫费",
+      "music": 0.0
+    },
+    {
+      "from": 163.509,
+      "to": 166.309,
+      "sid": 53,
+      "location": 2,
+      "content": "以表彰我对旅馆清洁事业的贡献",
+      "music": 0.0
+    },
+    {
+      "from": 166.309,
+      "to": 168.334,
+      "sid": 54,
+      "location": 2,
+      "content": "他这个插头",
+      "music": 0.0
+    },
+    {
+      "from": 171.22,
+      "to": 173.78,
+      "sid": 55,
+      "location": 2,
+      "content": "已经松掉了",
+      "music": 0.2946428439891561
+    },
+    {
+      "from": 177.08,
+      "to": 178.12,
+      "sid": 56,
+      "location": 2,
+      "content": "Two cp",
+      "music": 0.0
+    },
+    {
+      "from": 178.12,
+      "to": 179.42,
+      "sid": 57,
+      "location": 2,
+      "content": "Then fty cheese",
+      "music": 0.0
+    },
+    {
+      "from": 179.42,
+      "to": 181.22,
+      "sid": 58,
+      "location": 2,
+      "content": "All these time things will make you say",
+      "music": 0.0
+    },
+    {
+      "from": 181.22,
+      "to": 184.82,
+      "sid": 59,
+      "location": 2,
+      "content": "She is be happy",
+      "music": 0.5813952812330838
+    },
+    {
+      "from": 184.82,
+      "to": 185.82,
+      "sid": 60,
+      "location": 2,
+      "content": "Who's on the one",
+      "music": 0.9999998648648832
+    },
+    {
+      "from": 185.82,
+      "to": 187.38,
+      "sid": 61,
+      "location": 2,
+      "content": "不是汉堡王这么有钱的吗",
+      "music": 0.0
+    },
+    {
+      "from": 187.38,
+      "to": 188.52,
+      "sid": 62,
+      "location": 2,
+      "content": "一直在放广告啊",
+      "music": 0.0
+    },
+    {
+      "from": 188.52,
+      "to": 188.98,
+      "sid": 63,
+      "location": 2,
+      "content": "Wait",
+      "music": 0.0
+    },
+    {
+      "from": 188.98,
+      "to": 189.9,
+      "sid": 64,
+      "location": 2,
+      "content": "Can't be right",
+      "music": 0.0
+    },
+    {
+      "from": 189.9,
+      "to": 191.02,
+      "sid": 65,
+      "location": 2,
+      "content": "Just confirm that",
+      "music": 0.0
+    },
+    {
+      "from": 191.02,
+      "to": 192.02,
+      "sid": 66,
+      "location": 2,
+      "content": "That's the real right",
+      "music": 0.0
+    },
+    {
+      "from": 192.02,
+      "to": 196.73,
+      "sid": 67,
+      "location": 2,
+      "content": "这汉堡王能把这个钱投入到这个广告广告上面",
+      "music": 0.0
+    },
+    {
+      "from": 196.73,
+      "to": 197.99,
+      "sid": 68,
+      "location": 2,
+      "content": "但是做的很难吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 197.99,
+      "to": 199.05,
+      "sid": 69,
+      "location": 2,
+      "content": "我是说美国的啊",
+      "music": 0.0
+    },
+    {
+      "from": 199.05,
+      "to": 200.54,
+      "sid": 70,
+      "location": 2,
+      "content": "中国的汉堡包可好吃",
+      "music": 0.0
+    },
+    {
+      "from": 200.635,
+      "to": 202.9,
+      "sid": 71,
+      "location": 2,
+      "content": "For the people have been the victims of the",
+      "music": 0.0
+    },
+    {
+      "from": 202.9,
+      "to": 204.26,
+      "sid": 72,
+      "location": 2,
+      "content": "Illeal immigration by the way",
+      "music": 0.0
+    },
+    {
+      "from": 204.26,
+      "to": 205.54,
+      "sid": 73,
+      "location": 2,
+      "content": "Joe biden is allowed at him",
+      "music": 0.0
+    },
+    {
+      "from": 205.54,
+      "to": 206.42,
+      "sid": 74,
+      "location": 2,
+      "content": "Showing that empathy",
+      "music": 0.0
+    },
+    {
+      "from": 206.42,
+      "to": 206.8,
+      "sid": 75,
+      "location": 2,
+      "content": "The people",
+      "music": 0.0
+    },
+    {
+      "from": 206.8,
+      "to": 208.06,
+      "sid": 76,
+      "location": 2,
+      "content": "He is clear and purpose",
+      "music": 0.0
+    },
+    {
+      "from": 208.06,
+      "to": 208.73,
+      "sid": 77,
+      "location": 2,
+      "content": "And i think",
+      "music": 0.0
+    },
+    {
+      "from": 208.73,
+      "to": 209.65,
+      "sid": 78,
+      "location": 2,
+      "content": "Thank you",
+      "music": 0.0
+    },
+    {
+      "from": 209.65,
+      "to": 210.41,
+      "sid": 79,
+      "location": 2,
+      "content": "我要睡觉了",
+      "music": 0.0
+    },
+    {
+      "from": 210.41,
+      "to": 211.41,
+      "sid": 80,
+      "location": 2,
+      "content": "打开被子一看",
+      "music": 0.0
+    },
+    {
+      "from": 211.41,
+      "to": 214.69,
+      "sid": 81,
+      "location": 2,
+      "content": "哇里面全是各种奇奇怪怪的",
+      "music": 0.0
+    },
+    {
+      "from": 215.5,
+      "to": 217.42,
+      "sid": 82,
+      "location": 2,
+      "content": "主要不还是把被子拉上睡吧",
+      "music": 0.0
+    },
+    {
+      "from": 217.42,
+      "to": 219.25,
+      "sid": 83,
+      "location": 2,
+      "content": "我感觉身上已经开始痒了",
+      "music": 0.0
+    },
+    {
+      "from": 219.25,
+      "to": 221.69,
+      "sid": 84,
+      "location": 2,
+      "content": "但是不知道是心理作用还是什么",
+      "music": 0.0
+    },
+    {
+      "from": 221.69,
+      "to": 223.47,
+      "sid": 85,
+      "location": 2,
+      "content": "反正我明天早上再洗澡",
+      "music": 0.0
+    },
+    {
+      "from": 223.47,
+      "to": 225.72,
+      "sid": 86,
+      "location": 2,
+      "content": "第二天早上起来去吃个早饭",
+      "music": 0.0
+    },
+    {
+      "from": 225.72,
+      "to": 227.54,
+      "sid": 87,
+      "location": 2,
+      "content": "大家觉得这个房间如何",
+      "music": 0.0
+    },
+    {
+      "from": 227.54,
+      "to": 231.0,
+      "sid": 88,
+      "location": 2,
+      "content": "敢在这里住的扣一不敢住的扣二",
+      "music": 0.0
+    },
+    {
+      "from": 236.24,
+      "to": 239.04,
+      "sid": 89,
+      "location": 2,
+      "content": "嗯这个早饭都没有人来吃",
+      "music": 0.0
+    },
+    {
+      "from": 239.04,
+      "to": 240.0,
+      "sid": 90,
+      "location": 2,
+      "content": "可还行",
+      "music": 0.0
+    },
+    {
+      "from": 241.24,
+      "to": 243.429,
+      "sid": 91,
+      "location": 2,
+      "content": "看着还还OK吧",
+      "music": 0.0
+    },
+    {
+      "from": 243.429,
+      "to": 245.649,
+      "sid": 92,
+      "location": 2,
+      "content": "就是做这个花生",
+      "music": 0.0
+    },
+    {
+      "from": 245.649,
+      "to": 249.33,
+      "sid": 93,
+      "location": 2,
+      "content": "就是他们biscuit小饼干吧",
+      "music": 0.0
+    },
+    {
+      "from": 249.33,
+      "to": 253.79,
+      "sid": 94,
+      "location": 2,
+      "content": "一起来刚好的是白色的酱花力而为",
+      "music": 0.05263157740842729
+    },
+    {
+      "from": 258.779,
+      "to": 262.459,
+      "sid": 95,
+      "location": 2,
+      "content": "And jority stay clear at five years for life",
+      "music": 0.0
+    },
+    {
+      "from": 262.459,
+      "to": 265.419,
+      "sid": 96,
+      "location": 2,
+      "content": "Previs sitting to join pastas",
+      "music": 0.0
+    },
+    {
+      "from": 265.419,
+      "to": 268.46,
+      "sid": 97,
+      "location": 2,
+      "content": "And life is just sixers in here after two",
+      "music": 0.0
+    },
+    {
+      "from": 268.51,
+      "to": 271.67,
+      "sid": 98,
+      "location": 2,
+      "content": "两个帅哥不算哥",
+      "music": 0.0
+    },
+    {
+      "from": 271.67,
+      "to": 272.67,
+      "sid": 99,
+      "location": 2,
+      "content": "不愿意啊",
+      "music": 0.0
+    },
+    {
+      "from": 272.67,
+      "to": 277.96,
+      "sid": 100,
+      "location": 2,
+      "content": "嗯一起生暂停一辈子到不爱我的",
+      "music": 0.32183906196328244
+    },
+    {
+      "from": 286.34,
+      "to": 291.12,
+      "sid": 101,
+      "location": 2,
+      "content": "823986",
+      "music": 0.9999992857147959
+    },
+    {
+      "from": 293.72,
+      "to": 295.76,
+      "sid": 102,
+      "location": 2,
+      "content": "走之前看一下外面的环境",
+      "music": 0.0
+    },
+    {
+      "from": 295.76,
+      "to": 298.1,
+      "sid": 103,
+      "location": 2,
+      "content": "这一晚我的花费是59美元",
+      "music": 0.0
+    },
+    {
+      "from": 298.1,
+      "to": 299.38,
+      "sid": 104,
+      "location": 2,
+      "content": "像这种地方醒来",
+      "music": 0.0
+    },
+    {
+      "from": 299.38,
+      "to": 301.02,
+      "sid": 105,
+      "location": 2,
+      "content": "发现自己还活的很健康",
+      "music": 0.0
+    },
+    {
+      "from": 301.02,
+      "to": 302.86,
+      "sid": 106,
+      "location": 2,
+      "content": "就不要有过多的苛责了",
+      "music": 0.0
+    },
+    {
+      "from": 302.86,
+      "to": 304.47,
+      "sid": 107,
+      "location": 2,
+      "content": "甚至还有早饭吃",
+      "music": 0.0
+    },
+    {
+      "from": 305.77,
+      "to": 306.15,
+      "sid": 108,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 306.15,
+      "to": 307.51,
+      "sid": 109,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 307.51,
+      "to": 307.95,
+      "sid": 110,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 307.95,
+      "to": 310.68,
+      "sid": 111,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

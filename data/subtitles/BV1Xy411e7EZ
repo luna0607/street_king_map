@@ -1,0 +1,3836 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 0.36,
+      "sid": 1,
+      "location": 2,
+      "content": "Hello",
+      "music": 0.0
+    },
+    {
+      "from": 0.36,
+      "to": 0.8,
+      "sid": 2,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.8,
+      "to": 3.28,
+      "sid": 3,
+      "location": 2,
+      "content": "我是美国爱荷华州的房产经纪MLY",
+      "music": 0.0
+    },
+    {
+      "from": 3.28,
+      "to": 5.36,
+      "sid": 4,
+      "location": 2,
+      "content": "今天我们来到了PERRYISOA",
+      "music": 0.0
+    },
+    {
+      "from": 5.36,
+      "to": 7.2,
+      "sid": 5,
+      "location": 2,
+      "content": "也就差不多7000人",
+      "music": 0.0
+    },
+    {
+      "from": 7.2,
+      "to": 13.08,
+      "sid": 6,
+      "location": 2,
+      "content": "然后就来看这个我身后这个10万刀的一个房子",
+      "music": 0.0
+    },
+    {
+      "from": 13.08,
+      "to": 14.28,
+      "sid": 7,
+      "location": 2,
+      "content": "他有两个房间",
+      "music": 0.0
+    },
+    {
+      "from": 14.28,
+      "to": 15.02,
+      "sid": 8,
+      "location": 2,
+      "content": "一个厕所",
+      "music": 0.0
+    },
+    {
+      "from": 15.02,
+      "to": 16.66,
+      "sid": 9,
+      "location": 2,
+      "content": "然后后面还有一个车库",
+      "music": 0.0
+    },
+    {
+      "from": 16.66,
+      "to": 18.5,
+      "sid": 10,
+      "location": 2,
+      "content": "我们去看看吧",
+      "music": 0.0
+    },
+    {
+      "from": 21.06,
+      "to": 23.1,
+      "sid": 11,
+      "location": 2,
+      "content": "好我们进来一个房子",
+      "music": 0.0
+    },
+    {
+      "from": 23.1,
+      "to": 24.3,
+      "sid": 12,
+      "location": 2,
+      "content": "就是一个小客厅",
+      "music": 0.0
+    },
+    {
+      "from": 24.3,
+      "to": 26.76,
+      "sid": 13,
+      "location": 2,
+      "content": "你可以在这里和朋友一起玩啊",
+      "music": 0.0
+    },
+    {
+      "from": 26.76,
+      "to": 29.14,
+      "sid": 14,
+      "location": 2,
+      "content": "看电视啊什么的",
+      "music": 0.0
+    },
+    {
+      "from": 32.899,
+      "to": 35.419,
+      "sid": 15,
+      "location": 2,
+      "content": "然后这里是防飞机",
+      "music": 0.0
+    },
+    {
+      "from": 42.5,
+      "to": 44.36,
+      "sid": 16,
+      "location": 2,
+      "content": "啊这里就是房间二",
+      "music": 0.0
+    },
+    {
+      "from": 44.36,
+      "to": 45.76,
+      "sid": 17,
+      "location": 2,
+      "content": "虽然说不大",
+      "music": 0.0
+    },
+    {
+      "from": 45.76,
+      "to": 47.16,
+      "sid": 18,
+      "location": 2,
+      "content": "但是够用",
+      "music": 0.0
+    },
+    {
+      "from": 47.16,
+      "to": 49.58,
+      "sid": 19,
+      "location": 2,
+      "content": "我觉得四个人是可以住的",
+      "music": 0.0
+    },
+    {
+      "from": 49.58,
+      "to": 51.12,
+      "sid": 20,
+      "location": 2,
+      "content": "四人可以住对",
+      "music": 0.0
+    },
+    {
+      "from": 51.12,
+      "to": 54.56,
+      "sid": 21,
+      "location": 2,
+      "content": "然后还有一个厕所",
+      "music": 0.0
+    },
+    {
+      "from": 56.86,
+      "to": 57.9,
+      "sid": 22,
+      "location": 2,
+      "content": "然后有厨房",
+      "music": 0.0
+    },
+    {
+      "from": 57.9,
+      "to": 60.62,
+      "sid": 23,
+      "location": 2,
+      "content": "他厨房相对来说特别大",
+      "music": 0.0
+    },
+    {
+      "from": 60.62,
+      "to": 62.82,
+      "sid": 24,
+      "location": 2,
+      "content": "你在这里可以放一个小桌子啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.82,
+      "to": 64.42,
+      "sid": 25,
+      "location": 2,
+      "content": "然后可以做饭什么的",
+      "music": 0.0
+    },
+    {
+      "from": 64.42,
+      "to": 69.37,
+      "sid": 26,
+      "location": 2,
+      "content": "后面还加了一个小小的刷阳台吧",
+      "music": 0.0
+    },
+    {
+      "from": 69.37,
+      "to": 72.49,
+      "sid": 27,
+      "location": 2,
+      "content": "还可以在这里放个洗衣机",
+      "music": 0.07829181216043367
+    },
+    {
+      "from": 72.49,
+      "to": 73.75,
+      "sid": 28,
+      "location": 2,
+      "content": "还有烘干机",
+      "music": 0.0
+    },
+    {
+      "from": 73.75,
+      "to": 76.29,
+      "sid": 29,
+      "location": 2,
+      "content": "也可以在这里喝咖啡什么的",
+      "music": 0.0
+    },
+    {
+      "from": 76.29,
+      "to": 77.15,
+      "sid": 30,
+      "location": 2,
+      "content": "挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 77.15,
+      "to": 81.83,
+      "sid": 31,
+      "location": 2,
+      "content": "然后我们出去看一下他的车库",
+      "music": 0.07741935234131395
+    },
+    {
+      "from": 87.6,
+      "to": 90.36,
+      "sid": 32,
+      "location": 2,
+      "content": "很多在爱我小房子",
+      "music": 0.0
+    },
+    {
+      "from": 90.36,
+      "to": 94.36,
+      "sid": 33,
+      "location": 2,
+      "content": "他们就一个one card ktch garage",
+      "music": 0.0
+    },
+    {
+      "from": 94.36,
+      "to": 97.3,
+      "sid": 34,
+      "location": 2,
+      "content": "所以说没有跟房子连在一起",
+      "music": 0.0
+    },
+    {
+      "from": 97.3,
+      "to": 101.36,
+      "sid": 35,
+      "location": 2,
+      "content": "但是还是可以把你的车车停进去",
+      "music": 0.0
+    },
+    {
+      "from": 101.36,
+      "to": 104.66,
+      "sid": 36,
+      "location": 2,
+      "content": "然后还有什么呃割草机啊",
+      "music": 0.0
+    },
+    {
+      "from": 104.66,
+      "to": 106.16,
+      "sid": 37,
+      "location": 2,
+      "content": "长学鸡啊之类的",
+      "music": 0.0
+    },
+    {
+      "from": 106.16,
+      "to": 107.4,
+      "sid": 38,
+      "location": 2,
+      "content": "所以挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 107.4,
+      "to": 107.92,
+      "sid": 39,
+      "location": 2,
+      "content": "挺方便",
+      "music": 0.0
+    },
+    {
+      "from": 107.92,
+      "to": 109.64,
+      "sid": 40,
+      "location": 2,
+      "content": "10万块钱你可以买个房子",
+      "music": 0.0
+    },
+    {
+      "from": 109.64,
+      "to": 110.44,
+      "sid": 41,
+      "location": 2,
+      "content": "加个车库",
+      "music": 0.0
+    },
+    {
+      "from": 110.44,
+      "to": 112.44,
+      "sid": 42,
+      "location": 2,
+      "content": "要不要我介绍这个空调啊",
+      "music": 0.0
+    },
+    {
+      "from": 112.44,
+      "to": 113.46,
+      "sid": 43,
+      "location": 2,
+      "content": "空调是新的",
+      "music": 0.0
+    },
+    {
+      "from": 113.46,
+      "to": 115.37,
+      "sid": 44,
+      "location": 2,
+      "content": "OK那你介绍一下空调哦",
+      "music": 0.0
+    },
+    {
+      "from": 115.37,
+      "to": 116.77,
+      "sid": 45,
+      "location": 2,
+      "content": "这个房间有另一个好处",
+      "music": 0.0
+    },
+    {
+      "from": 116.77,
+      "to": 118.55,
+      "sid": 46,
+      "location": 2,
+      "content": "就是它的空调是新的",
+      "music": 0.0
+    },
+    {
+      "from": 118.55,
+      "to": 121.72,
+      "sid": 47,
+      "location": 2,
+      "content": "应该是这两年刚换的啊",
+      "music": 0.0
+    },
+    {
+      "from": 121.72,
+      "to": 124.74,
+      "sid": 48,
+      "location": 2,
+      "content": "然后他这个院子还有两个苹果树",
+      "music": 0.0
+    },
+    {
+      "from": 124.74,
+      "to": 128.449,
+      "sid": 49,
+      "location": 2,
+      "content": "你你过来看一下这苹果哇好吃",
+      "music": 0.0
+    },
+    {
+      "from": 128.449,
+      "to": 129.309,
+      "sid": 50,
+      "location": 2,
+      "content": "嘿嘿",
+      "music": 0.0
+    },
+    {
+      "from": 129.309,
+      "to": 131.769,
+      "sid": 51,
+      "location": 2,
+      "content": "然后就看看这个前面的街道",
+      "music": 0.0
+    },
+    {
+      "from": 131.769,
+      "to": 138.55,
+      "sid": 52,
+      "location": 2,
+      "content": "街道哈哈呃哎呃哎除了这个房子都很好啊",
+      "music": 0.17715617302666628
+    },
+    {
+      "from": 138.55,
+      "to": 139.85,
+      "sid": 53,
+      "location": 2,
+      "content": "我我这一路开过来",
+      "music": 0.0
+    },
+    {
+      "from": 139.85,
+      "to": 143.09,
+      "sid": 54,
+      "location": 2,
+      "content": "大部分都是你看你正前方这一栋就不错了",
+      "music": 0.0
+    },
+    {
+      "from": 143.09,
+      "to": 145.07,
+      "sid": 55,
+      "location": 2,
+      "content": "对吧对对了对了对",
+      "music": 0.0
+    },
+    {
+      "from": 145.07,
+      "to": 146.13,
+      "sid": 56,
+      "location": 2,
+      "content": "就是有好有坏吧",
+      "music": 0.0
+    },
+    {
+      "from": 146.13,
+      "to": 148.61,
+      "sid": 57,
+      "location": 2,
+      "content": "但是大部分大部分我觉得比较好",
+      "music": 0.0
+    },
+    {
+      "from": 148.61,
+      "to": 151.53,
+      "sid": 58,
+      "location": 2,
+      "content": "然后最开始就算发一下抖音什么的",
+      "music": 0.0
+    },
+    {
+      "from": 151.53,
+      "to": 157.54,
+      "sid": 59,
+      "location": 2,
+      "content": "然后呃后面就认识很多爱我我这边的呃中国人",
+      "music": 0.0
+    },
+    {
+      "from": 157.54,
+      "to": 159.36,
+      "sid": 60,
+      "location": 2,
+      "content": "然后就觉得挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 159.36,
+      "to": 162.24,
+      "sid": 61,
+      "location": 2,
+      "content": "然后就跟你们很多就做了朋友什么的",
+      "music": 0.0
+    },
+    {
+      "from": 162.24,
+      "to": 166.9,
+      "sid": 62,
+      "location": 2,
+      "content": "就啊你那就是很多人不太了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 166.9,
+      "to": 169.44,
+      "sid": 63,
+      "location": 2,
+      "content": "我你要不要介绍一下爱我人",
+      "music": 0.0
+    },
+    {
+      "from": 169.44,
+      "to": 174.62,
+      "sid": 64,
+      "location": 2,
+      "content": "我可以说是全美国最友好的一种人",
+      "music": 0.0
+    },
+    {
+      "from": 174.62,
+      "to": 177.82,
+      "sid": 65,
+      "location": 2,
+      "content": "反正MIDWEST这一块的人都特别特别好",
+      "music": 0.0
+    },
+    {
+      "from": 177.82,
+      "to": 181.02,
+      "sid": 66,
+      "location": 2,
+      "content": "如果你在路边出什么问题",
+      "music": 0.0
+    },
+    {
+      "from": 181.02,
+      "to": 183.1,
+      "sid": 67,
+      "location": 2,
+      "content": "有很多人会开过来问你啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.1,
+      "to": 184.34,
+      "sid": 68,
+      "location": 2,
+      "content": "你需不需要帮助啊",
+      "music": 0.0
+    },
+    {
+      "from": 184.34,
+      "to": 185.04,
+      "sid": 69,
+      "location": 2,
+      "content": "什么的",
+      "music": 0.0
+    },
+    {
+      "from": 185.04,
+      "to": 188.54,
+      "sid": 70,
+      "location": 2,
+      "content": "就是会陪你在那里修车什么的",
+      "music": 0.0
+    },
+    {
+      "from": 188.54,
+      "to": 194.04,
+      "sid": 71,
+      "location": 2,
+      "content": "嗯然后就生活节奏特别特别慢",
+      "music": 0.0
+    },
+    {
+      "from": 194.04,
+      "to": 194.94,
+      "sid": 72,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 194.94,
+      "to": 199.82,
+      "sid": 73,
+      "location": 2,
+      "content": "我们可能艾尔最大的缺点就是太冷了",
+      "music": 0.0
+    },
+    {
+      "from": 199.82,
+      "to": 202.06,
+      "sid": 74,
+      "location": 2,
+      "content": "冬天会下雪什么对啊",
+      "music": 0.0
+    },
+    {
+      "from": 202.06,
+      "to": 204.94,
+      "sid": 75,
+      "location": 2,
+      "content": "然后还有另外就是你在爱我",
+      "music": 0.0
+    },
+    {
+      "from": 204.94,
+      "to": 206.31,
+      "sid": 76,
+      "location": 2,
+      "content": "你必须得开车",
+      "music": 0.0
+    },
+    {
+      "from": 206.31,
+      "to": 209.17,
+      "sid": 77,
+      "location": 2,
+      "content": "你我们没什么公交车啊之类的",
+      "music": 0.0
+    },
+    {
+      "from": 209.17,
+      "to": 211.7,
+      "sid": 78,
+      "location": 2,
+      "content": "所以你的房子开了暖气",
+      "music": 0.0
+    },
+    {
+      "from": 211.7,
+      "to": 213.2,
+      "sid": 79,
+      "location": 2,
+      "content": "然后你要去超市什么的",
+      "music": 0.0
+    },
+    {
+      "from": 213.2,
+      "to": 214.24,
+      "sid": 80,
+      "location": 2,
+      "content": "他们也开了暖气",
+      "music": 0.0
+    },
+    {
+      "from": 214.24,
+      "to": 216.15,
+      "sid": 81,
+      "location": 2,
+      "content": "然后车上也可以吹暖气",
+      "music": 0.0
+    },
+    {
+      "from": 216.15,
+      "to": 218.93,
+      "sid": 82,
+      "location": 2,
+      "content": "所以就你也不会觉得怎么了",
+      "music": 0.0
+    },
+    {
+      "from": 218.93,
+      "to": 223.31,
+      "sid": 83,
+      "location": 2,
+      "content": "是因为PERRY这边有一有很多不会说英语的人",
+      "music": 0.0
+    },
+    {
+      "from": 223.31,
+      "to": 226.089,
+      "sid": 84,
+      "location": 2,
+      "content": "所以啊什么人都有",
+      "music": 0.0
+    },
+    {
+      "from": 226.089,
+      "to": 229.049,
+      "sid": 85,
+      "location": 2,
+      "content": "所以你不要怕来拍这个小地方",
+      "music": 0.0
+    },
+    {
+      "from": 229.049,
+      "to": 230.94,
+      "sid": 86,
+      "location": 2,
+      "content": "然后可能学校的话",
+      "music": 0.0
+    },
+    {
+      "from": 230.94,
+      "to": 234.56,
+      "sid": 87,
+      "location": 2,
+      "content": "很多当地人希望parry就是因为他的学校比较小",
+      "music": 0.0
+    },
+    {
+      "from": 234.56,
+      "to": 238.74,
+      "sid": 88,
+      "location": 2,
+      "content": "如果你你的孩子就是什么打篮球啊",
+      "music": 0.0
+    },
+    {
+      "from": 238.74,
+      "to": 240.4,
+      "sid": 89,
+      "location": 2,
+      "content": "踢足球打的差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 240.4,
+      "to": 241.68,
+      "sid": 90,
+      "location": 2,
+      "content": "但是没有说很厉害",
+      "music": 0.0
+    },
+    {
+      "from": 241.68,
+      "to": 244.88,
+      "sid": 91,
+      "location": 2,
+      "content": "但是在这个学校他们还是可以打嗯",
+      "music": 0.0
+    },
+    {
+      "from": 244.88,
+      "to": 249.299,
+      "sid": 92,
+      "location": 2,
+      "content": "所以就这个是我们还有我当地人比较care的一个",
+      "music": 0.0
+    },
+    {
+      "from": 249.299,
+      "to": 252.359,
+      "sid": 93,
+      "location": 2,
+      "content": "然后如果你说上课这一方面的话",
+      "music": 0.0
+    },
+    {
+      "from": 252.359,
+      "to": 255.96,
+      "sid": 94,
+      "location": 2,
+      "content": "他是就比较一对一的那种",
+      "music": 0.0
+    },
+    {
+      "from": 255.96,
+      "to": 259.46,
+      "sid": 95,
+      "location": 2,
+      "content": "就是可能你们班里面可能就十几20个人",
+      "music": 0.0
+    },
+    {
+      "from": 259.46,
+      "to": 262.59,
+      "sid": 96,
+      "location": 2,
+      "content": "就是老师可以可以针对你",
+      "music": 0.0
+    },
+    {
+      "from": 262.59,
+      "to": 263.99,
+      "sid": 97,
+      "location": 2,
+      "content": "如果你有什么问题",
+      "music": 0.0
+    },
+    {
+      "from": 263.99,
+      "to": 267.03,
+      "sid": 98,
+      "location": 2,
+      "content": "然后呃医疗是有的",
+      "music": 0.0
+    },
+    {
+      "from": 267.03,
+      "to": 269.55,
+      "sid": 99,
+      "location": 2,
+      "content": "因为它是the demoon",
+      "music": 0.0
+    },
+    {
+      "from": 269.55,
+      "to": 273.97,
+      "sid": 100,
+      "location": 2,
+      "content": "差不多50个50分钟一个小时",
+      "music": 0.0
+    },
+    {
+      "from": 273.97,
+      "to": 277.7,
+      "sid": 101,
+      "location": 2,
+      "content": "所以他必须得有他自己的什么医院啊",
+      "music": 0.0
+    },
+    {
+      "from": 277.7,
+      "to": 279.84,
+      "sid": 102,
+      "location": 2,
+      "content": "看病的地方什么的",
+      "music": 0.0
+    },
+    {
+      "from": 279.84,
+      "to": 282.58,
+      "sid": 103,
+      "location": 2,
+      "content": "然后安全是挺安全",
+      "music": 0.0
+    },
+    {
+      "from": 282.58,
+      "to": 284.84,
+      "sid": 104,
+      "location": 2,
+      "content": "哎我小城市都比较安全",
+      "music": 0.0
+    },
+    {
+      "from": 284.84,
+      "to": 289.85,
+      "sid": 105,
+      "location": 2,
+      "content": "就可能晚上出门了没没什么太大问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 289.85,
+      "to": 292.41,
+      "sid": 106,
+      "location": 2,
+      "content": "然后你的neighbor都是比较友好的什么的",
+      "music": 0.0
+    },
+    {
+      "from": 292.41,
+      "to": 294.09,
+      "sid": 107,
+      "location": 2,
+      "content": "你你出去旅游什么的",
+      "music": 0.0
+    },
+    {
+      "from": 294.09,
+      "to": 296.97,
+      "sid": 108,
+      "location": 2,
+      "content": "你的neighbor肯定会帮你看好房子什么的",
+      "music": 0.0
+    },
+    {
+      "from": 296.97,
+      "to": 302.2,
+      "sid": 109,
+      "location": 2,
+      "content": "我去过最一开始我去了北京上海西安",
+      "music": 0.0
+    },
+    {
+      "from": 302.2,
+      "to": 304.02,
+      "sid": 110,
+      "location": 2,
+      "content": "就这三个地方看一下",
+      "music": 0.0
+    },
+    {
+      "from": 304.02,
+      "to": 305.57,
+      "sid": 111,
+      "location": 2,
+      "content": "当我觉得蛮好的",
+      "music": 0.0
+    },
+    {
+      "from": 305.57,
+      "to": 308.29,
+      "sid": 112,
+      "location": 2,
+      "content": "因为我也是在爱豆长大的",
+      "music": 0.0
+    },
+    {
+      "from": 308.29,
+      "to": 312.58,
+      "sid": 113,
+      "location": 2,
+      "content": "我去了最大的城市就是德莱因",
+      "music": 0.0
+    },
+    {
+      "from": 312.58,
+      "to": 317.07,
+      "sid": 114,
+      "location": 2,
+      "content": "那德魅音对中国人来说那也并不算大的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 317.07,
+      "to": 321.95,
+      "sid": 115,
+      "location": 2,
+      "content": "然后就后面我去了北京做了家教",
+      "music": 0.0
+    },
+    {
+      "from": 321.95,
+      "to": 325.17,
+      "sid": 116,
+      "location": 2,
+      "content": "然后还去了昆明学中医",
+      "music": 0.0
+    },
+    {
+      "from": 325.17,
+      "to": 329.47,
+      "sid": 117,
+      "location": 2,
+      "content": "还去了重庆学中文",
+      "music": 0.0
+    },
+    {
+      "from": 329.47,
+      "to": 331.09,
+      "sid": 118,
+      "location": 2,
+      "content": "然后我也在什么",
+      "music": 0.0
+    },
+    {
+      "from": 331.09,
+      "to": 334.82,
+      "sid": 119,
+      "location": 2,
+      "content": "广州深圳很多地方也带过",
+      "music": 0.0
+    },
+    {
+      "from": 334.82,
+      "to": 337.1,
+      "sid": 120,
+      "location": 2,
+      "content": "然后就爱上了中国",
+      "music": 0.0
+    },
+    {
+      "from": 337.1,
+      "to": 338.04,
+      "sid": 121,
+      "location": 2,
+      "content": "哈哈啊",
+      "music": 0.0
+    },
+    {
+      "from": 338.04,
+      "to": 341.24,
+      "sid": 122,
+      "location": 2,
+      "content": "那那你应该是先学了中文再去的中国吧",
+      "music": 0.0
+    },
+    {
+      "from": 341.24,
+      "to": 342.58,
+      "sid": 123,
+      "location": 2,
+      "content": "是的呃",
+      "music": 0.0
+    },
+    {
+      "from": 342.58,
+      "to": 344.7,
+      "sid": 124,
+      "location": 2,
+      "content": "就很奇怪的一个事情是",
+      "music": 0.0
+    },
+    {
+      "from": 344.7,
+      "to": 348.62,
+      "sid": 125,
+      "location": 2,
+      "content": "我那时候的高中有一个中文老师",
+      "music": 0.0
+    },
+    {
+      "from": 348.62,
+      "to": 350.74,
+      "sid": 126,
+      "location": 2,
+      "content": "但是我们那个高中也很小",
+      "music": 0.0
+    },
+    {
+      "from": 350.74,
+      "to": 355.34,
+      "sid": 127,
+      "location": 2,
+      "content": "我们整个套也就当时应该塞5000人",
+      "music": 0.0
+    },
+    {
+      "from": 355.34,
+      "to": 357.97,
+      "sid": 128,
+      "location": 2,
+      "content": "差不多嗯对收",
+      "music": 0.0
+    },
+    {
+      "from": 357.97,
+      "to": 361.01,
+      "sid": 129,
+      "location": 2,
+      "content": "这算的到现在很多人我跟他说",
+      "music": 0.0
+    },
+    {
+      "from": 361.01,
+      "to": 362.13,
+      "sid": 130,
+      "location": 2,
+      "content": "我中文有中文老师",
+      "music": 0.0
+    },
+    {
+      "from": 362.13,
+      "to": 363.84,
+      "sid": 131,
+      "location": 2,
+      "content": "他们也不敢相信嗯",
+      "music": 0.0
+    },
+    {
+      "from": 363.84,
+      "to": 366.91,
+      "sid": 132,
+      "location": 2,
+      "content": "所以在美国没有很多人没有这个机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 366.91,
+      "to": 368.05,
+      "sid": 133,
+      "location": 2,
+      "content": "这总统的机会",
+      "music": 0.0
+    },
+    {
+      "from": 368.05,
+      "to": 370.93,
+      "sid": 134,
+      "location": 2,
+      "content": "但是但是一般来说就是美国比较流行的",
+      "music": 0.0
+    },
+    {
+      "from": 370.93,
+      "to": 372.11,
+      "sid": 135,
+      "location": 2,
+      "content": "都是学西班牙语",
+      "music": 0.0
+    },
+    {
+      "from": 372.11,
+      "to": 373.76,
+      "sid": 136,
+      "location": 2,
+      "content": "我也不知道他们",
+      "music": 0.0
+    },
+    {
+      "from": 373.76,
+      "to": 375.86,
+      "sid": 137,
+      "location": 2,
+      "content": "因为我们以前也做西班牙语嘛",
+      "music": 0.0
+    },
+    {
+      "from": 375.86,
+      "to": 378.8,
+      "sid": 138,
+      "location": 2,
+      "content": "如果一个小地方只有一个外语",
+      "music": 0.0
+    },
+    {
+      "from": 378.8,
+      "to": 379.98,
+      "sid": 139,
+      "location": 2,
+      "content": "那就是西班牙语",
+      "music": 0.0
+    },
+    {
+      "from": 379.98,
+      "to": 381.43,
+      "sid": 140,
+      "location": 2,
+      "content": "没有别的了",
+      "music": 0.0
+    },
+    {
+      "from": 381.43,
+      "to": 385.2,
+      "sid": 141,
+      "location": 2,
+      "content": "但是他们我上高中第一年",
+      "music": 0.0
+    },
+    {
+      "from": 385.2,
+      "to": 387.02,
+      "sid": 142,
+      "location": 2,
+      "content": "他们也是第一年有中文老师",
+      "music": 0.0
+    },
+    {
+      "from": 387.02,
+      "to": 390.2,
+      "sid": 143,
+      "location": 2,
+      "content": "所以他们可能要不学生比较厉害什么的",
+      "music": 0.0
+    },
+    {
+      "from": 390.2,
+      "to": 391.93,
+      "sid": 144,
+      "location": 2,
+      "content": "他就觉得你可以试一下",
+      "music": 0.0
+    },
+    {
+      "from": 391.93,
+      "to": 394.77,
+      "sid": 145,
+      "location": 2,
+      "content": "因为太多学生他们很很害怕",
+      "music": 0.0
+    },
+    {
+      "from": 394.77,
+      "to": 399.169,
+      "sid": 146,
+      "location": 2,
+      "content": "因为西班牙语的英语其实是有一点像的",
+      "music": 0.0
+    },
+    {
+      "from": 399.169,
+      "to": 403.509,
+      "sid": 147,
+      "location": 2,
+      "content": "有一些词是你听着就觉得哦就那个意思",
+      "music": 0.0
+    },
+    {
+      "from": 403.509,
+      "to": 405.789,
+      "sid": 148,
+      "location": 2,
+      "content": "但是中文完全不一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 405.789,
+      "to": 407.049,
+      "sid": 149,
+      "location": 2,
+      "content": "有拼音啊",
+      "music": 0.0
+    },
+    {
+      "from": 407.049,
+      "to": 411.48,
+      "sid": 150,
+      "location": 2,
+      "content": "汉字啊啊啊啊啊啊嗯呀",
+      "music": 0.0
+    },
+    {
+      "from": 411.48,
+      "to": 413.24,
+      "sid": 151,
+      "location": 2,
+      "content": "那你中文怎么学到这么好的呗",
+      "music": 0.0
+    },
+    {
+      "from": 414.74,
+      "to": 419.62,
+      "sid": 152,
+      "location": 2,
+      "content": "那其实我在我在高中学了4年",
+      "music": 0.0
+    },
+    {
+      "from": 419.62,
+      "to": 422.16,
+      "sid": 153,
+      "location": 2,
+      "content": "然后去大学上了两年",
+      "music": 0.0
+    },
+    {
+      "from": 422.16,
+      "to": 424.9,
+      "sid": 154,
+      "location": 2,
+      "content": "我的中文还是不怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 424.9,
+      "to": 427.68,
+      "sid": 155,
+      "location": 2,
+      "content": "我还是没办法跟中国人沟通",
+      "music": 0.0
+    },
+    {
+      "from": 427.68,
+      "to": 430.22,
+      "sid": 156,
+      "location": 2,
+      "content": "是我去了重庆",
+      "music": 0.0
+    },
+    {
+      "from": 430.22,
+      "to": 431.16,
+      "sid": 157,
+      "location": 2,
+      "content": "大约一年之后",
+      "music": 0.0
+    },
+    {
+      "from": 431.16,
+      "to": 432.28,
+      "sid": 158,
+      "location": 2,
+      "content": "我的中文才变倒",
+      "music": 0.0
+    },
+    {
+      "from": 432.28,
+      "to": 434.929,
+      "sid": 159,
+      "location": 2,
+      "content": "因为我的室友是泰国人哦",
+      "music": 0.0
+    },
+    {
+      "from": 434.929,
+      "to": 436.129,
+      "sid": 160,
+      "location": 2,
+      "content": "他也不会说英语",
+      "music": 0.0
+    },
+    {
+      "from": 436.129,
+      "to": 437.169,
+      "sid": 161,
+      "location": 2,
+      "content": "我不会说泰语",
+      "music": 0.0
+    },
+    {
+      "from": 437.169,
+      "to": 440.53,
+      "sid": 162,
+      "location": 2,
+      "content": "所以我只能跟他说中文说什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 440.53,
+      "to": 442.07,
+      "sid": 163,
+      "location": 2,
+      "content": "那还蛮神奇的",
+      "music": 0.0
+    },
+    {
+      "from": 442.07,
+      "to": 445.11,
+      "sid": 164,
+      "location": 2,
+      "content": "但是但是你没有一你没有什么重庆口音啊",
+      "music": 0.0
+    },
+    {
+      "from": 445.11,
+      "to": 450.53,
+      "sid": 165,
+      "location": 2,
+      "content": "你嗯以前还还是觉得我是北方口音吧",
+      "music": 0.0
+    },
+    {
+      "from": 450.53,
+      "to": 452.41,
+      "sid": 166,
+      "location": 2,
+      "content": "你肯定不是北方口音啊",
+      "music": 0.0
+    },
+    {
+      "from": 452.41,
+      "to": 457.749,
+      "sid": 167,
+      "location": 2,
+      "content": "以前以前因为我大学老师是北京人嗯",
+      "music": 0.0
+    },
+    {
+      "from": 457.749,
+      "to": 460.25,
+      "sid": 168,
+      "location": 2,
+      "content": "然后我高中老师是海南人",
+      "music": 0.0
+    },
+    {
+      "from": 460.25,
+      "to": 464.43,
+      "sid": 169,
+      "location": 2,
+      "content": "然后后面我觉得我刻不在爱我",
+      "music": 0.0
+    },
+    {
+      "from": 464.43,
+      "to": 468.98,
+      "sid": 170,
+      "location": 2,
+      "content": "刻不最多是福建人哦",
+      "music": 0.0
+    },
+    {
+      "from": 468.98,
+      "to": 471.74,
+      "sid": 171,
+      "location": 2,
+      "content": "对他们很多都是在这里开餐馆的",
+      "music": 0.0
+    },
+    {
+      "from": 471.74,
+      "to": 475.5,
+      "sid": 172,
+      "location": 2,
+      "content": "所以我觉得现在我会偏向于他们那边的口音",
+      "music": 0.0
+    },
+    {
+      "from": 475.5,
+      "to": 477.64,
+      "sid": 173,
+      "location": 2,
+      "content": "然后进来看那个厨房呢",
+      "music": 0.0
+    },
+    {
+      "from": 477.64,
+      "to": 481.299,
+      "sid": 174,
+      "location": 2,
+      "content": "他当然有一些有一些缺点吧",
+      "music": 0.0
+    },
+    {
+      "from": 481.299,
+      "to": 482.619,
+      "sid": 175,
+      "location": 2,
+      "content": "可能就这个房子",
+      "music": 0.0
+    },
+    {
+      "from": 482.619,
+      "to": 483.619,
+      "sid": 176,
+      "location": 2,
+      "content": "因为小房子嘛",
+      "music": 0.0
+    },
+    {
+      "from": 483.619,
+      "to": 484.419,
+      "sid": 177,
+      "location": 2,
+      "content": "小地方",
+      "music": 0.0
+    },
+    {
+      "from": 484.419,
+      "to": 488.97,
+      "sid": 178,
+      "location": 2,
+      "content": "可能里面很多都是这个主人自己装修的地方",
+      "music": 0.0
+    },
+    {
+      "from": 488.97,
+      "to": 490.88,
+      "sid": 179,
+      "location": 2,
+      "content": "所以你你就看这里",
+      "music": 0.0
+    },
+    {
+      "from": 490.88,
+      "to": 494.0,
+      "sid": 180,
+      "location": 2,
+      "content": "可能是他自己做的不是很好什么的",
+      "music": 0.0
+    },
+    {
+      "from": 494.0,
+      "to": 497.75,
+      "sid": 181,
+      "location": 2,
+      "content": "但是我可以说如果你在爱我这个地方啊",
+      "music": 0.0
+    },
+    {
+      "from": 497.75,
+      "to": 501.3,
+      "sid": 182,
+      "location": 2,
+      "content": "贷款最低有3%的首付",
+      "music": 0.0
+    },
+    {
+      "from": 501.3,
+      "to": 505.64,
+      "sid": 183,
+      "location": 2,
+      "content": "所以10万的房子3%的首付也就3000刀嘛",
+      "music": 0.0
+    },
+    {
+      "from": 505.64,
+      "to": 506.56,
+      "sid": 184,
+      "location": 2,
+      "content": "又很便宜",
+      "music": 0.0
+    },
+    {
+      "from": 506.56,
+      "to": 510.51,
+      "sid": 185,
+      "location": 2,
+      "content": "你你你可以就拿这一点钱来这个来买这个房子",
+      "music": 0.0
+    },
+    {
+      "from": 510.51,
+      "to": 514.1,
+      "sid": 186,
+      "location": 2,
+      "content": "然后你妈妈努力工作省钱",
+      "music": 0.0
+    },
+    {
+      "from": 514.1,
+      "to": 516.18,
+      "sid": 187,
+      "location": 2,
+      "content": "然后你后面可以自己花钱吧",
+      "music": 0.0
+    },
+    {
+      "from": 516.18,
+      "to": 518.24,
+      "sid": 188,
+      "location": 2,
+      "content": "这个厨房什么的都升级啊",
+      "music": 0.0
+    },
+    {
+      "from": 518.24,
+      "to": 521.9,
+      "sid": 189,
+      "location": 2,
+      "content": "或者自己装修成你喜欢的那个样子",
+      "music": 0.0
+    },
+    {
+      "from": 521.9,
+      "to": 524.22,
+      "sid": 190,
+      "location": 2,
+      "content": "那那你觉得在美国这种小镇",
+      "music": 0.0
+    },
+    {
+      "from": 524.22,
+      "to": 527.42,
+      "sid": 191,
+      "location": 2,
+      "content": "他生活的这个优最大的优点和缺点是什么",
+      "music": 0.0
+    },
+    {
+      "from": 527.42,
+      "to": 533.03,
+      "sid": 192,
+      "location": 2,
+      "content": "嗯最大的优点就是我先说缺点吧",
+      "music": 0.0
+    },
+    {
+      "from": 533.03,
+      "to": 537.37,
+      "sid": 193,
+      "location": 2,
+      "content": "最大的缺点就是你德梅因的首府",
+      "music": 0.0
+    },
+    {
+      "from": 537.37,
+      "to": 539.64,
+      "sid": 194,
+      "location": 2,
+      "content": "是有一点距离的",
+      "music": 0.0
+    },
+    {
+      "from": 539.64,
+      "to": 543.68,
+      "sid": 195,
+      "location": 2,
+      "content": "所以因为我们有i will stay fair啊",
+      "music": 0.0
+    },
+    {
+      "from": 543.68,
+      "to": 548.89,
+      "sid": 196,
+      "location": 2,
+      "content": "还有啊the moon的什么医院也是这个比较专业的",
+      "music": 0.0
+    },
+    {
+      "from": 548.89,
+      "to": 549.71,
+      "sid": 197,
+      "location": 2,
+      "content": "比较大",
+      "music": 0.0
+    },
+    {
+      "from": 549.71,
+      "to": 552.54,
+      "sid": 198,
+      "location": 2,
+      "content": "但是这边还是有的",
+      "music": 0.0
+    },
+    {
+      "from": 552.54,
+      "to": 554.34,
+      "sid": 199,
+      "location": 2,
+      "content": "所以这个可能都是缺点哈",
+      "music": 0.0
+    },
+    {
+      "from": 554.34,
+      "to": 557.91,
+      "sid": 200,
+      "location": 2,
+      "content": "在德民意的工作机会是比较多的哦",
+      "music": 0.0
+    },
+    {
+      "from": 557.91,
+      "to": 560.91,
+      "sid": 201,
+      "location": 2,
+      "content": "the main的收入什么的也比较高",
+      "music": 0.0
+    },
+    {
+      "from": 560.91,
+      "to": 562.85,
+      "sid": 202,
+      "location": 2,
+      "content": "所以如果你想去那里工作",
+      "music": 0.0
+    },
+    {
+      "from": 562.85,
+      "to": 567.36,
+      "sid": 203,
+      "location": 2,
+      "content": "你可能每一天来回车程就嗯两个小",
+      "music": 0.0
+    },
+    {
+      "from": 567.36,
+      "to": 568.14,
+      "sid": 204,
+      "location": 2,
+      "content": "是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 568.14,
+      "to": 571.12,
+      "sid": 205,
+      "location": 2,
+      "content": "但是这个小地方的最大优点嘛",
+      "music": 0.0
+    },
+    {
+      "from": 571.12,
+      "to": 573.3,
+      "sid": 206,
+      "location": 2,
+      "content": "就是你认识很多的人",
+      "music": 0.0
+    },
+    {
+      "from": 573.3,
+      "to": 574.62,
+      "sid": 207,
+      "location": 2,
+      "content": "人家也对你好",
+      "music": 0.0
+    },
+    {
+      "from": 574.62,
+      "to": 577.78,
+      "sid": 208,
+      "location": 2,
+      "content": "他们也没有说什么生活压力呀",
+      "music": 0.0
+    },
+    {
+      "from": 577.78,
+      "to": 582.52,
+      "sid": 209,
+      "location": 2,
+      "content": "就所以觉得这边很多人他是那种算commute",
+      "music": 0.0
+    },
+    {
+      "from": 582.52,
+      "to": 584.38,
+      "sid": 210,
+      "location": 2,
+      "content": "每天对对",
+      "music": 0.0
+    },
+    {
+      "from": 584.38,
+      "to": 587.72,
+      "sid": 211,
+      "location": 2,
+      "content": "如果如果你没有在carry这个地方工作",
+      "music": 0.0
+    },
+    {
+      "from": 587.72,
+      "to": 591.11,
+      "sid": 212,
+      "location": 2,
+      "content": "你可能去公司上班什么的",
+      "music": 0.0
+    },
+    {
+      "from": 591.11,
+      "to": 593.47,
+      "sid": 213,
+      "location": 2,
+      "content": "是要开车半个小时到一个小时",
+      "music": 0.0
+    },
+    {
+      "from": 593.47,
+      "to": 594.23,
+      "sid": 214,
+      "location": 2,
+      "content": "这样啊",
+      "music": 0.0
+    },
+    {
+      "from": 594.23,
+      "to": 594.99,
+      "sid": 215,
+      "location": 2,
+      "content": "那你觉得这边的人",
+      "music": 0.0
+    },
+    {
+      "from": 594.99,
+      "to": 597.28,
+      "sid": 216,
+      "location": 2,
+      "content": "一般他说喜欢做一些什么娱乐活动",
+      "music": 0.0
+    },
+    {
+      "from": 597.28,
+      "to": 599.02,
+      "sid": 217,
+      "location": 2,
+      "content": "娱乐哎呀",
+      "music": 0.0
+    },
+    {
+      "from": 599.02,
+      "to": 601.39,
+      "sid": 218,
+      "location": 2,
+      "content": "那就也挺多的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 601.39,
+      "to": 604.13,
+      "sid": 219,
+      "location": 2,
+      "content": "你在这里很多人喜欢遛狗啊",
+      "music": 0.0
+    },
+    {
+      "from": 604.13,
+      "to": 609.17,
+      "sid": 220,
+      "location": 2,
+      "content": "一基本上每一每一家人都会养一两条狗",
+      "music": 0.0
+    },
+    {
+      "from": 609.17,
+      "to": 612.01,
+      "sid": 221,
+      "location": 2,
+      "content": "最少然后晚上可以出来遛狗啊",
+      "music": 0.0
+    },
+    {
+      "from": 612.01,
+      "to": 613.53,
+      "sid": 222,
+      "location": 2,
+      "content": "可以骑单车",
+      "music": 0.0
+    },
+    {
+      "from": 613.53,
+      "to": 616.32,
+      "sid": 223,
+      "location": 2,
+      "content": "因为这是比较远的地方",
+      "music": 0.0
+    },
+    {
+      "from": 616.32,
+      "to": 618.44,
+      "sid": 224,
+      "location": 2,
+      "content": "他有很多那种bike trail",
+      "music": 0.0
+    },
+    {
+      "from": 618.44,
+      "to": 620.5,
+      "sid": 225,
+      "location": 2,
+      "content": "你可以去很远的哦",
+      "music": 0.0
+    },
+    {
+      "from": 620.5,
+      "to": 621.28,
+      "sid": 226,
+      "location": 2,
+      "content": "还有什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 621.28,
+      "to": 624.069,
+      "sid": 227,
+      "location": 2,
+      "content": "什么晚上踢足球啊",
+      "music": 0.0
+    },
+    {
+      "from": 624.069,
+      "to": 625.829,
+      "sid": 228,
+      "location": 2,
+      "content": "嗯打篮球啊",
+      "music": 0.0
+    },
+    {
+      "from": 625.829,
+      "to": 631.13,
+      "sid": 229,
+      "location": 2,
+      "content": "我一般我一般喜欢晚上去健身房",
+      "music": 0.0
+    },
+    {
+      "from": 631.13,
+      "to": 633.61,
+      "sid": 230,
+      "location": 2,
+      "content": "因为我们冬天爱",
+      "music": 0.0
+    },
+    {
+      "from": 633.61,
+      "to": 638.34,
+      "sid": 231,
+      "location": 2,
+      "content": "我冬天是差不多10月份到3月份吧",
+      "music": 0.0
+    },
+    {
+      "from": 638.34,
+      "to": 642.68,
+      "sid": 232,
+      "location": 2,
+      "content": "嗯所以可能那个时间段经常下雨啊",
+      "music": 0.0
+    },
+    {
+      "from": 642.68,
+      "to": 643.64,
+      "sid": 233,
+      "location": 2,
+      "content": "不下雪",
+      "music": 0.0
+    },
+    {
+      "from": 643.64,
+      "to": 646.97,
+      "sid": 234,
+      "location": 2,
+      "content": "所以就喜欢室内活动",
+      "music": 0.0
+    },
+    {
+      "from": 646.97,
+      "to": 650.35,
+      "sid": 235,
+      "location": 2,
+      "content": "这边的娱乐活动比起中国是不是少一些对",
+      "music": 0.0
+    },
+    {
+      "from": 650.35,
+      "to": 653.33,
+      "sid": 236,
+      "location": 2,
+      "content": "因为北京人也少很多了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 653.33,
+      "to": 657.01,
+      "sid": 237,
+      "location": 2,
+      "content": "对一般嗯没有说经常跟朋友",
+      "music": 0.0
+    },
+    {
+      "from": 657.01,
+      "to": 661.98,
+      "sid": 238,
+      "location": 2,
+      "content": "可能更多是跟家人一起活动啊",
+      "music": 0.0
+    },
+    {
+      "from": 661.98,
+      "to": 665.65,
+      "sid": 239,
+      "location": 2,
+      "content": "对我觉得美国中西部好像这个family呃",
+      "music": 0.0
+    },
+    {
+      "from": 665.65,
+      "to": 668.63,
+      "sid": 240,
+      "location": 2,
+      "content": "就家庭的这个概念还是挺重要的",
+      "music": 0.0
+    },
+    {
+      "from": 668.63,
+      "to": 669.89,
+      "sid": 241,
+      "location": 2,
+      "content": "是的是的",
+      "music": 0.0
+    },
+    {
+      "from": 669.89,
+      "to": 672.69,
+      "sid": 242,
+      "location": 2,
+      "content": "就比如说我今天晚上我邀请我父母啊",
+      "music": 0.0
+    },
+    {
+      "from": 672.69,
+      "to": 675.06,
+      "sid": 243,
+      "location": 2,
+      "content": "我我外婆过来我家吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 675.06,
+      "to": 679.48,
+      "sid": 244,
+      "location": 2,
+      "content": "这个是我们最最开心的一个时间哦",
+      "music": 0.0
+    },
+    {
+      "from": 679.48,
+      "to": 682.35,
+      "sid": 245,
+      "location": 2,
+      "content": "就是每一个星期就会宣一天",
+      "music": 0.0
+    },
+    {
+      "from": 682.35,
+      "to": 684.15,
+      "sid": 246,
+      "location": 2,
+      "content": "要不就是一起吃中午饭",
+      "music": 0.0
+    },
+    {
+      "from": 684.15,
+      "to": 686.41,
+      "sid": 247,
+      "location": 2,
+      "content": "要不就是一起吃晚餐哦",
+      "music": 0.0
+    },
+    {
+      "from": 686.41,
+      "to": 688.96,
+      "sid": 248,
+      "location": 2,
+      "content": "对然后一起看电视什么的",
+      "music": 0.0
+    },
+    {
+      "from": 689.32,
+      "to": 691.34,
+      "sid": 249,
+      "location": 2,
+      "content": "每天的早饭中饭晚饭",
+      "music": 0.0
+    },
+    {
+      "from": 691.34,
+      "to": 694.26,
+      "sid": 250,
+      "location": 2,
+      "content": "B友都可以从佩里的家里面走出来",
+      "music": 0.0
+    },
+    {
+      "from": 694.26,
+      "to": 697.28,
+      "sid": 251,
+      "location": 2,
+      "content": "5分钟步行抵达最近的麦当劳",
+      "music": 0.0
+    },
+    {
+      "from": 697.28,
+      "to": 698.6,
+      "sid": 252,
+      "location": 2,
+      "content": "吃一顿挂逼餐",
+      "music": 0.0
+    },
+    {
+      "from": 698.9,
+      "to": 700.96,
+      "sid": 253,
+      "location": 2,
+      "content": "也不会吧啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 700.96,
+      "to": 703.38,
+      "sid": 254,
+      "location": 2,
+      "content": "我可能有一点害羞啊是吗",
+      "music": 0.0
+    },
+    {
+      "from": 703.38,
+      "to": 706.91,
+      "sid": 255,
+      "location": 2,
+      "content": "因为因为我跟如果一个人不知道我会说中文",
+      "music": 0.0
+    },
+    {
+      "from": 706.91,
+      "to": 708.13,
+      "sid": 256,
+      "location": 2,
+      "content": "然后我跟他说中文",
+      "music": 0.0
+    },
+    {
+      "from": 708.13,
+      "to": 710.54,
+      "sid": 257,
+      "location": 2,
+      "content": "他最开始是听不懂的",
+      "music": 0.0
+    },
+    {
+      "from": 710.54,
+      "to": 713.8,
+      "sid": 258,
+      "location": 2,
+      "content": "因为没想到我会说中文对啊",
+      "music": 0.0
+    },
+    {
+      "from": 713.8,
+      "to": 715.14,
+      "sid": 259,
+      "location": 2,
+      "content": "所以他一看他就懵逼",
+      "music": 0.0
+    },
+    {
+      "from": 715.14,
+      "to": 716.26,
+      "sid": 260,
+      "location": 2,
+      "content": "然后如果我要重复",
+      "music": 0.0
+    },
+    {
+      "from": 716.26,
+      "to": 717.76,
+      "sid": 261,
+      "location": 2,
+      "content": "我就觉得有一点尴尬",
+      "music": 0.0
+    },
+    {
+      "from": 717.76,
+      "to": 720.73,
+      "sid": 262,
+      "location": 2,
+      "content": "这懵逼实际是算是一个新词啊",
+      "music": 0.0
+    },
+    {
+      "from": 722.45,
+      "to": 725.2,
+      "sid": 263,
+      "location": 2,
+      "content": "那你平时是会经常看中国互联网吗",
+      "music": 0.0
+    },
+    {
+      "from": 725.2,
+      "to": 726.76,
+      "sid": 264,
+      "location": 2,
+      "content": "呀对呀",
+      "music": 0.0
+    },
+    {
+      "from": 726.76,
+      "to": 728.0,
+      "sid": 265,
+      "location": 2,
+      "content": "躺平躺平",
+      "music": 0.0
+    },
+    {
+      "from": 728.0,
+      "to": 729.86,
+      "sid": 266,
+      "location": 2,
+      "content": "我知道你知道躺平吗呀",
+      "music": 0.0
+    },
+    {
+      "from": 729.86,
+      "to": 731.92,
+      "sid": 267,
+      "location": 2,
+      "content": "那你觉得这个房子适合躺平吗",
+      "music": 0.0
+    },
+    {
+      "from": 731.92,
+      "to": 733.2,
+      "sid": 268,
+      "location": 2,
+      "content": "就差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 733.2,
+      "to": 734.88,
+      "sid": 269,
+      "location": 2,
+      "content": "like you can just like对啊",
+      "music": 0.0
+    },
+    {
+      "from": 734.88,
+      "to": 735.6,
+      "sid": 270,
+      "location": 2,
+      "content": "Live like you",
+      "music": 0.0
+    },
+    {
+      "from": 735.6,
+      "to": 736.6,
+      "sid": 271,
+      "location": 2,
+      "content": "Don't need to worry too much",
+      "music": 0.0
+    },
+    {
+      "from": 736.6,
+      "to": 738.11,
+      "sid": 272,
+      "location": 2,
+      "content": "对啊对啊",
+      "music": 0.0
+    },
+    {
+      "from": 738.11,
+      "to": 740.23,
+      "sid": 273,
+      "location": 2,
+      "content": "但那你觉得这个房子和这个PERRY",
+      "music": 0.0
+    },
+    {
+      "from": 740.23,
+      "to": 741.76,
+      "sid": 274,
+      "location": 2,
+      "content": "是不是挺适合来躺平",
+      "music": 0.0
+    },
+    {
+      "from": 741.76,
+      "to": 742.84,
+      "sid": 275,
+      "location": 2,
+      "content": "对啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 742.84,
+      "to": 743.56,
+      "sid": 276,
+      "location": 2,
+      "content": "很适合",
+      "music": 0.0
+    },
+    {
+      "from": 743.56,
+      "to": 744.52,
+      "sid": 277,
+      "location": 2,
+      "content": "因为很便宜嘛",
+      "music": 0.0
+    },
+    {
+      "from": 744.52,
+      "to": 745.98,
+      "sid": 278,
+      "location": 2,
+      "content": "这里水平不高啊",
+      "music": 0.0
+    },
+    {
+      "from": 745.98,
+      "to": 749.3,
+      "sid": 279,
+      "location": 2,
+      "content": "那这个房子的房产税一年也就1200",
+      "music": 0.0
+    },
+    {
+      "from": 749.3,
+      "to": 752.05,
+      "sid": 280,
+      "location": 2,
+      "content": "而且1200块1200哇",
+      "music": 0.0
+    },
+    {
+      "from": 752.05,
+      "to": 753.47,
+      "sid": 281,
+      "location": 2,
+      "content": "那那真的还挺便宜呃",
+      "music": 0.0
+    },
+    {
+      "from": 753.47,
+      "to": 758.69,
+      "sid": 282,
+      "location": 2,
+      "content": "很多网友他们想让我去住那个底特律的那种",
+      "music": 0.0
+    },
+    {
+      "from": 758.69,
+      "to": 760.55,
+      "sid": 283,
+      "location": 2,
+      "content": "一元房也可以",
+      "music": 0.0
+    },
+    {
+      "from": 760.55,
+      "to": 763.96,
+      "sid": 284,
+      "location": 2,
+      "content": "我觉得如果你你愿意给你卖那么便宜",
+      "music": 0.2440677883366521
+    },
+    {
+      "from": 763.96,
+      "to": 766.88,
+      "sid": 285,
+      "location": 2,
+      "content": "他可能已经不适合住了哈哈",
+      "music": 0.11811023157044712
+    },
+    {
+      "from": 766.88,
+      "to": 770.12,
+      "sid": 286,
+      "location": 2,
+      "content": "但是你可以买下来稍微的装修一下",
+      "music": 0.13513513056974977
+    },
+    {
+      "from": 770.12,
+      "to": 771.58,
+      "sid": 287,
+      "location": 2,
+      "content": "就是装修一个房间",
+      "music": 0.0
+    },
+    {
+      "from": 771.58,
+      "to": 776.249,
+      "sid": 288,
+      "location": 2,
+      "content": "然后就初三看的呀啊啊妈咱们修的哦",
+      "music": 0.0
+    },
+    {
+      "from": 776.249,
+      "to": 778.97,
+      "sid": 289,
+      "location": 2,
+      "content": "哦那那种房子要交房产税吗",
+      "music": 0.0
+    },
+    {
+      "from": 778.97,
+      "to": 781.27,
+      "sid": 290,
+      "location": 2,
+      "content": "要啊要啊耶",
+      "music": 0.0
+    },
+    {
+      "from": 781.27,
+      "to": 785.36,
+      "sid": 291,
+      "location": 2,
+      "content": "但是如果那个卖家给你卖一块钱",
+      "music": 0.0
+    },
+    {
+      "from": 785.36,
+      "to": 788.8,
+      "sid": 292,
+      "location": 2,
+      "content": "那这个房产税后面就会很便宜了啊",
+      "music": 0.0
+    },
+    {
+      "from": 788.8,
+      "to": 791.66,
+      "sid": 293,
+      "location": 2,
+      "content": "对那他价值就算零吗",
+      "music": 0.0
+    },
+    {
+      "from": 791.66,
+      "to": 793.12,
+      "sid": 294,
+      "location": 2,
+      "content": "哦可以可以对",
+      "music": 0.0
+    },
+    {
+      "from": 793.12,
+      "to": 796.85,
+      "sid": 295,
+      "location": 2,
+      "content": "那所以就是说推荐这个看视频的观众",
+      "music": 0.0
+    },
+    {
+      "from": 796.85,
+      "to": 799.23,
+      "sid": 296,
+      "location": 2,
+      "content": "来这里买10万块钱的",
+      "music": 0.0
+    },
+    {
+      "from": 799.23,
+      "to": 802.92,
+      "sid": 297,
+      "location": 2,
+      "content": "然后我可以去乡下一块钱买一个房子装修一下",
+      "music": 0.0
+    },
+    {
+      "from": 802.92,
+      "to": 806.5,
+      "sid": 298,
+      "location": 2,
+      "content": "是不是大概可以这么理解啊哈回归正题",
+      "music": 0.0
+    },
+    {
+      "from": 806.5,
+      "to": 809.92,
+      "sid": 299,
+      "location": 2,
+      "content": "现在我要带小霸王来看PERRY的另一个房子",
+      "music": 0.0
+    },
+    {
+      "from": 809.92,
+      "to": 811.93,
+      "sid": 300,
+      "location": 2,
+      "content": "我们刚刚看到那个房子10万",
+      "music": 0.0
+    },
+    {
+      "from": 811.93,
+      "to": 814.35,
+      "sid": 301,
+      "location": 2,
+      "content": "让我们看看价格8万",
+      "music": 0.0
+    },
+    {
+      "from": 814.35,
+      "to": 817.65,
+      "sid": 302,
+      "location": 2,
+      "content": "升级到这个18万的房子是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 817.65,
+      "to": 819.09,
+      "sid": 303,
+      "location": 2,
+      "content": "进去吧",
+      "music": 0.0
+    },
+    {
+      "from": 820.27,
+      "to": 826.07,
+      "sid": 304,
+      "location": 2,
+      "content": "这个房子要装修的比刚刚那个好挺多的",
+      "music": 0.1505882317508579
+    },
+    {
+      "from": 826.07,
+      "to": 829.135,
+      "sid": 305,
+      "location": 2,
+      "content": "就他现在有这个小客厅",
+      "music": 0.0
+    },
+    {
+      "from": 829.18,
+      "to": 834.3,
+      "sid": 306,
+      "location": 2,
+      "content": "这样我们说的丹尼尔就是专门吃饭的一个地方",
+      "music": 0.10695186879806878
+    },
+    {
+      "from": 834.3,
+      "to": 839.4,
+      "sid": 307,
+      "location": 2,
+      "content": "然后那个第一个房间也是蛮大的",
+      "music": 0.0
+    },
+    {
+      "from": 839.4,
+      "to": 842.9,
+      "sid": 308,
+      "location": 2,
+      "content": "嗯嗯然后往前面走",
+      "music": 0.0
+    },
+    {
+      "from": 842.9,
+      "to": 844.8,
+      "sid": 309,
+      "location": 2,
+      "content": "就是厨房",
+      "music": 0.0
+    },
+    {
+      "from": 848.12,
+      "to": 850.64,
+      "sid": 310,
+      "location": 2,
+      "content": "厨房旁边你还有一个小厕所",
+      "music": 0.0
+    },
+    {
+      "from": 850.64,
+      "to": 852.12,
+      "sid": 311,
+      "location": 2,
+      "content": "非常小的小厕所",
+      "music": 0.0
+    },
+    {
+      "from": 852.12,
+      "to": 855.98,
+      "sid": 312,
+      "location": 2,
+      "content": "但是上厕所的时候照镜子是吧",
+      "music": 0.0
+    },
+    {
+      "from": 857.849,
+      "to": 860.429,
+      "sid": 313,
+      "location": 2,
+      "content": "然后和上一个一样",
+      "music": 0.0
+    },
+    {
+      "from": 860.429,
+      "to": 861.629,
+      "sid": 314,
+      "location": 2,
+      "content": "也是一个小阳台",
+      "music": 0.0
+    },
+    {
+      "from": 861.629,
+      "to": 864.87,
+      "sid": 315,
+      "location": 2,
+      "content": "这里是可以加洗衣机和烘干机",
+      "music": 0.06226219085916531
+    },
+    {
+      "from": 864.87,
+      "to": 867.17,
+      "sid": 316,
+      "location": 2,
+      "content": "然后后面的是院子",
+      "music": 0.0
+    },
+    {
+      "from": 867.17,
+      "to": 870.91,
+      "sid": 317,
+      "location": 2,
+      "content": "这个是没有车库的",
+      "music": 0.0
+    },
+    {
+      "from": 871.19,
+      "to": 872.67,
+      "sid": 318,
+      "location": 2,
+      "content": "就是street parking",
+      "music": 0.0
+    },
+    {
+      "from": 872.67,
+      "to": 874.33,
+      "sid": 319,
+      "location": 2,
+      "content": "对street parking",
+      "music": 0.0
+    },
+    {
+      "from": 874.33,
+      "to": 878.06,
+      "sid": 320,
+      "location": 2,
+      "content": "一般爱我的这种小套我都是可以",
+      "music": 0.07638888623650358
+    },
+    {
+      "from": 878.06,
+      "to": 880.04,
+      "sid": 321,
+      "location": 2,
+      "content": "street party时如比较方便",
+      "music": 0.19178080878212783
+    },
+    {
+      "from": 880.04,
+      "to": 880.8,
+      "sid": 322,
+      "location": 2,
+      "content": "有没有车库",
+      "music": 0.0
+    },
+    {
+      "from": 880.8,
+      "to": 882.79,
+      "sid": 323,
+      "location": 2,
+      "content": "其实无所谓啊",
+      "music": 0.0
+    },
+    {
+      "from": 883.11,
+      "to": 886.39,
+      "sid": 324,
+      "location": 2,
+      "content": "确实你看路边停车吗",
+      "music": 0.0
+    },
+    {
+      "from": 886.39,
+      "to": 888.2,
+      "sid": 325,
+      "location": 2,
+      "content": "好我开车",
+      "music": 0.18604648999455423
+    },
+    {
+      "from": 888.6,
+      "to": 890.56,
+      "sid": 326,
+      "location": 2,
+      "content": "但这路边的空位也挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 890.56,
+      "to": 894.56,
+      "sid": 327,
+      "location": 2,
+      "content": "就是这边还有二楼",
+      "music": 0.0
+    },
+    {
+      "from": 894.56,
+      "to": 898.08,
+      "sid": 328,
+      "location": 2,
+      "content": "我朋友过来就从上面啊",
+      "music": 0.0
+    },
+    {
+      "from": 902.78,
+      "to": 905.82,
+      "sid": 329,
+      "location": 2,
+      "content": "手刚刚那个是个rain大平层",
+      "music": 0.0
+    },
+    {
+      "from": 905.82,
+      "to": 908.93,
+      "sid": 330,
+      "location": 2,
+      "content": "然后这个是有两个的",
+      "music": 0.0
+    },
+    {
+      "from": 909.53,
+      "to": 911.13,
+      "sid": 331,
+      "location": 2,
+      "content": "走第二个房间在这里",
+      "music": 0.0
+    },
+    {
+      "from": 913.01,
+      "to": 914.29,
+      "sid": 332,
+      "location": 2,
+      "content": "阳光很不错",
+      "music": 0.0
+    },
+    {
+      "from": 914.29,
+      "to": 916.21,
+      "sid": 333,
+      "location": 2,
+      "content": "看一下",
+      "music": 0.0
+    },
+    {
+      "from": 919.12,
+      "to": 921.0,
+      "sid": 334,
+      "location": 2,
+      "content": "这里有换房间嘛",
+      "music": 0.0
+    },
+    {
+      "from": 921.0,
+      "to": 923.4,
+      "sid": 335,
+      "location": 2,
+      "content": "就是一个公共区域",
+      "music": 0.414285684693882
+    },
+    {
+      "from": 923.4,
+      "to": 927.52,
+      "sid": 336,
+      "location": 2,
+      "content": "你可以在这里弄一个小桌子学习什么的",
+      "music": 0.041666665581588616
+    },
+    {
+      "from": 929.74,
+      "to": 935.62,
+      "sid": 337,
+      "location": 2,
+      "content": "然后这个厕所也是最近装修的很好的啊",
+      "music": 0.1761904719954652
+    },
+    {
+      "from": 935.62,
+      "to": 938.53,
+      "sid": 338,
+      "location": 2,
+      "content": "第三个房间在这里",
+      "music": 0.0
+    },
+    {
+      "from": 939.24,
+      "to": 941.0,
+      "sid": 339,
+      "location": 2,
+      "content": "这个房子的房间都特别大",
+      "music": 0.0
+    },
+    {
+      "from": 942.16,
+      "to": 944.72,
+      "sid": 340,
+      "location": 2,
+      "content": "我觉得这个房子应该",
+      "music": 0.0
+    },
+    {
+      "from": 945.86,
+      "to": 951.63,
+      "sid": 341,
+      "location": 2,
+      "content": "父母两个人的孩子4~5个都可以哦",
+      "music": 0.0
+    },
+    {
+      "from": 951.63,
+      "to": 956.859,
+      "sid": 342,
+      "location": 2,
+      "content": "对40住5656个人",
+      "music": 0.0
+    },
+    {
+      "from": 956.859,
+      "to": 960.999,
+      "sid": 343,
+      "location": 2,
+      "content": "我感觉阿用网一般来说一个家好多人",
+      "music": 0.0
+    },
+    {
+      "from": 960.999,
+      "to": 962.739,
+      "sid": 344,
+      "location": 2,
+      "content": "对对啊",
+      "music": 0.0
+    },
+    {
+      "from": 962.739,
+      "to": 967.579,
+      "sid": 345,
+      "location": 2,
+      "content": "好多好多小孩子对美国家庭孩子比较多",
+      "music": 0.0
+    },
+    {
+      "from": 968.6,
+      "to": 971.34,
+      "sid": 346,
+      "location": 2,
+      "content": "这洗手间好像还可以",
+      "music": 0.0
+    },
+    {
+      "from": 971.34,
+      "to": 974.29,
+      "sid": 347,
+      "location": 2,
+      "content": "对这个房子多好啊",
+      "music": 0.0
+    },
+    {
+      "from": 974.29,
+      "to": 976.13,
+      "sid": 348,
+      "location": 2,
+      "content": "这个地板铺了LVP",
+      "music": 0.0
+    },
+    {
+      "from": 976.13,
+      "to": 979.03,
+      "sid": 349,
+      "location": 2,
+      "content": "现在美国人最喜欢做的LVP嗯",
+      "music": 0.0
+    },
+    {
+      "from": 979.03,
+      "to": 984.0,
+      "sid": 350,
+      "location": 2,
+      "content": "其实中国人可能会发现这里是没有地毯的",
+      "music": 0.0
+    },
+    {
+      "from": 984.0,
+      "to": 986.46,
+      "sid": 351,
+      "location": 2,
+      "content": "一般美国房子都是会铺那个地毯",
+      "music": 0.0
+    },
+    {
+      "from": 986.46,
+      "to": 990.25,
+      "sid": 352,
+      "location": 2,
+      "content": "中国人觉得住中国的房子没有了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 990.25,
+      "to": 993.53,
+      "sid": 353,
+      "location": 2,
+      "content": "嗯可能觉得没有那么卫生哦",
+      "music": 0.05090908905784635
+    },
+    {
+      "from": 993.53,
+      "to": 995.65,
+      "sid": 354,
+      "location": 2,
+      "content": "没有这种很卫生哦",
+      "music": 0.07692307199211637
+    },
+    {
+      "from": 995.65,
+      "to": 997.77,
+      "sid": 355,
+      "location": 2,
+      "content": "中国人喜欢这种对哦",
+      "music": 0.0
+    },
+    {
+      "from": 997.77,
+      "to": 999.089,
+      "sid": 356,
+      "location": 2,
+      "content": "我可以擦干净的",
+      "music": 0.0
+    },
+    {
+      "from": 999.089,
+      "to": 1000.669,
+      "sid": 357,
+      "location": 2,
+      "content": "我都不知道呃",
+      "music": 0.0
+    },
+    {
+      "from": 1000.669,
+      "to": 1002.589,
+      "sid": 358,
+      "location": 2,
+      "content": "地毯还要用那个吸尘器吗",
+      "music": 0.0
+    },
+    {
+      "from": 1002.589,
+      "to": 1004.349,
+      "sid": 359,
+      "location": 2,
+      "content": "哦哦是不是",
+      "music": 0.0
+    },
+    {
+      "from": 1004.349,
+      "to": 1006.489,
+      "sid": 360,
+      "location": 2,
+      "content": "但是这个房子没有嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1006.489,
+      "to": 1009.009,
+      "sid": 361,
+      "location": 2,
+      "content": "所以这个地板是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 1009.009,
+      "to": 1014.38,
+      "sid": 362,
+      "location": 2,
+      "content": "就可能十几二十二十年就不需要画",
+      "music": 0.0
+    },
+    {
+      "from": 1014.38,
+      "to": 1015.66,
+      "sid": 363,
+      "location": 2,
+      "content": "我的一个part time job",
+      "music": 0.0
+    },
+    {
+      "from": 1015.66,
+      "to": 1020.2,
+      "sid": 364,
+      "location": 2,
+      "content": "就是在美国高中生去中国学习中文",
+      "music": 0.0
+    },
+    {
+      "from": 1020.2,
+      "to": 1022.62,
+      "sid": 365,
+      "location": 2,
+      "content": "然后就他们早上上课呀",
+      "music": 0.0
+    },
+    {
+      "from": 1022.62,
+      "to": 1025.4,
+      "sid": 366,
+      "location": 2,
+      "content": "下午去学中国文化",
+      "music": 0.0
+    },
+    {
+      "from": 1025.4,
+      "to": 1028.8,
+      "sid": 367,
+      "location": 2,
+      "content": "有什么calligraphy",
+      "music": 0.0
+    },
+    {
+      "from": 1028.8,
+      "to": 1030.32,
+      "sid": 368,
+      "location": 2,
+      "content": "How to make the fans",
+      "music": 0.0
+    },
+    {
+      "from": 1032.02,
+      "to": 1033.18,
+      "sid": 369,
+      "location": 2,
+      "content": "上海啊",
+      "music": 0.0
+    },
+    {
+      "from": 1033.18,
+      "to": 1036.3,
+      "sid": 370,
+      "location": 2,
+      "content": "还有去无锡啊",
+      "music": 0.0
+    },
+    {
+      "from": 1036.3,
+      "to": 1038.78,
+      "sid": 371,
+      "location": 2,
+      "content": "你们这是去带他们去什么惠山古镇",
+      "music": 0.0
+    },
+    {
+      "from": 1038.78,
+      "to": 1040.8,
+      "sid": 372,
+      "location": 2,
+      "content": "哟对哦",
+      "music": 0.0
+    },
+    {
+      "from": 1040.8,
+      "to": 1044.169,
+      "sid": 373,
+      "location": 2,
+      "content": "去那里穿汉啊啊啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 1044.169,
+      "to": 1046.629,
+      "sid": 374,
+      "location": 2,
+      "content": "刚刚他们都住在那个host family哦",
+      "music": 0.0
+    },
+    {
+      "from": 1046.629,
+      "to": 1049.34,
+      "sid": 375,
+      "location": 2,
+      "content": "说他们周末host family可以大家去玩",
+      "music": 0.0
+    },
+    {
+      "from": 1049.34,
+      "to": 1050.84,
+      "sid": 376,
+      "location": 2,
+      "content": "他们去了苏州",
+      "music": 0.0
+    },
+    {
+      "from": 1050.84,
+      "to": 1054.54,
+      "sid": 377,
+      "location": 2,
+      "content": "还有啊那个什么南京啊",
+      "music": 0.0
+    },
+    {
+      "from": 1054.54,
+      "to": 1057.609,
+      "sid": 378,
+      "location": 2,
+      "content": "嗯杭州啊",
+      "music": 0.0
+    },
+    {
+      "from": 1057.609,
+      "to": 1060.269,
+      "sid": 379,
+      "location": 2,
+      "content": "美国高中生一般觉得中国什么地方比较好呀",
+      "music": 0.0
+    },
+    {
+      "from": 1060.269,
+      "to": 1063.27,
+      "sid": 380,
+      "location": 2,
+      "content": "哎他们觉得上场好看啊",
+      "music": 0.0
+    },
+    {
+      "from": 1063.27,
+      "to": 1066.07,
+      "sid": 381,
+      "location": 2,
+      "content": "对上上海只有一个反手感嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1066.07,
+      "to": 1068.61,
+      "sid": 382,
+      "location": 2,
+      "content": "哦嗯他们每一天都会去对我",
+      "music": 0.0
+    },
+    {
+      "from": 1068.61,
+      "to": 1070.77,
+      "sid": 383,
+      "location": 2,
+      "content": "我觉得中国商场因为比较卷卷",
+      "music": 0.0
+    },
+    {
+      "from": 1070.77,
+      "to": 1072.37,
+      "sid": 384,
+      "location": 2,
+      "content": "我也表达不出来",
+      "music": 0.0
+    },
+    {
+      "from": 1072.37,
+      "to": 1074.999,
+      "sid": 385,
+      "location": 2,
+      "content": "看来嗯我可以懂啥意思了",
+      "music": 0.0
+    },
+    {
+      "from": 1074.999,
+      "to": 1077.12,
+      "sid": 386,
+      "location": 2,
+      "content": "英语里面没有这个词哦",
+      "music": 0.0
+    },
+    {
+      "from": 1077.12,
+      "to": 1078.36,
+      "sid": 387,
+      "location": 2,
+      "content": "可以可以可以",
+      "music": 0.0
+    },
+    {
+      "from": 1078.36,
+      "to": 1082.06,
+      "sid": 388,
+      "location": 2,
+      "content": "美国麦当劳嗯没有做过玛瑙好吃",
+      "music": 0.0
+    },
+    {
+      "from": 1082.06,
+      "to": 1083.28,
+      "sid": 389,
+      "location": 2,
+      "content": "嗯是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1083.28,
+      "to": 1087.7,
+      "sid": 390,
+      "location": 2,
+      "content": "那你觉得肯德基呢更不好比海贼肉耶耶对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1087.7,
+      "to": 1089.92,
+      "sid": 391,
+      "location": 2,
+      "content": "中国肯德基也很好吃的哦",
+      "music": 0.0
+    },
+    {
+      "from": 1089.92,
+      "to": 1091.38,
+      "sid": 392,
+      "location": 2,
+      "content": "因为他的东西比较多",
+      "music": 0.0
+    },
+    {
+      "from": 1091.38,
+      "to": 1094.62,
+      "sid": 393,
+      "location": 2,
+      "content": "美国肯德基其实炸鸡呀",
+      "music": 0.0
+    },
+    {
+      "from": 1094.62,
+      "to": 1096.57,
+      "sid": 394,
+      "location": 2,
+      "content": "土豆泥玉米",
+      "music": 0.42424239210292736
+    },
+    {
+      "from": 1096.57,
+      "to": 1098.55,
+      "sid": 395,
+      "location": 2,
+      "content": "然后那个萨拉美啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 1098.55,
+      "to": 1101.57,
+      "sid": 396,
+      "location": 2,
+      "content": "中国可能就记得他有什么鸡肉卷啊",
+      "music": 0.0
+    },
+    {
+      "from": 1101.57,
+      "to": 1107.04,
+      "sid": 397,
+      "location": 2,
+      "content": "嗯哦那个人是那一年是兔头",
+      "music": 0.0
+    },
+    {
+      "from": 1107.04,
+      "to": 1108.5,
+      "sid": 398,
+      "location": 2,
+      "content": "加几周怎么睡",
+      "music": 0.0
+    },
+    {
+      "from": 1108.5,
+      "to": 1109.42,
+      "sid": 399,
+      "location": 2,
+      "content": "还有什么快餐",
+      "music": 0.0
+    },
+    {
+      "from": 1109.42,
+      "to": 1110.12,
+      "sid": 400,
+      "location": 2,
+      "content": "Pizza hut",
+      "music": 0.0
+    },
+    {
+      "from": 1110.12,
+      "to": 1111.46,
+      "sid": 401,
+      "location": 2,
+      "content": "好像中国的要好很多",
+      "music": 0.0
+    },
+    {
+      "from": 1111.46,
+      "to": 1112.34,
+      "sid": 402,
+      "location": 2,
+      "content": "Pizza hut",
+      "music": 0.0
+    },
+    {
+      "from": 1112.34,
+      "to": 1114.98,
+      "sid": 403,
+      "location": 2,
+      "content": "我喜欢中国的汉per茶哦",
+      "music": 0.0
+    },
+    {
+      "from": 1114.98,
+      "to": 1116.9,
+      "sid": 404,
+      "location": 2,
+      "content": "王哦棒",
+      "music": 0.0
+    },
+    {
+      "from": 1116.9,
+      "to": 1118.46,
+      "sid": 405,
+      "location": 2,
+      "content": "约翰耶对",
+      "music": 0.0
+    },
+    {
+      "from": 1118.46,
+      "to": 1121.38,
+      "sid": 406,
+      "location": 2,
+      "content": "但是就是泡泡酱子在美国感觉就是比较便宜的",
+      "music": 0.0
+    },
+    {
+      "from": 1121.38,
+      "to": 1123.71,
+      "sid": 407,
+      "location": 2,
+      "content": "他好像做活动的还比较高端",
+      "music": 0.0
+    },
+    {
+      "from": 1123.71,
+      "to": 1128.19,
+      "sid": 408,
+      "location": 2,
+      "content": "嗯嗯中国的披萨很我很高级的呀",
+      "music": 0.0
+    },
+    {
+      "from": 1128.19,
+      "to": 1130.31,
+      "sid": 409,
+      "location": 2,
+      "content": "嗯诶那你有没有吃过萨莉亚",
+      "music": 0.0
+    },
+    {
+      "from": 1130.31,
+      "to": 1131.57,
+      "sid": 410,
+      "location": 2,
+      "content": "萨莉亚哎呀",
+      "music": 0.0
+    },
+    {
+      "from": 1131.57,
+      "to": 1132.41,
+      "sid": 411,
+      "location": 2,
+      "content": "不好吃吧",
+      "music": 0.0
+    },
+    {
+      "from": 1132.41,
+      "to": 1133.15,
+      "sid": 412,
+      "location": 2,
+      "content": "不好吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 1133.15,
+      "to": 1134.65,
+      "sid": 413,
+      "location": 2,
+      "content": "哈哈对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1134.65,
+      "to": 1138.17,
+      "sid": 414,
+      "location": 2,
+      "content": "如果这样吃便宜点的还还是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 1138.17,
+      "to": 1140.13,
+      "sid": 415,
+      "location": 2,
+      "content": "好好如果我可以选",
+      "music": 0.0
+    },
+    {
+      "from": 1140.13,
+      "to": 1142.09,
+      "sid": 416,
+      "location": 2,
+      "content": "我就我还是去地下来",
+      "music": 0.0
+    },
+    {
+      "from": 1142.09,
+      "to": 1143.04,
+      "sid": 417,
+      "location": 2,
+      "content": "好好",
+      "music": 0.0
+    },
+    {
+      "from": 1143.04,
+      "to": 1145.64,
+      "sid": 418,
+      "location": 2,
+      "content": "美国的连锁店在中国都有吃过",
+      "music": 0.0
+    },
+    {
+      "from": 1146.14,
+      "to": 1147.56,
+      "sid": 419,
+      "location": 2,
+      "content": "但是好像这是中国",
+      "music": 0.0
+    },
+    {
+      "from": 1147.56,
+      "to": 1149.36,
+      "sid": 420,
+      "location": 2,
+      "content": "中国的更好吃一点",
+      "music": 0.0
+    },
+    {
+      "from": 1149.36,
+      "to": 1151.22,
+      "sid": 421,
+      "location": 2,
+      "content": "对呀好可以",
+      "music": 0.0
+    },
+    {
+      "from": 1151.22,
+      "to": 1154.3,
+      "sid": 422,
+      "location": 2,
+      "content": "这是中国快餐被渔民抢到了",
+      "music": 0.0
+    },
+    {
+      "from": 1154.3,
+      "to": 1155.92,
+      "sid": 423,
+      "location": 2,
+      "content": "他们我不知道为什么",
+      "music": 0.0
+    },
+    {
+      "from": 1155.92,
+      "to": 1159.47,
+      "sid": 424,
+      "location": 2,
+      "content": "反正美国快餐没什么新品嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1159.47,
+      "to": 1161.35,
+      "sid": 425,
+      "location": 2,
+      "content": "中国的就星巴克嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1161.35,
+      "to": 1162.67,
+      "sid": 426,
+      "location": 2,
+      "content": "他经常有新品",
+      "music": 0.0
+    },
+    {
+      "from": 1162.67,
+      "to": 1164.69,
+      "sid": 427,
+      "location": 2,
+      "content": "美国星巴克是没有的哦",
+      "music": 0.0
+    },
+    {
+      "from": 1164.69,
+      "to": 1165.97,
+      "sid": 428,
+      "location": 2,
+      "content": "对这个是的是的",
+      "music": 0.0
+    },
+    {
+      "from": 1165.97,
+      "to": 1168.39,
+      "sid": 429,
+      "location": 2,
+      "content": "中国手机的好像拍视频",
+      "music": 0.0
+    },
+    {
+      "from": 1168.39,
+      "to": 1170.39,
+      "sid": 430,
+      "location": 2,
+      "content": "他都会自带一点美颜功能",
+      "music": 0.0
+    },
+    {
+      "from": 1170.39,
+      "to": 1176.19,
+      "sid": 431,
+      "location": 2,
+      "content": "但是好像这个拍外国人就不太好用",
+      "music": 0.0
+    },
+    {
+      "from": 1176.19,
+      "to": 1180.34,
+      "sid": 432,
+      "location": 2,
+      "content": "所以说我感觉就是很对不起EMILY",
+      "music": 0.0
+    },
+    {
+      "from": 1180.34,
+      "to": 1187.77,
+      "sid": 433,
+      "location": 2,
+      "content": "EMILY真人肯定比我这个不太会拍照的直男好很多",
+      "music": 0.0
+    },
+    {
+      "from": 1187.77,
+      "to": 1189.97,
+      "sid": 434,
+      "location": 2,
+      "content": "我在中国也用中国手机",
+      "music": 0.0
+    },
+    {
+      "from": 1189.97,
+      "to": 1191.72,
+      "sid": 435,
+      "location": 2,
+      "content": "然后都会翻的很白",
+      "music": 0.0
+    },
+    {
+      "from": 1191.72,
+      "to": 1192.56,
+      "sid": 436,
+      "location": 2,
+      "content": "脸",
+      "music": 0.0
+    },
+    {
+      "from": 1192.56,
+      "to": 1194.46,
+      "sid": 437,
+      "location": 2,
+      "content": "很小很小很尖",
+      "music": 0.0
+    },
+    {
+      "from": 1194.46,
+      "to": 1195.34,
+      "sid": 438,
+      "location": 2,
+      "content": "哈哈哇",
+      "music": 0.0
+    },
+    {
+      "from": 1195.34,
+      "to": 1197.18,
+      "sid": 439,
+      "location": 2,
+      "content": "哎你这个说的真的是一模一样",
+      "music": 0.0
+    },
+    {
+      "from": 1197.18,
+      "to": 1200.35,
+      "sid": 440,
+      "location": 2,
+      "content": "这是我看这个镜头里面和外面",
+      "music": 0.0
+    },
+    {
+      "from": 1200.35,
+      "to": 1202.27,
+      "sid": 441,
+      "location": 2,
+      "content": "就是真的跟你说的一模一样",
+      "music": 0.0
+    },
+    {
+      "from": 1202.27,
+      "to": 1204.25,
+      "sid": 442,
+      "location": 2,
+      "content": "就是首先跟你打一层白",
+      "music": 0.0
+    },
+    {
+      "from": 1204.25,
+      "to": 1206.37,
+      "sid": 443,
+      "location": 2,
+      "content": "第二就好像就把你的脸给削尖了",
+      "music": 0.0
+    },
+    {
+      "from": 1206.37,
+      "to": 1207.83,
+      "sid": 444,
+      "location": 2,
+      "content": "虽然但你也说了",
+      "music": 0.0
+    },
+    {
+      "from": 1207.83,
+      "to": 1210.19,
+      "sid": 445,
+      "location": 2,
+      "content": "美国人希望这个美黑啊",
+      "music": 0.0
+    },
+    {
+      "from": 1210.19,
+      "to": 1212.58,
+      "sid": 446,
+      "location": 2,
+      "content": "我并不知道啊啊对",
+      "music": 0.0
+    },
+    {
+      "from": 1212.58,
+      "to": 1215.58,
+      "sid": 447,
+      "location": 2,
+      "content": "美国白人就是喜欢稍微黑一点",
+      "music": 0.0
+    },
+    {
+      "from": 1215.58,
+      "to": 1218.22,
+      "sid": 448,
+      "location": 2,
+      "content": "对对而且你还比较喜欢健身者",
+      "music": 0.0
+    },
+    {
+      "from": 1218.22,
+      "to": 1219.14,
+      "sid": 449,
+      "location": 2,
+      "content": "对啊对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1219.14,
+      "to": 1221.82,
+      "sid": 450,
+      "location": 2,
+      "content": "这样年轻我们其实没怎么看啊",
+      "music": 0.0
+    },
+    {
+      "from": 1221.82,
+      "to": 1222.36,
+      "sid": 451,
+      "location": 2,
+      "content": "都行",
+      "music": 0.0
+    },
+    {
+      "from": 1222.36,
+      "to": 1226.449,
+      "sid": 452,
+      "location": 2,
+      "content": "就这样看你脸的健康不健康",
+      "music": 0.0
+    },
+    {
+      "from": 1226.449,
+      "to": 1231.819,
+      "sid": 453,
+      "location": 2,
+      "content": "会这个美颜放在美国人身上真的是噩噩梦哇",
+      "music": 0.0
+    },
+    {
+      "from": 1231.819,
+      "to": 1233.019,
+      "sid": 454,
+      "location": 2,
+      "content": "这不如不开呀",
+      "music": 0.0
+    },
+    {
+      "from": 1234.179,
+      "to": 1234.659,
+      "sid": 455,
+      "location": 2,
+      "content": "Probably",
+      "music": 0.0
+    },
+    {
+      "from": 1234.659,
+      "to": 1240.15,
+      "sid": 456,
+      "location": 2,
+      "content": "Because like when i am like doing my real estate here in iowa",
+      "music": 0.0
+    },
+    {
+      "from": 1240.15,
+      "to": 1243.47,
+      "sid": 457,
+      "location": 2,
+      "content": "I put so much time and effort onto my clients",
+      "music": 0.0
+    },
+    {
+      "from": 1243.47,
+      "to": 1244.91,
+      "sid": 458,
+      "location": 2,
+      "content": "Because like i have some clients",
+      "music": 0.0
+    },
+    {
+      "from": 1244.91,
+      "to": 1247.68,
+      "sid": 459,
+      "location": 2,
+      "content": "They want to buy like million dollar houses",
+      "music": 0.0
+    },
+    {
+      "from": 1247.68,
+      "to": 1248.64,
+      "sid": 460,
+      "location": 2,
+      "content": "And i have some clients that",
+      "music": 0.0
+    },
+    {
+      "from": 1248.64,
+      "to": 1250.48,
+      "sid": 461,
+      "location": 2,
+      "content": "They want to buy them in eighty thousand dollars",
+      "music": 0.0
+    },
+    {
+      "from": 1250.48,
+      "to": 1253.4,
+      "sid": 462,
+      "location": 2,
+      "content": "House like in perry iowa or some other small town",
+      "music": 0.0
+    },
+    {
+      "from": 1253.4,
+      "to": 1254.55,
+      "sid": 463,
+      "location": 2,
+      "content": "And so no matter",
+      "music": 0.0
+    },
+    {
+      "from": 1254.55,
+      "to": 1255.83,
+      "sid": 464,
+      "location": 2,
+      "content": "What type of house",
+      "music": 0.0
+    },
+    {
+      "from": 1255.83,
+      "to": 1256.47,
+      "sid": 465,
+      "location": 2,
+      "content": "You want to buy",
+      "music": 0.0
+    },
+    {
+      "from": 1256.47,
+      "to": 1258.78,
+      "sid": 466,
+      "location": 2,
+      "content": "I'm gonna give you that same emperor",
+      "music": 0.0
+    },
+    {
+      "from": 1258.78,
+      "to": 1259.98,
+      "sid": 467,
+      "location": 2,
+      "content": "You know make sure",
+      "music": 0.0
+    },
+    {
+      "from": 1259.98,
+      "to": 1261.08,
+      "sid": 468,
+      "location": 2,
+      "content": "You do your inspections",
+      "music": 0.0
+    },
+    {
+      "from": 1261.08,
+      "to": 1261.7,
+      "sid": 469,
+      "location": 2,
+      "content": "Make sure that",
+      "music": 0.0
+    },
+    {
+      "from": 1261.7,
+      "to": 1264.67,
+      "sid": 470,
+      "location": 2,
+      "content": "You know everything about the house that you're not making a bad investment",
+      "music": 0.0
+    },
+    {
+      "from": 1264.67,
+      "to": 1265.99,
+      "sid": 471,
+      "location": 2,
+      "content": "And so it should be honest",
+      "music": 0.0
+    },
+    {
+      "from": 1265.99,
+      "to": 1270.75,
+      "sid": 472,
+      "location": 2,
+      "content": "I don't have a lot of time to to do social media",
+      "music": 0.0
+    },
+    {
+      "from": 1270.75,
+      "to": 1273.55,
+      "sid": 473,
+      "location": 2,
+      "content": "But i'm happy with what i have done",
+      "music": 0.0
+    },
+    {
+      "from": 1273.55,
+      "to": 1274.69,
+      "sid": 474,
+      "location": 2,
+      "content": "So far that",
+      "music": 0.0
+    },
+    {
+      "from": 1274.69,
+      "to": 1278.05,
+      "sid": 475,
+      "location": 2,
+      "content": "I've been able to connect with so many local asian people",
+      "music": 0.0
+    },
+    {
+      "from": 1278.05,
+      "to": 1280.99,
+      "sid": 476,
+      "location": 2,
+      "content": "And and i oi didn't know that there was quite",
+      "music": 0.0
+    },
+    {
+      "from": 1280.99,
+      "to": 1282.01,
+      "sid": 477,
+      "location": 2,
+      "content": "So many of us",
+      "music": 0.0
+    },
+    {
+      "from": 1282.01,
+      "to": 1284.09,
+      "sid": 478,
+      "location": 2,
+      "content": "But it's awesome so",
+      "music": 0.0
+    }
+  ]
+}

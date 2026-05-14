@@ -1,0 +1,1948 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.92,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国",
+      "music": 0.0
+    },
+    {
+      "from": 0.92,
+      "to": 2.96,
+      "sid": 2,
+      "location": 2,
+      "content": "一个黑人占比99.08%",
+      "music": 0.0
+    },
+    {
+      "from": 2.96,
+      "to": 4.16,
+      "sid": 3,
+      "location": 2,
+      "content": "的1500人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 4.16,
+      "to": 5.02,
+      "sid": 4,
+      "location": 2,
+      "content": "芒德拜隆",
+      "music": 0.0
+    },
+    {
+      "from": 5.02,
+      "to": 5.9,
+      "sid": 5,
+      "location": 2,
+      "content": "在1887年",
+      "music": 0.0
+    },
+    {
+      "from": 5.9,
+      "to": 7.26,
+      "sid": 6,
+      "location": 2,
+      "content": "由获得自由的黑人们",
+      "music": 0.0
+    },
+    {
+      "from": 7.26,
+      "to": 9.82,
+      "sid": 7,
+      "location": 2,
+      "content": "在原先美国脑南方蓄奴州的核心",
+      "music": 0.0
+    },
+    {
+      "from": 9.82,
+      "to": 13.27,
+      "sid": 8,
+      "location": 2,
+      "content": "密西西比河三角洲建立了一个黑人自治小镇",
+      "music": 0.0
+    },
+    {
+      "from": 13.27,
+      "to": 15.59,
+      "sid": 9,
+      "location": 2,
+      "content": "南北战争只能说是结束的奴隶制",
+      "music": 0.0
+    },
+    {
+      "from": 15.59,
+      "to": 18.4,
+      "sid": 10,
+      "location": 2,
+      "content": "可是那时在种族歧视严重的美国南方",
+      "music": 0.0
+    },
+    {
+      "from": 18.4,
+      "to": 20.8,
+      "sid": 11,
+      "location": 2,
+      "content": "黑人在以白人主导的社会和经济中",
+      "music": 0.0
+    },
+    {
+      "from": 20.8,
+      "to": 22.2,
+      "sid": 12,
+      "location": 2,
+      "content": "肯定没有翻身之地",
+      "music": 0.0
+    },
+    {
+      "from": 22.2,
+      "to": 25.66,
+      "sid": 13,
+      "location": 2,
+      "content": "于是几个前奴隶买下了一些当时未开发的土地",
+      "music": 0.0
+    },
+    {
+      "from": 25.66,
+      "to": 29.75,
+      "sid": 14,
+      "location": 2,
+      "content": "并尝试建立一个以黑人自主领导的社区小镇",
+      "music": 0.0
+    },
+    {
+      "from": 29.75,
+      "to": 30.19,
+      "sid": 15,
+      "location": 2,
+      "content": "建立之后",
+      "music": 0.0
+    },
+    {
+      "from": 30.19,
+      "to": 31.87,
+      "sid": 16,
+      "location": 2,
+      "content": "很快吸引了周边的黑人",
+      "music": 0.0
+    },
+    {
+      "from": 31.87,
+      "to": 35.43,
+      "sid": 17,
+      "location": 2,
+      "content": "这里也渐渐生长出一套黑人社区的经济模式",
+      "music": 0.0
+    },
+    {
+      "from": 35.43,
+      "to": 37.27,
+      "sid": 18,
+      "location": 2,
+      "content": "毛多拜龙在巅峰期的时候",
+      "music": 0.0
+    },
+    {
+      "from": 37.27,
+      "to": 38.45,
+      "sid": 19,
+      "location": 2,
+      "content": "有自己的火车站",
+      "music": 0.0
+    },
+    {
+      "from": 38.45,
+      "to": 39.59,
+      "sid": 20,
+      "location": 2,
+      "content": "银行工厂",
+      "music": 0.0
+    },
+    {
+      "from": 39.59,
+      "to": 40.75,
+      "sid": 21,
+      "location": 2,
+      "content": "还有动物园",
+      "music": 0.0
+    },
+    {
+      "from": 40.75,
+      "to": 44.19,
+      "sid": 22,
+      "location": 2,
+      "content": "小镇周边大部分的土地也都是归黑人所有",
+      "music": 0.0
+    },
+    {
+      "from": 44.19,
+      "to": 46.37,
+      "sid": 23,
+      "location": 2,
+      "content": "当时由于这边发展的繁荣",
+      "music": 0.0
+    },
+    {
+      "from": 46.37,
+      "to": 49.61,
+      "sid": 24,
+      "location": 2,
+      "content": "1908年老罗斯福总统还造访过这里",
+      "music": 0.0
+    },
+    {
+      "from": 49.61,
+      "to": 52.19,
+      "sid": 25,
+      "location": 2,
+      "content": "他称赞这里是三角洲的明珠",
+      "music": 0.0
+    },
+    {
+      "from": 52.19,
+      "to": 54.63,
+      "sid": 26,
+      "location": 2,
+      "content": "不过小镇的发展也不是顺风顺水",
+      "music": 0.0
+    },
+    {
+      "from": 54.63,
+      "to": 57.07,
+      "sid": 27,
+      "location": 2,
+      "content": "首先密西西比州一直是保守白人掌权",
+      "music": 0.0
+    },
+    {
+      "from": 57.07,
+      "to": 58.15,
+      "sid": 28,
+      "location": 2,
+      "content": "直到今日",
+      "music": 0.0
+    },
+    {
+      "from": 58.15,
+      "to": 61.35,
+      "sid": 29,
+      "location": 2,
+      "content": "这种黑人社区模式肯定是对体制的一种挑战",
+      "music": 0.0
+    },
+    {
+      "from": 61.35,
+      "to": 63.63,
+      "sid": 30,
+      "location": 2,
+      "content": "那个时候黑人大部分也没有投票权",
+      "music": 0.0
+    },
+    {
+      "from": 63.63,
+      "to": 66.56,
+      "sid": 31,
+      "location": 2,
+      "content": "这也就导致小镇经常会受到上面的打压",
+      "music": 0.0
+    },
+    {
+      "from": 66.56,
+      "to": 67.32,
+      "sid": 32,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 67.32,
+      "to": 69.84,
+      "sid": 33,
+      "location": 2,
+      "content": "还有三件大事对小智能历史影响很大",
+      "music": 0.0
+    },
+    {
+      "from": 69.84,
+      "to": 72.22,
+      "sid": 34,
+      "location": 2,
+      "content": "一是1920年代棉花价格的暴跌",
+      "music": 0.0
+    },
+    {
+      "from": 72.22,
+      "to": 75.32,
+      "sid": 35,
+      "location": 2,
+      "content": "小镇周边棉花田的黑人农场主损失都很惨重",
+      "music": 0.0
+    },
+    {
+      "from": 75.32,
+      "to": 77.1,
+      "sid": 36,
+      "location": 2,
+      "content": "很多人被迫都把地卖掉",
+      "music": 0.0
+    },
+    {
+      "from": 77.1,
+      "to": 78.02,
+      "sid": 37,
+      "location": 2,
+      "content": "1940年",
+      "music": 0.0
+    },
+    {
+      "from": 78.02,
+      "to": 79.72,
+      "sid": 38,
+      "location": 2,
+      "content": "镇中心遭遇了一场大火",
+      "music": 0.0
+    },
+    {
+      "from": 79.72,
+      "to": 81.67,
+      "sid": 39,
+      "location": 2,
+      "content": "大部分的商铺都被烧掉了",
+      "music": 0.0
+    },
+    {
+      "from": 81.67,
+      "to": 82.43,
+      "sid": 40,
+      "location": 2,
+      "content": "讽刺的是",
+      "music": 0.0
+    },
+    {
+      "from": 82.43,
+      "to": 83.99,
+      "sid": 41,
+      "location": 2,
+      "content": "对小镇打击最大的其实是",
+      "music": 0.0
+    },
+    {
+      "from": 83.99,
+      "to": 86.19,
+      "sid": 42,
+      "location": 2,
+      "content": "终结了种族隔离的美国民权运动",
+      "music": 0.0
+    },
+    {
+      "from": 88.46,
+      "to": 90.22,
+      "sid": 43,
+      "location": 2,
+      "content": "整个社会的流动性变大了",
+      "music": 0.0
+    },
+    {
+      "from": 90.22,
+      "to": 91.82,
+      "sid": 44,
+      "location": 2,
+      "content": "这反倒是打破了毛德拜龙",
+      "music": 0.0
+    },
+    {
+      "from": 91.82,
+      "to": 93.9,
+      "sid": 45,
+      "location": 2,
+      "content": "自成一体的黑人经济模式",
+      "music": 0.0
+    },
+    {
+      "from": 93.9,
+      "to": 94.7,
+      "sid": 46,
+      "location": 2,
+      "content": "1980年",
+      "music": 0.0
+    },
+    {
+      "from": 94.7,
+      "to": 96.9,
+      "sid": 47,
+      "location": 2,
+      "content": "这边人口到达2900人的巅峰期后",
+      "music": 0.0
+    },
+    {
+      "from": 96.9,
+      "to": 97.86,
+      "sid": 48,
+      "location": 2,
+      "content": "就慢慢减少",
+      "music": 0.0
+    },
+    {
+      "from": 97.86,
+      "to": 99.729,
+      "sid": 49,
+      "location": 2,
+      "content": "如今就剩下1500人",
+      "music": 0.0
+    },
+    {
+      "from": 99.729,
+      "to": 101.569,
+      "sid": 50,
+      "location": 2,
+      "content": "如今这里44.5%的人",
+      "music": 0.0
+    },
+    {
+      "from": 101.569,
+      "to": 102.829,
+      "sid": 51,
+      "location": 2,
+      "content": "都在贫困线以下",
+      "music": 0.0
+    },
+    {
+      "from": 102.829,
+      "to": 105.449,
+      "sid": 52,
+      "location": 2,
+      "content": "人均年收入收位数是1万5000美元",
+      "music": 0.0
+    },
+    {
+      "from": 105.449,
+      "to": 107.96,
+      "sid": 53,
+      "location": 2,
+      "content": "不过这个小镇当年繁华的老底子还在",
+      "music": 0.0
+    },
+    {
+      "from": 107.96,
+      "to": 110.6,
+      "sid": 54,
+      "location": 2,
+      "content": "相比起我之前去的几个同地区的黑人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 110.6,
+      "to": 112.06,
+      "sid": 55,
+      "location": 2,
+      "content": "看起来要发达不少",
+      "music": 0.0
+    },
+    {
+      "from": 112.06,
+      "to": 113.95,
+      "sid": 56,
+      "location": 2,
+      "content": "目前小镇除了居民区",
+      "music": 0.0
+    },
+    {
+      "from": 113.95,
+      "to": 115.67,
+      "sid": 57,
+      "location": 2,
+      "content": "剩下的还在运作的设施",
+      "music": 0.0
+    },
+    {
+      "from": 115.67,
+      "to": 116.75,
+      "sid": 58,
+      "location": 2,
+      "content": "只有一个加油站",
+      "music": 0.0
+    },
+    {
+      "from": 116.75,
+      "to": 117.61,
+      "sid": 59,
+      "location": 2,
+      "content": "一个便利店",
+      "music": 0.0
+    },
+    {
+      "from": 117.61,
+      "to": 118.45,
+      "sid": 60,
+      "location": 2,
+      "content": "一个邮局",
+      "music": 0.0
+    },
+    {
+      "from": 118.45,
+      "to": 119.57,
+      "sid": 61,
+      "location": 2,
+      "content": "一家小饭店",
+      "music": 0.0
+    },
+    {
+      "from": 119.57,
+      "to": 120.41,
+      "sid": 62,
+      "location": 2,
+      "content": "一个小学",
+      "music": 0.0
+    },
+    {
+      "from": 120.41,
+      "to": 122.49,
+      "sid": 63,
+      "location": 2,
+      "content": "还有一个小镇的历史博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 122.49,
+      "to": 124.65,
+      "sid": 64,
+      "location": 2,
+      "content": "这个博物馆基本上是没有游客",
+      "music": 0.0
+    },
+    {
+      "from": 124.65,
+      "to": 126.47,
+      "sid": 65,
+      "location": 2,
+      "content": "我到的时候门是锁的",
+      "music": 0.0
+    },
+    {
+      "from": 126.47,
+      "to": 128.49,
+      "sid": 66,
+      "location": 2,
+      "content": "试着打了一下墙上面的电话",
+      "music": 0.0
+    },
+    {
+      "from": 128.49,
+      "to": 130.5,
+      "sid": 67,
+      "location": 2,
+      "content": "还真有人跑来给我开门了",
+      "music": 0.0
+    },
+    {
+      "from": 130.5,
+      "to": 131.1,
+      "sid": 68,
+      "location": 2,
+      "content": "进去之后",
+      "music": 0.0
+    },
+    {
+      "from": 131.1,
+      "to": 134.18,
+      "sid": 69,
+      "location": 2,
+      "content": "我先是看了一个介绍小镇大概情况的纪录片",
+      "music": 0.0
+    },
+    {
+      "from": 134.18,
+      "to": 136.46,
+      "sid": 70,
+      "location": 2,
+      "content": "在电视上讲话的人是大哥的哥哥",
+      "music": 0.0
+    },
+    {
+      "from": 136.46,
+      "to": 138.42,
+      "sid": 71,
+      "location": 2,
+      "content": "也是镇上面教会的牧师",
+      "music": 0.0
+    },
+    {
+      "from": 138.42,
+      "to": 140.92,
+      "sid": 72,
+      "location": 2,
+      "content": "而大哥本人在视频里面也有戏份",
+      "music": 0.0
+    },
+    {
+      "from": 140.92,
+      "to": 142.26,
+      "sid": 73,
+      "location": 2,
+      "content": "一般来说有游客的话",
+      "music": 0.0
+    },
+    {
+      "from": 142.26,
+      "to": 143.36,
+      "sid": 74,
+      "location": 2,
+      "content": "就是大哥接待",
+      "music": 0.0
+    },
+    {
+      "from": 143.36,
+      "to": 145.4,
+      "sid": 75,
+      "location": 2,
+      "content": "不过他当天下午有一点事情",
+      "music": 0.0
+    },
+    {
+      "from": 145.4,
+      "to": 146.68,
+      "sid": 76,
+      "location": 2,
+      "content": "于是就打了一个电话",
+      "music": 0.0
+    },
+    {
+      "from": 146.68,
+      "to": 149.48,
+      "sid": 77,
+      "location": 2,
+      "content": "把他100多岁的老爸从家里面叫了出来",
+      "music": 0.0
+    },
+    {
+      "from": 149.48,
+      "to": 151.18,
+      "sid": 78,
+      "location": 2,
+      "content": "大爷虽然已经100多了",
+      "music": 0.0
+    },
+    {
+      "from": 151.18,
+      "to": 152.87,
+      "sid": 79,
+      "location": 2,
+      "content": "但是看着格外健老",
+      "music": 0.0
+    },
+    {
+      "from": 152.87,
+      "to": 154.45,
+      "sid": 80,
+      "location": 2,
+      "content": "这个博物馆的面积很小",
+      "music": 0.0
+    },
+    {
+      "from": 154.45,
+      "to": 156.27,
+      "sid": 81,
+      "location": 2,
+      "content": "是镇上面的人自己搞的",
+      "music": 0.0
+    },
+    {
+      "from": 156.27,
+      "to": 158.84,
+      "sid": 82,
+      "location": 2,
+      "content": "他们做这个博物馆的目的也非常的纯粹",
+      "music": 0.0
+    },
+    {
+      "from": 158.84,
+      "to": 160.58,
+      "sid": 83,
+      "location": 2,
+      "content": "After the civil war",
+      "music": 0.0
+    },
+    {
+      "from": 160.58,
+      "to": 161.84,
+      "sid": 84,
+      "location": 2,
+      "content": "They bought their plantation",
+      "music": 0.0
+    },
+    {
+      "from": 161.84,
+      "to": 163.13,
+      "sid": 85,
+      "location": 2,
+      "content": "They used to be enslaved on",
+      "music": 0.0
+    },
+    {
+      "from": 163.13,
+      "to": 164.13,
+      "sid": 86,
+      "location": 2,
+      "content": "And developed it",
+      "music": 0.0
+    },
+    {
+      "from": 164.13,
+      "to": 166.09,
+      "sid": 87,
+      "location": 2,
+      "content": "And became one of the richest people in the country",
+      "music": 0.0
+    },
+    {
+      "from": 166.09,
+      "to": 168.339,
+      "sid": 88,
+      "location": 2,
+      "content": "Nobody knows that story in this country",
+      "music": 0.0
+    },
+    {
+      "from": 168.339,
+      "to": 169.979,
+      "sid": 89,
+      "location": 2,
+      "content": "Bat nobody knows that story",
+      "music": 0.0
+    },
+    {
+      "from": 169.979,
+      "to": 174.019,
+      "sid": 90,
+      "location": 2,
+      "content": "And so one of the things that we do here is tell that story um",
+      "music": 0.0
+    },
+    {
+      "from": 174.019,
+      "to": 175.099,
+      "sid": 91,
+      "location": 2,
+      "content": "And and we're making it",
+      "music": 0.0
+    },
+    {
+      "from": 175.099,
+      "to": 175.899,
+      "sid": 92,
+      "location": 2,
+      "content": "A nationwide thing",
+      "music": 0.0
+    },
+    {
+      "from": 175.899,
+      "to": 176.099,
+      "sid": 93,
+      "location": 2,
+      "content": "One",
+      "music": 0.0
+    },
+    {
+      "from": 176.099,
+      "to": 178.71,
+      "sid": 94,
+      "location": 2,
+      "content": "No buying is not in the history",
+      "music": 0.0
+    },
+    {
+      "from": 178.71,
+      "to": 179.71,
+      "sid": 95,
+      "location": 2,
+      "content": "Book of mississippi",
+      "music": 0.0
+    },
+    {
+      "from": 179.71,
+      "to": 181.35,
+      "sid": 96,
+      "location": 2,
+      "content": "Uis not in the history",
+      "music": 0.0
+    },
+    {
+      "from": 181.35,
+      "to": 182.47,
+      "sid": 97,
+      "location": 2,
+      "content": "Book of the country",
+      "music": 0.0
+    },
+    {
+      "from": 182.47,
+      "to": 186.61,
+      "sid": 98,
+      "location": 2,
+      "content": "U this country don't know about nbi",
+      "music": 0.0
+    },
+    {
+      "from": 186.61,
+      "to": 187.93,
+      "sid": 99,
+      "location": 2,
+      "content": "Talking about to six to some business",
+      "music": 0.0
+    },
+    {
+      "from": 187.93,
+      "to": 189.99,
+      "sid": 100,
+      "location": 2,
+      "content": "May one time wheroo",
+      "music": 0.0
+    },
+    {
+      "from": 189.99,
+      "to": 191.41,
+      "sid": 101,
+      "location": 2,
+      "content": "Sumpoo",
+      "music": 0.0
+    },
+    {
+      "from": 191.41,
+      "to": 193.66,
+      "sid": 102,
+      "location": 2,
+      "content": "Big smove bad people",
+      "music": 0.0
+    },
+    {
+      "from": 193.66,
+      "to": 196.66,
+      "sid": 103,
+      "location": 2,
+      "content": "The west hospital in the state of mississippi",
+      "music": 0.0
+    },
+    {
+      "from": 200.34,
+      "to": 202.58,
+      "sid": 104,
+      "location": 2,
+      "content": "And get so in the hospital",
+      "music": 0.0
+    },
+    {
+      "from": 202.58,
+      "to": 204.16,
+      "sid": 105,
+      "location": 2,
+      "content": "Build the hospital building this still here",
+      "music": 0.0
+    },
+    {
+      "from": 204.16,
+      "to": 207.66,
+      "sid": 106,
+      "location": 2,
+      "content": "But it's not operate make sure that all the memorals come in",
+      "music": 0.0
+    },
+    {
+      "from": 207.66,
+      "to": 208.84,
+      "sid": 107,
+      "location": 2,
+      "content": "At least three times",
+      "music": 0.0
+    },
+    {
+      "from": 208.84,
+      "to": 212.58,
+      "sid": 108,
+      "location": 2,
+      "content": "A year to check it out to see if there's anything wrong",
+      "music": 0.0
+    },
+    {
+      "from": 212.58,
+      "to": 213.58,
+      "sid": 109,
+      "location": 2,
+      "content": "If it's not anything wrong",
+      "music": 0.0
+    },
+    {
+      "from": 213.58,
+      "to": 215.62,
+      "sid": 110,
+      "location": 2,
+      "content": "We did they try to make sure that everything",
+      "music": 0.0
+    },
+    {
+      "from": 215.62,
+      "to": 218.6,
+      "sid": 111,
+      "location": 2,
+      "content": "You're going ong alright that that you're hoping you stay well",
+      "music": 0.0
+    },
+    {
+      "from": 218.6,
+      "to": 224.63,
+      "sid": 112,
+      "location": 2,
+      "content": "One time that stayed in three days when i got out everything paper",
+      "music": 0.04736841980609552
+    },
+    {
+      "from": 224.63,
+      "to": 227.93,
+      "sid": 113,
+      "location": 2,
+      "content": "But not only that they gave me one hundred dollars",
+      "music": 0.0
+    },
+    {
+      "from": 227.93,
+      "to": 228.63,
+      "sid": 114,
+      "location": 2,
+      "content": "When i got out",
+      "music": 0.0
+    },
+    {
+      "from": 228.63,
+      "to": 230.14,
+      "sid": 115,
+      "location": 2,
+      "content": "I talked good no",
+      "music": 0.0
+    },
+    {
+      "from": 230.14,
+      "to": 233.54,
+      "sid": 116,
+      "location": 2,
+      "content": "啥时they tell you to te春长大",
+      "music": 0.0
+    },
+    {
+      "from": 233.54,
+      "to": 236.44,
+      "sid": 117,
+      "location": 2,
+      "content": "But not this i will give me ho",
+      "music": 0.0
+    },
+    {
+      "from": 236.44,
+      "to": 237.76,
+      "sid": 118,
+      "location": 2,
+      "content": "he said啊",
+      "music": 0.0
+    },
+    {
+      "from": 237.76,
+      "to": 239.06,
+      "sid": 119,
+      "location": 2,
+      "content": "二宫的捍卫",
+      "music": 0.0
+    },
+    {
+      "from": 239.06,
+      "to": 241.02,
+      "sid": 120,
+      "location": 2,
+      "content": "Now by your jel of the dalter",
+      "music": 0.0
+    },
+    {
+      "from": 241.02,
+      "to": 242.22,
+      "sid": 121,
+      "location": 2,
+      "content": "Then no roswell give it",
+      "music": 0.0
+    },
+    {
+      "from": 242.22,
+      "to": 244.02,
+      "sid": 122,
+      "location": 2,
+      "content": "Their name a lot of people",
+      "music": 0.0
+    },
+    {
+      "from": 244.02,
+      "to": 246.82,
+      "sid": 123,
+      "location": 2,
+      "content": "A lot of people all around on boone",
+      "music": 0.0
+    },
+    {
+      "from": 246.82,
+      "to": 249.13,
+      "sid": 124,
+      "location": 2,
+      "content": "They found job",
+      "music": 0.0
+    },
+    {
+      "from": 249.13,
+      "to": 252.5,
+      "sid": 125,
+      "location": 2,
+      "content": "We need uh stop moving",
+      "music": 0.0
+    },
+    {
+      "from": 252.86,
+      "to": 254.08,
+      "sid": 126,
+      "location": 2,
+      "content": "And if they went to school",
+      "music": 0.0
+    },
+    {
+      "from": 254.08,
+      "to": 256.76,
+      "sid": 127,
+      "location": 2,
+      "content": "Somewhere a long time",
+      "music": 0.0
+    },
+    {
+      "from": 256.76,
+      "to": 260.66,
+      "sid": 128,
+      "location": 2,
+      "content": "They couldn't get a degree in a white school",
+      "music": 0.0
+    },
+    {
+      "from": 260.66,
+      "to": 263.05,
+      "sid": 129,
+      "location": 2,
+      "content": "Uyou regreed it u",
+      "music": 0.0
+    },
+    {
+      "from": 263.05,
+      "to": 265.51,
+      "sid": 130,
+      "location": 2,
+      "content": "Oh miss missippi state",
+      "music": 0.0
+    },
+    {
+      "from": 265.51,
+      "to": 266.77,
+      "sid": 131,
+      "location": 2,
+      "content": "All of white school",
+      "music": 0.0
+    },
+    {
+      "from": 268.41,
+      "to": 271.37,
+      "sid": 132,
+      "location": 2,
+      "content": "So they started to leaving mountain value",
+      "music": 0.0
+    },
+    {
+      "from": 271.37,
+      "to": 271.85,
+      "sid": 133,
+      "location": 2,
+      "content": "Especially",
+      "music": 0.0
+    },
+    {
+      "from": 271.85,
+      "to": 274.81,
+      "sid": 134,
+      "location": 2,
+      "content": "When they went to school and got educated looking for a job",
+      "music": 0.0
+    },
+    {
+      "from": 274.81,
+      "to": 276.59,
+      "sid": 135,
+      "location": 2,
+      "content": "Because there were no jobs in this area for them",
+      "music": 0.0
+    },
+    {
+      "from": 276.59,
+      "to": 278.99,
+      "sid": 136,
+      "location": 2,
+      "content": "But they didn't want to leave now about you",
+      "music": 0.0
+    },
+    {
+      "from": 278.99,
+      "to": 280.11,
+      "sid": 137,
+      "location": 2,
+      "content": "You look at margo",
+      "music": 0.0
+    },
+    {
+      "from": 280.11,
+      "to": 281.77,
+      "sid": 138,
+      "location": 2,
+      "content": "Marigo used to be a whole lot of boat",
+      "music": 0.0
+    },
+    {
+      "from": 281.77,
+      "to": 283.63,
+      "sid": 139,
+      "location": 2,
+      "content": "Go whole lot of boat live",
+      "music": 0.0
+    },
+    {
+      "from": 283.63,
+      "to": 286.09,
+      "sid": 140,
+      "location": 2,
+      "content": "Around on the bombs",
+      "music": 0.0
+    },
+    {
+      "from": 286.69,
+      "to": 289.039,
+      "sid": 141,
+      "location": 2,
+      "content": "No the bombs are not",
+      "music": 0.0
+    },
+    {
+      "from": 289.039,
+      "to": 291.699,
+      "sid": 142,
+      "location": 2,
+      "content": "They know they are mechanical kind picers",
+      "music": 0.050505047954301524
+    },
+    {
+      "from": 291.699,
+      "to": 293.059,
+      "sid": 143,
+      "location": 2,
+      "content": "And now let's go",
+      "music": 0.0
+    },
+    {
+      "from": 293.059,
+      "to": 297.06,
+      "sid": 144,
+      "location": 2,
+      "content": "So they need people to be around so people move to the cities",
+      "music": 0.0
+    },
+    {
+      "from": 297.06,
+      "to": 300.1,
+      "sid": 145,
+      "location": 2,
+      "content": "So that's why people in there and advises and people",
+      "music": 0.0
+    },
+    {
+      "from": 300.1,
+      "to": 301.98,
+      "sid": 146,
+      "location": 2,
+      "content": "Who have their businesses in love",
+      "music": 0.0
+    },
+    {
+      "from": 301.98,
+      "to": 304.76,
+      "sid": 147,
+      "location": 2,
+      "content": "And and and old people past the way",
+      "music": 0.0
+    },
+    {
+      "from": 304.76,
+      "to": 306.31,
+      "sid": 148,
+      "location": 2,
+      "content": "He finished went down",
+      "music": 0.0
+    },
+    {
+      "from": 306.31,
+      "to": 307.31,
+      "sid": 149,
+      "location": 2,
+      "content": "Oh you see",
+      "music": 0.0
+    },
+    {
+      "from": 307.31,
+      "to": 307.79,
+      "sid": 150,
+      "location": 2,
+      "content": "Go around you",
+      "music": 0.0
+    },
+    {
+      "from": 307.79,
+      "to": 308.61,
+      "sid": 151,
+      "location": 2,
+      "content": "See hold on",
+      "music": 0.0
+    },
+    {
+      "from": 308.61,
+      "to": 310.11,
+      "sid": 152,
+      "location": 2,
+      "content": "Get go home and tone down",
+      "music": 0.0
+    },
+    {
+      "from": 310.11,
+      "to": 311.72,
+      "sid": 153,
+      "location": 2,
+      "content": "And get the suthat tn down",
+      "music": 0.0
+    },
+    {
+      "from": 316.46,
+      "to": 318.64,
+      "sid": 154,
+      "location": 2,
+      "content": "But plantation to be white",
+      "music": 0.0
+    },
+    {
+      "from": 318.64,
+      "to": 319.2,
+      "sid": 155,
+      "location": 2,
+      "content": "Plantation",
+      "music": 0.0
+    },
+    {
+      "from": 319.2,
+      "to": 325.09,
+      "sid": 156,
+      "location": 2,
+      "content": "Owner always figure out a way to try to maneuver",
+      "music": 0.03278688435008615
+    },
+    {
+      "from": 325.09,
+      "to": 325.91,
+      "sid": 157,
+      "location": 2,
+      "content": "The land",
+      "music": 0.0
+    },
+    {
+      "from": 328.05,
+      "to": 330.05,
+      "sid": 158,
+      "location": 2,
+      "content": "And he did that in a whole lot of even the fellow",
+      "music": 0.0
+    },
+    {
+      "from": 330.05,
+      "to": 332.55,
+      "sid": 159,
+      "location": 2,
+      "content": "Government participated in it",
+      "music": 0.0
+    },
+    {
+      "from": 334.03,
+      "to": 335.73,
+      "sid": 160,
+      "location": 2,
+      "content": "Even though they had a whole other land for a",
+      "music": 0.0
+    },
+    {
+      "from": 335.73,
+      "to": 337.72,
+      "sid": 161,
+      "location": 2,
+      "content": "While there you",
+      "music": 0.0
+    },
+    {
+      "from": 337.72,
+      "to": 338.98,
+      "sid": 162,
+      "location": 2,
+      "content": "You might be promise",
+      "music": 0.0
+    },
+    {
+      "from": 338.98,
+      "to": 343.0,
+      "sid": 163,
+      "location": 2,
+      "content": "Started the manure away to take their land about tell us",
+      "music": 0.0
+    },
+    {
+      "from": 343.0,
+      "to": 343.8,
+      "sid": 164,
+      "location": 2,
+      "content": "Oklahoma",
+      "music": 0.0
+    },
+    {
+      "from": 343.8,
+      "to": 345.12,
+      "sid": 165,
+      "location": 2,
+      "content": "Some of the book has started here",
+      "music": 0.0
+    },
+    {
+      "from": 345.12,
+      "to": 345.76,
+      "sid": 166,
+      "location": 2,
+      "content": "But they did real",
+      "music": 0.0
+    },
+    {
+      "from": 345.76,
+      "to": 346.32,
+      "sid": 167,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 346.32,
+      "to": 348.22,
+      "sid": 168,
+      "location": 2,
+      "content": "And white book bn it out",
+      "music": 0.0
+    },
+    {
+      "from": 348.22,
+      "to": 349.02,
+      "sid": 169,
+      "location": 2,
+      "content": "Now",
+      "music": 0.0
+    },
+    {
+      "from": 350.02,
+      "to": 352.78,
+      "sid": 170,
+      "location": 2,
+      "content": "It wasn't too about a hundred years later",
+      "music": 0.0
+    },
+    {
+      "from": 352.78,
+      "to": 354.78,
+      "sid": 171,
+      "location": 2,
+      "content": "That the white people who wanted you to know",
+      "music": 0.0
+    },
+    {
+      "from": 354.78,
+      "to": 355.74,
+      "sid": 172,
+      "location": 2,
+      "content": "What had happened",
+      "music": 0.0
+    },
+    {
+      "from": 355.74,
+      "to": 357.26,
+      "sid": 173,
+      "location": 2,
+      "content": "Because they they weren't even talked about too",
+      "music": 0.0
+    },
+    {
+      "from": 357.26,
+      "to": 359.83,
+      "sid": 174,
+      "location": 2,
+      "content": "Much a lot of people didn't know about then",
+      "music": 0.0
+    },
+    {
+      "from": 359.83,
+      "to": 361.89,
+      "sid": 175,
+      "location": 2,
+      "content": "They don't talk about two ways that",
+      "music": 0.0
+    },
+    {
+      "from": 361.89,
+      "to": 363.63,
+      "sid": 176,
+      "location": 2,
+      "content": "You tried in a lot of different ways to give it",
+      "music": 0.0
+    },
+    {
+      "from": 363.63,
+      "to": 364.35,
+      "sid": 177,
+      "location": 2,
+      "content": "A hard body",
+      "music": 0.0
+    },
+    {
+      "from": 364.35,
+      "to": 365.76,
+      "sid": 178,
+      "location": 2,
+      "content": "You don't talk about that",
+      "music": 0.0
+    },
+    {
+      "from": 365.76,
+      "to": 366.48,
+      "sid": 179,
+      "location": 2,
+      "content": "Now",
+      "music": 0.0
+    },
+    {
+      "from": 366.48,
+      "to": 369.48,
+      "sid": 180,
+      "location": 2,
+      "content": "My pen didn't want you to teach ui",
+      "music": 0.0
+    },
+    {
+      "from": 369.48,
+      "to": 373.16,
+      "sid": 181,
+      "location": 2,
+      "content": "Call school for about three four years",
+      "music": 0.0
+    },
+    {
+      "from": 373.16,
+      "to": 374.56,
+      "sid": 182,
+      "location": 2,
+      "content": "I'm over about four five years",
+      "music": 0.0
+    },
+    {
+      "from": 374.56,
+      "to": 375.26,
+      "sid": 183,
+      "location": 2,
+      "content": "Really",
+      "music": 0.0
+    },
+    {
+      "from": 375.26,
+      "to": 378.11,
+      "sid": 184,
+      "location": 2,
+      "content": "And i was teaching elementary education",
+      "music": 0.0
+    },
+    {
+      "from": 378.11,
+      "to": 380.59,
+      "sid": 185,
+      "location": 2,
+      "content": "But the white superturner found out that",
+      "music": 0.0
+    },
+    {
+      "from": 380.59,
+      "to": 383.64,
+      "sid": 186,
+      "location": 2,
+      "content": "I was teaching black history to somebody's door",
+      "music": 0.0
+    },
+    {
+      "from": 383.64,
+      "to": 385.4,
+      "sid": 187,
+      "location": 2,
+      "content": "So we didn't know about the ancestors",
+      "music": 0.0
+    },
+    {
+      "from": 385.4,
+      "to": 386.56,
+      "sid": 188,
+      "location": 2,
+      "content": "We tend to burn out about it",
+      "music": 0.0
+    },
+    {
+      "from": 386.56,
+      "to": 387.5,
+      "sid": 189,
+      "location": 2,
+      "content": "And he find me",
+      "music": 0.0
+    },
+    {
+      "from": 387.5,
+      "to": 390.98,
+      "sid": 190,
+      "location": 2,
+      "content": "And i understand when the clan came in you to burn mile by now",
+      "music": 0.0
+    },
+    {
+      "from": 390.98,
+      "to": 393.85,
+      "sid": 191,
+      "location": 2,
+      "content": "Somebody has found out about the nepal likes up",
+      "music": 0.0
+    },
+    {
+      "from": 393.85,
+      "to": 396.89,
+      "sid": 192,
+      "location": 2,
+      "content": "But they are they've tried other ways to try to destroy",
+      "music": 0.0
+    },
+    {
+      "from": 396.89,
+      "to": 397.45,
+      "sid": 193,
+      "location": 2,
+      "content": "Mountain value",
+      "music": 0.0
+    },
+    {
+      "from": 397.45,
+      "to": 398.65,
+      "sid": 194,
+      "location": 2,
+      "content": "And we still survive it",
+      "music": 0.0
+    },
+    {
+      "from": 398.65,
+      "to": 401.05,
+      "sid": 195,
+      "location": 2,
+      "content": "All i'm saying there are some people who don't like us",
+      "music": 0.0
+    },
+    {
+      "from": 404.71,
+      "to": 405.53,
+      "sid": 196,
+      "location": 2,
+      "content": "Even know about the history",
+      "music": 0.0
+    },
+    {
+      "from": 405.53,
+      "to": 406.05,
+      "sid": 197,
+      "location": 2,
+      "content": "You know about that",
+      "music": 0.0
+    },
+    {
+      "from": 406.05,
+      "to": 408.93,
+      "sid": 198,
+      "location": 2,
+      "content": "You know about the governor fraud turn",
+      "music": 0.0
+    },
+    {
+      "from": 408.93,
+      "to": 409.81,
+      "sid": 199,
+      "location": 2,
+      "content": "Take black his drivers",
+      "music": 0.03409090521697636
+    },
+    {
+      "from": 409.81,
+      "to": 411.07,
+      "sid": 200,
+      "location": 2,
+      "content": "Who you know about that",
+      "music": 0.19540227639056024
+    },
+    {
+      "from": 411.07,
+      "to": 411.49,
+      "sid": 201,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 411.49,
+      "to": 412.47,
+      "sid": 202,
+      "location": 2,
+      "content": "I just don't like",
+      "music": 0.0
+    },
+    {
+      "from": 416.01,
+      "to": 419.45,
+      "sid": 203,
+      "location": 2,
+      "content": "And there now we can we should all live together",
+      "music": 0.0
+    },
+    {
+      "from": 419.45,
+      "to": 421.82,
+      "sid": 204,
+      "location": 2,
+      "content": "We did better probably some white fo",
+      "music": 0.0
+    },
+    {
+      "from": 421.82,
+      "to": 424.38,
+      "sid": 205,
+      "location": 2,
+      "content": "They don't like the idea of mount by being here now",
+      "music": 0.0
+    },
+    {
+      "from": 424.38,
+      "to": 427.26,
+      "sid": 206,
+      "location": 2,
+      "content": "The reason for that was we had the best grade of cutting in the world",
+      "music": 0.0
+    },
+    {
+      "from": 427.26,
+      "to": 428.11,
+      "sid": 207,
+      "location": 2,
+      "content": "U",
+      "music": 0.0
+    },
+    {
+      "from": 428.11,
+      "to": 430.99,
+      "sid": 208,
+      "location": 2,
+      "content": "我要take your phone and",
+      "music": 0.0
+    },
+    {
+      "from": 435.32,
+      "to": 436.72,
+      "sid": 209,
+      "location": 2,
+      "content": "Hey hey",
+      "music": 0.0
+    },
+    {
+      "from": 436.72,
+      "to": 437.42,
+      "sid": 210,
+      "location": 2,
+      "content": "How you doing",
+      "music": 0.0
+    },
+    {
+      "from": 437.42,
+      "to": 438.52,
+      "sid": 211,
+      "location": 2,
+      "content": "I'm doing good",
+      "music": 0.0
+    },
+    {
+      "from": 438.52,
+      "to": 440.32,
+      "sid": 212,
+      "location": 2,
+      "content": "I'm my over to the museum",
+      "music": 0.0
+    },
+    {
+      "from": 440.32,
+      "to": 443.71,
+      "sid": 213,
+      "location": 2,
+      "content": "I'm talking to somebody from my way from chinaman",
+      "music": 0.0
+    },
+    {
+      "from": 443.71,
+      "to": 445.51,
+      "sid": 214,
+      "location": 2,
+      "content": "I'm just talking about my moyeah turn",
+      "music": 0.0
+    },
+    {
+      "from": 445.51,
+      "to": 445.71,
+      "sid": 215,
+      "location": 2,
+      "content": "Him",
+      "music": 0.0
+    },
+    {
+      "from": 445.71,
+      "to": 447.21,
+      "sid": 216,
+      "location": 2,
+      "content": "Know that about this remembabout",
+      "music": 0.0
+    },
+    {
+      "from": 447.21,
+      "to": 447.89,
+      "sid": 217,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 447.89,
+      "to": 449.27,
+      "sid": 218,
+      "location": 2,
+      "content": "Bi talk to you late on her",
+      "music": 0.0
+    },
+    {
+      "from": 449.27,
+      "to": 451.09,
+      "sid": 219,
+      "location": 2,
+      "content": "Don't you take care lease for cold",
+      "music": 0.0
+    },
+    {
+      "from": 451.09,
+      "to": 451.98,
+      "sid": 220,
+      "location": 2,
+      "content": "Very ok",
+      "music": 0.0
+    },
+    {
+      "from": 451.98,
+      "to": 455.14,
+      "sid": 221,
+      "location": 2,
+      "content": "我那天差不多跟老爷爷坐着聊了一个多小时",
+      "music": 0.0
+    },
+    {
+      "from": 455.14,
+      "to": 456.7,
+      "sid": 222,
+      "location": 2,
+      "content": "平时这边很少有外人",
+      "music": 0.0
+    },
+    {
+      "from": 456.7,
+      "to": 458.76,
+      "sid": 223,
+      "location": 2,
+      "content": "尤其是像我这样的亚洲人过来",
+      "music": 0.0
+    },
+    {
+      "from": 458.76,
+      "to": 460.79,
+      "sid": 224,
+      "location": 2,
+      "content": "他们对我都是非常的热情",
+      "music": 0.0
+    },
+    {
+      "from": 460.79,
+      "to": 462.03,
+      "sid": 225,
+      "location": 2,
+      "content": "而且可以看得出来",
+      "music": 0.0
+    },
+    {
+      "from": 462.03,
+      "to": 465.03,
+      "sid": 226,
+      "location": 2,
+      "content": "他们真的很想让小镇的历史让更多人知道",
+      "music": 0.0
+    },
+    {
+      "from": 465.03,
+      "to": 465.59,
+      "sid": 227,
+      "location": 2,
+      "content": "之后",
+      "music": 0.0
+    },
+    {
+      "from": 465.59,
+      "to": 466.99,
+      "sid": 228,
+      "location": 2,
+      "content": "大爷的大儿子也是",
+      "music": 0.0
+    },
+    {
+      "from": 466.99,
+      "to": 469.03,
+      "sid": 229,
+      "location": 2,
+      "content": "片头那个视频里面露脸的小真牧师",
+      "music": 0.0
+    },
+    {
+      "from": 469.03,
+      "to": 470.63,
+      "sid": 230,
+      "location": 2,
+      "content": "也跑来跟我打了个招呼",
+      "music": 0.0
+    },
+    {
+      "from": 470.63,
+      "to": 473.39,
+      "sid": 231,
+      "location": 2,
+      "content": "最后放两个我觉得有点搞笑的瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 473.39,
+      "to": 475.63,
+      "sid": 232,
+      "location": 2,
+      "content": "第一个是他们这边厕所的门上面贴了",
+      "music": 0.0
+    },
+    {
+      "from": 475.63,
+      "to": 477.27,
+      "sid": 233,
+      "location": 2,
+      "content": "只有有色人种才能进入",
+      "music": 0.0
+    },
+    {
+      "from": 477.27,
+      "to": 479.02,
+      "sid": 234,
+      "location": 2,
+      "content": "而白日不行的牌子",
+      "music": 0.0
+    },
+    {
+      "from": 479.02,
+      "to": 481.94,
+      "sid": 235,
+      "location": 2,
+      "content": "Did you see it all the white only is kind of funny",
+      "music": 0.0
+    },
+    {
+      "from": 487.18,
+      "to": 488.72,
+      "sid": 236,
+      "location": 2,
+      "content": "逛完博物馆之后",
+      "music": 0.0
+    },
+    {
+      "from": 488.72,
+      "to": 491.34,
+      "sid": 237,
+      "location": 2,
+      "content": "老爷爷让我跟着他的车逛一逛小镇",
+      "music": 0.0
+    },
+    {
+      "from": 491.34,
+      "to": 493.42,
+      "sid": 238,
+      "location": 2,
+      "content": "我还去看了一下他住的地方",
+      "music": 0.0
+    },
+    {
+      "from": 493.42,
+      "to": 495.58,
+      "sid": 239,
+      "location": 2,
+      "content": "最后我们就在这个路口分别了",
+      "music": 0.0
+    },
+    {
+      "from": 495.58,
+      "to": 496.02,
+      "sid": 240,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 496.02,
+      "to": 497.18,
+      "sid": 241,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 497.18,
+      "to": 500.34,
+      "sid": 242,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

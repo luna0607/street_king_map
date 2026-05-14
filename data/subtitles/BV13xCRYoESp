@@ -1,0 +1,1380 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 1.6,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国密西西比州",
+      "music": 0.0
+    },
+    {
+      "from": 1.6,
+      "to": 2.96,
+      "sid": 2,
+      "location": 2,
+      "content": "一个叫兰伯特的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 2.96,
+      "to": 4.08,
+      "sid": 3,
+      "location": 2,
+      "content": "原先的镇中心",
+      "music": 0.0
+    },
+    {
+      "from": 4.08,
+      "to": 6.48,
+      "sid": 4,
+      "location": 2,
+      "content": "这些沿街店铺看样子都废弃了",
+      "music": 0.0
+    },
+    {
+      "from": 6.48,
+      "to": 7.2,
+      "sid": 5,
+      "location": 2,
+      "content": "拉波特",
+      "music": 0.0
+    },
+    {
+      "from": 7.2,
+      "to": 10.12,
+      "sid": 6,
+      "location": 2,
+      "content": "位于美国最贫穷的密西西比河三角洲地区",
+      "music": 0.0
+    },
+    {
+      "from": 10.12,
+      "to": 12.36,
+      "sid": 7,
+      "location": 2,
+      "content": "这边原先都是棉花地和种植园",
+      "music": 0.0
+    },
+    {
+      "from": 12.36,
+      "to": 14.97,
+      "sid": 8,
+      "location": 2,
+      "content": "也是当年黑人老公最集中的地区",
+      "music": 0.0
+    },
+    {
+      "from": 14.97,
+      "to": 16.81,
+      "sid": 9,
+      "location": 2,
+      "content": "2020年人口普查显示",
+      "music": 0.0
+    },
+    {
+      "from": 16.81,
+      "to": 19.11,
+      "sid": 10,
+      "location": 2,
+      "content": "这里总共有1273个人",
+      "music": 0.0
+    },
+    {
+      "from": 19.11,
+      "to": 21.61,
+      "sid": 11,
+      "location": 2,
+      "content": "比起2010年减少了22%",
+      "music": 0.0
+    },
+    {
+      "from": 21.61,
+      "to": 23.39,
+      "sid": 12,
+      "location": 2,
+      "content": "其中92%是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 23.39,
+      "to": 24.91,
+      "sid": 13,
+      "location": 2,
+      "content": "5%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 24.91,
+      "to": 26.85,
+      "sid": 14,
+      "location": 2,
+      "content": "人均收入是1万7",
+      "music": 0.0
+    },
+    {
+      "from": 26.85,
+      "to": 28.25,
+      "sid": 15,
+      "location": 2,
+      "content": "29%的人",
+      "music": 0.0
+    },
+    {
+      "from": 28.25,
+      "to": 29.43,
+      "sid": 16,
+      "location": 2,
+      "content": "位于贫困线以下",
+      "music": 0.0
+    },
+    {
+      "from": 29.43,
+      "to": 32.77,
+      "sid": 17,
+      "location": 2,
+      "content": "这边房子的中位数价格是5万4900美元",
+      "music": 0.0
+    },
+    {
+      "from": 32.77,
+      "to": 35.42,
+      "sid": 18,
+      "location": 2,
+      "content": "这边刷败的最大原因是机械化的普及",
+      "music": 0.0
+    },
+    {
+      "from": 35.42,
+      "to": 37.86,
+      "sid": 19,
+      "location": 2,
+      "content": "大部分的农业工作都不再需要人工了",
+      "music": 0.0
+    },
+    {
+      "from": 37.86,
+      "to": 40.14,
+      "sid": 20,
+      "location": 2,
+      "content": "因此像兰伯特和我之后要去的几个",
+      "music": 0.0
+    },
+    {
+      "from": 40.14,
+      "to": 42.96,
+      "sid": 21,
+      "location": 2,
+      "content": "密西西比河三角洲的农业小镇都非常的衰败",
+      "music": 0.0
+    },
+    {
+      "from": 42.96,
+      "to": 44.57,
+      "sid": 22,
+      "location": 2,
+      "content": "由于本地找不到工作",
+      "music": 0.0
+    },
+    {
+      "from": 44.57,
+      "to": 46.97,
+      "sid": 23,
+      "location": 2,
+      "content": "原先从事农业的黑人都被迫北上",
+      "music": 0.0
+    },
+    {
+      "from": 46.97,
+      "to": 48.66,
+      "sid": 24,
+      "location": 2,
+      "content": "去大城市里面找机会",
+      "music": 0.0
+    },
+    {
+      "from": 48.66,
+      "to": 50.46,
+      "sid": 25,
+      "location": 2,
+      "content": "而原先的那些白人农场主",
+      "music": 0.0
+    },
+    {
+      "from": 50.46,
+      "to": 52.74,
+      "sid": 26,
+      "location": 2,
+      "content": "只是把人力成本换成了机械成本",
+      "music": 0.0
+    },
+    {
+      "from": 52.74,
+      "to": 54.5,
+      "sid": 27,
+      "location": 2,
+      "content": "他们依旧是非常的富裕",
+      "music": 0.0
+    },
+    {
+      "from": 57.38,
+      "to": 59.52,
+      "sid": 28,
+      "location": 2,
+      "content": "现在我来镇上唯一的加油站看一看",
+      "music": 0.0
+    },
+    {
+      "from": 59.52,
+      "to": 62.16,
+      "sid": 29,
+      "location": 2,
+      "content": "这边除了他只有一家一元店可以买水",
+      "music": 0.0
+    },
+    {
+      "from": 62.16,
+      "to": 64.68,
+      "sid": 30,
+      "location": 2,
+      "content": "而这家加油站其实是一个中东人开的",
+      "music": 0.0
+    },
+    {
+      "from": 64.68,
+      "to": 65.98,
+      "sid": 31,
+      "location": 2,
+      "content": "现在我一路向北",
+      "music": 0.0
+    },
+    {
+      "from": 65.98,
+      "to": 68.72,
+      "sid": 32,
+      "location": 2,
+      "content": "来到了兰伯特所在的QUITMAN县的县城",
+      "music": 0.0
+    },
+    {
+      "from": 68.72,
+      "to": 71.12,
+      "sid": 33,
+      "location": 2,
+      "content": "马克思这边是71%",
+      "music": 0.0
+    },
+    {
+      "from": 71.12,
+      "to": 71.58,
+      "sid": 34,
+      "location": 2,
+      "content": "黑人",
+      "music": 0.0
+    },
+    {
+      "from": 71.58,
+      "to": 72.4,
+      "sid": 35,
+      "location": 2,
+      "content": "26%",
+      "music": 0.0
+    },
+    {
+      "from": 72.4,
+      "to": 74.36,
+      "sid": 36,
+      "location": 2,
+      "content": "白人一共1400人",
+      "music": 0.0
+    },
+    {
+      "from": 74.36,
+      "to": 76.76,
+      "sid": 37,
+      "location": 2,
+      "content": "不知道大家还记不记得QUITMAN这个名字",
+      "music": 0.0
+    },
+    {
+      "from": 76.76,
+      "to": 79.6,
+      "sid": 38,
+      "location": 2,
+      "content": "之前开小卖部的那个黑人大哥上班的村子",
+      "music": 0.0
+    },
+    {
+      "from": 79.6,
+      "to": 81.11,
+      "sid": 39,
+      "location": 2,
+      "content": "也是在这个QUITMAN县",
+      "music": 0.0
+    },
+    {
+      "from": 81.11,
+      "to": 83.61,
+      "sid": 40,
+      "location": 2,
+      "content": "马克思这个小镇因为两件事情而闻名",
+      "music": 0.0
+    },
+    {
+      "from": 83.61,
+      "to": 85.21,
+      "sid": 41,
+      "location": 2,
+      "content": "第一是这边的贫穷",
+      "music": 0.0
+    },
+    {
+      "from": 85.21,
+      "to": 86.91,
+      "sid": 42,
+      "location": 2,
+      "content": "在1968年3月",
+      "music": 0.0
+    },
+    {
+      "from": 86.91,
+      "to": 89.02,
+      "sid": 43,
+      "location": 2,
+      "content": "马丁路德金特地造访过这里",
+      "music": 0.0
+    },
+    {
+      "from": 89.02,
+      "to": 91.02,
+      "sid": 44,
+      "location": 2,
+      "content": "他看到这边的黑人小学生的午饭",
+      "music": 0.0
+    },
+    {
+      "from": 91.02,
+      "to": 93.42,
+      "sid": 45,
+      "location": 2,
+      "content": "只有一小片苹果和几块饼干",
+      "music": 0.0
+    },
+    {
+      "from": 93.42,
+      "to": 95.04,
+      "sid": 46,
+      "location": 2,
+      "content": "他非常心痛的哭了",
+      "music": 0.0
+    },
+    {
+      "from": 95.04,
+      "to": 97.48,
+      "sid": 47,
+      "location": 2,
+      "content": "第二就是这边学校里面的种族隔离",
+      "music": 0.0
+    },
+    {
+      "from": 97.48,
+      "to": 100.16,
+      "sid": 48,
+      "location": 2,
+      "content": "在强制解除法律上的种族隔离之后",
+      "music": 0.0
+    },
+    {
+      "from": 100.16,
+      "to": 102.49,
+      "sid": 49,
+      "location": 2,
+      "content": "本地的白人们建立一个私立学校",
+      "music": 0.0
+    },
+    {
+      "from": 102.49,
+      "to": 104.73,
+      "sid": 50,
+      "location": 2,
+      "content": "目前这个学校里面是84%",
+      "music": 0.0
+    },
+    {
+      "from": 104.73,
+      "to": 105.15,
+      "sid": 51,
+      "location": 2,
+      "content": "白人",
+      "music": 0.0
+    },
+    {
+      "from": 105.15,
+      "to": 106.37,
+      "sid": 52,
+      "location": 2,
+      "content": "10%黑人",
+      "music": 0.0
+    },
+    {
+      "from": 106.37,
+      "to": 109.61,
+      "sid": 53,
+      "location": 2,
+      "content": "而马克思现在的公立学校99%是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 109.61,
+      "to": 110.61,
+      "sid": 54,
+      "location": 2,
+      "content": "只有1%",
+      "music": 0.0
+    },
+    {
+      "from": 110.61,
+      "to": 112.47,
+      "sid": 55,
+      "location": 2,
+      "content": "也就是四个学生是白人",
+      "music": 0.0
+    },
+    {
+      "from": 112.47,
+      "to": 114.6,
+      "sid": 56,
+      "location": 2,
+      "content": "如果把所有的学生加在一起",
+      "music": 0.0
+    },
+    {
+      "from": 114.6,
+      "to": 116.88,
+      "sid": 57,
+      "location": 2,
+      "content": "应该是29%是白人学生",
+      "music": 0.0
+    },
+    {
+      "from": 116.88,
+      "to": 118.74,
+      "sid": 58,
+      "location": 2,
+      "content": "69%是黑人学生",
+      "music": 0.0
+    },
+    {
+      "from": 118.74,
+      "to": 121.39,
+      "sid": 59,
+      "location": 2,
+      "content": "我还去找了一下这边私立学校的脸书",
+      "music": 0.0
+    },
+    {
+      "from": 121.39,
+      "to": 123.21,
+      "sid": 60,
+      "location": 2,
+      "content": "这个就是他们拍的毕业照",
+      "music": 0.0
+    },
+    {
+      "from": 123.21,
+      "to": 123.95,
+      "sid": 61,
+      "location": 2,
+      "content": "很难想象",
+      "music": 0.0
+    },
+    {
+      "from": 123.95,
+      "to": 126.63,
+      "sid": 62,
+      "location": 2,
+      "content": "在一个71%是黑人的镇子上面",
+      "music": 0.0
+    },
+    {
+      "from": 126.63,
+      "to": 128.75,
+      "sid": 63,
+      "location": 2,
+      "content": "可以有一所这么白的学校",
+      "music": 0.0
+    },
+    {
+      "from": 128.75,
+      "to": 132.09,
+      "sid": 64,
+      "location": 2,
+      "content": "而这个学校的脸书主页的头像还带有南方旗",
+      "music": 0.0
+    },
+    {
+      "from": 132.09,
+      "to": 134.5,
+      "sid": 65,
+      "location": 2,
+      "content": "现在我去马克思的麦当劳看一看",
+      "music": 0.0
+    },
+    {
+      "from": 134.5,
+      "to": 135.82,
+      "sid": 66,
+      "location": 2,
+      "content": "白日甚至都不怎么来",
+      "music": 0.0
+    },
+    {
+      "from": 135.82,
+      "to": 137.12,
+      "sid": 67,
+      "location": 2,
+      "content": "马克思小镇里面",
+      "music": 0.0
+    },
+    {
+      "from": 137.12,
+      "to": 139.8,
+      "sid": 68,
+      "location": 2,
+      "content": "他们一般都住在野外的大庄园里面",
+      "music": 0.0
+    },
+    {
+      "from": 139.8,
+      "to": 142.64,
+      "sid": 69,
+      "location": 2,
+      "content": "在从马克思去他西北边求斯顿的路上",
+      "music": 0.0
+    },
+    {
+      "from": 142.64,
+      "to": 144.88,
+      "sid": 70,
+      "location": 2,
+      "content": "我看到不少带锁的别墅区",
+      "music": 0.0
+    },
+    {
+      "from": 144.88,
+      "to": 147.26,
+      "sid": 71,
+      "location": 2,
+      "content": "里面一个个房子都是超级大",
+      "music": 0.0
+    },
+    {
+      "from": 147.26,
+      "to": 149.86,
+      "sid": 72,
+      "location": 2,
+      "content": "我猜都是那些白人农场主住的地方",
+      "music": 0.0
+    },
+    {
+      "from": 149.86,
+      "to": 152.84,
+      "sid": 73,
+      "location": 2,
+      "content": "我现在要去的琼斯敦是一个很独特的地方",
+      "music": 0.0
+    },
+    {
+      "from": 152.84,
+      "to": 155.07,
+      "sid": 74,
+      "location": 2,
+      "content": "这边曾经有过一个华人镇长",
+      "music": 0.0
+    },
+    {
+      "from": 155.07,
+      "to": 156.27,
+      "sid": 75,
+      "location": 2,
+      "content": "曾经的密西西比州",
+      "music": 0.0
+    },
+    {
+      "from": 156.27,
+      "to": 159.01,
+      "sid": 76,
+      "location": 2,
+      "content": "每个黑人小镇都会有一家华人开的超市",
+      "music": 0.0
+    },
+    {
+      "from": 159.01,
+      "to": 160.99,
+      "sid": 77,
+      "location": 2,
+      "content": "不过现在他们基本上都关掉了",
+      "music": 0.0
+    },
+    {
+      "from": 160.99,
+      "to": 161.35,
+      "sid": 78,
+      "location": 2,
+      "content": "之后",
+      "music": 0.0
+    },
+    {
+      "from": 161.35,
+      "to": 163.89,
+      "sid": 79,
+      "location": 2,
+      "content": "我会出一期有关于这些华人的历史",
+      "music": 0.0
+    },
+    {
+      "from": 163.89,
+      "to": 165.73,
+      "sid": 80,
+      "location": 2,
+      "content": "琼斯敦目前是98%",
+      "music": 0.0
+    },
+    {
+      "from": 165.73,
+      "to": 169.19,
+      "sid": 81,
+      "location": 2,
+      "content": "黑人这边的房子比开头的兰伯特还要便宜",
+      "music": 0.0
+    },
+    {
+      "from": 169.19,
+      "to": 171.59,
+      "sid": 82,
+      "location": 2,
+      "content": "4万5000美元即可入手一套",
+      "music": 0.0
+    },
+    {
+      "from": 171.59,
+      "to": 174.86,
+      "sid": 83,
+      "location": 2,
+      "content": "现在我去他们镇上唯一开着的杂货店看一看",
+      "music": 0.0
+    },
+    {
+      "from": 194.18,
+      "to": 195.3,
+      "sid": 84,
+      "location": 2,
+      "content": "老板人很好",
+      "music": 0.0
+    },
+    {
+      "from": 195.3,
+      "to": 198.24,
+      "sid": 85,
+      "location": 2,
+      "content": "给我指了指原先华人镇长的杂货店在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 198.24,
+      "to": 199.7,
+      "sid": 86,
+      "location": 2,
+      "content": "曾经这个老华人的弟弟",
+      "music": 0.0
+    },
+    {
+      "from": 199.7,
+      "to": 202.22,
+      "sid": 87,
+      "location": 2,
+      "content": "还在隔壁的斯莱奇小镇做镇长",
+      "music": 0.0
+    },
+    {
+      "from": 202.22,
+      "to": 205.1,
+      "sid": 88,
+      "location": 2,
+      "content": "就是小卖部老哥开店那一期的小吃",
+      "music": 0.0
+    },
+    {
+      "from": 205.1,
+      "to": 206.8,
+      "sid": 89,
+      "location": 2,
+      "content": "You you traveling by yourself",
+      "music": 0.11842104484072442
+    },
+    {
+      "from": 206.8,
+      "to": 207.42,
+      "sid": 90,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 207.42,
+      "to": 209.22,
+      "sid": 91,
+      "location": 2,
+      "content": "I know the feelon where you going",
+      "music": 0.0
+    },
+    {
+      "from": 209.22,
+      "to": 210.2,
+      "sid": 92,
+      "location": 2,
+      "content": "Don't do too much",
+      "music": 0.0
+    },
+    {
+      "from": 210.2,
+      "to": 210.94,
+      "sid": 93,
+      "location": 2,
+      "content": "Now",
+      "music": 0.0
+    },
+    {
+      "from": 210.94,
+      "to": 212.4,
+      "sid": 94,
+      "location": 2,
+      "content": "You don't do too much",
+      "music": 0.0
+    },
+    {
+      "from": 212.4,
+      "to": 213.56,
+      "sid": 95,
+      "location": 2,
+      "content": "No show too much",
+      "music": 0.0
+    },
+    {
+      "from": 213.56,
+      "to": 215.42,
+      "sid": 96,
+      "location": 2,
+      "content": "Not all that not me",
+      "music": 0.0
+    },
+    {
+      "from": 215.42,
+      "to": 216.1,
+      "sid": 97,
+      "location": 2,
+      "content": "I'm not gonna",
+      "music": 0.0
+    },
+    {
+      "from": 216.1,
+      "to": 218.04,
+      "sid": 98,
+      "location": 2,
+      "content": "Do that you don't want to give too much",
+      "music": 0.0
+    },
+    {
+      "from": 218.04,
+      "to": 219.38,
+      "sid": 99,
+      "location": 2,
+      "content": "Just my old town",
+      "music": 0.0
+    },
+    {
+      "from": 219.38,
+      "to": 220.0,
+      "sid": 100,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 220.0,
+      "to": 221.24,
+      "sid": 101,
+      "location": 2,
+      "content": "Know me too friend",
+      "music": 0.0
+    },
+    {
+      "from": 221.24,
+      "to": 223.22,
+      "sid": 102,
+      "location": 2,
+      "content": "He is my bly dangers",
+      "music": 0.09090908631771247
+    },
+    {
+      "from": 223.22,
+      "to": 224.2,
+      "sid": 103,
+      "location": 2,
+      "content": "那有一说一",
+      "music": 0.0
+    },
+    {
+      "from": 224.2,
+      "to": 225.68,
+      "sid": 104,
+      "location": 2,
+      "content": "我跟这个大哥很有缘分",
+      "music": 0.0
+    },
+    {
+      "from": 225.68,
+      "to": 227.38,
+      "sid": 105,
+      "location": 2,
+      "content": "第二天我在这个大一点的镇",
+      "music": 0.0
+    },
+    {
+      "from": 227.38,
+      "to": 230.16,
+      "sid": 106,
+      "location": 2,
+      "content": "克莱克斯戴尔的华人超市里面还遇到了他",
+      "music": 0.0
+    },
+    {
+      "from": 230.16,
+      "to": 231.99,
+      "sid": 107,
+      "location": 2,
+      "content": "当然这个是后话了",
+      "music": 0.0
+    },
+    {
+      "from": 231.99,
+      "to": 233.43,
+      "sid": 108,
+      "location": 2,
+      "content": "离开了琼斯顿之后",
+      "music": 0.0
+    },
+    {
+      "from": 233.43,
+      "to": 235.01,
+      "sid": 109,
+      "location": 2,
+      "content": "我继续向西前进",
+      "music": 0.0
+    },
+    {
+      "from": 235.01,
+      "to": 236.56,
+      "sid": 110,
+      "location": 2,
+      "content": "虽然说今天有点下雨",
+      "music": 0.0
+    },
+    {
+      "from": 236.56,
+      "to": 238.88,
+      "sid": 111,
+      "location": 2,
+      "content": "但是这路两边农田里面的灌溉设备",
+      "music": 0.0
+    },
+    {
+      "from": 238.88,
+      "to": 240.2,
+      "sid": 112,
+      "location": 2,
+      "content": "似乎都还在喷水",
+      "music": 0.0
+    },
+    {
+      "from": 240.2,
+      "to": 241.28,
+      "sid": 113,
+      "location": 2,
+      "content": "在一刻钟之后",
+      "music": 0.0
+    },
+    {
+      "from": 241.28,
+      "to": 244.19,
+      "sid": 114,
+      "location": 2,
+      "content": "我来到了密西西比河畔的flares point",
+      "music": 0.0
+    },
+    {
+      "from": 244.19,
+      "to": 246.05,
+      "sid": 115,
+      "location": 2,
+      "content": "这边一共有896个人",
+      "music": 0.0
+    },
+    {
+      "from": 246.05,
+      "to": 247.9,
+      "sid": 116,
+      "location": 2,
+      "content": "黑人占比98%",
+      "music": 0.0
+    },
+    {
+      "from": 247.9,
+      "to": 249.62,
+      "sid": 117,
+      "location": 2,
+      "content": "圣贝在密西西比河畔",
+      "music": 0.0
+    },
+    {
+      "from": 249.62,
+      "to": 251.66,
+      "sid": 118,
+      "location": 2,
+      "content": "曾经不仅是一个农业小镇",
+      "music": 0.0
+    },
+    {
+      "from": 251.66,
+      "to": 254.06,
+      "sid": 119,
+      "location": 2,
+      "content": "也是一个繁忙的港口城市",
+      "music": 0.0
+    },
+    {
+      "from": 254.06,
+      "to": 256.409,
+      "sid": 120,
+      "location": 2,
+      "content": "但是随着美国航运业的衰落",
+      "music": 0.0
+    },
+    {
+      "from": 256.409,
+      "to": 257.989,
+      "sid": 121,
+      "location": 2,
+      "content": "这边也慢慢的衰败了",
+      "music": 0.0
+    },
+    {
+      "from": 257.989,
+      "to": 260.769,
+      "sid": 122,
+      "location": 2,
+      "content": "看这一路开过来路有多颠就知道了",
+      "music": 0.0
+    },
+    {
+      "from": 260.769,
+      "to": 263.009,
+      "sid": 123,
+      "location": 2,
+      "content": "但是毕竟这里比起之前几个小镇",
+      "music": 0.0
+    },
+    {
+      "from": 263.009,
+      "to": 264.39,
+      "sid": 124,
+      "location": 2,
+      "content": "家底还要厚一些",
+      "music": 0.0
+    },
+    {
+      "from": 264.39,
+      "to": 266.39,
+      "sid": 125,
+      "location": 2,
+      "content": "路两边的房子似乎还不错",
+      "music": 0.0
+    },
+    {
+      "from": 266.39,
+      "to": 268.49,
+      "sid": 126,
+      "location": 2,
+      "content": "不过这肯定没法跟当年比了",
+      "music": 0.0
+    },
+    {
+      "from": 268.49,
+      "to": 271.03,
+      "sid": 127,
+      "location": 2,
+      "content": "老照片上面这个镇上面还有不少豪宅",
+      "music": 0.0
+    },
+    {
+      "from": 271.03,
+      "to": 273.08,
+      "sid": 128,
+      "location": 2,
+      "content": "大部分人都是做航运的",
+      "music": 0.0
+    },
+    {
+      "from": 273.08,
+      "to": 274.56,
+      "sid": 129,
+      "location": 2,
+      "content": "但是现在有了公路之后",
+      "music": 0.0
+    },
+    {
+      "from": 274.56,
+      "to": 277.14,
+      "sid": 130,
+      "location": 2,
+      "content": "基本上密西西比河上就是空空荡荡的",
+      "music": 0.0
+    },
+    {
+      "from": 277.14,
+      "to": 277.98,
+      "sid": 131,
+      "location": 2,
+      "content": "Flash point",
+      "music": 0.0
+    },
+    {
+      "from": 277.98,
+      "to": 280.16,
+      "sid": 132,
+      "location": 2,
+      "content": "曾经还是当地县政府的所在地",
+      "music": 0.0
+    },
+    {
+      "from": 280.16,
+      "to": 282.22,
+      "sid": 133,
+      "location": 2,
+      "content": "现在移到了南边20km之外",
+      "music": 0.0
+    },
+    {
+      "from": 282.22,
+      "to": 284.11,
+      "sid": 134,
+      "location": 2,
+      "content": "更大的城市克拉克斯代尔",
+      "music": 0.0
+    },
+    {
+      "from": 284.11,
+      "to": 287.23,
+      "sid": 135,
+      "location": 2,
+      "content": "也是我第二天遇到琼斯敦杂货店老板的地方",
+      "music": 0.0
+    },
+    {
+      "from": 287.23,
+      "to": 289.43,
+      "sid": 136,
+      "location": 2,
+      "content": "同样的本地人如果要上初中",
+      "music": 0.0
+    },
+    {
+      "from": 289.43,
+      "to": 292.92,
+      "sid": 137,
+      "location": 2,
+      "content": "高中看医生买杂货也都得去克拉克斯代尔",
+      "music": 0.0
+    },
+    {
+      "from": 292.92,
+      "to": 294.98,
+      "sid": 138,
+      "location": 2,
+      "content": "现在镇上面就剩下一所小学",
+      "music": 0.0
+    },
+    {
+      "from": 294.98,
+      "to": 297.11,
+      "sid": 139,
+      "location": 2,
+      "content": "也没有医生和杂货店什么的",
+      "music": 0.0
+    },
+    {
+      "from": 297.11,
+      "to": 299.39,
+      "sid": 140,
+      "location": 2,
+      "content": "不过flash sport在靠近密西西比河",
+      "music": 0.0
+    },
+    {
+      "from": 299.39,
+      "to": 301.87,
+      "sid": 141,
+      "location": 2,
+      "content": "原先的港口边上有一个石材厂",
+      "music": 0.0
+    },
+    {
+      "from": 301.87,
+      "to": 303.77,
+      "sid": 142,
+      "location": 2,
+      "content": "由于我去的时候是周六",
+      "music": 0.0
+    },
+    {
+      "from": 303.77,
+      "to": 305.51,
+      "sid": 143,
+      "location": 2,
+      "content": "他们这边似乎没有人",
+      "music": 0.0
+    },
+    {
+      "from": 305.51,
+      "to": 307.79,
+      "sid": 144,
+      "location": 2,
+      "content": "我就这么大摇大摆的开进去了",
+      "music": 0.0
+    },
+    {
+      "from": 307.79,
+      "to": 308.93,
+      "sid": 145,
+      "location": 2,
+      "content": "往里面开一点",
+      "music": 0.0
+    },
+    {
+      "from": 308.93,
+      "to": 311.9,
+      "sid": 146,
+      "location": 2,
+      "content": "可以看到密西西比河在里面转了一圈之后",
+      "music": 0.0
+    },
+    {
+      "from": 311.9,
+      "to": 315.06,
+      "sid": 147,
+      "location": 2,
+      "content": "我便来到了镇上唯一一家小酒馆吃个饭",
+      "music": 0.0
+    },
+    {
+      "from": 315.06,
+      "to": 316.78,
+      "sid": 148,
+      "location": 2,
+      "content": "这是这两年新开的",
+      "music": 0.0
+    },
+    {
+      "from": 316.78,
+      "to": 319.62,
+      "sid": 149,
+      "location": 2,
+      "content": "过去有一段时间这个镇上连餐馆都没有",
+      "music": 0.0
+    },
+    {
+      "from": 319.62,
+      "to": 322.07,
+      "sid": 150,
+      "location": 2,
+      "content": "56",
+      "music": 0.0
+    },
+    {
+      "from": 325.56,
+      "to": 327.5,
+      "sid": 151,
+      "location": 2,
+      "content": "这个店里面的气氛蛮好的",
+      "music": 0.0
+    },
+    {
+      "from": 327.5,
+      "to": 329.12,
+      "sid": 152,
+      "location": 2,
+      "content": "本地人也对我很友善",
+      "music": 0.0
+    },
+    {
+      "from": 329.12,
+      "to": 331.46,
+      "sid": 153,
+      "location": 2,
+      "content": "我点了一个他们的胡椒猪肚汤",
+      "music": 0.0
+    },
+    {
+      "from": 331.46,
+      "to": 334.25,
+      "sid": 154,
+      "location": 2,
+      "content": "这个也算是美国南方黑人的特色菜",
+      "music": 0.0
+    },
+    {
+      "from": 334.25,
+      "to": 337.05,
+      "sid": 155,
+      "location": 2,
+      "content": "其实它这个味道真的做的跟国内的差不多",
+      "music": 0.0
+    },
+    {
+      "from": 337.05,
+      "to": 338.55,
+      "sid": 156,
+      "location": 2,
+      "content": "就是味道咸了一点",
+      "music": 0.0
+    },
+    {
+      "from": 338.55,
+      "to": 339.86,
+      "sid": 157,
+      "location": 2,
+      "content": "一份六美元",
+      "music": 0.0
+    },
+    {
+      "from": 339.86,
+      "to": 341.36,
+      "sid": 158,
+      "location": 2,
+      "content": "不过这边只收现金",
+      "music": 0.0
+    },
+    {
+      "from": 341.36,
+      "to": 342.9,
+      "sid": 159,
+      "location": 2,
+      "content": "我只能去车上掏一点",
+      "music": 0.0
+    },
+    {
+      "from": 342.9,
+      "to": 345.88,
+      "sid": 160,
+      "location": 2,
+      "content": "给洗衣店或者交停车费备用的硬币给老板",
+      "music": 0.0
+    },
+    {
+      "from": 345.88,
+      "to": 348.56,
+      "sid": 161,
+      "location": 2,
+      "content": "老板本来说难得来一个外地人给我免单了",
+      "music": 0.0
+    },
+    {
+      "from": 348.56,
+      "to": 350.26,
+      "sid": 162,
+      "location": 2,
+      "content": "我还是强行塞给他了",
+      "music": 0.0
+    },
+    {
+      "from": 350.26,
+      "to": 352.38,
+      "sid": 163,
+      "location": 2,
+      "content": "老板的家就跟饭店隔了一条马路",
+      "music": 0.0
+    },
+    {
+      "from": 352.38,
+      "to": 354.82,
+      "sid": 164,
+      "location": 2,
+      "content": "这么看在小镇上的生活似乎还行",
+      "music": 0.0
+    },
+    {
+      "from": 354.82,
+      "to": 355.74,
+      "sid": 165,
+      "location": 2,
+      "content": "吃完饭之后",
+      "music": 0.0
+    },
+    {
+      "from": 355.74,
+      "to": 358.18,
+      "sid": 166,
+      "location": 2,
+      "content": "由于flash point小镇上面没有酒店",
+      "music": 0.0
+    },
+    {
+      "from": 358.18,
+      "to": 359.82,
+      "sid": 167,
+      "location": 2,
+      "content": "我也得去本地人上初中",
+      "music": 0.0
+    },
+    {
+      "from": 359.82,
+      "to": 362.689,
+      "sid": 168,
+      "location": 2,
+      "content": "高中的克拉克斯代尔住旅店那一期",
+      "music": 0.0
+    },
+    {
+      "from": 362.689,
+      "to": 364.369,
+      "sid": 169,
+      "location": 2,
+      "content": "两个月之前已经出了好了",
+      "music": 0.0
+    },
+    {
+      "from": 364.369,
+      "to": 365.629,
+      "sid": 170,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 365.629,
+      "to": 368.62,
+      "sid": 171,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

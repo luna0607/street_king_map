@@ -1,0 +1,700 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.24,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国孟菲斯黑人区",
+      "music": 0.0
+    },
+    {
+      "from": 2.24,
+      "to": 5.34,
+      "sid": 2,
+      "location": 2,
+      "content": "一家叫孟菲斯最棒的灵魂料理的餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 5.34,
+      "to": 8.54,
+      "sid": 3,
+      "location": 2,
+      "content": "这个跟我之前去过的很多黑人家庭餐馆一样",
+      "music": 0.0
+    },
+    {
+      "from": 8.54,
+      "to": 10.32,
+      "sid": 4,
+      "location": 2,
+      "content": "一般都会摆各种照片",
+      "music": 0.0
+    },
+    {
+      "from": 10.32,
+      "to": 13.02,
+      "sid": 5,
+      "location": 2,
+      "content": "还有一些宣传黑人文化的东西",
+      "music": 0.0
+    },
+    {
+      "from": 13.02,
+      "to": 15.68,
+      "sid": 6,
+      "location": 2,
+      "content": "先带大家看一看周围的环境如何",
+      "music": 0.0
+    },
+    {
+      "from": 15.68,
+      "to": 17.42,
+      "sid": 7,
+      "location": 2,
+      "content": "这个算是社区老店了",
+      "music": 0.0
+    },
+    {
+      "from": 17.42,
+      "to": 18.98,
+      "sid": 8,
+      "location": 2,
+      "content": "这边既卖黑人快餐",
+      "music": 0.0
+    },
+    {
+      "from": 18.98,
+      "to": 20.96,
+      "sid": 9,
+      "location": 2,
+      "content": "还卖一些基本的杂货啥的",
+      "music": 0.0
+    },
+    {
+      "from": 20.96,
+      "to": 23.22,
+      "sid": 10,
+      "location": 2,
+      "content": "这边就是一个基本的快餐模式",
+      "music": 0.0
+    },
+    {
+      "from": 23.22,
+      "to": 26.78,
+      "sid": 11,
+      "location": 2,
+      "content": "小菜就是那么几个美国南方黑人最爱吃的",
+      "music": 0.0
+    },
+    {
+      "from": 26.78,
+      "to": 29.36,
+      "sid": 12,
+      "location": 2,
+      "content": "比如说羽衣甘蓝缸豆玉米",
+      "music": 0.0
+    },
+    {
+      "from": 29.36,
+      "to": 31.63,
+      "sid": 13,
+      "location": 2,
+      "content": "然后还有意大利面炸鸡",
+      "music": 0.0
+    },
+    {
+      "from": 31.63,
+      "to": 34.33,
+      "sid": 14,
+      "location": 2,
+      "content": "他们每天的特色主食菜单不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 34.33,
+      "to": 37.19,
+      "sid": 15,
+      "location": 2,
+      "content": "不过大部分都是这个白人地区见不到的",
+      "music": 0.0
+    },
+    {
+      "from": 37.19,
+      "to": 38.989,
+      "sid": 16,
+      "location": 2,
+      "content": "比如说像这个猪蹄啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.989,
+      "to": 41.509,
+      "sid": 17,
+      "location": 2,
+      "content": "最后他们还会送一个小玉米面包",
+      "music": 0.0
+    },
+    {
+      "from": 41.509,
+      "to": 44.42,
+      "sid": 18,
+      "location": 2,
+      "content": "然后我这一份就是非常纯正的黑人餐啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.42,
+      "to": 46.54,
+      "sid": 19,
+      "location": 2,
+      "content": "有一说一味道是真的挺不错的",
+      "music": 0.0
+    },
+    {
+      "from": 46.54,
+      "to": 48.3,
+      "sid": 20,
+      "location": 2,
+      "content": "其实跟中餐差不多",
+      "music": 0.0
+    },
+    {
+      "from": 48.3,
+      "to": 51.42,
+      "sid": 21,
+      "location": 2,
+      "content": "要是各位以后在美国旅游找不到中餐厅的话",
+      "music": 0.0
+    },
+    {
+      "from": 51.42,
+      "to": 54.25,
+      "sid": 22,
+      "location": 2,
+      "content": "可以用黑人餐平替这么一个盒饭",
+      "music": 0.0
+    },
+    {
+      "from": 54.25,
+      "to": 55.05,
+      "sid": 23,
+      "location": 2,
+      "content": "是14美元",
+      "music": 0.0
+    },
+    {
+      "from": 55.05,
+      "to": 55.87,
+      "sid": 24,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 55.87,
+      "to": 57.69,
+      "sid": 25,
+      "location": 2,
+      "content": "我后面查了一下他们这个账单",
+      "music": 0.0
+    },
+    {
+      "from": 57.69,
+      "to": 60.97,
+      "sid": 26,
+      "location": 2,
+      "content": "发现这家店是算在杂货店种类里面的",
+      "music": 0.0
+    },
+    {
+      "from": 60.97,
+      "to": 62.29,
+      "sid": 27,
+      "location": 2,
+      "content": "我今天上网查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 62.29,
+      "to": 64.759,
+      "sid": 28,
+      "location": 2,
+      "content": "他们这边确实是又卖食物又卖药啊",
+      "music": 0.0
+    },
+    {
+      "from": 64.759,
+      "to": 66.199,
+      "sid": 29,
+      "location": 2,
+      "content": "不过我当时吃饭的时候",
+      "music": 0.0
+    },
+    {
+      "from": 66.199,
+      "to": 68.539,
+      "sid": 30,
+      "location": 2,
+      "content": "光顾着我跟我旁边的老奶奶聊天了",
+      "music": 0.0
+    },
+    {
+      "from": 68.539,
+      "to": 70.09,
+      "sid": 31,
+      "location": 2,
+      "content": "别忘了旁边看",
+      "music": 0.0
+    },
+    {
+      "from": 70.09,
+      "to": 71.09,
+      "sid": 32,
+      "location": 2,
+      "content": "I work here",
+      "music": 0.0
+    },
+    {
+      "from": 71.09,
+      "to": 71.93,
+      "sid": 33,
+      "location": 2,
+      "content": "Are you working here",
+      "music": 0.0
+    },
+    {
+      "from": 71.93,
+      "to": 72.63,
+      "sid": 34,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 72.63,
+      "to": 73.75,
+      "sid": 35,
+      "location": 2,
+      "content": "Thirty years",
+      "music": 0.0
+    },
+    {
+      "from": 73.75,
+      "to": 78.03,
+      "sid": 36,
+      "location": 2,
+      "content": "What is thirty years there are",
+      "music": 0.0
+    },
+    {
+      "from": 80.7,
+      "to": 84.22,
+      "sid": 37,
+      "location": 2,
+      "content": "给他时间再去下一家灵魂料理餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 84.22,
+      "to": 84.86,
+      "sid": 38,
+      "location": 2,
+      "content": "之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 84.86,
+      "to": 87.14,
+      "sid": 39,
+      "location": 2,
+      "content": "我先去了一家便利店买水喝",
+      "music": 0.0
+    },
+    {
+      "from": 87.14,
+      "to": 89.76,
+      "sid": 40,
+      "location": 2,
+      "content": "他这个也算是一个卖实物的便利店",
+      "music": 0.0
+    },
+    {
+      "from": 89.76,
+      "to": 92.449,
+      "sid": 41,
+      "location": 2,
+      "content": "我其实是无意识没有把相机关掉",
+      "music": 0.0
+    },
+    {
+      "from": 92.449,
+      "to": 95.029,
+      "sid": 42,
+      "location": 2,
+      "content": "不过倒是起到了一些意想不到的效果",
+      "music": 0.0
+    },
+    {
+      "from": 95.029,
+      "to": 96.769,
+      "sid": 43,
+      "location": 2,
+      "content": "这个店里面只卖汉堡",
+      "music": 0.0
+    },
+    {
+      "from": 96.769,
+      "to": 97.649,
+      "sid": 44,
+      "location": 2,
+      "content": "炸鸡什么的",
+      "music": 0.0
+    },
+    {
+      "from": 97.649,
+      "to": 98.769,
+      "sid": 45,
+      "location": 2,
+      "content": "没有什么特色",
+      "music": 0.0
+    },
+    {
+      "from": 98.769,
+      "to": 100.13,
+      "sid": 46,
+      "location": 2,
+      "content": "所以我就没有消费",
+      "music": 0.0
+    },
+    {
+      "from": 100.13,
+      "to": 102.81,
+      "sid": 47,
+      "location": 2,
+      "content": "不过他们里面有不少和篮球相关的东西",
+      "music": 0.0
+    },
+    {
+      "from": 102.81,
+      "to": 104.41,
+      "sid": 48,
+      "location": 2,
+      "content": "尤其是孟菲斯灰熊",
+      "music": 0.0
+    },
+    {
+      "from": 104.41,
+      "to": 106.509,
+      "sid": 49,
+      "location": 2,
+      "content": "然后我还跟里面的人聊了一下",
+      "music": 0.0
+    },
+    {
+      "from": 106.509,
+      "to": 109.229,
+      "sid": 50,
+      "location": 2,
+      "content": "虽然说灰熊现在在国内不是特别知名",
+      "music": 0.0
+    },
+    {
+      "from": 109.229,
+      "to": 112.14,
+      "sid": 51,
+      "location": 2,
+      "content": "但是他们的本地人基本上都是灰熊的铁粉",
+      "music": 0.0
+    },
+    {
+      "from": 112.14,
+      "to": 113.1,
+      "sid": 52,
+      "location": 2,
+      "content": "老哥跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 113.1,
+      "to": 115.2,
+      "sid": 53,
+      "location": 2,
+      "content": "自己除了科比就是最爱灰熊啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.2,
+      "to": 117.85,
+      "sid": 54,
+      "location": 2,
+      "content": "虽然说这个店在谷歌上面只有2.9分",
+      "music": 0.0
+    },
+    {
+      "from": 117.85,
+      "to": 120.01,
+      "sid": 55,
+      "location": 2,
+      "content": "但是我个人的消费体验还是不错",
+      "music": 0.0
+    },
+    {
+      "from": 120.01,
+      "to": 120.93,
+      "sid": 56,
+      "location": 2,
+      "content": "买了一罐可乐",
+      "music": 0.0
+    },
+    {
+      "from": 120.93,
+      "to": 122.49,
+      "sid": 57,
+      "location": 2,
+      "content": "我就悠哉悠哉的出来",
+      "music": 0.0
+    },
+    {
+      "from": 122.49,
+      "to": 124.07,
+      "sid": 58,
+      "location": 2,
+      "content": "我的下一站呢就是这一块",
+      "music": 0.0
+    },
+    {
+      "from": 124.07,
+      "to": 126.09,
+      "sid": 59,
+      "location": 2,
+      "content": "定位最高端的黑人餐馆了",
+      "music": 0.0
+    },
+    {
+      "from": 126.09,
+      "to": 128.01,
+      "sid": 60,
+      "location": 2,
+      "content": "这个店是可以坐下来吃饭的",
+      "music": 0.0
+    },
+    {
+      "from": 128.01,
+      "to": 130.93,
+      "sid": 61,
+      "location": 2,
+      "content": "还有服务员壁画和这个铁门",
+      "music": 0.0
+    },
+    {
+      "from": 130.93,
+      "to": 134.36,
+      "sid": 62,
+      "location": 2,
+      "content": "算得上是这类餐馆的标配了啊",
+      "music": 0.0
+    },
+    {
+      "from": 165.969,
+      "to": 169.049,
+      "sid": 63,
+      "location": 2,
+      "content": "that's so good good good哎",
+      "music": 0.0
+    },
+    {
+      "from": 169.049,
+      "to": 169.949,
+      "sid": 64,
+      "location": 2,
+      "content": "We're all the good",
+      "music": 0.0
+    },
+    {
+      "from": 169.949,
+      "to": 170.28,
+      "sid": 65,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 171.52,
+      "to": 171.96,
+      "sid": 66,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 171.96,
+      "to": 172.48,
+      "sid": 67,
+      "location": 2,
+      "content": "我出来了",
+      "music": 0.0
+    },
+    {
+      "from": 172.48,
+      "to": 174.08,
+      "sid": 68,
+      "location": 2,
+      "content": "可以给你谈谈味道如何了",
+      "music": 0.0
+    },
+    {
+      "from": 174.08,
+      "to": 176.62,
+      "sid": 69,
+      "location": 2,
+      "content": "我觉得黑人真的挺擅长做这些煮的菜",
+      "music": 0.0
+    },
+    {
+      "from": 176.62,
+      "to": 178.46,
+      "sid": 70,
+      "location": 2,
+      "content": "像是这个猪脖子上面的肉",
+      "music": 0.0
+    },
+    {
+      "from": 178.46,
+      "to": 181.1,
+      "sid": 71,
+      "location": 2,
+      "content": "味道跟我们排骨汤里面的排骨挺像",
+      "music": 0.0
+    },
+    {
+      "from": 181.1,
+      "to": 182.62,
+      "sid": 72,
+      "location": 2,
+      "content": "然后下次吃个卷心菜呢",
+      "music": 0.0
+    },
+    {
+      "from": 182.62,
+      "to": 183.58,
+      "sid": 73,
+      "location": 2,
+      "content": "还是包菜呢",
+      "music": 0.0
+    },
+    {
+      "from": 183.58,
+      "to": 185.29,
+      "sid": 74,
+      "location": 2,
+      "content": "中餐一般都是炒的",
+      "music": 0.0
+    },
+    {
+      "from": 185.29,
+      "to": 187.53,
+      "sid": 75,
+      "location": 2,
+      "content": "但是黑人可以把煮的做的很不错",
+      "music": 0.0
+    },
+    {
+      "from": 187.53,
+      "to": 188.57,
+      "sid": 76,
+      "location": 2,
+      "content": "也挺神奇的",
+      "music": 0.0
+    },
+    {
+      "from": 188.57,
+      "to": 189.73,
+      "sid": 77,
+      "location": 2,
+      "content": "而且味道淡淡的",
+      "music": 0.0
+    },
+    {
+      "from": 189.73,
+      "to": 191.72,
+      "sid": 78,
+      "location": 2,
+      "content": "明显没有加很多很重的调味",
+      "music": 0.0
+    },
+    {
+      "from": 191.72,
+      "to": 193.7,
+      "sid": 79,
+      "location": 2,
+      "content": "不过我本质上还是一个出行up",
+      "music": 0.0
+    },
+    {
+      "from": 193.7,
+      "to": 196.959,
+      "sid": 80,
+      "location": 2,
+      "content": "所以说大家不要对我的美食视频过于苛求啊",
+      "music": 0.0
+    },
+    {
+      "from": 196.959,
+      "to": 198.439,
+      "sid": 81,
+      "location": 2,
+      "content": "还有一个值得一提的就是",
+      "music": 0.0
+    },
+    {
+      "from": 198.439,
+      "to": 200.88,
+      "sid": 82,
+      "location": 2,
+      "content": "这些周围地区看起来都是破破烂烂的",
+      "music": 0.0
+    },
+    {
+      "from": 200.88,
+      "to": 203.84,
+      "sid": 83,
+      "location": 2,
+      "content": "但是他们这些菜馆里面弄的好像还都挺干净的",
+      "music": 0.0
+    },
+    {
+      "from": 203.84,
+      "to": 204.12,
+      "sid": 84,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 204.12,
+      "to": 205.34,
+      "sid": 85,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 205.34,
+      "to": 208.04,
+      "sid": 86,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

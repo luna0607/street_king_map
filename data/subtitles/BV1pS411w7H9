@@ -1,0 +1,1244 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.14,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了阿米什人的村庄",
+      "music": 0.0
+    },
+    {
+      "from": 2.14,
+      "to": 5.82,
+      "sid": 2,
+      "location": 2,
+      "content": "他们这个族群最特别的是拒绝各种现代的设施",
+      "music": 0.0
+    },
+    {
+      "from": 5.82,
+      "to": 8.06,
+      "sid": 3,
+      "location": 2,
+      "content": "比如说汽车和电力之类的",
+      "music": 0.0
+    },
+    {
+      "from": 8.06,
+      "to": 10.96,
+      "sid": 4,
+      "location": 2,
+      "content": "大部分人在乡间过着比较简朴的生活",
+      "music": 0.0
+    },
+    {
+      "from": 10.96,
+      "to": 13.22,
+      "sid": 5,
+      "location": 2,
+      "content": "他们这个超市也是不收信用卡的",
+      "music": 0.0
+    },
+    {
+      "from": 13.22,
+      "to": 15.31,
+      "sid": 6,
+      "location": 2,
+      "content": "基本上只收现金和支票",
+      "music": 0.0
+    },
+    {
+      "from": 15.31,
+      "to": 16.95,
+      "sid": 7,
+      "location": 2,
+      "content": "看看这里卖的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 16.95,
+      "to": 19.05,
+      "sid": 8,
+      "location": 2,
+      "content": "这些谷物都是他们自己做的",
+      "music": 0.0
+    },
+    {
+      "from": 19.05,
+      "to": 20.03,
+      "sid": 9,
+      "location": 2,
+      "content": "好多东西的用途",
+      "music": 0.0
+    },
+    {
+      "from": 20.03,
+      "to": 21.23,
+      "sid": 10,
+      "location": 2,
+      "content": "我也不知道是什么",
+      "music": 0.0
+    },
+    {
+      "from": 21.23,
+      "to": 23.27,
+      "sid": 11,
+      "location": 2,
+      "content": "但是我经常会来这里买小米",
+      "music": 0.0
+    },
+    {
+      "from": 23.27,
+      "to": 24.97,
+      "sid": 12,
+      "location": 2,
+      "content": "因为价格非常的便宜",
+      "music": 0.0
+    },
+    {
+      "from": 24.97,
+      "to": 26.53,
+      "sid": 13,
+      "location": 2,
+      "content": "这么多只要60美分",
+      "music": 0.0
+    },
+    {
+      "from": 26.53,
+      "to": 27.61,
+      "sid": 14,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 27.61,
+      "to": 29.67,
+      "sid": 15,
+      "location": 2,
+      "content": "这边还卖他们的服饰什么的",
+      "music": 0.0
+    },
+    {
+      "from": 29.67,
+      "to": 31.11,
+      "sid": 16,
+      "location": 2,
+      "content": "不过翻开来一看",
+      "music": 0.0
+    },
+    {
+      "from": 31.11,
+      "to": 33.39,
+      "sid": 17,
+      "location": 2,
+      "content": "还得是我们的中国制造",
+      "music": 0.0
+    },
+    {
+      "from": 33.39,
+      "to": 36.27,
+      "sid": 18,
+      "location": 2,
+      "content": "最好区别阿米什人和非阿米什人的方式",
+      "music": 0.0
+    },
+    {
+      "from": 36.27,
+      "to": 38.099,
+      "sid": 19,
+      "location": 2,
+      "content": "就是看他们的着装风格",
+      "music": 0.0
+    },
+    {
+      "from": 38.099,
+      "to": 40.779,
+      "sid": 20,
+      "location": 2,
+      "content": "再加上女性一般都会戴一个苏格兰帽",
+      "music": 0.0
+    },
+    {
+      "from": 40.779,
+      "to": 43.479,
+      "sid": 21,
+      "location": 2,
+      "content": "一般来说白色的帽子代表自己已婚了",
+      "music": 0.0
+    },
+    {
+      "from": 43.479,
+      "to": 44.97,
+      "sid": 22,
+      "location": 2,
+      "content": "黑色代表未婚",
+      "music": 0.0
+    },
+    {
+      "from": 44.97,
+      "to": 46.77,
+      "sid": 23,
+      "location": 2,
+      "content": "同样的男的结婚了",
+      "music": 0.0
+    },
+    {
+      "from": 46.77,
+      "to": 48.76,
+      "sid": 24,
+      "location": 2,
+      "content": "都要求把他们的胡子给留长",
+      "music": 0.0
+    },
+    {
+      "from": 48.76,
+      "to": 49.8,
+      "sid": 25,
+      "location": 2,
+      "content": "如果未婚的话",
+      "music": 0.0
+    },
+    {
+      "from": 49.8,
+      "to": 51.3,
+      "sid": 26,
+      "location": 2,
+      "content": "他们就要把胡子给剃掉",
+      "music": 0.0
+    },
+    {
+      "from": 51.3,
+      "to": 53.84,
+      "sid": 27,
+      "location": 2,
+      "content": "一般来说他们都喜欢戴一个这样子的草帽",
+      "music": 0.0
+    },
+    {
+      "from": 53.84,
+      "to": 56.379,
+      "sid": 28,
+      "location": 2,
+      "content": "阿米什人在美国有十几个聚集区",
+      "music": 0.0
+    },
+    {
+      "from": 56.379,
+      "to": 59.419,
+      "sid": 29,
+      "location": 2,
+      "content": "基本上每个地区都算有自己的社区和规则",
+      "music": 0.0
+    },
+    {
+      "from": 59.419,
+      "to": 61.699,
+      "sid": 30,
+      "location": 2,
+      "content": "有的族群对现代事物比较抗拒",
+      "music": 0.0
+    },
+    {
+      "from": 61.699,
+      "to": 64.16,
+      "sid": 31,
+      "location": 2,
+      "content": "而有的相对来说接受程度高一些",
+      "music": 0.0
+    },
+    {
+      "from": 64.16,
+      "to": 67.52,
+      "sid": 32,
+      "location": 2,
+      "content": "我现在在的就是最下面一排叫做卡罗纳的地方",
+      "music": 0.0
+    },
+    {
+      "from": 67.52,
+      "to": 69.36,
+      "sid": 33,
+      "location": 2,
+      "content": "这里的一批算是对新的事物",
+      "music": 0.0
+    },
+    {
+      "from": 69.36,
+      "to": 71.37,
+      "sid": 34,
+      "location": 2,
+      "content": "接受程度最高的阿比诗人了",
+      "music": 0.0
+    },
+    {
+      "from": 71.37,
+      "to": 74.29,
+      "sid": 35,
+      "location": 2,
+      "content": "但是他们的服装店的衣服依旧是比较朴素",
+      "music": 0.0
+    },
+    {
+      "from": 74.29,
+      "to": 76.93,
+      "sid": 36,
+      "location": 2,
+      "content": "我之前去过最保守的阿米什人社区",
+      "music": 0.0
+    },
+    {
+      "from": 76.93,
+      "to": 79.57,
+      "sid": 37,
+      "location": 2,
+      "content": "这种照明灯在那边是明令禁止的",
+      "music": 0.0
+    },
+    {
+      "from": 79.57,
+      "to": 81.35,
+      "sid": 38,
+      "location": 2,
+      "content": "但是在这边是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 81.35,
+      "to": 83.89,
+      "sid": 39,
+      "location": 2,
+      "content": "不过这似乎也不是我们用的led灯",
+      "music": 0.0
+    },
+    {
+      "from": 83.89,
+      "to": 85.449,
+      "sid": 40,
+      "location": 2,
+      "content": "灯光要昏暗很多",
+      "music": 0.0
+    },
+    {
+      "from": 85.449,
+      "to": 86.569,
+      "sid": 41,
+      "location": 2,
+      "content": "至于这个是什么",
+      "music": 0.0
+    },
+    {
+      "from": 86.569,
+      "to": 89.52,
+      "sid": 42,
+      "location": 2,
+      "content": "那就求助网友们了",
+      "music": 0.0
+    },
+    {
+      "from": 92.48,
+      "to": 95.06,
+      "sid": 43,
+      "location": 2,
+      "content": "阿米什人最出名的还是他们的马车",
+      "music": 0.0
+    },
+    {
+      "from": 95.06,
+      "to": 97.04,
+      "sid": 44,
+      "location": 2,
+      "content": "由于汽车这种现代的发明",
+      "music": 0.0
+    },
+    {
+      "from": 97.04,
+      "to": 98.69,
+      "sid": 45,
+      "location": 2,
+      "content": "被他们视为是邪恶的",
+      "music": 0.0
+    },
+    {
+      "from": 98.69,
+      "to": 100.69,
+      "sid": 46,
+      "location": 2,
+      "content": "他们的出行一般是依赖马车",
+      "music": 0.0
+    },
+    {
+      "from": 100.69,
+      "to": 102.41,
+      "sid": 47,
+      "location": 2,
+      "content": "像是我今天去的每一家商业",
+      "music": 0.0
+    },
+    {
+      "from": 102.41,
+      "to": 104.65,
+      "sid": 48,
+      "location": 2,
+      "content": "门口都有一个停马场",
+      "music": 0.0
+    },
+    {
+      "from": 105.3,
+      "to": 106.24,
+      "sid": 49,
+      "location": 2,
+      "content": "除了马车",
+      "music": 0.0
+    },
+    {
+      "from": 106.24,
+      "to": 108.4,
+      "sid": 50,
+      "location": 2,
+      "content": "这里还有很多人选择骑自行车",
+      "music": 0.0
+    },
+    {
+      "from": 108.4,
+      "to": 109.72,
+      "sid": 51,
+      "location": 2,
+      "content": "因为都是泥土路",
+      "music": 0.0
+    },
+    {
+      "from": 109.72,
+      "to": 111.78,
+      "sid": 52,
+      "location": 2,
+      "content": "这边都是后轮胎的山地车",
+      "music": 0.0
+    },
+    {
+      "from": 111.78,
+      "to": 114.02,
+      "sid": 53,
+      "location": 2,
+      "content": "还有卖自行车的拖车什么的",
+      "music": 0.0
+    },
+    {
+      "from": 114.02,
+      "to": 117.1,
+      "sid": 54,
+      "location": 2,
+      "content": "这样他们可以带上小朋友或者运物资之类的",
+      "music": 0.0
+    },
+    {
+      "from": 117.1,
+      "to": 118.8,
+      "sid": 55,
+      "location": 2,
+      "content": "不过马依旧是最重要的",
+      "music": 0.0
+    },
+    {
+      "from": 118.8,
+      "to": 120.48,
+      "sid": 56,
+      "location": 2,
+      "content": "一路上随处可见马粪",
+      "music": 0.0
+    },
+    {
+      "from": 120.48,
+      "to": 121.92,
+      "sid": 57,
+      "location": 2,
+      "content": "家家户户也有养马",
+      "music": 0.0
+    },
+    {
+      "from": 121.92,
+      "to": 124.22,
+      "sid": 58,
+      "location": 2,
+      "content": "当然他们也养别的东西",
+      "music": 0.0
+    },
+    {
+      "from": 124.58,
+      "to": 126.86,
+      "sid": 59,
+      "location": 2,
+      "content": "这边有一个对外开放的小农场",
+      "music": 0.0
+    },
+    {
+      "from": 126.86,
+      "to": 129.64,
+      "sid": 60,
+      "location": 2,
+      "content": "会有很多人来买活的鸡牛羊什么的",
+      "music": 0.0
+    },
+    {
+      "from": 129.64,
+      "to": 130.34,
+      "sid": 61,
+      "location": 2,
+      "content": "神奇的是",
+      "music": 0.0
+    },
+    {
+      "from": 130.34,
+      "to": 133.35,
+      "sid": 62,
+      "location": 2,
+      "content": "这边大部分的顾客都是附近的亚非拉兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 133.35,
+      "to": 135.75,
+      "sid": 63,
+      "location": 2,
+      "content": "本土的美国人基本上不会来这里",
+      "music": 0.0
+    },
+    {
+      "from": 135.75,
+      "to": 138.19,
+      "sid": 64,
+      "location": 2,
+      "content": "我猜是美国人习惯了加工的食物",
+      "music": 0.0
+    },
+    {
+      "from": 138.19,
+      "to": 140.77,
+      "sid": 65,
+      "location": 2,
+      "content": "他们在超市买到的肉都是处理好的",
+      "music": 0.0
+    },
+    {
+      "from": 140.77,
+      "to": 143.44,
+      "sid": 66,
+      "location": 2,
+      "content": "很多人甚至都不敢吃带骨头的食物",
+      "music": 0.0
+    },
+    {
+      "from": 143.44,
+      "to": 144.68,
+      "sid": 67,
+      "location": 2,
+      "content": "反倒是移民",
+      "music": 0.0
+    },
+    {
+      "from": 144.68,
+      "to": 146.24,
+      "sid": 68,
+      "location": 2,
+      "content": "无论是来自哪个国家",
+      "music": 0.0
+    },
+    {
+      "from": 146.24,
+      "to": 147.76,
+      "sid": 69,
+      "location": 2,
+      "content": "都会处理这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 147.76,
+      "to": 149.56,
+      "sid": 70,
+      "location": 2,
+      "content": "而且附近能买到活生畜的",
+      "music": 0.0
+    },
+    {
+      "from": 149.56,
+      "to": 151.24,
+      "sid": 71,
+      "location": 2,
+      "content": "也就只有阿米士人的农场",
+      "music": 0.0
+    },
+    {
+      "from": 151.24,
+      "to": 153.72,
+      "sid": 72,
+      "location": 2,
+      "content": "阿米士人和普通美国人还有一个很大不同",
+      "music": 0.0
+    },
+    {
+      "from": 153.72,
+      "to": 155.18,
+      "sid": 73,
+      "location": 2,
+      "content": "就是他们不用烘干机",
+      "music": 0.0
+    },
+    {
+      "from": 155.18,
+      "to": 156.98,
+      "sid": 74,
+      "location": 2,
+      "content": "这些晾在大农场上的衣服",
+      "music": 0.0
+    },
+    {
+      "from": 156.98,
+      "to": 158.42,
+      "sid": 75,
+      "location": 2,
+      "content": "你们觉得风格如何呢",
+      "music": 0.0
+    },
+    {
+      "from": 158.42,
+      "to": 160.2,
+      "sid": 76,
+      "location": 2,
+      "content": "阿米什人虽然说住在美国",
+      "music": 0.0
+    },
+    {
+      "from": 160.2,
+      "to": 162.69,
+      "sid": 77,
+      "location": 2,
+      "content": "但是他们一般不会认为自己是美国人",
+      "music": 0.0
+    },
+    {
+      "from": 162.69,
+      "to": 165.05,
+      "sid": 78,
+      "location": 2,
+      "content": "美国的白人对于他们来说是ENGLISH",
+      "music": 0.0
+    },
+    {
+      "from": 165.05,
+      "to": 166.93,
+      "sid": 79,
+      "location": 2,
+      "content": "可以理解成说英语的人",
+      "music": 0.0
+    },
+    {
+      "from": 166.93,
+      "to": 169.63,
+      "sid": 80,
+      "location": 2,
+      "content": "因为他们大部分的母语都是一种德语方言",
+      "music": 0.0
+    },
+    {
+      "from": 169.63,
+      "to": 170.57,
+      "sid": 81,
+      "location": 2,
+      "content": "他们会说英语",
+      "music": 0.0
+    },
+    {
+      "from": 170.57,
+      "to": 172.81,
+      "sid": 82,
+      "location": 2,
+      "content": "主要还是因为得和外面的人做做生意",
+      "music": 0.0
+    },
+    {
+      "from": 172.81,
+      "to": 175.09,
+      "sid": 83,
+      "location": 2,
+      "content": "这也体现出英语在交流中的重要性",
+      "music": 0.0
+    },
+    {
+      "from": 175.09,
+      "to": 177.61,
+      "sid": 84,
+      "location": 2,
+      "content": "无论是我和阿米什人的母语都不是英语",
+      "music": 0.0
+    },
+    {
+      "from": 177.61,
+      "to": 179.25,
+      "sid": 85,
+      "location": 2,
+      "content": "但是通过这个共同的第二语言",
+      "music": 0.0
+    },
+    {
+      "from": 179.25,
+      "to": 180.54,
+      "sid": 86,
+      "location": 2,
+      "content": "我们可以进行交流",
+      "music": 0.0
+    },
+    {
+      "from": 180.54,
+      "to": 182.42,
+      "sid": 87,
+      "location": 2,
+      "content": "那么想和外国人打交道的小伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 182.42,
+      "to": 184.45,
+      "sid": 88,
+      "location": 2,
+      "content": "要如何判断自己的英语水平呢",
+      "music": 0.0
+    },
+    {
+      "from": 184.45,
+      "to": 187.23,
+      "sid": 89,
+      "location": 2,
+      "content": "与这类需求最贴切的考试就是雅思了",
+      "music": 0.0
+    },
+    {
+      "from": 187.23,
+      "to": 188.25,
+      "sid": 90,
+      "location": 2,
+      "content": "有好的雅思成绩",
+      "music": 0.0
+    },
+    {
+      "from": 188.25,
+      "to": 191.11,
+      "sid": 91,
+      "location": 2,
+      "content": "还能帮你申请到一些海外的志愿者和交换项目",
+      "music": 0.0
+    },
+    {
+      "from": 191.11,
+      "to": 192.01,
+      "sid": 92,
+      "location": 2,
+      "content": "说到学英语",
+      "music": 0.0
+    },
+    {
+      "from": 192.01,
+      "to": 192.82,
+      "sid": 93,
+      "location": 2,
+      "content": "考雅思",
+      "music": 0.0
+    },
+    {
+      "from": 192.82,
+      "to": 194.7,
+      "sid": 94,
+      "location": 2,
+      "content": "自己摸索备考太耗时间",
+      "music": 0.0
+    },
+    {
+      "from": 194.7,
+      "to": 196.08,
+      "sid": 95,
+      "location": 2,
+      "content": "机构的收费也很高",
+      "music": 0.0
+    },
+    {
+      "from": 196.08,
+      "to": 198.86,
+      "sid": 96,
+      "location": 2,
+      "content": "而百词斩雅思就是一个很好的备考选择",
+      "music": 0.0
+    },
+    {
+      "from": 198.86,
+      "to": 200.56,
+      "sid": 97,
+      "location": 2,
+      "content": "里面的课程都是干货",
+      "music": 0.0
+    },
+    {
+      "from": 200.56,
+      "to": 202.58,
+      "sid": 98,
+      "location": 2,
+      "content": "雅思的听说读写全面覆盖",
+      "music": 0.0
+    },
+    {
+      "from": 202.58,
+      "to": 204.88,
+      "sid": 99,
+      "location": 2,
+      "content": "同时把官方推荐的200小时学习时间",
+      "music": 0.0
+    },
+    {
+      "from": 204.88,
+      "to": 206.04,
+      "sid": 100,
+      "location": 2,
+      "content": "浓缩到150小时",
+      "music": 0.0
+    },
+    {
+      "from": 206.04,
+      "to": 206.9,
+      "sid": 101,
+      "location": 2,
+      "content": "更加高效",
+      "music": 0.0
+    },
+    {
+      "from": 206.9,
+      "to": 209.44,
+      "sid": 102,
+      "location": 2,
+      "content": "每天只需要抽出20分钟打卡学习",
+      "music": 0.0
+    },
+    {
+      "from": 209.44,
+      "to": 211.769,
+      "sid": 103,
+      "location": 2,
+      "content": "课程内容包括解题思路技巧",
+      "music": 0.0
+    },
+    {
+      "from": 211.769,
+      "to": 212.729,
+      "sid": 104,
+      "location": 2,
+      "content": "真题代练",
+      "music": 0.0
+    },
+    {
+      "from": 212.729,
+      "to": 213.689,
+      "sid": 105,
+      "location": 2,
+      "content": "模拟测验",
+      "music": 0.0
+    },
+    {
+      "from": 213.689,
+      "to": 215.369,
+      "sid": 106,
+      "location": 2,
+      "content": "而且课程的形式新颖",
+      "music": 0.0
+    },
+    {
+      "from": 215.369,
+      "to": 216.649,
+      "sid": 107,
+      "location": 2,
+      "content": "加入了很多互动",
+      "music": 0.0
+    },
+    {
+      "from": 216.649,
+      "to": 218.529,
+      "sid": 108,
+      "location": 2,
+      "content": "这样的设计可以让你保持专注",
+      "music": 0.0
+    },
+    {
+      "from": 218.529,
+      "to": 219.589,
+      "sid": 109,
+      "location": 2,
+      "content": "高效学习",
+      "music": 0.0
+    },
+    {
+      "from": 219.589,
+      "to": 221.6,
+      "sid": 110,
+      "location": 2,
+      "content": "针对伽罗中最重要的口语",
+      "music": 0.0
+    },
+    {
+      "from": 221.6,
+      "to": 224.64,
+      "sid": 111,
+      "location": 2,
+      "content": "百词斩雅思还提供一对一的反馈修改服务",
+      "music": 0.0
+    },
+    {
+      "from": 224.64,
+      "to": 226.18,
+      "sid": 112,
+      "location": 2,
+      "content": "说到阿米什人的教育",
+      "music": 0.0
+    },
+    {
+      "from": 226.18,
+      "to": 228.36,
+      "sid": 113,
+      "location": 2,
+      "content": "他们的小孩子在接受小学教育之后",
+      "music": 0.0
+    },
+    {
+      "from": 228.36,
+      "to": 230.75,
+      "sid": 114,
+      "location": 2,
+      "content": "就要跟着爸妈经商或者干农活了",
+      "music": 0.0
+    },
+    {
+      "from": 230.75,
+      "to": 233.23,
+      "sid": 115,
+      "location": 2,
+      "content": "因为他们觉得教育会迷惑人的心智",
+      "music": 0.0
+    },
+    {
+      "from": 233.23,
+      "to": 235.98,
+      "sid": 116,
+      "location": 2,
+      "content": "小孩子只要学一些基本的知识就够了",
+      "music": 0.0
+    },
+    {
+      "from": 235.98,
+      "to": 238.64,
+      "sid": 117,
+      "location": 2,
+      "content": "这边人的一日生活基本上是天亮就起",
+      "music": 0.0
+    },
+    {
+      "from": 238.64,
+      "to": 239.6,
+      "sid": 118,
+      "location": 2,
+      "content": "天黑就睡",
+      "music": 0.0
+    },
+    {
+      "from": 239.6,
+      "to": 241.02,
+      "sid": 119,
+      "location": 2,
+      "content": "没有网络或者手机",
+      "music": 0.0
+    },
+    {
+      "from": 241.02,
+      "to": 241.92,
+      "sid": 120,
+      "location": 2,
+      "content": "电视什么的",
+      "music": 0.0
+    },
+    {
+      "from": 241.92,
+      "to": 243.48,
+      "sid": 121,
+      "location": 2,
+      "content": "生活非常的简单",
+      "music": 0.0
+    },
+    {
+      "from": 243.48,
+      "to": 246.06,
+      "sid": 122,
+      "location": 2,
+      "content": "自然并不是每个人都能适应这样的生活",
+      "music": 0.0
+    },
+    {
+      "from": 246.06,
+      "to": 248.44,
+      "sid": 123,
+      "location": 2,
+      "content": "其实很多人只是选择性的服从",
+      "music": 0.0
+    },
+    {
+      "from": 248.44,
+      "to": 250.78,
+      "sid": 124,
+      "location": 2,
+      "content": "毕竟外部世界的诱惑太大了",
+      "music": 0.0
+    },
+    {
+      "from": 250.78,
+      "to": 251.88,
+      "sid": 125,
+      "location": 2,
+      "content": "像是电器什么的",
+      "music": 0.0
+    },
+    {
+      "from": 251.88,
+      "to": 253.52,
+      "sid": 126,
+      "location": 2,
+      "content": "很多人就会买回来偷偷用",
+      "music": 0.0
+    },
+    {
+      "from": 253.52,
+      "to": 255.69,
+      "sid": 127,
+      "location": 2,
+      "content": "而一些年轻人也会有手机",
+      "music": 0.0
+    },
+    {
+      "from": 255.69,
+      "to": 258.37,
+      "sid": 128,
+      "location": 2,
+      "content": "毕竟这些发明大大的方便了人们的生活",
+      "music": 0.0
+    },
+    {
+      "from": 258.37,
+      "to": 260.55,
+      "sid": 129,
+      "location": 2,
+      "content": "当然每年也会有很多人离开",
+      "music": 0.0
+    },
+    {
+      "from": 260.55,
+      "to": 262.93,
+      "sid": 130,
+      "location": 2,
+      "content": "而阿米什人的人口却一直在增加",
+      "music": 0.0
+    },
+    {
+      "from": 262.93,
+      "to": 265.79,
+      "sid": 131,
+      "location": 2,
+      "content": "这是因为他们一家一般来说都有七八个小孩子",
+      "music": 0.0
+    },
+    {
+      "from": 265.79,
+      "to": 267.65,
+      "sid": 132,
+      "location": 2,
+      "content": "最后来看看阿米什人吃什么",
+      "music": 0.0
+    },
+    {
+      "from": 267.65,
+      "to": 269.37,
+      "sid": 133,
+      "location": 2,
+      "content": "阿米什人不爱在外面吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 269.37,
+      "to": 271.09,
+      "sid": 134,
+      "location": 2,
+      "content": "基本上都是在家里做饭",
+      "music": 0.0
+    },
+    {
+      "from": 271.09,
+      "to": 272.85,
+      "sid": 135,
+      "location": 2,
+      "content": "至少我在他这个定居点附近",
+      "music": 0.0
+    },
+    {
+      "from": 272.85,
+      "to": 274.73,
+      "sid": 136,
+      "location": 2,
+      "content": "没有找到一家阿米什人开的餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 274.73,
+      "to": 276.57,
+      "sid": 137,
+      "location": 2,
+      "content": "但是他们这里有几家烘焙房",
+      "music": 0.0
+    },
+    {
+      "from": 276.57,
+      "to": 277.55,
+      "sid": 138,
+      "location": 2,
+      "content": "不仅卖面包",
+      "music": 0.0
+    },
+    {
+      "from": 277.55,
+      "to": 279.37,
+      "sid": 139,
+      "location": 2,
+      "content": "还卖各种各样的老物件",
+      "music": 0.0
+    },
+    {
+      "from": 279.37,
+      "to": 280.57,
+      "sid": 140,
+      "location": 2,
+      "content": "像是这个钟屋",
+      "music": 0.0
+    },
+    {
+      "from": 280.57,
+      "to": 283.33,
+      "sid": 141,
+      "location": 2,
+      "content": "我感觉在十几年前的宾馆大堂见到过",
+      "music": 0.0
+    },
+    {
+      "from": 283.33,
+      "to": 285.33,
+      "sid": 142,
+      "location": 2,
+      "content": "看看他们的糕点都有些什么",
+      "music": 0.0
+    },
+    {
+      "from": 285.33,
+      "to": 286.8,
+      "sid": 143,
+      "location": 2,
+      "content": "以馅饼和派为主",
+      "music": 0.0
+    },
+    {
+      "from": 286.8,
+      "to": 288.92,
+      "sid": 144,
+      "location": 2,
+      "content": "我前面一个明显不是阿米什人的大哥",
+      "music": 0.0
+    },
+    {
+      "from": 288.92,
+      "to": 290.44,
+      "sid": 145,
+      "location": 2,
+      "content": "买了200块钱的东西走",
+      "music": 0.0
+    },
+    {
+      "from": 290.44,
+      "to": 291.6,
+      "sid": 146,
+      "location": 2,
+      "content": "然后买了一袋一块",
+      "music": 0.0
+    },
+    {
+      "from": 291.6,
+      "to": 293.96,
+      "sid": 147,
+      "location": 2,
+      "content": "两毛五的面包和一块五的苹果馅饼",
+      "music": 0.0
+    },
+    {
+      "from": 293.96,
+      "to": 296.01,
+      "sid": 148,
+      "location": 2,
+      "content": "他这个虽然看起来其貌不扬",
+      "music": 0.0
+    },
+    {
+      "from": 296.01,
+      "to": 298.71,
+      "sid": 149,
+      "location": 2,
+      "content": "但是无论发面还是里面的苹果酱都不错",
+      "music": 0.0
+    },
+    {
+      "from": 298.71,
+      "to": 300.75,
+      "sid": 150,
+      "location": 2,
+      "content": "你们觉得阿米是人的生活怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 300.75,
+      "to": 302.53,
+      "sid": 151,
+      "location": 2,
+      "content": "如果有对他们生活方式的问题",
+      "music": 0.0
+    },
+    {
+      "from": 302.53,
+      "to": 303.58,
+      "sid": 152,
+      "location": 2,
+      "content": "欢迎留言给我哦",
+      "music": 0.0
+    },
+    {
+      "from": 303.58,
+      "to": 304.14,
+      "sid": 153,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 304.14,
+      "to": 306.66,
+      "sid": 154,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

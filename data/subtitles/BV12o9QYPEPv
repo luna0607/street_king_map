@@ -1,0 +1,2180 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-index-lite-rc3",
+  "body": [
+    {
+      "content": "很多都是",
+      "from": 0.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 5.439
+    },
+    {
+      "content": "魏军明当我在这里发现",
+      "from": 6.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 13.24
+    },
+    {
+      "content": "一个庭院",
+      "from": 14.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 21.24
+    },
+    {
+      "content": "富士在山上",
+      "from": 21.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 32.68
+    },
+    {
+      "content": "紫外线在泰谷",
+      "from": 36.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 41.54
+    },
+    {
+      "content": "我发现",
+      "from": 42.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 46.44
+    },
+    {
+      "content": "我躺在气泡上",
+      "from": 48.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 53.28
+    },
+    {
+      "content": "当我第一次我第一个信息你",
+      "from": 53.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 56.0
+    },
+    {
+      "content": "我有一堆问题我是轰炸他",
+      "from": 56.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 59.54
+    },
+    {
+      "content": "然后我们决定只是做一个电话",
+      "from": 59.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 62.8
+    },
+    {
+      "content": "更连接",
+      "from": 62.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 63.98
+    },
+    {
+      "content": "因为通过短信像一个墙",
+      "from": 63.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 66.89
+    },
+    {
+      "content": "但我有情感",
+      "from": 66.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 69.01
+    },
+    {
+      "content": "是的",
+      "from": 69.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 69.59
+    },
+    {
+      "content": "所以我们实际上做了一个视频通话",
+      "from": 69.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 71.38
+    },
+    {
+      "content": "当我遇到你",
+      "from": 71.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 72.7
+    },
+    {
+      "content": "我是",
+      "from": 72.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 73.18
+    },
+    {
+      "content": "哦我的天",
+      "from": 73.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 73.78
+    },
+    {
+      "content": "她是像正好在视频通话的人",
+      "from": 73.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 76.94
+    },
+    {
+      "content": "我们试图匹配我们的服装",
+      "from": 76.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 78.56
+    },
+    {
+      "content": "他和穿这个",
+      "from": 78.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 80.39
+    },
+    {
+      "content": "嗯橙色橙色橙色衬衫鸡",
+      "from": 80.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 84.71
+    },
+    {
+      "content": "它真的很可爱",
+      "from": 84.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 85.73
+    },
+    {
+      "content": "因为他们显示你的胳膊",
+      "from": 85.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 87.01
+    },
+    {
+      "content": "肌肉和东西",
+      "from": 87.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 87.89
+    },
+    {
+      "content": "然后你穿背包",
+      "from": 87.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 89.51
+    },
+    {
+      "content": "但我们拍了照片",
+      "from": 89.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 90.99
+    },
+    {
+      "content": "他是他是只是",
+      "from": 90.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 92.29
+    },
+    {
+      "content": "这像",
+      "from": 92.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 92.97
+    },
+    {
+      "content": "更接近",
+      "from": 92.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 93.89
+    },
+    {
+      "content": "好的",
+      "from": 93.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 94.63
+    },
+    {
+      "content": "他是",
+      "from": 94.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 95.39
+    },
+    {
+      "content": "好的",
+      "from": 95.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 97.0
+    },
+    {
+      "content": "是的",
+      "from": 97.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 97.4
+    },
+    {
+      "content": "我想",
+      "from": 97.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 98.4
+    },
+    {
+      "content": "她很健谈",
+      "from": 98.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 100.2
+    },
+    {
+      "content": "周到",
+      "from": 100.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 101.07
+    },
+    {
+      "content": "感觉第一次约会",
+      "from": 101.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 103.53
+    },
+    {
+      "content": "我不知道任何事情",
+      "from": 103.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 104.71
+    },
+    {
+      "content": "这里是约会文化",
+      "from": 104.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 106.13
+    },
+    {
+      "content": "我记得当我打电话",
+      "from": 106.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 109.09
+    },
+    {
+      "content": "有时我不理解你",
+      "from": 109.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 110.69
+    },
+    {
+      "content": "你只是再重复",
+      "from": 110.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 112.13
+    },
+    {
+      "content": "更好的展示",
+      "from": 112.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 113.37
+    },
+    {
+      "content": "所以我们去了我们去了花园",
+      "from": 113.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 115.69
+    },
+    {
+      "content": "因为我们想要能够有一个好的谈话",
+      "from": 115.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 119.26
+    },
+    {
+      "content": "所以我们去了花园",
+      "from": 119.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 120.7
+    },
+    {
+      "content": "然后我们去了餐厅",
+      "from": 120.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 121.92
+    },
+    {
+      "content": "是的",
+      "from": 121.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 122.72
+    },
+    {
+      "content": "并且那里有一堆关于如何点餐的困惑",
+      "from": 122.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 127.469
+    },
+    {
+      "content": "或者我记得你不知道很多物品是什么",
+      "from": 127.469,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 130.609
+    },
+    {
+      "content": "因为它更偏向意大利风格",
+      "from": 130.609,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 132.89
+    },
+    {
+      "content": "菜的名字让人困惑",
+      "from": 132.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 135.67
+    },
+    {
+      "content": "比如鱿鱼",
+      "from": 135.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 136.81
+    },
+    {
+      "content": "类似的东西",
+      "from": 136.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 137.71
+    },
+    {
+      "content": "是的",
+      "from": 137.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 138.25
+    },
+    {
+      "content": "所以他不知道很多菜的含义",
+      "from": 138.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 141.18
+    },
+    {
+      "content": "嗯",
+      "from": 141.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 141.78
+    },
+    {
+      "content": "账单里包含的内容",
+      "from": 141.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 143.88
+    },
+    {
+      "content": "因为它",
+      "from": 144.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 145.88
+    },
+    {
+      "content": "看别人的交易有点不礼貌",
+      "from": 145.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 147.84
+    },
+    {
+      "content": "给你",
+      "from": 147.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 148.78
+    },
+    {
+      "content": "我可能花了五分钟才说",
+      "from": 148.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 151.14
+    },
+    {
+      "content": "好的",
+      "from": 151.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 151.4
+    },
+    {
+      "content": "没关系",
+      "from": 151.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 151.88
+    },
+    {
+      "content": "我只是来让我检查一下",
+      "from": 151.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 154.0
+    },
+    {
+      "content": "所以她帮我了",
+      "from": 155.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 156.32
+    },
+    {
+      "content": "是我的胡萝卜",
+      "from": 157.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 159.04
+    },
+    {
+      "content": "嗯",
+      "from": 159.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 159.68
+    },
+    {
+      "content": "我对这次会议有点怀疑",
+      "from": 159.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 161.82
+    },
+    {
+      "content": "所以我在打电话的时候",
+      "from": 161.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 164.52
+    },
+    {
+      "content": "她一直在说",
+      "from": 164.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 167.02
+    },
+    {
+      "content": "你们打算去哪",
+      "from": 167.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 168.22
+    },
+    {
+      "content": "你们是打算在公共场合",
+      "from": 168.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 169.4
+    },
+    {
+      "content": "还是打算在这里",
+      "from": 169.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 171.27
+    },
+    {
+      "content": "然后她会说",
+      "from": 171.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 172.55
+    },
+    {
+      "content": "我能看看他的身份证吗",
+      "from": 172.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 173.67
+    },
+    {
+      "content": "你给她看了吗",
+      "from": 173.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 174.67
+    },
+    {
+      "content": "你的身份证",
+      "from": 174.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 175.31
+    },
+    {
+      "content": "是的",
+      "from": 175.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 175.79
+    },
+    {
+      "content": "我给她看了我的学生证",
+      "from": 175.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 178.02
+    },
+    {
+      "content": "因为我觉得",
+      "from": 178.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 179.06
+    },
+    {
+      "content": "从父母的角度来看，这是可以理解的，对吧",
+      "from": 179.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 182.07
+    },
+    {
+      "content": "哦，就像他们真的",
+      "from": 182.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 183.91
+    },
+    {
+      "content": "他们真的帮了他很多",
+      "from": 183.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 184.99
+    },
+    {
+      "content": "很多，就像我妈妈",
+      "from": 184.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 186.49
+    },
+    {
+      "content": "我还没有看到我妈妈实际上和任何其他姐夫说话",
+      "from": 186.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 191.629
+    },
+    {
+      "content": "和她像你一样说话那么多",
+      "from": 191.629,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 195.53
+    },
+    {
+      "content": "而且他们总是问他",
+      "from": 195.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 197.27
+    },
+    {
+      "content": "甚至我的朋友",
+      "from": 197.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 198.03
+    },
+    {
+      "content": "他们喜欢的计数可能被认为是令人惊讶的",
+      "from": 198.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 201.74
+    },
+    {
+      "content": "他们希望我找到非中国的学校",
+      "from": 201.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 205.74
+    },
+    {
+      "content": "但你可以",
+      "from": 205.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 206.84
+    },
+    {
+      "content": "我妈妈没有离开",
+      "from": 206.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 208.18
+    },
+    {
+      "content": "许多中国人总是呆在他们的社区里",
+      "from": 208.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 211.78
+    },
+    {
+      "content": "从我看到的",
+      "from": 211.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 212.88
+    },
+    {
+      "content": "很难把自己融入那个社区",
+      "from": 212.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 216.52
+    },
+    {
+      "content": "但你通常看不到中国人离开他们的社区",
+      "from": 217.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 222.74
+    },
+    {
+      "content": "这就是我为什么我自己",
+      "from": 222.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 224.4
+    },
+    {
+      "content": "我做我一直想做的事情",
+      "from": 224.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 227.63
+    },
+    {
+      "content": "走出去，和来自不同文化的人交谈",
+      "from": 227.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 230.63
+    },
+    {
+      "content": "但总是觉得一起玩游戏很难",
+      "from": 230.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 234.03
+    },
+    {
+      "content": "是的",
+      "from": 234.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 234.57
+    },
+    {
+      "content": "有一个",
+      "from": 234.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 235.45
+    },
+    {
+      "content": "在steam上即将推出的新游戏",
+      "from": 235.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 238.31
+    },
+    {
+      "content": "是的",
+      "from": 238.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 239.05
+    },
+    {
+      "content": "是的",
+      "from": 239.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 239.37
+    },
+    {
+      "content": "我们将一起玩游戏",
+      "from": 239.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 240.95
+    },
+    {
+      "content": "我们还一起做视频编辑",
+      "from": 240.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 243.889
+    },
+    {
+      "content": "寻找不同的观点",
+      "from": 243.889,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 245.64
+    },
+    {
+      "content": "我们都是美食家",
+      "from": 245.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 247.12
+    },
+    {
+      "content": "我们也喜欢旅行",
+      "from": 247.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 249.0
+    },
+    {
+      "content": "一起去锻炼",
+      "from": 249.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 250.2
+    },
+    {
+      "content": "这就是大部分时间我们和宝宝一起度过的时间",
+      "from": 250.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 254.68
+    },
+    {
+      "content": "好的",
+      "from": 254.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 255.36
+    },
+    {
+      "content": "好的",
+      "from": 255.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 255.76
+    },
+    {
+      "content": "是的",
+      "from": 255.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 256.04
+    },
+    {
+      "content": "你变得家庭取向",
+      "from": 256.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 257.99
+    },
+    {
+      "content": "是的",
+      "from": 257.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 258.41
+    },
+    {
+      "content": "对",
+      "from": 258.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 258.63
+    },
+    {
+      "content": "我们做一个重置",
+      "from": 258.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 259.83
+    },
+    {
+      "content": "首先",
+      "from": 259.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 261.01
+    },
+    {
+      "content": "我们",
+      "from": 261.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 261.37
+    },
+    {
+      "content": "我们休息清理",
+      "from": 261.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 263.39
+    },
+    {
+      "content": "我们准备奶瓶",
+      "from": 263.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 264.63
+    },
+    {
+      "content": "准备好去托儿所",
+      "from": 264.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 265.63
+    },
+    {
+      "content": "我们照顾aa",
+      "from": 265.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 268.15
+    },
+    {
+      "content": "在周末",
+      "from": 268.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 269.11
+    },
+    {
+      "content": "我会做大量的餐前准备",
+      "from": 269.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 271.52
+    },
+    {
+      "content": "但这通常是因为他们太耗时了",
+      "from": 272.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 275.94
+    },
+    {
+      "content": "所以有时我会买一些沙拉",
+      "from": 275.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 279.05
+    },
+    {
+      "content": "一些沃尔玛的",
+      "from": 279.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 280.67
+    },
+    {
+      "content": "你有一些沙拉和一个贝果",
+      "from": 280.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 282.35
+    },
+    {
+      "content": "实际上烹饪",
+      "from": 282.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 283.07
+    },
+    {
+      "content": "一些短肋鱼和猪肉",
+      "from": 283.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 286.58
+    },
+    {
+      "content": "这是我们常吃的肉类",
+      "from": 286.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 288.72
+    },
+    {
+      "content": "这将是一个快速的餐",
+      "from": 288.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 290.36
+    },
+    {
+      "content": "是的",
+      "from": 290.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 290.78
+    },
+    {
+      "content": "这对你来说更容易",
+      "from": 290.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 293.94
+    },
+    {
+      "content": "没有日常",
+      "from": 293.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 295.38
+    },
+    {
+      "content": "我可以只是",
+      "from": 310.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 312.04
+    },
+    {
+      "content": "它有",
+      "from": 314.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 317.88
+    },
+    {
+      "content": "嗯",
+      "from": 319.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 319.79
+    },
+    {
+      "content": "所以有多少百",
+      "from": 319.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 322.23
+    },
+    {
+      "content": "周正周管",
+      "from": 328.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 333.58
+    },
+    {
+      "content": "你可以",
+      "from": 333.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 334.44
+    },
+    {
+      "content": "嗯",
+      "from": 334.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 334.98
+    },
+    {
+      "content": "你必须在",
+      "from": 334.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 340.929
+    },
+    {
+      "content": "这就是我为什么说",
+      "from": 344.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 345.16
+    },
+    {
+      "content": "这就是它完全不是",
+      "from": 345.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 346.22
+    },
+    {
+      "content": "他们把它叫做小城市",
+      "from": 346.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 348.7
+    },
+    {
+      "content": "我觉得那就是",
+      "from": 348.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 349.68
+    },
+    {
+      "content": "从农村地区到城市的过渡",
+      "from": 349.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 354.02
+    },
+    {
+      "content": "我觉得很方便",
+      "from": 354.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 356.12
+    },
+    {
+      "content": "因为我来自的地方",
+      "from": 356.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 358.0
+    },
+    {
+      "content": "没有中餐馆",
+      "from": 358.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 359.6
+    },
+    {
+      "content": "你有一张脸",
+      "from": 359.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 360.68
+    },
+    {
+      "content": "那并不是正宗的中国食物",
+      "from": 360.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 364.03
+    },
+    {
+      "content": "如果我们想去滑冰",
+      "from": 364.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 367.08
+    },
+    {
+      "content": "有很多可以做的事情",
+      "from": 367.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 369.64
+    },
+    {
+      "content": "和我来自的地方非常不同",
+      "from": 369.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 372.46
+    },
+    {
+      "content": "我爱你",
+      "from": 372.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 373.06
+    },
+    {
+      "content": "是的",
+      "from": 373.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 373.42
+    },
+    {
+      "content": "因为我喜欢",
+      "from": 373.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 374.26
+    },
+    {
+      "content": "哦不",
+      "from": 374.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 375.14
+    },
+    {
+      "content": "好的",
+      "from": 375.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 375.6
+    },
+    {
+      "content": "什么第二",
+      "from": 375.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 376.99
+    },
+    {
+      "content": "我喜欢你",
+      "from": 377.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 380.71
+    },
+    {
+      "content": "玉米和所以我会说你看到那些",
+      "from": 381.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 385.42
+    },
+    {
+      "content": "是的",
+      "from": 385.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 385.78
+    },
+    {
+      "content": "我喜欢米饭和香肠在上面",
+      "from": 385.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 391.97
+    },
+    {
+      "content": "我通常不煮",
+      "from": 391.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 394.31
+    },
+    {
+      "content": "我煮写了时间",
+      "from": 394.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 397.57
+    },
+    {
+      "content": "我早餐",
+      "from": 397.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 399.59
+    },
+    {
+      "content": "我可以烹饪grieggs",
+      "from": 399.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 401.07
+    },
+    {
+      "content": "那也像南方的东西",
+      "from": 401.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 402.79
+    },
+    {
+      "content": "我能随机东西上次",
+      "from": 402.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 404.57
+    },
+    {
+      "content": "我有像这个沙拉",
+      "from": 404.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 406.29
+    },
+    {
+      "content": "杏仁鸡肉",
+      "from": 406.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 408.38
+    },
+    {
+      "content": "鸡肉沙拉",
+      "from": 408.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 409.64
+    },
+    {
+      "content": "是的",
+      "from": 409.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 410.02
+    },
+    {
+      "content": "是的",
+      "from": 410.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 410.4
+    },
+    {
+      "content": "这里的托儿所的平均价格是每周385美元",
+      "from": 410.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 414.9
+    },
+    {
+      "content": "对我们来说",
+      "from": 415.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 416.61
+    },
+    {
+      "content": "我们负担得起",
+      "from": 416.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 418.35
+    },
+    {
+      "content": "这需要工作",
+      "from": 418.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 419.71
+    },
+    {
+      "content": "他会送他的孩子去",
+      "from": 419.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 422.72
+    },
+    {
+      "content": "像一个预英语学校",
+      "from": 422.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 425.76
+    },
+    {
+      "content": "他两岁",
+      "from": 425.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 426.94
+    },
+    {
+      "content": "那花费很大",
+      "from": 426.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 428.46
+    },
+    {
+      "content": "那花费",
+      "from": 428.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 428.96
+    },
+    {
+      "content": "在上海每月可能会花费大约一千美元",
+      "from": 428.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 433.86
+    },
+    {
+      "content": "只是为了他的孩子学习英语",
+      "from": 433.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 436.78
+    },
+    {
+      "content": "但现在你想把他送到一个中国国家",
+      "from": 436.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 439.04
+    },
+    {
+      "content": "这意味着一些额外的费用",
+      "from": 439.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 442.1
+    },
+    {
+      "content": "你会想让他",
+      "from": 442.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 444.419
+    },
+    {
+      "content": "嗯",
+      "from": 444.419,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 445.019
+    },
+    {
+      "content": "沉浸在中国文化中",
+      "from": 445.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 447.9
+    },
+    {
+      "content": "不仅仅是学习语言本身",
+      "from": 447.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 449.98
+    },
+    {
+      "content": "有很多事情",
+      "from": 449.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 451.72
+    },
+    {
+      "content": "甚至",
+      "from": 451.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 452.32
+    },
+    {
+      "content": "例如",
+      "from": 452.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 452.92
+    },
+    {
+      "content": "元宵节",
+      "from": 452.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 454.52
+    },
+    {
+      "content": "我知道你想现在就庆祝",
+      "from": 454.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 456.58
+    },
+    {
+      "content": "因为我不知道那是什么或者不是",
+      "from": 456.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 458.62
+    },
+    {
+      "content": "是的",
+      "from": 458.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 459.38
+    },
+    {
+      "content": "不是为了中国的演讲者而来",
+      "from": 459.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 462.12
+    },
+    {
+      "content": "也许他们会故意那样做",
+      "from": 462.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 463.88
+    },
+    {
+      "content": "教他们孩子自己拥有",
+      "from": 463.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 466.26
+    },
+    {
+      "content": "中国文化中有一个容器",
+      "from": 466.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 468.3
+    },
+    {
+      "content": "不可避免的生活成本",
+      "from": 468.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 470.02
+    },
+    {
+      "content": "就像租房子",
+      "from": 470.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 471.66
+    },
+    {
+      "content": "嗯",
+      "from": 472.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 473.14
+    },
+    {
+      "content": "他们关心我们总收入的百分之二十五",
+      "from": 473.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 477.2
+    },
+    {
+      "content": "那不是那样",
+      "from": 477.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 478.14
+    },
+    {
+      "content": "你生活在工资日对日",
+      "from": 478.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 479.74
+    },
+    {
+      "content": "但你也不会说太多",
+      "from": 479.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 483.07
+    },
+    {
+      "content": "生活成本在美国总体上相当平均",
+      "from": 483.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 487.16
+    },
+    {
+      "content": "我是像",
+      "from": 487.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 487.68
+    },
+    {
+      "content": "我在这里很舒服",
+      "from": 487.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 488.82
+    },
+    {
+      "content": "是的",
+      "from": 488.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 489.16
+    },
+    {
+      "content": "但周围的社区有很多其他孩子",
+      "from": 489.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 492.62
+    },
+    {
+      "content": "这更多",
+      "from": 492.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 493.44
+    },
+    {
+      "content": "这更家庭友好",
+      "from": 493.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 494.8
+    },
+    {
+      "content": "所以我有很多活动",
+      "from": 494.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 497.08
+    },
+    {
+      "content": "像节日",
+      "from": 497.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 498.18
+    },
+    {
+      "content": "一些我们的圣诞节",
+      "from": 498.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 499.26
+    },
+    {
+      "content": "当他们有",
+      "from": 499.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 500.26
+    },
+    {
+      "content": "他们是",
+      "from": 500.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 500.72
+    },
+    {
+      "content": "他们是装饰的",
+      "from": 500.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 502.0
+    },
+    {
+      "content": "所以每个人都在照顾孩子",
+      "from": 502.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 504.84
+    },
+    {
+      "content": "如果我去火我的孩子",
+      "from": 504.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 508.42
+    },
+    {
+      "content": "所以起初我想让它成为一个全职的事情",
+      "from": 508.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 512.33
+    },
+    {
+      "content": "因为我真的很喜欢它",
+      "from": 512.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 513.77
+    },
+    {
+      "content": "但你知道我提出了一个好点是YouTube并不总是永远",
+      "from": 513.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 519.0
+    },
+    {
+      "content": "如果你的流量",
+      "from": 519.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 520.8
+    },
+    {
+      "content": "你的收入完全由算法操纵",
+      "from": 520.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 525.109
+    },
+    {
+      "content": "或者他们",
+      "from": 525.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 526.029
+    },
+    {
+      "content": "如果他们决定切断你的宣传",
+      "from": 526.029,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 529.73
+    },
+    {
+      "content": "你什么也做不了",
+      "from": 529.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 531.21
+    },
+    {
+      "content": "也许有一天YouTube消失了至少一个",
+      "from": 531.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 535.53
+    },
+    {
+      "content": "我的工作",
+      "from": 535.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 536.17
+    },
+    {
+      "content": "我需要",
+      "from": 536.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 537.18
+    },
+    {
+      "content": "嗯",
+      "from": 537.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 538.3
+    },
+    {
+      "content": "用很多额外的时间",
+      "from": 538.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 539.66
+    },
+    {
+      "content": "空闲时间学习一些新技术",
+      "from": 539.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 542.79
+    },
+    {
+      "content": "所以你已经占用了我很多时间",
+      "from": 542.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 546.11
+    },
+    {
+      "content": "实际上",
+      "from": 546.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 546.73
+    },
+    {
+      "content": "我想如果你想成为一个全职YouTuber",
+      "from": 546.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 549.11
+    },
+    {
+      "content": "你需要花费每周超过40小时",
+      "from": 549.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 552.55
+    },
+    {
+      "content": "带来很多好点子",
+      "from": 552.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 554.27
+    },
+    {
+      "content": "为我们的视频和内容提供了很多我不曾想过的想法",
+      "from": 554.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 558.74
+    },
+    {
+      "content": "帮助我激励我",
+      "from": 558.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 561.42
+    },
+    {
+      "content": "帮助我编辑",
+      "from": 561.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 562.42
+    },
+    {
+      "content": "因为我通常不做",
+      "from": 562.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 563.5
+    },
+    {
+      "content": "因为我通常不做",
+      "from": 563.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 564.57
+    },
+    {
+      "content": "美好的回忆",
+      "from": 564.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 566.89
+    },
+    {
+      "content": "美好的回忆",
+      "from": 566.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 567.61
+    },
+    {
+      "content": "我想",
+      "from": 567.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 568.05
+    },
+    {
+      "content": "我在工作休息时间",
+      "from": 568.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 260,
+      "to": 569.81
+    },
+    {
+      "content": "我只是在想",
+      "from": 569.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 571.25
+    },
+    {
+      "content": "哦",
+      "from": 571.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 571.41
+    },
+    {
+      "content": "我真的很想念kaita",
+      "from": 571.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 572.93
+    },
+    {
+      "content": "所以我决定看看她的视频，然后我在想",
+      "from": 572.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 574.85
+    },
+    {
+      "content": "哦我的天",
+      "from": 574.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 575.37
+    },
+    {
+      "content": "她这么小",
+      "from": 575.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 576.79
+    },
+    {
+      "content": "但看着它真的很开心",
+      "from": 576.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 584.01
+    },
+    {
+      "content": "恭喜你",
+      "from": 585.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 586.11
+    },
+    {
+      "content": "你知道的",
+      "from": 586.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 586.47
+    },
+    {
+      "content": "爸爸",
+      "from": 586.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 586.63
+    },
+    {
+      "content": "我可以做拉伸",
+      "from": 592.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 598.16
+    }
+  ]
+}

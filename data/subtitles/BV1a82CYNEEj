@@ -1,0 +1,2268 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.36,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了位于美国第三大印第安部落",
+      "music": 0.0
+    },
+    {
+      "from": 2.36,
+      "to": 5.2,
+      "sid": 2,
+      "location": 2,
+      "content": "乔克托人的保罗蒂上的5000人小镇雨果",
+      "music": 0.0
+    },
+    {
+      "from": 5.2,
+      "to": 7.08,
+      "sid": 3,
+      "location": 2,
+      "content": "这个小镇离德克萨斯的州界",
+      "music": 0.0
+    },
+    {
+      "from": 7.08,
+      "to": 8.7,
+      "sid": 4,
+      "location": 2,
+      "content": "只有15分钟的车程",
+      "music": 0.0
+    },
+    {
+      "from": 8.7,
+      "to": 10.7,
+      "sid": 5,
+      "location": 2,
+      "content": "也就是18km左右的距离",
+      "music": 0.0
+    },
+    {
+      "from": 10.7,
+      "to": 13.98,
+      "sid": 6,
+      "location": 2,
+      "content": "而小镇的雨果名字就是抄的法国作家雨果",
+      "music": 0.0
+    },
+    {
+      "from": 13.98,
+      "to": 16.48,
+      "sid": 7,
+      "location": 2,
+      "content": "雨果虽然在乔克托族的保留地上",
+      "music": 0.0
+    },
+    {
+      "from": 16.48,
+      "to": 17.82,
+      "sid": 8,
+      "location": 2,
+      "content": "这边只有14%",
+      "music": 0.0
+    },
+    {
+      "from": 17.82,
+      "to": 18.77,
+      "sid": 9,
+      "location": 2,
+      "content": "还是原住民",
+      "music": 0.0
+    },
+    {
+      "from": 18.77,
+      "to": 20.49,
+      "sid": 10,
+      "location": 2,
+      "content": "45%的人是白人",
+      "music": 0.0
+    },
+    {
+      "from": 20.49,
+      "to": 21.89,
+      "sid": 11,
+      "location": 2,
+      "content": "20%的是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 21.89,
+      "to": 23.43,
+      "sid": 12,
+      "location": 2,
+      "content": "回到半个小时以前",
+      "music": 0.0
+    },
+    {
+      "from": 23.43,
+      "to": 25.78,
+      "sid": 13,
+      "location": 2,
+      "content": "我从德州的巴黎一路向北",
+      "music": 0.0
+    },
+    {
+      "from": 25.78,
+      "to": 28.46,
+      "sid": 14,
+      "location": 2,
+      "content": "在跨过德州和俄克拉荷马的乔克托",
+      "music": 0.0
+    },
+    {
+      "from": 28.46,
+      "to": 30.84,
+      "sid": 15,
+      "location": 2,
+      "content": "保留地的界河红河的那一刻",
+      "music": 0.0
+    },
+    {
+      "from": 30.84,
+      "to": 32.72,
+      "sid": 16,
+      "location": 2,
+      "content": "我就感觉光看这个路况",
+      "music": 0.0
+    },
+    {
+      "from": 32.72,
+      "to": 35.1,
+      "sid": 17,
+      "location": 2,
+      "content": "这个地方似乎要比德州穷上不少",
+      "music": 0.0
+    },
+    {
+      "from": 35.1,
+      "to": 36.64,
+      "sid": 18,
+      "location": 2,
+      "content": "这边的路超级颠簸",
+      "music": 0.0
+    },
+    {
+      "from": 36.64,
+      "to": 38.08,
+      "sid": 19,
+      "location": 2,
+      "content": "不少路段还在修路",
+      "music": 0.0
+    },
+    {
+      "from": 38.08,
+      "to": 39.28,
+      "sid": 20,
+      "location": 2,
+      "content": "在去雨果的路上",
+      "music": 0.0
+    },
+    {
+      "from": 39.28,
+      "to": 41.76,
+      "sid": 21,
+      "location": 2,
+      "content": "我还经过了一个印第安人保留地的特色",
+      "music": 0.0
+    },
+    {
+      "from": 41.76,
+      "to": 43.38,
+      "sid": 22,
+      "location": 2,
+      "content": "也就是部落开的赌场",
+      "music": 0.0
+    },
+    {
+      "from": 43.38,
+      "to": 45.69,
+      "sid": 23,
+      "location": 2,
+      "content": "德州对于赌博的限制非常严格",
+      "music": 0.0
+    },
+    {
+      "from": 45.69,
+      "to": 48.09,
+      "sid": 24,
+      "location": 2,
+      "content": "因此乔克托在和德州交界的地区",
+      "music": 0.0
+    },
+    {
+      "from": 48.09,
+      "to": 49.35,
+      "sid": 25,
+      "location": 2,
+      "content": "开了一大堆赌场",
+      "music": 0.0
+    },
+    {
+      "from": 49.35,
+      "to": 51.57,
+      "sid": 26,
+      "location": 2,
+      "content": "专门吸引德州人北上来赌博",
+      "music": 0.0
+    },
+    {
+      "from": 51.57,
+      "to": 52.47,
+      "sid": 27,
+      "location": 2,
+      "content": "除了赌场",
+      "music": 0.0
+    },
+    {
+      "from": 52.47,
+      "to": 55.5,
+      "sid": 28,
+      "location": 2,
+      "content": "乔科特部落还在保罗蒂上面有很多设施",
+      "music": 0.0
+    },
+    {
+      "from": 55.5,
+      "to": 59.24,
+      "sid": 29,
+      "location": 2,
+      "content": "在雨果城外面有一个乔科托部落综合服务中心",
+      "music": 0.0
+    },
+    {
+      "from": 59.24,
+      "to": 60.28,
+      "sid": 30,
+      "location": 2,
+      "content": "里面有医院",
+      "music": 0.0
+    },
+    {
+      "from": 60.28,
+      "to": 61.08,
+      "sid": 31,
+      "location": 2,
+      "content": "托儿所",
+      "music": 0.0
+    },
+    {
+      "from": 61.08,
+      "to": 62.12,
+      "sid": 32,
+      "location": 2,
+      "content": "社区中心",
+      "music": 0.0
+    },
+    {
+      "from": 62.12,
+      "to": 64.22,
+      "sid": 33,
+      "location": 2,
+      "content": "职业介绍所之类的设施",
+      "music": 0.0
+    },
+    {
+      "from": 64.22,
+      "to": 66.33,
+      "sid": 34,
+      "location": 2,
+      "content": "这类设施是全部免费的",
+      "music": 0.0
+    },
+    {
+      "from": 66.33,
+      "to": 68.4,
+      "sid": 35,
+      "location": 2,
+      "content": "但是你必须得是部落的成员",
+      "music": 0.0
+    },
+    {
+      "from": 68.4,
+      "to": 69.96,
+      "sid": 36,
+      "location": 2,
+      "content": "这些项目的资金来源",
+      "music": 0.0
+    },
+    {
+      "from": 69.96,
+      "to": 71.92,
+      "sid": 37,
+      "location": 2,
+      "content": "很大一部分就是赌场的收入",
+      "music": 0.0
+    },
+    {
+      "from": 71.92,
+      "to": 72.68,
+      "sid": 38,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 72.68,
+      "to": 74.84,
+      "sid": 39,
+      "location": 2,
+      "content": "联邦政府也会给很多拨款",
+      "music": 0.0
+    },
+    {
+      "from": 74.84,
+      "to": 76.48,
+      "sid": 40,
+      "location": 2,
+      "content": "在部落医院的门口",
+      "music": 0.0
+    },
+    {
+      "from": 76.48,
+      "to": 79.16,
+      "sid": 41,
+      "location": 2,
+      "content": "我遇到了一个在这边上班的乔克托人",
+      "music": 0.0
+    },
+    {
+      "from": 79.16,
+      "to": 80.97,
+      "sid": 42,
+      "location": 2,
+      "content": "于是我跟他随便聊一聊",
+      "music": 0.0
+    },
+    {
+      "from": 80.97,
+      "to": 82.23,
+      "sid": 43,
+      "location": 2,
+      "content": "Not only five percent",
+      "music": 0.0
+    },
+    {
+      "from": 82.23,
+      "to": 82.89,
+      "sid": 44,
+      "location": 2,
+      "content": "Five percent",
+      "music": 0.0
+    },
+    {
+      "from": 82.89,
+      "to": 83.29,
+      "sid": 45,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 83.29,
+      "to": 84.45,
+      "sid": 46,
+      "location": 2,
+      "content": "But yeah",
+      "music": 0.0
+    },
+    {
+      "from": 84.45,
+      "to": 85.57,
+      "sid": 47,
+      "location": 2,
+      "content": "I don't care it as long",
+      "music": 0.0
+    },
+    {
+      "from": 85.57,
+      "to": 87.21,
+      "sid": 48,
+      "location": 2,
+      "content": "As you've got a tiny",
+      "music": 0.0
+    },
+    {
+      "from": 87.21,
+      "to": 88.99,
+      "sid": 49,
+      "location": 2,
+      "content": "Little drop of native venue",
+      "music": 0.0
+    },
+    {
+      "from": 88.99,
+      "to": 90.07,
+      "sid": 50,
+      "location": 2,
+      "content": "They may recognize",
+      "music": 0.0
+    },
+    {
+      "from": 90.07,
+      "to": 90.99,
+      "sid": 51,
+      "location": 2,
+      "content": "You as a tribal member",
+      "music": 0.0
+    },
+    {
+      "from": 90.99,
+      "to": 91.23,
+      "sid": 52,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 91.23,
+      "to": 93.91,
+      "sid": 53,
+      "location": 2,
+      "content": "And you can get access to all the tribal surveys",
+      "music": 0.0
+    },
+    {
+      "from": 93.91,
+      "to": 94.56,
+      "sid": 54,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 94.56,
+      "to": 97.08,
+      "sid": 55,
+      "location": 2,
+      "content": "我问他附近有没有什么值得去的地方",
+      "music": 0.0
+    },
+    {
+      "from": 97.08,
+      "to": 98.36,
+      "sid": 56,
+      "location": 2,
+      "content": "他说这边除了赌场",
+      "music": 0.0
+    },
+    {
+      "from": 98.36,
+      "to": 99.76,
+      "sid": 57,
+      "location": 2,
+      "content": "什么好玩的地方都没有",
+      "music": 0.0
+    },
+    {
+      "from": 99.76,
+      "to": 101.04,
+      "sid": 58,
+      "location": 2,
+      "content": "All the casinos around here",
+      "music": 0.29999997500000086
+    },
+    {
+      "from": 101.04,
+      "to": 103.92,
+      "sid": 59,
+      "location": 2,
+      "content": "Are mostly owned by the chuckles chock bos",
+      "music": 0.0
+    },
+    {
+      "from": 103.92,
+      "to": 104.3,
+      "sid": 60,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 104.3,
+      "to": 104.78,
+      "sid": 61,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 104.78,
+      "to": 106.24,
+      "sid": 62,
+      "location": 2,
+      "content": "We're on sovereign governland",
+      "music": 0.0
+    },
+    {
+      "from": 106.24,
+      "to": 106.62,
+      "sid": 63,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 106.62,
+      "to": 107.42,
+      "sid": 64,
+      "location": 2,
+      "content": "Sovereign nation",
+      "music": 0.0
+    },
+    {
+      "from": 107.42,
+      "to": 108.4,
+      "sid": 65,
+      "location": 2,
+      "content": "Whategan",
+      "music": 0.0
+    },
+    {
+      "from": 108.4,
+      "to": 109.86,
+      "sid": 66,
+      "location": 2,
+      "content": "But basically like the government",
+      "music": 0.0
+    },
+    {
+      "from": 109.86,
+      "to": 111.98,
+      "sid": 67,
+      "location": 2,
+      "content": "Makes a lot of money through casinos",
+      "music": 0.0
+    },
+    {
+      "from": 111.98,
+      "to": 112.8,
+      "sid": 68,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 112.8,
+      "to": 115.59,
+      "sid": 69,
+      "location": 2,
+      "content": "And then they go to your service",
+      "music": 0.0
+    },
+    {
+      "from": 115.59,
+      "to": 116.21,
+      "sid": 70,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 116.21,
+      "to": 117.79,
+      "sid": 71,
+      "location": 2,
+      "content": "We need that",
+      "music": 0.2189780862059763
+    },
+    {
+      "from": 117.79,
+      "to": 118.59,
+      "sid": 72,
+      "location": 2,
+      "content": "我个人感觉",
+      "music": 0.0
+    },
+    {
+      "from": 118.59,
+      "to": 120.71,
+      "sid": 73,
+      "location": 2,
+      "content": "美国原住民部落既是保留地上面",
+      "music": 0.0
+    },
+    {
+      "from": 120.71,
+      "to": 121.93,
+      "sid": 74,
+      "location": 2,
+      "content": "有执法权的政府",
+      "music": 0.0
+    },
+    {
+      "from": 121.93,
+      "to": 124.4,
+      "sid": 75,
+      "location": 2,
+      "content": "也像是一个开家族企业的公司",
+      "music": 0.0
+    },
+    {
+      "from": 124.4,
+      "to": 125.4,
+      "sid": 76,
+      "location": 2,
+      "content": "在赌场之外",
+      "music": 0.0
+    },
+    {
+      "from": 125.4,
+      "to": 127.28,
+      "sid": 77,
+      "location": 2,
+      "content": "他们还有加油站商店之类的",
+      "music": 0.0
+    },
+    {
+      "from": 127.28,
+      "to": 129.979,
+      "sid": 78,
+      "location": 2,
+      "content": "甚至一些保罗地上面的美国连锁快餐店",
+      "music": 0.0
+    },
+    {
+      "from": 129.979,
+      "to": 132.739,
+      "sid": 79,
+      "location": 2,
+      "content": "比如说附近的几家chilies也是部落经营的",
+      "music": 0.0
+    },
+    {
+      "from": 132.739,
+      "to": 135.329,
+      "sid": 80,
+      "location": 2,
+      "content": "之前大哥提到的社会福利确实有很多种",
+      "music": 0.0
+    },
+    {
+      "from": 135.329,
+      "to": 137.809,
+      "sid": 81,
+      "location": 2,
+      "content": "但是很多你离开了保罗蒂就用不了了",
+      "music": 0.0
+    },
+    {
+      "from": 137.809,
+      "to": 140.729,
+      "sid": 82,
+      "location": 2,
+      "content": "比如说乔克托的公立医院只在保留地里面有",
+      "music": 0.0
+    },
+    {
+      "from": 140.729,
+      "to": 142.009,
+      "sid": 83,
+      "location": 2,
+      "content": "但是留在保罗蒂上面",
+      "music": 0.0
+    },
+    {
+      "from": 142.009,
+      "to": 143.79,
+      "sid": 84,
+      "location": 2,
+      "content": "各方面的机会就要少很多",
+      "music": 0.0
+    },
+    {
+      "from": 143.79,
+      "to": 145.29,
+      "sid": 85,
+      "location": 2,
+      "content": "所以说有利有弊吧",
+      "music": 0.0
+    },
+    {
+      "from": 145.29,
+      "to": 148.44,
+      "sid": 86,
+      "location": 2,
+      "content": "现在我去吃一个雨果本地白人开的烤肉店",
+      "music": 0.0
+    },
+    {
+      "from": 148.44,
+      "to": 150.12,
+      "sid": 87,
+      "location": 2,
+      "content": "这边虽然在保罗蒂上面",
+      "music": 0.0
+    },
+    {
+      "from": 150.12,
+      "to": 152.44,
+      "sid": 88,
+      "location": 2,
+      "content": "但是一家原住民菜的餐馆都没有",
+      "music": 0.0
+    },
+    {
+      "from": 152.44,
+      "to": 154.78,
+      "sid": 89,
+      "location": 2,
+      "content": "要不是刚刚去了部落的服务中心",
+      "music": 0.0
+    },
+    {
+      "from": 154.78,
+      "to": 157.26,
+      "sid": 90,
+      "location": 2,
+      "content": "我感觉这边跟美国普通的农村小镇",
+      "music": 0.0
+    },
+    {
+      "from": 157.26,
+      "to": 158.89,
+      "sid": 91,
+      "location": 2,
+      "content": "似乎差别不是很大",
+      "music": 0.0
+    },
+    {
+      "from": 161.63,
+      "to": 164.72,
+      "sid": 92,
+      "location": 2,
+      "content": "这里跟你们想象中的印第安人保留地有区别吗",
+      "music": 0.0
+    },
+    {
+      "from": 164.72,
+      "to": 167.16,
+      "sid": 93,
+      "location": 2,
+      "content": "我猜想这边烤肉可能和德州风味比较像",
+      "music": 0.0
+    },
+    {
+      "from": 167.16,
+      "to": 168.62,
+      "sid": 94,
+      "location": 2,
+      "content": "于是我点了一个烤肋骨",
+      "music": 0.0
+    },
+    {
+      "from": 168.62,
+      "to": 170.24,
+      "sid": 95,
+      "location": 2,
+      "content": "毕竟这里跟德州交界",
+      "music": 0.0
+    },
+    {
+      "from": 170.24,
+      "to": 170.76,
+      "sid": 96,
+      "location": 2,
+      "content": "味道嘛",
+      "music": 0.0
+    },
+    {
+      "from": 170.76,
+      "to": 171.68,
+      "sid": 97,
+      "location": 2,
+      "content": "我记得还可以",
+      "music": 0.0
+    },
+    {
+      "from": 171.68,
+      "to": 173.68,
+      "sid": 98,
+      "location": 2,
+      "content": "毕竟这个三个月之前的视频了",
+      "music": 0.0
+    },
+    {
+      "from": 173.68,
+      "to": 174.8,
+      "sid": 99,
+      "location": 2,
+      "content": "就是我一个人光吃肉",
+      "music": 0.0
+    },
+    {
+      "from": 174.8,
+      "to": 176.12,
+      "sid": 100,
+      "location": 2,
+      "content": "没有菜的话有一点腻",
+      "music": 0.0
+    },
+    {
+      "from": 176.12,
+      "to": 178.04,
+      "sid": 101,
+      "location": 2,
+      "content": "不过最后还是给它肢解了",
+      "music": 0.0
+    },
+    {
+      "from": 178.04,
+      "to": 179.44,
+      "sid": 102,
+      "location": 2,
+      "content": "原价是15美元",
+      "music": 0.0
+    },
+    {
+      "from": 179.44,
+      "to": 181.26,
+      "sid": 103,
+      "location": 2,
+      "content": "加上税和小费是20美元",
+      "music": 0.0
+    },
+    {
+      "from": 181.26,
+      "to": 182.32,
+      "sid": 104,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 182.32,
+      "to": 183.3,
+      "sid": 105,
+      "location": 2,
+      "content": "离开雨果",
+      "music": 0.0
+    },
+    {
+      "from": 183.3,
+      "to": 184.2,
+      "sid": 106,
+      "location": 2,
+      "content": "我一路北上",
+      "music": 0.0
+    },
+    {
+      "from": 184.2,
+      "to": 187.18,
+      "sid": 107,
+      "location": 2,
+      "content": "前往乔克托族曾经的首都塔斯卡HOMA",
+      "music": 0.0
+    },
+    {
+      "from": 187.18,
+      "to": 188.6,
+      "sid": 108,
+      "location": 2,
+      "content": "它的位置非常偏僻",
+      "music": 0.0
+    },
+    {
+      "from": 188.6,
+      "to": 191.06,
+      "sid": 109,
+      "location": 2,
+      "content": "在一座山里面一个多小时的车程",
+      "music": 0.0
+    },
+    {
+      "from": 191.06,
+      "to": 193.7,
+      "sid": 110,
+      "location": 2,
+      "content": "除了我之后要去的两个小镇都是无人区",
+      "music": 0.0
+    },
+    {
+      "from": 193.7,
+      "to": 195.62,
+      "sid": 111,
+      "location": 2,
+      "content": "不过地貌有很大的改变",
+      "music": 0.0
+    },
+    {
+      "from": 195.62,
+      "to": 197.58,
+      "sid": 112,
+      "location": 2,
+      "content": "雨果的附近大多是平原",
+      "music": 0.0
+    },
+    {
+      "from": 197.58,
+      "to": 199.36,
+      "sid": 113,
+      "location": 2,
+      "content": "周围还有不少牧场",
+      "music": 0.0
+    },
+    {
+      "from": 199.36,
+      "to": 201.4,
+      "sid": 114,
+      "location": 2,
+      "content": "渐渐的我感觉坡越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 201.4,
+      "to": 204.26,
+      "sid": 115,
+      "location": 2,
+      "content": "这是因为我离乔克托族保留地的核心",
+      "music": 0.0
+    },
+    {
+      "from": 204.26,
+      "to": 206.31,
+      "sid": 116,
+      "location": 2,
+      "content": "凯厄米西山越来越近了",
+      "music": 0.0
+    },
+    {
+      "from": 206.31,
+      "to": 208.17,
+      "sid": 117,
+      "location": 2,
+      "content": "其实乔克托人并不是山民",
+      "music": 0.0
+    },
+    {
+      "from": 208.17,
+      "to": 211.089,
+      "sid": 118,
+      "location": 2,
+      "content": "他们在200多年前是沼泽地附近的农民",
+      "music": 0.0
+    },
+    {
+      "from": 211.089,
+      "to": 213.649,
+      "sid": 119,
+      "location": 2,
+      "content": "但是当年许多白人想让他们原先居住的",
+      "music": 0.0
+    },
+    {
+      "from": 213.649,
+      "to": 215.959,
+      "sid": 120,
+      "location": 2,
+      "content": "密西西比州和阿肯色州种棉花",
+      "music": 0.0
+    },
+    {
+      "from": 215.959,
+      "to": 218.199,
+      "sid": 121,
+      "location": 2,
+      "content": "于是美国政府就强行把乔克托人",
+      "music": 0.0
+    },
+    {
+      "from": 218.199,
+      "to": 220.93,
+      "sid": 122,
+      "location": 2,
+      "content": "从他们的老家迁移到了目前的山区",
+      "music": 0.0
+    },
+    {
+      "from": 220.93,
+      "to": 223.69,
+      "sid": 123,
+      "location": 2,
+      "content": "好多乔克托人死在了迁徙旅途之中",
+      "music": 0.0
+    },
+    {
+      "from": 223.69,
+      "to": 225.49,
+      "sid": 124,
+      "location": 2,
+      "content": "而剩下的人在新的环境中",
+      "music": 0.0
+    },
+    {
+      "from": 225.49,
+      "to": 227.71,
+      "sid": 125,
+      "location": 2,
+      "content": "很难维系原先乔克托的文化",
+      "music": 0.0
+    },
+    {
+      "from": 227.71,
+      "to": 229.62,
+      "sid": 126,
+      "location": 2,
+      "content": "再加上美国的西进运动",
+      "music": 0.0
+    },
+    {
+      "from": 229.62,
+      "to": 232.38,
+      "sid": 127,
+      "location": 2,
+      "content": "越来越多的白人涌向乔克托国的保留地",
+      "music": 0.0
+    },
+    {
+      "from": 232.38,
+      "to": 234.38,
+      "sid": 128,
+      "location": 2,
+      "content": "因此这个保留地上面的22万人",
+      "music": 0.0
+    },
+    {
+      "from": 234.38,
+      "to": 236.94,
+      "sid": 129,
+      "location": 2,
+      "content": "里面只有4万8000人是乔克托人",
+      "music": 0.0
+    },
+    {
+      "from": 236.94,
+      "to": 239.42,
+      "sid": 130,
+      "location": 2,
+      "content": "这个瓦罗蒂有点名存实亡的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 239.42,
+      "to": 242.38,
+      "sid": 131,
+      "location": 2,
+      "content": "我现在到达的是一个叫安特勒斯的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 242.38,
+      "to": 244.24,
+      "sid": 132,
+      "location": 2,
+      "content": "这个小镇跟雨果很像",
+      "music": 0.0
+    },
+    {
+      "from": 244.24,
+      "to": 246.73,
+      "sid": 133,
+      "location": 2,
+      "content": "虽然在保留地上面占大多数的",
+      "music": 0.0
+    },
+    {
+      "from": 246.73,
+      "to": 248.53,
+      "sid": 134,
+      "location": 2,
+      "content": "依旧是78%的白人",
+      "music": 0.0
+    },
+    {
+      "from": 248.53,
+      "to": 250.33,
+      "sid": 135,
+      "location": 2,
+      "content": "而原住民只有15%",
+      "music": 0.0
+    },
+    {
+      "from": 250.33,
+      "to": 252.17,
+      "sid": 136,
+      "location": 2,
+      "content": "其实大部分所谓的乔克托族",
+      "music": 0.0
+    },
+    {
+      "from": 252.17,
+      "to": 254.98,
+      "sid": 137,
+      "location": 2,
+      "content": "保罗蒂上面的小镇的人口构成都是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 254.98,
+      "to": 257.36,
+      "sid": 138,
+      "location": 2,
+      "content": "保留地更多是一个法律上面的概念",
+      "music": 0.0
+    },
+    {
+      "from": 257.36,
+      "to": 258.18,
+      "sid": 139,
+      "location": 2,
+      "content": "而现实上",
+      "music": 0.0
+    },
+    {
+      "from": 258.18,
+      "to": 260.959,
+      "sid": 140,
+      "location": 2,
+      "content": "这边跟很多美国农村的小镇非常的相似",
+      "music": 0.0
+    },
+    {
+      "from": 260.959,
+      "to": 264.699,
+      "sid": 141,
+      "location": 2,
+      "content": "乔克托国领土的范围还有一个别称叫小迪克西",
+      "music": 0.0
+    },
+    {
+      "from": 264.699,
+      "to": 266.839,
+      "sid": 142,
+      "location": 2,
+      "content": "这是因为这边离德州还有一些女",
+      "music": 0.0
+    },
+    {
+      "from": 266.839,
+      "to": 268.63,
+      "sid": 143,
+      "location": 2,
+      "content": "原先的南方州非常的近",
+      "music": 0.0
+    },
+    {
+      "from": 268.63,
+      "to": 271.11,
+      "sid": 144,
+      "location": 2,
+      "content": "这边的文化更多是乔克托和美国",
+      "music": 0.0
+    },
+    {
+      "from": 271.11,
+      "to": 272.51,
+      "sid": 145,
+      "location": 2,
+      "content": "南方文化的融合",
+      "music": 0.0
+    },
+    {
+      "from": 272.51,
+      "to": 274.01,
+      "sid": 146,
+      "location": 2,
+      "content": "曾经南北战争的时候",
+      "music": 0.0
+    },
+    {
+      "from": 274.01,
+      "to": 276.69,
+      "sid": 147,
+      "location": 2,
+      "content": "乔克托是站在南方蓄奴州这一边的",
+      "music": 0.0
+    },
+    {
+      "from": 276.69,
+      "to": 279.42,
+      "sid": 148,
+      "location": 2,
+      "content": "不少乔克托人甚至还有自己的奴隶",
+      "music": 0.0
+    },
+    {
+      "from": 279.42,
+      "to": 282.1,
+      "sid": 149,
+      "location": 2,
+      "content": "就算是现在乔克托人的政治倾向",
+      "music": 0.0
+    },
+    {
+      "from": 282.1,
+      "to": 284.4,
+      "sid": 150,
+      "location": 2,
+      "content": "也是在印第安人中算比较保守的",
+      "music": 0.0
+    },
+    {
+      "from": 284.4,
+      "to": 287.32,
+      "sid": 151,
+      "location": 2,
+      "content": "安特勒斯被称为凯厄密西山的入口",
+      "music": 0.0
+    },
+    {
+      "from": 287.32,
+      "to": 288.6,
+      "sid": 152,
+      "location": 2,
+      "content": "离开了小镇之后",
+      "music": 0.0
+    },
+    {
+      "from": 288.6,
+      "to": 289.56,
+      "sid": 153,
+      "location": 2,
+      "content": "差不多40分钟",
+      "music": 0.0
+    },
+    {
+      "from": 289.56,
+      "to": 291.94,
+      "sid": 154,
+      "location": 2,
+      "content": "一路上是没有任何的人类聚集地的",
+      "music": 0.0
+    },
+    {
+      "from": 291.94,
+      "to": 293.6,
+      "sid": 155,
+      "location": 2,
+      "content": "更不要说加油站什么的",
+      "music": 0.0
+    },
+    {
+      "from": 293.6,
+      "to": 295.74,
+      "sid": 156,
+      "location": 2,
+      "content": "从卫星地图上面就可以看得出来",
+      "music": 0.0
+    },
+    {
+      "from": 295.74,
+      "to": 297.78,
+      "sid": 157,
+      "location": 2,
+      "content": "这一路都是山峰和森林",
+      "music": 0.0
+    },
+    {
+      "from": 297.78,
+      "to": 300.1,
+      "sid": 158,
+      "location": 2,
+      "content": "每年有不少喜欢户外的人来这边",
+      "music": 0.0
+    },
+    {
+      "from": 300.1,
+      "to": 302.2,
+      "sid": 159,
+      "location": 2,
+      "content": "这一路风景确实是挺不错",
+      "music": 0.0
+    },
+    {
+      "from": 302.2,
+      "to": 304.12,
+      "sid": 160,
+      "location": 2,
+      "content": "不过开这么久的车一路不停",
+      "music": 0.0
+    },
+    {
+      "from": 304.12,
+      "to": 306.0,
+      "sid": 161,
+      "location": 2,
+      "content": "真的是搞得我脖子酸痛",
+      "music": 0.0
+    },
+    {
+      "from": 306.0,
+      "to": 307.62,
+      "sid": 162,
+      "location": 2,
+      "content": "还好有我的好伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 307.62,
+      "to": 309.28,
+      "sid": 163,
+      "location": 2,
+      "content": "妙界肩颈按摩仪",
+      "music": 0.0
+    },
+    {
+      "from": 309.28,
+      "to": 310.8,
+      "sid": 164,
+      "location": 2,
+      "content": "这个按摩头一收一放",
+      "music": 0.0
+    },
+    {
+      "from": 310.8,
+      "to": 311.84,
+      "sid": 165,
+      "location": 2,
+      "content": "跟人手一样",
+      "music": 0.0
+    },
+    {
+      "from": 311.84,
+      "to": 313.68,
+      "sid": 166,
+      "location": 2,
+      "content": "出门在外和在家剪视频",
+      "music": 0.0
+    },
+    {
+      "from": 313.68,
+      "to": 314.76,
+      "sid": 167,
+      "location": 2,
+      "content": "我难免腰酸",
+      "music": 0.0
+    },
+    {
+      "from": 314.76,
+      "to": 315.5,
+      "sid": 168,
+      "location": 2,
+      "content": "脖子疼",
+      "music": 0.0
+    },
+    {
+      "from": 315.5,
+      "to": 317.36,
+      "sid": 169,
+      "location": 2,
+      "content": "用它按真能缓解不少",
+      "music": 0.0
+    },
+    {
+      "from": 317.36,
+      "to": 318.5,
+      "sid": 170,
+      "location": 2,
+      "content": "这样子架上去",
+      "music": 0.0
+    },
+    {
+      "from": 318.5,
+      "to": 320.59,
+      "sid": 171,
+      "location": 2,
+      "content": "我的后脖颈立马被包围",
+      "music": 0.0
+    },
+    {
+      "from": 320.59,
+      "to": 323.11,
+      "sid": 172,
+      "location": 2,
+      "content": "配合热敷都把我按成红脖子了",
+      "music": 0.0
+    },
+    {
+      "from": 323.11,
+      "to": 325.13,
+      "sid": 173,
+      "location": 2,
+      "content": "后背的肌肉小不松弛都难",
+      "music": 0.0
+    },
+    {
+      "from": 325.13,
+      "to": 327.69,
+      "sid": 174,
+      "location": 2,
+      "content": "各位B友们可以像我一样扣在背后",
+      "music": 0.0
+    },
+    {
+      "from": 327.69,
+      "to": 328.99,
+      "sid": 175,
+      "location": 2,
+      "content": "平时看个直播",
+      "music": 0.0
+    },
+    {
+      "from": 328.99,
+      "to": 330.41,
+      "sid": 176,
+      "location": 2,
+      "content": "剪个视频都可以按",
+      "music": 0.0
+    },
+    {
+      "from": 330.41,
+      "to": 332.57,
+      "sid": 177,
+      "location": 2,
+      "content": "从源头上面预防颈椎病",
+      "music": 0.0
+    },
+    {
+      "from": 332.57,
+      "to": 335.26,
+      "sid": 178,
+      "location": 2,
+      "content": "毕竟颈椎病一旦发生便无法根治",
+      "music": 0.0
+    },
+    {
+      "from": 335.26,
+      "to": 337.66,
+      "sid": 179,
+      "location": 2,
+      "content": "就算是在国内按摩理疗钱也够",
+      "music": 0.0
+    },
+    {
+      "from": 337.66,
+      "to": 338.82,
+      "sid": 180,
+      "location": 2,
+      "content": "在国外吃几顿",
+      "music": 0.0
+    },
+    {
+      "from": 338.82,
+      "to": 341.24,
+      "sid": 181,
+      "location": 2,
+      "content": "要是入手了妙界肩颈按摩仪",
+      "music": 0.0
+    },
+    {
+      "from": 341.24,
+      "to": 343.6,
+      "sid": 182,
+      "location": 2,
+      "content": "在家随时随地按压按腿不要太爽",
+      "music": 0.0
+    },
+    {
+      "from": 343.6,
+      "to": 345.08,
+      "sid": 183,
+      "location": 2,
+      "content": "而且这配置和体验感",
+      "music": 0.0
+    },
+    {
+      "from": 345.08,
+      "to": 347.11,
+      "sid": 184,
+      "location": 2,
+      "content": "真不是一两百的按摩仪可以比的",
+      "music": 0.0
+    },
+    {
+      "from": 347.11,
+      "to": 348.51,
+      "sid": 185,
+      "location": 2,
+      "content": "三档力度一调",
+      "music": 0.0
+    },
+    {
+      "from": 348.51,
+      "to": 350.75,
+      "sid": 186,
+      "location": 2,
+      "content": "我的非洲兄弟都觉得按的很舒服",
+      "music": 0.0
+    },
+    {
+      "from": 350.75,
+      "to": 352.89,
+      "sid": 187,
+      "location": 2,
+      "content": "妙界承诺质保售后到位",
+      "music": 0.0
+    },
+    {
+      "from": 352.89,
+      "to": 355.63,
+      "sid": 188,
+      "location": 2,
+      "content": "可以在评论区领取我小霸王的优惠券哦",
+      "music": 0.0
+    },
+    {
+      "from": 355.63,
+      "to": 357.73,
+      "sid": 189,
+      "location": 2,
+      "content": "在翻越了崇山峻岭之后",
+      "music": 0.0
+    },
+    {
+      "from": 357.73,
+      "to": 359.799,
+      "sid": 190,
+      "location": 2,
+      "content": "我便来到了克莱顿小镇",
+      "music": 0.0
+    },
+    {
+      "from": 359.799,
+      "to": 363.379,
+      "sid": 191,
+      "location": 2,
+      "content": "这也是离乔克托首都塔斯科ha最近的一个小镇",
+      "music": 0.0
+    },
+    {
+      "from": 363.379,
+      "to": 366.37,
+      "sid": 192,
+      "location": 2,
+      "content": "也是凯厄米奇山中最大的人类聚集地",
+      "music": 0.0
+    },
+    {
+      "from": 366.37,
+      "to": 368.13,
+      "sid": 193,
+      "location": 2,
+      "content": "一共有555个人",
+      "music": 0.0
+    },
+    {
+      "from": 368.13,
+      "to": 370.11,
+      "sid": 194,
+      "location": 2,
+      "content": "其中74%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 370.11,
+      "to": 371.71,
+      "sid": 195,
+      "location": 2,
+      "content": "19%是原住民",
+      "music": 0.0
+    },
+    {
+      "from": 371.71,
+      "to": 374.45,
+      "sid": 196,
+      "location": 2,
+      "content": "我现在来到的是乔克托部落的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 374.45,
+      "to": 376.25,
+      "sid": 197,
+      "location": 2,
+      "content": "这个加油站就在山脚下",
+      "music": 0.0
+    },
+    {
+      "from": 376.25,
+      "to": 377.41,
+      "sid": 198,
+      "location": 2,
+      "content": "风景还不错",
+      "music": 0.0
+    },
+    {
+      "from": 377.41,
+      "to": 380.2,
+      "sid": 199,
+      "location": 2,
+      "content": "这是部落在赌场以外的第二大商业",
+      "music": 0.0
+    },
+    {
+      "from": 380.2,
+      "to": 383.6,
+      "sid": 200,
+      "location": 2,
+      "content": "在乔克托保罗地上一共有十几家这样的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 383.6,
+      "to": 386.21,
+      "sid": 201,
+      "location": 2,
+      "content": "这个加油站还附带一个乔克托超市",
+      "music": 0.0
+    },
+    {
+      "from": 386.21,
+      "to": 388.25,
+      "sid": 202,
+      "location": 2,
+      "content": "目前乔克托部落在保罗蒂上面",
+      "music": 0.0
+    },
+    {
+      "from": 388.25,
+      "to": 389.82,
+      "sid": 203,
+      "location": 2,
+      "content": "一共开了三家超市",
+      "music": 0.0
+    },
+    {
+      "from": 389.82,
+      "to": 390.94,
+      "sid": 204,
+      "location": 2,
+      "content": "这边最大的特色",
+      "music": 0.0
+    },
+    {
+      "from": 390.94,
+      "to": 393.38,
+      "sid": 205,
+      "location": 2,
+      "content": "就是有一些和部落文化相关的东西",
+      "music": 0.0
+    },
+    {
+      "from": 393.38,
+      "to": 395.65,
+      "sid": 206,
+      "location": 2,
+      "content": "还有卖乔克托族的纪念品",
+      "music": 0.0
+    },
+    {
+      "from": 395.65,
+      "to": 398.17,
+      "sid": 207,
+      "location": 2,
+      "content": "我觉得这么偏远的地方有这么多商品选择",
+      "music": 0.0
+    },
+    {
+      "from": 398.17,
+      "to": 399.51,
+      "sid": 208,
+      "location": 2,
+      "content": "算是很罕见了",
+      "music": 0.0
+    },
+    {
+      "from": 399.51,
+      "to": 401.41,
+      "sid": 209,
+      "location": 2,
+      "content": "我猜测这边除了本地人",
+      "music": 0.0
+    },
+    {
+      "from": 401.41,
+      "to": 403.82,
+      "sid": 210,
+      "location": 2,
+      "content": "还有不少喜欢户外的游客会经过",
+      "music": 0.0
+    },
+    {
+      "from": 403.82,
+      "to": 405.8,
+      "sid": 211,
+      "location": 2,
+      "content": "毕竟我之前去过的偏远小镇",
+      "music": 0.0
+    },
+    {
+      "from": 405.8,
+      "to": 407.7,
+      "sid": 212,
+      "location": 2,
+      "content": "大多是没有蔬菜水果卖的",
+      "music": 0.0
+    },
+    {
+      "from": 407.7,
+      "to": 410.78,
+      "sid": 213,
+      "location": 2,
+      "content": "我在这拿了一根我最爱的香蕉和一根燃油宝",
+      "music": 0.0
+    },
+    {
+      "from": 410.78,
+      "to": 412.81,
+      "sid": 214,
+      "location": 2,
+      "content": "零七的香蕉22美分",
+      "music": 0.0
+    },
+    {
+      "from": 412.81,
+      "to": 414.53,
+      "sid": 215,
+      "location": 2,
+      "content": "燃油宝3.59美分",
+      "music": 0.0
+    },
+    {
+      "from": 414.53,
+      "to": 416.07,
+      "sid": 216,
+      "location": 2,
+      "content": "各位觉得物价怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 416.07,
+      "to": 418.81,
+      "sid": 217,
+      "location": 2,
+      "content": "我一般只在油价比较高的地方买燃油宝",
+      "music": 0.0
+    },
+    {
+      "from": 418.81,
+      "to": 420.31,
+      "sid": 218,
+      "location": 2,
+      "content": "可能这个地方在山里面",
+      "music": 0.0
+    },
+    {
+      "from": 420.31,
+      "to": 422.38,
+      "sid": 219,
+      "location": 2,
+      "content": "所以说油的运输成本比较高",
+      "music": 0.0
+    },
+    {
+      "from": 422.38,
+      "to": 423.54,
+      "sid": 220,
+      "location": 2,
+      "content": "我出来的时候还发现",
+      "music": 0.0
+    },
+    {
+      "from": 423.54,
+      "to": 425.48,
+      "sid": 221,
+      "location": 2,
+      "content": "这里有一个超大的乔克托徽章",
+      "music": 0.0
+    },
+    {
+      "from": 425.48,
+      "to": 427.72,
+      "sid": 222,
+      "location": 2,
+      "content": "还有一墙的部落领导人照片",
+      "music": 0.0
+    },
+    {
+      "from": 427.72,
+      "to": 429.36,
+      "sid": 223,
+      "location": 2,
+      "content": "穿过克莱顿小镇的主路",
+      "music": 0.0
+    },
+    {
+      "from": 429.36,
+      "to": 432.4,
+      "sid": 224,
+      "location": 2,
+      "content": "再开10分钟的山路就到乔克托的首都塔斯卡home",
+      "music": 0.0
+    },
+    {
+      "from": 432.4,
+      "to": 434.61,
+      "sid": 225,
+      "location": 2,
+      "content": "马克拉顿小镇的主路很短",
+      "music": 0.0
+    },
+    {
+      "from": 434.61,
+      "to": 436.17,
+      "sid": 226,
+      "location": 2,
+      "content": "一脚油门就过去了",
+      "music": 0.0
+    },
+    {
+      "from": 436.17,
+      "to": 437.75,
+      "sid": 227,
+      "location": 2,
+      "content": "其实说来有一点搞笑",
+      "music": 0.0
+    },
+    {
+      "from": 437.75,
+      "to": 440.0,
+      "sid": 228,
+      "location": 2,
+      "content": "task a homa一共只有60几个居民",
+      "music": 0.0
+    },
+    {
+      "from": 440.0,
+      "to": 442.32,
+      "sid": 229,
+      "location": 2,
+      "content": "法律上来说它是一个非建制地区",
+      "music": 0.0
+    },
+    {
+      "from": 442.32,
+      "to": 443.7,
+      "sid": 230,
+      "location": 2,
+      "content": "连一个镇都算不上",
+      "music": 0.0
+    },
+    {
+      "from": 443.7,
+      "to": 445.72,
+      "sid": 231,
+      "location": 2,
+      "content": "只是说当年塔斯科HOMA是首都",
+      "music": 0.0
+    },
+    {
+      "from": 447.96,
+      "to": 449.54,
+      "sid": 232,
+      "location": 2,
+      "content": "然后之后一直没有改变",
+      "music": 0.0
+    },
+    {
+      "from": 449.54,
+      "to": 451.86,
+      "sid": 233,
+      "location": 2,
+      "content": "实际上乔克托了各种行政机关",
+      "music": 0.0
+    },
+    {
+      "from": 451.86,
+      "to": 453.14,
+      "sid": 234,
+      "location": 2,
+      "content": "还有他们最大的赌场",
+      "music": 0.0
+    },
+    {
+      "from": 453.14,
+      "to": 454.96,
+      "sid": 235,
+      "location": 2,
+      "content": "都是在一个叫杜兰特的地方",
+      "music": 0.0
+    },
+    {
+      "from": 454.96,
+      "to": 456.24,
+      "sid": 236,
+      "location": 2,
+      "content": "那边不在群山中",
+      "music": 0.0
+    },
+    {
+      "from": 456.24,
+      "to": 457.74,
+      "sid": 237,
+      "location": 2,
+      "content": "交通要方便很多",
+      "music": 0.0
+    },
+    {
+      "from": 457.74,
+      "to": 460.36,
+      "sid": 238,
+      "location": 2,
+      "content": "离俄克拉荷马城和达拉斯都很近",
+      "music": 0.0
+    },
+    {
+      "from": 460.36,
+      "to": 462.94,
+      "sid": 239,
+      "location": 2,
+      "content": "不过塔斯卡HOMA还是有他的老底子在的",
+      "music": 0.0
+    },
+    {
+      "from": 462.94,
+      "to": 465.78,
+      "sid": 240,
+      "location": 2,
+      "content": "我前面的这个建筑就是乔克托族博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 465.78,
+      "to": 467.7,
+      "sid": 241,
+      "location": 2,
+      "content": "也是他们当年的政府大楼",
+      "music": 0.0
+    },
+    {
+      "from": 467.7,
+      "to": 470.0,
+      "sid": 242,
+      "location": 2,
+      "content": "这边还有好多乔克托族的纪念碑",
+      "music": 0.0
+    },
+    {
+      "from": 470.0,
+      "to": 472.58,
+      "sid": 243,
+      "location": 2,
+      "content": "还有他们的英雄雕像",
+      "music": 0.0
+    },
+    {
+      "from": 474.58,
+      "to": 477.0,
+      "sid": 244,
+      "location": 2,
+      "content": "现在去他们这个部落食堂看一看",
+      "music": 0.0
+    },
+    {
+      "from": 477.0,
+      "to": 478.86,
+      "sid": 245,
+      "location": 2,
+      "content": "今天这片地方一个人都没有的",
+      "music": 0.0
+    },
+    {
+      "from": 478.86,
+      "to": 481.47,
+      "sid": 246,
+      "location": 2,
+      "content": "原因是因为我去的时候是7月3号",
+      "music": 0.0
+    },
+    {
+      "from": 481.47,
+      "to": 484.02,
+      "sid": 247,
+      "location": 2,
+      "content": "然后7月4号是美国的国庆节",
+      "music": 0.0
+    },
+    {
+      "from": 484.02,
+      "to": 487.1,
+      "sid": 248,
+      "location": 2,
+      "content": "一开始我以为美国原住民都是不过国庆节的",
+      "music": 0.0
+    },
+    {
+      "from": 487.1,
+      "to": 489.92,
+      "sid": 249,
+      "location": 2,
+      "content": "所以说我特地还找这个时间点去保留地转一转",
+      "music": 0.0
+    },
+    {
+      "from": 489.92,
+      "to": 491.28,
+      "sid": 250,
+      "location": 2,
+      "content": "以为能有什么发现",
+      "music": 0.0
+    },
+    {
+      "from": 491.28,
+      "to": 492.42,
+      "sid": 251,
+      "location": 2,
+      "content": "结果后面问了一圈",
+      "music": 0.0
+    },
+    {
+      "from": 492.42,
+      "to": 495.16,
+      "sid": 252,
+      "location": 2,
+      "content": "乔克托人大部分其实都过没过国庆节的",
+      "music": 0.0
+    },
+    {
+      "from": 495.16,
+      "to": 496.7,
+      "sid": 253,
+      "location": 2,
+      "content": "所以说他们都放假了",
+      "music": 0.0
+    },
+    {
+      "from": 496.7,
+      "to": 497.98,
+      "sid": 254,
+      "location": 2,
+      "content": "To native americans",
+      "music": 0.0
+    },
+    {
+      "from": 497.98,
+      "to": 499.38,
+      "sid": 255,
+      "location": 2,
+      "content": "It seems like it",
+      "music": 0.0
+    },
+    {
+      "from": 499.38,
+      "to": 502.6,
+      "sid": 256,
+      "location": 2,
+      "content": "Might contradict wisdom to celebrate the force",
+      "music": 0.0
+    },
+    {
+      "from": 502.6,
+      "to": 504.169,
+      "sid": 257,
+      "location": 2,
+      "content": "That's why i was",
+      "music": 0.0
+    },
+    {
+      "from": 504.169,
+      "to": 505.749,
+      "sid": 258,
+      "location": 2,
+      "content": "I don't think you know",
+      "music": 0.0
+    },
+    {
+      "from": 505.749,
+      "to": 508.589,
+      "sid": 259,
+      "location": 2,
+      "content": "We really hold a like a garage trip",
+      "music": 0.0
+    },
+    {
+      "from": 508.589,
+      "to": 509.169,
+      "sid": 260,
+      "location": 2,
+      "content": "Anything like that",
+      "music": 0.0
+    },
+    {
+      "from": 509.169,
+      "to": 509.589,
+      "sid": 261,
+      "location": 2,
+      "content": "You know",
+      "music": 0.7968124315486813
+    },
+    {
+      "from": 509.589,
+      "to": 513.27,
+      "sid": 262,
+      "location": 2,
+      "content": "No one really does just trying to live with each other",
+      "music": 0.4647302711729913
+    },
+    {
+      "from": 513.27,
+      "to": 513.61,
+      "sid": 263,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 513.61,
+      "to": 516.03,
+      "sid": 264,
+      "location": 2,
+      "content": "嗯嗯so我感觉他是个HOMA",
+      "music": 0.0
+    },
+    {
+      "from": 516.03,
+      "to": 518.39,
+      "sid": 265,
+      "location": 2,
+      "content": "更像是我开头去的那个雨果的部落",
+      "music": 0.0
+    },
+    {
+      "from": 518.39,
+      "to": 520.0,
+      "sid": 266,
+      "location": 2,
+      "content": "服务中心的加强版",
+      "music": 0.0
+    },
+    {
+      "from": 520.0,
+      "to": 521.9,
+      "sid": 267,
+      "location": 2,
+      "content": "这边除了一些文化设施",
+      "music": 0.0
+    },
+    {
+      "from": 521.9,
+      "to": 523.96,
+      "sid": 268,
+      "location": 2,
+      "content": "还有一些体育运动场什么的",
+      "music": 0.0
+    },
+    {
+      "from": 523.96,
+      "to": 526.45,
+      "sid": 269,
+      "location": 2,
+      "content": "他们部落有的时候会在这边举行活动",
+      "music": 0.0
+    },
+    {
+      "from": 526.45,
+      "to": 528.41,
+      "sid": 270,
+      "location": 2,
+      "content": "今天虽然没有参观到什么地方",
+      "music": 0.0
+    },
+    {
+      "from": 528.41,
+      "to": 531.05,
+      "sid": 271,
+      "location": 2,
+      "content": "但是我倒也挺喜欢这种没有人的氛围的",
+      "music": 0.0
+    },
+    {
+      "from": 531.05,
+      "to": 532.93,
+      "sid": 272,
+      "location": 2,
+      "content": "不知道有没有和我一样的B友",
+      "music": 0.0
+    },
+    {
+      "from": 532.93,
+      "to": 535.61,
+      "sid": 273,
+      "location": 2,
+      "content": "乔克托勒人口是美国第三大的部落",
+      "music": 0.0
+    },
+    {
+      "from": 535.61,
+      "to": 538.94,
+      "sid": 274,
+      "location": 2,
+      "content": "但是他只是美国承认的574个部落之一",
+      "music": 0.0
+    },
+    {
+      "from": 538.94,
+      "to": 541.4,
+      "sid": 275,
+      "location": 2,
+      "content": "我今天只是去了乔克托人的保留地",
+      "music": 0.0
+    },
+    {
+      "from": 541.4,
+      "to": 544.319,
+      "sid": 276,
+      "location": 2,
+      "content": "而每一个保留地之间都有许许多多的差异",
+      "music": 0.0
+    },
+    {
+      "from": 544.319,
+      "to": 547.079,
+      "sid": 277,
+      "location": 2,
+      "content": "我有很多去过的保留地素材没有剪光",
+      "music": 0.0
+    },
+    {
+      "from": 547.079,
+      "to": 549.86,
+      "sid": 278,
+      "location": 2,
+      "content": "那些地方就跟乔克托保罗地上面很不一样",
+      "music": 0.0
+    },
+    {
+      "from": 549.86,
+      "to": 551.62,
+      "sid": 279,
+      "location": 2,
+      "content": "如果对这个话题感兴趣的话",
+      "music": 0.0
+    },
+    {
+      "from": 551.62,
+      "to": 552.54,
+      "sid": 280,
+      "location": 2,
+      "content": "记得关注点赞",
+      "music": 0.0
+    },
+    {
+      "from": 552.54,
+      "to": 553.54,
+      "sid": 281,
+      "location": 2,
+      "content": "投币收藏哦",
+      "music": 0.0
+    },
+    {
+      "from": 553.54,
+      "to": 554.92,
+      "sid": 282,
+      "location": 2,
+      "content": "谢谢大家的观看",
+      "music": 0.0
+    }
+  ]
+}

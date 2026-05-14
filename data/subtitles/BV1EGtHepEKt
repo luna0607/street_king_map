@@ -1,0 +1,932 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.84,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了位于美国孟菲斯的",
+      "music": 0.0
+    },
+    {
+      "from": 1.84,
+      "to": 3.56,
+      "sid": 2,
+      "location": 2,
+      "content": "世界上第十大的金字塔",
+      "music": 0.0
+    },
+    {
+      "from": 3.56,
+      "to": 6.6,
+      "sid": 3,
+      "location": 2,
+      "content": "这家金字塔里面超大的空间都被bass pro shops",
+      "music": 0.0
+    },
+    {
+      "from": 6.6,
+      "to": 9.05,
+      "sid": 4,
+      "location": 2,
+      "content": "是一家美国户外用品商店给承包了",
+      "music": 0.0
+    },
+    {
+      "from": 9.05,
+      "to": 9.77,
+      "sid": 5,
+      "location": 2,
+      "content": "还没进去",
+      "music": 0.0
+    },
+    {
+      "from": 9.77,
+      "to": 12.03,
+      "sid": 6,
+      "location": 2,
+      "content": "我就在停车场感到了不少户外气息",
+      "music": 0.0
+    },
+    {
+      "from": 12.03,
+      "to": 14.19,
+      "sid": 7,
+      "location": 2,
+      "content": "有不少船停在外面做展示",
+      "music": 0.0
+    },
+    {
+      "from": 14.19,
+      "to": 17.14,
+      "sid": 8,
+      "location": 2,
+      "content": "然后它整个金字塔里面都是森林的风格",
+      "music": 0.0
+    },
+    {
+      "from": 17.14,
+      "to": 18.22,
+      "sid": 9,
+      "location": 2,
+      "content": "从外面走进去",
+      "music": 0.0
+    },
+    {
+      "from": 18.22,
+      "to": 19.78,
+      "sid": 10,
+      "location": 2,
+      "content": "感觉真的跟穿越了一样",
+      "music": 0.0
+    },
+    {
+      "from": 19.78,
+      "to": 22.18,
+      "sid": 11,
+      "location": 2,
+      "content": "里面有水塘树和木桥",
+      "music": 0.0
+    },
+    {
+      "from": 22.18,
+      "to": 25.32,
+      "sid": 12,
+      "location": 2,
+      "content": "它这个池塘里面还是有真的鱼在游来游去的",
+      "music": 0.0
+    },
+    {
+      "from": 25.32,
+      "to": 27.66,
+      "sid": 13,
+      "location": 2,
+      "content": "旁边甚至还有一个小水族箱",
+      "music": 0.0
+    },
+    {
+      "from": 27.66,
+      "to": 29.94,
+      "sid": 14,
+      "location": 2,
+      "content": "然后向上看呢也是非常的魔幻",
+      "music": 0.0
+    },
+    {
+      "from": 29.94,
+      "to": 32.14,
+      "sid": 15,
+      "location": 2,
+      "content": "这个森林里面有一个通天塔",
+      "music": 0.0
+    },
+    {
+      "from": 32.14,
+      "to": 34.819,
+      "sid": 16,
+      "location": 2,
+      "content": "其实这个是可以上到顶层的电梯",
+      "music": 0.0
+    },
+    {
+      "from": 34.819,
+      "to": 36.779,
+      "sid": 17,
+      "location": 2,
+      "content": "而且这个电梯的价格不贵啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.779,
+      "to": 37.739,
+      "sid": 18,
+      "location": 2,
+      "content": "成人是八美元",
+      "music": 0.0
+    },
+    {
+      "from": 37.739,
+      "to": 38.899,
+      "sid": 19,
+      "location": 2,
+      "content": "小孩子是五美元",
+      "music": 0.0
+    },
+    {
+      "from": 38.899,
+      "to": 41.339,
+      "sid": 20,
+      "location": 2,
+      "content": "唯一的问题就是排队的人实在是太多了",
+      "music": 0.0
+    },
+    {
+      "from": 41.339,
+      "to": 42.96,
+      "sid": 21,
+      "location": 2,
+      "content": "除非你在这边的酒店住店",
+      "music": 0.0
+    },
+    {
+      "from": 42.96,
+      "to": 44.74,
+      "sid": 22,
+      "location": 2,
+      "content": "他才会给你开一个绿色通道",
+      "music": 0.0
+    },
+    {
+      "from": 44.74,
+      "to": 47.18,
+      "sid": 23,
+      "location": 2,
+      "content": "没错你还可以住在这个金字塔里面",
+      "music": 0.0
+    },
+    {
+      "from": 47.18,
+      "to": 48.93,
+      "sid": 24,
+      "location": 2,
+      "content": "就是这个二楼的小木屋",
+      "music": 0.0
+    },
+    {
+      "from": 48.93,
+      "to": 50.37,
+      "sid": 25,
+      "location": 2,
+      "content": "每一个都是一间房间",
+      "music": 0.0
+    },
+    {
+      "from": 50.37,
+      "to": 53.07,
+      "sid": 26,
+      "location": 2,
+      "content": "我查了一下网上的报价是270美元左右",
+      "music": 0.0
+    },
+    {
+      "from": 53.07,
+      "to": 54.89,
+      "sid": 27,
+      "location": 2,
+      "content": "网上看的室内图还不错",
+      "music": 0.0
+    },
+    {
+      "from": 54.89,
+      "to": 56.53,
+      "sid": 28,
+      "location": 2,
+      "content": "你可以坐在二楼的阳台上面",
+      "music": 0.0
+    },
+    {
+      "from": 56.53,
+      "to": 58.22,
+      "sid": 29,
+      "location": 2,
+      "content": "俯瞰一楼的森林和游客",
+      "music": 0.0
+    },
+    {
+      "from": 58.22,
+      "to": 58.98,
+      "sid": 30,
+      "location": 2,
+      "content": "反过来说",
+      "music": 0.0
+    },
+    {
+      "from": 58.98,
+      "to": 60.18,
+      "sid": 31,
+      "location": 2,
+      "content": "因为这个灯光的原因",
+      "music": 0.0
+    },
+    {
+      "from": 60.18,
+      "to": 62.62,
+      "sid": 32,
+      "location": 2,
+      "content": "我完全看不清这些小屋子里面的样子",
+      "music": 0.0
+    },
+    {
+      "from": 62.62,
+      "to": 65.099,
+      "sid": 33,
+      "location": 2,
+      "content": "这个金字塔虽然是森林主题的商店",
+      "music": 0.0
+    },
+    {
+      "from": 65.099,
+      "to": 66.619,
+      "sid": 34,
+      "location": 2,
+      "content": "不知道各位有没有感觉到",
+      "music": 0.0
+    },
+    {
+      "from": 66.619,
+      "to": 68.779,
+      "sid": 35,
+      "location": 2,
+      "content": "这边其实还是一个球场的结构",
+      "music": 0.0
+    },
+    {
+      "from": 68.779,
+      "to": 72.31,
+      "sid": 36,
+      "location": 2,
+      "content": "这边曾经是墨菲斯大学和墨菲斯灰熊的主场",
+      "music": 0.0
+    },
+    {
+      "from": 72.31,
+      "to": 74.51,
+      "sid": 37,
+      "location": 2,
+      "content": "偶尔还会承接一些演出活动",
+      "music": 0.0
+    },
+    {
+      "from": 74.51,
+      "to": 75.75,
+      "sid": 38,
+      "location": 2,
+      "content": "后来在2000年初",
+      "music": 0.0
+    },
+    {
+      "from": 75.75,
+      "to": 78.01,
+      "sid": 39,
+      "location": 2,
+      "content": "两个球队都搬到了联邦快递球馆",
+      "music": 0.0
+    },
+    {
+      "from": 78.01,
+      "to": 80.199,
+      "sid": 40,
+      "location": 2,
+      "content": "这个金字塔基本上就空置了",
+      "music": 0.0
+    },
+    {
+      "from": 80.199,
+      "to": 82.099,
+      "sid": 41,
+      "location": 2,
+      "content": "直到孟菲斯当地努力招商",
+      "music": 0.0
+    },
+    {
+      "from": 82.099,
+      "to": 84.179,
+      "sid": 42,
+      "location": 2,
+      "content": "请来了这个户外用品商店",
+      "music": 0.0
+    },
+    {
+      "from": 84.179,
+      "to": 87.56,
+      "sid": 43,
+      "location": 2,
+      "content": "要不然今天我就要变成去金字塔废墟探险了",
+      "music": 0.0
+    },
+    {
+      "from": 87.56,
+      "to": 89.44,
+      "sid": 44,
+      "location": 2,
+      "content": "而最早见这个金字塔项目是",
+      "music": 0.0
+    },
+    {
+      "from": 89.44,
+      "to": 91.6,
+      "sid": 45,
+      "location": 2,
+      "content": "因为孟菲斯的城市名字就是抄的",
+      "music": 0.0
+    },
+    {
+      "from": 91.6,
+      "to": 94.33,
+      "sid": 46,
+      "location": 2,
+      "content": "古埃及尼罗河畔的重要城市孟菲斯",
+      "music": 0.0
+    },
+    {
+      "from": 94.33,
+      "to": 96.75,
+      "sid": 47,
+      "location": 2,
+      "content": "而这座金字塔就坐落在美国的尼罗河",
+      "music": 0.0
+    },
+    {
+      "from": 96.75,
+      "to": 98.41,
+      "sid": 48,
+      "location": 2,
+      "content": "也就是密西西比河畔",
+      "music": 0.0
+    },
+    {
+      "from": 98.41,
+      "to": 100.86,
+      "sid": 49,
+      "location": 2,
+      "content": "上到顶层向右看就是阿肯色州",
+      "music": 0.0
+    },
+    {
+      "from": 100.86,
+      "to": 103.94,
+      "sid": 50,
+      "location": 2,
+      "content": "在下楼看他们卖的你平时见不到的户外商品",
+      "music": 0.0
+    },
+    {
+      "from": 103.94,
+      "to": 106.87,
+      "sid": 51,
+      "location": 2,
+      "content": "之前我先给大家安利一下出门旅游的好伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 106.87,
+      "to": 109.15,
+      "sid": 52,
+      "location": 2,
+      "content": "地平线8号大旅行箱行李箱",
+      "music": 0.0
+    },
+    {
+      "from": 109.15,
+      "to": 111.35,
+      "sid": 53,
+      "location": 2,
+      "content": "这款行李箱不仅外观简约时尚",
+      "music": 0.0
+    },
+    {
+      "from": 111.35,
+      "to": 112.64,
+      "sid": 54,
+      "location": 2,
+      "content": "而且功能强大",
+      "music": 0.0
+    },
+    {
+      "from": 112.64,
+      "to": 114.22,
+      "sid": 55,
+      "location": 2,
+      "content": "还是浪姐披哥同款",
+      "music": 0.0
+    },
+    {
+      "from": 114.22,
+      "to": 117.62,
+      "sid": 56,
+      "location": 2,
+      "content": "首先就是它的小黄轮设计是八轮万向飞机轮",
+      "music": 0.0
+    },
+    {
+      "from": 117.62,
+      "to": 119.12,
+      "sid": 57,
+      "location": 2,
+      "content": "承重越重越顺滑",
+      "music": 0.0
+    },
+    {
+      "from": 119.12,
+      "to": 122.16,
+      "sid": 58,
+      "location": 2,
+      "content": "不愧是获得了国际SGS精英轮证书",
+      "music": 0.0
+    },
+    {
+      "from": 122.16,
+      "to": 124.18,
+      "sid": 59,
+      "location": 2,
+      "content": "其次它采用了德国PC材质",
+      "music": 0.0
+    },
+    {
+      "from": 124.18,
+      "to": 125.59,
+      "sid": 60,
+      "location": 2,
+      "content": "更轻更有韧性",
+      "music": 0.0
+    },
+    {
+      "from": 125.59,
+      "to": 126.97,
+      "sid": 61,
+      "location": 2,
+      "content": "箱体不易破裂",
+      "music": 0.0
+    },
+    {
+      "from": 126.97,
+      "to": 128.81,
+      "sid": 62,
+      "location": 2,
+      "content": "无论是寒冬还是酷暑",
+      "music": 0.0
+    },
+    {
+      "from": 128.81,
+      "to": 130.72,
+      "sid": 63,
+      "location": 2,
+      "content": "箱子都能保持完好无损",
+      "music": 0.0
+    },
+    {
+      "from": 130.72,
+      "to": 131.72,
+      "sid": 64,
+      "location": 2,
+      "content": "非常的耐用",
+      "music": 0.0
+    },
+    {
+      "from": 131.72,
+      "to": 133.3,
+      "sid": 65,
+      "location": 2,
+      "content": "独特的宽拉杆设计",
+      "music": 0.0
+    },
+    {
+      "from": 133.3,
+      "to": 134.579,
+      "sid": 66,
+      "location": 2,
+      "content": "四大高度调节",
+      "music": 0.0
+    },
+    {
+      "from": 134.579,
+      "to": 136.039,
+      "sid": 67,
+      "location": 2,
+      "content": "不仅使得推行省力",
+      "music": 0.0
+    },
+    {
+      "from": 136.039,
+      "to": 138.019,
+      "sid": 68,
+      "location": 2,
+      "content": "还大大增加了内部的收纳空间",
+      "music": 0.0
+    },
+    {
+      "from": 138.019,
+      "to": 140.459,
+      "sid": 69,
+      "location": 2,
+      "content": "也使得箱子的两侧更加有辨识度",
+      "music": 0.0
+    },
+    {
+      "from": 140.459,
+      "to": 141.89,
+      "sid": 70,
+      "location": 2,
+      "content": "开箱更加容易",
+      "music": 0.0
+    },
+    {
+      "from": 141.89,
+      "to": 143.47,
+      "sid": 71,
+      "location": 2,
+      "content": "里面还有防水层设计",
+      "music": 0.0
+    },
+    {
+      "from": 143.47,
+      "to": 145.25,
+      "sid": 72,
+      "location": 2,
+      "content": "方便存放未晾干的衣服",
+      "music": 0.0
+    },
+    {
+      "from": 145.25,
+      "to": 146.32,
+      "sid": 73,
+      "location": 2,
+      "content": "还有洗漱用品",
+      "music": 0.0
+    },
+    {
+      "from": 146.32,
+      "to": 147.64,
+      "sid": 74,
+      "location": 2,
+      "content": "马上国庆就要到了",
+      "music": 0.0
+    },
+    {
+      "from": 147.64,
+      "to": 149.14,
+      "sid": 75,
+      "location": 2,
+      "content": "如果你也喜欢旅行的话",
+      "music": 0.0
+    },
+    {
+      "from": 149.14,
+      "to": 150.7,
+      "sid": 76,
+      "location": 2,
+      "content": "我在评论区置顶了链接",
+      "music": 0.0
+    },
+    {
+      "from": 150.7,
+      "to": 153.3,
+      "sid": 77,
+      "location": 2,
+      "content": "感兴趣的小伙伴不要错过这个行李箱哦",
+      "music": 0.0
+    },
+    {
+      "from": 153.3,
+      "to": 153.9,
+      "sid": 78,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 153.9,
+      "to": 154.92,
+      "sid": 79,
+      "location": 2,
+      "content": "回到金字塔里面",
+      "music": 0.0
+    },
+    {
+      "from": 154.92,
+      "to": 156.839,
+      "sid": 80,
+      "location": 2,
+      "content": "先给大家看看美国特产啊",
+      "music": 0.0
+    },
+    {
+      "from": 156.839,
+      "to": 159.719,
+      "sid": 81,
+      "location": 2,
+      "content": "说真的你们每个人都觉得我带家伙在身上",
+      "music": 0.0
+    },
+    {
+      "from": 159.719,
+      "to": 162.459,
+      "sid": 82,
+      "location": 2,
+      "content": "但是我其实是一个非常爱好和平的人啊",
+      "music": 0.0
+    },
+    {
+      "from": 162.459,
+      "to": 165.899,
+      "sid": 83,
+      "location": 2,
+      "content": "各位B友这方面的知识应该都比我丰富很多",
+      "music": 0.0
+    },
+    {
+      "from": 165.899,
+      "to": 167.359,
+      "sid": 84,
+      "location": 2,
+      "content": "不过就算我是外行",
+      "music": 0.0
+    },
+    {
+      "from": 167.359,
+      "to": 169.45,
+      "sid": 85,
+      "location": 2,
+      "content": "我看到这么多种类摆在一起",
+      "music": 0.0
+    },
+    {
+      "from": 169.45,
+      "to": 170.65,
+      "sid": 86,
+      "location": 2,
+      "content": "再加上这个数量",
+      "music": 0.0
+    },
+    {
+      "from": 170.65,
+      "to": 172.39,
+      "sid": 87,
+      "location": 2,
+      "content": "我觉得还是有一点震撼啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.39,
+      "to": 174.61,
+      "sid": 88,
+      "location": 2,
+      "content": "而且他这个最便宜的只要100多美元",
+      "music": 0.0
+    },
+    {
+      "from": 174.61,
+      "to": 176.01,
+      "sid": 89,
+      "location": 2,
+      "content": "就可以搞定一把",
+      "music": 0.0
+    },
+    {
+      "from": 176.01,
+      "to": 178.25,
+      "sid": 90,
+      "location": 2,
+      "content": "这里给我一种美国红脖子版本的",
+      "music": 0.0
+    },
+    {
+      "from": 178.25,
+      "to": 179.67,
+      "sid": 91,
+      "location": 2,
+      "content": "农贸市场的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 179.67,
+      "to": 181.09,
+      "sid": 92,
+      "location": 2,
+      "content": "当然除了硬核的",
+      "music": 0.0
+    },
+    {
+      "from": 181.09,
+      "to": 182.87,
+      "sid": 93,
+      "location": 2,
+      "content": "这里还有很多周边产品",
+      "music": 0.0
+    },
+    {
+      "from": 182.87,
+      "to": 184.72,
+      "sid": 94,
+      "location": 2,
+      "content": "比如说保险柜之类的",
+      "music": 0.0
+    },
+    {
+      "from": 184.72,
+      "to": 187.2,
+      "sid": 95,
+      "location": 2,
+      "content": "这个金字塔里面还有一个真的射击场",
+      "music": 0.0
+    },
+    {
+      "from": 187.2,
+      "to": 188.82,
+      "sid": 96,
+      "location": 2,
+      "content": "我虽然没有找到在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 188.82,
+      "to": 192.28,
+      "sid": 97,
+      "location": 2,
+      "content": "但是我在这个商品区附近还找到了一个模拟版",
+      "music": 0.0
+    },
+    {
+      "from": 201.32,
+      "to": 204.48,
+      "sid": 98,
+      "location": 2,
+      "content": "这边同样也是很多钓鱼佬的乐园",
+      "music": 0.0
+    },
+    {
+      "from": 204.48,
+      "to": 206.74,
+      "sid": 99,
+      "location": 2,
+      "content": "这边的渔具简直堆成山了",
+      "music": 0.0
+    },
+    {
+      "from": 206.74,
+      "to": 209.12,
+      "sid": 100,
+      "location": 2,
+      "content": "墨菲斯金字塔大概有5万平方米",
+      "music": 0.0
+    },
+    {
+      "from": 209.12,
+      "to": 211.38,
+      "sid": 101,
+      "location": 2,
+      "content": "这也是全美最大的bass pro shark",
+      "music": 0.0
+    },
+    {
+      "from": 211.38,
+      "to": 212.82,
+      "sid": 102,
+      "location": 2,
+      "content": "但是这个户外用品店",
+      "music": 0.0
+    },
+    {
+      "from": 212.82,
+      "to": 215.34,
+      "sid": 103,
+      "location": 2,
+      "content": "其他的分店也在4万5000平方米左右",
+      "music": 0.0
+    },
+    {
+      "from": 215.34,
+      "to": 217.34,
+      "sid": 104,
+      "location": 2,
+      "content": "而且每一家都有自己的主题",
+      "music": 0.0
+    },
+    {
+      "from": 217.34,
+      "to": 219.43,
+      "sid": 105,
+      "location": 2,
+      "content": "比如说河流沼泽森林",
+      "music": 0.0
+    },
+    {
+      "from": 219.43,
+      "to": 220.97,
+      "sid": 106,
+      "location": 2,
+      "content": "虽然我没有什么要买的",
+      "music": 0.0
+    },
+    {
+      "from": 220.97,
+      "to": 222.99,
+      "sid": 107,
+      "location": 2,
+      "content": "但是在里面玩的也挺开心的",
+      "music": 0.0
+    },
+    {
+      "from": 222.99,
+      "to": 224.71,
+      "sid": 108,
+      "location": 2,
+      "content": "可能正是因为这个美国",
+      "music": 0.0
+    },
+    {
+      "from": 224.71,
+      "to": 227.73,
+      "sid": 109,
+      "location": 2,
+      "content": "满大街都能看到有人戴着这个base pro shop的帽子",
+      "music": 0.0
+    },
+    {
+      "from": 227.73,
+      "to": 228.25,
+      "sid": 110,
+      "location": 2,
+      "content": "也不贵",
+      "music": 0.0
+    },
+    {
+      "from": 228.25,
+      "to": 229.23,
+      "sid": 111,
+      "location": 2,
+      "content": "只要六美元",
+      "music": 0.0
+    },
+    {
+      "from": 229.23,
+      "to": 231.51,
+      "sid": 112,
+      "location": 2,
+      "content": "这边也有很多带小朋友来玩的家长",
+      "music": 0.0
+    },
+    {
+      "from": 231.51,
+      "to": 233.97,
+      "sid": 113,
+      "location": 2,
+      "content": "可能这里也算是一个适合遛娃的地方",
+      "music": 0.0
+    },
+    {
+      "from": 233.97,
+      "to": 235.67,
+      "sid": 114,
+      "location": 2,
+      "content": "好了这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 235.67,
+      "to": 238.64,
+      "sid": 115,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,1988 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 1.78,
+      "sid": 1,
+      "location": 2,
+      "content": "基特来到了利亚巴尔地摩",
+      "music": 0.0
+    },
+    {
+      "from": 1.78,
+      "to": 4.2,
+      "sid": 2,
+      "location": 2,
+      "content": "获得美国谋杀之都称号的圣路易斯中",
+      "music": 0.0
+    },
+    {
+      "from": 4.2,
+      "to": 5.62,
+      "sid": 3,
+      "location": 2,
+      "content": "犯罪率最高的区之一",
+      "music": 0.0
+    },
+    {
+      "from": 5.62,
+      "to": 6.22,
+      "sid": 4,
+      "location": 2,
+      "content": "The view",
+      "music": 0.0
+    },
+    {
+      "from": 6.22,
+      "to": 8.84,
+      "sid": 5,
+      "location": 2,
+      "content": "整个圣路易斯是42.8%黑人",
+      "music": 0.0
+    },
+    {
+      "from": 8.84,
+      "to": 10.88,
+      "sid": 6,
+      "location": 2,
+      "content": "而这个区是96%黑人",
+      "music": 0.0
+    },
+    {
+      "from": 10.88,
+      "to": 11.88,
+      "sid": 7,
+      "location": 2,
+      "content": "打开犯罪地图",
+      "music": 0.0
+    },
+    {
+      "from": 11.88,
+      "to": 14.33,
+      "sid": 8,
+      "location": 2,
+      "content": "看这边似乎没有一寸土地是安全的",
+      "music": 0.0
+    },
+    {
+      "from": 14.33,
+      "to": 15.89,
+      "sid": 9,
+      "location": 2,
+      "content": "全部都是F评级",
+      "music": 0.0
+    },
+    {
+      "from": 15.89,
+      "to": 17.93,
+      "sid": 10,
+      "location": 2,
+      "content": "我拍摄用的手机都被震了下来",
+      "music": 0.0
+    },
+    {
+      "from": 17.93,
+      "to": 20.05,
+      "sid": 11,
+      "location": 2,
+      "content": "毕竟路况实在是有一点颠簸",
+      "music": 0.0
+    },
+    {
+      "from": 20.05,
+      "to": 21.85,
+      "sid": 12,
+      "location": 2,
+      "content": "路两旁的破房子也很多",
+      "music": 0.0
+    },
+    {
+      "from": 21.85,
+      "to": 23.47,
+      "sid": 13,
+      "location": 2,
+      "content": "不过在这个路口拐一个弯",
+      "music": 0.0
+    },
+    {
+      "from": 23.47,
+      "to": 24.89,
+      "sid": 14,
+      "location": 2,
+      "content": "面前出现的这个建筑",
+      "music": 0.0
+    },
+    {
+      "from": 24.89,
+      "to": 27.06,
+      "sid": 15,
+      "location": 2,
+      "content": "似乎和周围的环境不是太搭啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.06,
+      "to": 29.22,
+      "sid": 16,
+      "location": 2,
+      "content": "我现在进去看看是什么个情况",
+      "music": 0.0
+    },
+    {
+      "from": 29.22,
+      "to": 31.42,
+      "sid": 17,
+      "location": 2,
+      "content": "这期带了个对黑人文化感兴趣的B友",
+      "music": 0.0
+    },
+    {
+      "from": 31.42,
+      "to": 32.48,
+      "sid": 18,
+      "location": 2,
+      "content": "一起体验一下",
+      "music": 0.0
+    },
+    {
+      "from": 32.48,
+      "to": 35.489,
+      "sid": 19,
+      "location": 2,
+      "content": "我们一进门就被一对当地人给团团围住了",
+      "music": 0.0
+    },
+    {
+      "from": 35.489,
+      "to": 38.589,
+      "sid": 20,
+      "location": 2,
+      "content": "毕竟我们这些中国人在这边肯定是稀有物种",
+      "music": 0.0
+    },
+    {
+      "from": 38.589,
+      "to": 40.83,
+      "sid": 21,
+      "location": 2,
+      "content": "他们真的对我们是超级友好",
+      "music": 0.0
+    },
+    {
+      "from": 40.83,
+      "to": 43.83,
+      "sid": 22,
+      "location": 2,
+      "content": "以至于我根本没有时间掏出相机来录视频",
+      "music": 0.0
+    },
+    {
+      "from": 43.83,
+      "to": 46.69,
+      "sid": 23,
+      "location": 2,
+      "content": "他这个进门的大厅里面不止有一个小喷泉",
+      "music": 0.0
+    },
+    {
+      "from": 46.69,
+      "to": 48.65,
+      "sid": 24,
+      "location": 2,
+      "content": "还有不少花花草草什么的",
+      "music": 0.0
+    },
+    {
+      "from": 48.65,
+      "to": 50.07,
+      "sid": 25,
+      "location": 2,
+      "content": "可惜我忘记拍了",
+      "music": 0.0
+    },
+    {
+      "from": 50.07,
+      "to": 52.51,
+      "sid": 26,
+      "location": 2,
+      "content": "然后他这个礼拜堂里面是非常的嗨啊",
+      "music": 0.0
+    },
+    {
+      "from": 52.51,
+      "to": 55.17,
+      "sid": 27,
+      "location": 2,
+      "content": "感觉更像是在开演唱会",
+      "music": 0.0
+    },
+    {
+      "from": 61.38,
+      "to": 62.86,
+      "sid": 28,
+      "location": 2,
+      "content": "大家唱完歌之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 62.86,
+      "to": 64.16,
+      "sid": 29,
+      "location": 2,
+      "content": "还有一个捐款环节",
+      "music": 0.0
+    },
+    {
+      "from": 64.16,
+      "to": 65.46,
+      "sid": 30,
+      "location": 2,
+      "content": "像是这种小教会的",
+      "music": 0.0
+    },
+    {
+      "from": 65.46,
+      "to": 67.96,
+      "sid": 31,
+      "location": 2,
+      "content": "所有收入都是要靠普通人的小捐赠的",
+      "music": 0.0
+    },
+    {
+      "from": 67.96,
+      "to": 70.4,
+      "sid": 32,
+      "location": 2,
+      "content": "看这个建筑能在the view区维护的这么好",
+      "music": 0.0
+    },
+    {
+      "from": 70.53,
+      "to": 72.88,
+      "sid": 33,
+      "location": 2,
+      "content": "想必当地人都是非常的虔诚啊",
+      "music": 0.0
+    },
+    {
+      "from": 72.88,
+      "to": 74.66,
+      "sid": 34,
+      "location": 2,
+      "content": "同行的庇佑也被感化了",
+      "music": 0.0
+    },
+    {
+      "from": 74.66,
+      "to": 81.0,
+      "sid": 35,
+      "location": 2,
+      "content": "去献了一份爱心爱心",
+      "music": 0.6432748349919629
+    },
+    {
+      "from": 81.809,
+      "to": 84.689,
+      "sid": 36,
+      "location": 2,
+      "content": "一般来说这周礼拜过后都是有免费的饭吃的",
+      "music": 0.0
+    },
+    {
+      "from": 84.689,
+      "to": 86.96,
+      "sid": 37,
+      "location": 2,
+      "content": "这边这个长老还让我们留下来吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 86.96,
+      "to": 89.52,
+      "sid": 38,
+      "location": 2,
+      "content": "之前我在黑人农村教会那一期里面展示过",
+      "music": 0.0
+    },
+    {
+      "from": 89.52,
+      "to": 90.34,
+      "sid": 39,
+      "location": 2,
+      "content": "他们的午饭",
+      "music": 0.0
+    },
+    {
+      "from": 90.34,
+      "to": 92.24,
+      "sid": 40,
+      "location": 2,
+      "content": "无论你是什么人都可以去吃",
+      "music": 0.0
+    },
+    {
+      "from": 92.24,
+      "to": 93.9,
+      "sid": 41,
+      "location": 2,
+      "content": "像是讲师里的很多餐",
+      "music": 0.0
+    },
+    {
+      "from": 93.9,
+      "to": 95.28,
+      "sid": 42,
+      "location": 2,
+      "content": "还有免费物资之类的",
+      "music": 0.0
+    },
+    {
+      "from": 95.28,
+      "to": 97.2,
+      "sid": 43,
+      "location": 2,
+      "content": "大部分都是类似的组织搞的",
+      "music": 0.0
+    },
+    {
+      "from": 97.2,
+      "to": 98.78,
+      "sid": 44,
+      "location": 2,
+      "content": "因为我当天另有计划",
+      "music": 0.0
+    },
+    {
+      "from": 98.78,
+      "to": 100.06,
+      "sid": 45,
+      "location": 2,
+      "content": "于是我就先溜了",
+      "music": 0.0
+    },
+    {
+      "from": 100.06,
+      "to": 102.8,
+      "sid": 46,
+      "location": 2,
+      "content": "结果他们这个长老还特地跑出来送我们一程",
+      "music": 0.0
+    },
+    {
+      "from": 102.8,
+      "to": 105.74,
+      "sid": 47,
+      "location": 2,
+      "content": "其实教会在黑人族群中是非常重要的存在",
+      "music": 0.0
+    },
+    {
+      "from": 105.74,
+      "to": 106.42,
+      "sid": 48,
+      "location": 2,
+      "content": "在美国",
+      "music": 0.0
+    },
+    {
+      "from": 106.42,
+      "to": 109.48,
+      "sid": 49,
+      "location": 2,
+      "content": "91%的黑人认同宗教对生活的重要性",
+      "music": 0.0
+    },
+    {
+      "from": 109.48,
+      "to": 110.3,
+      "sid": 50,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 110.3,
+      "to": 112.44,
+      "sid": 51,
+      "location": 2,
+      "content": "只有75%的白人这么认为",
+      "music": 0.0
+    },
+    {
+      "from": 112.44,
+      "to": 114.2,
+      "sid": 52,
+      "location": 2,
+      "content": "黑人这么虔诚的很大原因",
+      "music": 0.0
+    },
+    {
+      "from": 114.2,
+      "to": 114.36,
+      "sid": 53,
+      "location": 2,
+      "content": "就是",
+      "music": 0.0
+    },
+    {
+      "from": 114.36,
+      "to": 117.38,
+      "sid": 54,
+      "location": 2,
+      "content": "因为他们在历史上一直受到各种歧视和压迫",
+      "music": 0.0
+    },
+    {
+      "from": 117.38,
+      "to": 119.2,
+      "sid": 55,
+      "location": 2,
+      "content": "要是没有宗教的精神慰藉",
+      "music": 0.0
+    },
+    {
+      "from": 119.2,
+      "to": 121.06,
+      "sid": 56,
+      "location": 2,
+      "content": "生活就根本没有希望了",
+      "music": 0.0
+    },
+    {
+      "from": 121.06,
+      "to": 123.39,
+      "sid": 57,
+      "location": 2,
+      "content": "而且教会的社区功能也很重要",
+      "music": 0.0
+    },
+    {
+      "from": 123.39,
+      "to": 126.41,
+      "sid": 58,
+      "location": 2,
+      "content": "像是当年明确运动中的玛丽路德金就是牧师",
+      "music": 0.0
+    },
+    {
+      "from": 126.41,
+      "to": 127.85,
+      "sid": 59,
+      "location": 2,
+      "content": "我刚刚去的那个教会",
+      "music": 0.0
+    },
+    {
+      "from": 127.85,
+      "to": 129.59,
+      "sid": 60,
+      "location": 2,
+      "content": "除了会搞搞讲师参之外",
+      "music": 0.0
+    },
+    {
+      "from": 129.59,
+      "to": 132.11,
+      "sid": 61,
+      "location": 2,
+      "content": "也会给那种黑人贫困学生奖学金",
+      "music": 0.0
+    },
+    {
+      "from": 132.11,
+      "to": 134.11,
+      "sid": 62,
+      "location": 2,
+      "content": "组织各种社区活动之类的",
+      "music": 0.0
+    },
+    {
+      "from": 134.11,
+      "to": 136.63,
+      "sid": 63,
+      "location": 2,
+      "content": "所以说本地人也比较爱护这么一个组织",
+      "music": 0.0
+    },
+    {
+      "from": 136.63,
+      "to": 140.019,
+      "sid": 64,
+      "location": 2,
+      "content": "我现在来到了5分钟车程之外的黑人天主教堂",
+      "music": 0.0
+    },
+    {
+      "from": 140.019,
+      "to": 141.779,
+      "sid": 65,
+      "location": 2,
+      "content": "这边和刚刚的有点像",
+      "music": 0.0
+    },
+    {
+      "from": 141.779,
+      "to": 143.019,
+      "sid": 66,
+      "location": 2,
+      "content": "除了教会的建筑",
+      "music": 0.0
+    },
+    {
+      "from": 143.019,
+      "to": 144.299,
+      "sid": 67,
+      "location": 2,
+      "content": "看起来维护的不错",
+      "music": 0.0
+    },
+    {
+      "from": 144.299,
+      "to": 146.18,
+      "sid": 68,
+      "location": 2,
+      "content": "周围都是破破烂烂的",
+      "music": 0.0
+    },
+    {
+      "from": 146.18,
+      "to": 147.02,
+      "sid": 69,
+      "location": 2,
+      "content": "在入口处",
+      "music": 0.0
+    },
+    {
+      "from": 147.02,
+      "to": 148.52,
+      "sid": 70,
+      "location": 2,
+      "content": "我一个老哥在那边要钱",
+      "music": 0.0
+    },
+    {
+      "from": 148.52,
+      "to": 150.02,
+      "sid": 71,
+      "location": 2,
+      "content": "我觉得老哥能选到这里",
+      "music": 0.0
+    },
+    {
+      "from": 150.02,
+      "to": 151.64,
+      "sid": 72,
+      "location": 2,
+      "content": "说明很有商业头脑啊",
+      "music": 0.0
+    },
+    {
+      "from": 151.64,
+      "to": 154.06,
+      "sid": 73,
+      "location": 2,
+      "content": "老哥也给我们讲了一下自己的人生",
+      "music": 0.0
+    },
+    {
+      "from": 154.06,
+      "to": 155.72,
+      "sid": 74,
+      "location": 2,
+      "content": "他今年75岁了",
+      "music": 0.0
+    },
+    {
+      "from": 155.72,
+      "to": 157.26,
+      "sid": 75,
+      "location": 2,
+      "content": "之前强制征兵的时候",
+      "music": 0.0
+    },
+    {
+      "from": 157.26,
+      "to": 159.32,
+      "sid": 76,
+      "location": 2,
+      "content": "把他和哥哥都送到越南去了",
+      "music": 0.0
+    },
+    {
+      "from": 159.32,
+      "to": 160.9,
+      "sid": 77,
+      "location": 2,
+      "content": "他的哥哥在越南战死了",
+      "music": 0.0
+    },
+    {
+      "from": 160.9,
+      "to": 162.35,
+      "sid": 78,
+      "location": 2,
+      "content": "但是他活着回来了",
+      "music": 0.0
+    },
+    {
+      "from": 162.35,
+      "to": 164.01,
+      "sid": 79,
+      "location": 2,
+      "content": "前两天他的癫痫症发作",
+      "music": 0.0
+    },
+    {
+      "from": 164.01,
+      "to": 165.29,
+      "sid": 80,
+      "location": 2,
+      "content": "直接倒在了路上",
+      "music": 0.0
+    },
+    {
+      "from": 165.29,
+      "to": 167.329,
+      "sid": 81,
+      "location": 2,
+      "content": "不过他最近交了一个女朋友",
+      "music": 0.0
+    },
+    {
+      "from": 167.329,
+      "to": 170.209,
+      "sid": 82,
+      "location": 2,
+      "content": "他的腰包就是女朋友去赌场用积分兑换",
+      "music": 0.0
+    },
+    {
+      "from": 170.209,
+      "to": 171.069,
+      "sid": 83,
+      "location": 2,
+      "content": "送给他的",
+      "music": 0.0
+    },
+    {
+      "from": 171.069,
+      "to": 173.32,
+      "sid": 84,
+      "location": 2,
+      "content": "有爱心的B友给了老哥五美元",
+      "music": 0.0
+    },
+    {
+      "from": 173.32,
+      "to": 174.4,
+      "sid": 85,
+      "location": 2,
+      "content": "老鹅跟我们说",
+      "music": 0.0
+    },
+    {
+      "from": 174.4,
+      "to": 176.12,
+      "sid": 86,
+      "location": 2,
+      "content": "下周他还会来这里等我们",
+      "music": 0.0
+    },
+    {
+      "from": 176.12,
+      "to": 178.47,
+      "sid": 87,
+      "location": 2,
+      "content": "其实黑人天主教堂非常的罕见",
+      "music": 0.0
+    },
+    {
+      "from": 178.47,
+      "to": 181.43,
+      "sid": 88,
+      "location": 2,
+      "content": "因为黑人群体中信天主教的只占6%",
+      "music": 0.0
+    },
+    {
+      "from": 181.43,
+      "to": 184.13,
+      "sid": 89,
+      "location": 2,
+      "content": "不过圣路易斯这边黑人人口基数够大",
+      "music": 0.0
+    },
+    {
+      "from": 184.13,
+      "to": 185.64,
+      "sid": 90,
+      "location": 2,
+      "content": "所以说问题不大",
+      "music": 0.0
+    },
+    {
+      "from": 185.64,
+      "to": 188.38,
+      "sid": 91,
+      "location": 2,
+      "content": "像是这些墙上挂的一些照片都是黑人的",
+      "music": 0.0
+    },
+    {
+      "from": 188.38,
+      "to": 190.4,
+      "sid": 92,
+      "location": 2,
+      "content": "不过我个人对宗教是一窍不通",
+      "music": 0.0
+    },
+    {
+      "from": 190.4,
+      "to": 192.93,
+      "sid": 93,
+      "location": 2,
+      "content": "所以我也不知道墙上挂的这些人是谁",
+      "music": 0.0
+    },
+    {
+      "from": 192.93,
+      "to": 195.25,
+      "sid": 94,
+      "location": 2,
+      "content": "不过这个教会的牧师却是一个白人",
+      "music": 0.0
+    },
+    {
+      "from": 195.25,
+      "to": 196.17,
+      "sid": 95,
+      "location": 2,
+      "content": "我去查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 196.17,
+      "to": 199.51,
+      "sid": 96,
+      "location": 2,
+      "content": "他们这个细分领域的白人牧师确实占绝大多数",
+      "music": 0.0
+    },
+    {
+      "from": 199.51,
+      "to": 202.57,
+      "sid": 97,
+      "location": 2,
+      "content": "而且这边肉眼观测也有10%是白人吧",
+      "music": 0.0
+    },
+    {
+      "from": 202.57,
+      "to": 203.95,
+      "sid": 98,
+      "location": 2,
+      "content": "刚刚那个我可以肯定",
+      "music": 0.0
+    },
+    {
+      "from": 203.95,
+      "to": 206.45,
+      "sid": 99,
+      "location": 2,
+      "content": "除了我们两个亚洲人是100%黑人",
+      "music": 0.0
+    },
+    {
+      "from": 206.45,
+      "to": 209.29,
+      "sid": 100,
+      "location": 2,
+      "content": "不过天主教堂一般来说修的都是比较华丽啊",
+      "music": 0.0
+    },
+    {
+      "from": 209.29,
+      "to": 211.64,
+      "sid": 101,
+      "location": 2,
+      "content": "这也导致整体环境比较庄严",
+      "music": 0.0
+    },
+    {
+      "from": 211.64,
+      "to": 212.6,
+      "sid": 102,
+      "location": 2,
+      "content": "太压抑了",
+      "music": 0.0
+    },
+    {
+      "from": 212.6,
+      "to": 213.22,
+      "sid": 103,
+      "location": 2,
+      "content": "家人们",
+      "music": 0.0
+    },
+    {
+      "from": 213.22,
+      "to": 215.56,
+      "sid": 104,
+      "location": 2,
+      "content": "这导致各位兄弟姐妹们很难嗨起来",
+      "music": 0.0
+    },
+    {
+      "from": 215.56,
+      "to": 216.58,
+      "sid": 105,
+      "location": 2,
+      "content": "唱歌之类的",
+      "music": 0.0
+    },
+    {
+      "from": 216.58,
+      "to": 219.86,
+      "sid": 106,
+      "location": 2,
+      "content": "也没有那么热情的黑人大姐跟我们打招呼了",
+      "music": 0.0
+    },
+    {
+      "from": 219.86,
+      "to": 222.2,
+      "sid": 107,
+      "location": 2,
+      "content": "不过总的来说氛围也还算不错吧",
+      "music": 0.0
+    },
+    {
+      "from": 222.2,
+      "to": 224.1,
+      "sid": 108,
+      "location": 2,
+      "content": "就是有点让我昏昏欲睡",
+      "music": 0.0
+    },
+    {
+      "from": 224.1,
+      "to": 226.44,
+      "sid": 109,
+      "location": 2,
+      "content": "于是我中途就出去转悠了一圈",
+      "music": 0.0
+    },
+    {
+      "from": 226.44,
+      "to": 228.45,
+      "sid": 110,
+      "location": 2,
+      "content": "顺便看看我的车还在不在",
+      "music": 0.0
+    },
+    {
+      "from": 228.45,
+      "to": 230.75,
+      "sid": 111,
+      "location": 2,
+      "content": "其实圣路易斯也算是铁锈区",
+      "music": 0.0
+    },
+    {
+      "from": 230.75,
+      "to": 231.75,
+      "sid": 112,
+      "location": 2,
+      "content": "这边的停车场",
+      "music": 0.0
+    },
+    {
+      "from": 231.75,
+      "to": 233.45,
+      "sid": 113,
+      "location": 2,
+      "content": "可以看到远处的废弃工厂",
+      "music": 0.0
+    },
+    {
+      "from": 233.45,
+      "to": 236.55,
+      "sid": 114,
+      "location": 2,
+      "content": "另外一侧的红房子就是直接贴着废弃的厂房",
+      "music": 0.0
+    },
+    {
+      "from": 236.55,
+      "to": 238.67,
+      "sid": 115,
+      "location": 2,
+      "content": "曾经这个教会还办过学校",
+      "music": 0.0
+    },
+    {
+      "from": 238.67,
+      "to": 240.45,
+      "sid": 116,
+      "location": 2,
+      "content": "但是由于学生的流失",
+      "music": 0.0
+    },
+    {
+      "from": 240.45,
+      "to": 242.93,
+      "sid": 117,
+      "location": 2,
+      "content": "这个学校在1973年就关闭了",
+      "music": 0.0
+    },
+    {
+      "from": 242.93,
+      "to": 243.87,
+      "sid": 118,
+      "location": 2,
+      "content": "转了一圈回来",
+      "music": 0.0
+    },
+    {
+      "from": 243.87,
+      "to": 247.0,
+      "sid": 119,
+      "location": 2,
+      "content": "终于等到他们的唱歌环节了",
+      "music": 0.0
+    },
+    {
+      "from": 248.68,
+      "to": 250.6,
+      "sid": 120,
+      "location": 2,
+      "content": "虽然说没有之前那个那么嗨",
+      "music": 0.0
+    },
+    {
+      "from": 250.6,
+      "to": 251.88,
+      "sid": 121,
+      "location": 2,
+      "content": "但是听B友说",
+      "music": 0.0
+    },
+    {
+      "from": 251.88,
+      "to": 254.26,
+      "sid": 122,
+      "location": 2,
+      "content": "这算是他去过最嗨的天主教会",
+      "music": 0.0
+    },
+    {
+      "from": 254.26,
+      "to": 255.84,
+      "sid": 123,
+      "location": 2,
+      "content": "如果去纯白人的那种",
+      "music": 0.0
+    },
+    {
+      "from": 255.84,
+      "to": 257.419,
+      "sid": 124,
+      "location": 2,
+      "content": "要比这个严肃很多",
+      "music": 0.0
+    },
+    {
+      "from": 257.419,
+      "to": 259.159,
+      "sid": 125,
+      "location": 2,
+      "content": "不可能像这么唱歌的",
+      "music": 0.0
+    },
+    {
+      "from": 259.159,
+      "to": 261.579,
+      "sid": 126,
+      "location": 2,
+      "content": "而且像我这样像猴子一样上蹿下跳",
+      "music": 0.0
+    },
+    {
+      "from": 261.579,
+      "to": 264.2,
+      "sid": 127,
+      "location": 2,
+      "content": "其实有一点无礼啊",
+      "music": 0.0
+    },
+    {
+      "from": 265.86,
+      "to": 268.26,
+      "sid": 128,
+      "location": 2,
+      "content": "I don't know",
+      "music": 0.999999545454752
+    },
+    {
+      "from": 271.2,
+      "to": 273.76,
+      "sid": 129,
+      "location": 2,
+      "content": "跟那个跟神父的道别啊",
+      "music": 0.0
+    },
+    {
+      "from": 273.76,
+      "to": 275.64,
+      "sid": 130,
+      "location": 2,
+      "content": "为什么神父是一个白人",
+      "music": 0.0
+    },
+    {
+      "from": 275.64,
+      "to": 278.05,
+      "sid": 131,
+      "location": 2,
+      "content": "因为他REDEMPOROUS哦",
+      "music": 0.0
+    },
+    {
+      "from": 278.05,
+      "to": 280.45,
+      "sid": 132,
+      "location": 2,
+      "content": "B友觉得这个白人有一点虚伪啊",
+      "music": 0.0
+    },
+    {
+      "from": 280.45,
+      "to": 283.15,
+      "sid": 133,
+      "location": 2,
+      "content": "没有之前那个纯黑人教会那么实诚",
+      "music": 0.0
+    },
+    {
+      "from": 283.15,
+      "to": 285.07,
+      "sid": 134,
+      "location": 2,
+      "content": "所以说他这次都没有捐款",
+      "music": 0.0
+    },
+    {
+      "from": 285.07,
+      "to": 287.19,
+      "sid": 135,
+      "location": 2,
+      "content": "不过好消息是我的车还在啊",
+      "music": 0.0
+    },
+    {
+      "from": 287.19,
+      "to": 289.01,
+      "sid": 136,
+      "location": 2,
+      "content": "于是我找了一个附近的黑人犯",
+      "music": 0.0
+    },
+    {
+      "from": 289.01,
+      "to": 290.94,
+      "sid": 137,
+      "location": 2,
+      "content": "打算带B友去品鉴一下",
+      "music": 0.0
+    },
+    {
+      "from": 290.94,
+      "to": 293.3,
+      "sid": 138,
+      "location": 2,
+      "content": "结果到了才发现这个店已经倒闭了",
+      "music": 0.0
+    },
+    {
+      "from": 293.3,
+      "to": 294.96,
+      "sid": 139,
+      "location": 2,
+      "content": "我只能再又找了一家",
+      "music": 0.0
+    },
+    {
+      "from": 294.96,
+      "to": 296.28,
+      "sid": 140,
+      "location": 2,
+      "content": "在去吃饭的路上",
+      "music": 0.0
+    },
+    {
+      "from": 296.28,
+      "to": 299.44,
+      "sid": 141,
+      "location": 2,
+      "content": "我发现马路两侧老建筑的窗户都被封死了",
+      "music": 0.0
+    },
+    {
+      "from": 299.44,
+      "to": 301.4,
+      "sid": 142,
+      "location": 2,
+      "content": "这边当年应该是挺热闹的吧",
+      "music": 0.0
+    },
+    {
+      "from": 301.4,
+      "to": 303.48,
+      "sid": 143,
+      "location": 2,
+      "content": "我在网上找了这个叫妈妈的鱼的",
+      "music": 0.0
+    },
+    {
+      "from": 303.48,
+      "to": 304.95,
+      "sid": 144,
+      "location": 2,
+      "content": "3.7评分的店",
+      "music": 0.0
+    },
+    {
+      "from": 304.95,
+      "to": 308.29,
+      "sid": 145,
+      "location": 2,
+      "content": "本来看网上照片的时候都是看街角有很多兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 308.29,
+      "to": 309.91,
+      "sid": 146,
+      "location": 2,
+      "content": "结果今天中午去吃的时候",
+      "music": 0.0
+    },
+    {
+      "from": 309.91,
+      "to": 311.44,
+      "sid": 147,
+      "location": 2,
+      "content": "发现人并不是很多",
+      "music": 0.0
+    },
+    {
+      "from": 311.44,
+      "to": 313.62,
+      "sid": 148,
+      "location": 2,
+      "content": "他这边主要还是汉堡炸鸡",
+      "music": 0.0
+    },
+    {
+      "from": 313.62,
+      "to": 317.24,
+      "sid": 149,
+      "location": 2,
+      "content": "我凭借直觉点了一个可能比较有特色的火鸡饭",
+      "music": 0.0
+    },
+    {
+      "from": 317.24,
+      "to": 318.32,
+      "sid": 150,
+      "location": 2,
+      "content": "在等菜的时候",
+      "music": 0.0
+    },
+    {
+      "from": 318.32,
+      "to": 320.07,
+      "sid": 151,
+      "location": 2,
+      "content": "我跟B我再出去转一圈",
+      "music": 0.0
+    },
+    {
+      "from": 320.07,
+      "to": 322.87,
+      "sid": 152,
+      "location": 2,
+      "content": "我们看看在这个街角能发泄点什么好玩的",
+      "music": 0.0
+    },
+    {
+      "from": 322.87,
+      "to": 324.75,
+      "sid": 153,
+      "location": 2,
+      "content": "这个牌子大致的意思就是说",
+      "music": 0.0
+    },
+    {
+      "from": 324.75,
+      "to": 326.65,
+      "sid": 154,
+      "location": 2,
+      "content": "黑人族群内不要互相伤害",
+      "music": 0.0
+    },
+    {
+      "from": 326.65,
+      "to": 329.19,
+      "sid": 155,
+      "location": 2,
+      "content": "毕竟他们族群内斗还是比较严重",
+      "music": 0.0
+    },
+    {
+      "from": 329.19,
+      "to": 331.55,
+      "sid": 156,
+      "location": 2,
+      "content": "然后他这旁边还有一个大教堂",
+      "music": 0.0
+    },
+    {
+      "from": 331.55,
+      "to": 333.49,
+      "sid": 157,
+      "location": 2,
+      "content": "这边有好多这种破窗户呀",
+      "music": 0.0
+    },
+    {
+      "from": 333.49,
+      "to": 336.39,
+      "sid": 158,
+      "location": 2,
+      "content": "所以说他这个应该是废弃的",
+      "music": 0.0
+    },
+    {
+      "from": 336.39,
+      "to": 338.55,
+      "sid": 159,
+      "location": 2,
+      "content": "我其实算是个废墟爱好者",
+      "music": 0.0
+    },
+    {
+      "from": 338.55,
+      "to": 339.97,
+      "sid": 160,
+      "location": 2,
+      "content": "只不过今天还等着吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 339.97,
+      "to": 340.71,
+      "sid": 161,
+      "location": 2,
+      "content": "就算了",
+      "music": 0.0
+    },
+    {
+      "from": 340.71,
+      "to": 343.01,
+      "sid": 162,
+      "location": 2,
+      "content": "而且这一边的安保还挺严的",
+      "music": 0.0
+    },
+    {
+      "from": 343.01,
+      "to": 344.41,
+      "sid": 163,
+      "location": 2,
+      "content": "看这上面贴的文件",
+      "music": 0.0
+    },
+    {
+      "from": 344.41,
+      "to": 345.71,
+      "sid": 164,
+      "location": 2,
+      "content": "马上就要拍卖了",
+      "music": 0.0
+    },
+    {
+      "from": 345.71,
+      "to": 348.15,
+      "sid": 165,
+      "location": 2,
+      "content": "美国这种铁锈区由于人口流失",
+      "music": 0.0
+    },
+    {
+      "from": 348.15,
+      "to": 349.909,
+      "sid": 166,
+      "location": 2,
+      "content": "空置的建筑非常多",
+      "music": 0.0
+    },
+    {
+      "from": 349.909,
+      "to": 350.869,
+      "sid": 167,
+      "location": 2,
+      "content": "像是底特律",
+      "music": 0.0
+    },
+    {
+      "from": 350.869,
+      "to": 351.869,
+      "sid": 168,
+      "location": 2,
+      "content": "之前去过几个教堂",
+      "music": 0.0
+    },
+    {
+      "from": 351.869,
+      "to": 352.929,
+      "sid": 169,
+      "location": 2,
+      "content": "还挺壮观的",
+      "music": 0.0
+    },
+    {
+      "from": 352.929,
+      "to": 354.289,
+      "sid": 170,
+      "location": 2,
+      "content": "回到饭店的街角",
+      "music": 0.0
+    },
+    {
+      "from": 354.289,
+      "to": 355.689,
+      "sid": 171,
+      "location": 2,
+      "content": "这边还有一个药店",
+      "music": 0.0
+    },
+    {
+      "from": 355.689,
+      "to": 358.51,
+      "sid": 172,
+      "location": 2,
+      "content": "他们这边请的保安制服还挺帅",
+      "music": 0.0
+    },
+    {
+      "from": 360.13,
+      "to": 360.69,
+      "sid": 173,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 360.69,
+      "to": 362.17,
+      "sid": 174,
+      "location": 2,
+      "content": "But you look high",
+      "music": 0.0
+    },
+    {
+      "from": 362.17,
+      "to": 363.31,
+      "sid": 175,
+      "location": 2,
+      "content": "I'm dad",
+      "music": 0.0
+    },
+    {
+      "from": 363.31,
+      "to": 364.67,
+      "sid": 176,
+      "location": 2,
+      "content": "You look hii",
+      "music": 0.0
+    },
+    {
+      "from": 364.67,
+      "to": 366.27,
+      "sid": 177,
+      "location": 2,
+      "content": "don't know you know啊",
+      "music": 0.0
+    },
+    {
+      "from": 366.27,
+      "to": 367.31,
+      "sid": 178,
+      "location": 2,
+      "content": "来了不到",
+      "music": 0.0
+    },
+    {
+      "from": 367.31,
+      "to": 369.73,
+      "sid": 179,
+      "location": 2,
+      "content": "这个药店内部不太方便给大家看",
+      "music": 0.0
+    },
+    {
+      "from": 369.73,
+      "to": 372.55,
+      "sid": 180,
+      "location": 2,
+      "content": "不过旁边一个小杂货店还是可以拍一拍",
+      "music": 0.0
+    },
+    {
+      "from": 372.55,
+      "to": 374.85,
+      "sid": 181,
+      "location": 2,
+      "content": "这边内部的防御工事做的不错",
+      "music": 0.0
+    },
+    {
+      "from": 374.85,
+      "to": 375.23,
+      "sid": 182,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 375.23,
+      "to": 376.79,
+      "sid": 183,
+      "location": 2,
+      "content": "我们现在回到店里吃饭了",
+      "music": 0.0
+    },
+    {
+      "from": 376.79,
+      "to": 379.41,
+      "sid": 184,
+      "location": 2,
+      "content": "虽然说这个火鸡肉配饭的卖相不怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 379.41,
+      "to": 381.53,
+      "sid": 185,
+      "location": 2,
+      "content": "但是吃起来还是挺不错的",
+      "music": 0.0
+    },
+    {
+      "from": 381.53,
+      "to": 383.49,
+      "sid": 186,
+      "location": 2,
+      "content": "B友吃的是爱不释手啊",
+      "music": 0.0
+    },
+    {
+      "from": 383.49,
+      "to": 384.89,
+      "sid": 187,
+      "location": 2,
+      "content": "他说这个鸡肉很嫩",
+      "music": 0.0
+    },
+    {
+      "from": 384.89,
+      "to": 385.73,
+      "sid": 188,
+      "location": 2,
+      "content": "不怎么柴",
+      "music": 0.0
+    },
+    {
+      "from": 385.73,
+      "to": 388.12,
+      "sid": 189,
+      "location": 2,
+      "content": "然后肉汁拌饭也挺下饭的",
+      "music": 0.0
+    },
+    {
+      "from": 388.12,
+      "to": 391.1,
+      "sid": 190,
+      "location": 2,
+      "content": "美中不足的就是他这个米饭有一点太湿了",
+      "music": 0.0
+    },
+    {
+      "from": 391.1,
+      "to": 392.42,
+      "sid": 191,
+      "location": 2,
+      "content": "如果我们中国人的话",
+      "music": 0.0
+    },
+    {
+      "from": 392.42,
+      "to": 393.78,
+      "sid": 192,
+      "location": 2,
+      "content": "更喜欢干一点的饭",
+      "music": 0.0
+    },
+    {
+      "from": 393.78,
+      "to": 394.78,
+      "sid": 193,
+      "location": 2,
+      "content": "我尝了两口",
+      "music": 0.0
+    },
+    {
+      "from": 394.78,
+      "to": 396.0,
+      "sid": 194,
+      "location": 2,
+      "content": "确实味道还不错吧",
+      "music": 0.0
+    },
+    {
+      "from": 396.0,
+      "to": 398.98,
+      "sid": 195,
+      "location": 2,
+      "content": "不过大部分时候我都在玩这个篮球",
+      "music": 0.0
+    },
+    {
+      "from": 401.36,
+      "to": 403.96,
+      "sid": 196,
+      "location": 2,
+      "content": "我那天不饿的原因其实是",
+      "music": 0.0
+    },
+    {
+      "from": 403.96,
+      "to": 405.87,
+      "sid": 197,
+      "location": 2,
+      "content": "我早上确实领到了讲师餐",
+      "music": 0.0
+    },
+    {
+      "from": 405.87,
+      "to": 407.75,
+      "sid": 198,
+      "location": 2,
+      "content": "我白天在黑人区漫游的时候",
+      "music": 0.0
+    },
+    {
+      "from": 407.75,
+      "to": 410.45,
+      "sid": 199,
+      "location": 2,
+      "content": "看到一个老哥在路边明目张胆的烤热狗",
+      "music": 0.0
+    },
+    {
+      "from": 410.45,
+      "to": 412.11,
+      "sid": 200,
+      "location": 2,
+      "content": "这种按照我多年的经验看",
+      "music": 0.0
+    },
+    {
+      "from": 412.11,
+      "to": 413.28,
+      "sid": 201,
+      "location": 2,
+      "content": "就是免费送的啊",
+      "music": 0.0
+    },
+    {
+      "from": 413.28,
+      "to": 414.04,
+      "sid": 202,
+      "location": 2,
+      "content": "一下去问",
+      "music": 0.0
+    },
+    {
+      "from": 414.04,
+      "to": 415.28,
+      "sid": 203,
+      "location": 2,
+      "content": "果然是这样",
+      "music": 0.0
+    },
+    {
+      "from": 415.28,
+      "to": 418.16,
+      "sid": 204,
+      "location": 2,
+      "content": "So there will be a lot of people in eleven clock",
+      "music": 0.0
+    },
+    {
+      "from": 418.16,
+      "to": 418.68,
+      "sid": 205,
+      "location": 2,
+      "content": "Come here",
+      "music": 0.0
+    },
+    {
+      "from": 418.68,
+      "to": 420.26,
+      "sid": 206,
+      "location": 2,
+      "content": "嗯哼嗯嗯",
+      "music": 0.0
+    },
+    {
+      "from": 420.26,
+      "to": 422.6,
+      "sid": 207,
+      "location": 2,
+      "content": "Here from eleven or two eleven to two",
+      "music": 0.0
+    },
+    {
+      "from": 422.6,
+      "to": 423.96,
+      "sid": 208,
+      "location": 2,
+      "content": "And everything is free",
+      "music": 0.0
+    },
+    {
+      "from": 423.96,
+      "to": 424.22,
+      "sid": 209,
+      "location": 2,
+      "content": "Nothing",
+      "music": 0.0
+    },
+    {
+      "from": 424.22,
+      "to": 424.88,
+      "sid": 210,
+      "location": 2,
+      "content": "Everything is free",
+      "music": 0.0
+    },
+    {
+      "from": 424.88,
+      "to": 425.3,
+      "sid": 211,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 426.38,
+      "to": 428.65,
+      "sid": 212,
+      "location": 2,
+      "content": "So what motivates you to do this",
+      "music": 0.0
+    },
+    {
+      "from": 429.01,
+      "to": 429.41,
+      "sid": 213,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 429.41,
+      "to": 430.45,
+      "sid": 214,
+      "location": 2,
+      "content": "This is through our church",
+      "music": 0.0
+    },
+    {
+      "from": 430.45,
+      "to": 432.89,
+      "sid": 215,
+      "location": 2,
+      "content": "Collaborated with uh the urban lee cagal",
+      "music": 0.0
+    },
+    {
+      "from": 432.89,
+      "to": 433.41,
+      "sid": 216,
+      "location": 2,
+      "content": "The glory",
+      "music": 0.0
+    },
+    {
+      "from": 433.41,
+      "to": 434.05,
+      "sid": 217,
+      "location": 2,
+      "content": "See the signs",
+      "music": 0.0
+    },
+    {
+      "from": 434.05,
+      "to": 437.33,
+      "sid": 218,
+      "location": 2,
+      "content": "This is what we do for every thirty from eleven to two to",
+      "music": 0.0
+    },
+    {
+      "from": 437.33,
+      "to": 438.53,
+      "sid": 219,
+      "location": 2,
+      "content": "Give back to the community",
+      "music": 0.0
+    },
+    {
+      "from": 438.53,
+      "to": 439.69,
+      "sid": 220,
+      "location": 2,
+      "content": "我到的时候太早了",
+      "music": 0.0
+    },
+    {
+      "from": 439.69,
+      "to": 440.49,
+      "sid": 221,
+      "location": 2,
+      "content": "没有开始",
+      "music": 0.0
+    },
+    {
+      "from": 440.49,
+      "to": 441.89,
+      "sid": 222,
+      "location": 2,
+      "content": "我说能不能买一个",
+      "music": 0.0
+    },
+    {
+      "from": 441.89,
+      "to": 443.61,
+      "sid": 223,
+      "location": 2,
+      "content": "老哥说这个是非卖品",
+      "music": 0.0
+    },
+    {
+      "from": 443.61,
+      "to": 446.25,
+      "sid": 224,
+      "location": 2,
+      "content": "于是我只能去黑人区别的地方瞎逛了",
+      "music": 0.0
+    },
+    {
+      "from": 446.25,
+      "to": 447.73,
+      "sid": 225,
+      "location": 2,
+      "content": "正好碰到一堆小朋友",
+      "music": 0.0
+    },
+    {
+      "from": 447.73,
+      "to": 449.97,
+      "sid": 226,
+      "location": 2,
+      "content": "在一个操场上面训练橄榄球",
+      "music": 0.0
+    },
+    {
+      "from": 449.97,
+      "to": 450.77,
+      "sid": 227,
+      "location": 2,
+      "content": "圣路易斯",
+      "music": 0.0
+    },
+    {
+      "from": 450.77,
+      "to": 453.61,
+      "sid": 228,
+      "location": 2,
+      "content": "或者说整个美国现在依旧是非常种族隔离的",
+      "music": 0.0
+    },
+    {
+      "from": 453.61,
+      "to": 455.11,
+      "sid": 229,
+      "location": 2,
+      "content": "像我今天去的黑人教会",
+      "music": 0.0
+    },
+    {
+      "from": 455.11,
+      "to": 457.25,
+      "sid": 230,
+      "location": 2,
+      "content": "其实就是当年种族隔离的延续",
+      "music": 0.0
+    },
+    {
+      "from": 457.25,
+      "to": 458.37,
+      "sid": 231,
+      "location": 2,
+      "content": "当年的白人教会",
+      "music": 0.0
+    },
+    {
+      "from": 458.37,
+      "to": 459.81,
+      "sid": 232,
+      "location": 2,
+      "content": "黑人是完全不能进的",
+      "music": 0.0
+    },
+    {
+      "from": 459.81,
+      "to": 462.57,
+      "sid": 233,
+      "location": 2,
+      "content": "现在种族隔离虽然说废除了黑人去",
+      "music": 0.0
+    },
+    {
+      "from": 462.57,
+      "to": 463.77,
+      "sid": 234,
+      "location": 2,
+      "content": "外部人都觉得很危险",
+      "music": 0.0
+    },
+    {
+      "from": 463.77,
+      "to": 464.75,
+      "sid": 235,
+      "location": 2,
+      "content": "一般不会去",
+      "music": 0.0
+    },
+    {
+      "from": 464.75,
+      "to": 466.07,
+      "sid": 236,
+      "location": 2,
+      "content": "但是如果你真的去的话",
+      "music": 0.0
+    },
+    {
+      "from": 466.07,
+      "to": 468.21,
+      "sid": 237,
+      "location": 2,
+      "content": "他们本地人对你其实是挺友善的",
+      "music": 0.0
+    },
+    {
+      "from": 468.21,
+      "to": 469.24,
+      "sid": 238,
+      "location": 2,
+      "content": "说来很巧啊",
+      "music": 0.0
+    },
+    {
+      "from": 469.24,
+      "to": 470.92,
+      "sid": 239,
+      "location": 2,
+      "content": "我当天下午在瞎逛的时候",
+      "music": 0.0
+    },
+    {
+      "from": 470.92,
+      "to": 473.18,
+      "sid": 240,
+      "location": 2,
+      "content": "在圣路易斯核心的森林公园里面",
+      "music": 0.0
+    },
+    {
+      "from": 473.18,
+      "to": 474.84,
+      "sid": 241,
+      "location": 2,
+      "content": "碰到一个什么宴会活动",
+      "music": 0.0
+    },
+    {
+      "from": 474.84,
+      "to": 476.37,
+      "sid": 242,
+      "location": 2,
+      "content": "除了经过的路人",
+      "music": 0.0
+    },
+    {
+      "from": 476.37,
+      "to": 478.05,
+      "sid": 243,
+      "location": 2,
+      "content": "参加的全部都是白人",
+      "music": 0.0
+    },
+    {
+      "from": 478.05,
+      "to": 479.99,
+      "sid": 244,
+      "location": 2,
+      "content": "连亚洲人和拉美人都见不到",
+      "music": 0.0
+    },
+    {
+      "from": 479.99,
+      "to": 480.41,
+      "sid": 245,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 480.41,
+      "to": 481.59,
+      "sid": 246,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 481.59,
+      "to": 484.42,
+      "sid": 247,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

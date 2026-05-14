@@ -1,0 +1,1604 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.68,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国四周交界处的德州小城",
+      "music": 0.0
+    },
+    {
+      "from": 2.68,
+      "to": 3.92,
+      "sid": 2,
+      "location": 2,
+      "content": "德克萨卡纳",
+      "music": 0.0
+    },
+    {
+      "from": 3.92,
+      "to": 6.31,
+      "sid": 3,
+      "location": 2,
+      "content": "德克萨卡纳是一个人造复合词",
+      "music": 0.0
+    },
+    {
+      "from": 6.31,
+      "to": 9.29,
+      "sid": 4,
+      "location": 2,
+      "content": "由TEXASARKANSAS和路易斯ANNA拼接而成",
+      "music": 0.0
+    },
+    {
+      "from": 9.29,
+      "to": 12.03,
+      "sid": 5,
+      "location": 2,
+      "content": "这里离路易斯那州和俄克拉荷马州很近",
+      "music": 0.0
+    },
+    {
+      "from": 12.03,
+      "to": 13.91,
+      "sid": 6,
+      "location": 2,
+      "content": "而目前行驶在了小镇主干道",
+      "music": 0.0
+    },
+    {
+      "from": 13.91,
+      "to": 15.86,
+      "sid": 7,
+      "location": 2,
+      "content": "就是德州和阿肯色州的州界",
+      "music": 0.0
+    },
+    {
+      "from": 15.86,
+      "to": 18.46,
+      "sid": 8,
+      "location": 2,
+      "content": "这条马路把德克萨卡纳一分为二路",
+      "music": 0.0
+    },
+    {
+      "from": 18.46,
+      "to": 19.3,
+      "sid": 9,
+      "location": 2,
+      "content": "进球的小房子",
+      "music": 0.0
+    },
+    {
+      "from": 19.3,
+      "to": 22.17,
+      "sid": 10,
+      "location": 2,
+      "content": "也是美国唯一一个横跨两个州的法院和邮局",
+      "music": 0.0
+    },
+    {
+      "from": 22.17,
+      "to": 24.97,
+      "sid": 11,
+      "location": 2,
+      "content": "算是德州和阿肯色州公用的这个广场",
+      "music": 0.0
+    },
+    {
+      "from": 24.97,
+      "to": 27.41,
+      "sid": 12,
+      "location": 2,
+      "content": "上面的牌子算是一个小旅游打卡点了",
+      "music": 0.0
+    },
+    {
+      "from": 27.41,
+      "to": 29.85,
+      "sid": 13,
+      "location": 2,
+      "content": "就是给大家指示一下周建马路的位置",
+      "music": 0.0
+    },
+    {
+      "from": 29.85,
+      "to": 32.23,
+      "sid": 14,
+      "location": 2,
+      "content": "以及德州和阿肯色州分别的方位",
+      "music": 0.0
+    },
+    {
+      "from": 32.23,
+      "to": 33.71,
+      "sid": 15,
+      "location": 2,
+      "content": "因为怕早上人太多",
+      "music": 0.0
+    },
+    {
+      "from": 33.71,
+      "to": 34.49,
+      "sid": 16,
+      "location": 2,
+      "content": "比较羞耻",
+      "music": 0.0
+    },
+    {
+      "from": 34.49,
+      "to": 36.43,
+      "sid": 17,
+      "location": 2,
+      "content": "我在前一天晚上空无一人的时候",
+      "music": 0.0
+    },
+    {
+      "from": 36.43,
+      "to": 39.32,
+      "sid": 18,
+      "location": 2,
+      "content": "在这个邮局门口做了一个比较标准的游客行为",
+      "music": 0.0
+    },
+    {
+      "from": 39.32,
+      "to": 40.84,
+      "sid": 19,
+      "location": 2,
+      "content": "也就是在这个牌子前面",
+      "music": 0.0
+    },
+    {
+      "from": 40.84,
+      "to": 43.84,
+      "sid": 20,
+      "location": 2,
+      "content": "坐一个横跨德克萨斯州和阿肯色州的人",
+      "music": 0.0
+    },
+    {
+      "from": 43.84,
+      "to": 44.94,
+      "sid": 21,
+      "location": 2,
+      "content": "进来看一看",
+      "music": 0.0
+    },
+    {
+      "from": 44.94,
+      "to": 46.78,
+      "sid": 22,
+      "location": 2,
+      "content": "这个建筑还是蛮有历史感的",
+      "music": 0.0
+    },
+    {
+      "from": 46.78,
+      "to": 48.04,
+      "sid": 23,
+      "location": 2,
+      "content": "这边有拜登的照片",
+      "music": 0.0
+    },
+    {
+      "from": 48.04,
+      "to": 48.16,
+      "sid": 24,
+      "location": 2,
+      "content": "是",
+      "music": 0.0
+    },
+    {
+      "from": 48.16,
+      "to": 51.25,
+      "sid": 25,
+      "location": 2,
+      "content": "因为联邦法院和邮局都是美国联邦政府的地盘",
+      "music": 0.0
+    },
+    {
+      "from": 51.25,
+      "to": 54.3,
+      "sid": 26,
+      "location": 2,
+      "content": "这种联邦的办公楼都是会挂总统的照片的",
+      "music": 0.0
+    },
+    {
+      "from": 54.3,
+      "to": 56.08,
+      "sid": 27,
+      "location": 2,
+      "content": "然后我当天正好要寄一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 56.08,
+      "to": 57.92,
+      "sid": 28,
+      "location": 2,
+      "content": "顺便也在这个邮局发货了",
+      "music": 0.0
+    },
+    {
+      "from": 57.92,
+      "to": 59.64,
+      "sid": 29,
+      "location": 2,
+      "content": "上班的是一个黑人大姐",
+      "music": 0.0
+    },
+    {
+      "from": 59.64,
+      "to": 61.32,
+      "sid": 30,
+      "location": 2,
+      "content": "她对我非常的友好",
+      "music": 0.0
+    },
+    {
+      "from": 61.32,
+      "to": 64.4,
+      "sid": 31,
+      "location": 2,
+      "content": "送给了我一个小徽章和介绍邮局历史的小册子",
+      "music": 0.0
+    },
+    {
+      "from": 64.4,
+      "to": 65.32,
+      "sid": 32,
+      "location": 2,
+      "content": "做纪念品",
+      "music": 0.0
+    },
+    {
+      "from": 65.32,
+      "to": 66.72,
+      "sid": 33,
+      "location": 2,
+      "content": "我现在离开邮局",
+      "music": 0.0
+    },
+    {
+      "from": 66.72,
+      "to": 69.08,
+      "sid": 34,
+      "location": 2,
+      "content": "去看看这边的本地历史小博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 69.08,
+      "to": 71.54,
+      "sid": 35,
+      "location": 2,
+      "content": "其实德克萨卡纳的市中心挺萧条的",
+      "music": 0.0
+    },
+    {
+      "from": 71.54,
+      "to": 73.46,
+      "sid": 36,
+      "location": 2,
+      "content": "当年这边算是一个交通要道",
+      "music": 0.0
+    },
+    {
+      "from": 73.46,
+      "to": 76.18,
+      "sid": 37,
+      "location": 2,
+      "content": "无论是铁路还是公路都会经过这边",
+      "music": 0.0
+    },
+    {
+      "from": 76.18,
+      "to": 78.88,
+      "sid": 38,
+      "location": 2,
+      "content": "但是现在新的洲际公路都绕到郊区了",
+      "music": 0.0
+    },
+    {
+      "from": 78.88,
+      "to": 81.0,
+      "sid": 39,
+      "location": 2,
+      "content": "所以说市中期就没有客流了",
+      "music": 0.0
+    },
+    {
+      "from": 81.0,
+      "to": 83.789,
+      "sid": 40,
+      "location": 2,
+      "content": "原先的老酒店办公楼什么的都空置了",
+      "music": 0.0
+    },
+    {
+      "from": 83.789,
+      "to": 86.389,
+      "sid": 41,
+      "location": 2,
+      "content": "这个博物馆周围一片都是废弃的小楼",
+      "music": 0.0
+    },
+    {
+      "from": 86.389,
+      "to": 87.909,
+      "sid": 42,
+      "location": 2,
+      "content": "他这个门口展示橱窗",
+      "music": 0.0
+    },
+    {
+      "from": 87.909,
+      "to": 91.09,
+      "sid": 43,
+      "location": 2,
+      "content": "贴的算是小智当年辉煌时期繁荣的景象",
+      "music": 0.0
+    },
+    {
+      "from": 91.09,
+      "to": 93.11,
+      "sid": 44,
+      "location": 2,
+      "content": "And then that's our building",
+      "music": 0.0
+    },
+    {
+      "from": 93.11,
+      "to": 95.05,
+      "sid": 45,
+      "location": 2,
+      "content": "That's the grim hotel",
+      "music": 0.0
+    },
+    {
+      "from": 95.05,
+      "to": 98.32,
+      "sid": 46,
+      "location": 2,
+      "content": "You can see the steline running down through there",
+      "music": 0.0
+    },
+    {
+      "from": 98.32,
+      "to": 101.88,
+      "sid": 47,
+      "location": 2,
+      "content": "This is the post office and the us courthouse",
+      "music": 0.0
+    },
+    {
+      "from": 101.88,
+      "to": 104.539,
+      "sid": 48,
+      "location": 2,
+      "content": "So you need to get your picture made in front of that",
+      "music": 0.0
+    },
+    {
+      "from": 104.539,
+      "to": 106.419,
+      "sid": 49,
+      "location": 2,
+      "content": "And then these buildings",
+      "music": 0.0
+    },
+    {
+      "from": 106.419,
+      "to": 109.659,
+      "sid": 50,
+      "location": 2,
+      "content": "The majority of them are no longer around now",
+      "music": 0.0
+    },
+    {
+      "from": 109.659,
+      "to": 110.499,
+      "sid": 51,
+      "location": 2,
+      "content": "This is still there",
+      "music": 0.0
+    },
+    {
+      "from": 111.499,
+      "to": 115.8,
+      "sid": 52,
+      "location": 2,
+      "content": "And uh then this building's been transformed",
+      "music": 0.0
+    },
+    {
+      "from": 115.8,
+      "to": 117.02,
+      "sid": 53,
+      "location": 2,
+      "content": "Well for years",
+      "music": 0.0
+    },
+    {
+      "from": 117.02,
+      "to": 118.42,
+      "sid": 54,
+      "location": 2,
+      "content": "We didn't have an interstate",
+      "music": 0.0
+    },
+    {
+      "from": 118.42,
+      "to": 120.14,
+      "sid": 55,
+      "location": 2,
+      "content": "So when they built the interstate",
+      "music": 0.0
+    },
+    {
+      "from": 120.14,
+      "to": 123.66,
+      "sid": 56,
+      "location": 2,
+      "content": "Everybody started moving out toward the interstate",
+      "music": 0.0
+    },
+    {
+      "from": 123.66,
+      "to": 126.64,
+      "sid": 57,
+      "location": 2,
+      "content": "And all the businesses moved out to the interstate state",
+      "music": 0.0
+    },
+    {
+      "from": 126.64,
+      "to": 128.75,
+      "sid": 58,
+      "location": 2,
+      "content": "They built a big mall out there",
+      "music": 0.0
+    },
+    {
+      "from": 128.75,
+      "to": 130.27,
+      "sid": 59,
+      "location": 2,
+      "content": "And if you go in the ball",
+      "music": 0.0
+    },
+    {
+      "from": 130.27,
+      "to": 130.47,
+      "sid": 60,
+      "location": 2,
+      "content": "Now",
+      "music": 0.0
+    },
+    {
+      "from": 130.47,
+      "to": 132.51,
+      "sid": 61,
+      "location": 2,
+      "content": "You'll see a lot of empty buildings",
+      "music": 0.0
+    },
+    {
+      "from": 132.51,
+      "to": 134.11,
+      "sid": 62,
+      "location": 2,
+      "content": "And u",
+      "music": 0.0
+    },
+    {
+      "from": 134.11,
+      "to": 134.89,
+      "sid": 63,
+      "location": 2,
+      "content": "So now",
+      "music": 0.0
+    },
+    {
+      "from": 134.89,
+      "to": 137.99,
+      "sid": 64,
+      "location": 2,
+      "content": "We're trying to get people to move more back toward the downtown",
+      "music": 0.0
+    },
+    {
+      "from": 137.99,
+      "to": 144.54,
+      "sid": 65,
+      "location": 2,
+      "content": "And if you look at the way that they build stuff now with the materials",
+      "music": 0.0
+    },
+    {
+      "from": 144.54,
+      "to": 146.86,
+      "sid": 66,
+      "location": 2,
+      "content": "They use it used to build with they",
+      "music": 0.0
+    },
+    {
+      "from": 146.86,
+      "to": 149.42,
+      "sid": 67,
+      "location": 2,
+      "content": "Don't build stuff like they used to you know",
+      "music": 0.0
+    },
+    {
+      "from": 149.42,
+      "to": 151.2,
+      "sid": 68,
+      "location": 2,
+      "content": "Like this building worrying",
+      "music": 0.0
+    },
+    {
+      "from": 151.2,
+      "to": 151.54,
+      "sid": 69,
+      "location": 2,
+      "content": "It's",
+      "music": 0.0
+    },
+    {
+      "from": 151.54,
+      "to": 153.26,
+      "sid": 70,
+      "location": 2,
+      "content": "Oh you know hundred years old",
+      "music": 0.0
+    },
+    {
+      "from": 153.26,
+      "to": 154.55,
+      "sid": 71,
+      "location": 2,
+      "content": "One over re",
+      "music": 0.0
+    },
+    {
+      "from": 154.55,
+      "to": 155.19,
+      "sid": 72,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 155.19,
+      "to": 156.47,
+      "sid": 73,
+      "location": 2,
+      "content": "It's it's really old",
+      "music": 0.0
+    },
+    {
+      "from": 156.47,
+      "to": 157.31,
+      "sid": 74,
+      "location": 2,
+      "content": "And it's built",
+      "music": 0.0
+    },
+    {
+      "from": 157.31,
+      "to": 157.91,
+      "sid": 75,
+      "location": 2,
+      "content": "It's built",
+      "music": 0.0
+    },
+    {
+      "from": 157.91,
+      "to": 159.33,
+      "sid": 76,
+      "location": 2,
+      "content": "Well um",
+      "music": 0.0
+    },
+    {
+      "from": 159.33,
+      "to": 162.21,
+      "sid": 77,
+      "location": 2,
+      "content": "There's no architecture is now now",
+      "music": 0.0
+    },
+    {
+      "from": 162.21,
+      "to": 163.85,
+      "sid": 78,
+      "location": 2,
+      "content": "I like the old architection",
+      "music": 0.0
+    },
+    {
+      "from": 163.85,
+      "to": 164.84,
+      "sid": 79,
+      "location": 2,
+      "content": "Oh i like to",
+      "music": 0.0
+    },
+    {
+      "from": 164.84,
+      "to": 167.48,
+      "sid": 80,
+      "location": 2,
+      "content": "最近有很多人评论说我的视频像是雅思听力啊",
+      "music": 0.0
+    },
+    {
+      "from": 167.48,
+      "to": 169.36,
+      "sid": 81,
+      "location": 2,
+      "content": "也有小伙伴私信问我如何学英语",
+      "music": 0.0
+    },
+    {
+      "from": 169.36,
+      "to": 172.28,
+      "sid": 82,
+      "location": 2,
+      "content": "在海外各地探索和外国人交流的我",
+      "music": 0.0
+    },
+    {
+      "from": 172.28,
+      "to": 173.6,
+      "sid": 83,
+      "location": 2,
+      "content": "当年学习标化考试的经历",
+      "music": 0.0
+    },
+    {
+      "from": 173.6,
+      "to": 175.16,
+      "sid": 84,
+      "location": 2,
+      "content": "大大提升了我的英语水平",
+      "music": 0.0
+    },
+    {
+      "from": 175.16,
+      "to": 176.6,
+      "sid": 85,
+      "location": 2,
+      "content": "大家想要提升英语水平",
+      "music": 0.0
+    },
+    {
+      "from": 176.6,
+      "to": 177.76,
+      "sid": 86,
+      "location": 2,
+      "content": "去海外交换工作",
+      "music": 0.0
+    },
+    {
+      "from": 177.76,
+      "to": 178.6,
+      "sid": 87,
+      "location": 2,
+      "content": "学习旅游",
+      "music": 0.0
+    },
+    {
+      "from": 178.6,
+      "to": 180.12,
+      "sid": 88,
+      "location": 2,
+      "content": "最后还是可以考一个雅思",
+      "music": 0.0
+    },
+    {
+      "from": 180.12,
+      "to": 181.94,
+      "sid": 89,
+      "location": 2,
+      "content": "这样国际认可的标化考试",
+      "music": 0.0
+    },
+    {
+      "from": 181.94,
+      "to": 183.32,
+      "sid": 90,
+      "location": 2,
+      "content": "提升英语能力的同时",
+      "music": 0.0
+    },
+    {
+      "from": 183.32,
+      "to": 186.4,
+      "sid": 91,
+      "location": 2,
+      "content": "也是一个证明自己摸索备考太耗时间了",
+      "music": 0.0
+    },
+    {
+      "from": 186.4,
+      "to": 187.76,
+      "sid": 92,
+      "location": 2,
+      "content": "机构的收费也很高",
+      "music": 0.0
+    },
+    {
+      "from": 187.76,
+      "to": 190.49,
+      "sid": 93,
+      "location": 2,
+      "content": "而百思宅雅思就是一个很好的备考选项",
+      "music": 0.0
+    },
+    {
+      "from": 190.49,
+      "to": 192.01,
+      "sid": 94,
+      "location": 2,
+      "content": "里面的课程都是干货",
+      "music": 0.0
+    },
+    {
+      "from": 192.01,
+      "to": 193.45,
+      "sid": 95,
+      "location": 2,
+      "content": "150小时的内容",
+      "music": 0.0
+    },
+    {
+      "from": 193.45,
+      "to": 195.87,
+      "sid": 96,
+      "location": 2,
+      "content": "雅思的听说读写考点全面覆盖",
+      "music": 0.0
+    },
+    {
+      "from": 195.87,
+      "to": 197.65,
+      "sid": 97,
+      "location": 2,
+      "content": "学习计划安排到了每一天",
+      "music": 0.0
+    },
+    {
+      "from": 197.65,
+      "to": 200.26,
+      "sid": 98,
+      "location": 2,
+      "content": "每天只需要抽出20分钟来打卡学习",
+      "music": 0.0
+    },
+    {
+      "from": 200.26,
+      "to": 202.0,
+      "sid": 99,
+      "location": 2,
+      "content": "包括了解解题思路技巧",
+      "music": 0.0
+    },
+    {
+      "from": 202.0,
+      "to": 202.74,
+      "sid": 100,
+      "location": 2,
+      "content": "真题带练",
+      "music": 0.0
+    },
+    {
+      "from": 202.74,
+      "to": 203.58,
+      "sid": 101,
+      "location": 2,
+      "content": "模拟测验",
+      "music": 0.0
+    },
+    {
+      "from": 203.58,
+      "to": 205.46,
+      "sid": 102,
+      "location": 2,
+      "content": "甚至细致到每天背多少单词",
+      "music": 0.0
+    },
+    {
+      "from": 205.46,
+      "to": 206.99,
+      "sid": 103,
+      "location": 2,
+      "content": "都有最难的口语",
+      "music": 0.0
+    },
+    {
+      "from": 206.99,
+      "to": 207.47,
+      "sid": 104,
+      "location": 2,
+      "content": "百词斩",
+      "music": 0.0
+    },
+    {
+      "from": 207.47,
+      "to": 210.0,
+      "sid": 105,
+      "location": 2,
+      "content": "雅思也有AAR打分来纠正语法和发音",
+      "music": 0.0
+    },
+    {
+      "from": 210.0,
+      "to": 212.72,
+      "sid": 106,
+      "location": 2,
+      "content": "目前德州部分的德克萨卡拉有3万6000人",
+      "music": 0.0
+    },
+    {
+      "from": 212.72,
+      "to": 214.81,
+      "sid": 107,
+      "location": 2,
+      "content": "阿肯色州部分有2万9000人",
+      "music": 0.0
+    },
+    {
+      "from": 214.81,
+      "to": 216.79,
+      "sid": 108,
+      "location": 2,
+      "content": "这两天在这个双城区域转悠",
+      "music": 0.0
+    },
+    {
+      "from": 216.79,
+      "to": 218.21,
+      "sid": 109,
+      "location": 2,
+      "content": "我最常拷打当地人的问题",
+      "music": 0.0
+    },
+    {
+      "from": 218.21,
+      "to": 219.89,
+      "sid": 110,
+      "location": 2,
+      "content": "就是住在这个城市的德州一侧",
+      "music": 0.0
+    },
+    {
+      "from": 219.89,
+      "to": 221.8,
+      "sid": 111,
+      "location": 2,
+      "content": "和阿肯色州一侧有什么区别",
+      "music": 0.0
+    },
+    {
+      "from": 221.8,
+      "to": 224.36,
+      "sid": 112,
+      "location": 2,
+      "content": "不过他们告诉我最大的区别就是税收系统",
+      "music": 0.0
+    },
+    {
+      "from": 224.36,
+      "to": 226.36,
+      "sid": 113,
+      "location": 2,
+      "content": "除此之外两边没有太大的不同",
+      "music": 0.0
+    },
+    {
+      "from": 226.36,
+      "to": 227.9,
+      "sid": 114,
+      "location": 2,
+      "content": "You're in one city",
+      "music": 0.0
+    },
+    {
+      "from": 227.9,
+      "to": 230.37,
+      "sid": 115,
+      "location": 2,
+      "content": "But the city's in two different snakes",
+      "music": 0.0
+    },
+    {
+      "from": 230.37,
+      "to": 232.49,
+      "sid": 116,
+      "location": 2,
+      "content": "The taxes are different um",
+      "music": 0.0
+    },
+    {
+      "from": 232.49,
+      "to": 232.73,
+      "sid": 117,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 233.73,
+      "to": 235.23,
+      "sid": 118,
+      "location": 2,
+      "content": "so that's舍made the difference",
+      "music": 0.0
+    },
+    {
+      "from": 235.23,
+      "to": 235.57,
+      "sid": 119,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 235.57,
+      "to": 236.13,
+      "sid": 120,
+      "location": 2,
+      "content": "Sir",
+      "music": 0.0
+    },
+    {
+      "from": 236.13,
+      "to": 238.69,
+      "sid": 121,
+      "location": 2,
+      "content": "总的来说就是德州的房产税要高一些",
+      "music": 0.0
+    },
+    {
+      "from": 238.69,
+      "to": 240.25,
+      "sid": 122,
+      "location": 2,
+      "content": "但是阿肯色州平时买菜",
+      "music": 0.0
+    },
+    {
+      "from": 240.25,
+      "to": 242.31,
+      "sid": 123,
+      "location": 2,
+      "content": "无论是没加工过的食品原材料",
+      "music": 0.0
+    },
+    {
+      "from": 242.31,
+      "to": 244.75,
+      "sid": 124,
+      "location": 2,
+      "content": "还是说加工过的食物都是要交税的",
+      "music": 0.0
+    },
+    {
+      "from": 244.75,
+      "to": 246.69,
+      "sid": 125,
+      "location": 2,
+      "content": "而德州的食品是免税的",
+      "music": 0.0
+    },
+    {
+      "from": 246.69,
+      "to": 250.23,
+      "sid": 126,
+      "location": 2,
+      "content": "But most everybody that lives in arkand soft shops on the texas",
+      "music": 0.0
+    },
+    {
+      "from": 250.23,
+      "to": 255.82,
+      "sid": 127,
+      "location": 2,
+      "content": "Long happen and like buy and prepared for uh",
+      "music": 0.0
+    },
+    {
+      "from": 255.82,
+      "to": 257.66,
+      "sid": 128,
+      "location": 2,
+      "content": "The taxes are higher on that side",
+      "music": 0.0
+    },
+    {
+      "from": 257.66,
+      "to": 258.96,
+      "sid": 129,
+      "location": 2,
+      "content": "Than they are on this side",
+      "music": 0.0
+    },
+    {
+      "from": 258.96,
+      "to": 261.04,
+      "sid": 130,
+      "location": 2,
+      "content": "So if you go to a restaurant",
+      "music": 0.0
+    },
+    {
+      "from": 261.04,
+      "to": 262.52,
+      "sid": 131,
+      "location": 2,
+      "content": "The taxes are higher",
+      "music": 0.0
+    },
+    {
+      "from": 262.52,
+      "to": 263.2,
+      "sid": 132,
+      "location": 2,
+      "content": "走之前",
+      "music": 0.0
+    },
+    {
+      "from": 263.2,
+      "to": 264.14,
+      "sid": 133,
+      "location": 2,
+      "content": "老奶奶跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 264.14,
+      "to": 265.9,
+      "sid": 134,
+      "location": 2,
+      "content": "小镇除了他们这个博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 265.9,
+      "to": 267.02,
+      "sid": 135,
+      "location": 2,
+      "content": "还有值得一去的",
+      "music": 0.0
+    },
+    {
+      "from": 267.02,
+      "to": 268.14,
+      "sid": 136,
+      "location": 2,
+      "content": "就是本地的老剧院",
+      "music": 0.0
+    },
+    {
+      "from": 268.14,
+      "to": 271.45,
+      "sid": 137,
+      "location": 2,
+      "content": "佩罗剧场这边的演出一般来说也就一个月一次",
+      "music": 0.0
+    },
+    {
+      "from": 271.45,
+      "to": 273.01,
+      "sid": 138,
+      "location": 2,
+      "content": "如果顺发处比较闲的话",
+      "music": 0.0
+    },
+    {
+      "from": 273.01,
+      "to": 275.27,
+      "sid": 139,
+      "location": 2,
+      "content": "他们都是很愿意带人进去转一圈的",
+      "music": 0.0
+    },
+    {
+      "from": 275.27,
+      "to": 276.37,
+      "sid": 140,
+      "location": 2,
+      "content": "果然我一进门",
+      "music": 0.0
+    },
+    {
+      "from": 276.37,
+      "to": 278.41,
+      "sid": 141,
+      "location": 2,
+      "content": "友善的工作人员就免费开了一个小门",
+      "music": 0.0
+    },
+    {
+      "from": 278.41,
+      "to": 279.53,
+      "sid": 142,
+      "location": 2,
+      "content": "带我进去了",
+      "music": 0.0
+    },
+    {
+      "from": 279.53,
+      "to": 282.67,
+      "sid": 143,
+      "location": 2,
+      "content": "从这个剧院的规模不难看出这杯当年的辉煌",
+      "music": 0.0
+    },
+    {
+      "from": 282.67,
+      "to": 285.909,
+      "sid": 144,
+      "location": 2,
+      "content": "这边最早是帕拉蒙影业的电影院和剧院",
+      "music": 0.0
+    },
+    {
+      "from": 285.909,
+      "to": 287.789,
+      "sid": 145,
+      "location": 2,
+      "content": "后来大家家里面都有了电视",
+      "music": 0.0
+    },
+    {
+      "from": 287.789,
+      "to": 289.309,
+      "sid": 146,
+      "location": 2,
+      "content": "再加上小镇的衰落",
+      "music": 0.0
+    },
+    {
+      "from": 289.309,
+      "to": 291.389,
+      "sid": 147,
+      "location": 2,
+      "content": "这边的客流就越来越少了",
+      "music": 0.0
+    },
+    {
+      "from": 291.389,
+      "to": 293.87,
+      "sid": 148,
+      "location": 2,
+      "content": "这个剧院在1977年就倒闭了",
+      "music": 0.0
+    },
+    {
+      "from": 293.87,
+      "to": 294.59,
+      "sid": 149,
+      "location": 2,
+      "content": "不过之后",
+      "music": 0.0
+    },
+    {
+      "from": 294.59,
+      "to": 297.43,
+      "sid": 150,
+      "location": 2,
+      "content": "德克萨卡纳的政府把这个剧院给接收了",
+      "music": 0.0
+    },
+    {
+      "from": 297.43,
+      "to": 300.23,
+      "sid": 151,
+      "location": 2,
+      "content": "再加上本地的佩罗家族出了80多万美元",
+      "music": 0.0
+    },
+    {
+      "from": 300.23,
+      "to": 300.83,
+      "sid": 152,
+      "location": 2,
+      "content": "帮忙",
+      "music": 0.0
+    },
+    {
+      "from": 300.83,
+      "to": 303.13,
+      "sid": 153,
+      "location": 2,
+      "content": "当年的80万美元还是不小的数额",
+      "music": 0.0
+    },
+    {
+      "from": 303.13,
+      "to": 305.789,
+      "sid": 154,
+      "location": 2,
+      "content": "于是这个剧院就以他们的家族命名了",
+      "music": 0.0
+    },
+    {
+      "from": 305.789,
+      "to": 307.029,
+      "sid": 155,
+      "location": 2,
+      "content": "在这样的衰落小镇",
+      "music": 0.0
+    },
+    {
+      "from": 307.029,
+      "to": 308.269,
+      "sid": 156,
+      "location": 2,
+      "content": "能把老建筑保留下来",
+      "music": 0.0
+    },
+    {
+      "from": 308.269,
+      "to": 309.59,
+      "sid": 157,
+      "location": 2,
+      "content": "真的还挺不容易的",
+      "music": 0.0
+    },
+    {
+      "from": 309.59,
+      "to": 312.51,
+      "sid": 158,
+      "location": 2,
+      "content": "他们这边还保留了当年放电影的老式放映机",
+      "music": 0.0
+    },
+    {
+      "from": 312.51,
+      "to": 316.31,
+      "sid": 159,
+      "location": 2,
+      "content": "The first time brandy really big ubulbs",
+      "music": 0.0
+    },
+    {
+      "from": 316.31,
+      "to": 318.03,
+      "sid": 160,
+      "location": 2,
+      "content": "So it's about the size of your head",
+      "music": 0.0
+    },
+    {
+      "from": 318.03,
+      "to": 320.61,
+      "sid": 161,
+      "location": 2,
+      "content": "And these things like omitted a lot of a lot of heat",
+      "music": 0.0
+    },
+    {
+      "from": 320.61,
+      "to": 323.11,
+      "sid": 162,
+      "location": 2,
+      "content": "It would catch flame within thirty seconds",
+      "music": 0.0
+    },
+    {
+      "from": 323.11,
+      "to": 325.49,
+      "sid": 163,
+      "location": 2,
+      "content": "So they had to have a restroom toilet like",
+      "music": 0.0
+    },
+    {
+      "from": 325.49,
+      "to": 327.64,
+      "sid": 164,
+      "location": 2,
+      "content": "Right up there in the middle of the room",
+      "music": 0.0
+    },
+    {
+      "from": 327.64,
+      "to": 329.12,
+      "sid": 165,
+      "location": 2,
+      "content": "So nothing would happen",
+      "music": 0.0
+    },
+    {
+      "from": 329.12,
+      "to": 330.9,
+      "sid": 166,
+      "location": 2,
+      "content": "这个剧院差不多就是这样了",
+      "music": 0.0
+    },
+    {
+      "from": 330.9,
+      "to": 333.22,
+      "sid": 167,
+      "location": 2,
+      "content": "走之前他们还送了一个免费的明信片",
+      "music": 0.0
+    },
+    {
+      "from": 333.22,
+      "to": 334.52,
+      "sid": 168,
+      "location": 2,
+      "content": "现在我离开老城区",
+      "music": 0.0
+    },
+    {
+      "from": 334.52,
+      "to": 336.86,
+      "sid": 169,
+      "location": 2,
+      "content": "大家来看看德克萨卡纳的郊区吧",
+      "music": 0.0
+    },
+    {
+      "from": 336.86,
+      "to": 339.14,
+      "sid": 170,
+      "location": 2,
+      "content": "我现在沿着这条和州界重合的公路",
+      "music": 0.0
+    },
+    {
+      "from": 339.14,
+      "to": 339.86,
+      "sid": 171,
+      "location": 2,
+      "content": "一直开",
+      "music": 0.0
+    },
+    {
+      "from": 339.86,
+      "to": 340.94,
+      "sid": 172,
+      "location": 2,
+      "content": "这路两边的路灯",
+      "music": 0.0
+    },
+    {
+      "from": 340.94,
+      "to": 342.04,
+      "sid": 173,
+      "location": 2,
+      "content": "上面挂着的舟旗",
+      "music": 0.0
+    },
+    {
+      "from": 342.04,
+      "to": 344.59,
+      "sid": 174,
+      "location": 2,
+      "content": "就是表示路的某一侧是哪一个州",
+      "music": 0.0
+    },
+    {
+      "from": 344.59,
+      "to": 347.41,
+      "sid": 175,
+      "location": 2,
+      "content": "这条南北向的马路也叫做周谢谢大道",
+      "music": 0.0
+    },
+    {
+      "from": 347.41,
+      "to": 349.59,
+      "sid": 176,
+      "location": 2,
+      "content": "而东西向的马路叫做德州大道",
+      "music": 0.0
+    },
+    {
+      "from": 349.59,
+      "to": 351.23,
+      "sid": 177,
+      "location": 2,
+      "content": "或者是阿肯色州大道",
+      "music": 0.0
+    },
+    {
+      "from": 351.23,
+      "to": 352.85,
+      "sid": 178,
+      "location": 2,
+      "content": "而在这个公路的两侧",
+      "music": 0.0
+    },
+    {
+      "from": 352.85,
+      "to": 353.83,
+      "sid": 179,
+      "location": 2,
+      "content": "到处都能看到",
+      "music": 0.0
+    },
+    {
+      "from": 353.83,
+      "to": 356.75,
+      "sid": 180,
+      "location": 2,
+      "content": "欢迎来到德州或者阿肯色州的欢迎洲牌",
+      "music": 0.0
+    },
+    {
+      "from": 356.75,
+      "to": 359.75,
+      "sid": 181,
+      "location": 2,
+      "content": "而我前一天晚上就是住在州界线大道边上",
+      "music": 0.0
+    },
+    {
+      "from": 359.75,
+      "to": 361.57,
+      "sid": 182,
+      "location": 2,
+      "content": "阿肯色州一侧的32美元",
+      "music": 0.0
+    },
+    {
+      "from": 361.57,
+      "to": 362.95,
+      "sid": 183,
+      "location": 2,
+      "content": "穷鬼汽车旅馆",
+      "music": 0.0
+    },
+    {
+      "from": 362.95,
+      "to": 364.35,
+      "sid": 184,
+      "location": 2,
+      "content": "这个价格配上这个床",
+      "music": 0.0
+    },
+    {
+      "from": 364.35,
+      "to": 366.15,
+      "sid": 185,
+      "location": 2,
+      "content": "各位觉得性价比如何啊",
+      "music": 0.0
+    },
+    {
+      "from": 366.15,
+      "to": 369.74,
+      "sid": 186,
+      "location": 2,
+      "content": "这个地方透过窗户看马路对面就是德州",
+      "music": 0.0
+    },
+    {
+      "from": 369.74,
+      "to": 371.22,
+      "sid": 187,
+      "location": 2,
+      "content": "不过如果细看的话",
+      "music": 0.0
+    },
+    {
+      "from": 371.22,
+      "to": 373.18,
+      "sid": 188,
+      "location": 2,
+      "content": "这个房间的瑕疵还是很多啊",
+      "music": 0.0
+    },
+    {
+      "from": 373.18,
+      "to": 374.78,
+      "sid": 189,
+      "location": 2,
+      "content": "比如说这个灯是坏的",
+      "music": 0.0
+    },
+    {
+      "from": 374.78,
+      "to": 377.35,
+      "sid": 190,
+      "location": 2,
+      "content": "怪不得他们这边评分只有2.4",
+      "music": 0.0
+    },
+    {
+      "from": 377.35,
+      "to": 378.23,
+      "sid": 191,
+      "location": 2,
+      "content": "录制的时候",
+      "music": 0.0
+    },
+    {
+      "from": 378.23,
+      "to": 380.95,
+      "sid": 192,
+      "location": 2,
+      "content": "前台的印度姐还让我给他们打一个好评",
+      "music": 0.0
+    },
+    {
+      "from": 380.95,
+      "to": 382.15,
+      "sid": 193,
+      "location": 2,
+      "content": "当然对于我来说",
+      "music": 0.0
+    },
+    {
+      "from": 382.15,
+      "to": 384.02,
+      "sid": 194,
+      "location": 2,
+      "content": "这个价格我非常满意啊",
+      "music": 0.0
+    },
+    {
+      "from": 384.02,
+      "to": 385.14,
+      "sid": 195,
+      "location": 2,
+      "content": "第二天早晨起来",
+      "music": 0.0
+    },
+    {
+      "from": 385.14,
+      "to": 387.68,
+      "sid": 196,
+      "location": 2,
+      "content": "发现他们这边还有一个打理的还不错的泳池",
+      "music": 0.0
+    },
+    {
+      "from": 387.68,
+      "to": 388.22,
+      "sid": 197,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 388.22,
+      "to": 389.4,
+      "sid": 198,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 389.4,
+      "to": 392.28,
+      "sid": 199,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

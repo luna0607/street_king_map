@@ -1,0 +1,1276 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.02,
+      "to": 2.309,
+      "sid": 1,
+      "location": 2,
+      "content": "在我踏上这架酷似私人飞机",
+      "music": 0.0
+    },
+    {
+      "from": 2.309,
+      "to": 3.229,
+      "sid": 2,
+      "location": 2,
+      "content": "实则美联航",
+      "music": 0.0
+    },
+    {
+      "from": 3.229,
+      "to": 6.369,
+      "sid": 3,
+      "location": 2,
+      "content": "飞往美国乡镇机场的庞巴迪200小飞机之前",
+      "music": 0.0
+    },
+    {
+      "from": 6.369,
+      "to": 8.94,
+      "sid": 4,
+      "location": 2,
+      "content": "我已经在路上折磨了40多个小时",
+      "music": 0.0
+    },
+    {
+      "from": 8.94,
+      "to": 11.02,
+      "sid": 5,
+      "location": 2,
+      "content": "这次我的路线是无锡到成都",
+      "music": 0.0
+    },
+    {
+      "from": 11.02,
+      "to": 12.2,
+      "sid": 6,
+      "location": 2,
+      "content": "成都到洛杉矶",
+      "music": 0.0
+    },
+    {
+      "from": 12.2,
+      "to": 13.44,
+      "sid": 7,
+      "location": 2,
+      "content": "洛杉矶到丹佛",
+      "music": 0.0
+    },
+    {
+      "from": 13.44,
+      "to": 13.96,
+      "sid": 8,
+      "location": 2,
+      "content": "丹佛",
+      "music": 0.0
+    },
+    {
+      "from": 13.96,
+      "to": 15.76,
+      "sid": 9,
+      "location": 2,
+      "content": "再造一个只有丹佛和芝加哥",
+      "music": 0.0
+    },
+    {
+      "from": 15.76,
+      "to": 17.98,
+      "sid": 10,
+      "location": 2,
+      "content": "两个航点的美国农村小机场",
+      "music": 0.0
+    },
+    {
+      "from": 17.98,
+      "to": 19.42,
+      "sid": 11,
+      "location": 2,
+      "content": "真不是我要折磨自己",
+      "music": 0.0
+    },
+    {
+      "from": 19.42,
+      "to": 21.21,
+      "sid": 12,
+      "location": 2,
+      "content": "因为现在中美的航班不多",
+      "music": 0.0
+    },
+    {
+      "from": 21.21,
+      "to": 23.65,
+      "sid": 13,
+      "location": 2,
+      "content": "再加上我的目的地航点只有两个",
+      "music": 0.0
+    },
+    {
+      "from": 23.65,
+      "to": 25.39,
+      "sid": 14,
+      "location": 2,
+      "content": "我最少也得转四次",
+      "music": 0.0
+    },
+    {
+      "from": 25.39,
+      "to": 27.09,
+      "sid": 15,
+      "location": 2,
+      "content": "现实就是这么残酷",
+      "music": 0.0
+    },
+    {
+      "from": 27.09,
+      "to": 29.49,
+      "sid": 16,
+      "location": 2,
+      "content": "我感觉自己去南极洲或者去北冰洋",
+      "music": 0.0
+    },
+    {
+      "from": 29.49,
+      "to": 30.61,
+      "sid": 17,
+      "location": 2,
+      "content": "都要更方便一点",
+      "music": 0.0
+    },
+    {
+      "from": 30.61,
+      "to": 33.03,
+      "sid": 18,
+      "location": 2,
+      "content": "之前一直听说川航的饭还不错",
+      "music": 0.0
+    },
+    {
+      "from": 33.03,
+      "to": 35.91,
+      "sid": 19,
+      "location": 2,
+      "content": "这也是我第一次做第一餐还凑合吧",
+      "music": 0.0
+    },
+    {
+      "from": 35.91,
+      "to": 37.9,
+      "sid": 20,
+      "location": 2,
+      "content": "A321的舒适度也不错",
+      "music": 0.0
+    },
+    {
+      "from": 37.9,
+      "to": 39.6,
+      "sid": 21,
+      "location": 2,
+      "content": "那个时候的我还不知道",
+      "music": 0.0
+    },
+    {
+      "from": 39.6,
+      "to": 42.83,
+      "sid": 22,
+      "location": 2,
+      "content": "这是我这两天在飞机上面吃的最好的一次",
+      "music": 0.0
+    },
+    {
+      "from": 42.83,
+      "to": 45.19,
+      "sid": 23,
+      "location": 2,
+      "content": "一到成都就得拿行李这个票",
+      "music": 0.0
+    },
+    {
+      "from": 45.19,
+      "to": 48.73,
+      "sid": 24,
+      "location": 2,
+      "content": "对于普通人的雷点是得双流转天赋要换机场",
+      "music": 0.0
+    },
+    {
+      "from": 48.73,
+      "to": 50.489,
+      "sid": 25,
+      "location": 2,
+      "content": "所以说价格格外便宜",
+      "music": 0.0
+    },
+    {
+      "from": 50.489,
+      "to": 52.289,
+      "sid": 26,
+      "location": 2,
+      "content": "从我们三线小城市出发",
+      "music": 0.0
+    },
+    {
+      "from": 52.289,
+      "to": 54.789,
+      "sid": 27,
+      "location": 2,
+      "content": "到洛杉矶都只要2700人民币",
+      "music": 0.0
+    },
+    {
+      "from": 54.789,
+      "to": 58.14,
+      "sid": 28,
+      "location": 2,
+      "content": "但这个中转的缺点在我小霸王看来就是闪光点",
+      "music": 0.0
+    },
+    {
+      "from": 58.14,
+      "to": 61.26,
+      "sid": 29,
+      "location": 2,
+      "content": "我拖着一堆行李一下飞机就直奔成都市区",
+      "music": 0.0
+    },
+    {
+      "from": 61.26,
+      "to": 63.12,
+      "sid": 30,
+      "location": 2,
+      "content": "赶快利用好这个转机时间",
+      "music": 0.0
+    },
+    {
+      "from": 63.12,
+      "to": 64.56,
+      "sid": 31,
+      "location": 2,
+      "content": "随便吃吃逛逛",
+      "music": 0.0
+    },
+    {
+      "from": 64.56,
+      "to": 66.86,
+      "sid": 32,
+      "location": 2,
+      "content": "我网上随便找了个鸡杂店",
+      "music": 0.0
+    },
+    {
+      "from": 66.86,
+      "to": 68.75,
+      "sid": 33,
+      "location": 2,
+      "content": "团了个两人锅的券",
+      "music": 0.0
+    },
+    {
+      "from": 68.75,
+      "to": 69.67,
+      "sid": 34,
+      "location": 2,
+      "content": "50块钱",
+      "music": 0.0
+    },
+    {
+      "from": 69.67,
+      "to": 70.91,
+      "sid": 35,
+      "location": 2,
+      "content": "米饭无限续",
+      "music": 0.0
+    },
+    {
+      "from": 70.91,
+      "to": 71.97,
+      "sid": 36,
+      "location": 2,
+      "content": "我吃了四碗",
+      "music": 0.0
+    },
+    {
+      "from": 71.97,
+      "to": 73.07,
+      "sid": 37,
+      "location": 2,
+      "content": "你们觉得值不值",
+      "music": 0.0
+    },
+    {
+      "from": 73.07,
+      "to": 75.01,
+      "sid": 38,
+      "location": 2,
+      "content": "我还偶遇小学生放学",
+      "music": 0.0
+    },
+    {
+      "from": 75.01,
+      "to": 77.39,
+      "sid": 39,
+      "location": 2,
+      "content": "看到很多人在买什么蛋烘糕",
+      "music": 0.0
+    },
+    {
+      "from": 77.39,
+      "to": 80.77,
+      "sid": 40,
+      "location": 2,
+      "content": "我看前面的一个小学生买了一个奶油肉松味的",
+      "music": 0.0
+    },
+    {
+      "from": 80.77,
+      "to": 81.99,
+      "sid": 41,
+      "location": 2,
+      "content": "只要四块钱",
+      "music": 0.0
+    },
+    {
+      "from": 81.99,
+      "to": 84.49,
+      "sid": 42,
+      "location": 2,
+      "content": "我也跟着买了一个味道甜甜的",
+      "music": 0.0
+    },
+    {
+      "from": 84.49,
+      "to": 86.97,
+      "sid": 43,
+      "location": 2,
+      "content": "我尤其喜欢他这个又脆又软的面饼",
+      "music": 0.0
+    },
+    {
+      "from": 86.97,
+      "to": 88.85,
+      "sid": 44,
+      "location": 2,
+      "content": "当然里面的馅料也很不错",
+      "music": 0.0
+    },
+    {
+      "from": 88.85,
+      "to": 90.87,
+      "sid": 45,
+      "location": 2,
+      "content": "于是我又补了一个山楂味",
+      "music": 0.0
+    },
+    {
+      "from": 90.87,
+      "to": 92.77,
+      "sid": 46,
+      "location": 2,
+      "content": "虽然还有很多地方想去",
+      "music": 0.0
+    },
+    {
+      "from": 92.77,
+      "to": 95.0,
+      "sid": 47,
+      "location": 2,
+      "content": "但这毕竟不是我的主线任务",
+      "music": 0.0
+    },
+    {
+      "from": 95.0,
+      "to": 96.2,
+      "sid": 48,
+      "location": 2,
+      "content": "在去机场的路上",
+      "music": 0.0
+    },
+    {
+      "from": 96.2,
+      "to": 99.66,
+      "sid": 49,
+      "location": 2,
+      "content": "顺便也让我体验了一下成都先进的基础建设",
+      "music": 0.0
+    },
+    {
+      "from": 99.66,
+      "to": 101.76,
+      "sid": 50,
+      "location": 2,
+      "content": "这个天府机场的国际出发大厅",
+      "music": 0.0
+    },
+    {
+      "from": 101.76,
+      "to": 103.48,
+      "sid": 51,
+      "location": 2,
+      "content": "也是修的又大又气派",
+      "music": 0.0
+    },
+    {
+      "from": 103.48,
+      "to": 105.62,
+      "sid": 52,
+      "location": 2,
+      "content": "可惜就是入驻的商家不太多",
+      "music": 0.0
+    },
+    {
+      "from": 105.62,
+      "to": 108.54,
+      "sid": 53,
+      "location": 2,
+      "content": "但是他们的价格似乎都和外面差不了太多",
+      "music": 0.0
+    },
+    {
+      "from": 108.54,
+      "to": 111.06,
+      "sid": 54,
+      "location": 2,
+      "content": "这个便利店完全没有任何机场议价",
+      "music": 0.0
+    },
+    {
+      "from": 111.06,
+      "to": 112.62,
+      "sid": 55,
+      "location": 2,
+      "content": "门口还有一个儿童乐园",
+      "music": 0.0
+    },
+    {
+      "from": 112.62,
+      "to": 115.42,
+      "sid": 56,
+      "location": 2,
+      "content": "唯一的缺点就是这里走到我的登机口要好久",
+      "music": 0.0
+    },
+    {
+      "from": 115.42,
+      "to": 116.86,
+      "sid": 57,
+      "location": 2,
+      "content": "导致我没听到广播",
+      "music": 0.0
+    },
+    {
+      "from": 116.86,
+      "to": 118.9,
+      "sid": 58,
+      "location": 2,
+      "content": "差点误了飞机",
+      "music": 0.0
+    },
+    {
+      "from": 120.1,
+      "to": 122.92,
+      "sid": 59,
+      "location": 2,
+      "content": "川航这个350的硬件配置还是不错",
+      "music": 0.0
+    },
+    {
+      "from": 122.92,
+      "to": 123.98,
+      "sid": 60,
+      "location": 2,
+      "content": "座椅挺舒服",
+      "music": 0.0
+    },
+    {
+      "from": 123.98,
+      "to": 126.54,
+      "sid": 61,
+      "location": 2,
+      "content": "该有的娱乐设施也都有",
+      "music": 0.0
+    },
+    {
+      "from": 129.6,
+      "to": 132.96,
+      "sid": 62,
+      "location": 2,
+      "content": "厕所里面甚至还有湿纸巾和护手霜",
+      "music": 0.0
+    },
+    {
+      "from": 132.96,
+      "to": 135.3,
+      "sid": 63,
+      "location": 2,
+      "content": "理论上也是发了三次飞机餐",
+      "music": 0.0
+    },
+    {
+      "from": 135.3,
+      "to": 137.04,
+      "sid": 64,
+      "location": 2,
+      "content": "但是至于吃了什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 137.04,
+      "to": 139.61,
+      "sid": 65,
+      "location": 2,
+      "content": "反正我看周围没有人把饭吃完的",
+      "music": 0.0
+    },
+    {
+      "from": 139.61,
+      "to": 142.89,
+      "sid": 66,
+      "location": 2,
+      "content": "我有一点想念之前在联行上面买泡面的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 142.89,
+      "to": 145.43,
+      "sid": 67,
+      "location": 2,
+      "content": "不过我还是靠着老干妈把这一顿干完了",
+      "music": 0.0
+    },
+    {
+      "from": 145.43,
+      "to": 147.68,
+      "sid": 68,
+      "location": 2,
+      "content": "这个饭后甜点豆沙包倒是不错",
+      "music": 0.0
+    },
+    {
+      "from": 147.68,
+      "to": 148.68,
+      "sid": 69,
+      "location": 2,
+      "content": "一路除了吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 148.68,
+      "to": 149.64,
+      "sid": 70,
+      "location": 2,
+      "content": "就是在睡觉",
+      "music": 0.0
+    },
+    {
+      "from": 149.64,
+      "to": 151.6,
+      "sid": 71,
+      "location": 2,
+      "content": "我感觉很快就到洛杉矶了",
+      "music": 0.0
+    },
+    {
+      "from": 151.6,
+      "to": 155.23,
+      "sid": 72,
+      "location": 2,
+      "content": "没想到洛杉矶机场还见到厦航和川航停在一起",
+      "music": 0.0
+    },
+    {
+      "from": 155.23,
+      "to": 157.52,
+      "sid": 73,
+      "location": 2,
+      "content": "我出关的时候已经是晚上八点",
+      "music": 0.0
+    },
+    {
+      "from": 157.52,
+      "to": 159.58,
+      "sid": 74,
+      "location": 2,
+      "content": "由于洛杉矶是美国西部时间",
+      "music": 0.0
+    },
+    {
+      "from": 159.58,
+      "to": 161.6,
+      "sid": 75,
+      "location": 2,
+      "content": "而美国是有国家内部时差的",
+      "music": 0.0
+    },
+    {
+      "from": 161.6,
+      "to": 163.92,
+      "sid": 76,
+      "location": 2,
+      "content": "这个点就很少有往东飞的飞机了",
+      "music": 0.0
+    },
+    {
+      "from": 163.92,
+      "to": 167.03,
+      "sid": 77,
+      "location": 2,
+      "content": "洛杉矶虽然是系在中美航线的一个热点机场",
+      "music": 0.0
+    },
+    {
+      "from": 167.03,
+      "to": 169.87,
+      "sid": 78,
+      "location": 2,
+      "content": "基本上所有的飞机都是晚上这个时间点降落",
+      "music": 0.0
+    },
+    {
+      "from": 169.87,
+      "to": 170.35,
+      "sid": 79,
+      "location": 2,
+      "content": "这样子",
+      "music": 0.0
+    },
+    {
+      "from": 170.35,
+      "to": 171.55,
+      "sid": 80,
+      "location": 2,
+      "content": "基本上想转机去美国",
+      "music": 0.0
+    },
+    {
+      "from": 171.55,
+      "to": 173.63,
+      "sid": 81,
+      "location": 2,
+      "content": "别的地方的人都得在洛杉矶过夜",
+      "music": 0.0
+    },
+    {
+      "from": 173.63,
+      "to": 176.12,
+      "sid": 82,
+      "location": 2,
+      "content": "我下一班也是明天凌晨四点的飞机",
+      "music": 0.0
+    },
+    {
+      "from": 176.12,
+      "to": 179.23,
+      "sid": 83,
+      "location": 2,
+      "content": "于是我就去夜晚洛杉矶街头随机探险了",
+      "music": 0.0
+    },
+    {
+      "from": 179.23,
+      "to": 181.63,
+      "sid": 84,
+      "location": 2,
+      "content": "前两天我出了一期讲这一段经历",
+      "music": 0.0
+    },
+    {
+      "from": 181.63,
+      "to": 184.6,
+      "sid": 85,
+      "location": 2,
+      "content": "现在我搭上这架凌晨四点的红眼航班",
+      "music": 0.0
+    },
+    {
+      "from": 184.6,
+      "to": 186.44,
+      "sid": 86,
+      "location": 2,
+      "content": "这条线人还是很多的",
+      "music": 0.0
+    },
+    {
+      "from": 186.44,
+      "to": 188.94,
+      "sid": 87,
+      "location": 2,
+      "content": "美联航直接寄出了737max",
+      "music": 0.0
+    },
+    {
+      "from": 188.94,
+      "to": 191.1,
+      "sid": 88,
+      "location": 2,
+      "content": "还是新的带小电视的版本",
+      "music": 0.0
+    },
+    {
+      "from": 191.1,
+      "to": 193.52,
+      "sid": 89,
+      "location": 2,
+      "content": "可是我这个座位实在是VIP啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.52,
+      "to": 195.72,
+      "sid": 90,
+      "location": 2,
+      "content": "最后一排最里面我也是服了",
+      "music": 0.0
+    },
+    {
+      "from": 195.72,
+      "to": 198.35,
+      "sid": 91,
+      "location": 2,
+      "content": "不知道你们是喜欢靠窗还是靠过道",
+      "music": 0.0
+    },
+    {
+      "from": 198.35,
+      "to": 200.43,
+      "sid": 92,
+      "location": 2,
+      "content": "我觉得靠窗带来看景的愉悦",
+      "music": 0.0
+    },
+    {
+      "from": 200.43,
+      "to": 202.59,
+      "sid": 93,
+      "location": 2,
+      "content": "不足以弥补靠走道的便捷",
+      "music": 0.0
+    },
+    {
+      "from": 202.59,
+      "to": 203.87,
+      "sid": 94,
+      "location": 2,
+      "content": "不过这次除外",
+      "music": 0.0
+    },
+    {
+      "from": 203.87,
+      "to": 206.07,
+      "sid": 95,
+      "location": 2,
+      "content": "因为外面的雪山还挺漂亮的哦",
+      "music": 0.0
+    },
+    {
+      "from": 206.07,
+      "to": 206.85,
+      "sid": 96,
+      "location": 2,
+      "content": "我还忘了说",
+      "music": 0.0
+    },
+    {
+      "from": 206.85,
+      "to": 207.71,
+      "sid": 97,
+      "location": 2,
+      "content": "美国国内线",
+      "music": 0.0
+    },
+    {
+      "from": 207.71,
+      "to": 210.32,
+      "sid": 98,
+      "location": 2,
+      "content": "一般都是只发一瓶汽水和一小包零食",
+      "music": 0.0
+    },
+    {
+      "from": 210.32,
+      "to": 212.7,
+      "sid": 99,
+      "location": 2,
+      "content": "像国内那样的发餐是不存在的",
+      "music": 0.0
+    },
+    {
+      "from": 212.7,
+      "to": 214.26,
+      "sid": 100,
+      "location": 2,
+      "content": "现在我到了丹佛机场",
+      "music": 0.0
+    },
+    {
+      "from": 214.26,
+      "to": 216.56,
+      "sid": 101,
+      "location": 2,
+      "content": "也是美国联合航空的重要基地",
+      "music": 0.0
+    },
+    {
+      "from": 216.56,
+      "to": 218.64,
+      "sid": 102,
+      "location": 2,
+      "content": "这是美国占地面积最大的机场",
+      "music": 0.0
+    },
+    {
+      "from": 218.64,
+      "to": 220.76,
+      "sid": 103,
+      "location": 2,
+      "content": "很大一个原因就是它的航站楼设计",
+      "music": 0.0
+    },
+    {
+      "from": 220.76,
+      "to": 222.35,
+      "sid": 104,
+      "location": 2,
+      "content": "就是三根大长条",
+      "music": 0.0
+    },
+    {
+      "from": 222.35,
+      "to": 224.05,
+      "sid": 105,
+      "location": 2,
+      "content": "每个都有将近100个口",
+      "music": 0.0
+    },
+    {
+      "from": 224.05,
+      "to": 225.35,
+      "sid": 106,
+      "location": 2,
+      "content": "这里槽点最大的是",
+      "music": 0.0
+    },
+    {
+      "from": 225.35,
+      "to": 226.91,
+      "sid": 107,
+      "location": 2,
+      "content": "如果你的飞机降落在一号口",
+      "music": 0.0
+    },
+    {
+      "from": 226.91,
+      "to": 228.42,
+      "sid": 108,
+      "location": 2,
+      "content": "它是转机在99号",
+      "music": 0.0
+    },
+    {
+      "from": 228.42,
+      "to": 230.54,
+      "sid": 109,
+      "location": 2,
+      "content": "那这个体验简直跟健身差不多",
+      "music": 0.0
+    },
+    {
+      "from": 230.54,
+      "to": 232.23,
+      "sid": 110,
+      "location": 2,
+      "content": "要从一头走到另外一头",
+      "music": 0.0
+    },
+    {
+      "from": 232.23,
+      "to": 233.79,
+      "sid": 111,
+      "location": 2,
+      "content": "我之前体验过一次",
+      "music": 0.0
+    },
+    {
+      "from": 233.79,
+      "to": 234.99,
+      "sid": 112,
+      "location": 2,
+      "content": "简直是噩梦",
+      "music": 0.0
+    },
+    {
+      "from": 234.99,
+      "to": 237.01,
+      "sid": 113,
+      "location": 2,
+      "content": "不过今天小霸王出席了",
+      "music": 0.0
+    },
+    {
+      "from": 237.01,
+      "to": 239.69,
+      "sid": 114,
+      "location": 2,
+      "content": "通过某种方式混进了一个小贵宾室",
+      "music": 0.0
+    },
+    {
+      "from": 239.69,
+      "to": 241.3,
+      "sid": 115,
+      "location": 2,
+      "content": "看看里面有什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 241.3,
+      "to": 243.24,
+      "sid": 116,
+      "location": 2,
+      "content": "这种叫做fly and go",
+      "music": 0.0
+    },
+    {
+      "from": 243.24,
+      "to": 244.98,
+      "sid": 117,
+      "location": 2,
+      "content": "不是那种坐下来吃的地方",
+      "music": 0.0
+    },
+    {
+      "from": 244.98,
+      "to": 246.94,
+      "sid": 118,
+      "location": 2,
+      "content": "而是给人们一个快捷的选择",
+      "music": 0.0
+    },
+    {
+      "from": 246.94,
+      "to": 249.54,
+      "sid": 119,
+      "location": 2,
+      "content": "拿了饮料和食物就可以立刻走人",
+      "music": 0.0
+    },
+    {
+      "from": 249.54,
+      "to": 251.82,
+      "sid": 120,
+      "location": 2,
+      "content": "这里喝的比吃的选择要多啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.82,
+      "to": 253.22,
+      "sid": 121,
+      "location": 2,
+      "content": "大部分吃的都是那种",
+      "music": 0.0
+    },
+    {
+      "from": 253.22,
+      "to": 255.12,
+      "sid": 122,
+      "location": 2,
+      "content": "平时我碰都不会碰的白人饭",
+      "music": 0.0
+    },
+    {
+      "from": 255.12,
+      "to": 257.279,
+      "sid": 123,
+      "location": 2,
+      "content": "我干完了一个难吃的三明治",
+      "music": 0.0
+    },
+    {
+      "from": 257.279,
+      "to": 259.659,
+      "sid": 124,
+      "location": 2,
+      "content": "一罐中规中矩的牛奶和可乐",
+      "music": 0.0
+    },
+    {
+      "from": 259.659,
+      "to": 261.379,
+      "sid": 125,
+      "location": 2,
+      "content": "还有一盒还不错的酸奶",
+      "music": 0.0
+    },
+    {
+      "from": 261.379,
+      "to": 262.959,
+      "sid": 126,
+      "location": 2,
+      "content": "然后我还拿了一些水果",
+      "music": 0.0
+    },
+    {
+      "from": 262.959,
+      "to": 264.639,
+      "sid": 127,
+      "location": 2,
+      "content": "还有一袋美国的白煮蛋",
+      "music": 0.0
+    },
+    {
+      "from": 264.639,
+      "to": 266.1,
+      "sid": 128,
+      "location": 2,
+      "content": "也是我第一次吃",
+      "music": 0.0
+    },
+    {
+      "from": 266.1,
+      "to": 267.1,
+      "sid": 129,
+      "location": 2,
+      "content": "没有任何味道",
+      "music": 0.0
+    },
+    {
+      "from": 267.1,
+      "to": 269.8,
+      "sid": 130,
+      "location": 2,
+      "content": "比我们那种独立包装的鸡蛋差远了",
+      "music": 0.0
+    },
+    {
+      "from": 269.8,
+      "to": 272.1,
+      "sid": 131,
+      "location": 2,
+      "content": "这个休息室确实定位很明确",
+      "music": 0.0
+    },
+    {
+      "from": 272.1,
+      "to": 273.3,
+      "sid": 132,
+      "location": 2,
+      "content": "虽然好吃的不多",
+      "music": 0.0
+    },
+    {
+      "from": 273.3,
+      "to": 275.92,
+      "sid": 133,
+      "location": 2,
+      "content": "但是确实很适合那些转机时间不多的人",
+      "music": 0.0
+    },
+    {
+      "from": 275.92,
+      "to": 277.36,
+      "sid": 134,
+      "location": 2,
+      "content": "现在我要去坐飞机了",
+      "music": 0.0
+    },
+    {
+      "from": 277.36,
+      "to": 280.3,
+      "sid": 135,
+      "location": 2,
+      "content": "这个80~99号航站楼都是在地面上",
+      "music": 0.0
+    },
+    {
+      "from": 280.3,
+      "to": 283.16,
+      "sid": 136,
+      "location": 2,
+      "content": "因为这些登机口飞的都是庞巴迪的小飞机",
+      "music": 0.0
+    },
+    {
+      "from": 283.16,
+      "to": 285.1,
+      "sid": 137,
+      "location": 2,
+      "content": "目的地都是美国那些比较偏的",
+      "music": 0.0
+    },
+    {
+      "from": 285.1,
+      "to": 286.94,
+      "sid": 138,
+      "location": 2,
+      "content": "没有什么客流的乡镇机场",
+      "music": 0.0
+    },
+    {
+      "from": 286.94,
+      "to": 289.32,
+      "sid": 139,
+      "location": 2,
+      "content": "好几个航班的目的地我听都没听过",
+      "music": 0.0
+    },
+    {
+      "from": 289.32,
+      "to": 292.01,
+      "sid": 140,
+      "location": 2,
+      "content": "不知道屏幕上这些你们能认出几个",
+      "music": 0.0
+    },
+    {
+      "from": 292.01,
+      "to": 295.01,
+      "sid": 141,
+      "location": 2,
+      "content": "而且这里时不时都能遇到几个红脖子好了",
+      "music": 0.0
+    },
+    {
+      "from": 295.01,
+      "to": 296.21,
+      "sid": 142,
+      "location": 2,
+      "content": "我终于可以走了",
+      "music": 0.0
+    },
+    {
+      "from": 296.21,
+      "to": 298.19,
+      "sid": 143,
+      "location": 2,
+      "content": "这就是视频开头的那一幕",
+      "music": 0.0
+    },
+    {
+      "from": 298.19,
+      "to": 301.99,
+      "sid": 144,
+      "location": 2,
+      "content": "不过有一说一这个梯子的视野比廊桥要好很多",
+      "music": 0.0
+    },
+    {
+      "from": 301.99,
+      "to": 304.87,
+      "sid": 145,
+      "location": 2,
+      "content": "毕竟周围没有任何障碍物",
+      "music": 0.0
+    },
+    {
+      "from": 306.44,
+      "to": 308.06,
+      "sid": 146,
+      "location": 2,
+      "content": "跑巴迪的飞机特别小",
+      "music": 0.0
+    },
+    {
+      "from": 308.06,
+      "to": 310.06,
+      "sid": 147,
+      "location": 2,
+      "content": "我每次进去都得低着头走路",
+      "music": 0.0
+    },
+    {
+      "from": 310.06,
+      "to": 312.44,
+      "sid": 148,
+      "location": 2,
+      "content": "这架飞机坐满了也运不了30个人",
+      "music": 0.0
+    },
+    {
+      "from": 312.44,
+      "to": 314.04,
+      "sid": 149,
+      "location": 2,
+      "content": "而且好多座位都是空的",
+      "music": 0.0
+    },
+    {
+      "from": 314.04,
+      "to": 315.88,
+      "sid": 150,
+      "location": 2,
+      "content": "在40多个小时的折磨之后",
+      "music": 0.0
+    },
+    {
+      "from": 315.88,
+      "to": 317.12,
+      "sid": 151,
+      "location": 2,
+      "content": "终于抵达了目的地",
+      "music": 0.0
+    },
+    {
+      "from": 317.12,
+      "to": 319.16,
+      "sid": 152,
+      "location": 2,
+      "content": "这个小机场就只有一个安检队列",
+      "music": 0.0
+    },
+    {
+      "from": 319.16,
+      "to": 320.48,
+      "sid": 153,
+      "location": 2,
+      "content": "和两个行李转盘",
+      "music": 0.0
+    },
+    {
+      "from": 320.48,
+      "to": 322.54,
+      "sid": 154,
+      "location": 2,
+      "content": "机场小人少也是有好处的",
+      "music": 0.0
+    },
+    {
+      "from": 322.54,
+      "to": 325.58,
+      "sid": 155,
+      "location": 2,
+      "content": "我从下飞机到拿完行李出机场就花了5分钟",
+      "music": 0.0
+    },
+    {
+      "from": 325.58,
+      "to": 327.12,
+      "sid": 156,
+      "location": 2,
+      "content": "你们觉得这里怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 327.12,
+      "to": 327.62,
+      "sid": 157,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 327.62,
+      "to": 330.1,
+      "sid": 158,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

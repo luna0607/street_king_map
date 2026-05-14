@@ -1,0 +1,4420 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.86,
+      "sid": 1,
+      "location": 2,
+      "content": "I moved here there were signs out",
+      "music": 0.0
+    },
+    {
+      "from": 1.86,
+      "to": 3.71,
+      "sid": 2,
+      "location": 2,
+      "content": "No backs allow probably",
+      "music": 0.0
+    },
+    {
+      "from": 3.71,
+      "to": 5.71,
+      "sid": 3,
+      "location": 2,
+      "content": "Not not asians are lowed you",
+      "music": 0.0
+    },
+    {
+      "from": 5.71,
+      "to": 8.54,
+      "sid": 4,
+      "location": 2,
+      "content": "今天我来到了全佛罗里达最保守的霍尔姆斯县",
+      "music": 0.0
+    },
+    {
+      "from": 8.54,
+      "to": 9.3,
+      "sid": 5,
+      "location": 2,
+      "content": "2024年",
+      "music": 0.0
+    },
+    {
+      "from": 9.3,
+      "to": 11.5,
+      "sid": 6,
+      "location": 2,
+      "content": "这里90%的选民都投给了特朗普",
+      "music": 0.0
+    },
+    {
+      "from": 11.5,
+      "to": 13.66,
+      "sid": 7,
+      "location": 2,
+      "content": "佛罗里达是全美人口第三多的州",
+      "music": 0.0
+    },
+    {
+      "from": 13.66,
+      "to": 16.6,
+      "sid": 8,
+      "location": 2,
+      "content": "这里也是特朗普私人区所海湖庄园的所在地",
+      "music": 0.0
+    },
+    {
+      "from": 16.6,
+      "to": 19.38,
+      "sid": 9,
+      "location": 2,
+      "content": "那么这个州最讨厌和支持特朗普的现有区别呢",
+      "music": 0.0
+    },
+    {
+      "from": 19.38,
+      "to": 21.8,
+      "sid": 10,
+      "location": 2,
+      "content": "现在大家看特朗普的铁票仓霍尔姆斯县",
+      "music": 0.0
+    },
+    {
+      "from": 21.8,
+      "to": 23.22,
+      "sid": 11,
+      "location": 2,
+      "content": "我对这个县的第一印象就是",
+      "music": 0.0
+    },
+    {
+      "from": 23.22,
+      "to": 24.52,
+      "sid": 12,
+      "location": 2,
+      "content": "设在森林里面的休息站",
+      "music": 0.0
+    },
+    {
+      "from": 24.52,
+      "to": 26.68,
+      "sid": 13,
+      "location": 2,
+      "content": "整个霍尔姆斯县的面积有一个香港",
+      "music": 0.0
+    },
+    {
+      "from": 26.68,
+      "to": 28.08,
+      "sid": 14,
+      "location": 2,
+      "content": "再加上四个澳门那么大",
+      "music": 0.0
+    },
+    {
+      "from": 28.08,
+      "to": 30.42,
+      "sid": 15,
+      "location": 2,
+      "content": "但是他的人口一共只有1万9000人",
+      "music": 0.0
+    },
+    {
+      "from": 30.42,
+      "to": 31.52,
+      "sid": 16,
+      "location": 2,
+      "content": "美国东西大动脉",
+      "music": 0.0
+    },
+    {
+      "from": 31.52,
+      "to": 34.22,
+      "sid": 17,
+      "location": 2,
+      "content": "10号洲际公路穿过霍尔姆斯县的最南端",
+      "music": 0.0
+    },
+    {
+      "from": 34.22,
+      "to": 37.2,
+      "sid": 18,
+      "location": 2,
+      "content": "而这个县大部分人口都聚集在洲际公路附近",
+      "music": 0.0
+    },
+    {
+      "from": 37.2,
+      "to": 38.64,
+      "sid": 19,
+      "location": 2,
+      "content": "毕竟高速出口的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 38.64,
+      "to": 39.12,
+      "sid": 20,
+      "location": 2,
+      "content": "休息站",
+      "music": 0.0
+    },
+    {
+      "from": 39.12,
+      "to": 41.16,
+      "sid": 21,
+      "location": 2,
+      "content": "餐厅什么的都能提供不少就业",
+      "music": 0.0
+    },
+    {
+      "from": 41.16,
+      "to": 42.84,
+      "sid": 22,
+      "location": 2,
+      "content": "这个森林里面的免费休息区",
+      "music": 0.0
+    },
+    {
+      "from": 42.84,
+      "to": 44.5,
+      "sid": 23,
+      "location": 2,
+      "content": "感觉还挺干净整洁的",
+      "music": 0.0
+    },
+    {
+      "from": 44.5,
+      "to": 46.32,
+      "sid": 24,
+      "location": 2,
+      "content": "但除了休息区里面的厕所",
+      "music": 0.0
+    },
+    {
+      "from": 46.32,
+      "to": 47.44,
+      "sid": 25,
+      "location": 2,
+      "content": "这个线也没有什么别的",
+      "music": 0.0
+    },
+    {
+      "from": 47.44,
+      "to": 49.36,
+      "sid": 26,
+      "location": 2,
+      "content": "可以吸引过往旅客的地方",
+      "music": 0.0
+    },
+    {
+      "from": 49.36,
+      "to": 50.68,
+      "sid": 27,
+      "location": 2,
+      "content": "可能99%的人",
+      "music": 0.0
+    },
+    {
+      "from": 50.68,
+      "to": 52.519,
+      "sid": 28,
+      "location": 2,
+      "content": "用完洗手间就接着上路了",
+      "music": 0.0
+    },
+    {
+      "from": 52.519,
+      "to": 55.159,
+      "sid": 29,
+      "location": 2,
+      "content": "前面这两座就是10号洲际公路的公路桥",
+      "music": 0.0
+    },
+    {
+      "from": 55.159,
+      "to": 57.039,
+      "sid": 30,
+      "location": 2,
+      "content": "而从这两座桥下面穿过去",
+      "music": 0.0
+    },
+    {
+      "from": 57.039,
+      "to": 59.479,
+      "sid": 31,
+      "location": 2,
+      "content": "就是霍尔姆县人口第二多的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 59.479,
+      "to": 61.83,
+      "sid": 32,
+      "location": 2,
+      "content": "504人的小镇庞塞德莱昂",
+      "music": 0.0
+    },
+    {
+      "from": 61.83,
+      "to": 64.05,
+      "sid": 33,
+      "location": 2,
+      "content": "佛罗里达最早是西班牙的殖民地",
+      "music": 0.0
+    },
+    {
+      "from": 64.05,
+      "to": 64.99,
+      "sid": 34,
+      "location": 2,
+      "content": "而庞塞德莱昂",
+      "music": 0.0
+    },
+    {
+      "from": 64.99,
+      "to": 67.67,
+      "sid": 35,
+      "location": 2,
+      "content": "是第一个登陆佛罗里达的西班牙探险家",
+      "music": 0.0
+    },
+    {
+      "from": 67.67,
+      "to": 69.27,
+      "sid": 36,
+      "location": 2,
+      "content": "这哥们在各种野史中",
+      "music": 0.0
+    },
+    {
+      "from": 69.27,
+      "to": 69.79,
+      "sid": 37,
+      "location": 2,
+      "content": "是寻找",
+      "music": 0.0
+    },
+    {
+      "from": 69.79,
+      "to": 72.83,
+      "sid": 38,
+      "location": 2,
+      "content": "可以让人返老还童的青春之泉的传奇人物",
+      "music": 0.0
+    },
+    {
+      "from": 72.83,
+      "to": 74.91,
+      "sid": 39,
+      "location": 2,
+      "content": "可以他名字命名的庞塞德朗",
+      "music": 0.0
+    },
+    {
+      "from": 74.91,
+      "to": 77.05,
+      "sid": 40,
+      "location": 2,
+      "content": "却只是一个佛罗里达的偏僻小镇",
+      "music": 0.0
+    },
+    {
+      "from": 77.05,
+      "to": 79.61,
+      "sid": 41,
+      "location": 2,
+      "content": "这个小镇2010年有598个人",
+      "music": 0.0
+    },
+    {
+      "from": 79.61,
+      "to": 81.759,
+      "sid": 42,
+      "location": 2,
+      "content": "在过去10年减少了15%",
+      "music": 0.0
+    },
+    {
+      "from": 81.759,
+      "to": 83.459,
+      "sid": 43,
+      "location": 2,
+      "content": "现在只剩504个人",
+      "music": 0.0
+    },
+    {
+      "from": 83.459,
+      "to": 85.599,
+      "sid": 44,
+      "location": 2,
+      "content": "其中93.65%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 85.599,
+      "to": 88.14,
+      "sid": 45,
+      "location": 2,
+      "content": "亚洲人和黑人加起来一共只有四个",
+      "music": 0.0
+    },
+    {
+      "from": 88.14,
+      "to": 89.34,
+      "sid": 46,
+      "location": 2,
+      "content": "在进小说的时候",
+      "music": 0.0
+    },
+    {
+      "from": 89.34,
+      "to": 91.22,
+      "sid": 47,
+      "location": 2,
+      "content": "发现有一个阿姨在路边举了个牌子",
+      "music": 0.0
+    },
+    {
+      "from": 91.22,
+      "to": 91.62,
+      "sid": 48,
+      "location": 2,
+      "content": "写道",
+      "music": 0.0
+    },
+    {
+      "from": 91.62,
+      "to": 92.82,
+      "sid": 49,
+      "location": 2,
+      "content": "我不是无家可归",
+      "music": 0.0
+    },
+    {
+      "from": 92.82,
+      "to": 94.14,
+      "sid": 50,
+      "location": 2,
+      "content": "只是想要一点钱",
+      "music": 0.0
+    },
+    {
+      "from": 94.14,
+      "to": 96.06,
+      "sid": 51,
+      "location": 2,
+      "content": "我本来想到公路边找个地方停车",
+      "music": 0.0
+    },
+    {
+      "from": 96.06,
+      "to": 97.28,
+      "sid": 52,
+      "location": 2,
+      "content": "再来找他聊聊的",
+      "music": 0.0
+    },
+    {
+      "from": 97.28,
+      "to": 99.18,
+      "sid": 53,
+      "location": 2,
+      "content": "兜了一圈回来发现陷阱来了",
+      "music": 0.0
+    },
+    {
+      "from": 99.18,
+      "to": 101.52,
+      "sid": 54,
+      "location": 2,
+      "content": "咱就不主动找佛罗里达警察匹配了",
+      "music": 0.0
+    },
+    {
+      "from": 101.52,
+      "to": 104.28,
+      "sid": 55,
+      "location": 2,
+      "content": "还是先带大家看看庞塞德莱昂小镇里面吧",
+      "music": 0.0
+    },
+    {
+      "from": 104.28,
+      "to": 105.84,
+      "sid": 56,
+      "location": 2,
+      "content": "这算是小镇最老的片区",
+      "music": 0.0
+    },
+    {
+      "from": 105.84,
+      "to": 106.84,
+      "sid": 57,
+      "location": 2,
+      "content": "在铁轨旁边",
+      "music": 0.0
+    },
+    {
+      "from": 106.84,
+      "to": 108.48,
+      "sid": 58,
+      "location": 2,
+      "content": "以前在汽车没有普及的时候",
+      "music": 0.0
+    },
+    {
+      "from": 108.48,
+      "to": 109.8,
+      "sid": 59,
+      "location": 2,
+      "content": "大家都靠铁路出行",
+      "music": 0.0
+    },
+    {
+      "from": 109.8,
+      "to": 111.68,
+      "sid": 60,
+      "location": 2,
+      "content": "所以老店铺都开在铁轨旁边",
+      "music": 0.0
+    },
+    {
+      "from": 111.68,
+      "to": 113.4,
+      "sid": 61,
+      "location": 2,
+      "content": "如今这里已经没有客运火车了",
+      "music": 0.0
+    },
+    {
+      "from": 113.4,
+      "to": 114.949,
+      "sid": 62,
+      "location": 2,
+      "content": "所以这排房子都废弃了",
+      "music": 0.0
+    },
+    {
+      "from": 114.949,
+      "to": 116.869,
+      "sid": 63,
+      "location": 2,
+      "content": "铁道两侧的老路也是坑坑洼洼",
+      "music": 0.0
+    },
+    {
+      "from": 116.869,
+      "to": 118.409,
+      "sid": 64,
+      "location": 2,
+      "content": "像是多年没有维护了",
+      "music": 0.0
+    },
+    {
+      "from": 118.409,
+      "to": 121.25,
+      "sid": 65,
+      "location": 2,
+      "content": "这个小镇一半的房子的价值都不到10万美元",
+      "music": 0.0
+    },
+    {
+      "from": 121.25,
+      "to": 122.13,
+      "sid": 66,
+      "location": 2,
+      "content": "看数据的话",
+      "music": 0.0
+    },
+    {
+      "from": 122.13,
+      "to": 125.01,
+      "sid": 67,
+      "location": 2,
+      "content": "整个小镇30万美元以上的房子是一栋都没有",
+      "music": 0.0
+    },
+    {
+      "from": 125.01,
+      "to": 127.27,
+      "sid": 68,
+      "location": 2,
+      "content": "而在佛罗里达一些比较热门的海滨小镇",
+      "music": 0.0
+    },
+    {
+      "from": 127.27,
+      "to": 129.01,
+      "sid": 69,
+      "location": 2,
+      "content": "可能最差的房子十倍的价格",
+      "music": 0.0
+    },
+    {
+      "from": 129.01,
+      "to": 130.47,
+      "sid": 70,
+      "location": 2,
+      "content": "300万美元都买不到",
+      "music": 0.0
+    },
+    {
+      "from": 130.47,
+      "to": 132.69,
+      "sid": 71,
+      "location": 2,
+      "content": "现在我去庞塞德莱昂的CBD看看",
+      "music": 0.0
+    },
+    {
+      "from": 132.69,
+      "to": 133.71,
+      "sid": 72,
+      "location": 2,
+      "content": "这个核心商业区",
+      "music": 0.0
+    },
+    {
+      "from": 133.71,
+      "to": 135.23,
+      "sid": 73,
+      "location": 2,
+      "content": "就是公路边的一个小平房",
+      "music": 0.0
+    },
+    {
+      "from": 135.23,
+      "to": 136.84,
+      "sid": 74,
+      "location": 2,
+      "content": "再加上餐车的综合体",
+      "music": 0.0
+    },
+    {
+      "from": 136.84,
+      "to": 139.32,
+      "sid": 75,
+      "location": 2,
+      "content": "我先在他们这个餐车里买了个六美元的猪肉",
+      "music": 0.0
+    },
+    {
+      "from": 139.32,
+      "to": 139.78,
+      "sid": 76,
+      "location": 2,
+      "content": "汉堡",
+      "music": 0.0
+    },
+    {
+      "from": 139.78,
+      "to": 140.84,
+      "sid": 77,
+      "location": 2,
+      "content": "肉量还是挺大的",
+      "music": 0.0
+    },
+    {
+      "from": 140.84,
+      "to": 141.8,
+      "sid": 78,
+      "location": 2,
+      "content": "味道也还不错",
+      "music": 0.0
+    },
+    {
+      "from": 141.8,
+      "to": 143.32,
+      "sid": 79,
+      "location": 2,
+      "content": "觉得值得扣一不值得扣",
+      "music": 0.0
+    },
+    {
+      "from": 143.32,
+      "to": 146.06,
+      "sid": 80,
+      "location": 2,
+      "content": "二吃完汉堡去他们这个小超市里看看",
+      "music": 0.0
+    },
+    {
+      "from": 146.06,
+      "to": 147.52,
+      "sid": 81,
+      "location": 2,
+      "content": "店里面的氛围还不错",
+      "music": 0.0
+    },
+    {
+      "from": 147.52,
+      "to": 148.96,
+      "sid": 82,
+      "location": 2,
+      "content": "大家也都互相认识",
+      "music": 0.0
+    },
+    {
+      "from": 148.96,
+      "to": 150.68,
+      "sid": 83,
+      "location": 2,
+      "content": "毕竟这个小镇一共就500人",
+      "music": 0.0
+    },
+    {
+      "from": 150.68,
+      "to": 153.3,
+      "sid": 84,
+      "location": 2,
+      "content": "也不太会有像我这样特地来参观的外地人",
+      "music": 0.0
+    },
+    {
+      "from": 153.3,
+      "to": 154.58,
+      "sid": 85,
+      "location": 2,
+      "content": "我在店里面瞎逛的时候",
+      "music": 0.0
+    },
+    {
+      "from": 154.58,
+      "to": 156.9,
+      "sid": 86,
+      "location": 2,
+      "content": "还有陌生人特地给我打招呼",
+      "music": 0.0
+    },
+    {
+      "from": 156.9,
+      "to": 157.92,
+      "sid": 87,
+      "location": 2,
+      "content": "Hello",
+      "music": 0.0
+    },
+    {
+      "from": 157.92,
+      "to": 159.1,
+      "sid": 88,
+      "location": 2,
+      "content": "这大姐突然这么友好",
+      "music": 0.0
+    },
+    {
+      "from": 159.1,
+      "to": 160.24,
+      "sid": 89,
+      "location": 2,
+      "content": "我都没有反应过来",
+      "music": 0.0
+    },
+    {
+      "from": 160.24,
+      "to": 162.4,
+      "sid": 90,
+      "location": 2,
+      "content": "现在回想起来应该把她拉来聊天",
+      "music": 0.0
+    },
+    {
+      "from": 162.4,
+      "to": 163.92,
+      "sid": 91,
+      "location": 2,
+      "content": "这个小超市里面也有熟食卖",
+      "music": 0.0
+    },
+    {
+      "from": 163.92,
+      "to": 165.38,
+      "sid": 92,
+      "location": 2,
+      "content": "我就随手拿了一个小汉堡",
+      "music": 0.0
+    },
+    {
+      "from": 165.38,
+      "to": 167.96,
+      "sid": 93,
+      "location": 2,
+      "content": "我一出超市发现店门口停的这个大皮卡",
+      "music": 0.0
+    },
+    {
+      "from": 167.96,
+      "to": 170.04,
+      "sid": 94,
+      "location": 2,
+      "content": "车头直接挂了个蓄奴州邦联的旗子",
+      "music": 0.0
+    },
+    {
+      "from": 170.04,
+      "to": 172.48,
+      "sid": 95,
+      "location": 2,
+      "content": "美国很多州是不要求挂前车牌的",
+      "music": 0.0
+    },
+    {
+      "from": 172.48,
+      "to": 173.96,
+      "sid": 96,
+      "location": 2,
+      "content": "车主可以自行装饰",
+      "music": 0.0
+    },
+    {
+      "from": 173.96,
+      "to": 175.92,
+      "sid": 97,
+      "location": 2,
+      "content": "佛罗里达在成为旅游胜地之前",
+      "music": 0.0
+    },
+    {
+      "from": 175.92,
+      "to": 177.32,
+      "sid": 98,
+      "location": 2,
+      "content": "历史上也是一个种植园",
+      "music": 0.0
+    },
+    {
+      "from": 177.32,
+      "to": 178.43,
+      "sid": 99,
+      "location": 2,
+      "content": "遍地的蓄奴州",
+      "music": 0.0
+    },
+    {
+      "from": 178.43,
+      "to": 180.69,
+      "sid": 100,
+      "location": 2,
+      "content": "这个霍尔姆斯县位于北佛罗里达",
+      "music": 0.0
+    },
+    {
+      "from": 180.69,
+      "to": 183.37,
+      "sid": 101,
+      "location": 2,
+      "content": "跟以前最重要的匈奴中阿拉巴马是交界的",
+      "music": 0.0
+    },
+    {
+      "from": 183.37,
+      "to": 185.86,
+      "sid": 102,
+      "location": 2,
+      "content": "反倒是离佛罗里达有名的大城市都很远",
+      "music": 0.0
+    },
+    {
+      "from": 185.86,
+      "to": 188.14,
+      "sid": 103,
+      "location": 2,
+      "content": "这里倒有迪士尼和环球影城的奥兰多",
+      "music": 0.0
+    },
+    {
+      "from": 188.14,
+      "to": 189.18,
+      "sid": 104,
+      "location": 2,
+      "content": "要580km",
+      "music": 0.0
+    },
+    {
+      "from": 189.18,
+      "to": 190.649,
+      "sid": 105,
+      "location": 2,
+      "content": "也就是五个小时车程",
+      "music": 0.0
+    },
+    {
+      "from": 190.649,
+      "to": 192.449,
+      "sid": 106,
+      "location": 2,
+      "content": "到充满古巴风情的迈阿密亚",
+      "music": 0.0
+    },
+    {
+      "from": 192.449,
+      "to": 193.209,
+      "sid": 107,
+      "location": 2,
+      "content": "950km",
+      "music": 0.0
+    },
+    {
+      "from": 193.209,
+      "to": 194.629,
+      "sid": 108,
+      "location": 2,
+      "content": "也就是九个小时车程",
+      "music": 0.0
+    },
+    {
+      "from": 194.629,
+      "to": 195.609,
+      "sid": 109,
+      "location": 2,
+      "content": "这里身处内陆",
+      "music": 0.0
+    },
+    {
+      "from": 195.609,
+      "to": 197.78,
+      "sid": 110,
+      "location": 2,
+      "content": "也没有佛罗里达的海岸线和沙滩",
+      "music": 0.0
+    },
+    {
+      "from": 197.78,
+      "to": 200.58,
+      "sid": 111,
+      "location": 2,
+      "content": "这个霍尔姆斯县文化上反倒是跟老南方州",
+      "music": 0.0
+    },
+    {
+      "from": 200.58,
+      "to": 201.82,
+      "sid": 112,
+      "location": 2,
+      "content": "密西西比阿拉巴马",
+      "music": 0.0
+    },
+    {
+      "from": 201.82,
+      "to": 203.49,
+      "sid": 113,
+      "location": 2,
+      "content": "阿肯色这样的地方比较像",
+      "music": 0.0
+    },
+    {
+      "from": 203.49,
+      "to": 205.97,
+      "sid": 114,
+      "location": 2,
+      "content": "所以在这里见到曾经驯奴州的邦联旗子",
+      "music": 0.0
+    },
+    {
+      "from": 205.97,
+      "to": 207.2,
+      "sid": 115,
+      "location": 2,
+      "content": "也并不令人意外",
+      "music": 0.0
+    },
+    {
+      "from": 207.2,
+      "to": 208.72,
+      "sid": 116,
+      "location": 2,
+      "content": "离开庞塞德里昂之后",
+      "music": 0.0
+    },
+    {
+      "from": 208.72,
+      "to": 210.04,
+      "sid": 117,
+      "location": 2,
+      "content": "我来到了霍尔姆斯县",
+      "music": 0.0
+    },
+    {
+      "from": 210.04,
+      "to": 212.74,
+      "sid": 118,
+      "location": 2,
+      "content": "第四大的261人小镇韦斯特维尔",
+      "music": 0.0
+    },
+    {
+      "from": 212.74,
+      "to": 215.339,
+      "sid": 119,
+      "location": 2,
+      "content": "虽然这条公路也算是县里面的主干道了",
+      "music": 0.0
+    },
+    {
+      "from": 215.339,
+      "to": 216.299,
+      "sid": 120,
+      "location": 2,
+      "content": "10分钟车程",
+      "music": 0.0
+    },
+    {
+      "from": 216.299,
+      "to": 217.139,
+      "sid": 121,
+      "location": 2,
+      "content": "对面来车的数量",
+      "music": 0.0
+    },
+    {
+      "from": 217.139,
+      "to": 218.459,
+      "sid": 122,
+      "location": 2,
+      "content": "一双手就能数的过来",
+      "music": 0.0
+    },
+    {
+      "from": 218.459,
+      "to": 220.64,
+      "sid": 123,
+      "location": 2,
+      "content": "可能是沿途都是几百个人的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 220.64,
+      "to": 222.16,
+      "sid": 124,
+      "location": 2,
+      "content": "我现在来到了韦斯特维尔",
+      "music": 0.0
+    },
+    {
+      "from": 222.16,
+      "to": 223.36,
+      "sid": 125,
+      "location": 2,
+      "content": "有260一个人",
+      "music": 0.0
+    },
+    {
+      "from": 223.36,
+      "to": 225.06,
+      "sid": 126,
+      "location": 2,
+      "content": "是这个县第四大的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 225.06,
+      "to": 226.78,
+      "sid": 127,
+      "location": 2,
+      "content": "这个小镇里面有四个拉美人",
+      "music": 0.0
+    },
+    {
+      "from": 226.78,
+      "to": 228.78,
+      "sid": 128,
+      "location": 2,
+      "content": "一个亚洲人以及零个黑人",
+      "music": 0.0
+    },
+    {
+      "from": 228.78,
+      "to": 229.38,
+      "sid": 129,
+      "location": 2,
+      "content": "路过的时候",
+      "music": 0.0
+    },
+    {
+      "from": 229.38,
+      "to": 230.94,
+      "sid": 130,
+      "location": 2,
+      "content": "看到两个老哥坐在公路边",
+      "music": 0.0
+    },
+    {
+      "from": 230.94,
+      "to": 232.58,
+      "sid": 131,
+      "location": 2,
+      "content": "加油站门口的椅子上乘凉",
+      "music": 0.0
+    },
+    {
+      "from": 232.58,
+      "to": 233.97,
+      "sid": 132,
+      "location": 2,
+      "content": "随便找他们聊聊天",
+      "music": 0.0
+    },
+    {
+      "from": 233.97,
+      "to": 234.53,
+      "sid": 133,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 234.53,
+      "to": 236.13,
+      "sid": 134,
+      "location": 2,
+      "content": "I've lifes are sixteen",
+      "music": 0.0
+    },
+    {
+      "from": 236.13,
+      "to": 237.24,
+      "sid": 135,
+      "location": 2,
+      "content": "How do you like it",
+      "music": 0.0
+    },
+    {
+      "from": 237.24,
+      "to": 238.64,
+      "sid": 136,
+      "location": 2,
+      "content": "Thanks getting used to",
+      "music": 0.0
+    },
+    {
+      "from": 238.64,
+      "to": 242.6,
+      "sid": 137,
+      "location": 2,
+      "content": "But after you used to slade back",
+      "music": 0.0
+    },
+    {
+      "from": 242.6,
+      "to": 243.16,
+      "sid": 138,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 243.16,
+      "to": 244.3,
+      "sid": 139,
+      "location": 2,
+      "content": "It's very country",
+      "music": 0.0
+    },
+    {
+      "from": 244.3,
+      "to": 245.19,
+      "sid": 140,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 245.19,
+      "to": 246.27,
+      "sid": 141,
+      "location": 2,
+      "content": "I'm out of words",
+      "music": 0.0
+    },
+    {
+      "from": 246.27,
+      "to": 248.07,
+      "sid": 142,
+      "location": 2,
+      "content": "We got words all around here",
+      "music": 0.0
+    },
+    {
+      "from": 248.07,
+      "to": 249.34,
+      "sid": 143,
+      "location": 2,
+      "content": "You don't have beaches here",
+      "music": 0.0
+    },
+    {
+      "from": 249.34,
+      "to": 249.98,
+      "sid": 144,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 249.98,
+      "to": 250.9,
+      "sid": 145,
+      "location": 2,
+      "content": "There in no beach",
+      "music": 0.0
+    },
+    {
+      "from": 252.34,
+      "to": 253.26,
+      "sid": 146,
+      "location": 2,
+      "content": "Skin ocean",
+      "music": 0.0
+    },
+    {
+      "from": 253.26,
+      "to": 254.82,
+      "sid": 147,
+      "location": 2,
+      "content": "They get that around panamon city",
+      "music": 0.0
+    },
+    {
+      "from": 254.82,
+      "to": 256.32,
+      "sid": 148,
+      "location": 2,
+      "content": "That's supposed to that that that",
+      "music": 0.0
+    },
+    {
+      "from": 256.32,
+      "to": 259.66,
+      "sid": 149,
+      "location": 2,
+      "content": "capital gal是rena capital of the world",
+      "music": 0.0
+    },
+    {
+      "from": 259.66,
+      "to": 261.08,
+      "sid": 150,
+      "location": 2,
+      "content": "They panama city",
+      "music": 0.0
+    },
+    {
+      "from": 261.08,
+      "to": 262.0,
+      "sid": 151,
+      "location": 2,
+      "content": "Psi",
+      "music": 0.0
+    },
+    {
+      "from": 262.0,
+      "to": 264.78,
+      "sid": 152,
+      "location": 2,
+      "content": "Oh this part is like renec florida",
+      "music": 0.0
+    },
+    {
+      "from": 264.78,
+      "to": 265.38,
+      "sid": 153,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 265.38,
+      "to": 267.04,
+      "sid": 154,
+      "location": 2,
+      "content": "In ninety percent white here",
+      "music": 0.0
+    },
+    {
+      "from": 267.04,
+      "to": 267.66,
+      "sid": 155,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 267.66,
+      "to": 267.9,
+      "sid": 156,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 267.9,
+      "to": 268.1,
+      "sid": 157,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 268.1,
+      "to": 268.6,
+      "sid": 158,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 268.6,
+      "to": 270.18,
+      "sid": 159,
+      "location": 2,
+      "content": "I thought we moved here",
+      "music": 0.0
+    },
+    {
+      "from": 270.18,
+      "to": 271.24,
+      "sid": 160,
+      "location": 2,
+      "content": "There was signs out",
+      "music": 0.0
+    },
+    {
+      "from": 271.24,
+      "to": 271.86,
+      "sid": 161,
+      "location": 2,
+      "content": "No blads",
+      "music": 0.0
+    },
+    {
+      "from": 271.86,
+      "to": 273.03,
+      "sid": 162,
+      "location": 2,
+      "content": "Allow this",
+      "music": 0.0
+    },
+    {
+      "from": 273.03,
+      "to": 274.47,
+      "sid": 163,
+      "location": 2,
+      "content": "This was like this",
+      "music": 0.0
+    },
+    {
+      "from": 274.47,
+      "to": 274.95,
+      "sid": 164,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 274.95,
+      "to": 276.89,
+      "sid": 165,
+      "location": 2,
+      "content": "That was on the other side of the room",
+      "music": 0.0
+    },
+    {
+      "from": 276.89,
+      "to": 278.99,
+      "sid": 166,
+      "location": 2,
+      "content": "Probably not not asians are about you",
+      "music": 0.0
+    },
+    {
+      "from": 278.99,
+      "to": 282.93,
+      "sid": 167,
+      "location": 2,
+      "content": "No no have you seen many asians around chinese",
+      "music": 0.0
+    },
+    {
+      "from": 282.93,
+      "to": 283.57,
+      "sid": 168,
+      "location": 2,
+      "content": "No",
+      "music": 0.0
+    },
+    {
+      "from": 283.57,
+      "to": 284.64,
+      "sid": 169,
+      "location": 2,
+      "content": "No chinese here",
+      "music": 0.0
+    },
+    {
+      "from": 284.64,
+      "to": 286.32,
+      "sid": 170,
+      "location": 2,
+      "content": "I feel you not many",
+      "music": 0.0
+    },
+    {
+      "from": 286.32,
+      "to": 287.56,
+      "sid": 171,
+      "location": 2,
+      "content": "But in the old days",
+      "music": 0.0
+    },
+    {
+      "from": 287.56,
+      "to": 288.48,
+      "sid": 172,
+      "location": 2,
+      "content": "No whites",
+      "music": 0.0
+    },
+    {
+      "from": 288.48,
+      "to": 289.36,
+      "sid": 173,
+      "location": 2,
+      "content": "No chinese",
+      "music": 0.0
+    },
+    {
+      "from": 289.36,
+      "to": 290.2,
+      "sid": 174,
+      "location": 2,
+      "content": "No mexicans",
+      "music": 0.0
+    },
+    {
+      "from": 290.2,
+      "to": 290.6,
+      "sid": 175,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 290.6,
+      "to": 291.16,
+      "sid": 176,
+      "location": 2,
+      "content": "I'd say",
+      "music": 0.0
+    },
+    {
+      "from": 291.16,
+      "to": 291.72,
+      "sid": 177,
+      "location": 2,
+      "content": "So yeah",
+      "music": 0.0
+    },
+    {
+      "from": 291.72,
+      "to": 292.9,
+      "sid": 178,
+      "location": 2,
+      "content": "Ha ha ha ha",
+      "music": 0.0
+    },
+    {
+      "from": 292.9,
+      "to": 295.08,
+      "sid": 179,
+      "location": 2,
+      "content": "What you can have a black dog",
+      "music": 0.0
+    },
+    {
+      "from": 295.08,
+      "to": 296.87,
+      "sid": 180,
+      "location": 2,
+      "content": "What's what's his name",
+      "music": 0.0
+    },
+    {
+      "from": 296.87,
+      "to": 298.61,
+      "sid": 181,
+      "location": 2,
+      "content": "所以我对people就来丢钱",
+      "music": 0.0
+    },
+    {
+      "from": 298.61,
+      "to": 300.8,
+      "sid": 182,
+      "location": 2,
+      "content": "妈妈我是最帮我去",
+      "music": 0.0
+    },
+    {
+      "from": 300.8,
+      "to": 302.0,
+      "sid": 183,
+      "location": 2,
+      "content": "Shipine trees",
+      "music": 0.0
+    },
+    {
+      "from": 302.0,
+      "to": 304.32,
+      "sid": 184,
+      "location": 2,
+      "content": "I'll make that fire shout a fire",
+      "music": 0.0
+    },
+    {
+      "from": 304.32,
+      "to": 306.1,
+      "sid": 185,
+      "location": 2,
+      "content": "Oh just fun for fl",
+      "music": 0.0
+    },
+    {
+      "from": 306.1,
+      "to": 308.51,
+      "sid": 186,
+      "location": 2,
+      "content": "Oh you know on friday night get together",
+      "music": 0.0
+    },
+    {
+      "from": 308.51,
+      "to": 310.39,
+      "sid": 187,
+      "location": 2,
+      "content": "老哥其实是一个非常好的人",
+      "music": 0.0
+    },
+    {
+      "from": 310.39,
+      "to": 311.11,
+      "sid": 188,
+      "location": 2,
+      "content": "现在回看",
+      "music": 0.0
+    },
+    {
+      "from": 311.11,
+      "to": 312.31,
+      "sid": 189,
+      "location": 2,
+      "content": "因为这期主题的原因",
+      "music": 0.0
+    },
+    {
+      "from": 312.31,
+      "to": 312.91,
+      "sid": 190,
+      "location": 2,
+      "content": "有些问题",
+      "music": 0.0
+    },
+    {
+      "from": 312.91,
+      "to": 314.17,
+      "sid": 191,
+      "location": 2,
+      "content": "我问的过于尖锐",
+      "music": 0.0
+    },
+    {
+      "from": 314.17,
+      "to": 315.35,
+      "sid": 192,
+      "location": 2,
+      "content": "向老哥道歉",
+      "music": 0.0
+    },
+    {
+      "from": 315.35,
+      "to": 316.19,
+      "sid": 193,
+      "location": 2,
+      "content": "在道别的时候",
+      "music": 0.0
+    },
+    {
+      "from": 316.19,
+      "to": 316.95,
+      "sid": 194,
+      "location": 2,
+      "content": "我跟老哥说",
+      "music": 0.0
+    },
+    {
+      "from": 316.95,
+      "to": 319.01,
+      "sid": 195,
+      "location": 2,
+      "content": "我接着要去霍尔姆斯县的县城",
+      "music": 0.0
+    },
+    {
+      "from": 319.01,
+      "to": 320.51,
+      "sid": 196,
+      "location": 2,
+      "content": "也是这个县最大的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 320.51,
+      "to": 321.99,
+      "sid": 197,
+      "location": 2,
+      "content": "2700人的伯尼费",
+      "music": 0.0
+    },
+    {
+      "from": 321.99,
+      "to": 323.15,
+      "sid": 198,
+      "location": 2,
+      "content": "老哥跟我说得小心",
+      "music": 0.0
+    },
+    {
+      "from": 323.15,
+      "to": 325.62,
+      "sid": 199,
+      "location": 2,
+      "content": "路上面的警察不只是为了冲业绩",
+      "music": 0.0
+    },
+    {
+      "from": 325.62,
+      "to": 327.78,
+      "sid": 200,
+      "location": 2,
+      "content": "不少红脖子警察还想搞点事情",
+      "music": 0.0
+    },
+    {
+      "from": 327.78,
+      "to": 328.64,
+      "sid": 201,
+      "location": 2,
+      "content": "一战成名",
+      "music": 0.0
+    },
+    {
+      "from": 328.64,
+      "to": 330.9,
+      "sid": 202,
+      "location": 2,
+      "content": "我一开始倒也没把他说的话当回事",
+      "music": 0.0
+    },
+    {
+      "from": 330.9,
+      "to": 332.39,
+      "sid": 203,
+      "location": 2,
+      "content": "以为他是跟我开玩笑",
+      "music": 0.0
+    },
+    {
+      "from": 332.39,
+      "to": 334.51,
+      "sid": 204,
+      "location": 2,
+      "content": "我先是到了伯尼菲的正中心转转",
+      "music": 0.0
+    },
+    {
+      "from": 334.51,
+      "to": 335.94,
+      "sid": 205,
+      "location": 2,
+      "content": "随便拍拍素材",
+      "music": 0.0
+    },
+    {
+      "from": 335.94,
+      "to": 337.54,
+      "sid": 206,
+      "location": 2,
+      "content": "伯尼费毕竟是县城",
+      "music": 0.0
+    },
+    {
+      "from": 337.54,
+      "to": 338.78,
+      "sid": 207,
+      "location": 2,
+      "content": "比起刚刚那几个小镇",
+      "music": 0.0
+    },
+    {
+      "from": 338.78,
+      "to": 340.2,
+      "sid": 208,
+      "location": 2,
+      "content": "看着要城市化不少",
+      "music": 0.0
+    },
+    {
+      "from": 340.2,
+      "to": 343.6,
+      "sid": 209,
+      "location": 2,
+      "content": "前面这个小房子就是霍尔姆斯县法院正中心",
+      "music": 0.0
+    },
+    {
+      "from": 343.6,
+      "to": 345.64,
+      "sid": 210,
+      "location": 2,
+      "content": "有两个壁画分别是标明了霍尔姆",
+      "music": 0.0
+    },
+    {
+      "from": 345.64,
+      "to": 347.039,
+      "sid": 211,
+      "location": 2,
+      "content": "实现每个小镇的地图",
+      "music": 0.0
+    },
+    {
+      "from": 347.039,
+      "to": 349.719,
+      "sid": 212,
+      "location": 2,
+      "content": "还有个有关在伯尼菲举办的西北佛罗里达",
+      "music": 0.0
+    },
+    {
+      "from": 349.719,
+      "to": 350.779,
+      "sid": 213,
+      "location": 2,
+      "content": "牛仔竞技比赛",
+      "music": 0.0
+    },
+    {
+      "from": 350.779,
+      "to": 353.399,
+      "sid": 214,
+      "location": 2,
+      "content": "刻板印象中的佛罗里达人是喜欢出海钓鱼",
+      "music": 0.0
+    },
+    {
+      "from": 353.399,
+      "to": 355.48,
+      "sid": 215,
+      "location": 2,
+      "content": "或者在沼泽地里面跟鳄鱼玩耍",
+      "music": 0.0
+    },
+    {
+      "from": 355.48,
+      "to": 358.4,
+      "sid": 216,
+      "location": 2,
+      "content": "没想到佛罗里达内陆地区的爱好还真不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 358.4,
+      "to": 359.08,
+      "sid": 217,
+      "location": 2,
+      "content": "除了这些",
+      "music": 0.0
+    },
+    {
+      "from": 359.08,
+      "to": 361.04,
+      "sid": 218,
+      "location": 2,
+      "content": "伯尼菲似乎也没什么别的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 361.04,
+      "to": 363.32,
+      "sid": 219,
+      "location": 2,
+      "content": "主街上面的店铺不少都是空置的",
+      "music": 0.0
+    },
+    {
+      "from": 363.32,
+      "to": 364.0,
+      "sid": 220,
+      "location": 2,
+      "content": "为了美观",
+      "music": 0.0
+    },
+    {
+      "from": 364.0,
+      "to": 365.96,
+      "sid": 221,
+      "location": 2,
+      "content": "当地还在一些店门口画了点花",
+      "music": 0.0
+    },
+    {
+      "from": 365.96,
+      "to": 366.76,
+      "sid": 222,
+      "location": 2,
+      "content": "遮挡一下",
+      "music": 0.0
+    },
+    {
+      "from": 366.76,
+      "to": 369.08,
+      "sid": 223,
+      "location": 2,
+      "content": "这街上还有共和党的竞选办公室",
+      "music": 0.0
+    },
+    {
+      "from": 369.08,
+      "to": 370.88,
+      "sid": 224,
+      "location": 2,
+      "content": "我去的时候大选早就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 370.88,
+      "to": 372.04,
+      "sid": 225,
+      "location": 2,
+      "content": "办公室也关门了",
+      "music": 0.0
+    },
+    {
+      "from": 372.04,
+      "to": 374.12,
+      "sid": 226,
+      "location": 2,
+      "content": "之后我就打算跟过往视频一样",
+      "music": 0.0
+    },
+    {
+      "from": 374.12,
+      "to": 376.12,
+      "sid": 227,
+      "location": 2,
+      "content": "看看小镇别的地方拍拍素材",
+      "music": 0.0
+    },
+    {
+      "from": 376.12,
+      "to": 377.62,
+      "sid": 228,
+      "location": 2,
+      "content": "最好能找人聊聊天",
+      "music": 0.0
+    },
+    {
+      "from": 377.62,
+      "to": 379.18,
+      "sid": 229,
+      "location": 2,
+      "content": "结果我在这条主干道上",
+      "music": 0.0
+    },
+    {
+      "from": 379.18,
+      "to": 381.76,
+      "sid": 230,
+      "location": 2,
+      "content": "被一个对面过来的警察无缘无故的扑了",
+      "music": 0.0
+    },
+    {
+      "from": 381.76,
+      "to": 383.5,
+      "sid": 231,
+      "location": 2,
+      "content": "他在对面车道突然亮警灯",
+      "music": 0.0
+    },
+    {
+      "from": 383.5,
+      "to": 385.85,
+      "sid": 232,
+      "location": 2,
+      "content": "然后一个漂移大掉头凑到我后面",
+      "music": 0.0
+    },
+    {
+      "from": 385.85,
+      "to": 387.33,
+      "sid": 233,
+      "location": 2,
+      "content": "这条公路还挺繁忙的",
+      "music": 0.0
+    },
+    {
+      "from": 387.33,
+      "to": 389.53,
+      "sid": 234,
+      "location": 2,
+      "content": "我跟在前面的车后面不太可能超速",
+      "music": 0.0
+    },
+    {
+      "from": 389.53,
+      "to": 391.94,
+      "sid": 235,
+      "location": 2,
+      "content": "我一开始还以为是我忘记系安全带啥的",
+      "music": 0.0
+    },
+    {
+      "from": 391.94,
+      "to": 392.98,
+      "sid": 236,
+      "location": 2,
+      "content": "后来警察跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 392.98,
+      "to": 395.68,
+      "sid": 237,
+      "location": 2,
+      "content": "他看到我在这条马路上来来回回开了三四趟",
+      "music": 0.0
+    },
+    {
+      "from": 395.68,
+      "to": 397.06,
+      "sid": 238,
+      "location": 2,
+      "content": "然后查了一下我的车牌",
+      "music": 0.0
+    },
+    {
+      "from": 397.06,
+      "to": 398.24,
+      "sid": 239,
+      "location": 2,
+      "content": "发现是过期了",
+      "music": 0.0
+    },
+    {
+      "from": 398.24,
+      "to": 399.12,
+      "sid": 240,
+      "location": 2,
+      "content": "因此把我截停",
+      "music": 0.0
+    },
+    {
+      "from": 399.12,
+      "to": 401.36,
+      "sid": 241,
+      "location": 2,
+      "content": "让我出示一下保险和年检什么的",
+      "music": 0.0
+    },
+    {
+      "from": 401.36,
+      "to": 403.12,
+      "sid": 242,
+      "location": 2,
+      "content": "像我这种遵纪守法的老实人",
+      "music": 0.0
+    },
+    {
+      "from": 403.12,
+      "to": 404.98,
+      "sid": 243,
+      "location": 2,
+      "content": "当然应付警察是得心应手了",
+      "music": 0.0
+    },
+    {
+      "from": 404.98,
+      "to": 406.66,
+      "sid": 244,
+      "location": 2,
+      "content": "再加上我所有的文件也都有",
+      "music": 0.0
+    },
+    {
+      "from": 406.66,
+      "to": 407.78,
+      "sid": 245,
+      "location": 2,
+      "content": "后来警察跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 407.78,
+      "to": 409.14,
+      "sid": 246,
+      "location": 2,
+      "content": "可能因为我是外州的车牌",
+      "music": 0.0
+    },
+    {
+      "from": 409.14,
+      "to": 411.17,
+      "sid": 247,
+      "location": 2,
+      "content": "他们佛罗里达系统内没有更新",
+      "music": 0.0
+    },
+    {
+      "from": 411.17,
+      "to": 412.01,
+      "sid": 248,
+      "location": 2,
+      "content": "我个人理解",
+      "music": 0.0
+    },
+    {
+      "from": 412.01,
+      "to": 414.21,
+      "sid": 249,
+      "location": 2,
+      "content": "反而是因为这个小镇很少有外周的车",
+      "music": 0.0
+    },
+    {
+      "from": 414.21,
+      "to": 414.85,
+      "sid": 250,
+      "location": 2,
+      "content": "我一进来",
+      "music": 0.0
+    },
+    {
+      "from": 414.85,
+      "to": 415.93,
+      "sid": 251,
+      "location": 2,
+      "content": "他们就盯上了我",
+      "music": 0.0
+    },
+    {
+      "from": 415.93,
+      "to": 418.23,
+      "sid": 252,
+      "location": 2,
+      "content": "而且我看的是一个好欺负的亚洲人",
+      "music": 0.0
+    },
+    {
+      "from": 418.23,
+      "to": 420.66,
+      "sid": 253,
+      "location": 2,
+      "content": "他们就随便找了个借口把我拦下来问话",
+      "music": 0.0
+    },
+    {
+      "from": 420.66,
+      "to": 422.08,
+      "sid": 254,
+      "location": 2,
+      "content": "说不定能有什么收获呢",
+      "music": 0.0
+    },
+    {
+      "from": 422.08,
+      "to": 423.5,
+      "sid": 255,
+      "location": 2,
+      "content": "不过后来我跟警察解释说",
+      "music": 0.0
+    },
+    {
+      "from": 423.5,
+      "to": 424.66,
+      "sid": 256,
+      "location": 2,
+      "content": "我是来这里拍视频的",
+      "music": 0.0
+    },
+    {
+      "from": 424.66,
+      "to": 425.84,
+      "sid": 257,
+      "location": 2,
+      "content": "他反倒是挺诧异",
+      "music": 0.0
+    },
+    {
+      "from": 425.84,
+      "to": 426.34,
+      "sid": 258,
+      "location": 2,
+      "content": "跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 426.34,
+      "to": 427.8,
+      "sid": 259,
+      "location": 2,
+      "content": "从来没人来这里拍过视频",
+      "music": 0.0
+    },
+    {
+      "from": 427.8,
+      "to": 429.96,
+      "sid": 260,
+      "location": 2,
+      "content": "问我伯尼菲这个地方有什么可拍的",
+      "music": 0.0
+    },
+    {
+      "from": 429.96,
+      "to": 430.96,
+      "sid": 261,
+      "location": 2,
+      "content": "我说我就喜欢拍",
+      "music": 0.0
+    },
+    {
+      "from": 430.96,
+      "to": 433.06,
+      "sid": 262,
+      "location": 2,
+      "content": "伯尼菲这种又偏僻又无聊的地方",
+      "music": 0.0
+    },
+    {
+      "from": 433.06,
+      "to": 433.8,
+      "sid": 263,
+      "location": 2,
+      "content": "话聊开了",
+      "music": 0.0
+    },
+    {
+      "from": 433.8,
+      "to": 434.6,
+      "sid": 264,
+      "location": 2,
+      "content": "解释清楚了",
+      "music": 0.0
+    },
+    {
+      "from": 434.6,
+      "to": 436.12,
+      "sid": 265,
+      "location": 2,
+      "content": "其实警察也挺友好的",
+      "music": 0.0
+    },
+    {
+      "from": 436.12,
+      "to": 437.12,
+      "sid": 266,
+      "location": 2,
+      "content": "虽然很难断言",
+      "music": 0.0
+    },
+    {
+      "from": 437.12,
+      "to": 439.32,
+      "sid": 267,
+      "location": 2,
+      "content": "警察最初扑我有没有什么种族因素",
+      "music": 0.0
+    },
+    {
+      "from": 439.32,
+      "to": 440.36,
+      "sid": 268,
+      "location": 2,
+      "content": "但这么一出之后",
+      "music": 0.0
+    },
+    {
+      "from": 440.36,
+      "to": 441.8,
+      "sid": 269,
+      "location": 2,
+      "content": "我也知道自己该离开这个",
+      "music": 0.0
+    },
+    {
+      "from": 441.8,
+      "to": 443.81,
+      "sid": 270,
+      "location": 2,
+      "content": "佛罗里达最保守的霍尔姆斯县",
+      "music": 0.0
+    },
+    {
+      "from": 443.81,
+      "to": 446.77,
+      "sid": 271,
+      "location": 2,
+      "content": "上10号公路一路向东去看看这个线的反面",
+      "music": 0.0
+    },
+    {
+      "from": 446.77,
+      "to": 449.14,
+      "sid": 272,
+      "location": 2,
+      "content": "泉州最讨厌特朗普的加兹登县",
+      "music": 0.0
+    },
+    {
+      "from": 449.14,
+      "to": 450.66,
+      "sid": 273,
+      "location": 2,
+      "content": "在一天内跑了这么多地方",
+      "music": 0.0
+    },
+    {
+      "from": 450.66,
+      "to": 452.92,
+      "sid": 274,
+      "location": 2,
+      "content": "还能头脑清醒的跟警察对答如流",
+      "music": 0.0
+    },
+    {
+      "from": 452.92,
+      "to": 455.44,
+      "sid": 275,
+      "location": 2,
+      "content": "真的多亏了本期的赞助商海力生云游",
+      "music": 0.0
+    },
+    {
+      "from": 455.44,
+      "to": 456.4,
+      "sid": 276,
+      "location": 2,
+      "content": "可能有人问了",
+      "music": 0.0
+    },
+    {
+      "from": 456.4,
+      "to": 457.46,
+      "sid": 277,
+      "location": 2,
+      "content": "鱼油到底有什么用",
+      "music": 0.0
+    },
+    {
+      "from": 457.46,
+      "to": 458.72,
+      "sid": 278,
+      "location": 2,
+      "content": "看这张图就明白了",
+      "music": 0.0
+    },
+    {
+      "from": 458.72,
+      "to": 459.84,
+      "sid": 279,
+      "location": 2,
+      "content": "大家可以回忆回忆",
+      "music": 0.0
+    },
+    {
+      "from": 459.84,
+      "to": 462.34,
+      "sid": 280,
+      "location": 2,
+      "content": "你是不是工作一会就会头晕头痛",
+      "music": 0.0
+    },
+    {
+      "from": 462.34,
+      "to": 464.7,
+      "sid": 281,
+      "location": 2,
+      "content": "会不会突然感到胸闷或者眼睛一花",
+      "music": 0.0
+    },
+    {
+      "from": 464.7,
+      "to": 465.98,
+      "sid": 282,
+      "location": 2,
+      "content": "有没有感觉精力不够",
+      "music": 0.0
+    },
+    {
+      "from": 465.98,
+      "to": 467.14,
+      "sid": 283,
+      "location": 2,
+      "content": "经常昏昏欲睡",
+      "music": 0.0
+    },
+    {
+      "from": 467.14,
+      "to": 467.62,
+      "sid": 284,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 467.62,
+      "to": 470.02,
+      "sid": 285,
+      "location": 2,
+      "content": "这些问题证明你的血管正在向你求救",
+      "music": 0.0
+    },
+    {
+      "from": 470.02,
+      "to": 470.56,
+      "sid": 286,
+      "location": 2,
+      "content": "怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 470.56,
+      "to": 472.66,
+      "sid": 287,
+      "location": 2,
+      "content": "我建议你吃高纯度深海鱼油",
+      "music": 0.0
+    },
+    {
+      "from": 472.66,
+      "to": 474.0,
+      "sid": 288,
+      "location": 2,
+      "content": "鱼油是血管的卫士",
+      "music": 0.0
+    },
+    {
+      "from": 474.0,
+      "to": 475.06,
+      "sid": 289,
+      "location": 2,
+      "content": "鱼油里面的EPA",
+      "music": 0.0
+    },
+    {
+      "from": 475.06,
+      "to": 477.6,
+      "sid": 290,
+      "location": 2,
+      "content": "可以有效清理血管里的脂肪和脏东西",
+      "music": 0.0
+    },
+    {
+      "from": 477.6,
+      "to": 478.66,
+      "sid": 291,
+      "location": 2,
+      "content": "而且纯度越高",
+      "music": 0.0
+    },
+    {
+      "from": 478.66,
+      "to": 479.73,
+      "sid": 292,
+      "location": 2,
+      "content": "效果越明显",
+      "music": 0.0
+    },
+    {
+      "from": 479.73,
+      "to": 480.37,
+      "sid": 293,
+      "location": 2,
+      "content": "说起来",
+      "music": 0.0
+    },
+    {
+      "from": 480.37,
+      "to": 483.51,
+      "sid": 294,
+      "location": 2,
+      "content": "鱼油的提纯技术长期掌握在国外大型药企手里",
+      "music": 0.0
+    },
+    {
+      "from": 483.51,
+      "to": 485.66,
+      "sid": 295,
+      "location": 2,
+      "content": "这也是某鱼油敢卖1000多的原因",
+      "music": 0.0
+    },
+    {
+      "from": 485.66,
+      "to": 487.46,
+      "sid": 296,
+      "location": 2,
+      "content": "好在浙江有这么一家71年",
+      "music": 0.0
+    },
+    {
+      "from": 487.46,
+      "to": 489.46,
+      "sid": 297,
+      "location": 2,
+      "content": "专注海洋生物科技的老药企",
+      "music": 0.0
+    },
+    {
+      "from": 489.46,
+      "to": 491.54,
+      "sid": 298,
+      "location": 2,
+      "content": "把鱼油提纯技术做到行业前沿",
+      "music": 0.0
+    },
+    {
+      "from": 491.54,
+      "to": 492.59,
+      "sid": 299,
+      "location": 2,
+      "content": "它就是海力生",
+      "music": 0.0
+    },
+    {
+      "from": 492.59,
+      "to": 493.83,
+      "sid": 300,
+      "location": 2,
+      "content": "海力生小蓝皮鱼油",
+      "music": 0.0
+    },
+    {
+      "from": 493.83,
+      "to": 494.89,
+      "sid": 301,
+      "location": 2,
+      "content": "不光我自己在吃",
+      "music": 0.0
+    },
+    {
+      "from": 494.89,
+      "to": 496.63,
+      "sid": 302,
+      "location": 2,
+      "content": "几百位up主都推荐过",
+      "music": 0.0
+    },
+    {
+      "from": 496.63,
+      "to": 497.31,
+      "sid": 303,
+      "location": 2,
+      "content": "为啥呢",
+      "music": 0.0
+    },
+    {
+      "from": 497.31,
+      "to": 501.0,
+      "sid": 304,
+      "location": 2,
+      "content": "70多年老国货鱼油提纯的杠把子检测报告",
+      "music": 0.0
+    },
+    {
+      "from": 501.0,
+      "to": 501.92,
+      "sid": 305,
+      "location": 2,
+      "content": "进口原料单",
+      "music": 0.0
+    },
+    {
+      "from": 501.92,
+      "to": 504.0,
+      "sid": 306,
+      "location": 2,
+      "content": "工厂实拍视频等等一大堆材料",
+      "music": 0.0
+    },
+    {
+      "from": 504.0,
+      "to": 506.16,
+      "sid": 307,
+      "location": 2,
+      "content": "品牌方可以毫无保留公开给大家看",
+      "music": 0.0
+    },
+    {
+      "from": 506.16,
+      "to": 507.32,
+      "sid": 308,
+      "location": 2,
+      "content": "的确很严谨",
+      "music": 0.0
+    },
+    {
+      "from": 507.32,
+      "to": 508.16,
+      "sid": 309,
+      "location": 2,
+      "content": "抛开资质",
+      "music": 0.0
+    },
+    {
+      "from": 508.16,
+      "to": 510.72,
+      "sid": 310,
+      "location": 2,
+      "content": "这个产品也绝对顶像我们平时奶茶",
+      "music": 0.0
+    },
+    {
+      "from": 510.72,
+      "to": 512.1,
+      "sid": 311,
+      "location": 2,
+      "content": "烧烤外卖吃的很多",
+      "music": 0.0
+    },
+    {
+      "from": 512.1,
+      "to": 513.98,
+      "sid": 312,
+      "location": 2,
+      "content": "导致血脂血管压力山大",
+      "music": 0.0
+    },
+    {
+      "from": 513.98,
+      "to": 515.98,
+      "sid": 313,
+      "location": 2,
+      "content": "这个时候就需要鱼油里的omega3",
+      "music": 0.0
+    },
+    {
+      "from": 515.98,
+      "to": 517.679,
+      "sid": 314,
+      "location": 2,
+      "content": "清扫一下血管的垃圾",
+      "music": 0.0
+    },
+    {
+      "from": 517.679,
+      "to": 519.399,
+      "sid": 315,
+      "location": 2,
+      "content": "欧美A3要充分发挥作用",
+      "music": 0.0
+    },
+    {
+      "from": 519.399,
+      "to": 520.899,
+      "sid": 316,
+      "location": 2,
+      "content": "一定要选择高纯度鱼油",
+      "music": 0.0
+    },
+    {
+      "from": 520.899,
+      "to": 521.839,
+      "sid": 317,
+      "location": 2,
+      "content": "海力生小蓝瓶",
+      "music": 0.0
+    },
+    {
+      "from": 521.839,
+      "to": 524.119,
+      "sid": 318,
+      "location": 2,
+      "content": "已经把检测纯度从98.5%",
+      "music": 0.0
+    },
+    {
+      "from": 524.119,
+      "to": 525.75,
+      "sid": 319,
+      "location": 2,
+      "content": "提升到了99.6%",
+      "music": 0.0
+    },
+    {
+      "from": 525.75,
+      "to": 528.19,
+      "sid": 320,
+      "location": 2,
+      "content": "要知道这么高纯度每提升0.1%",
+      "music": 0.0
+    },
+    {
+      "from": 528.19,
+      "to": 529.49,
+      "sid": 321,
+      "location": 2,
+      "content": "都要花费巨大代价",
+      "music": 0.0
+    },
+    {
+      "from": 529.49,
+      "to": 531.71,
+      "sid": 322,
+      "location": 2,
+      "content": "看似微小变化背后是技术攻坚",
+      "music": 0.0
+    },
+    {
+      "from": 531.71,
+      "to": 532.31,
+      "sid": 323,
+      "location": 2,
+      "content": "工艺改进",
+      "music": 0.0
+    },
+    {
+      "from": 532.31,
+      "to": 533.84,
+      "sid": 324,
+      "location": 2,
+      "content": "也造就了这一整颗的透亮",
+      "music": 0.0
+    },
+    {
+      "from": 533.84,
+      "to": 534.94,
+      "sid": 325,
+      "location": 2,
+      "content": "几乎没有杂质",
+      "music": 0.0
+    },
+    {
+      "from": 534.94,
+      "to": 536.26,
+      "sid": 326,
+      "location": 2,
+      "content": "高纯度鱼又有多好呢",
+      "music": 0.0
+    },
+    {
+      "from": 536.26,
+      "to": 537.2,
+      "sid": 327,
+      "location": 2,
+      "content": "我口说无凭",
+      "music": 0.0
+    },
+    {
+      "from": 537.2,
+      "to": 539.74,
+      "sid": 328,
+      "location": 2,
+      "content": "直接冲他家买家秀看看好家伙",
+      "music": 0.0
+    },
+    {
+      "from": 539.74,
+      "to": 541.08,
+      "sid": 329,
+      "location": 2,
+      "content": "上万条好评刷下来",
+      "music": 0.0
+    },
+    {
+      "from": 541.08,
+      "to": 541.94,
+      "sid": 330,
+      "location": 2,
+      "content": "什么睡眠好了",
+      "music": 0.0
+    },
+    {
+      "from": 541.94,
+      "to": 542.62,
+      "sid": 331,
+      "location": 2,
+      "content": "质量很好",
+      "music": 0.0
+    },
+    {
+      "from": 542.62,
+      "to": 543.5,
+      "sid": 332,
+      "location": 2,
+      "content": "皮肤变好了",
+      "music": 0.0
+    },
+    {
+      "from": 543.5,
+      "to": 545.24,
+      "sid": 333,
+      "location": 2,
+      "content": "还有不少用户贴了体检报告",
+      "music": 0.0
+    },
+    {
+      "from": 545.24,
+      "to": 546.92,
+      "sid": 334,
+      "location": 2,
+      "content": "说他体检指标降低了",
+      "music": 0.0
+    },
+    {
+      "from": 546.92,
+      "to": 548.42,
+      "sid": 335,
+      "location": 2,
+      "content": "小拉皮可不光纯度能打",
+      "music": 0.0
+    },
+    {
+      "from": 548.42,
+      "to": 550.42,
+      "sid": 336,
+      "location": 2,
+      "content": "他用的是非常先进的RTG结构",
+      "music": 0.0
+    },
+    {
+      "from": 550.42,
+      "to": 552.49,
+      "sid": 337,
+      "location": 2,
+      "content": "这种结构吸收率提升了三倍",
+      "music": 0.0
+    },
+    {
+      "from": 552.49,
+      "to": 553.95,
+      "sid": 338,
+      "location": 2,
+      "content": "结合超高纯度优势",
+      "music": 0.0
+    },
+    {
+      "from": 553.95,
+      "to": 556.35,
+      "sid": 339,
+      "location": 2,
+      "content": "吃进去的每一粒都能实打实发挥作用",
+      "music": 0.0
+    },
+    {
+      "from": 556.35,
+      "to": 558.07,
+      "sid": 340,
+      "location": 2,
+      "content": "他们家很考虑使用感受",
+      "music": 0.0
+    },
+    {
+      "from": 558.07,
+      "to": 559.77,
+      "sid": 341,
+      "location": 2,
+      "content": "颗粒大小刚好不卡嗓子",
+      "music": 0.0
+    },
+    {
+      "from": 559.77,
+      "to": 561.099,
+      "sid": 342,
+      "location": 2,
+      "content": "吃起来没什么腥味",
+      "music": 0.0
+    },
+    {
+      "from": 561.099,
+      "to": 562.859,
+      "sid": 343,
+      "location": 2,
+      "content": "可以让一些见鱼就皱眉的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 562.859,
+      "to": 564.459,
+      "sid": 344,
+      "location": 2,
+      "content": "也能坚持吃海力生",
+      "music": 0.0
+    },
+    {
+      "from": 564.459,
+      "to": 566.219,
+      "sid": 345,
+      "location": 2,
+      "content": "打破高纯度鱼油的溢价壁垒",
+      "music": 0.0
+    },
+    {
+      "from": 566.219,
+      "to": 568.54,
+      "sid": 346,
+      "location": 2,
+      "content": "让高纯度鱼油也可以照顾大家的健康",
+      "music": 0.0
+    },
+    {
+      "from": 568.54,
+      "to": 571.02,
+      "sid": 347,
+      "location": 2,
+      "content": "这样的企业的确该支持评论区领券",
+      "music": 0.0
+    },
+    {
+      "from": 571.02,
+      "to": 572.02,
+      "sid": 348,
+      "location": 2,
+      "content": "还有我的专享价",
+      "music": 0.0
+    },
+    {
+      "from": 572.02,
+      "to": 572.96,
+      "sid": 349,
+      "location": 2,
+      "content": "不仅更便宜",
+      "music": 0.0
+    },
+    {
+      "from": 572.96,
+      "to": 574.74,
+      "sid": 350,
+      "location": 2,
+      "content": "吃三瓶还能送旅行装一瓶",
+      "music": 0.0
+    },
+    {
+      "from": 574.74,
+      "to": 576.08,
+      "sid": 351,
+      "location": 2,
+      "content": "每天吃够欧美A3",
+      "music": 0.0
+    },
+    {
+      "from": 576.08,
+      "to": 577.99,
+      "sid": 352,
+      "location": 2,
+      "content": "也就是一小瓶可乐的价钱",
+      "music": 0.0
+    },
+    {
+      "from": 577.99,
+      "to": 580.79,
+      "sid": 353,
+      "location": 2,
+      "content": "有需要的朋友快点击评论区链接下单吧",
+      "music": 0.0
+    },
+    {
+      "from": 580.79,
+      "to": 581.11,
+      "sid": 354,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 581.11,
+      "to": 582.35,
+      "sid": 355,
+      "location": 2,
+      "content": "我现在来到了全佛罗里达",
+      "music": 0.0
+    },
+    {
+      "from": 582.35,
+      "to": 585.95,
+      "sid": 356,
+      "location": 2,
+      "content": "最讨厌特朗普的加兹邓县县城8000人小城昆西",
+      "music": 0.0
+    },
+    {
+      "from": 585.95,
+      "to": 587.35,
+      "sid": 357,
+      "location": 2,
+      "content": "在2024年大选中",
+      "music": 0.0
+    },
+    {
+      "from": 587.35,
+      "to": 589.68,
+      "sid": 358,
+      "location": 2,
+      "content": "全县只有34%的人投给了特朗普",
+      "music": 0.0
+    },
+    {
+      "from": 589.68,
+      "to": 591.28,
+      "sid": 359,
+      "location": 2,
+      "content": "在佛罗里达67个县里面",
+      "music": 0.0
+    },
+    {
+      "from": 591.28,
+      "to": 593.1,
+      "sid": 360,
+      "location": 2,
+      "content": "支持特朗普的比例是最低的",
+      "music": 0.0
+    },
+    {
+      "from": 593.1,
+      "to": 593.62,
+      "sid": 361,
+      "location": 2,
+      "content": "一般来说",
+      "music": 0.0
+    },
+    {
+      "from": 593.62,
+      "to": 595.24,
+      "sid": 362,
+      "location": 2,
+      "content": "最反对特朗普的都是大学城",
+      "music": 0.0
+    },
+    {
+      "from": 595.24,
+      "to": 597.42,
+      "sid": 363,
+      "location": 2,
+      "content": "或者纽约洛杉矶这样的大都会区",
+      "music": 0.0
+    },
+    {
+      "from": 597.42,
+      "to": 599.47,
+      "sid": 364,
+      "location": 2,
+      "content": "但是加兹登县也是一个农村县",
+      "music": 0.0
+    },
+    {
+      "from": 599.47,
+      "to": 602.13,
+      "sid": 365,
+      "location": 2,
+      "content": "这里全县人口是4万3833人",
+      "music": 0.0
+    },
+    {
+      "from": 602.13,
+      "to": 603.86,
+      "sid": 366,
+      "location": 2,
+      "content": "大概是霍尔姆斯县的两倍",
+      "music": 0.0
+    },
+    {
+      "from": 603.86,
+      "to": 605.5,
+      "sid": 367,
+      "location": 2,
+      "content": "这里和霍尔姆斯县差不多",
+      "music": 0.0
+    },
+    {
+      "from": 605.5,
+      "to": 608.2,
+      "sid": 368,
+      "location": 2,
+      "content": "穷家庭年收入中位数是4万6000美元",
+      "music": 0.0
+    },
+    {
+      "from": 608.2,
+      "to": 610.45,
+      "sid": 369,
+      "location": 2,
+      "content": "霍尔姆斯县是4万8200美元",
+      "music": 0.0
+    },
+    {
+      "from": 610.45,
+      "to": 613.42,
+      "sid": 370,
+      "location": 2,
+      "content": "都只有佛罗里达州收入中位数的60%",
+      "music": 0.0
+    },
+    {
+      "from": 613.42,
+      "to": 615.7,
+      "sid": 371,
+      "location": 2,
+      "content": "不过加兹登这里的房子值钱一点",
+      "music": 0.0
+    },
+    {
+      "from": 615.7,
+      "to": 618.14,
+      "sid": 372,
+      "location": 2,
+      "content": "房子价值中位数是15万4000美元",
+      "music": 0.0
+    },
+    {
+      "from": 618.14,
+      "to": 620.34,
+      "sid": 373,
+      "location": 2,
+      "content": "毕竟这个老历史街区还是挺漂亮的",
+      "music": 0.0
+    },
+    {
+      "from": 620.34,
+      "to": 622.66,
+      "sid": 374,
+      "location": 2,
+      "content": "而霍尔姆斯县只有10万1000美元",
+      "music": 0.0
+    },
+    {
+      "from": 622.66,
+      "to": 623.38,
+      "sid": 375,
+      "location": 2,
+      "content": "而佛罗里达",
+      "music": 0.0
+    },
+    {
+      "from": 623.38,
+      "to": 626.02,
+      "sid": 376,
+      "location": 2,
+      "content": "泉州的房价中位数是32万5000美元",
+      "music": 0.0
+    },
+    {
+      "from": 626.02,
+      "to": 628.85,
+      "sid": 377,
+      "location": 2,
+      "content": "最保守的霍尔姆支线连1/3都没有到",
+      "music": 0.0
+    },
+    {
+      "from": 628.85,
+      "to": 630.49,
+      "sid": 378,
+      "location": 2,
+      "content": "如果单看经济数据的话",
+      "music": 0.0
+    },
+    {
+      "from": 630.49,
+      "to": 632.93,
+      "sid": 379,
+      "location": 2,
+      "content": "这两个县可以算得上是佛罗里达的难兄难弟",
+      "music": 0.0
+    },
+    {
+      "from": 632.93,
+      "to": 633.69,
+      "sid": 380,
+      "location": 2,
+      "content": "吊车尾了",
+      "music": 0.0
+    },
+    {
+      "from": 633.69,
+      "to": 635.27,
+      "sid": 381,
+      "location": 2,
+      "content": "而且两个县离得还很近",
+      "music": 0.0
+    },
+    {
+      "from": 635.27,
+      "to": 636.93,
+      "sid": 382,
+      "location": 2,
+      "content": "只要一个小时车程",
+      "music": 0.0
+    },
+    {
+      "from": 636.93,
+      "to": 637.97,
+      "sid": 383,
+      "location": 2,
+      "content": "大家可以猜猜看",
+      "music": 0.0
+    },
+    {
+      "from": 637.97,
+      "to": 638.29,
+      "sid": 384,
+      "location": 2,
+      "content": "为什么",
+      "music": 0.0
+    },
+    {
+      "from": 638.29,
+      "to": 640.55,
+      "sid": 385,
+      "location": 2,
+      "content": "这两个县对特朗普的支持有这么大的不同",
+      "music": 0.0
+    },
+    {
+      "from": 640.55,
+      "to": 641.37,
+      "sid": 386,
+      "location": 2,
+      "content": "一句话来说",
+      "music": 0.0
+    },
+    {
+      "from": 641.37,
+      "to": 642.17,
+      "sid": 387,
+      "location": 2,
+      "content": "一个是穷白人",
+      "music": 0.0
+    },
+    {
+      "from": 642.17,
+      "to": 643.21,
+      "sid": 388,
+      "location": 2,
+      "content": "见一个是穷黑人",
+      "music": 0.0
+    },
+    {
+      "from": 643.21,
+      "to": 645.729,
+      "sid": 389,
+      "location": 2,
+      "content": "现霍尔姆斯县84%都是白矮人",
+      "music": 0.0
+    },
+    {
+      "from": 645.729,
+      "to": 648.009,
+      "sid": 390,
+      "location": 2,
+      "content": "而加兹登县黑人比例是55%",
+      "music": 0.0
+    },
+    {
+      "from": 648.009,
+      "to": 649.609,
+      "sid": 391,
+      "location": 2,
+      "content": "这也是全佛罗里达唯一一个",
+      "music": 0.0
+    },
+    {
+      "from": 649.609,
+      "to": 651.65,
+      "sid": 392,
+      "location": 2,
+      "content": "黑人比例超过50%的县",
+      "music": 0.0
+    },
+    {
+      "from": 651.65,
+      "to": 652.89,
+      "sid": 393,
+      "location": 2,
+      "content": "怪不得一来到昆西",
+      "music": 0.0
+    },
+    {
+      "from": 652.89,
+      "to": 654.57,
+      "sid": 394,
+      "location": 2,
+      "content": "觉得这里的空气格外香甜",
+      "music": 0.0
+    },
+    {
+      "from": 654.57,
+      "to": 657.0,
+      "sid": 395,
+      "location": 2,
+      "content": "算是来到了本频道的舒适区了",
+      "music": 0.0
+    },
+    {
+      "from": 659.68,
+      "to": 661.38,
+      "sid": 396,
+      "location": 2,
+      "content": "或者说最讨厌特朗普的",
+      "music": 0.0
+    },
+    {
+      "from": 661.38,
+      "to": 662.34,
+      "sid": 397,
+      "location": 2,
+      "content": "在2024年",
+      "music": 0.0
+    },
+    {
+      "from": 662.34,
+      "to": 664.96,
+      "sid": 398,
+      "location": 2,
+      "content": "美国全国只有11%的黑人投入特朗普",
+      "music": 0.0
+    },
+    {
+      "from": 664.96,
+      "to": 665.86,
+      "sid": 399,
+      "location": 2,
+      "content": "而在2016年",
+      "music": 0.0
+    },
+    {
+      "from": 665.86,
+      "to": 667.38,
+      "sid": 400,
+      "location": 2,
+      "content": "这个比例只有6%",
+      "music": 0.0
+    },
+    {
+      "from": 667.38,
+      "to": 669.64,
+      "sid": 401,
+      "location": 2,
+      "content": "现在我来到了加兹登县的法院门口",
+      "music": 0.0
+    },
+    {
+      "from": 669.64,
+      "to": 671.7,
+      "sid": 402,
+      "location": 2,
+      "content": "这个小镇看着明显很有历史感",
+      "music": 0.0
+    },
+    {
+      "from": 671.7,
+      "to": 673.84,
+      "sid": 403,
+      "location": 2,
+      "content": "比起昆西1828年就建立了",
+      "music": 0.0
+    },
+    {
+      "from": 673.84,
+      "to": 674.54,
+      "sid": 404,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 674.54,
+      "to": 676.95,
+      "sid": 405,
+      "location": 2,
+      "content": "刚刚的伯尼费1882年才见证",
+      "music": 0.0
+    },
+    {
+      "from": 676.95,
+      "to": 678.05,
+      "sid": 406,
+      "location": 2,
+      "content": "自成立之初",
+      "music": 0.0
+    },
+    {
+      "from": 678.05,
+      "to": 680.47,
+      "sid": 407,
+      "location": 2,
+      "content": "昆西一直是区域性最重要的农业小镇",
+      "music": 0.0
+    },
+    {
+      "from": 680.47,
+      "to": 681.89,
+      "sid": 408,
+      "location": 2,
+      "content": "这边不止有棉花地",
+      "music": 0.0
+    },
+    {
+      "from": 681.89,
+      "to": 682.91,
+      "sid": 409,
+      "location": 2,
+      "content": "还生产蘑菇",
+      "music": 0.0
+    },
+    {
+      "from": 682.91,
+      "to": 683.81,
+      "sid": 410,
+      "location": 2,
+      "content": "西红柿大豆",
+      "music": 0.0
+    },
+    {
+      "from": 683.81,
+      "to": 685.46,
+      "sid": 411,
+      "location": 2,
+      "content": "甚至还一度种过烟草",
+      "music": 0.0
+    },
+    {
+      "from": 685.46,
+      "to": 686.9,
+      "sid": 412,
+      "location": 2,
+      "content": "如今瞎子登县的黑人",
+      "music": 0.0
+    },
+    {
+      "from": 686.9,
+      "to": 687.18,
+      "sid": 413,
+      "location": 2,
+      "content": "大部分",
+      "music": 0.0
+    },
+    {
+      "from": 687.18,
+      "to": 690.3,
+      "sid": 414,
+      "location": 2,
+      "content": "都是当年在各种种植园里劳作的黑奴的后代",
+      "music": 0.0
+    },
+    {
+      "from": 690.3,
+      "to": 693.16,
+      "sid": 415,
+      "location": 2,
+      "content": "而刚刚带各位看到的历史街区里面的老宅子",
+      "music": 0.0
+    },
+    {
+      "from": 693.16,
+      "to": 694.42,
+      "sid": 416,
+      "location": 2,
+      "content": "很多都是当初奴隶主",
+      "music": 0.0
+    },
+    {
+      "from": 694.42,
+      "to": 696.42,
+      "sid": 417,
+      "location": 2,
+      "content": "或者说本地富裕白人的财产",
+      "music": 0.0
+    },
+    {
+      "from": 696.42,
+      "to": 697.16,
+      "sid": 418,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 697.16,
+      "to": 699.76,
+      "sid": 419,
+      "location": 2,
+      "content": "昆西作为北佛罗里达唯一的黑人县的县城",
+      "music": 0.0
+    },
+    {
+      "from": 699.76,
+      "to": 700.98,
+      "sid": 420,
+      "location": 2,
+      "content": "当年种族隔离时期",
+      "music": 0.0
+    },
+    {
+      "from": 700.98,
+      "to": 703.04,
+      "sid": 421,
+      "location": 2,
+      "content": "就像刚刚跟我聊天的大爷说的那样",
+      "music": 0.0
+    },
+    {
+      "from": 703.04,
+      "to": 705.16,
+      "sid": 422,
+      "location": 2,
+      "content": "很多周边的小镇黑人呆都不能呆",
+      "music": 0.0
+    },
+    {
+      "from": 705.16,
+      "to": 705.52,
+      "sid": 423,
+      "location": 2,
+      "content": "这里",
+      "music": 0.0
+    },
+    {
+      "from": 705.52,
+      "to": 708.16,
+      "sid": 424,
+      "location": 2,
+      "content": "其实跟刚刚那个最保守的霍尔姆斯县离得不远",
+      "music": 0.0
+    },
+    {
+      "from": 708.16,
+      "to": 709.78,
+      "sid": 425,
+      "location": 2,
+      "content": "过来也就一个小时车程",
+      "music": 0.0
+    },
+    {
+      "from": 709.78,
+      "to": 711.12,
+      "sid": 426,
+      "location": 2,
+      "content": "刚刚跟大爷聊天的时候",
+      "music": 0.0
+    },
+    {
+      "from": 711.12,
+      "to": 713.22,
+      "sid": 427,
+      "location": 2,
+      "content": "我也问了一下他对昆西的印象",
+      "music": 0.0
+    },
+    {
+      "from": 713.22,
+      "to": 713.98,
+      "sid": 428,
+      "location": 2,
+      "content": "Quency",
+      "music": 0.0
+    },
+    {
+      "from": 713.98,
+      "to": 714.38,
+      "sid": 429,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 714.38,
+      "to": 715.8,
+      "sid": 430,
+      "location": 2,
+      "content": "Have you been there now",
+      "music": 0.0
+    },
+    {
+      "from": 715.8,
+      "to": 718.3,
+      "sid": 431,
+      "location": 2,
+      "content": "Why uh ninety percent black",
+      "music": 0.0
+    },
+    {
+      "from": 718.3,
+      "to": 718.64,
+      "sid": 432,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 718.64,
+      "to": 720.8,
+      "sid": 433,
+      "location": 2,
+      "content": "That was on the other side of the room",
+      "music": 0.0
+    },
+    {
+      "from": 720.8,
+      "to": 721.96,
+      "sid": 434,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 721.96,
+      "to": 727.33,
+      "sid": 435,
+      "location": 2,
+      "content": "I haven't really been there fauh through it",
+      "music": 0.0
+    },
+    {
+      "from": 727.33,
+      "to": 728.11,
+      "sid": 436,
+      "location": 2,
+      "content": "What's right",
+      "music": 0.0
+    },
+    {
+      "from": 728.11,
+      "to": 728.71,
+      "sid": 437,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 728.71,
+      "to": 733.55,
+      "sid": 438,
+      "location": 2,
+      "content": "So does it have a better reputation around this area e",
+      "music": 0.0
+    },
+    {
+      "from": 733.55,
+      "to": 736.11,
+      "sid": 439,
+      "location": 2,
+      "content": "I don't know about bad reputation cooler",
+      "music": 0.0
+    },
+    {
+      "from": 736.11,
+      "to": 737.31,
+      "sid": 440,
+      "location": 2,
+      "content": "I don't know you don't know",
+      "music": 0.0
+    },
+    {
+      "from": 737.31,
+      "to": 737.77,
+      "sid": 441,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 737.77,
+      "to": 741.16,
+      "sid": 442,
+      "location": 2,
+      "content": "People just know that place is like ninety percent black",
+      "music": 0.0
+    },
+    {
+      "from": 741.16,
+      "to": 741.75,
+      "sid": 443,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 741.75,
+      "to": 743.75,
+      "sid": 444,
+      "location": 2,
+      "content": "昆西这个地方跟佛罗里达的州府",
+      "music": 0.0
+    },
+    {
+      "from": 743.75,
+      "to": 745.85,
+      "sid": 445,
+      "location": 2,
+      "content": "20万人的塔拉哈西挨得很近",
+      "music": 0.0
+    },
+    {
+      "from": 745.85,
+      "to": 748.03,
+      "sid": 446,
+      "location": 2,
+      "content": "我猜大爷估计是去州府的路上路过的",
+      "music": 0.0
+    },
+    {
+      "from": 748.03,
+      "to": 750.78,
+      "sid": 447,
+      "location": 2,
+      "content": "昆西这个县还是有一定的财富积累的",
+      "music": 0.0
+    },
+    {
+      "from": 750.78,
+      "to": 752.98,
+      "sid": 448,
+      "location": 2,
+      "content": "这边正中心还有一个县立美术馆",
+      "music": 0.0
+    },
+    {
+      "from": 752.98,
+      "to": 754.22,
+      "sid": 449,
+      "location": 2,
+      "content": "里面其实还挺大的",
+      "music": 0.0
+    },
+    {
+      "from": 754.22,
+      "to": 755.14,
+      "sid": 450,
+      "location": 2,
+      "content": "门票五美元",
+      "music": 0.0
+    },
+    {
+      "from": 755.14,
+      "to": 756.14,
+      "sid": 451,
+      "location": 2,
+      "content": "我逛的比较匆忙",
+      "music": 0.0
+    },
+    {
+      "from": 756.14,
+      "to": 757.06,
+      "sid": 452,
+      "location": 2,
+      "content": "是因为我到的时候",
+      "music": 0.0
+    },
+    {
+      "from": 757.06,
+      "to": 758.819,
+      "sid": 453,
+      "location": 2,
+      "content": "他们10分钟内就要关门了",
+      "music": 0.0
+    },
+    {
+      "from": 758.819,
+      "to": 759.619,
+      "sid": 454,
+      "location": 2,
+      "content": "没规划好",
+      "music": 0.0
+    },
+    {
+      "from": 759.619,
+      "to": 762.359,
+      "sid": 455,
+      "location": 2,
+      "content": "时间很大一个原因是因为佛罗里达的内部时差",
+      "music": 0.0
+    },
+    {
+      "from": 762.359,
+      "to": 765.37,
+      "sid": 456,
+      "location": 2,
+      "content": "佛罗里达最西北的几个县是美国中部时区",
+      "music": 0.0
+    },
+    {
+      "from": 765.37,
+      "to": 767.41,
+      "sid": 457,
+      "location": 2,
+      "content": "而位于美国东部时区的加兹登县",
+      "music": 0.0
+    },
+    {
+      "from": 767.41,
+      "to": 769.05,
+      "sid": 458,
+      "location": 2,
+      "content": "正好在市区的交界线上",
+      "music": 0.0
+    },
+    {
+      "from": 769.05,
+      "to": 771.62,
+      "sid": 459,
+      "location": 2,
+      "content": "比刚刚那个伯尼费小镇要快一个小时",
+      "music": 0.0
+    },
+    {
+      "from": 771.62,
+      "to": 773.26,
+      "sid": 460,
+      "location": 2,
+      "content": "当然也可能是我在来昆西之前",
+      "music": 0.0
+    },
+    {
+      "from": 773.26,
+      "to": 775.74,
+      "sid": 461,
+      "location": 2,
+      "content": "在一个461人的格林斯波罗小镇",
+      "music": 0.0
+    },
+    {
+      "from": 775.74,
+      "to": 776.9,
+      "sid": 462,
+      "location": 2,
+      "content": "浪费了一点时间",
+      "music": 0.0
+    },
+    {
+      "from": 776.9,
+      "to": 779.42,
+      "sid": 463,
+      "location": 2,
+      "content": "这个小镇虽然也是在55%都是黑人的",
+      "music": 0.0
+    },
+    {
+      "from": 779.42,
+      "to": 780.32,
+      "sid": 464,
+      "location": 2,
+      "content": "加兹登县里",
+      "music": 0.0
+    },
+    {
+      "from": 780.32,
+      "to": 782.18,
+      "sid": 465,
+      "location": 2,
+      "content": "这上面一半的人口是拉美人",
+      "music": 0.0
+    },
+    {
+      "from": 782.18,
+      "to": 783.34,
+      "sid": 466,
+      "location": 2,
+      "content": "1/4是白人",
+      "music": 0.0
+    },
+    {
+      "from": 783.34,
+      "to": 784.46,
+      "sid": 467,
+      "location": 2,
+      "content": "1/4是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 784.46,
+      "to": 786.5,
+      "sid": 468,
+      "location": 2,
+      "content": "这里拉美人比例高的很大原因是",
+      "music": 0.0
+    },
+    {
+      "from": 786.5,
+      "to": 788.65,
+      "sid": 469,
+      "location": 2,
+      "content": "加兹登县最大的农场都在这一块",
+      "music": 0.0
+    },
+    {
+      "from": 788.65,
+      "to": 791.37,
+      "sid": 470,
+      "location": 2,
+      "content": "如今美国大部分农业工作都是拉美人在做",
+      "music": 0.0
+    },
+    {
+      "from": 791.37,
+      "to": 792.85,
+      "sid": 471,
+      "location": 2,
+      "content": "如果说的比较直白的话",
+      "music": 0.0
+    },
+    {
+      "from": 792.85,
+      "to": 794.29,
+      "sid": 472,
+      "location": 2,
+      "content": "就是当年黑人做的工作",
+      "music": 0.0
+    },
+    {
+      "from": 794.29,
+      "to": 796.0,
+      "sid": 473,
+      "location": 2,
+      "content": "现在都是拉美移民在做",
+      "music": 0.0
+    },
+    {
+      "from": 796.0,
+      "to": 797.64,
+      "sid": 474,
+      "location": 2,
+      "content": "这么个400多人的小镇上面",
+      "music": 0.0
+    },
+    {
+      "from": 797.64,
+      "to": 799.48,
+      "sid": 475,
+      "location": 2,
+      "content": "竟然有两家拉美人开的超市",
+      "music": 0.0
+    },
+    {
+      "from": 799.48,
+      "to": 800.68,
+      "sid": 476,
+      "location": 2,
+      "content": "我也就随便逛了逛",
+      "music": 0.0
+    },
+    {
+      "from": 800.68,
+      "to": 801.88,
+      "sid": 477,
+      "location": 2,
+      "content": "然后买了点吃的",
+      "music": 0.0
+    },
+    {
+      "from": 801.88,
+      "to": 804.35,
+      "sid": 478,
+      "location": 2,
+      "content": "一般来说他们饭点是有墨西哥菜的",
+      "music": 0.0
+    },
+    {
+      "from": 804.35,
+      "to": 805.79,
+      "sid": 479,
+      "location": 2,
+      "content": "但是毕竟我是下午去的",
+      "music": 0.0
+    },
+    {
+      "from": 805.79,
+      "to": 807.07,
+      "sid": 480,
+      "location": 2,
+      "content": "只剩几块炸鸡了",
+      "music": 0.0
+    },
+    {
+      "from": 807.07,
+      "to": 808.6,
+      "sid": 481,
+      "location": 2,
+      "content": "我也就凑合吃了一顿",
+      "music": 0.0
+    },
+    {
+      "from": 808.6,
+      "to": 810.02,
+      "sid": 482,
+      "location": 2,
+      "content": "这个小镇还挺宁静的",
+      "music": 0.0
+    },
+    {
+      "from": 810.02,
+      "to": 811.12,
+      "sid": 483,
+      "location": 2,
+      "content": "基础设施还不错",
+      "music": 0.0
+    },
+    {
+      "from": 811.12,
+      "to": 812.66,
+      "sid": 484,
+      "location": 2,
+      "content": "没想到这里还有网球场",
+      "music": 0.0
+    },
+    {
+      "from": 812.66,
+      "to": 815.22,
+      "sid": 485,
+      "location": 2,
+      "content": "虽然如今农业在加兹登县依旧很重要",
+      "music": 0.0
+    },
+    {
+      "from": 815.22,
+      "to": 817.609,
+      "sid": 486,
+      "location": 2,
+      "content": "但如今这个县最大的雇主并不是农业",
+      "music": 0.0
+    },
+    {
+      "from": 817.609,
+      "to": 820.729,
+      "sid": 487,
+      "location": 2,
+      "content": "而是位于这个县最西北角的小镇查特胡奇的",
+      "music": 0.0
+    },
+    {
+      "from": 820.729,
+      "to": 822.93,
+      "sid": 488,
+      "location": 2,
+      "content": "佛罗里达最大司法精神病院",
+      "music": 0.0
+    },
+    {
+      "from": 822.93,
+      "to": 824.87,
+      "sid": 489,
+      "location": 2,
+      "content": "在这个医院上班的有2000多人",
+      "music": 0.0
+    },
+    {
+      "from": 824.87,
+      "to": 825.37,
+      "sid": 490,
+      "location": 2,
+      "content": "上期视频",
+      "music": 0.0
+    },
+    {
+      "from": 825.37,
+      "to": 828.19,
+      "sid": 491,
+      "location": 2,
+      "content": "我就采访了一个在里面上班的临床心理学家",
+      "music": 0.0
+    },
+    {
+      "from": 828.19,
+      "to": 831.35,
+      "sid": 492,
+      "location": 2,
+      "content": "这个司法精神病院并不是对外接受病人的",
+      "music": 0.0
+    },
+    {
+      "from": 831.35,
+      "to": 832.67,
+      "sid": 493,
+      "location": 2,
+      "content": "关在里面的精神病人",
+      "music": 0.0
+    },
+    {
+      "from": 832.67,
+      "to": 835.47,
+      "sid": 494,
+      "location": 2,
+      "content": "都是在不能辨认或者不能控制自己行为的时候",
+      "music": 0.0
+    },
+    {
+      "from": 835.47,
+      "to": 836.14,
+      "sid": 495,
+      "location": 2,
+      "content": "犯了罪",
+      "music": 0.0
+    },
+    {
+      "from": 836.14,
+      "to": 838.56,
+      "sid": 496,
+      "location": 2,
+      "content": "虽然说这样子他们不需要负刑事责任",
+      "music": 0.0
+    },
+    {
+      "from": 838.56,
+      "to": 840.86,
+      "sid": 497,
+      "location": 2,
+      "content": "也就是俗话中的精神病杀人不犯法",
+      "music": 0.0
+    },
+    {
+      "from": 840.86,
+      "to": 843.14,
+      "sid": 498,
+      "location": 2,
+      "content": "但是他们必须被关到这个精神病院里面",
+      "music": 0.0
+    },
+    {
+      "from": 843.14,
+      "to": 843.94,
+      "sid": 499,
+      "location": 2,
+      "content": "接受治疗",
+      "music": 0.0
+    },
+    {
+      "from": 843.94,
+      "to": 845.56,
+      "sid": 500,
+      "location": 2,
+      "content": "治好了才能放归社区",
+      "music": 0.0
+    },
+    {
+      "from": 845.56,
+      "to": 848.18,
+      "sid": 501,
+      "location": 2,
+      "content": "因此这个精神病院基本上是监狱化管理",
+      "music": 0.0
+    },
+    {
+      "from": 848.18,
+      "to": 849.4,
+      "sid": 502,
+      "location": 2,
+      "content": "外人是进不去的",
+      "music": 0.0
+    },
+    {
+      "from": 849.4,
+      "to": 851.66,
+      "sid": 503,
+      "location": 2,
+      "content": "虽然说这里的病人一共只有1000多个",
+      "music": 0.0
+    },
+    {
+      "from": 851.66,
+      "to": 853.36,
+      "sid": 504,
+      "location": 2,
+      "content": "但是他们有自己的消防局",
+      "music": 0.0
+    },
+    {
+      "from": 853.36,
+      "to": 854.5,
+      "sid": 505,
+      "location": 2,
+      "content": "警察局食堂",
+      "music": 0.0
+    },
+    {
+      "from": 854.5,
+      "to": 857.34,
+      "sid": 506,
+      "location": 2,
+      "content": "这里也有很多护工和给病人上课的老师",
+      "music": 0.0
+    },
+    {
+      "from": 857.34,
+      "to": 858.82,
+      "sid": 507,
+      "location": 2,
+      "content": "这些比较基层的工作",
+      "music": 0.0
+    },
+    {
+      "from": 858.82,
+      "to": 860.82,
+      "sid": 508,
+      "location": 2,
+      "content": "大部分都是加兹登县本地人干",
+      "music": 0.0
+    },
+    {
+      "from": 860.82,
+      "to": 863.62,
+      "sid": 509,
+      "location": 2,
+      "content": "而像心理学家这样需要硕士以上学位的工作",
+      "music": 0.0
+    },
+    {
+      "from": 863.62,
+      "to": 865.14,
+      "sid": 510,
+      "location": 2,
+      "content": "大部分都是外地人干",
+      "music": 0.0
+    },
+    {
+      "from": 865.14,
+      "to": 867.28,
+      "sid": 511,
+      "location": 2,
+      "content": "这个精神病院占地面积非常大",
+      "music": 0.0
+    },
+    {
+      "from": 867.28,
+      "to": 868.54,
+      "sid": 512,
+      "location": 2,
+      "content": "有2.5平方公里",
+      "music": 0.0
+    },
+    {
+      "from": 868.54,
+      "to": 870.4,
+      "sid": 513,
+      "location": 2,
+      "content": "也就是3.5个故宫那么大",
+      "music": 0.0
+    },
+    {
+      "from": 870.4,
+      "to": 872.62,
+      "sid": 514,
+      "location": 2,
+      "content": "这个医院一共雇了2000多个员工",
+      "music": 0.0
+    },
+    {
+      "from": 872.62,
+      "to": 875.48,
+      "sid": 515,
+      "location": 2,
+      "content": "整个查特湖区小镇也就2955个人",
+      "music": 0.0
+    },
+    {
+      "from": 875.48,
+      "to": 877.2,
+      "sid": 516,
+      "location": 2,
+      "content": "其中50.5%是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 877.2,
+      "to": 878.64,
+      "sid": 517,
+      "location": 2,
+      "content": "41%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 878.64,
+      "to": 880.08,
+      "sid": 518,
+      "location": 2,
+      "content": "亚洲人只有22个",
+      "music": 0.0
+    },
+    {
+      "from": 880.08,
+      "to": 881.08,
+      "sid": 519,
+      "location": 2,
+      "content": "除了精神病院",
+      "music": 0.0
+    },
+    {
+      "from": 881.08,
+      "to": 883.4,
+      "sid": 520,
+      "location": 2,
+      "content": "查特胡奇主街上面还是有一些小店",
+      "music": 0.0
+    },
+    {
+      "from": 883.4,
+      "to": 885.28,
+      "sid": 521,
+      "location": 2,
+      "content": "没想到在这么一个偏僻的地方",
+      "music": 0.0
+    },
+    {
+      "from": 885.28,
+      "to": 886.44,
+      "sid": 522,
+      "location": 2,
+      "content": "还有一家中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 886.44,
+      "to": 889.36,
+      "sid": 523,
+      "location": 2,
+      "content": "也就是比较常见的福建人开的美式自助餐",
+      "music": 0.0
+    },
+    {
+      "from": 889.36,
+      "to": 891.14,
+      "sid": 524,
+      "location": 2,
+      "content": "你可以选择坐下来吃自助",
+      "music": 0.0
+    },
+    {
+      "from": 891.14,
+      "to": 893.3,
+      "sid": 525,
+      "location": 2,
+      "content": "也可以8.99买一个餐盒装",
+      "music": 0.0
+    },
+    {
+      "from": 893.3,
+      "to": 894.66,
+      "sid": 526,
+      "location": 2,
+      "content": "能装多少装多少",
+      "music": 0.0
+    },
+    {
+      "from": 894.66,
+      "to": 895.78,
+      "sid": 527,
+      "location": 2,
+      "content": "老板挺友好的",
+      "music": 0.0
+    },
+    {
+      "from": 895.78,
+      "to": 896.7,
+      "sid": 528,
+      "location": 2,
+      "content": "这个地方太偏了",
+      "music": 0.0
+    },
+    {
+      "from": 896.7,
+      "to": 897.88,
+      "sid": 529,
+      "location": 2,
+      "content": "很少有华人经过",
+      "music": 0.0
+    },
+    {
+      "from": 897.88,
+      "to": 900.18,
+      "sid": 530,
+      "location": 2,
+      "content": "他还问我是不是在精神病院上班的",
+      "music": 0.0
+    },
+    {
+      "from": 900.18,
+      "to": 901.68,
+      "sid": 531,
+      "location": 2,
+      "content": "我说我刚刚从里面出来",
+      "music": 0.0
+    },
+    {
+      "from": 901.68,
+      "to": 903.26,
+      "sid": 532,
+      "location": 2,
+      "content": "非常怀念中餐的味道",
+      "music": 0.0
+    },
+    {
+      "from": 903.26,
+      "to": 904.72,
+      "sid": 533,
+      "location": 2,
+      "content": "这顿饭虽然不算正宗",
+      "music": 0.0
+    },
+    {
+      "from": 904.72,
+      "to": 906.12,
+      "sid": 534,
+      "location": 2,
+      "content": "但是胜在价格便宜",
+      "music": 0.0
+    },
+    {
+      "from": 906.12,
+      "to": 907.06,
+      "sid": 535,
+      "location": 2,
+      "content": "只要九美元",
+      "music": 0.0
+    },
+    {
+      "from": 907.06,
+      "to": 908.39,
+      "sid": 536,
+      "location": 2,
+      "content": "还不用给小费",
+      "music": 0.0
+    },
+    {
+      "from": 908.39,
+      "to": 909.19,
+      "sid": 537,
+      "location": 2,
+      "content": "吃完了中餐",
+      "music": 0.0
+    },
+    {
+      "from": 909.19,
+      "to": 911.79,
+      "sid": 538,
+      "location": 2,
+      "content": "我到马路对面的加油站买了一罐煮花生吃",
+      "music": 0.0
+    },
+    {
+      "from": 911.79,
+      "to": 913.75,
+      "sid": 539,
+      "location": 2,
+      "content": "这个在美国南方挺常见的",
+      "music": 0.0
+    },
+    {
+      "from": 913.75,
+      "to": 915.63,
+      "sid": 540,
+      "location": 2,
+      "content": "就是非常重口味的咸花生",
+      "music": 0.0
+    },
+    {
+      "from": 915.63,
+      "to": 917.19,
+      "sid": 541,
+      "location": 2,
+      "content": "4.99美元一杯",
+      "music": 0.0
+    },
+    {
+      "from": 917.19,
+      "to": 919.91,
+      "sid": 542,
+      "location": 2,
+      "content": "然后顺便在隔壁的一元小超市当了general",
+      "music": 0.0
+    },
+    {
+      "from": 919.91,
+      "to": 920.69,
+      "sid": 543,
+      "location": 2,
+      "content": "买了两瓶水",
+      "music": 0.0
+    },
+    {
+      "from": 920.69,
+      "to": 923.17,
+      "sid": 544,
+      "location": 2,
+      "content": "除了精神病院和查特胡奇小镇的主街",
+      "music": 0.0
+    },
+    {
+      "from": 923.17,
+      "to": 925.29,
+      "sid": 545,
+      "location": 2,
+      "content": "在镇子外面还有这么一个大水坝",
+      "music": 0.0
+    },
+    {
+      "from": 925.29,
+      "to": 927.17,
+      "sid": 546,
+      "location": 2,
+      "content": "夹子登线差不多就是这些了",
+      "music": 0.0
+    },
+    {
+      "from": 927.17,
+      "to": 928.41,
+      "sid": 547,
+      "location": 2,
+      "content": "不知道大家更喜欢这里",
+      "music": 0.0
+    },
+    {
+      "from": 928.41,
+      "to": 930.76,
+      "sid": 548,
+      "location": 2,
+      "content": "还是佛罗里达最保守的霍尔姆斯县呢",
+      "music": 0.0
+    },
+    {
+      "from": 930.76,
+      "to": 932.04,
+      "sid": 549,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 932.04,
+      "to": 932.52,
+      "sid": 550,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 932.52,
+      "to": 935.18,
+      "sid": 551,
+      "location": 2,
+      "content": "带你去更多普通人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

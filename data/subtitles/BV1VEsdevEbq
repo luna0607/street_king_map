@@ -1,0 +1,1412 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.64,
+      "sid": 1,
+      "location": 2,
+      "content": "美国的总统山很出名",
+      "music": 0.0
+    },
+    {
+      "from": 1.64,
+      "to": 4.56,
+      "sid": 2,
+      "location": 2,
+      "content": "但是你听说过印第安人版本的总统山吗",
+      "music": 0.0
+    },
+    {
+      "from": 4.56,
+      "to": 7.189,
+      "sid": 3,
+      "location": 2,
+      "content": "今天我准备去参观一下风马雕像",
+      "music": 0.0
+    },
+    {
+      "from": 7.189,
+      "to": 9.809,
+      "sid": 4,
+      "location": 2,
+      "content": "从这里开车到总统山只要20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 9.809,
+      "to": 12.109,
+      "sid": 5,
+      "location": 2,
+      "content": "而且他们都坐落在南达科他州",
+      "music": 0.0
+    },
+    {
+      "from": 12.109,
+      "to": 13.8,
+      "sid": 6,
+      "location": 2,
+      "content": "西部的黑山山脉上",
+      "music": 0.0
+    },
+    {
+      "from": 13.8,
+      "to": 16.53,
+      "sid": 7,
+      "location": 2,
+      "content": "现在我已经来到了风马雕像的山脚下",
+      "music": 0.0
+    },
+    {
+      "from": 16.53,
+      "to": 17.41,
+      "sid": 8,
+      "location": 2,
+      "content": "离得这么远",
+      "music": 0.0
+    },
+    {
+      "from": 17.41,
+      "to": 19.35,
+      "sid": 9,
+      "location": 2,
+      "content": "就能看到这个雕像的轮廓了",
+      "music": 0.0
+    },
+    {
+      "from": 19.35,
+      "to": 20.85,
+      "sid": 10,
+      "location": 2,
+      "content": "如果比大小的话",
+      "music": 0.0
+    },
+    {
+      "from": 20.85,
+      "to": 23.47,
+      "sid": 11,
+      "location": 2,
+      "content": "总统摔在他面前只能算是一个小蚂蚁",
+      "music": 0.0
+    },
+    {
+      "from": 23.47,
+      "to": 25.77,
+      "sid": 12,
+      "location": 2,
+      "content": "虽然说各种统计算法不同",
+      "music": 0.0
+    },
+    {
+      "from": 25.77,
+      "to": 27.21,
+      "sid": 13,
+      "location": 2,
+      "content": "比较公认的说法是",
+      "music": 0.0
+    },
+    {
+      "from": 27.21,
+      "to": 28.99,
+      "sid": 14,
+      "location": 2,
+      "content": "总统山雕像加起来的大小",
+      "music": 0.0
+    },
+    {
+      "from": 28.99,
+      "to": 31.25,
+      "sid": 15,
+      "location": 2,
+      "content": "还不及风马雕像的1/10",
+      "music": 0.0
+    },
+    {
+      "from": 31.25,
+      "to": 32.63,
+      "sid": 16,
+      "location": 2,
+      "content": "而我肉眼比较的话",
+      "music": 0.0
+    },
+    {
+      "from": 32.63,
+      "to": 34.4,
+      "sid": 17,
+      "location": 2,
+      "content": "确实差不多是这个比例",
+      "music": 0.0
+    },
+    {
+      "from": 34.4,
+      "to": 36.8,
+      "sid": 18,
+      "location": 2,
+      "content": "现在我交了15块入场费进来了",
+      "music": 0.0
+    },
+    {
+      "from": 36.8,
+      "to": 39.69,
+      "sid": 19,
+      "location": 2,
+      "content": "顺便给大家讲讲这个风马雕像的历史吧",
+      "music": 0.0
+    },
+    {
+      "from": 39.69,
+      "to": 41.41,
+      "sid": 20,
+      "location": 2,
+      "content": "当初美国修总统山的时候",
+      "music": 0.0
+    },
+    {
+      "from": 44.25,
+      "to": 46.53,
+      "sid": 21,
+      "location": 2,
+      "content": "因为他们选址在了黑山山脉",
+      "music": 0.0
+    },
+    {
+      "from": 46.53,
+      "to": 48.61,
+      "sid": 22,
+      "location": 2,
+      "content": "这里是原住民部落的圣山",
+      "music": 0.0
+    },
+    {
+      "from": 48.61,
+      "to": 50.89,
+      "sid": 23,
+      "location": 2,
+      "content": "只是1876年的黑塞战争中",
+      "music": 0.0
+    },
+    {
+      "from": 50.89,
+      "to": 53.47,
+      "sid": 24,
+      "location": 2,
+      "content": "原住民部落失去了他们的控制权",
+      "music": 0.0
+    },
+    {
+      "from": 53.47,
+      "to": 56.03,
+      "sid": 25,
+      "location": 2,
+      "content": "在1927年总统杀动工的时候",
+      "music": 0.0
+    },
+    {
+      "from": 56.03,
+      "to": 58.58,
+      "sid": 26,
+      "location": 2,
+      "content": "达科他部落的长老们非常的愤怒",
+      "music": 0.0
+    },
+    {
+      "from": 58.58,
+      "to": 61.36,
+      "sid": 27,
+      "location": 2,
+      "content": "他们觉得这帮人敢在我们的圣山上面雕刻",
+      "music": 0.0
+    },
+    {
+      "from": 61.36,
+      "to": 64.02,
+      "sid": 28,
+      "location": 2,
+      "content": "我们也得在那里留下一点我们自己的东西",
+      "music": 0.0
+    },
+    {
+      "from": 64.02,
+      "to": 66.75,
+      "sid": 29,
+      "location": 2,
+      "content": "我现在算是来到了他们游客中心的停车场",
+      "music": 0.0
+    },
+    {
+      "from": 66.75,
+      "to": 68.57,
+      "sid": 30,
+      "location": 2,
+      "content": "这边全美的车牌都有",
+      "music": 0.0
+    },
+    {
+      "from": 68.57,
+      "to": 70.33,
+      "sid": 31,
+      "location": 2,
+      "content": "甚至还有加拿大的车子",
+      "music": 0.0
+    },
+    {
+      "from": 70.33,
+      "to": 72.39,
+      "sid": 32,
+      "location": 2,
+      "content": "如果你想离雕像再近一点的话",
+      "music": 0.0
+    },
+    {
+      "from": 72.39,
+      "to": 74.69,
+      "sid": 33,
+      "location": 2,
+      "content": "就得交钱做他们的园区巴士了",
+      "music": 0.0
+    },
+    {
+      "from": 74.69,
+      "to": 76.17,
+      "sid": 34,
+      "location": 2,
+      "content": "得额外再收五美元",
+      "music": 0.0
+    },
+    {
+      "from": 76.17,
+      "to": 78.65,
+      "sid": 35,
+      "location": 2,
+      "content": "不过这个大巴半个小时才发车一次",
+      "music": 0.0
+    },
+    {
+      "from": 78.65,
+      "to": 81.12,
+      "sid": 36,
+      "location": 2,
+      "content": "我先去看看这边的印第安人博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 81.12,
+      "to": 83.2,
+      "sid": 37,
+      "location": 2,
+      "content": "风马是达科他部落的领袖",
+      "music": 0.0
+    },
+    {
+      "from": 83.2,
+      "to": 84.72,
+      "sid": 38,
+      "location": 2,
+      "content": "也是抵抗美国政府",
+      "music": 0.0
+    },
+    {
+      "from": 84.72,
+      "to": 87.46,
+      "sid": 39,
+      "location": 2,
+      "content": "抢占黑山的苏族战争中的灵魂人物",
+      "music": 0.0
+    },
+    {
+      "from": 87.46,
+      "to": 88.5,
+      "sid": 40,
+      "location": 2,
+      "content": "在1939年",
+      "music": 0.0
+    },
+    {
+      "from": 88.5,
+      "to": 89.74,
+      "sid": 41,
+      "location": 2,
+      "content": "达科塔部落的长老",
+      "music": 0.0
+    },
+    {
+      "from": 89.74,
+      "to": 94.2,
+      "sid": 42,
+      "location": 2,
+      "content": "找到了当年雕刻总统山的科扎克BO考夫斯基",
+      "music": 0.0
+    },
+    {
+      "from": 94.2,
+      "to": 96.06,
+      "sid": 43,
+      "location": 2,
+      "content": "他们想让这帮白人也知道",
+      "music": 0.0
+    },
+    {
+      "from": 96.06,
+      "to": 98.34,
+      "sid": 44,
+      "location": 2,
+      "content": "印第安人也有自己的伟大英雄",
+      "music": 0.0
+    },
+    {
+      "from": 98.34,
+      "to": 100.64,
+      "sid": 45,
+      "location": 2,
+      "content": "而且我们要把我们印第安人首领的雕像",
+      "music": 0.0
+    },
+    {
+      "from": 100.64,
+      "to": 102.06,
+      "sid": 46,
+      "location": 2,
+      "content": "修的更大更好",
+      "music": 0.0
+    },
+    {
+      "from": 102.06,
+      "to": 105.259,
+      "sid": 47,
+      "location": 2,
+      "content": "于是司机跟印第安部落一拍即合",
+      "music": 0.0
+    },
+    {
+      "from": 105.259,
+      "to": 107.019,
+      "sid": 48,
+      "location": 2,
+      "content": "这个计划暂时搁置了",
+      "music": 0.0
+    },
+    {
+      "from": 107.019,
+      "to": 108.939,
+      "sid": 49,
+      "location": 2,
+      "content": "因为司机在二战的时候入伍",
+      "music": 0.0
+    },
+    {
+      "from": 108.939,
+      "to": 109.979,
+      "sid": 50,
+      "location": 2,
+      "content": "去欧洲作战了",
+      "music": 0.0
+    },
+    {
+      "from": 109.979,
+      "to": 111.659,
+      "sid": 51,
+      "location": 2,
+      "content": "等到司机回到美国之后",
+      "music": 0.0
+    },
+    {
+      "from": 111.659,
+      "to": 112.499,
+      "sid": 52,
+      "location": 2,
+      "content": "1947年",
+      "music": 0.0
+    },
+    {
+      "from": 112.499,
+      "to": 114.08,
+      "sid": 53,
+      "location": 2,
+      "content": "他就搬到了黑山脚下",
+      "music": 0.0
+    },
+    {
+      "from": 114.08,
+      "to": 115.96,
+      "sid": 54,
+      "location": 2,
+      "content": "司机买下了一大片土地",
+      "music": 0.0
+    },
+    {
+      "from": 115.96,
+      "to": 117.9,
+      "sid": 55,
+      "location": 2,
+      "content": "那个时候附近还都是荒野",
+      "music": 0.0
+    },
+    {
+      "from": 117.9,
+      "to": 119.4,
+      "sid": 56,
+      "location": 2,
+      "content": "在1948年",
+      "music": 0.0
+    },
+    {
+      "from": 119.4,
+      "to": 122.02,
+      "sid": 57,
+      "location": 2,
+      "content": "司机正式开始了雕像的修建工作",
+      "music": 0.0
+    },
+    {
+      "from": 122.02,
+      "to": 123.99,
+      "sid": 58,
+      "location": 2,
+      "content": "最早的时候因为缺少资金",
+      "music": 0.0
+    },
+    {
+      "from": 123.99,
+      "to": 125.31,
+      "sid": 59,
+      "location": 2,
+      "content": "为了支持项目",
+      "music": 0.0
+    },
+    {
+      "from": 125.31,
+      "to": 127.59,
+      "sid": 60,
+      "location": 2,
+      "content": "他还在山脚下面开了一个小农场",
+      "music": 0.0
+    },
+    {
+      "from": 127.59,
+      "to": 129.95,
+      "sid": 61,
+      "location": 2,
+      "content": "When he got out here in nineteen forty seven",
+      "music": 0.0
+    },
+    {
+      "from": 129.95,
+      "to": 132.05,
+      "sid": 62,
+      "location": 2,
+      "content": "There is no road leaning out to the mountain",
+      "music": 0.0
+    },
+    {
+      "from": 132.05,
+      "to": 133.99,
+      "sid": 63,
+      "location": 2,
+      "content": "So you got rid of some trees",
+      "music": 0.0
+    },
+    {
+      "from": 133.99,
+      "to": 135.41,
+      "sid": 64,
+      "location": 2,
+      "content": "Put a road in here",
+      "music": 0.0
+    },
+    {
+      "from": 135.41,
+      "to": 138.79,
+      "sid": 65,
+      "location": 2,
+      "content": "And you use some of the wood from those trees to build their home",
+      "music": 0.04137930891795635
+    },
+    {
+      "from": 138.79,
+      "to": 140.07,
+      "sid": 66,
+      "location": 2,
+      "content": "And his studio",
+      "music": 0.0
+    },
+    {
+      "from": 140.07,
+      "to": 142.329,
+      "sid": 67,
+      "location": 2,
+      "content": "Which is inside the covered porch",
+      "music": 0.0
+    },
+    {
+      "from": 142.329,
+      "to": 144.689,
+      "sid": 68,
+      "location": 2,
+      "content": "Then he opened up a saw mill to sell off",
+      "music": 0.0
+    },
+    {
+      "from": 144.689,
+      "to": 145.689,
+      "sid": 69,
+      "location": 2,
+      "content": "The rest of that wood",
+      "music": 0.0
+    },
+    {
+      "from": 145.689,
+      "to": 147.989,
+      "sid": 70,
+      "location": 2,
+      "content": "And get some funding coming in here to get him up",
+      "music": 0.0
+    },
+    {
+      "from": 147.989,
+      "to": 149.73,
+      "sid": 71,
+      "location": 2,
+      "content": "Working on the mountains",
+      "music": 0.0
+    },
+    {
+      "from": 150.21,
+      "to": 152.53,
+      "sid": 72,
+      "location": 2,
+      "content": "If you look to the right through the trees there",
+      "music": 0.0
+    },
+    {
+      "from": 152.53,
+      "to": 156.269,
+      "sid": 73,
+      "location": 2,
+      "content": "You'll see several small white buildings in the early nineteen",
+      "music": 0.0
+    },
+    {
+      "from": 156.269,
+      "to": 157.629,
+      "sid": 74,
+      "location": 2,
+      "content": "Fifty s the jewel cups",
+      "music": 0.0
+    },
+    {
+      "from": 157.629,
+      "to": 161.34,
+      "sid": 75,
+      "location": 2,
+      "content": "Ski family opened and operated a dairy farm out there",
+      "music": 0.0
+    },
+    {
+      "from": 161.34,
+      "to": 163.54,
+      "sid": 76,
+      "location": 2,
+      "content": "Continuing company",
+      "music": 0.0
+    },
+    {
+      "from": 163.54,
+      "to": 165.44,
+      "sid": 77,
+      "location": 2,
+      "content": "司机是一个非常理想主义的人",
+      "music": 0.0
+    },
+    {
+      "from": 165.44,
+      "to": 167.78,
+      "sid": 78,
+      "location": 2,
+      "content": "曾经美国政府打算有两次资助他",
+      "music": 0.0
+    },
+    {
+      "from": 167.78,
+      "to": 169.79,
+      "sid": 79,
+      "location": 2,
+      "content": "几千万美元来修建这个项目",
+      "music": 0.0
+    },
+    {
+      "from": 169.79,
+      "to": 171.27,
+      "sid": 80,
+      "location": 2,
+      "content": "都被他给回绝了",
+      "music": 0.0
+    },
+    {
+      "from": 171.27,
+      "to": 174.14,
+      "sid": 81,
+      "location": 2,
+      "content": "因为司机非常不耻美国政府的行径",
+      "music": 0.0
+    },
+    {
+      "from": 174.14,
+      "to": 176.22,
+      "sid": 82,
+      "location": 2,
+      "content": "他们在1868年答应达科",
+      "music": 0.0
+    },
+    {
+      "from": 176.22,
+      "to": 178.26,
+      "sid": 83,
+      "location": 2,
+      "content": "他部落黑山永远属于他们",
+      "music": 0.0
+    },
+    {
+      "from": 178.26,
+      "to": 181.0,
+      "sid": 84,
+      "location": 2,
+      "content": "但是过了几十年就把这边给占领了",
+      "music": 0.0
+    },
+    {
+      "from": 181.0,
+      "to": 182.6,
+      "sid": 85,
+      "location": 2,
+      "content": "但是司机很快又发现",
+      "music": 0.0
+    },
+    {
+      "from": 182.6,
+      "to": 184.64,
+      "sid": 86,
+      "location": 2,
+      "content": "养牛没有办法支撑这个项目",
+      "music": 0.0
+    },
+    {
+      "from": 184.64,
+      "to": 188.1,
+      "sid": 87,
+      "location": 2,
+      "content": "于是他在50年代慢慢向游客收一小笔门票钱",
+      "music": 0.0
+    },
+    {
+      "from": 188.1,
+      "to": 190.14,
+      "sid": 88,
+      "location": 2,
+      "content": "那个时候也就只要几十美分",
+      "music": 0.0
+    },
+    {
+      "from": 190.14,
+      "to": 193.38,
+      "sid": 89,
+      "location": 2,
+      "content": "司机在1950年遇到了项目志愿者露丝",
+      "music": 0.0
+    },
+    {
+      "from": 193.38,
+      "to": 195.32,
+      "sid": 90,
+      "location": 2,
+      "content": "他们一共生了十个孩子",
+      "music": 0.0
+    },
+    {
+      "from": 195.32,
+      "to": 196.82,
+      "sid": 91,
+      "location": 2,
+      "content": "基本上每个人或多或少",
+      "music": 0.0
+    },
+    {
+      "from": 196.82,
+      "to": 198.79,
+      "sid": 92,
+      "location": 2,
+      "content": "都参与到了这个项目之中",
+      "music": 0.0
+    },
+    {
+      "from": 198.79,
+      "to": 201.93,
+      "sid": 93,
+      "location": 2,
+      "content": "在1948年到1982年的34年里",
+      "music": 0.0
+    },
+    {
+      "from": 201.93,
+      "to": 204.95,
+      "sid": 94,
+      "location": 2,
+      "content": "司机完全是全身心的投入到这个项目里面",
+      "music": 0.0
+    },
+    {
+      "from": 204.95,
+      "to": 207.31,
+      "sid": 95,
+      "location": 2,
+      "content": "基本上他就靠着自己的小团队",
+      "music": 0.0
+    },
+    {
+      "from": 207.31,
+      "to": 210.61,
+      "sid": 96,
+      "location": 2,
+      "content": "以愚公移山一样的精神慢慢的雕刻这个项目",
+      "music": 0.0
+    },
+    {
+      "from": 210.61,
+      "to": 212.39,
+      "sid": 97,
+      "location": 2,
+      "content": "在1982年他去世的时候",
+      "music": 0.0
+    },
+    {
+      "from": 212.39,
+      "to": 214.55,
+      "sid": 98,
+      "location": 2,
+      "content": "基本上把风马的脸给雕刻完了",
+      "music": 0.0
+    },
+    {
+      "from": 214.55,
+      "to": 216.71,
+      "sid": 99,
+      "location": 2,
+      "content": "光凭着这一张脸就可以把总统山",
+      "music": 0.0
+    },
+    {
+      "from": 216.71,
+      "to": 218.7,
+      "sid": 100,
+      "location": 2,
+      "content": "四个总统的头全部塞进去",
+      "music": 0.0
+    },
+    {
+      "from": 218.7,
+      "to": 219.98,
+      "sid": 101,
+      "location": 2,
+      "content": "如果故事讲到这里",
+      "music": 0.0
+    },
+    {
+      "from": 219.98,
+      "to": 221.6,
+      "sid": 102,
+      "location": 2,
+      "content": "就是一个非常励志的故事",
+      "music": 0.0
+    },
+    {
+      "from": 221.6,
+      "to": 224.3,
+      "sid": 103,
+      "location": 2,
+      "content": "但是从1982年司机去世到现在",
+      "music": 0.0
+    },
+    {
+      "from": 224.3,
+      "to": 226.84,
+      "sid": 104,
+      "location": 2,
+      "content": "这个项目肉眼可见的进展其实没有太多",
+      "music": 0.0
+    },
+    {
+      "from": 226.84,
+      "to": 229.6,
+      "sid": 105,
+      "location": 2,
+      "content": "司机的计划是把风马搞成一个3D雕塑",
+      "music": 0.0
+    },
+    {
+      "from": 229.6,
+      "to": 232.73,
+      "sid": 106,
+      "location": 2,
+      "content": "也就是一个风马骑着一匹马指着前方的样子",
+      "music": 0.0
+    },
+    {
+      "from": 232.73,
+      "to": 234.15,
+      "sid": 107,
+      "location": 2,
+      "content": "总统山是2D的",
+      "music": 0.0
+    },
+    {
+      "from": 234.15,
+      "to": 236.0,
+      "sid": 108,
+      "location": 2,
+      "content": "就是在山上面有几个头",
+      "music": 0.0
+    },
+    {
+      "from": 236.0,
+      "to": 237.78,
+      "sid": 109,
+      "location": 2,
+      "content": "但是在过去的40年里面",
+      "music": 0.0
+    },
+    {
+      "from": 237.78,
+      "to": 239.26,
+      "sid": 110,
+      "location": 2,
+      "content": "除了这个风马的手指",
+      "music": 0.0
+    },
+    {
+      "from": 239.26,
+      "to": 241.55,
+      "sid": 111,
+      "location": 2,
+      "content": "其他地方基本上没有什么动静",
+      "music": 0.0
+    },
+    {
+      "from": 241.55,
+      "to": 242.95,
+      "sid": 112,
+      "location": 2,
+      "content": "不知道大家还记不记得",
+      "music": 0.0
+    },
+    {
+      "from": 242.95,
+      "to": 245.04,
+      "sid": 113,
+      "location": 2,
+      "content": "最早司机是买下了这一片地",
+      "music": 0.0
+    },
+    {
+      "from": 245.04,
+      "to": 247.06,
+      "sid": 114,
+      "location": 2,
+      "content": "这个项目完全是私人的",
+      "music": 0.0
+    },
+    {
+      "from": 247.06,
+      "to": 248.02,
+      "sid": 115,
+      "location": 2,
+      "content": "直到现在",
+      "music": 0.0
+    },
+    {
+      "from": 248.02,
+      "to": 250.26,
+      "sid": 116,
+      "location": 2,
+      "content": "这一片都是司机家族的土地",
+      "music": 0.0
+    },
+    {
+      "from": 250.26,
+      "to": 252.54,
+      "sid": 117,
+      "location": 2,
+      "content": "现在这边算是一个非营利组织",
+      "music": 0.0
+    },
+    {
+      "from": 252.54,
+      "to": 254.16,
+      "sid": 118,
+      "location": 2,
+      "content": "搞了一个印第安博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 254.16,
+      "to": 255.58,
+      "sid": 119,
+      "location": 2,
+      "content": "一个印第安人大学",
+      "music": 0.0
+    },
+    {
+      "from": 255.58,
+      "to": 257.74,
+      "sid": 120,
+      "location": 2,
+      "content": "但是这个大学只在夏天开课",
+      "music": 0.0
+    },
+    {
+      "from": 257.74,
+      "to": 259.89,
+      "sid": 121,
+      "location": 2,
+      "content": "并不是什么正儿八经的学校",
+      "music": 0.0
+    },
+    {
+      "from": 259.89,
+      "to": 260.93,
+      "sid": 122,
+      "location": 2,
+      "content": "但是我一路过来",
+      "music": 0.0
+    },
+    {
+      "from": 260.93,
+      "to": 263.01,
+      "sid": 123,
+      "location": 2,
+      "content": "感觉到这个地方是高度商业化的",
+      "music": 0.0
+    },
+    {
+      "from": 263.01,
+      "to": 264.85,
+      "sid": 124,
+      "location": 2,
+      "content": "就是什么都要收你一笔钱",
+      "music": 0.0
+    },
+    {
+      "from": 264.85,
+      "to": 266.45,
+      "sid": 125,
+      "location": 2,
+      "content": "如果你要想上到最顶上",
+      "music": 0.0
+    },
+    {
+      "from": 266.45,
+      "to": 267.73,
+      "sid": 126,
+      "location": 2,
+      "content": "跟风马面对面的话",
+      "music": 0.0
+    },
+    {
+      "from": 267.73,
+      "to": 269.23,
+      "sid": 127,
+      "location": 2,
+      "content": "你得交100多美元",
+      "music": 0.0
+    },
+    {
+      "from": 269.23,
+      "to": 270.45,
+      "sid": 128,
+      "location": 2,
+      "content": "现在美国大部分白人",
+      "music": 0.0
+    },
+    {
+      "from": 270.45,
+      "to": 272.659,
+      "sid": 129,
+      "location": 2,
+      "content": "对印第安人都有很大的愧疚之情",
+      "music": 0.0
+    },
+    {
+      "from": 272.659,
+      "to": 275.259,
+      "sid": 130,
+      "location": 2,
+      "content": "不少人在买票之上还捐款之类的",
+      "music": 0.0
+    },
+    {
+      "from": 275.259,
+      "to": 277.299,
+      "sid": 131,
+      "location": 2,
+      "content": "所以说这个地方光收门票和捐赠",
+      "music": 0.0
+    },
+    {
+      "from": 277.299,
+      "to": 279.22,
+      "sid": 132,
+      "location": 2,
+      "content": "一年就可以到1000多万美元",
+      "music": 0.0
+    },
+    {
+      "from": 279.22,
+      "to": 282.18,
+      "sid": 133,
+      "location": 2,
+      "content": "这个组织一共攒了快8000万美元了",
+      "music": 0.0
+    },
+    {
+      "from": 282.18,
+      "to": 285.02,
+      "sid": 134,
+      "location": 2,
+      "content": "这个项目最早的目的是为了纪念印第安人的",
+      "music": 0.0
+    },
+    {
+      "from": 285.02,
+      "to": 285.96,
+      "sid": 135,
+      "location": 2,
+      "content": "风马领袖",
+      "music": 0.0
+    },
+    {
+      "from": 285.96,
+      "to": 288.36,
+      "sid": 136,
+      "location": 2,
+      "content": "但是现在这个项目已经完全由一个美国",
+      "music": 0.0
+    },
+    {
+      "from": 288.36,
+      "to": 290.36,
+      "sid": 137,
+      "location": 2,
+      "content": "白人家族掌握了很多",
+      "music": 0.0
+    },
+    {
+      "from": 290.36,
+      "to": 293.33,
+      "sid": 138,
+      "location": 2,
+      "content": "达科他部落的人也对这个项目颇有微词",
+      "music": 0.0
+    },
+    {
+      "from": 293.33,
+      "to": 296.09,
+      "sid": 139,
+      "location": 2,
+      "content": "虽然说最早请来司机来刻画风马的",
+      "music": 0.0
+    },
+    {
+      "from": 296.09,
+      "to": 297.69,
+      "sid": 140,
+      "location": 2,
+      "content": "是印第I部落自己的人",
+      "music": 0.0
+    },
+    {
+      "from": 297.69,
+      "to": 299.73,
+      "sid": 141,
+      "location": 2,
+      "content": "但是很多人觉得风马在世的话",
+      "music": 0.0
+    },
+    {
+      "from": 299.73,
+      "to": 302.57,
+      "sid": 142,
+      "location": 2,
+      "content": "他肯定不希望自己的脸出现在达科他的圣山",
+      "music": 0.0
+    },
+    {
+      "from": 302.57,
+      "to": 303.39,
+      "sid": 143,
+      "location": 2,
+      "content": "黑山上",
+      "music": 0.0
+    },
+    {
+      "from": 303.39,
+      "to": 306.11,
+      "sid": 144,
+      "location": 2,
+      "content": "这是对圣山和驸马本人的双重侮辱",
+      "music": 0.0
+    },
+    {
+      "from": 306.11,
+      "to": 306.83,
+      "sid": 145,
+      "location": 2,
+      "content": "更多人觉得",
+      "music": 0.0
+    },
+    {
+      "from": 306.83,
+      "to": 307.51,
+      "sid": 146,
+      "location": 2,
+      "content": "司机的家族",
+      "music": 0.0
+    },
+    {
+      "from": 307.51,
+      "to": 310.07,
+      "sid": 147,
+      "location": 2,
+      "content": "已经把这个项目变成了自己的家族企业",
+      "music": 0.0
+    },
+    {
+      "from": 310.07,
+      "to": 311.47,
+      "sid": 148,
+      "location": 2,
+      "content": "其实我在来这里之前",
+      "music": 0.0
+    },
+    {
+      "from": 311.47,
+      "to": 313.23,
+      "sid": 149,
+      "location": 2,
+      "content": "去了一下达科他部落的大学",
+      "music": 0.0
+    },
+    {
+      "from": 313.23,
+      "to": 315.19,
+      "sid": 150,
+      "location": 2,
+      "content": "也请教了一下里面的一个长老",
+      "music": 0.0
+    },
+    {
+      "from": 315.19,
+      "to": 315.79,
+      "sid": 151,
+      "location": 2,
+      "content": "他跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 315.79,
+      "to": 318.0,
+      "sid": 152,
+      "location": 2,
+      "content": "这个项目确实部落对他褒贬不一",
+      "music": 0.0
+    },
+    {
+      "from": 318.0,
+      "to": 319.52,
+      "sid": 153,
+      "location": 2,
+      "content": "他个人觉得司机一家人",
+      "music": 0.0
+    },
+    {
+      "from": 319.52,
+      "to": 322.2,
+      "sid": 154,
+      "location": 2,
+      "content": "至少和他们部落现在也保持有一定的沟通",
+      "music": 0.0
+    },
+    {
+      "from": 322.2,
+      "to": 324.5,
+      "sid": 155,
+      "location": 2,
+      "content": "他觉得这个项目70%是好的",
+      "music": 0.0
+    },
+    {
+      "from": 324.5,
+      "to": 326.12,
+      "sid": 156,
+      "location": 2,
+      "content": "30%是不好的",
+      "music": 0.0
+    },
+    {
+      "from": 326.12,
+      "to": 329.18,
+      "sid": 157,
+      "location": 2,
+      "content": "虽然说我个人对这个项目比较持怀疑态度",
+      "music": 0.0
+    },
+    {
+      "from": 329.18,
+      "to": 332.26,
+      "sid": 158,
+      "location": 2,
+      "content": "每个社会还是有不少人非常支持这个项目的",
+      "music": 0.0
+    },
+    {
+      "from": 332.26,
+      "to": 335.34,
+      "sid": 159,
+      "location": 2,
+      "content": "经常会有白人大企业家给这个项目捐款",
+      "music": 0.0
+    },
+    {
+      "from": 335.34,
+      "to": 337.64,
+      "sid": 160,
+      "location": 2,
+      "content": "看这里的游客大部分也都是白人",
+      "music": 0.0
+    },
+    {
+      "from": 337.64,
+      "to": 340.16,
+      "sid": 161,
+      "location": 2,
+      "content": "不过这个地方确实有很大的旅游价值",
+      "music": 0.0
+    },
+    {
+      "from": 340.16,
+      "to": 342.539,
+      "sid": 162,
+      "location": 2,
+      "content": "从下面往上看是非常的壮观",
+      "music": 0.0
+    },
+    {
+      "from": 342.539,
+      "to": 344.699,
+      "sid": 163,
+      "location": 2,
+      "content": "可能最后的赢家就是司机的后人",
+      "music": 0.0
+    },
+    {
+      "from": 344.699,
+      "to": 345.94,
+      "sid": 164,
+      "location": 2,
+      "content": "和本地的旅游业",
+      "music": 0.0
+    },
+    {
+      "from": 345.94,
+      "to": 347.98,
+      "sid": 165,
+      "location": 2,
+      "content": "其实我跟风马还挺有缘分的",
+      "music": 0.0
+    },
+    {
+      "from": 347.98,
+      "to": 348.86,
+      "sid": 166,
+      "location": 2,
+      "content": "剪视频的时候",
+      "music": 0.0
+    },
+    {
+      "from": 348.86,
+      "to": 350.3,
+      "sid": 167,
+      "location": 2,
+      "content": "发现这个去风马的大巴",
+      "music": 0.0
+    },
+    {
+      "from": 350.3,
+      "to": 352.36,
+      "sid": 168,
+      "location": 2,
+      "content": "车票还夹在我的手机壳里面",
+      "music": 0.0
+    },
+    {
+      "from": 352.36,
+      "to": 354.2,
+      "sid": 169,
+      "location": 2,
+      "content": "至于这个项目的完工日期",
+      "music": 0.0
+    },
+    {
+      "from": 354.2,
+      "to": 355.98,
+      "sid": 170,
+      "location": 2,
+      "content": "目前说是2037年",
+      "music": 0.0
+    },
+    {
+      "from": 355.98,
+      "to": 358.52,
+      "sid": 171,
+      "location": 2,
+      "content": "不知道到时候是否能顺利交付呢",
+      "music": 0.0
+    },
+    {
+      "from": 358.52,
+      "to": 361.07,
+      "sid": 172,
+      "location": 2,
+      "content": "欢迎在评论区说出你的看法好了",
+      "music": 0.0
+    },
+    {
+      "from": 361.07,
+      "to": 362.31,
+      "sid": 173,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 362.31,
+      "to": 362.71,
+      "sid": 174,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 362.71,
+      "to": 365.3,
+      "sid": 175,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

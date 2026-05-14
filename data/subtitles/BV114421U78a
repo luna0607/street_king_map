@@ -1,0 +1,1860 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.2,
+      "sid": 1,
+      "location": 2,
+      "content": "我在一个夏日的午后来到了美国",
+      "music": 0.0
+    },
+    {
+      "from": 2.2,
+      "to": 5.32,
+      "sid": 2,
+      "location": 2,
+      "content": "一个叫做比尤特的286人小村",
+      "music": 0.0
+    },
+    {
+      "from": 5.32,
+      "to": 7.44,
+      "sid": 3,
+      "location": 2,
+      "content": "今天村里比起往常热闹不少",
+      "music": 0.0
+    },
+    {
+      "from": 7.44,
+      "to": 10.26,
+      "sid": 4,
+      "location": 2,
+      "content": "第一是因为这里有一个一周一次的小集市",
+      "music": 0.0
+    },
+    {
+      "from": 10.26,
+      "to": 12.16,
+      "sid": 5,
+      "location": 2,
+      "content": "第二是因为来了好几波记者",
+      "music": 0.0
+    },
+    {
+      "from": 12.16,
+      "to": 13.28,
+      "sid": 6,
+      "location": 2,
+      "content": "今年的美国大选",
+      "music": 0.0
+    },
+    {
+      "from": 14.88,
+      "to": 17.639,
+      "sid": 7,
+      "location": 2,
+      "content": "选了蒂姆沃尔尔兹做他的竞选搭档",
+      "music": 0.0
+    },
+    {
+      "from": 17.639,
+      "to": 20.729,
+      "sid": 8,
+      "location": 2,
+      "content": "而他就是在这个小村度过了他的青年时光",
+      "music": 0.0
+    },
+    {
+      "from": 20.729,
+      "to": 23.589,
+      "sid": 9,
+      "location": 2,
+      "content": "而他现在依旧还有很多亲戚还住在这边",
+      "music": 0.0
+    },
+    {
+      "from": 23.589,
+      "to": 25.68,
+      "sid": 10,
+      "location": 2,
+      "content": "简单介绍一下这个小镇的情况",
+      "music": 0.0
+    },
+    {
+      "from": 25.68,
+      "to": 29.08,
+      "sid": 11,
+      "location": 2,
+      "content": "它位于美国中部两个不知名农业州的交界处上",
+      "music": 0.0
+    },
+    {
+      "from": 29.08,
+      "to": 32.04,
+      "sid": 12,
+      "location": 2,
+      "content": "目前村里的人口中位数是56.6",
+      "music": 0.0
+    },
+    {
+      "from": 32.04,
+      "to": 33.16,
+      "sid": 13,
+      "location": 2,
+      "content": "在1970年",
+      "music": 0.0
+    },
+    {
+      "from": 33.16,
+      "to": 34.95,
+      "sid": 14,
+      "location": 2,
+      "content": "这里曾经有575个人",
+      "music": 0.0
+    },
+    {
+      "from": 34.95,
+      "to": 37.81,
+      "sid": 15,
+      "location": 2,
+      "content": "之后每10年都以10%几的速度减少",
+      "music": 0.0
+    },
+    {
+      "from": 37.81,
+      "to": 38.99,
+      "sid": 16,
+      "location": 2,
+      "content": "这么偏僻的地方",
+      "music": 0.0
+    },
+    {
+      "from": 38.99,
+      "to": 42.26,
+      "sid": 17,
+      "location": 2,
+      "content": "大部分的美国记者自然也肯定没有听说过",
+      "music": 0.0
+    },
+    {
+      "from": 42.26,
+      "to": 43.34,
+      "sid": 18,
+      "location": 2,
+      "content": "My name is reid",
+      "music": 0.0
+    },
+    {
+      "from": 43.34,
+      "to": 45.42,
+      "sid": 19,
+      "location": 2,
+      "content": "I'm a reporter with the star of being in minneapolis",
+      "music": 0.0
+    },
+    {
+      "from": 45.42,
+      "to": 47.28,
+      "sid": 20,
+      "location": 2,
+      "content": "It's my first time in beat in nebraska",
+      "music": 0.0
+    },
+    {
+      "from": 47.28,
+      "to": 48.52,
+      "sid": 21,
+      "location": 2,
+      "content": "It's really very much",
+      "music": 0.0
+    },
+    {
+      "from": 48.52,
+      "to": 50.28,
+      "sid": 22,
+      "location": 2,
+      "content": "Like a slice of small famerica",
+      "music": 0.0
+    },
+    {
+      "from": 50.28,
+      "to": 53.14,
+      "sid": 23,
+      "location": 2,
+      "content": "And look this a super conservative area",
+      "music": 0.0
+    },
+    {
+      "from": 53.14,
+      "to": 54.22,
+      "sid": 24,
+      "location": 2,
+      "content": "This county voted eighty",
+      "music": 0.0
+    },
+    {
+      "from": 54.22,
+      "to": 56.52,
+      "sid": 25,
+      "location": 2,
+      "content": "Eight percent for trump in twenty twenty",
+      "music": 0.0
+    },
+    {
+      "from": 56.52,
+      "to": 57.97,
+      "sid": 26,
+      "location": 2,
+      "content": "And uh",
+      "music": 0.0
+    },
+    {
+      "from": 57.97,
+      "to": 58.69,
+      "sid": 27,
+      "location": 2,
+      "content": "I'm guessing",
+      "music": 0.0
+    },
+    {
+      "from": 58.69,
+      "to": 60.05,
+      "sid": 28,
+      "location": 2,
+      "content": "It'll probably vote somewhere",
+      "music": 0.0
+    },
+    {
+      "from": 60.05,
+      "to": 62.78,
+      "sid": 29,
+      "location": 2,
+      "content": "Close to that for trump in twenty twenty four",
+      "music": 0.0
+    },
+    {
+      "from": 62.78,
+      "to": 64.52,
+      "sid": 30,
+      "location": 2,
+      "content": "But the sense you get from a lot of people",
+      "music": 0.0
+    },
+    {
+      "from": 64.52,
+      "to": 66.2,
+      "sid": 31,
+      "location": 2,
+      "content": "Not for everyone is even if they're gonna",
+      "music": 0.0
+    },
+    {
+      "from": 66.2,
+      "to": 67.38,
+      "sid": 32,
+      "location": 2,
+      "content": "Vote republican",
+      "music": 0.0
+    },
+    {
+      "from": 67.38,
+      "to": 69.56,
+      "sid": 33,
+      "location": 2,
+      "content": "They seem very proud of their hometown boy",
+      "music": 0.0
+    },
+    {
+      "from": 72.87,
+      "to": 74.37,
+      "sid": 34,
+      "location": 2,
+      "content": "What they what they describe small town",
+      "music": 0.0
+    },
+    {
+      "from": 74.37,
+      "to": 76.07,
+      "sid": 35,
+      "location": 2,
+      "content": "Values potentially in the white house",
+      "music": 0.0
+    },
+    {
+      "from": 76.07,
+      "to": 79.219,
+      "sid": 36,
+      "location": 2,
+      "content": "Even if it's not for the party that most of them favor",
+      "music": 0.0
+    },
+    {
+      "from": 79.219,
+      "to": 79.459,
+      "sid": 37,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 79.459,
+      "to": 82.38,
+      "sid": 38,
+      "location": 2,
+      "content": "So what type of people did you talk to you know a lot of more",
+      "music": 0.0
+    },
+    {
+      "from": 82.38,
+      "to": 83.78,
+      "sid": 39,
+      "location": 2,
+      "content": "Related to be honest",
+      "music": 0.0
+    },
+    {
+      "from": 83.78,
+      "to": 85.3,
+      "sid": 40,
+      "location": 2,
+      "content": "I would talk to people like",
+      "music": 0.0
+    },
+    {
+      "from": 85.3,
+      "to": 86.38,
+      "sid": 41,
+      "location": 2,
+      "content": "Oh i just talked to your brother",
+      "music": 0.0
+    },
+    {
+      "from": 86.38,
+      "to": 87.38,
+      "sid": 42,
+      "location": 2,
+      "content": "A half hour ago",
+      "music": 0.0
+    },
+    {
+      "from": 87.38,
+      "to": 89.69,
+      "sid": 43,
+      "location": 2,
+      "content": "U people the farm implement",
+      "music": 0.0
+    },
+    {
+      "from": 89.69,
+      "to": 90.99,
+      "sid": 44,
+      "location": 2,
+      "content": "Uh dealership people",
+      "music": 0.0
+    },
+    {
+      "from": 90.99,
+      "to": 93.97,
+      "sid": 45,
+      "location": 2,
+      "content": "The coffee shop people right here in the community center",
+      "music": 0.0
+    },
+    {
+      "from": 93.97,
+      "to": 95.03,
+      "sid": 46,
+      "location": 2,
+      "content": "Uh people out here",
+      "music": 0.0
+    },
+    {
+      "from": 95.03,
+      "to": 98.54,
+      "sid": 47,
+      "location": 2,
+      "content": "Uh selling their wares at the uh weekly farmers market",
+      "music": 0.0
+    },
+    {
+      "from": 98.54,
+      "to": 101.97,
+      "sid": 48,
+      "location": 2,
+      "content": "They have downtown hit does uh",
+      "music": 0.0
+    },
+    {
+      "from": 101.97,
+      "to": 104.37,
+      "sid": 49,
+      "location": 2,
+      "content": "I mean it really seems like a slice of small town",
+      "music": 0.0
+    },
+    {
+      "from": 104.37,
+      "to": 107.37,
+      "sid": 50,
+      "location": 2,
+      "content": "Americana a part of a type of small town",
+      "music": 0.0
+    },
+    {
+      "from": 107.37,
+      "to": 109.33,
+      "sid": 51,
+      "location": 2,
+      "content": "That a lot of people fear is disappearing",
+      "music": 0.0
+    },
+    {
+      "from": 109.33,
+      "to": 113.15,
+      "sid": 52,
+      "location": 2,
+      "content": "But people here very much uh stick to it",
+      "music": 0.0
+    },
+    {
+      "from": 113.15,
+      "to": 115.63,
+      "sid": 53,
+      "location": 2,
+      "content": "And and and and want that that that sort of life",
+      "music": 0.0
+    },
+    {
+      "from": 115.63,
+      "to": 119.93,
+      "sid": 54,
+      "location": 2,
+      "content": "You do see a lot of the same types of",
+      "music": 0.0
+    },
+    {
+      "from": 119.93,
+      "to": 120.77,
+      "sid": 55,
+      "location": 2,
+      "content": "What",
+      "music": 0.0
+    },
+    {
+      "from": 120.77,
+      "to": 122.879,
+      "sid": 56,
+      "location": 2,
+      "content": "They're often talking about a lot of the",
+      "music": 0.0
+    },
+    {
+      "from": 122.879,
+      "to": 124.039,
+      "sid": 57,
+      "location": 2,
+      "content": "Same types of things about family",
+      "music": 0.0
+    },
+    {
+      "from": 124.039,
+      "to": 126.439,
+      "sid": 58,
+      "location": 2,
+      "content": "Values uh about wanting the quiet life",
+      "music": 0.0
+    },
+    {
+      "from": 126.439,
+      "to": 126.759,
+      "sid": 59,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 126.759,
+      "to": 127.519,
+      "sid": 60,
+      "location": 2,
+      "content": "That's what you see here",
+      "music": 0.0
+    },
+    {
+      "from": 127.519,
+      "to": 129.839,
+      "sid": 61,
+      "location": 2,
+      "content": "That's in cn io that that's not see in small town",
+      "music": 0.0
+    },
+    {
+      "from": 129.839,
+      "to": 131.08,
+      "sid": 62,
+      "location": 2,
+      "content": "Georgia really all around there",
+      "music": 0.0
+    },
+    {
+      "from": 131.08,
+      "to": 132.66,
+      "sid": 63,
+      "location": 2,
+      "content": "I think it's a little bit weird when you get",
+      "music": 0.0
+    },
+    {
+      "from": 132.66,
+      "to": 134.9,
+      "sid": 64,
+      "location": 2,
+      "content": "Like all of a sudden this town of",
+      "music": 0.0
+    },
+    {
+      "from": 134.9,
+      "to": 138.36,
+      "sid": 65,
+      "location": 2,
+      "content": "You know what three hundred people is thrown into the national spotlight",
+      "music": 0.0
+    },
+    {
+      "from": 138.36,
+      "to": 141.91,
+      "sid": 66,
+      "location": 2,
+      "content": "And i think it could be a little bit overwhelming people here",
+      "music": 0.0
+    },
+    {
+      "from": 141.91,
+      "to": 142.11,
+      "sid": 67,
+      "location": 2,
+      "content": "They're like",
+      "music": 0.0
+    },
+    {
+      "from": 142.11,
+      "to": 143.76,
+      "sid": 68,
+      "location": 2,
+      "content": "Oh gosh another reporter",
+      "music": 0.0
+    },
+    {
+      "from": 143.76,
+      "to": 145.48,
+      "sid": 69,
+      "location": 2,
+      "content": "We haven't seen a reporter for a decade here",
+      "music": 0.0
+    },
+    {
+      "from": 145.48,
+      "to": 147.589,
+      "sid": 70,
+      "location": 2,
+      "content": "And now there's a dozen in our in our town",
+      "music": 0.0
+    },
+    {
+      "from": 147.589,
+      "to": 149.229,
+      "sid": 71,
+      "location": 2,
+      "content": "Like it can get a little bit annoying",
+      "music": 0.0
+    },
+    {
+      "from": 149.229,
+      "to": 150.849,
+      "sid": 72,
+      "location": 2,
+      "content": "But i must be been like this",
+      "music": 0.0
+    },
+    {
+      "from": 150.849,
+      "to": 151.629,
+      "sid": 73,
+      "location": 2,
+      "content": "Wonderful lady",
+      "music": 0.0
+    },
+    {
+      "from": 151.629,
+      "to": 152.96,
+      "sid": 74,
+      "location": 2,
+      "content": "Right here uh",
+      "music": 0.0
+    },
+    {
+      "from": 152.96,
+      "to": 153.88,
+      "sid": 75,
+      "location": 2,
+      "content": "Incredibly gracious",
+      "music": 0.0
+    },
+    {
+      "from": 153.88,
+      "to": 154.44,
+      "sid": 76,
+      "location": 2,
+      "content": "And thoughtful",
+      "music": 0.0
+    },
+    {
+      "from": 154.44,
+      "to": 156.58,
+      "sid": 77,
+      "location": 2,
+      "content": "And just tell me about this place that she loves",
+      "music": 0.0
+    },
+    {
+      "from": 156.58,
+      "to": 157.74,
+      "sid": 78,
+      "location": 2,
+      "content": "Oh that's nice",
+      "music": 0.0
+    },
+    {
+      "from": 157.74,
+      "to": 159.66,
+      "sid": 79,
+      "location": 2,
+      "content": "That's an interesting people here",
+      "music": 0.0
+    },
+    {
+      "from": 159.66,
+      "to": 161.46,
+      "sid": 80,
+      "location": 2,
+      "content": "I met a two women",
+      "music": 0.0
+    },
+    {
+      "from": 161.46,
+      "to": 163.12,
+      "sid": 81,
+      "location": 2,
+      "content": "Who said there a third cousins",
+      "music": 0.0
+    },
+    {
+      "from": 163.12,
+      "to": 165.62,
+      "sid": 82,
+      "location": 2,
+      "content": "Tim walls at this uh",
+      "music": 0.0
+    },
+    {
+      "from": 165.62,
+      "to": 168.38,
+      "sid": 83,
+      "location": 2,
+      "content": "This restaurant new para u uh",
+      "music": 0.0
+    },
+    {
+      "from": 168.38,
+      "to": 170.22,
+      "sid": 84,
+      "location": 2,
+      "content": "What's the name of the firefirehouse",
+      "music": 0.0
+    },
+    {
+      "from": 170.22,
+      "to": 172.25,
+      "sid": 85,
+      "location": 2,
+      "content": "The fire station like that",
+      "music": 0.0
+    },
+    {
+      "from": 172.65,
+      "to": 178.43,
+      "sid": 86,
+      "location": 2,
+      "content": "And got some nice photographs of that met at uncle tim walls",
+      "music": 0.0
+    },
+    {
+      "from": 178.43,
+      "to": 181.47,
+      "sid": 87,
+      "location": 2,
+      "content": "Who lives on in the country and shooting story about him",
+      "music": 0.0
+    },
+    {
+      "from": 181.47,
+      "to": 185.829,
+      "sid": 88,
+      "location": 2,
+      "content": "He has a nineteen thirty six for coop",
+      "music": 0.0
+    },
+    {
+      "from": 185.829,
+      "to": 190.41,
+      "sid": 89,
+      "location": 2,
+      "content": "That's like a deep rare color um",
+      "music": 0.0
+    },
+    {
+      "from": 190.41,
+      "to": 191.81,
+      "sid": 90,
+      "location": 2,
+      "content": "Gonna be here a couple of hours",
+      "music": 0.0
+    },
+    {
+      "from": 191.81,
+      "to": 193.78,
+      "sid": 91,
+      "location": 2,
+      "content": "And then we're gonna go into valentine",
+      "music": 0.0
+    },
+    {
+      "from": 193.78,
+      "to": 196.26,
+      "sid": 92,
+      "location": 2,
+      "content": "That's where he tim wall spent some time",
+      "music": 0.0
+    },
+    {
+      "from": 196.26,
+      "to": 197.1,
+      "sid": 93,
+      "location": 2,
+      "content": "They also",
+      "music": 0.0
+    },
+    {
+      "from": 197.1,
+      "to": 198.26,
+      "sid": 94,
+      "location": 2,
+      "content": "This is uncle",
+      "music": 0.0
+    },
+    {
+      "from": 198.26,
+      "to": 200.06,
+      "sid": 95,
+      "location": 2,
+      "content": "Oh eighty",
+      "music": 0.0
+    },
+    {
+      "from": 200.06,
+      "to": 200.46,
+      "sid": 96,
+      "location": 2,
+      "content": "Four year old",
+      "music": 0.0
+    },
+    {
+      "from": 200.46,
+      "to": 201.329,
+      "sid": 97,
+      "location": 2,
+      "content": "Uncle",
+      "music": 0.0
+    },
+    {
+      "from": 201.329,
+      "to": 202.769,
+      "sid": 98,
+      "location": 2,
+      "content": "So mos",
+      "music": 0.0
+    },
+    {
+      "from": 202.769,
+      "to": 205.729,
+      "sid": 99,
+      "location": 2,
+      "content": "之后我去到了小镇上唯一一家饭店",
+      "music": 0.0
+    },
+    {
+      "from": 205.729,
+      "to": 207.809,
+      "sid": 100,
+      "location": 2,
+      "content": "也就是摄影师坐着的板凳",
+      "music": 0.0
+    },
+    {
+      "from": 207.809,
+      "to": 211.38,
+      "sid": 101,
+      "location": 2,
+      "content": "后面的那家在里面又逮到了一个在工作的记者",
+      "music": 0.0
+    },
+    {
+      "from": 211.38,
+      "to": 215.18,
+      "sid": 102,
+      "location": 2,
+      "content": "现在的people that i should talk to or art in town",
+      "music": 0.0
+    },
+    {
+      "from": 215.18,
+      "to": 216.04,
+      "sid": 103,
+      "location": 2,
+      "content": "What can die",
+      "music": 0.0
+    },
+    {
+      "from": 216.04,
+      "to": 221.0,
+      "sid": 104,
+      "location": 2,
+      "content": "Ok i have not too many stories for you",
+      "music": 0.0
+    },
+    {
+      "from": 221.0,
+      "to": 221.5,
+      "sid": 105,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 221.5,
+      "to": 223.48,
+      "sid": 106,
+      "location": 2,
+      "content": "其实在小镇待了这么一个下午",
+      "music": 0.0
+    },
+    {
+      "from": 223.48,
+      "to": 225.4,
+      "sid": 107,
+      "location": 2,
+      "content": "我也只遇到了这么几个记者",
+      "music": 0.0
+    },
+    {
+      "from": 225.4,
+      "to": 226.2,
+      "sid": 108,
+      "location": 2,
+      "content": "事后查看",
+      "music": 0.0
+    },
+    {
+      "from": 226.2,
+      "to": 228.96,
+      "sid": 109,
+      "location": 2,
+      "content": "确实也只有他们在报道中提到了比尤特",
+      "music": 0.0
+    },
+    {
+      "from": 228.96,
+      "to": 230.649,
+      "sid": 110,
+      "location": 2,
+      "content": "由于这边过于偏僻",
+      "music": 0.0
+    },
+    {
+      "from": 230.649,
+      "to": 233.949,
+      "sid": 111,
+      "location": 2,
+      "content": "只有相对近一些的大城市后愿意派记者过来",
+      "music": 0.0
+    },
+    {
+      "from": 233.949,
+      "to": 236.449,
+      "sid": 112,
+      "location": 2,
+      "content": "而这两拨人分别是从相对应的城市",
+      "music": 0.0
+    },
+    {
+      "from": 236.449,
+      "to": 239.5,
+      "sid": 113,
+      "location": 2,
+      "content": "开了四个小时和七个小时的车才抵达这里",
+      "music": 0.0
+    },
+    {
+      "from": 239.5,
+      "to": 241.5,
+      "sid": 114,
+      "location": 2,
+      "content": "不过乡下的物价确实不高",
+      "music": 0.0
+    },
+    {
+      "from": 241.5,
+      "to": 243.26,
+      "sid": 115,
+      "location": 2,
+      "content": "在这家饭店吃个三明治",
+      "music": 0.0
+    },
+    {
+      "from": 243.26,
+      "to": 244.56,
+      "sid": 116,
+      "location": 2,
+      "content": "只花了我五美元",
+      "music": 0.0
+    },
+    {
+      "from": 244.56,
+      "to": 246.14,
+      "sid": 117,
+      "location": 2,
+      "content": "给个20%的小费",
+      "music": 0.0
+    },
+    {
+      "from": 246.14,
+      "to": 247.02,
+      "sid": 118,
+      "location": 2,
+      "content": "也就六块多",
+      "music": 0.0
+    },
+    {
+      "from": 247.02,
+      "to": 248.32,
+      "sid": 119,
+      "location": 2,
+      "content": "味道也还不错",
+      "music": 0.0
+    },
+    {
+      "from": 248.32,
+      "to": 250.96,
+      "sid": 120,
+      "location": 2,
+      "content": "吃完饭去看看村里面的这个集市",
+      "music": 0.0
+    },
+    {
+      "from": 250.96,
+      "to": 253.23,
+      "sid": 121,
+      "location": 2,
+      "content": "其实感觉有用的东西很少",
+      "music": 0.0
+    },
+    {
+      "from": 253.23,
+      "to": 255.89,
+      "sid": 122,
+      "location": 2,
+      "content": "更多都是小朋友自娱自乐出来摆摊",
+      "music": 0.0
+    },
+    {
+      "from": 255.89,
+      "to": 256.91,
+      "sid": 123,
+      "location": 2,
+      "content": "我一路走过去",
+      "music": 0.0
+    },
+    {
+      "from": 256.91,
+      "to": 259.05,
+      "sid": 124,
+      "location": 2,
+      "content": "一帮孩子用纯真的眼神看着我",
+      "music": 0.0
+    },
+    {
+      "from": 259.05,
+      "to": 261.0,
+      "sid": 125,
+      "location": 2,
+      "content": "我甚至不敢跟他们对视",
+      "music": 0.0
+    },
+    {
+      "from": 261.0,
+      "to": 263.32,
+      "sid": 126,
+      "location": 2,
+      "content": "有一个小男孩在卖他的手工剑",
+      "music": 0.0
+    },
+    {
+      "from": 263.32,
+      "to": 264.48,
+      "sid": 127,
+      "location": 2,
+      "content": "我觉得很搞笑",
+      "music": 0.0
+    },
+    {
+      "from": 264.48,
+      "to": 266.24,
+      "sid": 128,
+      "location": 2,
+      "content": "不小心多停留了几秒",
+      "music": 0.0
+    },
+    {
+      "from": 266.24,
+      "to": 269.13,
+      "sid": 129,
+      "location": 2,
+      "content": "他就开始问我要不要买五块钱一把",
+      "music": 0.0
+    },
+    {
+      "from": 269.13,
+      "to": 270.919,
+      "sid": 130,
+      "location": 2,
+      "content": "他的妹妹也在卖童书",
+      "music": 0.0
+    },
+    {
+      "from": 270.919,
+      "to": 272.359,
+      "sid": 131,
+      "location": 2,
+      "content": "倒是只要25美分",
+      "music": 0.0
+    },
+    {
+      "from": 272.359,
+      "to": 272.859,
+      "sid": 132,
+      "location": 2,
+      "content": "一本",
+      "music": 0.0
+    },
+    {
+      "from": 272.859,
+      "to": 274.039,
+      "sid": 133,
+      "location": 2,
+      "content": "五毛钱两本",
+      "music": 0.0
+    },
+    {
+      "from": 274.039,
+      "to": 275.799,
+      "sid": 134,
+      "location": 2,
+      "content": "两个小孩天真的看着我",
+      "music": 0.0
+    },
+    {
+      "from": 275.799,
+      "to": 277.95,
+      "sid": 135,
+      "location": 2,
+      "content": "我真是感受到了无形的压力",
+      "music": 0.0
+    },
+    {
+      "from": 277.95,
+      "to": 279.35,
+      "sid": 136,
+      "location": 2,
+      "content": "于是我就花了五块五",
+      "music": 0.0
+    },
+    {
+      "from": 279.35,
+      "to": 281.79,
+      "sid": 137,
+      "location": 2,
+      "content": "买了一堆不知道可以用来干嘛的东西",
+      "music": 0.0
+    },
+    {
+      "from": 281.79,
+      "to": 284.659,
+      "sid": 138,
+      "location": 2,
+      "content": "好在我在路上遇到了这两个小孩子的妈妈",
+      "music": 0.0
+    },
+    {
+      "from": 284.659,
+      "to": 286.559,
+      "sid": 139,
+      "location": 2,
+      "content": "他深深地感谢了我一下",
+      "music": 0.0
+    },
+    {
+      "from": 286.559,
+      "to": 288.759,
+      "sid": 140,
+      "location": 2,
+      "content": "之后我就去了他们小镇的图书馆",
+      "music": 0.0
+    },
+    {
+      "from": 288.759,
+      "to": 290.49,
+      "sid": 141,
+      "location": 2,
+      "content": "这里保留着不少档案",
+      "music": 0.0
+    },
+    {
+      "from": 290.49,
+      "to": 293.51,
+      "sid": 142,
+      "location": 2,
+      "content": "包括镇上的每一届高中学生的毕业照",
+      "music": 0.0
+    },
+    {
+      "from": 293.51,
+      "to": 296.31,
+      "sid": 143,
+      "location": 2,
+      "content": "而中间第二排第三个这个胖胖的男孩",
+      "music": 0.0
+    },
+    {
+      "from": 296.31,
+      "to": 299.09,
+      "sid": 144,
+      "location": 2,
+      "content": "也就是2024年的美国副总统候选人",
+      "music": 0.0
+    },
+    {
+      "from": 299.09,
+      "to": 300.58,
+      "sid": 145,
+      "location": 2,
+      "content": "蒂姆沃尔兹",
+      "music": 0.0
+    },
+    {
+      "from": 300.58,
+      "to": 303.3,
+      "sid": 146,
+      "location": 2,
+      "content": "而下面的这个老头就是他的爸爸",
+      "music": 0.0
+    },
+    {
+      "from": 303.3,
+      "to": 304.9,
+      "sid": 147,
+      "location": 2,
+      "content": "也是当年的校长",
+      "music": 0.0
+    },
+    {
+      "from": 304.9,
+      "to": 308.33,
+      "sid": 148,
+      "location": 2,
+      "content": "村里的高中那一年一共也就只有20个毕业生",
+      "music": 0.0
+    },
+    {
+      "from": 308.33,
+      "to": 309.75,
+      "sid": 149,
+      "location": 2,
+      "content": "据蒂姆所说",
+      "music": 0.0
+    },
+    {
+      "from": 309.75,
+      "to": 312.419,
+      "sid": 150,
+      "location": 2,
+      "content": "班上超过一半的人都是他的亲戚",
+      "music": 0.0
+    },
+    {
+      "from": 312.419,
+      "to": 315.179,
+      "sid": 151,
+      "location": 2,
+      "content": "随着这块地区的人口渐渐减少",
+      "music": 0.0
+    },
+    {
+      "from": 315.179,
+      "to": 316.179,
+      "sid": 152,
+      "location": 2,
+      "content": "2006年",
+      "music": 0.0
+    },
+    {
+      "from": 316.179,
+      "to": 318.63,
+      "sid": 153,
+      "location": 2,
+      "content": "村里的高中只毕业了七个学生",
+      "music": 0.0
+    },
+    {
+      "from": 318.63,
+      "to": 319.71,
+      "sid": 154,
+      "location": 2,
+      "content": "从此之后",
+      "music": 0.0
+    },
+    {
+      "from": 319.71,
+      "to": 321.75,
+      "sid": 155,
+      "location": 2,
+      "content": "村里所有小孩子过了6年级",
+      "music": 0.0
+    },
+    {
+      "from": 321.75,
+      "to": 325.55,
+      "sid": 156,
+      "location": 2,
+      "content": "都得到隔壁一个叫斯潘塞的500人小镇上学",
+      "music": 0.0
+    },
+    {
+      "from": 325.55,
+      "to": 329.29,
+      "sid": 157,
+      "location": 2,
+      "content": "这也是比尤特所在的博伊德县唯一的一所高中",
+      "music": 0.0
+    },
+    {
+      "from": 329.29,
+      "to": 330.83,
+      "sid": 158,
+      "location": 2,
+      "content": "博伊德县有四个半",
+      "music": 0.0
+    },
+    {
+      "from": 330.83,
+      "to": 331.61,
+      "sid": 159,
+      "location": 2,
+      "content": "澳门那么大",
+      "music": 0.0
+    },
+    {
+      "from": 331.61,
+      "to": 333.36,
+      "sid": 160,
+      "location": 2,
+      "content": "却只有1700个人",
+      "music": 0.0
+    },
+    {
+      "from": 333.36,
+      "to": 336.6,
+      "sid": 161,
+      "location": 2,
+      "content": "这里也算是美国最地广人稀的地方之一了",
+      "music": 0.0
+    },
+    {
+      "from": 336.6,
+      "to": 339.51,
+      "sid": 162,
+      "location": 2,
+      "content": "而且每年的人口还在持续流失",
+      "music": 0.0
+    },
+    {
+      "from": 339.51,
+      "to": 342.31,
+      "sid": 163,
+      "location": 2,
+      "content": "这边在1910年有8800个人",
+      "music": 0.0
+    },
+    {
+      "from": 342.31,
+      "to": 344.29,
+      "sid": 164,
+      "location": 2,
+      "content": "但是从1910年之后",
+      "music": 0.0
+    },
+    {
+      "from": 344.29,
+      "to": 346.74,
+      "sid": 165,
+      "location": 2,
+      "content": "每年都减少10%几的人口",
+      "music": 0.0
+    },
+    {
+      "from": 346.74,
+      "to": 349.54,
+      "sid": 166,
+      "location": 2,
+      "content": "除了比尤特这个村子往西开一个多小时",
+      "music": 0.0
+    },
+    {
+      "from": 349.54,
+      "to": 352.059,
+      "sid": 167,
+      "location": 2,
+      "content": "都是无穷无尽的草场和农田",
+      "music": 0.0
+    },
+    {
+      "from": 352.059,
+      "to": 354.659,
+      "sid": 168,
+      "location": 2,
+      "content": "基本上见不到任何人类的痕迹",
+      "music": 0.0
+    },
+    {
+      "from": 354.659,
+      "to": 357.37,
+      "sid": 169,
+      "location": 2,
+      "content": "一路上也没有什么小镇和村庄",
+      "music": 0.0
+    },
+    {
+      "from": 357.37,
+      "to": 360.47,
+      "sid": 170,
+      "location": 2,
+      "content": "直到我到了这个叫瓦伦泰因的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 360.47,
+      "to": 362.23,
+      "sid": 171,
+      "location": 2,
+      "content": "有2400个人",
+      "music": 0.0
+    },
+    {
+      "from": 362.23,
+      "to": 365.39,
+      "sid": 172,
+      "location": 2,
+      "content": "这里也是内布拉斯加州切里县的县城",
+      "music": 0.0
+    },
+    {
+      "from": 365.39,
+      "to": 369.02,
+      "sid": 173,
+      "location": 2,
+      "content": "而这个县跟北京整个直辖市的面积差不多",
+      "music": 0.0
+    },
+    {
+      "from": 369.02,
+      "to": 371.14,
+      "sid": 174,
+      "location": 2,
+      "content": "却只有5500个人",
+      "music": 0.0
+    },
+    {
+      "from": 371.14,
+      "to": 372.26,
+      "sid": 175,
+      "location": 2,
+      "content": "回到主题",
+      "music": 0.0
+    },
+    {
+      "from": 372.26,
+      "to": 375.09,
+      "sid": 176,
+      "location": 2,
+      "content": "这也是蒂姆沃尔兹上小学的地方",
+      "music": 0.0
+    },
+    {
+      "from": 375.09,
+      "to": 377.83,
+      "sid": 177,
+      "location": 2,
+      "content": "在他后来搬去明尼苏达州之前",
+      "music": 0.0
+    },
+    {
+      "from": 377.83,
+      "to": 381.25,
+      "sid": 178,
+      "location": 2,
+      "content": "他家一直在内布拉斯加州的这些荒野小镇里面",
+      "music": 0.0
+    },
+    {
+      "from": 381.25,
+      "to": 382.31,
+      "sid": 179,
+      "location": 2,
+      "content": "搬来搬去",
+      "music": 0.0
+    },
+    {
+      "from": 382.31,
+      "to": 385.95,
+      "sid": 180,
+      "location": 2,
+      "content": "而这些农村地区的人也都是以保守的白人为主",
+      "music": 0.0
+    },
+    {
+      "from": 389.15,
+      "to": 390.03,
+      "sid": 181,
+      "location": 2,
+      "content": "一个很大的原因",
+      "music": 0.0
+    },
+    {
+      "from": 390.03,
+      "to": 393.049,
+      "sid": 182,
+      "location": 2,
+      "content": "就是想靠他这种美国农村长大的背景",
+      "music": 0.0
+    },
+    {
+      "from": 393.049,
+      "to": 396.069,
+      "sid": 183,
+      "location": 2,
+      "content": "吸引到一些哈里斯无法吸引到的中间派",
+      "music": 0.0
+    },
+    {
+      "from": 414.32,
+      "to": 416.1,
+      "sid": 184,
+      "location": 2,
+      "content": "One week later",
+      "music": 0.0
+    },
+    {
+      "from": 416.1,
+      "to": 417.2,
+      "sid": 185,
+      "location": 2,
+      "content": "一个星期之后",
+      "music": 0.0
+    },
+    {
+      "from": 417.2,
+      "to": 420.02,
+      "sid": 186,
+      "location": 2,
+      "content": "我从北向南再拜访了一次比尤特",
+      "music": 0.0
+    },
+    {
+      "from": 420.02,
+      "to": 422.06,
+      "sid": 187,
+      "location": 2,
+      "content": "比尤特离两个州的州界不远",
+      "music": 0.0
+    },
+    {
+      "from": 422.06,
+      "to": 424.94,
+      "sid": 188,
+      "location": 2,
+      "content": "他到我现在所在的这个欢迎来到南迪科",
+      "music": 0.0
+    },
+    {
+      "from": 424.94,
+      "to": 425.78,
+      "sid": 189,
+      "location": 2,
+      "content": "他州的州牌",
+      "music": 0.0
+    },
+    {
+      "from": 425.78,
+      "to": 428.14,
+      "sid": 190,
+      "location": 2,
+      "content": "也就只要10分钟的车程",
+      "music": 0.0
+    },
+    {
+      "from": 429.55,
+      "to": 432.19,
+      "sid": 191,
+      "location": 2,
+      "content": "再次穿过这些无穷无尽的原野",
+      "music": 0.0
+    },
+    {
+      "from": 432.19,
+      "to": 434.53,
+      "sid": 192,
+      "location": 2,
+      "content": "我又拜访了镇上的图书馆",
+      "music": 0.0
+    },
+    {
+      "from": 434.53,
+      "to": 435.95,
+      "sid": 193,
+      "location": 2,
+      "content": "之前遇到的老奶奶",
+      "music": 0.0
+    },
+    {
+      "from": 435.95,
+      "to": 437.35,
+      "sid": 194,
+      "location": 2,
+      "content": "当然还记得我",
+      "music": 0.0
+    },
+    {
+      "from": 437.35,
+      "to": 438.75,
+      "sid": 195,
+      "location": 2,
+      "content": "他其实有一些诧异",
+      "music": 0.0
+    },
+    {
+      "from": 438.75,
+      "to": 441.35,
+      "sid": 196,
+      "location": 2,
+      "content": "我竟然能在一周之内来治理两次",
+      "music": 0.0
+    },
+    {
+      "from": 441.35,
+      "to": 443.19,
+      "sid": 197,
+      "location": 2,
+      "content": "在那个热闹的下午之后",
+      "music": 0.0
+    },
+    {
+      "from": 443.19,
+      "to": 445.24,
+      "sid": 198,
+      "location": 2,
+      "content": "一切也都恢复了平静",
+      "music": 0.0
+    },
+    {
+      "from": 445.24,
+      "to": 448.23,
+      "sid": 199,
+      "location": 2,
+      "content": "也就再也没有记者到访这个小村了",
+      "music": 0.0
+    },
+    {
+      "from": 448.23,
+      "to": 449.59,
+      "sid": 200,
+      "location": 2,
+      "content": "不过据他所说",
+      "music": 0.0
+    },
+    {
+      "from": 449.59,
+      "to": 451.23,
+      "sid": 201,
+      "location": 2,
+      "content": "本地人大多不太反感",
+      "music": 0.0
+    },
+    {
+      "from": 451.23,
+      "to": 453.659,
+      "sid": 202,
+      "location": 2,
+      "content": "这些突然进人造访的外地记者",
+      "music": 0.0
+    },
+    {
+      "from": 453.659,
+      "to": 455.399,
+      "sid": 203,
+      "location": 2,
+      "content": "毕竟要不是这么个新闻",
+      "music": 0.0
+    },
+    {
+      "from": 455.399,
+      "to": 456.819,
+      "sid": 204,
+      "location": 2,
+      "content": "这么与世隔绝的地方",
+      "music": 0.0
+    },
+    {
+      "from": 456.819,
+      "to": 459.039,
+      "sid": 205,
+      "location": 2,
+      "content": "生活也是非常的一成不变",
+      "music": 0.0
+    },
+    {
+      "from": 459.039,
+      "to": 461.199,
+      "sid": 206,
+      "location": 2,
+      "content": "偶然有这么几个外地人的造访",
+      "music": 0.0
+    },
+    {
+      "from": 461.199,
+      "to": 463.799,
+      "sid": 207,
+      "location": 2,
+      "content": "倒是给大家的生活里面增添了一些乐趣",
+      "music": 0.0
+    },
+    {
+      "from": 463.799,
+      "to": 465.88,
+      "sid": 208,
+      "location": 2,
+      "content": "和茶余饭后的谈资",
+      "music": 0.0
+    },
+    {
+      "from": 465.88,
+      "to": 466.72,
+      "sid": 209,
+      "location": 2,
+      "content": "他跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 466.72,
+      "to": 467.96,
+      "sid": 210,
+      "location": 2,
+      "content": "他在跟别人聊天的时候",
+      "music": 0.0
+    },
+    {
+      "from": 467.96,
+      "to": 469.8,
+      "sid": 211,
+      "location": 2,
+      "content": "也提起过我这么个亚洲人",
+      "music": 0.0
+    },
+    {
+      "from": 469.8,
+      "to": 470.84,
+      "sid": 212,
+      "location": 2,
+      "content": "别人还跟他说",
+      "music": 0.0
+    },
+    {
+      "from": 470.84,
+      "to": 471.88,
+      "sid": 213,
+      "location": 2,
+      "content": "也见到过我",
+      "music": 0.0
+    },
+    {
+      "from": 471.88,
+      "to": 475.34,
+      "sid": 214,
+      "location": 2,
+      "content": "毕竟中国人在这一块可能算是稀有物种",
+      "music": 0.0
+    },
+    {
+      "from": 475.7,
+      "to": 478.52,
+      "sid": 215,
+      "location": 2,
+      "content": "虽然说比尤特是蒂姆沃尔兹的老家",
+      "music": 0.0
+    },
+    {
+      "from": 478.52,
+      "to": 481.34,
+      "sid": 216,
+      "location": 2,
+      "content": "村上的人或多或少也跟他有那么些关系",
+      "music": 0.0
+    },
+    {
+      "from": 481.34,
+      "to": 482.16,
+      "sid": 217,
+      "location": 2,
+      "content": "老奶奶说",
+      "music": 0.0
+    },
+    {
+      "from": 482.16,
+      "to": 484.12,
+      "sid": 218,
+      "location": 2,
+      "content": "大部分人也不会因为她是这边的人",
+      "music": 0.0
+    },
+    {
+      "from": 484.12,
+      "to": 485.92,
+      "sid": 219,
+      "location": 2,
+      "content": "来改变自己的投票选择",
+      "music": 0.0
+    },
+    {
+      "from": 485.92,
+      "to": 487.04,
+      "sid": 220,
+      "location": 2,
+      "content": "而是有一些诧异",
+      "music": 0.0
+    },
+    {
+      "from": 488.24,
+      "to": 491.3,
+      "sid": 221,
+      "location": 2,
+      "content": "居然选了一个他们的老乡做副总统的候选人",
+      "music": 0.0
+    },
+    {
+      "from": 491.3,
+      "to": 492.66,
+      "sid": 222,
+      "location": 2,
+      "content": "在短暂的兴奋之后",
+      "music": 0.0
+    },
+    {
+      "from": 492.66,
+      "to": 495.929,
+      "sid": 223,
+      "location": 2,
+      "content": "大家似乎还是更愿意坚持自己的原先选择",
+      "music": 0.0
+    },
+    {
+      "from": 495.929,
+      "to": 497.369,
+      "sid": 224,
+      "location": 2,
+      "content": "就像比尤特的小村",
+      "music": 0.0
+    },
+    {
+      "from": 497.369,
+      "to": 498.649,
+      "sid": 225,
+      "location": 2,
+      "content": "在短暂的热闹之后",
+      "music": 0.0
+    },
+    {
+      "from": 498.649,
+      "to": 500.35,
+      "sid": 226,
+      "location": 2,
+      "content": "又恢复了往日的寂静",
+      "music": 0.0
+    },
+    {
+      "from": 500.35,
+      "to": 501.39,
+      "sid": 227,
+      "location": 2,
+      "content": "不管怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 501.39,
+      "to": 502.87,
+      "sid": 228,
+      "location": 2,
+      "content": "我在这里两次停留",
+      "music": 0.0
+    },
+    {
+      "from": 502.87,
+      "to": 504.23,
+      "sid": 229,
+      "location": 2,
+      "content": "遇到的人都很不错",
+      "music": 0.0
+    },
+    {
+      "from": 504.23,
+      "to": 508.18,
+      "sid": 230,
+      "location": 2,
+      "content": "而且我还得以见到小村繁忙和安静的两种形态",
+      "music": 0.0
+    },
+    {
+      "from": 508.18,
+      "to": 510.3,
+      "sid": 231,
+      "location": 2,
+      "content": "不知道大家更喜欢哪一种呢",
+      "music": 0.0
+    }
+  ]
+}

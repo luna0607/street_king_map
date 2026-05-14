@@ -1,0 +1,1220 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.2,
+      "sid": 1,
+      "location": 2,
+      "content": "王爷这个食料不行",
+      "music": 0.0
+    },
+    {
+      "from": 1.2,
+      "to": 3.28,
+      "sid": 2,
+      "location": 2,
+      "content": "我就替他拍点素材了",
+      "music": 0.0
+    },
+    {
+      "from": 3.28,
+      "to": 5.84,
+      "sid": 3,
+      "location": 2,
+      "content": "这回来无锡是为了见一位朋友",
+      "music": 0.0
+    },
+    {
+      "from": 5.84,
+      "to": 8.149,
+      "sid": 4,
+      "location": 2,
+      "content": "我们做到倒数第二站",
+      "music": 0.0
+    },
+    {
+      "from": 8.149,
+      "to": 8.689,
+      "sid": 5,
+      "location": 2,
+      "content": "葛代桥",
+      "music": 0.0
+    },
+    {
+      "from": 8.689,
+      "to": 10.09,
+      "sid": 6,
+      "location": 2,
+      "content": "同样是一位博主",
+      "music": 0.0
+    },
+    {
+      "from": 10.09,
+      "to": 11.99,
+      "sid": 7,
+      "location": 2,
+      "content": "街头小小小霸王",
+      "music": 0.0
+    },
+    {
+      "from": 11.99,
+      "to": 13.17,
+      "sid": 8,
+      "location": 2,
+      "content": "虽说是头回见面",
+      "music": 0.0
+    },
+    {
+      "from": 13.17,
+      "to": 14.25,
+      "sid": 9,
+      "location": 2,
+      "content": "作为知名博主的",
+      "music": 0.0
+    },
+    {
+      "from": 16.6,
+      "to": 17.92,
+      "sid": 10,
+      "location": 2,
+      "content": "本来这个想给你喝的",
+      "music": 0.0
+    },
+    {
+      "from": 17.92,
+      "to": 18.66,
+      "sid": 11,
+      "location": 2,
+      "content": "你是大瓶呗",
+      "music": 0.0
+    },
+    {
+      "from": 19.48,
+      "to": 20.44,
+      "sid": 12,
+      "location": 2,
+      "content": "不是小瓶呗",
+      "music": 0.0
+    },
+    {
+      "from": 20.44,
+      "to": 21.45,
+      "sid": 13,
+      "location": 2,
+      "content": "隔代社区",
+      "music": 0.0
+    },
+    {
+      "from": 21.45,
+      "to": 24.61,
+      "sid": 14,
+      "location": 2,
+      "content": "距离无锡融创电动车5分钟左右的路程",
+      "music": 0.0
+    },
+    {
+      "from": 24.61,
+      "to": 25.93,
+      "sid": 15,
+      "location": 2,
+      "content": "一个看似落败",
+      "music": 0.0
+    },
+    {
+      "from": 25.93,
+      "to": 27.98,
+      "sid": 16,
+      "location": 2,
+      "content": "实则也已经落败的村落",
+      "music": 0.0
+    },
+    {
+      "from": 27.98,
+      "to": 29.76,
+      "sid": 17,
+      "location": 2,
+      "content": "处处透露着遗世独立",
+      "music": 0.0
+    },
+    {
+      "from": 29.76,
+      "to": 31.64,
+      "sid": 18,
+      "location": 2,
+      "content": "但立得不是很稳的气质",
+      "music": 0.0
+    },
+    {
+      "from": 31.64,
+      "to": 34.78,
+      "sid": 19,
+      "location": 2,
+      "content": "这个地方呢就是说出来玩玩挺好玩的",
+      "music": 0.0
+    },
+    {
+      "from": 34.78,
+      "to": 37.16,
+      "sid": 20,
+      "location": 2,
+      "content": "就是拍视频肯定得要你去吃一个店",
+      "music": 0.0
+    },
+    {
+      "from": 37.16,
+      "to": 37.92,
+      "sid": 21,
+      "location": 2,
+      "content": "好嗨啊",
+      "music": 0.0
+    },
+    {
+      "from": 37.92,
+      "to": 39.16,
+      "sid": 22,
+      "location": 2,
+      "content": "走在村路上",
+      "music": 0.0
+    },
+    {
+      "from": 39.16,
+      "to": 41.83,
+      "sid": 23,
+      "location": 2,
+      "content": "原汁原味的老建筑依稀可见",
+      "music": 0.0
+    },
+    {
+      "from": 41.83,
+      "to": 43.05,
+      "sid": 24,
+      "location": 2,
+      "content": "昔日的老街风貌",
+      "music": 0.0
+    },
+    {
+      "from": 43.05,
+      "to": 44.51,
+      "sid": 25,
+      "location": 2,
+      "content": "在最鼎盛时期",
+      "music": 0.0
+    },
+    {
+      "from": 44.51,
+      "to": 47.13,
+      "sid": 26,
+      "location": 2,
+      "content": "葛代社区有着南街和北街的划分",
+      "music": 0.0
+    },
+    {
+      "from": 47.13,
+      "to": 48.61,
+      "sid": 27,
+      "location": 2,
+      "content": "南街已经湮灭",
+      "music": 0.0
+    },
+    {
+      "from": 48.61,
+      "to": 52.43,
+      "sid": 28,
+      "location": 2,
+      "content": "现如今仅存的北街更多的像是一幅褪色的画卷",
+      "music": 0.0
+    },
+    {
+      "from": 52.43,
+      "to": 54.11,
+      "sid": 29,
+      "location": 2,
+      "content": "实际也少有人烟",
+      "music": 0.0
+    },
+    {
+      "from": 54.11,
+      "to": 55.79,
+      "sid": 30,
+      "location": 2,
+      "content": "老房子明显没有人住啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.79,
+      "to": 58.49,
+      "sid": 31,
+      "location": 2,
+      "content": "啊对我发现就这种废墟啊",
+      "music": 0.0
+    },
+    {
+      "from": 58.49,
+      "to": 60.51,
+      "sid": 32,
+      "location": 2,
+      "content": "还有那种废弃的工地",
+      "music": 0.0
+    },
+    {
+      "from": 60.51,
+      "to": 62.99,
+      "sid": 33,
+      "location": 2,
+      "content": "总是有大爷大妈可以找到地方种菜",
+      "music": 0.0
+    },
+    {
+      "from": 63.99,
+      "to": 66.09,
+      "sid": 34,
+      "location": 2,
+      "content": "这我奶奶看到了欣喜若狂啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.09,
+      "to": 67.79,
+      "sid": 35,
+      "location": 2,
+      "content": "这个地方真的是被合理利用了",
+      "music": 0.0
+    },
+    {
+      "from": 67.79,
+      "to": 68.61,
+      "sid": 36,
+      "location": 2,
+      "content": "全是种的菜",
+      "music": 0.0
+    },
+    {
+      "from": 68.61,
+      "to": 69.94,
+      "sid": 37,
+      "location": 2,
+      "content": "甚至还可以晒东西",
+      "music": 0.0
+    },
+    {
+      "from": 69.94,
+      "to": 71.52,
+      "sid": 38,
+      "location": 2,
+      "content": "菜种的人多了",
+      "music": 0.0
+    },
+    {
+      "from": 71.52,
+      "to": 73.02,
+      "sid": 39,
+      "location": 2,
+      "content": "有空地就种上菜",
+      "music": 0.0
+    },
+    {
+      "from": 73.02,
+      "to": 74.44,
+      "sid": 40,
+      "location": 2,
+      "content": "这个地方也没有水",
+      "music": 0.0
+    },
+    {
+      "from": 74.44,
+      "to": 74.98,
+      "sid": 41,
+      "location": 2,
+      "content": "没有电",
+      "music": 0.0
+    },
+    {
+      "from": 74.98,
+      "to": 75.74,
+      "sid": 42,
+      "location": 2,
+      "content": "怎么过啊",
+      "music": 0.0
+    },
+    {
+      "from": 75.74,
+      "to": 76.74,
+      "sid": 43,
+      "location": 2,
+      "content": "那我看他们养兔子",
+      "music": 0.0
+    },
+    {
+      "from": 76.74,
+      "to": 78.44,
+      "sid": 44,
+      "location": 2,
+      "content": "什么是你养的是吧是啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.44,
+      "to": 79.18,
+      "sid": 45,
+      "location": 2,
+      "content": "找了一下",
+      "music": 0.0
+    },
+    {
+      "from": 79.18,
+      "to": 80.12,
+      "sid": 46,
+      "location": 2,
+      "content": "马上走",
+      "music": 0.0
+    },
+    {
+      "from": 80.12,
+      "to": 83.3,
+      "sid": 47,
+      "location": 2,
+      "content": "等一下我要守门的",
+      "music": 0.0
+    },
+    {
+      "from": 84.88,
+      "to": 87.32,
+      "sid": 48,
+      "location": 2,
+      "content": "最那边就是无锡有名的大茶壶",
+      "music": 0.0
+    },
+    {
+      "from": 87.32,
+      "to": 87.92,
+      "sid": 49,
+      "location": 2,
+      "content": "大茶壶",
+      "music": 0.0
+    },
+    {
+      "from": 87.92,
+      "to": 90.16,
+      "sid": 50,
+      "location": 2,
+      "content": "你知道其实有一个不太好的寓意吧",
+      "music": 0.0
+    },
+    {
+      "from": 90.16,
+      "to": 91.53,
+      "sid": 51,
+      "location": 2,
+      "content": "楼串貌",
+      "music": 0.0
+    },
+    {
+      "from": 91.53,
+      "to": 94.33,
+      "sid": 52,
+      "location": 2,
+      "content": "然后这个融创乐园雪浪山",
+      "music": 0.0
+    },
+    {
+      "from": 94.33,
+      "to": 96.01,
+      "sid": 53,
+      "location": 2,
+      "content": "我印象中这个旁边有个标",
+      "music": 0.0
+    },
+    {
+      "from": 96.01,
+      "to": 98.36,
+      "sid": 54,
+      "location": 2,
+      "content": "我已经看到了历史建筑奥尔良仓",
+      "music": 0.0
+    },
+    {
+      "from": 98.36,
+      "to": 99.68,
+      "sid": 55,
+      "location": 2,
+      "content": "我查了下资料啊",
+      "music": 0.0
+    },
+    {
+      "from": 99.68,
+      "to": 102.92,
+      "sid": 56,
+      "location": 2,
+      "content": "据说1938~1939年抗战期间",
+      "music": 0.0
+    },
+    {
+      "from": 102.92,
+      "to": 105.96,
+      "sid": 57,
+      "location": 2,
+      "content": "葛代桥155号陆续开设两家杂货铺",
+      "music": 0.0
+    },
+    {
+      "from": 108.7,
+      "to": 111.08,
+      "sid": 58,
+      "location": 2,
+      "content": "为其提供掩护和居所呃",
+      "music": 0.0
+    },
+    {
+      "from": 111.08,
+      "to": 112.24,
+      "sid": 59,
+      "location": 2,
+      "content": "拿个冰红茶吧",
+      "music": 0.0
+    },
+    {
+      "from": 112.24,
+      "to": 113.16,
+      "sid": 60,
+      "location": 2,
+      "content": "四块是吧",
+      "music": 0.0
+    },
+    {
+      "from": 113.16,
+      "to": 114.86,
+      "sid": 61,
+      "location": 2,
+      "content": "废弃的葛代粮仓",
+      "music": 0.0
+    },
+    {
+      "from": 114.86,
+      "to": 116.38,
+      "sid": 62,
+      "location": 2,
+      "content": "遍布标语的墙体",
+      "music": 0.0
+    },
+    {
+      "from": 116.38,
+      "to": 119.96,
+      "sid": 63,
+      "location": 2,
+      "content": "都透露出他后续发展曾经有过的讯问啊",
+      "music": 0.0
+    },
+    {
+      "from": 119.96,
+      "to": 121.18,
+      "sid": 64,
+      "location": 2,
+      "content": "这个稻草人还挺萌的",
+      "music": 0.0
+    },
+    {
+      "from": 121.18,
+      "to": 122.36,
+      "sid": 65,
+      "location": 2,
+      "content": "姿势有点销魂啊",
+      "music": 0.0
+    },
+    {
+      "from": 122.36,
+      "to": 124.5,
+      "sid": 66,
+      "location": 2,
+      "content": "哎你怎么天天就是这种联想",
+      "music": 0.0
+    },
+    {
+      "from": 124.5,
+      "to": 127.12,
+      "sid": 67,
+      "location": 2,
+      "content": "虽然对外宣称是文化古村",
+      "music": 0.0
+    },
+    {
+      "from": 127.12,
+      "to": 129.84,
+      "sid": 68,
+      "location": 2,
+      "content": "很明显并不能适应当下的快餐文化",
+      "music": 0.0
+    },
+    {
+      "from": 129.84,
+      "to": 131.72,
+      "sid": 69,
+      "location": 2,
+      "content": "这边甚至还有一辆青桔单车",
+      "music": 0.0
+    },
+    {
+      "from": 131.72,
+      "to": 133.2,
+      "sid": 70,
+      "location": 2,
+      "content": "但逛了这么一大圈",
+      "music": 0.0
+    },
+    {
+      "from": 133.2,
+      "to": 135.98,
+      "sid": 71,
+      "location": 2,
+      "content": "我俩却得去吃份快餐填填肚子",
+      "music": 0.0
+    },
+    {
+      "from": 135.98,
+      "to": 139.08,
+      "sid": 72,
+      "location": 2,
+      "content": "这应该算是无锡最南边的快餐店了吧",
+      "music": 0.0
+    },
+    {
+      "from": 139.08,
+      "to": 142.48,
+      "sid": 73,
+      "location": 2,
+      "content": "这就给人一种宁静的午后的小镇的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 142.48,
+      "to": 144.67,
+      "sid": 74,
+      "location": 2,
+      "content": "距离高速收费站一步之遥",
+      "music": 0.0
+    },
+    {
+      "from": 144.67,
+      "to": 147.07,
+      "sid": 75,
+      "location": 2,
+      "content": "60~120平1~2个小时了",
+      "music": 0.0
+    },
+    {
+      "from": 147.07,
+      "to": 147.71,
+      "sid": 76,
+      "location": 2,
+      "content": "太偏了",
+      "music": 0.0
+    },
+    {
+      "from": 147.71,
+      "to": 150.959,
+      "sid": 77,
+      "location": 2,
+      "content": "紧邻的两家很明显是自家房子做的",
+      "music": 0.0
+    },
+    {
+      "from": 150.959,
+      "to": 153.959,
+      "sid": 78,
+      "location": 2,
+      "content": "都是附近工人以及大车司机的生意大哥",
+      "music": 0.0
+    },
+    {
+      "from": 153.959,
+      "to": 155.259,
+      "sid": 79,
+      "location": 2,
+      "content": "这快餐怎么卖的啊",
+      "music": 0.0
+    },
+    {
+      "from": 155.259,
+      "to": 157.439,
+      "sid": 80,
+      "location": 2,
+      "content": "15块15块有几荤几素的",
+      "music": 0.0
+    },
+    {
+      "from": 157.439,
+      "to": 159.01,
+      "sid": 81,
+      "location": 2,
+      "content": "两荤你素你随便拿啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.01,
+      "to": 159.85,
+      "sid": 82,
+      "location": 2,
+      "content": "素随便拿自己拿",
+      "music": 0.0
+    },
+    {
+      "from": 159.85,
+      "to": 160.85,
+      "sid": 83,
+      "location": 2,
+      "content": "你直接好好好好好",
+      "music": 0.0
+    },
+    {
+      "from": 160.85,
+      "to": 162.09,
+      "sid": 84,
+      "location": 2,
+      "content": "你自己拿夹个大肉吧",
+      "music": 0.0
+    },
+    {
+      "from": 162.09,
+      "to": 163.07,
+      "sid": 85,
+      "location": 2,
+      "content": "弄个面筋好了吧",
+      "music": 0.0
+    },
+    {
+      "from": 163.07,
+      "to": 164.13,
+      "sid": 86,
+      "location": 2,
+      "content": "蔬菜的话",
+      "music": 0.0
+    },
+    {
+      "from": 164.13,
+      "to": 164.73,
+      "sid": 87,
+      "location": 2,
+      "content": "除了豆芽",
+      "music": 0.0
+    },
+    {
+      "from": 164.73,
+      "to": 166.07,
+      "sid": 88,
+      "location": 2,
+      "content": "别的稍微都给我打一点吧",
+      "music": 0.0
+    },
+    {
+      "from": 166.07,
+      "to": 167.23,
+      "sid": 89,
+      "location": 2,
+      "content": "来吃饭的人还挺多啊",
+      "music": 0.0
+    },
+    {
+      "from": 167.23,
+      "to": 167.91,
+      "sid": 90,
+      "location": 2,
+      "content": "生意挺好",
+      "music": 0.0
+    },
+    {
+      "from": 167.91,
+      "to": 169.6,
+      "sid": 91,
+      "location": 2,
+      "content": "可可能不能给我稍微打晕",
+      "music": 0.0
+    },
+    {
+      "from": 169.6,
+      "to": 170.24,
+      "sid": 92,
+      "location": 2,
+      "content": "这个肉汤啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.24,
+      "to": 171.0,
+      "sid": 93,
+      "location": 2,
+      "content": "嗯好好好好",
+      "music": 0.0
+    },
+    {
+      "from": 171.0,
+      "to": 171.87,
+      "sid": 94,
+      "location": 2,
+      "content": "谢谢谢谢",
+      "music": 0.0
+    },
+    {
+      "from": 171.87,
+      "to": 172.91,
+      "sid": 95,
+      "location": 2,
+      "content": "怎么凤龙物啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.91,
+      "to": 173.43,
+      "sid": 96,
+      "location": 2,
+      "content": "你的帽子",
+      "music": 0.0
+    },
+    {
+      "from": 173.43,
+      "to": 174.37,
+      "sid": 97,
+      "location": 2,
+      "content": "我这个封地王",
+      "music": 0.0
+    },
+    {
+      "from": 174.37,
+      "to": 176.35,
+      "sid": 98,
+      "location": 2,
+      "content": "你你平时吃啥喝点水乱说",
+      "music": 0.0
+    },
+    {
+      "from": 176.35,
+      "to": 178.11,
+      "sid": 99,
+      "location": 2,
+      "content": "你知道就录你吃的有用的",
+      "music": 0.0
+    },
+    {
+      "from": 178.11,
+      "to": 179.209,
+      "sid": 100,
+      "location": 2,
+      "content": "稍微截一下",
+      "music": 0.0
+    },
+    {
+      "from": 179.209,
+      "to": 179.849,
+      "sid": 101,
+      "location": 2,
+      "content": "15块钱",
+      "music": 0.0
+    },
+    {
+      "from": 179.849,
+      "to": 181.089,
+      "sid": 102,
+      "location": 2,
+      "content": "这个量还不够吧",
+      "music": 0.0
+    },
+    {
+      "from": 181.089,
+      "to": 183.2,
+      "sid": 103,
+      "location": 2,
+      "content": "素菜就自助啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.2,
+      "to": 186.36,
+      "sid": 104,
+      "location": 2,
+      "content": "这个适合你给我饭量大的",
+      "music": 0.0
+    },
+    {
+      "from": 189.72,
+      "to": 191.8,
+      "sid": 105,
+      "location": 2,
+      "content": "公路边的盒饭其实都大差不差的",
+      "music": 0.0
+    },
+    {
+      "from": 191.8,
+      "to": 194.04,
+      "sid": 106,
+      "location": 2,
+      "content": "基本上无锡所有的牌餐厅都会有面筋塞肉",
+      "music": 0.0
+    },
+    {
+      "from": 194.04,
+      "to": 196.28,
+      "sid": 107,
+      "location": 2,
+      "content": "展示一下专业专业专业",
+      "music": 0.0
+    },
+    {
+      "from": 196.28,
+      "to": 198.62,
+      "sid": 108,
+      "location": 2,
+      "content": "我都没有跟美食博主认识",
+      "music": 0.0
+    },
+    {
+      "from": 199.809,
+      "to": 202.35,
+      "sid": 109,
+      "location": 2,
+      "content": "面筋塞肉的酒味好重一点点甜",
+      "music": 0.0
+    },
+    {
+      "from": 202.379,
+      "to": 203.83,
+      "sid": 110,
+      "location": 2,
+      "content": "像这个面筋塞肉",
+      "music": 0.0
+    },
+    {
+      "from": 203.83,
+      "to": 205.71,
+      "sid": 111,
+      "location": 2,
+      "content": "红烧肉还是有放一点糖",
+      "music": 0.0
+    },
+    {
+      "from": 205.71,
+      "to": 208.13,
+      "sid": 112,
+      "location": 2,
+      "content": "它这个大肉跟南京的大肉完全不是一个概念",
+      "music": 0.0
+    },
+    {
+      "from": 208.13,
+      "to": 211.05,
+      "sid": 113,
+      "location": 2,
+      "content": "大肉上沾着几颗晶莹剔透",
+      "music": 0.0
+    },
+    {
+      "from": 212.45,
+      "to": 213.49,
+      "sid": 114,
+      "location": 2,
+      "content": "你吃这么快啦",
+      "music": 0.0
+    },
+    {
+      "from": 213.49,
+      "to": 214.49,
+      "sid": 115,
+      "location": 2,
+      "content": "快吃完了我吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 214.49,
+      "to": 216.76,
+      "sid": 116,
+      "location": 2,
+      "content": "我吃饭很快",
+      "music": 0.0
+    },
+    {
+      "from": 225.32,
+      "to": 226.8,
+      "sid": 117,
+      "location": 2,
+      "content": "标准的公路盒饭",
+      "music": 0.0
+    },
+    {
+      "from": 226.8,
+      "to": 228.9,
+      "sid": 118,
+      "location": 2,
+      "content": "味道竟然相对偏清淡",
+      "music": 0.0
+    },
+    {
+      "from": 228.9,
+      "to": 229.56,
+      "sid": 119,
+      "location": 2,
+      "content": "这属实",
+      "music": 0.0
+    },
+    {
+      "from": 229.56,
+      "to": 231.87,
+      "sid": 120,
+      "location": 2,
+      "content": "很难得在外面吃快餐啊",
+      "music": 0.0
+    },
+    {
+      "from": 231.87,
+      "to": 233.99,
+      "sid": 121,
+      "location": 2,
+      "content": "口感口味不必过分苛求",
+      "music": 0.0
+    },
+    {
+      "from": 233.99,
+      "to": 237.39,
+      "sid": 122,
+      "location": 2,
+      "content": "但必须要弄得干干净净才有胃口",
+      "music": 0.0
+    },
+    {
+      "from": 241.26,
+      "to": 242.54,
+      "sid": 123,
+      "location": 2,
+      "content": "再去拿两个菜吃",
+      "music": 0.0
+    },
+    {
+      "from": 242.54,
+      "to": 244.34,
+      "sid": 124,
+      "location": 2,
+      "content": "看来你是真的食量不大",
+      "music": 0.0
+    },
+    {
+      "from": 244.34,
+      "to": 245.7,
+      "sid": 125,
+      "location": 2,
+      "content": "为了给你多点素菜",
+      "music": 0.0
+    },
+    {
+      "from": 245.7,
+      "to": 247.86,
+      "sid": 126,
+      "location": 2,
+      "content": "小霸王的饭量一个抵我两个",
+      "music": 0.0
+    },
+    {
+      "from": 247.86,
+      "to": 249.94,
+      "sid": 127,
+      "location": 2,
+      "content": "真不知道该说是我胃口变差了",
+      "music": 0.0
+    },
+    {
+      "from": 249.94,
+      "to": 251.25,
+      "sid": 128,
+      "location": 2,
+      "content": "还是他的胃口太好",
+      "music": 0.0
+    },
+    {
+      "from": 251.25,
+      "to": 253.23,
+      "sid": 129,
+      "location": 2,
+      "content": "所以在条件允许的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 253.23,
+      "to": 256.91,
+      "sid": 130,
+      "location": 2,
+      "content": "我们又去吃了隔壁的同样15元两荤的快餐",
+      "music": 0.0
+    },
+    {
+      "from": 256.91,
+      "to": 258.14,
+      "sid": 131,
+      "location": 2,
+      "content": "这个地方太偏了",
+      "music": 0.0
+    },
+    {
+      "from": 258.14,
+      "to": 259.86,
+      "sid": 132,
+      "location": 2,
+      "content": "电动车回去估计要没电了",
+      "music": 0.0
+    },
+    {
+      "from": 259.86,
+      "to": 260.82,
+      "sid": 133,
+      "location": 2,
+      "content": "反正这里等等吧",
+      "music": 0.0
+    },
+    {
+      "from": 260.82,
+      "to": 262.98,
+      "sid": 134,
+      "location": 2,
+      "content": "顺便看看隔壁家宝眼这个食量不行",
+      "music": 0.0
+    },
+    {
+      "from": 262.98,
+      "to": 264.82,
+      "sid": 135,
+      "location": 2,
+      "content": "我看看红衣好吃还是绿尾好吃",
+      "music": 0.0
+    },
+    {
+      "from": 264.82,
+      "to": 265.92,
+      "sid": 136,
+      "location": 2,
+      "content": "多加了个辣子鸡",
+      "music": 0.0
+    },
+    {
+      "from": 265.92,
+      "to": 266.98,
+      "sid": 137,
+      "location": 2,
+      "content": "一共17元",
+      "music": 0.0
+    },
+    {
+      "from": 266.98,
+      "to": 270.1,
+      "sid": 138,
+      "location": 2,
+      "content": "你们别说就色泽上确实要强于第一家",
+      "music": 0.0
+    },
+    {
+      "from": 270.1,
+      "to": 271.929,
+      "sid": 139,
+      "location": 2,
+      "content": "甚至还是鸭血糖",
+      "music": 0.0
+    },
+    {
+      "from": 271.929,
+      "to": 274.229,
+      "sid": 140,
+      "location": 2,
+      "content": "所以货比三家还是很有必要的",
+      "music": 0.0
+    },
+    {
+      "from": 274.229,
+      "to": 276.86,
+      "sid": 141,
+      "location": 2,
+      "content": "用一顿快餐结束半天的行程",
+      "music": 0.0
+    },
+    {
+      "from": 276.86,
+      "to": 278.58,
+      "sid": 142,
+      "location": 2,
+      "content": "也算是不忘初心了吧",
+      "music": 0.0
+    },
+    {
+      "from": 278.58,
+      "to": 280.38,
+      "sid": 143,
+      "location": 2,
+      "content": "15块钱谈不上性价比",
+      "music": 0.0
+    },
+    {
+      "from": 280.38,
+      "to": 282.78,
+      "sid": 144,
+      "location": 2,
+      "content": "但这么偏的地方吃上一口热乎饭属实",
+      "music": 0.0
+    },
+    {
+      "from": 282.78,
+      "to": 284.18,
+      "sid": 145,
+      "location": 2,
+      "content": "不容易",
+      "music": 0.0
+    },
+    {
+      "from": 284.53,
+      "to": 285.53,
+      "sid": 146,
+      "location": 2,
+      "content": "吃饱喝足",
+      "music": 0.0
+    },
+    {
+      "from": 285.53,
+      "to": 287.83,
+      "sid": 147,
+      "location": 2,
+      "content": "下午准备去融创转转拍点素材",
+      "music": 0.0
+    },
+    {
+      "from": 287.83,
+      "to": 289.21,
+      "sid": 148,
+      "location": 2,
+      "content": "不知道能不能用得上",
+      "music": 0.0
+    },
+    {
+      "from": 289.21,
+      "to": 291.99,
+      "sid": 149,
+      "location": 2,
+      "content": "但还是祝各位朋友们晚上吃好喝好",
+      "music": 0.0
+    },
+    {
+      "from": 291.99,
+      "to": 293.1,
+      "sid": 150,
+      "location": 2,
+      "content": "用餐愉快",
+      "music": 0.0
+    },
+    {
+      "from": 293.1,
+      "to": 295.86,
+      "sid": 151,
+      "location": 2,
+      "content": "你无锡人奖励金赛睿是专业的吗",
+      "music": 0.0
+    }
+  ]
+}

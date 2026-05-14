@@ -1,0 +1,2819 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-index2.5",
+  "body": [
+    {
+      "from": 0.5,
+      "to": 1.78,
+      "sid": 1,
+      "location": 2,
+      "content": "他在台上大便"
+    },
+    {
+      "from": 1.78,
+      "to": 3.18,
+      "sid": 2,
+      "location": 2,
+      "content": "显然不适合"
+    },
+    {
+      "from": 3.18,
+      "to": 4.58,
+      "sid": 3,
+      "location": 2,
+      "content": "显然精神上不适合"
+    },
+    {
+      "from": 4.58,
+      "to": 6.94,
+      "sid": 4,
+      "location": 2,
+      "content": "至少那个笑话得给她"
+    },
+    {
+      "from": 6.94,
+      "to": 7.92,
+      "sid": 5,
+      "location": 2,
+      "content": "所以我得到了巡演"
+    },
+    {
+      "from": 7.92,
+      "to": 8.26,
+      "sid": 6,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 8.26,
+      "to": 8.98,
+      "sid": 7,
+      "location": 2,
+      "content": "我直接去那里"
+    },
+    {
+      "from": 8.98,
+      "to": 11.16,
+      "sid": 8,
+      "location": 2,
+      "content": "Saaria现在不喜欢了"
+    },
+    {
+      "from": 11.16,
+      "to": 14.05,
+      "sid": 9,
+      "location": 2,
+      "content": "我会说在二零二二年"
+    },
+    {
+      "from": 14.41,
+      "to": 14.85,
+      "sid": 10,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 14.85,
+      "to": 18.13,
+      "sid": 11,
+      "location": 2,
+      "content": "我在看汽油价格和杂货"
+    },
+    {
+      "from": 18.13,
+      "to": 20.89,
+      "sid": 12,
+      "location": 2,
+      "content": "你知道所有这些事情和发送"
+    },
+    {
+      "from": 21.56,
+      "to": 22.3,
+      "sid": 13,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 22.3,
+      "to": 24.4,
+      "sid": 14,
+      "location": 2,
+      "content": "给乌克兰多少钱"
+    },
+    {
+      "from": 24.4,
+      "to": 25.56,
+      "sid": 15,
+      "location": 2,
+      "content": "很多钱"
+    },
+    {
+      "from": 26.8,
+      "to": 27.16,
+      "sid": 16,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 27.16,
+      "to": 30.12,
+      "sid": 17,
+      "location": 2,
+      "content": "你知道我们已经在负债"
+    },
+    {
+      "from": 30.48,
+      "to": 31.64,
+      "sid": 18,
+      "location": 2,
+      "content": "就像"
+    },
+    {
+      "from": 31.64,
+      "to": 33.36,
+      "sid": 19,
+      "location": 2,
+      "content": "我认为是三兆"
+    },
+    {
+      "from": 33.36,
+      "to": 35.14,
+      "sid": 20,
+      "location": 2,
+      "content": "可能比那还多负债"
+    },
+    {
+      "from": 35.14,
+      "to": 36.04,
+      "sid": 21,
+      "location": 2,
+      "content": "就像"
+    },
+    {
+      "from": 36.04,
+      "to": 38.96,
+      "sid": 22,
+      "location": 2,
+      "content": "我们为什么一直把钱给其他国家"
+    },
+    {
+      "from": 38.96,
+      "to": 39.64,
+      "sid": 23,
+      "location": 2,
+      "content": "我明白"
+    },
+    {
+      "from": 39.64,
+      "to": 40.8,
+      "sid": 24,
+      "location": 2,
+      "content": "你知道你想帮忙"
+    },
+    {
+      "from": 40.8,
+      "to": 42.88,
+      "sid": 25,
+      "location": 2,
+      "content": "但我们需要先帮助自己"
+    },
+    {
+      "from": 42.88,
+      "to": 43.36,
+      "sid": 26,
+      "location": 2,
+      "content": "还有什么"
+    },
+    {
+      "from": 43.36,
+      "to": 43.7,
+      "sid": 27,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 43.7,
+      "to": 45.14,
+      "sid": 28,
+      "location": 2,
+      "content": "经济"
+    },
+    {
+      "from": 49.76,
+      "to": 52.56,
+      "sid": 29,
+      "location": 2,
+      "content": "我现在想不出更多具体的东西"
+    },
+    {
+      "from": 52.56,
+      "to": 53.94,
+      "sid": 30,
+      "location": 2,
+      "content": "特别是好的"
+    },
+    {
+      "from": 53.94,
+      "to": 56.28,
+      "sid": 31,
+      "location": 2,
+      "content": "如果没有能力为你"
+    },
+    {
+      "from": 56.28,
+      "to": 57.72,
+      "sid": 32,
+      "location": 2,
+      "content": "你反对乔"
+    },
+    {
+      "from": 57.72,
+      "to": 60.82,
+      "sid": 33,
+      "location": 2,
+      "content": "但你可能不是很多非裔美国人"
+    },
+    {
+      "from": 60.82,
+      "to": 61.36,
+      "sid": 34,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 61.36,
+      "to": 62.68,
+      "sid": 35,
+      "location": 2,
+      "content": "人们相信"
+    },
+    {
+      "from": 62.68,
+      "to": 64.66,
+      "sid": 36,
+      "location": 2,
+      "content": "或者如果我们谈论黑人"
+    },
+    {
+      "from": 64.66,
+      "to": 65.12,
+      "sid": 37,
+      "location": 2,
+      "content": "具体来说"
+    },
+    {
+      "from": 66.44,
+      "to": 68.98,
+      "sid": 38,
+      "location": 2,
+      "content": "很多人认为特朗普是种族主义者"
+    },
+    {
+      "from": 68.98,
+      "to": 70.68,
+      "sid": 39,
+      "location": 2,
+      "content": "所以他们宁愿投票给乔"
+    },
+    {
+      "from": 70.68,
+      "to": 71.92,
+      "sid": 40,
+      "location": 2,
+      "content": "拜登而不是特朗普"
+    },
+    {
+      "from": 71.92,
+      "to": 75.149,
+      "sid": 41,
+      "location": 2,
+      "content": "但就像它已经被证明很多次"
+    },
+    {
+      "from": 75.149,
+      "to": 76.789,
+      "sid": 42,
+      "location": 2,
+      "content": "特朗普不是一个种族主义者"
+    },
+    {
+      "from": 76.789,
+      "to": 78.729,
+      "sid": 43,
+      "location": 2,
+      "content": "你知道他们实际上采取"
+    },
+    {
+      "from": 78.729,
+      "to": 81.849,
+      "sid": 44,
+      "location": 2,
+      "content": "如果你想更具体"
+    },
+    {
+      "from": 82.45,
+      "to": 84.39,
+      "sid": 45,
+      "location": 2,
+      "content": "当人们引用特朗普的话"
+    },
+    {
+      "from": 84.39,
+      "to": 85.01,
+      "sid": 46,
+      "location": 2,
+      "content": "哦我的天"
+    },
+    {
+      "from": 85.01,
+      "to": 85.33,
+      "sid": 47,
+      "location": 2,
+      "content": "抱歉"
+    },
+    {
+      "from": 85.33,
+      "to": 88.23,
+      "sid": 48,
+      "location": 2,
+      "content": "当人们引用特朗普的话"
+    },
+    {
+      "from": 89.03,
+      "to": 91.03,
+      "sid": 49,
+      "location": 2,
+      "content": "当人们引用种族主义的话"
+    },
+    {
+      "from": 91.03,
+      "to": 94.08,
+      "sid": 50,
+      "location": 2,
+      "content": "特朗普说过他们嗯"
+    },
+    {
+      "from": 94.68,
+      "to": 97.86,
+      "sid": 51,
+      "location": 2,
+      "content": "就像他实际说的剪辑"
+    },
+    {
+      "from": 97.86,
+      "to": 99.86,
+      "sid": 52,
+      "location": 2,
+      "content": "他会说类似的话"
+    },
+    {
+      "from": 99.86,
+      "to": 103.26,
+      "sid": 53,
+      "location": 2,
+      "content": "他不希望墨西哥人越境"
+    },
+    {
+      "from": 103.26,
+      "to": 103.78,
+      "sid": 54,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 103.78,
+      "to": 104.5,
+      "sid": 55,
+      "location": 2,
+      "content": "住在这里"
+    },
+    {
+      "from": 104.5,
+      "to": 105.61,
+      "sid": 56,
+      "location": 2,
+      "content": "诸如此类"
+    },
+    {
+      "from": 105.61,
+      "to": 107.81,
+      "sid": 57,
+      "location": 2,
+      "content": "他实际说过的话"
+    },
+    {
+      "from": 110.73,
+      "to": 113.01,
+      "sid": 58,
+      "location": 2,
+      "content": "你知道之类"
+    },
+    {
+      "from": 113.01,
+      "to": 115.0,
+      "sid": 59,
+      "location": 2,
+      "content": "杀人的人"
+    },
+    {
+      "from": 115.0,
+      "to": 116.669,
+      "sid": 60,
+      "location": 2,
+      "content": "实际上几个月前"
+    },
+    {
+      "from": 116.669,
+      "to": 119.129,
+      "sid": 61,
+      "location": 2,
+      "content": "其中一个杀了一个年轻女大学生"
+    },
+    {
+      "from": 119.129,
+      "to": 121.069,
+      "sid": 62,
+      "location": 2,
+      "content": "她是佐治亚州的护士学生"
+    },
+    {
+      "from": 121.069,
+      "to": 121.669,
+      "sid": 63,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 121.669,
+      "to": 123.57,
+      "sid": 64,
+      "location": 2,
+      "content": "我记不起城市名"
+    },
+    {
+      "from": 123.57,
+      "to": 126.83,
+      "sid": 65,
+      "location": 2,
+      "content": "都在佐治亚州北部"
+    },
+    {
+      "from": 127.15,
+      "to": 129.61,
+      "sid": 66,
+      "location": 2,
+      "content": "自乔·拜登总统上任以来"
+    },
+    {
+      "from": 129.61,
+      "to": 132.86,
+      "sid": 67,
+      "location": 2,
+      "content": "超过800万人越境"
+    },
+    {
+      "from": 132.86,
+      "to": 135.16,
+      "sid": 68,
+      "location": 2,
+      "content": "抱歉"
+    },
+    {
+      "from": 135.16,
+      "to": 135.99,
+      "sid": 69,
+      "location": 2,
+      "content": "但只看到三四个非法杀人案例"
+    },
+    {
+      "from": 135.99,
+      "to": 140.91,
+      "sid": 70,
+      "location": 2,
+      "content": "你认为这个比例有点低吗"
+    },
+    {
+      "from": 140.91,
+      "to": 143.43,
+      "sid": 71,
+      "location": 2,
+      "content": "实际上是的"
+    },
+    {
+      "from": 143.43,
+      "to": 145.03,
+      "sid": 72,
+      "location": 2,
+      "content": "你认为呢"
+    },
+    {
+      "from": 147.65,
+      "to": 148.83,
+      "sid": 73,
+      "location": 2,
+      "content": "他们看到非法杀人"
+    },
+    {
+      "from": 148.83,
+      "to": 150.33,
+      "sid": 74,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 150.33,
+      "to": 150.75,
+      "sid": 75,
+      "location": 2,
+      "content": "可能成为新闻"
+    },
+    {
+      "from": 150.75,
+      "to": 151.89,
+      "sid": 76,
+      "location": 2,
+      "content": "你可能只看到三四个案例"
+    },
+    {
+      "from": 153.05,
+      "to": 155.41,
+      "sid": 77,
+      "location": 2,
+      "content": "你认为呢"
+    },
+    {
+      "from": 155.41,
+      "to": 156.31,
+      "sid": 78,
+      "location": 2,
+      "content": "非法入境杀人的人数可能并不高"
+    },
+    {
+      "from": 156.31,
+      "to": 162.55,
+      "sid": 79,
+      "location": 2,
+      "content": "越境的人数肯定很高"
+    },
+    {
+      "from": 162.99,
+      "to": 168.079,
+      "sid": 80,
+      "location": 2,
+      "content": "但我不能同意你"
+    },
+    {
+      "from": 168.079,
+      "to": 170.119,
+      "sid": 81,
+      "location": 2,
+      "content": "我个人没看到那么多案例"
+    },
+    {
+      "from": 170.119,
+      "to": 172.399,
+      "sid": 82,
+      "location": 2,
+      "content": "可能还有我们不知道的，你懂我意思吗"
+    },
+    {
+      "from": 173.439,
+      "to": 176.149,
+      "sid": 83,
+      "location": 2,
+      "content": "我感觉当你设计这个时"
+    },
+    {
+      "from": 176.149,
+      "to": 179.28,
+      "sid": 84,
+      "location": 2,
+      "content": "你有一个大乔"
+    },
+    {
+      "from": 179.28,
+      "to": 180.5,
+      "sid": 85,
+      "location": 2,
+      "content": "他们可能会说你支持乔"
+    },
+    {
+      "from": 180.5,
+      "to": 182.4,
+      "sid": 86,
+      "location": 2,
+      "content": "而不是你反对乔"
+    },
+    {
+      "from": 182.4,
+      "to": 183.86,
+      "sid": 87,
+      "location": 2,
+      "content": "他们就像乔·拜登"
+    },
+    {
+      "from": 183.86,
+      "to": 185.28,
+      "sid": 88,
+      "location": 2,
+      "content": "我是说耶"
+    },
+    {
+      "from": 185.28,
+      "to": 186.86,
+      "sid": 89,
+      "location": 2,
+      "content": "如果乔·拜登"
+    },
+    {
+      "from": 186.86,
+      "to": 187.82,
+      "sid": 90,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 187.82,
+      "to": 189.68,
+      "sid": 91,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 189.8,
+      "to": 190.32,
+      "sid": 92,
+      "location": 2,
+      "content": "你会"
+    },
+    {
+      "from": 190.32,
+      "to": 191.04,
+      "sid": 93,
+      "location": 2,
+      "content": "你会去比乔更大"
+    },
+    {
+      "from": 191.04,
+      "to": 193.92,
+      "sid": 94,
+      "location": 2,
+      "content": "他看起来穿着T恤"
+    },
+    {
+      "from": 193.92,
+      "to": 195.72,
+      "sid": 95,
+      "location": 2,
+      "content": "你是对的，好吧"
+    },
+    {
+      "from": 198.28,
+      "to": 202.08,
+      "sid": 96,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 202.08,
+      "to": 202.44,
+      "sid": 97,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 202.44,
+      "to": 203.56,
+      "sid": 98,
+      "location": 2,
+      "content": "他得到一个大乔"
+    },
+    {
+      "from": 203.56,
+      "to": 205.26,
+      "sid": 99,
+      "location": 2,
+      "content": "他们可能印象不佳"
+    },
+    {
+      "from": 205.26,
+      "to": 206.24,
+      "sid": 100,
+      "location": 2,
+      "content": "你支持乔"
+    },
+    {
+      "from": 206.24,
+      "to": 207.16,
+      "sid": 101,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 207.16,
+      "to": 208.41,
+      "sid": 102,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 208.41,
+      "to": 211.97,
+      "sid": 103,
+      "location": 2,
+      "content": "但问题在于人们不这样读"
+    },
+    {
+      "from": 211.97,
+      "to": 213.31,
+      "sid": 104,
+      "location": 2,
+      "content": "我们也得到了乔"
+    },
+    {
+      "from": 213.31,
+      "to": 214.79,
+      "sid": 105,
+      "location": 2,
+      "content": "得走向是的"
+    },
+    {
+      "from": 214.79,
+      "to": 216.25,
+      "sid": 106,
+      "location": 2,
+      "content": "那比脸还大"
+    },
+    {
+      "from": 216.25,
+      "to": 217.9,
+      "sid": 107,
+      "location": 2,
+      "content": "实际上是的"
+    },
+    {
+      "from": 217.9,
+      "to": 220.12,
+      "sid": 108,
+      "location": 2,
+      "content": "那你怎么没看见这个人"
+    },
+    {
+      "from": 220.12,
+      "to": 224.05,
+      "sid": 109,
+      "location": 2,
+      "content": "因为脸先吸引人的注意"
+    },
+    {
+      "from": 224.05,
+      "to": 226.03,
+      "sid": 110,
+      "location": 2,
+      "content": "你看到他的脸"
+    },
+    {
+      "from": 226.03,
+      "to": 228.51,
+      "sid": 111,
+      "location": 2,
+      "content": "你可能应该传达"
+    },
+    {
+      "from": 228.51,
+      "to": 229.59,
+      "sid": 112,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 229.59,
+      "to": 230.73,
+      "sid": 113,
+      "location": 2,
+      "content": "没有模块"
+    },
+    {
+      "from": 230.73,
+      "to": 231.33,
+      "sid": 114,
+      "location": 2,
+      "content": "你应该说"
+    },
+    {
+      "from": 232.65,
+      "to": 233.485,
+      "sid": 115,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 234.01,
+      "to": 236.27,
+      "sid": 116,
+      "location": 2,
+      "content": "你2016年投票了吗"
+    },
+    {
+      "from": 236.27,
+      "to": 237.27,
+      "sid": 117,
+      "location": 2,
+      "content": "你太年轻"
+    },
+    {
+      "from": 237.27,
+      "to": 237.53,
+      "sid": 118,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 237.53,
+      "to": 238.21,
+      "sid": 119,
+      "location": 2,
+      "content": "我太年轻"
+    },
+    {
+      "from": 238.21,
+      "to": 239.67,
+      "sid": 120,
+      "location": 2,
+      "content": "这将是我们第一年"
+    },
+    {
+      "from": 239.67,
+      "to": 240.21,
+      "sid": 121,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 240.21,
+      "to": 240.61,
+      "sid": 122,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 248.96,
+      "to": 252.4,
+      "sid": 123,
+      "location": 2,
+      "content": "所以我参加了这次巡演"
+    },
+    {
+      "from": 252.4,
+      "to": 254.96,
+      "sid": 124,
+      "location": 2,
+      "content": "有点像滑动问题"
+    },
+    {
+      "from": 254.96,
+      "to": 255.6,
+      "sid": 125,
+      "location": 2,
+      "content": "他们没有"
+    },
+    {
+      "from": 255.6,
+      "to": 256.2,
+      "sid": 126,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 256.2,
+      "to": 258.06,
+      "sid": 127,
+      "location": 2,
+      "content": "他们仍然支持我去巡演"
+    },
+    {
+      "from": 258.06,
+      "to": 258.56,
+      "sid": 128,
+      "location": 2,
+      "content": "另一个"
+    },
+    {
+      "from": 258.56,
+      "to": 259.929,
+      "sid": 129,
+      "location": 2,
+      "content": "但我们得到报酬了吗"
+    },
+    {
+      "from": 259.929,
+      "to": 260.489,
+      "sid": 130,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 260.489,
+      "to": 261.949,
+      "sid": 131,
+      "location": 2,
+      "content": "你知道我们走遍全国"
+    },
+    {
+      "from": 261.949,
+      "to": 264.689,
+      "sid": 132,
+      "location": 2,
+      "content": "我们已经走过了24个州"
+    },
+    {
+      "from": 264.689,
+      "to": 266.429,
+      "sid": 133,
+      "location": 2,
+      "content": "我试图在11月前达到40个"
+    },
+    {
+      "from": 266.429,
+      "to": 268.15,
+      "sid": 134,
+      "location": 2,
+      "content": "我试图传播到各地"
+    },
+    {
+      "from": 268.15,
+      "to": 270.57,
+      "sid": 135,
+      "location": 2,
+      "content": "但如果我作为亚洲人参加这次巡演"
+    },
+    {
+      "from": 270.57,
+      "to": 273.51,
+      "sid": 136,
+      "location": 2,
+      "content": "我可能看到很多红脖子"
+    },
+    {
+      "from": 273.51,
+      "to": 274.03,
+      "sid": 137,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 274.03,
+      "to": 274.55,
+      "sid": 138,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 274.55,
+      "to": 274.99,
+      "sid": 139,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 274.99,
+      "to": 276.3,
+      "sid": 140,
+      "location": 2,
+      "content": "我见过我的公平份额"
+    },
+    {
+      "from": 276.3,
+      "to": 277.4,
+      "sid": 141,
+      "location": 2,
+      "content": "我有"
+    },
+    {
+      "from": 277.4,
+      "to": 282.04,
+      "sid": 142,
+      "location": 2,
+      "content": "你知道有些人我甚至看到一个女士"
+    },
+    {
+      "from": 282.04,
+      "to": 282.4,
+      "sid": 143,
+      "location": 2,
+      "content": "实际上"
+    },
+    {
+      "from": 282.4,
+      "to": 283.82,
+      "sid": 144,
+      "location": 2,
+      "content": "她有南方联盟的旗帜"
+    },
+    {
+      "from": 0.5,
+      "to": 1.78,
+      "sid": 145,
+      "location": 2,
+      "content": "他在台上大便"
+    },
+    {
+      "from": 1.78,
+      "to": 3.18,
+      "sid": 146,
+      "location": 2,
+      "content": "显然不适合"
+    },
+    {
+      "from": 3.18,
+      "to": 4.58,
+      "sid": 147,
+      "location": 2,
+      "content": "显然精神上不适合"
+    },
+    {
+      "from": 4.58,
+      "to": 6.94,
+      "sid": 148,
+      "location": 2,
+      "content": "至少那个笑话得给她"
+    },
+    {
+      "from": 6.94,
+      "to": 7.92,
+      "sid": 149,
+      "location": 2,
+      "content": "所以我得到了巡演"
+    },
+    {
+      "from": 7.92,
+      "to": 8.26,
+      "sid": 150,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 8.26,
+      "to": 8.98,
+      "sid": 151,
+      "location": 2,
+      "content": "我直接去那里"
+    },
+    {
+      "from": 8.98,
+      "to": 11.16,
+      "sid": 152,
+      "location": 2,
+      "content": "Saaria现在不喜欢了"
+    },
+    {
+      "from": 11.16,
+      "to": 14.05,
+      "sid": 153,
+      "location": 2,
+      "content": "我会说在二零二二年"
+    },
+    {
+      "from": 14.41,
+      "to": 14.85,
+      "sid": 154,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 14.85,
+      "to": 18.13,
+      "sid": 155,
+      "location": 2,
+      "content": "我在看汽油价格和杂货"
+    },
+    {
+      "from": 18.13,
+      "to": 20.89,
+      "sid": 156,
+      "location": 2,
+      "content": "你知道所有这些事情和发送"
+    },
+    {
+      "from": 21.56,
+      "to": 22.3,
+      "sid": 157,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 22.3,
+      "to": 24.4,
+      "sid": 158,
+      "location": 2,
+      "content": "给乌克兰多少钱"
+    },
+    {
+      "from": 24.4,
+      "to": 25.56,
+      "sid": 159,
+      "location": 2,
+      "content": "很多钱"
+    },
+    {
+      "from": 26.8,
+      "to": 27.16,
+      "sid": 160,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 27.16,
+      "to": 30.12,
+      "sid": 161,
+      "location": 2,
+      "content": "你知道我们已经在负债"
+    },
+    {
+      "from": 30.48,
+      "to": 31.64,
+      "sid": 162,
+      "location": 2,
+      "content": "就像"
+    },
+    {
+      "from": 31.64,
+      "to": 33.36,
+      "sid": 163,
+      "location": 2,
+      "content": "我认为是三兆"
+    },
+    {
+      "from": 33.36,
+      "to": 35.14,
+      "sid": 164,
+      "location": 2,
+      "content": "可能比那还多负债"
+    },
+    {
+      "from": 35.14,
+      "to": 36.04,
+      "sid": 165,
+      "location": 2,
+      "content": "就像"
+    },
+    {
+      "from": 36.04,
+      "to": 38.96,
+      "sid": 166,
+      "location": 2,
+      "content": "我们为什么一直把钱给其他国家"
+    },
+    {
+      "from": 38.96,
+      "to": 39.64,
+      "sid": 167,
+      "location": 2,
+      "content": "我明白"
+    },
+    {
+      "from": 39.64,
+      "to": 40.8,
+      "sid": 168,
+      "location": 2,
+      "content": "你知道你想帮忙"
+    },
+    {
+      "from": 40.8,
+      "to": 42.88,
+      "sid": 169,
+      "location": 2,
+      "content": "但我们需要先帮助自己"
+    },
+    {
+      "from": 42.88,
+      "to": 43.36,
+      "sid": 170,
+      "location": 2,
+      "content": "还有什么"
+    },
+    {
+      "from": 43.36,
+      "to": 43.7,
+      "sid": 171,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 43.7,
+      "to": 45.14,
+      "sid": 172,
+      "location": 2,
+      "content": "经济"
+    },
+    {
+      "from": 49.76,
+      "to": 52.56,
+      "sid": 173,
+      "location": 2,
+      "content": "我现在想不出更多具体的东西"
+    },
+    {
+      "from": 52.56,
+      "to": 53.94,
+      "sid": 174,
+      "location": 2,
+      "content": "特别是好的"
+    },
+    {
+      "from": 53.94,
+      "to": 56.28,
+      "sid": 175,
+      "location": 2,
+      "content": "如果没有能力为你"
+    },
+    {
+      "from": 56.28,
+      "to": 57.72,
+      "sid": 176,
+      "location": 2,
+      "content": "你反对乔"
+    },
+    {
+      "from": 57.72,
+      "to": 60.82,
+      "sid": 177,
+      "location": 2,
+      "content": "但你可能不是很多非裔美国人"
+    },
+    {
+      "from": 60.82,
+      "to": 61.36,
+      "sid": 178,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 61.36,
+      "to": 62.68,
+      "sid": 179,
+      "location": 2,
+      "content": "人们相信"
+    },
+    {
+      "from": 62.68,
+      "to": 64.66,
+      "sid": 180,
+      "location": 2,
+      "content": "或者如果我们谈论黑人"
+    },
+    {
+      "from": 64.66,
+      "to": 65.12,
+      "sid": 181,
+      "location": 2,
+      "content": "具体来说"
+    },
+    {
+      "from": 66.44,
+      "to": 68.98,
+      "sid": 182,
+      "location": 2,
+      "content": "很多人认为特朗普是种族主义者"
+    },
+    {
+      "from": 68.98,
+      "to": 70.68,
+      "sid": 183,
+      "location": 2,
+      "content": "所以他们宁愿投票给乔"
+    },
+    {
+      "from": 70.68,
+      "to": 71.92,
+      "sid": 184,
+      "location": 2,
+      "content": "拜登而不是特朗普"
+    },
+    {
+      "from": 71.92,
+      "to": 75.149,
+      "sid": 185,
+      "location": 2,
+      "content": "但就像它已经被证明很多次"
+    },
+    {
+      "from": 75.149,
+      "to": 76.789,
+      "sid": 186,
+      "location": 2,
+      "content": "特朗普不是一个种族主义者"
+    },
+    {
+      "from": 76.789,
+      "to": 78.729,
+      "sid": 187,
+      "location": 2,
+      "content": "你知道他们实际上采取"
+    },
+    {
+      "from": 78.729,
+      "to": 81.849,
+      "sid": 188,
+      "location": 2,
+      "content": "如果你想更具体"
+    },
+    {
+      "from": 82.45,
+      "to": 84.39,
+      "sid": 189,
+      "location": 2,
+      "content": "当人们引用特朗普的话"
+    },
+    {
+      "from": 84.39,
+      "to": 85.01,
+      "sid": 190,
+      "location": 2,
+      "content": "哦我的天"
+    },
+    {
+      "from": 85.01,
+      "to": 85.33,
+      "sid": 191,
+      "location": 2,
+      "content": "抱歉"
+    },
+    {
+      "from": 85.33,
+      "to": 88.23,
+      "sid": 192,
+      "location": 2,
+      "content": "当人们引用特朗普的话"
+    },
+    {
+      "from": 89.03,
+      "to": 91.03,
+      "sid": 193,
+      "location": 2,
+      "content": "当人们引用种族主义的话"
+    },
+    {
+      "from": 91.03,
+      "to": 94.08,
+      "sid": 194,
+      "location": 2,
+      "content": "特朗普说过他们嗯"
+    },
+    {
+      "from": 94.68,
+      "to": 97.86,
+      "sid": 195,
+      "location": 2,
+      "content": "就像他实际说的剪辑"
+    },
+    {
+      "from": 97.86,
+      "to": 99.86,
+      "sid": 196,
+      "location": 2,
+      "content": "他会说类似的话"
+    },
+    {
+      "from": 99.86,
+      "to": 103.26,
+      "sid": 197,
+      "location": 2,
+      "content": "他不希望墨西哥人越境"
+    },
+    {
+      "from": 103.26,
+      "to": 103.78,
+      "sid": 198,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 103.78,
+      "to": 104.5,
+      "sid": 199,
+      "location": 2,
+      "content": "住在这里"
+    },
+    {
+      "from": 104.5,
+      "to": 105.61,
+      "sid": 200,
+      "location": 2,
+      "content": "诸如此类"
+    },
+    {
+      "from": 105.61,
+      "to": 107.81,
+      "sid": 201,
+      "location": 2,
+      "content": "他实际说过的话"
+    },
+    {
+      "from": 110.73,
+      "to": 113.01,
+      "sid": 202,
+      "location": 2,
+      "content": "你知道之类"
+    },
+    {
+      "from": 113.01,
+      "to": 115.0,
+      "sid": 203,
+      "location": 2,
+      "content": "杀人的人"
+    },
+    {
+      "from": 115.0,
+      "to": 116.669,
+      "sid": 204,
+      "location": 2,
+      "content": "实际上几个月前"
+    },
+    {
+      "from": 116.669,
+      "to": 119.129,
+      "sid": 205,
+      "location": 2,
+      "content": "其中一个杀了一个年轻女大学生"
+    },
+    {
+      "from": 119.129,
+      "to": 121.069,
+      "sid": 206,
+      "location": 2,
+      "content": "她是佐治亚州的护士学生"
+    },
+    {
+      "from": 121.069,
+      "to": 121.669,
+      "sid": 207,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 121.669,
+      "to": 123.57,
+      "sid": 208,
+      "location": 2,
+      "content": "我记不起城市名"
+    },
+    {
+      "from": 123.57,
+      "to": 126.83,
+      "sid": 209,
+      "location": 2,
+      "content": "都在佐治亚州北部"
+    },
+    {
+      "from": 127.15,
+      "to": 129.61,
+      "sid": 210,
+      "location": 2,
+      "content": "自乔·拜登总统上任以来"
+    },
+    {
+      "from": 129.61,
+      "to": 132.86,
+      "sid": 211,
+      "location": 2,
+      "content": "超过800万人越境"
+    },
+    {
+      "from": 132.86,
+      "to": 135.16,
+      "sid": 212,
+      "location": 2,
+      "content": "抱歉"
+    },
+    {
+      "from": 135.16,
+      "to": 135.99,
+      "sid": 213,
+      "location": 2,
+      "content": "但只看到三四个非法杀人案例"
+    },
+    {
+      "from": 135.99,
+      "to": 140.91,
+      "sid": 214,
+      "location": 2,
+      "content": "你认为这个比例有点低吗"
+    },
+    {
+      "from": 140.91,
+      "to": 143.43,
+      "sid": 215,
+      "location": 2,
+      "content": "实际上是的"
+    },
+    {
+      "from": 143.43,
+      "to": 145.03,
+      "sid": 216,
+      "location": 2,
+      "content": "你认为呢"
+    },
+    {
+      "from": 147.65,
+      "to": 148.83,
+      "sid": 217,
+      "location": 2,
+      "content": "他们看到非法杀人"
+    },
+    {
+      "from": 148.83,
+      "to": 150.33,
+      "sid": 218,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 150.33,
+      "to": 150.75,
+      "sid": 219,
+      "location": 2,
+      "content": "可能成为新闻"
+    },
+    {
+      "from": 150.75,
+      "to": 151.89,
+      "sid": 220,
+      "location": 2,
+      "content": "你可能只看到三四个案例"
+    },
+    {
+      "from": 153.05,
+      "to": 155.41,
+      "sid": 221,
+      "location": 2,
+      "content": "你认为呢"
+    },
+    {
+      "from": 155.41,
+      "to": 156.31,
+      "sid": 222,
+      "location": 2,
+      "content": "非法入境杀人的人数可能并不高"
+    },
+    {
+      "from": 156.31,
+      "to": 162.55,
+      "sid": 223,
+      "location": 2,
+      "content": "越境的人数肯定很高"
+    },
+    {
+      "from": 162.99,
+      "to": 168.079,
+      "sid": 224,
+      "location": 2,
+      "content": "但我不能同意你"
+    },
+    {
+      "from": 168.079,
+      "to": 170.119,
+      "sid": 225,
+      "location": 2,
+      "content": "我个人没看到那么多案例"
+    },
+    {
+      "from": 170.119,
+      "to": 172.399,
+      "sid": 226,
+      "location": 2,
+      "content": "可能还有我们不知道的，你懂我意思吗"
+    },
+    {
+      "from": 173.439,
+      "to": 176.149,
+      "sid": 227,
+      "location": 2,
+      "content": "我感觉当你设计这个时"
+    },
+    {
+      "from": 176.149,
+      "to": 179.28,
+      "sid": 228,
+      "location": 2,
+      "content": "你有一个大乔"
+    },
+    {
+      "from": 179.28,
+      "to": 180.5,
+      "sid": 229,
+      "location": 2,
+      "content": "他们可能会说你支持乔"
+    },
+    {
+      "from": 180.5,
+      "to": 182.4,
+      "sid": 230,
+      "location": 2,
+      "content": "而不是你反对乔"
+    },
+    {
+      "from": 182.4,
+      "to": 183.86,
+      "sid": 231,
+      "location": 2,
+      "content": "他们就像乔·拜登"
+    },
+    {
+      "from": 183.86,
+      "to": 185.28,
+      "sid": 232,
+      "location": 2,
+      "content": "我是说耶"
+    },
+    {
+      "from": 185.28,
+      "to": 186.86,
+      "sid": 233,
+      "location": 2,
+      "content": "如果乔·拜登"
+    },
+    {
+      "from": 186.86,
+      "to": 187.82,
+      "sid": 234,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 187.82,
+      "to": 189.68,
+      "sid": 235,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 189.8,
+      "to": 190.32,
+      "sid": 236,
+      "location": 2,
+      "content": "你会"
+    },
+    {
+      "from": 190.32,
+      "to": 191.04,
+      "sid": 237,
+      "location": 2,
+      "content": "你会去比乔更大"
+    },
+    {
+      "from": 191.04,
+      "to": 193.92,
+      "sid": 238,
+      "location": 2,
+      "content": "他看起来穿着T恤"
+    },
+    {
+      "from": 193.92,
+      "to": 195.72,
+      "sid": 239,
+      "location": 2,
+      "content": "你是对的，好吧"
+    },
+    {
+      "from": 198.28,
+      "to": 202.08,
+      "sid": 240,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 202.08,
+      "to": 202.44,
+      "sid": 241,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 202.44,
+      "to": 203.56,
+      "sid": 242,
+      "location": 2,
+      "content": "他得到一个大乔"
+    },
+    {
+      "from": 203.56,
+      "to": 205.26,
+      "sid": 243,
+      "location": 2,
+      "content": "他们可能印象不佳"
+    },
+    {
+      "from": 205.26,
+      "to": 206.24,
+      "sid": 244,
+      "location": 2,
+      "content": "你支持乔"
+    },
+    {
+      "from": 206.24,
+      "to": 207.16,
+      "sid": 245,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 207.16,
+      "to": 208.41,
+      "sid": 246,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 208.41,
+      "to": 211.97,
+      "sid": 247,
+      "location": 2,
+      "content": "但问题在于人们不这样读"
+    },
+    {
+      "from": 211.97,
+      "to": 213.31,
+      "sid": 248,
+      "location": 2,
+      "content": "我们也得到了乔"
+    },
+    {
+      "from": 213.31,
+      "to": 214.79,
+      "sid": 249,
+      "location": 2,
+      "content": "得走向是的"
+    },
+    {
+      "from": 214.79,
+      "to": 216.25,
+      "sid": 250,
+      "location": 2,
+      "content": "那比脸还大"
+    },
+    {
+      "from": 216.25,
+      "to": 217.9,
+      "sid": 251,
+      "location": 2,
+      "content": "实际上是的"
+    },
+    {
+      "from": 217.9,
+      "to": 220.12,
+      "sid": 252,
+      "location": 2,
+      "content": "那你怎么没看见这个人"
+    },
+    {
+      "from": 220.12,
+      "to": 224.05,
+      "sid": 253,
+      "location": 2,
+      "content": "因为脸先吸引人的注意"
+    },
+    {
+      "from": 224.05,
+      "to": 226.03,
+      "sid": 254,
+      "location": 2,
+      "content": "你看到他的脸"
+    },
+    {
+      "from": 226.03,
+      "to": 228.51,
+      "sid": 255,
+      "location": 2,
+      "content": "你可能应该传达"
+    },
+    {
+      "from": 228.51,
+      "to": 229.59,
+      "sid": 256,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 229.59,
+      "to": 230.73,
+      "sid": 257,
+      "location": 2,
+      "content": "没有模块"
+    },
+    {
+      "from": 230.73,
+      "to": 231.33,
+      "sid": 258,
+      "location": 2,
+      "content": "你应该说"
+    },
+    {
+      "from": 232.65,
+      "to": 233.485,
+      "sid": 259,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 234.01,
+      "to": 236.27,
+      "sid": 260,
+      "location": 2,
+      "content": "你2016年投票了吗"
+    },
+    {
+      "from": 236.27,
+      "to": 237.27,
+      "sid": 261,
+      "location": 2,
+      "content": "你太年轻"
+    },
+    {
+      "from": 237.27,
+      "to": 237.53,
+      "sid": 262,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 237.53,
+      "to": 238.21,
+      "sid": 263,
+      "location": 2,
+      "content": "我太年轻"
+    },
+    {
+      "from": 238.21,
+      "to": 239.67,
+      "sid": 264,
+      "location": 2,
+      "content": "这将是我们第一年"
+    },
+    {
+      "from": 239.67,
+      "to": 240.21,
+      "sid": 265,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 240.21,
+      "to": 240.61,
+      "sid": 266,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 248.96,
+      "to": 252.4,
+      "sid": 267,
+      "location": 2,
+      "content": "所以我参加了这次巡演"
+    },
+    {
+      "from": 252.4,
+      "to": 254.96,
+      "sid": 268,
+      "location": 2,
+      "content": "有点像滑动问题"
+    },
+    {
+      "from": 254.96,
+      "to": 255.6,
+      "sid": 269,
+      "location": 2,
+      "content": "他们没有"
+    },
+    {
+      "from": 255.6,
+      "to": 256.2,
+      "sid": 270,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 256.2,
+      "to": 258.06,
+      "sid": 271,
+      "location": 2,
+      "content": "他们仍然支持我去巡演"
+    },
+    {
+      "from": 258.06,
+      "to": 258.56,
+      "sid": 272,
+      "location": 2,
+      "content": "另一个"
+    },
+    {
+      "from": 258.56,
+      "to": 259.929,
+      "sid": 273,
+      "location": 2,
+      "content": "但我们得到报酬了吗"
+    },
+    {
+      "from": 259.929,
+      "to": 260.489,
+      "sid": 274,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 260.489,
+      "to": 261.949,
+      "sid": 275,
+      "location": 2,
+      "content": "你知道我们走遍全国"
+    },
+    {
+      "from": 261.949,
+      "to": 264.689,
+      "sid": 276,
+      "location": 2,
+      "content": "我们已经走过了24个州"
+    },
+    {
+      "from": 264.689,
+      "to": 266.429,
+      "sid": 277,
+      "location": 2,
+      "content": "我试图在11月前达到40个"
+    },
+    {
+      "from": 266.429,
+      "to": 268.15,
+      "sid": 278,
+      "location": 2,
+      "content": "我试图传播到各地"
+    },
+    {
+      "from": 268.15,
+      "to": 270.57,
+      "sid": 279,
+      "location": 2,
+      "content": "但如果我作为亚洲人参加这次巡演"
+    },
+    {
+      "from": 270.57,
+      "to": 273.51,
+      "sid": 280,
+      "location": 2,
+      "content": "我可能看到很多红脖子"
+    },
+    {
+      "from": 273.51,
+      "to": 274.03,
+      "sid": 281,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 274.03,
+      "to": 274.55,
+      "sid": 282,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 274.55,
+      "to": 274.99,
+      "sid": 283,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 274.99,
+      "to": 276.3,
+      "sid": 284,
+      "location": 2,
+      "content": "我见过我的公平份额"
+    },
+    {
+      "from": 276.3,
+      "to": 277.4,
+      "sid": 285,
+      "location": 2,
+      "content": "我有"
+    },
+    {
+      "from": 277.4,
+      "to": 282.04,
+      "sid": 286,
+      "location": 2,
+      "content": "你知道有些人我甚至看到一个女士"
+    },
+    {
+      "from": 282.04,
+      "to": 282.4,
+      "sid": 287,
+      "location": 2,
+      "content": "实际上"
+    },
+    {
+      "from": 282.4,
+      "to": 283.82,
+      "sid": 288,
+      "location": 2,
+      "content": "她有南方联盟的旗帜"
+    },
+    {
+      "from": 283.82,
+      "to": 286.7,
+      "sid": 289,
+      "location": 2,
+      "content": "我想那是她的钱包之类"
+    },
+    {
+      "from": 286.7,
+      "to": 287.9,
+      "sid": 290,
+      "location": 2,
+      "content": "我个人来说"
+    },
+    {
+      "from": 287.9,
+      "to": 291.06,
+      "sid": 291,
+      "location": 2,
+      "content": "我确实对南方旗有误"
+    },
+    {
+      "from": 291.06,
+      "to": 291.82,
+      "sid": 292,
+      "location": 2,
+      "content": "仍然喜欢"
+    },
+    {
+      "from": 291.82,
+      "to": 294.24,
+      "sid": 293,
+      "location": 2,
+      "content": "为什么2024年还在穿那个"
+    },
+    {
+      "from": 294.24,
+      "to": 295.31,
+      "sid": 294,
+      "location": 2,
+      "content": "你懂我的意思"
+    },
+    {
+      "from": 295.31,
+      "to": 296.43,
+      "sid": 295,
+      "location": 2,
+      "content": "但是"
+    },
+    {
+      "from": 298.11,
+      "to": 298.39,
+      "sid": 296,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 298.39,
+      "to": 300.63,
+      "sid": 297,
+      "location": 2,
+      "content": "我仍保持冷静尊重"
+    },
+    {
+      "from": 300.63,
+      "to": 301.79,
+      "sid": 298,
+      "location": 2,
+      "content": "因为说到底"
+    },
+    {
+      "from": 301.79,
+      "to": 304.0,
+      "sid": 299,
+      "location": 2,
+      "content": "人们需要知道"
+    },
+    {
+      "from": 304.0,
+      "to": 305.94,
+      "sid": 300,
+      "location": 2,
+      "content": "仅仅因为我们对政治有不同的看法"
+    },
+    {
+      "from": 305.94,
+      "to": 308.01,
+      "sid": 301,
+      "location": 2,
+      "content": "并不意味着我们不能成为朋友"
+    },
+    {
+      "from": 308.01,
+      "to": 309.67,
+      "sid": 302,
+      "location": 2,
+      "content": "因为很多人喜欢"
+    },
+    {
+      "from": 309.67,
+      "to": 313.61,
+      "sid": 303,
+      "location": 2,
+      "content": "或我个人的经历"
+    },
+    {
+      "from": 314.77,
+      "to": 319.03,
+      "sid": 304,
+      "location": 2,
+      "content": "自由派之前麻木"
+    },
+    {
+      "from": 319.03,
+      "to": 320.07,
+      "sid": 305,
+      "location": 2,
+      "content": "与我交朋友"
+    },
+    {
+      "from": 320.07,
+      "to": 322.929,
+      "sid": 306,
+      "location": 2,
+      "content": "说我要停止为白人工作"
+    },
+    {
+      "from": 322.929,
+      "to": 323.489,
+      "sid": 307,
+      "location": 2,
+      "content": "我说"
+    },
+    {
+      "from": 323.489,
+      "to": 325.209,
+      "sid": 308,
+      "location": 2,
+      "content": "我不为白人工作"
+    },
+    {
+      "from": 325.209,
+      "to": 328.129,
+      "sid": 309,
+      "location": 2,
+      "content": "经营这次旅行的人实际上是黑人"
+    },
+    {
+      "from": 328.129,
+      "to": 329.509,
+      "sid": 310,
+      "location": 2,
+      "content": "所以是一个黑人"
+    },
+    {
+      "from": 329.509,
+      "to": 330.43,
+      "sid": 311,
+      "location": 2,
+      "content": "黑人"
+    },
+    {
+      "from": 330.43,
+      "to": 331.49,
+      "sid": 312,
+      "location": 2,
+      "content": "哦酷"
+    },
+    {
+      "from": 331.49,
+      "to": 333.27,
+      "sid": 313,
+      "location": 2,
+      "content": "那是个全黑旅行"
+    },
+    {
+      "from": 334.51,
+      "to": 335.21,
+      "sid": 314,
+      "location": 2,
+      "content": "哦都是"
+    },
+    {
+      "from": 335.21,
+      "to": 336.09,
+      "sid": 315,
+      "location": 2,
+      "content": "哦是的"
+    },
+    {
+      "from": 336.09,
+      "to": 336.89,
+      "sid": 316,
+      "location": 2,
+      "content": "他只是"
+    },
+    {
+      "from": 336.89,
+      "to": 338.91,
+      "sid": 317,
+      "location": 2,
+      "content": "哦所以这是关于旗帜的生意"
+    },
+    {
+      "from": 338.91,
+      "to": 339.85,
+      "sid": 318,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 339.85,
+      "to": 340.69,
+      "sid": 319,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 340.69,
+      "to": 342.81,
+      "sid": 320,
+      "location": 2,
+      "content": "实际上有趣的事实"
+    },
+    {
+      "from": 342.81,
+      "to": 344.33,
+      "sid": 321,
+      "location": 2,
+      "content": "我的老板"
+    },
+    {
+      "from": 344.33,
+      "to": 347.65,
+      "sid": 322,
+      "location": 2,
+      "content": "他实际上为伯尼·桑德斯做过一次旅行"
+    },
+    {
+      "from": 347.65,
+      "to": 349.19,
+      "sid": 323,
+      "location": 2,
+      "content": "那是他的第一次旅行"
+    },
+    {
+      "from": 349.19,
+      "to": 351.13,
+      "sid": 324,
+      "location": 2,
+      "content": "它被称为黑人支持伯尼"
+    },
+    {
+      "from": 351.13,
+      "to": 351.95,
+      "sid": 325,
+      "location": 2,
+      "content": "那很酷"
+    },
+    {
+      "from": 351.95,
+      "to": 352.67,
+      "sid": 326,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 352.67,
+      "to": 356.49,
+      "sid": 327,
+      "location": 2,
+      "content": "然后他就转到了特朗普，他说"
+    },
+    {
+      "from": 356.49,
+      "to": 357.33,
+      "sid": 328,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 357.69,
+      "to": 358.17,
+      "sid": 329,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 358.17,
+      "to": 359.93,
+      "sid": 330,
+      "location": 2,
+      "content": "我宁愿不投票给希特勒"
+    },
+    {
+      "from": 359.93,
+      "to": 360.17,
+      "sid": 331,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 360.17,
+      "to": 360.75,
+      "sid": 332,
+      "location": 2,
+      "content": "我的意思是"
+    },
+    {
+      "from": 360.75,
+      "to": 361.93,
+      "sid": 333,
+      "location": 2,
+      "content": "我是独立人士"
+    },
+    {
+      "from": 361.93,
+      "to": 363.69,
+      "sid": 334,
+      "location": 2,
+      "content": "所以我不真正属于"
+    },
+    {
+      "from": 363.69,
+      "to": 364.55,
+      "sid": 335,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 364.55,
+      "to": 364.99,
+      "sid": 336,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 364.99,
+      "to": 366.75,
+      "sid": 337,
+      "location": 2,
+      "content": "在那些中但我说"
+    },
+    {
+      "from": 366.75,
+      "to": 369.05,
+      "sid": 338,
+      "location": 2,
+      "content": "我确实有一些保守的"
+    },
+    {
+      "from": 369.05,
+      "to": 370.73,
+      "sid": 339,
+      "location": 2,
+      "content": "你知道的"
+    },
+    {
+      "from": 370.91,
+      "to": 371.79,
+      "sid": 340,
+      "location": 2,
+      "content": "你可能就像"
+    },
+    {
+      "from": 371.79,
+      "to": 373.29,
+      "sid": 341,
+      "location": 2,
+      "content": "去战壕或其他地方"
+    },
+    {
+      "from": 373.29,
+      "to": 374.51,
+      "sid": 342,
+      "location": 2,
+      "content": "我实际上"
+    },
+    {
+      "from": 375.63,
+      "to": 378.79,
+      "sid": 343,
+      "location": 2,
+      "content": "我直到六岁才去教堂"
+    },
+    {
+      "from": 378.79,
+      "to": 381.95,
+      "sid": 344,
+      "location": 2,
+      "content": "然后今年我又没去了"
+    },
+    {
+      "from": 381.95,
+      "to": 382.63,
+      "sid": 345,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 382.63,
+      "to": 383.81,
+      "sid": 346,
+      "location": 2,
+      "content": "我只在"
+    },
+    {
+      "from": 383.81,
+      "to": 384.93,
+      "sid": 347,
+      "location": 2,
+      "content": "所以关于"
+    },
+    {
+      "from": 384.93,
+      "to": 386.88,
+      "sid": 348,
+      "location": 2,
+      "content": "你在哪些问题上保守"
+    },
+    {
+      "from": 386.88,
+      "to": 387.74,
+      "sid": 349,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 387.74,
+      "to": 389.68,
+      "sid": 350,
+      "location": 2,
+      "content": "我会说好吧"
+    },
+    {
+      "from": 389.68,
+      "to": 390.48,
+      "sid": 351,
+      "location": 2,
+      "content": "我开始去"
+    },
+    {
+      "from": 390.48,
+      "to": 392.5,
+      "sid": 352,
+      "location": 2,
+      "content": "或我在考虑现在回教堂"
+    },
+    {
+      "from": 392.5,
+      "to": 395.44,
+      "sid": 353,
+      "location": 2,
+      "content": "所以我已经把信仰找回来了"
+    },
+    {
+      "from": 395.44,
+      "to": 396.3,
+      "sid": 354,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 396.3,
+      "to": 397.76,
+      "sid": 355,
+      "location": 2,
+      "content": "还有什么"
+    },
+    {
+      "from": 405.36,
+      "to": 407.2,
+      "sid": 356,
+      "location": 2,
+      "content": "关于政府如何运作"
+    },
+    {
+      "from": 407.2,
+      "to": 407.76,
+      "sid": 357,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 407.76,
+      "to": 411.63,
+      "sid": 358,
+      "location": 2,
+      "content": "我认为美国应该支持企业"
+    },
+    {
+      "from": 411.63,
+      "to": 412.73,
+      "sid": 359,
+      "location": 2,
+      "content": "像儿童卡车"
+    },
+    {
+      "from": 412.73,
+      "to": 413.29,
+      "sid": 360,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 413.29,
+      "to": 414.99,
+      "sid": 361,
+      "location": 2,
+      "content": "经济确实在他领导下更好"
+    },
+    {
+      "from": 414.99,
+      "to": 417.1,
+      "sid": 362,
+      "location": 2,
+      "content": "你知道我开始自己的生意"
+    },
+    {
+      "from": 419.679,
+      "to": 421.599,
+      "sid": 363,
+      "location": 2,
+      "content": "实际上当我离开这次巡演时"
+    },
+    {
+      "from": 421.599,
+      "to": 423.519,
+      "sid": 364,
+      "location": 2,
+      "content": "我和我的同事"
+    },
+    {
+      "from": 423.519,
+      "to": 425.159,
+      "sid": 365,
+      "location": 2,
+      "content": "你知道你知道开始做生意"
+    },
+    {
+      "from": 425.159,
+      "to": 429.879,
+      "sid": 366,
+      "location": 2,
+      "content": "没有特朗普特洛伊对我们"
+    },
+    {
+      "from": 429.879,
+      "to": 432.279,
+      "sid": 367,
+      "location": 2,
+      "content": "我们希望并害怕他不要进白宫"
+    },
+    {
+      "from": 435.93,
+      "to": 437.65,
+      "sid": 368,
+      "location": 2,
+      "content": "我们不相信你会进去"
+    },
+    {
+      "from": 437.65,
+      "to": 438.57,
+      "sid": 369,
+      "location": 2,
+      "content": "我们会站起来"
+    },
+    {
+      "from": 438.57,
+      "to": 440.98,
+      "sid": 370,
+      "location": 2,
+      "content": "我们不会为他买市场"
+    },
+    {
+      "from": 441.5,
+      "to": 443.4,
+      "sid": 371,
+      "location": 2,
+      "content": "但这里有一个黑人"
+    },
+    {
+      "from": 443.4,
+      "to": 444.42,
+      "sid": 372,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 444.42,
+      "to": 445.7,
+      "sid": 373,
+      "location": 2,
+      "content": "我的胖黑屁股"
+    },
+    {
+      "from": 445.7,
+      "to": 446.46,
+      "sid": 374,
+      "location": 2,
+      "content": "所以我说"
+    },
+    {
+      "from": 446.46,
+      "to": 447.66,
+      "sid": 375,
+      "location": 2,
+      "content": "我知道你在说什么"
+    },
+    {
+      "from": 448.82,
+      "to": 450.039,
+      "sid": 376,
+      "location": 2,
+      "content": "对"
+    },
+    {
+      "from": 451.62,
+      "to": 452.12,
+      "sid": 377,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 452.12,
+      "to": 453.6,
+      "sid": 378,
+      "location": 2,
+      "content": "谢谢冰爽"
+    },
+    {
+      "from": 453.6,
+      "to": 454.54,
+      "sid": 379,
+      "location": 2,
+      "content": "我刚买了"
+    },
+    {
+      "from": 454.54,
+      "to": 456.22,
+      "sid": 380,
+      "location": 2,
+      "content": "谢谢，感激"
+    },
+    {
+      "from": 456.22,
+      "to": 457.26,
+      "sid": 381,
+      "location": 2,
+      "content": "祝你好运"
+    },
+    {
+      "from": 457.26,
+      "to": 459.049,
+      "sid": 382,
+      "location": 2,
+      "content": "你是爱国者吗"
+    },
+    {
+      "from": 461.249,
+      "to": 464.96,
+      "sid": 383,
+      "location": 2,
+      "content": "你真的认为乔必须走吗"
+    },
+    {
+      "from": 464.96,
+      "to": 467.6,
+      "sid": 384,
+      "location": 2,
+      "content": "如果你对这三个问题都回答是"
+    },
+    {
+      "from": 467.6,
+      "to": 469.52,
+      "sid": 385,
+      "location": 2,
+      "content": "那么乔必须走巡演"
+    },
+    {
+      "from": 469.52,
+      "to": 472.2,
+      "sid": 386,
+      "location": 2,
+      "content": "就是今天为你准备的地方"
+    },
+    {
+      "from": 472.2,
+      "to": 473.12,
+      "sid": 387,
+      "location": 2,
+      "content": "我们在巴黎"
+    },
+    {
+      "from": 473.12,
+      "to": 474.02,
+      "sid": 388,
+      "location": 2,
+      "content": "德克萨斯"
+    },
+    {
+      "from": 474.02,
+      "to": 477.3,
+      "sid": 389,
+      "location": 2,
+      "content": "紧邻MTC电台和快速轨道"
+    },
+    {
+      "from": 477.3,
+      "to": 478.66,
+      "sid": 390,
+      "location": 2,
+      "content": "艺术角落"
+    },
+    {
+      "from": 478.66,
+      "to": 480.62,
+      "sid": 391,
+      "location": 2,
+      "content": "你需要这些可爱的眼镜"
+    },
+    {
+      "from": 480.62,
+      "to": 481.9,
+      "sid": 392,
+      "location": 2,
+      "content": "我正在戴"
+    },
+    {
+      "from": 481.9,
+      "to": 482.69,
+      "sid": 393,
+      "location": 2,
+      "content": "很高"
+    },
+    {
+      "from": 482.69,
+      "to": 483.69,
+      "sid": 394,
+      "location": 2,
+      "content": "阳光明媚"
+    },
+    {
+      "from": 483.69,
+      "to": 484.47,
+      "sid": 395,
+      "location": 2,
+      "content": "德克萨斯"
+    },
+    {
+      "from": 484.47,
+      "to": 486.93,
+      "sid": 396,
+      "location": 2,
+      "content": "你需要眼镜"
+    },
+    {
+      "from": 486.93,
+      "to": 489.37,
+      "sid": 397,
+      "location": 2,
+      "content": "所以来拿这些眼镜"
+    },
+    {
+      "from": 489.37,
+      "to": 491.51,
+      "sid": 398,
+      "location": 2,
+      "content": "进行需要的对话"
+    },
+    {
+      "from": 491.51,
+      "to": 493.53,
+      "sid": 399,
+      "location": 2,
+      "content": "因为你可能不喜欢别人"
+    },
+    {
+      "from": 493.53,
+      "to": 495.26,
+      "sid": 400,
+      "location": 2,
+      "content": "但乔"
+    },
+    {
+      "from": 497.02,
+      "to": 498.24,
+      "sid": 401,
+      "location": 2,
+      "content": "他必须走"
+    }
+  ]
+}

@@ -1,0 +1,1164 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 0.88,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.88,
+      "to": 2.44,
+      "sid": 2,
+      "location": 2,
+      "content": "今天我来到了密西西比河畔",
+      "music": 0.0
+    },
+    {
+      "from": 2.44,
+      "to": 4.439,
+      "sid": 3,
+      "location": 2,
+      "content": "一个叫做马斯卡廷的小城",
+      "music": 0.0
+    },
+    {
+      "from": 4.439,
+      "to": 6.439,
+      "sid": 4,
+      "location": 2,
+      "content": "这里2020年人口普查显示",
+      "music": 0.0
+    },
+    {
+      "from": 6.439,
+      "to": 8.54,
+      "sid": 5,
+      "location": 2,
+      "content": "有2万3670一个人",
+      "music": 0.0
+    },
+    {
+      "from": 8.54,
+      "to": 10.46,
+      "sid": 6,
+      "location": 2,
+      "content": "其中72%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 10.46,
+      "to": 11.9,
+      "sid": 7,
+      "location": 2,
+      "content": "20%是拉美人",
+      "music": 0.0
+    },
+    {
+      "from": 11.9,
+      "to": 13.28,
+      "sid": 8,
+      "location": 2,
+      "content": "4%是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 13.28,
+      "to": 15.719,
+      "sid": 9,
+      "location": 2,
+      "content": "这个小镇是靠密西西比河发家的",
+      "music": 0.0
+    },
+    {
+      "from": 15.719,
+      "to": 16.999,
+      "sid": 10,
+      "location": 2,
+      "content": "但是他发家的方式",
+      "music": 0.0
+    },
+    {
+      "from": 16.999,
+      "to": 19.43,
+      "sid": 11,
+      "location": 2,
+      "content": "和大部分人想到的航运之类的不同",
+      "music": 0.0
+    },
+    {
+      "from": 19.43,
+      "to": 22.95,
+      "sid": 12,
+      "location": 2,
+      "content": "这边1900年前后是世界上的珍珠纽扣之都",
+      "music": 0.0
+    },
+    {
+      "from": 22.95,
+      "to": 26.13,
+      "sid": 13,
+      "location": 2,
+      "content": "而小镇中心就有一座博物馆来纪念这一段历史",
+      "music": 0.0
+    },
+    {
+      "from": 26.13,
+      "to": 26.97,
+      "sid": 14,
+      "location": 2,
+      "content": "1888年",
+      "music": 0.0
+    },
+    {
+      "from": 26.97,
+      "to": 28.73,
+      "sid": 15,
+      "location": 2,
+      "content": "一名德国的新移民发现",
+      "music": 0.0
+    },
+    {
+      "from": 28.73,
+      "to": 30.89,
+      "sid": 16,
+      "location": 2,
+      "content": "密西西比河床上面有很多青口贝",
+      "music": 0.0
+    },
+    {
+      "from": 30.89,
+      "to": 32.64,
+      "sid": 17,
+      "location": 2,
+      "content": "河蚌之类的贝类生物",
+      "music": 0.0
+    },
+    {
+      "from": 32.64,
+      "to": 35.73,
+      "sid": 18,
+      "location": 2,
+      "content": "他发现这些贝壳可以造出衣服上面的纽扣",
+      "music": 0.0
+    },
+    {
+      "from": 35.73,
+      "to": 38.55,
+      "sid": 19,
+      "location": 2,
+      "content": "于是他在马斯卡廷开了第一家纽扣工厂",
+      "music": 0.0
+    },
+    {
+      "from": 38.55,
+      "to": 41.21,
+      "sid": 20,
+      "location": 2,
+      "content": "They were taken to the factors in the soaking and",
+      "music": 0.0
+    },
+    {
+      "from": 41.21,
+      "to": 42.519,
+      "sid": 21,
+      "location": 2,
+      "content": "Big vats of water",
+      "music": 0.0
+    },
+    {
+      "from": 42.519,
+      "to": 45.419,
+      "sid": 22,
+      "location": 2,
+      "content": "Kind of soften the money before they grow home",
+      "music": 0.0
+    },
+    {
+      "from": 45.419,
+      "to": 48.079,
+      "sid": 23,
+      "location": 2,
+      "content": "很快很多人也发现了这个商机",
+      "music": 0.0
+    },
+    {
+      "from": 48.079,
+      "to": 50.54,
+      "sid": 24,
+      "location": 2,
+      "content": "于是这个小城的人口快速增加",
+      "music": 0.0
+    },
+    {
+      "from": 50.54,
+      "to": 51.9,
+      "sid": 25,
+      "location": 2,
+      "content": "最繁荣的20年内",
+      "music": 0.0
+    },
+    {
+      "from": 51.9,
+      "to": 53.58,
+      "sid": 26,
+      "location": 2,
+      "content": "人口增加了50%",
+      "music": 0.0
+    },
+    {
+      "from": 53.58,
+      "to": 56.55,
+      "sid": 27,
+      "location": 2,
+      "content": "那个时候小镇到处都是珍珠纽扣工厂",
+      "music": 0.0
+    },
+    {
+      "from": 56.55,
+      "to": 58.93,
+      "sid": 28,
+      "location": 2,
+      "content": "而河里也到处都是挖牡蛎的人",
+      "music": 0.0
+    },
+    {
+      "from": 58.93,
+      "to": 61.129,
+      "sid": 29,
+      "location": 2,
+      "content": "街头巷尾都是被丢弃的贝壳",
+      "music": 0.0
+    },
+    {
+      "from": 61.129,
+      "to": 61.969,
+      "sid": 30,
+      "location": 2,
+      "content": "听小姐姐说",
+      "music": 0.0
+    },
+    {
+      "from": 61.969,
+      "to": 64.049,
+      "sid": 31,
+      "location": 2,
+      "content": "现在新挖管道或者建房子之类的",
+      "music": 0.0
+    },
+    {
+      "from": 64.049,
+      "to": 66.8,
+      "sid": 32,
+      "location": 2,
+      "content": "都能在土地下面找到原先被丢弃的贝壳",
+      "music": 0.0
+    },
+    {
+      "from": 66.8,
+      "to": 69.0,
+      "sid": 33,
+      "location": 2,
+      "content": "可这火热的行业也带来了很多问题",
+      "music": 0.0
+    },
+    {
+      "from": 69.0,
+      "to": 70.68,
+      "sid": 34,
+      "location": 2,
+      "content": "最严重的是马斯克亭附近",
+      "music": 0.0
+    },
+    {
+      "from": 70.68,
+      "to": 72.76,
+      "sid": 35,
+      "location": 2,
+      "content": "河床下面的贝类生物都绝迹了",
+      "music": 0.0
+    },
+    {
+      "from": 72.76,
+      "to": 75.82,
+      "sid": 36,
+      "location": 2,
+      "content": "原材料只能一车一车的从别的地方拉过来",
+      "music": 0.0
+    },
+    {
+      "from": 75.82,
+      "to": 79.1,
+      "sid": 37,
+      "location": 2,
+      "content": "但是真正摧毁珍珠纽扣业的还是时尚的改变",
+      "music": 0.0
+    },
+    {
+      "from": 79.1,
+      "to": 80.34,
+      "sid": 38,
+      "location": 2,
+      "content": "以及塑料的发明",
+      "music": 0.0
+    },
+    {
+      "from": 80.34,
+      "to": 83.71,
+      "sid": 39,
+      "location": 2,
+      "content": "珍珠纽扣是一份需要很多人工投入的辛苦活",
+      "music": 0.0
+    },
+    {
+      "from": 83.71,
+      "to": 86.67,
+      "sid": 40,
+      "location": 2,
+      "content": "而那个年代美国人大多也没有现在这么富裕",
+      "music": 0.0
+    },
+    {
+      "from": 86.67,
+      "to": 88.59,
+      "sid": 41,
+      "location": 2,
+      "content": "很多都是欧洲过来的苦力",
+      "music": 0.0
+    },
+    {
+      "from": 88.59,
+      "to": 90.71,
+      "sid": 42,
+      "location": 2,
+      "content": "那个时候他们每周要工作六天",
+      "music": 0.0
+    },
+    {
+      "from": 90.71,
+      "to": 92.09,
+      "sid": 43,
+      "location": 2,
+      "content": "每天十个小时",
+      "music": 0.0
+    },
+    {
+      "from": 92.09,
+      "to": 94.33,
+      "sid": 44,
+      "location": 2,
+      "content": "而且滥用童工的情况很严重",
+      "music": 0.0
+    },
+    {
+      "from": 94.33,
+      "to": 97.25,
+      "sid": 45,
+      "location": 2,
+      "content": "塑料的发明大大减轻了原材料上面的成本",
+      "music": 0.0
+    },
+    {
+      "from": 97.25,
+      "to": 99.98,
+      "sid": 46,
+      "location": 2,
+      "content": "由于贝类不再被用来做纽扣的原材料了",
+      "music": 0.0
+    },
+    {
+      "from": 99.98,
+      "to": 101.84,
+      "sid": 47,
+      "location": 2,
+      "content": "这边的产业也渐渐衰败了",
+      "music": 0.0
+    },
+    {
+      "from": 101.84,
+      "to": 102.82,
+      "sid": 48,
+      "location": 2,
+      "content": "在1940年代",
+      "music": 0.0
+    },
+    {
+      "from": 102.82,
+      "to": 105.52,
+      "sid": 49,
+      "location": 2,
+      "content": "这里最后一家珍珠纽扣工厂关上了大门",
+      "music": 0.0
+    },
+    {
+      "from": 105.52,
+      "to": 106.42,
+      "sid": 50,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 106.42,
+      "to": 108.54,
+      "sid": 51,
+      "location": 2,
+      "content": "马斯克林还知名于这里的西瓜",
+      "music": 0.0
+    },
+    {
+      "from": 108.54,
+      "to": 110.7,
+      "sid": 52,
+      "location": 2,
+      "content": "以及马斯卡廷的城市小报",
+      "music": 0.0
+    },
+    {
+      "from": 110.7,
+      "to": 113.32,
+      "sid": 53,
+      "location": 2,
+      "content": "马克吐温的哥哥曾经是这家报社的老板",
+      "music": 0.0
+    },
+    {
+      "from": 113.32,
+      "to": 116.34,
+      "sid": 54,
+      "location": 2,
+      "content": "因此马克吐温在马斯卡提生活过一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 116.34,
+      "to": 118.46,
+      "sid": 55,
+      "location": 2,
+      "content": "他曾经盛赞过马斯卡廷的日落",
+      "music": 0.0
+    },
+    {
+      "from": 118.46,
+      "to": 121.22,
+      "sid": 56,
+      "location": 2,
+      "content": "说从未见过任何能和他们相比的东西",
+      "music": 0.0
+    },
+    {
+      "from": 121.22,
+      "to": 124.38,
+      "sid": 57,
+      "location": 2,
+      "content": "马克吐温最有名的作品当然是汤姆索亚历险记",
+      "music": 0.0
+    },
+    {
+      "from": 124.38,
+      "to": 125.14,
+      "sid": 58,
+      "location": 2,
+      "content": "正好这段时间",
+      "music": 0.0
+    },
+    {
+      "from": 125.14,
+      "to": 127.86,
+      "sid": 59,
+      "location": 2,
+      "content": "我一直在薄荷阅读上面看他这本书的原版",
+      "music": 0.0
+    },
+    {
+      "from": 127.86,
+      "to": 129.26,
+      "sid": 60,
+      "location": 2,
+      "content": "很多我不认识的生词",
+      "music": 0.0
+    },
+    {
+      "from": 129.26,
+      "to": 131.29,
+      "sid": 61,
+      "location": 2,
+      "content": "他都在上面标注了中文含义",
+      "music": 0.0
+    },
+    {
+      "from": 131.29,
+      "to": 134.17,
+      "sid": 62,
+      "location": 2,
+      "content": "我特别喜欢他在查询词汇上面的设计",
+      "music": 0.0
+    },
+    {
+      "from": 134.17,
+      "to": 136.63,
+      "sid": 63,
+      "location": 2,
+      "content": "长按单词可以直接查询单词的意思",
+      "music": 0.0
+    },
+    {
+      "from": 136.63,
+      "to": 137.91,
+      "sid": 64,
+      "location": 2,
+      "content": "并加入单词本",
+      "music": 0.0
+    },
+    {
+      "from": 137.91,
+      "to": 138.85,
+      "sid": 65,
+      "location": 2,
+      "content": "比较难的短句",
+      "music": 0.0
+    },
+    {
+      "from": 138.85,
+      "to": 140.53,
+      "sid": 66,
+      "location": 2,
+      "content": "一般也都有划线标注",
+      "music": 0.0
+    },
+    {
+      "from": 140.53,
+      "to": 143.34,
+      "sid": 67,
+      "location": 2,
+      "content": "这些小功能使得我的阅读体验非常的流畅",
+      "music": 0.0
+    },
+    {
+      "from": 143.34,
+      "to": 145.72,
+      "sid": 68,
+      "location": 2,
+      "content": "每一章之后还有小测验和讲解",
+      "music": 0.0
+    },
+    {
+      "from": 145.72,
+      "to": 147.42,
+      "sid": 69,
+      "location": 2,
+      "content": "这些小工具也是薄荷阅读",
+      "music": 0.0
+    },
+    {
+      "from": 147.42,
+      "to": 149.73,
+      "sid": 70,
+      "location": 2,
+      "content": "比起传统的纸质书最大的优势",
+      "music": 0.0
+    },
+    {
+      "from": 149.73,
+      "to": 152.11,
+      "sid": 71,
+      "location": 2,
+      "content": "我也可以更容易坚持读完一本书",
+      "music": 0.0
+    },
+    {
+      "from": 152.11,
+      "to": 153.77,
+      "sid": 72,
+      "location": 2,
+      "content": "在汤姆索亚历险记之外",
+      "music": 0.0
+    },
+    {
+      "from": 153.77,
+      "to": 156.23,
+      "sid": 73,
+      "location": 2,
+      "content": "薄荷阅读提供更丰富的书呆选择",
+      "music": 0.0
+    },
+    {
+      "from": 156.23,
+      "to": 157.75,
+      "sid": 74,
+      "location": 2,
+      "content": "内容涵盖经典文学",
+      "music": 0.0
+    },
+    {
+      "from": 157.75,
+      "to": 158.57,
+      "sid": 75,
+      "location": 2,
+      "content": "畅销小说",
+      "music": 0.0
+    },
+    {
+      "from": 158.57,
+      "to": 160.29,
+      "sid": 76,
+      "location": 2,
+      "content": "专业百科等各种品类",
+      "music": 0.0
+    },
+    {
+      "from": 160.29,
+      "to": 161.65,
+      "sid": 77,
+      "location": 2,
+      "content": "从初阶的童话",
+      "music": 0.0
+    },
+    {
+      "from": 161.65,
+      "to": 164.77,
+      "sid": 78,
+      "location": 2,
+      "content": "中阶的福尔摩斯到高阶的百年孤独",
+      "music": 0.0
+    },
+    {
+      "from": 164.77,
+      "to": 166.33,
+      "sid": 79,
+      "location": 2,
+      "content": "每个人都能找到适合自己",
+      "music": 0.0
+    },
+    {
+      "from": 166.33,
+      "to": 167.75,
+      "sid": 80,
+      "location": 2,
+      "content": "没有太大压力的书籍",
+      "music": 0.0
+    },
+    {
+      "from": 167.75,
+      "to": 169.24,
+      "sid": 81,
+      "location": 2,
+      "content": "大家快去下载吧",
+      "music": 0.0
+    },
+    {
+      "from": 169.24,
+      "to": 171.22,
+      "sid": 82,
+      "location": 2,
+      "content": "其实我今天借到的密西西比河",
+      "music": 0.0
+    },
+    {
+      "from": 171.22,
+      "to": 173.74,
+      "sid": 83,
+      "location": 2,
+      "content": "和我根据文学作品想象的不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 173.74,
+      "to": 175.91,
+      "sid": 84,
+      "location": 2,
+      "content": "我以为航运会非常的繁忙",
+      "music": 0.0
+    },
+    {
+      "from": 175.91,
+      "to": 178.51,
+      "sid": 85,
+      "location": 2,
+      "content": "于是我问了一下在展览馆工作的老奶奶",
+      "music": 0.0
+    },
+    {
+      "from": 178.51,
+      "to": 180.7,
+      "sid": 86,
+      "location": 2,
+      "content": "为什么今天这么的空空荡荡",
+      "music": 0.0
+    },
+    {
+      "from": 180.7,
+      "to": 182.02,
+      "sid": 87,
+      "location": 2,
+      "content": "You know i don't know",
+      "music": 0.0
+    },
+    {
+      "from": 182.02,
+      "to": 182.82,
+      "sid": 88,
+      "location": 2,
+      "content": "Because usually",
+      "music": 0.0
+    },
+    {
+      "from": 182.82,
+      "to": 184.46,
+      "sid": 89,
+      "location": 2,
+      "content": "There's a lot of fishermen out there",
+      "music": 0.0
+    },
+    {
+      "from": 184.46,
+      "to": 185.98,
+      "sid": 90,
+      "location": 2,
+      "content": "And and different voting",
+      "music": 0.4576270798621135
+    },
+    {
+      "from": 185.98,
+      "to": 186.4,
+      "sid": 91,
+      "location": 2,
+      "content": "And things",
+      "music": 0.0
+    },
+    {
+      "from": 186.4,
+      "to": 188.789,
+      "sid": 92,
+      "location": 2,
+      "content": "So maybe it's because it's a weekday",
+      "music": 0.0
+    },
+    {
+      "from": 188.789,
+      "to": 189.889,
+      "sid": 93,
+      "location": 2,
+      "content": "And everybody's at work",
+      "music": 0.0
+    },
+    {
+      "from": 189.889,
+      "to": 190.549,
+      "sid": 94,
+      "location": 2,
+      "content": "I don't know",
+      "music": 0.0
+    },
+    {
+      "from": 191.629,
+      "to": 192.749,
+      "sid": 95,
+      "location": 2,
+      "content": "I know years ago",
+      "music": 0.0
+    },
+    {
+      "from": 192.749,
+      "to": 193.909,
+      "sid": 96,
+      "location": 2,
+      "content": "When my children were little",
+      "music": 0.0
+    },
+    {
+      "from": 193.909,
+      "to": 194.389,
+      "sid": 97,
+      "location": 2,
+      "content": "My husband",
+      "music": 0.0
+    },
+    {
+      "from": 194.389,
+      "to": 196.69,
+      "sid": 98,
+      "location": 2,
+      "content": "And i had little houseboat and after work",
+      "music": 0.0
+    },
+    {
+      "from": 196.69,
+      "to": 198.01,
+      "sid": 99,
+      "location": 2,
+      "content": "Would all go out on the river",
+      "music": 0.10434781701323674
+    },
+    {
+      "from": 198.01,
+      "to": 200.91,
+      "sid": 100,
+      "location": 2,
+      "content": "Till it got dark and come back in a lot of people did that too",
+      "music": 0.05693949975304146
+    },
+    {
+      "from": 200.91,
+      "to": 202.17,
+      "sid": 101,
+      "location": 2,
+      "content": "So see you once in a",
+      "music": 0.26785711894131914
+    },
+    {
+      "from": 202.17,
+      "to": 202.99,
+      "sid": 102,
+      "location": 2,
+      "content": "While grain",
+      "music": 0.0
+    },
+    {
+      "from": 202.99,
+      "to": 205.23,
+      "sid": 103,
+      "location": 2,
+      "content": "Barges coming up and down the river",
+      "music": 0.0
+    },
+    {
+      "from": 205.23,
+      "to": 208.23,
+      "sid": 104,
+      "location": 2,
+      "content": "Uh great gpc is downs in south end",
+      "music": 0.0
+    },
+    {
+      "from": 208.23,
+      "to": 209.71,
+      "sid": 105,
+      "location": 2,
+      "content": "And they will ship the grain",
+      "music": 0.2096774024453619
+    },
+    {
+      "from": 209.71,
+      "to": 212.21,
+      "sid": 106,
+      "location": 2,
+      "content": "You know like barge and stuff from all over the place",
+      "music": 0.2719999891199918
+    },
+    {
+      "from": 212.21,
+      "to": 213.209,
+      "sid": 107,
+      "location": 2,
+      "content": "But um",
+      "music": 0.43478254568366576
+    },
+    {
+      "from": 213.209,
+      "to": 213.569,
+      "sid": 108,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 213.569,
+      "to": 215.489,
+      "sid": 109,
+      "location": 2,
+      "content": "I don't know why it's empty today",
+      "music": 0.0
+    },
+    {
+      "from": 215.489,
+      "to": 217.489,
+      "sid": 110,
+      "location": 2,
+      "content": "Because it usually is kind of busy",
+      "music": 0.0
+    },
+    {
+      "from": 217.489,
+      "to": 220.689,
+      "sid": 111,
+      "location": 2,
+      "content": "Ok a lot of commercial fishermen were out",
+      "music": 0.054687497863775344
+    },
+    {
+      "from": 220.689,
+      "to": 220.929,
+      "sid": 112,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 220.929,
+      "to": 222.489,
+      "sid": 113,
+      "location": 2,
+      "content": "During my uh years",
+      "music": 0.0
+    },
+    {
+      "from": 222.489,
+      "to": 223.769,
+      "sid": 114,
+      "location": 2,
+      "content": "You know as a younger person",
+      "music": 0.0
+    },
+    {
+      "from": 223.769,
+      "to": 225.94,
+      "sid": 115,
+      "location": 2,
+      "content": "And and of course the button industry",
+      "music": 0.0
+    },
+    {
+      "from": 225.94,
+      "to": 227.24,
+      "sid": 116,
+      "location": 2,
+      "content": "And all that kind of thing too",
+      "music": 0.0
+    },
+    {
+      "from": 227.24,
+      "to": 228.78,
+      "sid": 117,
+      "location": 2,
+      "content": "It really kept it busy",
+      "music": 0.0
+    },
+    {
+      "from": 228.78,
+      "to": 231.0,
+      "sid": 118,
+      "location": 2,
+      "content": "And the logging industry too",
+      "music": 0.0
+    },
+    {
+      "from": 231.0,
+      "to": 232.78,
+      "sid": 119,
+      "location": 2,
+      "content": "So was all different",
+      "music": 0.0
+    },
+    {
+      "from": 232.78,
+      "to": 234.38,
+      "sid": 120,
+      "location": 2,
+      "content": "But i can't really explain",
+      "music": 0.0
+    },
+    {
+      "from": 234.38,
+      "to": 236.43,
+      "sid": 121,
+      "location": 2,
+      "content": "Why there's just nothing out there now man",
+      "music": 0.0
+    },
+    {
+      "from": 236.43,
+      "to": 239.01,
+      "sid": 122,
+      "location": 2,
+      "content": "So because they hauled all those buttons everywhere",
+      "music": 0.0
+    },
+    {
+      "from": 239.01,
+      "to": 239.51,
+      "sid": 123,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 239.51,
+      "to": 242.16,
+      "sid": 124,
+      "location": 2,
+      "content": "You know the the train business was a lot different",
+      "music": 0.0
+    },
+    {
+      "from": 242.16,
+      "to": 244.72,
+      "sid": 125,
+      "location": 2,
+      "content": "You know back then than it is right now too",
+      "music": 0.21093749176025095
+    },
+    {
+      "from": 244.72,
+      "to": 248.84,
+      "sid": 126,
+      "location": 2,
+      "content": "It seems like most of the the um products being shipped",
+      "music": 0.12068965170432529
+    },
+    {
+      "from": 248.84,
+      "to": 250.08,
+      "sid": 127,
+      "location": 2,
+      "content": "Are now done by symmies",
+      "music": 0.0
+    },
+    {
+      "from": 250.08,
+      "to": 251.2,
+      "sid": 128,
+      "location": 2,
+      "content": "Rather than by train",
+      "music": 0.0
+    },
+    {
+      "from": 251.2,
+      "to": 251.88,
+      "sid": 129,
+      "location": 2,
+      "content": "Seems like",
+      "music": 0.0
+    },
+    {
+      "from": 251.88,
+      "to": 254.16,
+      "sid": 130,
+      "location": 2,
+      "content": "So i'm just guessing",
+      "music": 0.0
+    },
+    {
+      "from": 254.16,
+      "to": 255.79,
+      "sid": 131,
+      "location": 2,
+      "content": "I don't really know hh",
+      "music": 0.0
+    },
+    {
+      "from": 255.79,
+      "to": 259.13,
+      "sid": 132,
+      "location": 2,
+      "content": "There's no passenger trains here anymore",
+      "music": 0.0
+    },
+    {
+      "from": 259.13,
+      "to": 261.66,
+      "sid": 133,
+      "location": 2,
+      "content": "No there used to be in in moscotine",
+      "music": 0.0
+    },
+    {
+      "from": 261.66,
+      "to": 265.18,
+      "sid": 134,
+      "location": 2,
+      "content": "And i think there is one down south in burlington",
+      "music": 0.0
+    },
+    {
+      "from": 265.18,
+      "to": 265.82,
+      "sid": 135,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 265.82,
+      "to": 269.28,
+      "sid": 136,
+      "location": 2,
+      "content": "You can get on a passenger train and go different places",
+      "music": 0.0
+    },
+    {
+      "from": 269.28,
+      "to": 271.92,
+      "sid": 137,
+      "location": 2,
+      "content": "But now there the passenger trains are kind of",
+      "music": 0.04958677481046541
+    },
+    {
+      "from": 271.92,
+      "to": 274.06,
+      "sid": 138,
+      "location": 2,
+      "content": "Located in bigger cities in fact",
+      "music": 0.0
+    },
+    {
+      "from": 274.06,
+      "to": 276.04,
+      "sid": 139,
+      "location": 2,
+      "content": "We i took a train out to colorado",
+      "music": 0.0
+    },
+    {
+      "from": 276.04,
+      "to": 277.11,
+      "sid": 140,
+      "location": 2,
+      "content": "When i was fifteen",
+      "music": 0.0
+    },
+    {
+      "from": 278.31,
+      "to": 279.47,
+      "sid": 141,
+      "location": 2,
+      "content": "你们对马斯克ting",
+      "music": 0.0
+    },
+    {
+      "from": 279.47,
+      "to": 281.49,
+      "sid": 142,
+      "location": 2,
+      "content": "和这段密西西比河的印象如何呢",
+      "music": 0.0
+    },
+    {
+      "from": 281.49,
+      "to": 282.03,
+      "sid": 143,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 282.03,
+      "to": 284.66,
+      "sid": 144,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

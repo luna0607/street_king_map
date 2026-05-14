@@ -1,0 +1,3732 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.26,
+      "sid": 1,
+      "location": 2,
+      "content": "This goes by the jail",
+      "music": 0.0
+    },
+    {
+      "from": 1.26,
+      "to": 4.84,
+      "sid": 2,
+      "location": 2,
+      "content": "The developers of rendad redetion were designing the game",
+      "music": 0.0
+    },
+    {
+      "from": 4.84,
+      "to": 6.44,
+      "sid": 3,
+      "location": 2,
+      "content": "They stopped in black water",
+      "music": 0.0
+    },
+    {
+      "from": 6.44,
+      "to": 8.68,
+      "sid": 4,
+      "location": 2,
+      "content": "But it's a little the style of red dead redemption",
+      "music": 0.0
+    },
+    {
+      "from": 8.68,
+      "to": 10.32,
+      "sid": 5,
+      "location": 2,
+      "content": "今天我来到了美国密苏里州",
+      "music": 0.0
+    },
+    {
+      "from": 10.32,
+      "to": 12.15,
+      "sid": 6,
+      "location": 2,
+      "content": "一个叫黑水镇的地方",
+      "music": 0.0
+    },
+    {
+      "from": 12.15,
+      "to": 15.47,
+      "sid": 7,
+      "location": 2,
+      "content": "在他们村口的货运铁路和原先的火车站旁边",
+      "music": 0.0
+    },
+    {
+      "from": 15.47,
+      "to": 18.009,
+      "sid": 8,
+      "location": 2,
+      "content": "我看到一个大哥在那边刷油漆",
+      "music": 0.0
+    },
+    {
+      "from": 18.009,
+      "to": 20.029,
+      "sid": 9,
+      "location": 2,
+      "content": "于是我跟他随便聊了两句",
+      "music": 0.0
+    },
+    {
+      "from": 20.029,
+      "to": 22.389,
+      "sid": 10,
+      "location": 2,
+      "content": "发现他竟然还是这边曾经的村长",
+      "music": 0.0
+    },
+    {
+      "from": 22.389,
+      "to": 27.059,
+      "sid": 11,
+      "location": 2,
+      "content": "Black water is the inspiration for the town",
+      "music": 0.0
+    },
+    {
+      "from": 27.059,
+      "to": 30.359,
+      "sid": 12,
+      "location": 2,
+      "content": "Black water in red dead redemption for for twenty years",
+      "music": 0.0
+    },
+    {
+      "from": 30.359,
+      "to": 32.09,
+      "sid": 13,
+      "location": 2,
+      "content": "I was the mayor of blackwater",
+      "music": 0.0
+    },
+    {
+      "from": 32.09,
+      "to": 33.61,
+      "sid": 14,
+      "location": 2,
+      "content": "The massacre did not happen",
+      "music": 0.0
+    },
+    {
+      "from": 33.61,
+      "to": 35.77,
+      "sid": 15,
+      "location": 2,
+      "content": "When i was mayor that was eighteen ninety",
+      "music": 0.0
+    },
+    {
+      "from": 35.77,
+      "to": 36.19,
+      "sid": 16,
+      "location": 2,
+      "content": "Nine",
+      "music": 0.0
+    },
+    {
+      "from": 36.19,
+      "to": 37.77,
+      "sid": 17,
+      "location": 2,
+      "content": "老哥也是非常的热情",
+      "music": 0.0
+    },
+    {
+      "from": 37.77,
+      "to": 40.17,
+      "sid": 18,
+      "location": 2,
+      "content": "立马就带着我在镇上逛了起来",
+      "music": 0.0
+    },
+    {
+      "from": 40.17,
+      "to": 42.43,
+      "sid": 19,
+      "location": 2,
+      "content": "It's a little the style of red dead redemption",
+      "music": 0.0
+    },
+    {
+      "from": 42.43,
+      "to": 44.61,
+      "sid": 20,
+      "location": 2,
+      "content": "The eighteen nineties",
+      "music": 0.0
+    },
+    {
+      "from": 44.61,
+      "to": 46.26,
+      "sid": 21,
+      "location": 2,
+      "content": "Uh pull hotel",
+      "music": 0.0
+    },
+    {
+      "from": 46.26,
+      "to": 48.08,
+      "sid": 22,
+      "location": 2,
+      "content": "We have eight guest rooms",
+      "music": 0.0
+    },
+    {
+      "from": 48.08,
+      "to": 49.88,
+      "sid": 23,
+      "location": 2,
+      "content": "So people can come and stay the night",
+      "music": 0.0
+    },
+    {
+      "from": 49.88,
+      "to": 50.24,
+      "sid": 24,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 50.24,
+      "to": 51.349,
+      "sid": 25,
+      "location": 2,
+      "content": "There's guest rooms",
+      "music": 0.0
+    },
+    {
+      "from": 51.349,
+      "to": 52.009,
+      "sid": 26,
+      "location": 2,
+      "content": "Upsnairs",
+      "music": 0.0
+    },
+    {
+      "from": 52.009,
+      "to": 52.269,
+      "sid": 27,
+      "location": 2,
+      "content": "One",
+      "music": 0.0
+    },
+    {
+      "from": 52.269,
+      "to": 53.009,
+      "sid": 28,
+      "location": 2,
+      "content": "Guest room here",
+      "music": 0.0
+    },
+    {
+      "from": 53.009,
+      "to": 55.889,
+      "sid": 29,
+      "location": 2,
+      "content": "Welcome to the iron horse hotel in blackwater",
+      "music": 0.0
+    },
+    {
+      "from": 55.889,
+      "to": 56.589,
+      "sid": 30,
+      "location": 2,
+      "content": "Come live",
+      "music": 0.0
+    },
+    {
+      "from": 56.589,
+      "to": 58.05,
+      "sid": 31,
+      "location": 2,
+      "content": "Like the vandling game",
+      "music": 0.0
+    },
+    {
+      "from": 58.05,
+      "to": 58.83,
+      "sid": 32,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 58.83,
+      "to": 59.17,
+      "sid": 33,
+      "location": 2,
+      "content": "Come",
+      "music": 0.0
+    },
+    {
+      "from": 59.17,
+      "to": 61.17,
+      "sid": 34,
+      "location": 2,
+      "content": "Enjoy time the blackwater",
+      "music": 0.0
+    },
+    {
+      "from": 61.17,
+      "to": 62.11,
+      "sid": 35,
+      "location": 2,
+      "content": "The bathroom",
+      "music": 0.0
+    },
+    {
+      "from": 62.11,
+      "to": 64.13,
+      "sid": 36,
+      "location": 2,
+      "content": "And this is the closet right",
+      "music": 0.0
+    },
+    {
+      "from": 64.13,
+      "to": 65.76,
+      "sid": 37,
+      "location": 2,
+      "content": "So come to the closet",
+      "music": 0.0
+    },
+    {
+      "from": 66.16,
+      "to": 70.1,
+      "sid": 38,
+      "location": 2,
+      "content": "And then no ha ha little secret passage",
+      "music": 0.0
+    },
+    {
+      "from": 70.1,
+      "to": 70.42,
+      "sid": 39,
+      "location": 2,
+      "content": "It takes",
+      "music": 0.0
+    },
+    {
+      "from": 70.42,
+      "to": 71.3,
+      "sid": 40,
+      "location": 2,
+      "content": "Oh that's right",
+      "music": 0.0
+    },
+    {
+      "from": 71.3,
+      "to": 72.18,
+      "sid": 41,
+      "location": 2,
+      "content": "Take you to the next",
+      "music": 0.0
+    },
+    {
+      "from": 72.18,
+      "to": 73.26,
+      "sid": 42,
+      "location": 2,
+      "content": "This is in case",
+      "music": 0.0
+    },
+    {
+      "from": 73.26,
+      "to": 74.83,
+      "sid": 43,
+      "location": 2,
+      "content": "The vandalling gang is here",
+      "music": 0.0
+    },
+    {
+      "from": 74.83,
+      "to": 75.95,
+      "sid": 44,
+      "location": 2,
+      "content": "When the blackwater",
+      "music": 0.0
+    },
+    {
+      "from": 75.95,
+      "to": 77.03,
+      "sid": 45,
+      "location": 2,
+      "content": "Police department arrives",
+      "music": 0.0
+    },
+    {
+      "from": 77.03,
+      "to": 77.99,
+      "sid": 46,
+      "location": 2,
+      "content": "And they have to escape",
+      "music": 0.0
+    },
+    {
+      "from": 77.99,
+      "to": 78.51,
+      "sid": 47,
+      "location": 2,
+      "content": "Quickly",
+      "music": 0.0
+    },
+    {
+      "from": 78.51,
+      "to": 81.68,
+      "sid": 48,
+      "location": 2,
+      "content": "They have the secret passage for them to escape",
+      "music": 0.0
+    },
+    {
+      "from": 82.16,
+      "to": 83.6,
+      "sid": 49,
+      "location": 2,
+      "content": "This is another guest room",
+      "music": 0.0
+    },
+    {
+      "from": 83.6,
+      "to": 84.58,
+      "sid": 50,
+      "location": 2,
+      "content": "Another guest room",
+      "music": 0.0
+    },
+    {
+      "from": 84.58,
+      "to": 85.04,
+      "sid": 51,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 85.04,
+      "to": 87.72,
+      "sid": 52,
+      "location": 2,
+      "content": "Oh uh are eighteen hundred was it",
+      "music": 0.0
+    },
+    {
+      "from": 87.72,
+      "to": 88.56,
+      "sid": 53,
+      "location": 2,
+      "content": "The same in china",
+      "music": 0.0
+    },
+    {
+      "from": 88.56,
+      "to": 89.72,
+      "sid": 54,
+      "location": 2,
+      "content": "They use this type of bathroom",
+      "music": 0.0
+    },
+    {
+      "from": 89.72,
+      "to": 90.81,
+      "sid": 55,
+      "location": 2,
+      "content": "Uh uh",
+      "music": 0.0
+    },
+    {
+      "from": 90.81,
+      "to": 92.17,
+      "sid": 56,
+      "location": 2,
+      "content": "I think we use",
+      "music": 0.0
+    },
+    {
+      "from": 92.17,
+      "to": 95.99,
+      "sid": 57,
+      "location": 2,
+      "content": "We don't use best types as frequently as this old style",
+      "music": 0.0
+    },
+    {
+      "from": 95.99,
+      "to": 96.47,
+      "sid": 58,
+      "location": 2,
+      "content": "Old style",
+      "music": 0.0
+    },
+    {
+      "from": 96.47,
+      "to": 96.79,
+      "sid": 59,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 96.79,
+      "to": 97.75,
+      "sid": 60,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 104.45,
+      "to": 107.97,
+      "sid": 61,
+      "location": 2,
+      "content": "哇这个老酒店的各种设施很完备啊",
+      "music": 0.0
+    },
+    {
+      "from": 107.97,
+      "to": 109.31,
+      "sid": 62,
+      "location": 2,
+      "content": "我上网查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 109.31,
+      "to": 111.47,
+      "sid": 63,
+      "location": 2,
+      "content": "住一晚的价格是120美元",
+      "music": 0.0
+    },
+    {
+      "from": 111.47,
+      "to": 113.46,
+      "sid": 64,
+      "location": 2,
+      "content": "你们觉得条件如何呢",
+      "music": 0.0
+    },
+    {
+      "from": 113.46,
+      "to": 116.76,
+      "sid": 65,
+      "location": 2,
+      "content": "我个人认为这在现在的美国算是比较平价了",
+      "music": 0.0
+    },
+    {
+      "from": 116.76,
+      "to": 118.42,
+      "sid": 66,
+      "location": 2,
+      "content": "毕竟在100块钱以下",
+      "music": 0.0
+    },
+    {
+      "from": 118.42,
+      "to": 121.669,
+      "sid": 67,
+      "location": 2,
+      "content": "大多只剩下我之前住的那种臭虫旅馆",
+      "music": 0.0
+    },
+    {
+      "from": 121.669,
+      "to": 124.269,
+      "sid": 68,
+      "location": 2,
+      "content": "而且这个酒店的房间还可以直接通到",
+      "music": 0.0
+    },
+    {
+      "from": 124.269,
+      "to": 125.609,
+      "sid": 69,
+      "location": 2,
+      "content": "黑水镇的主街上",
+      "music": 0.0
+    },
+    {
+      "from": 125.609,
+      "to": 126.949,
+      "sid": 70,
+      "location": 2,
+      "content": "Oh also",
+      "music": 0.0
+    },
+    {
+      "from": 126.949,
+      "to": 130.11,
+      "sid": 71,
+      "location": 2,
+      "content": "This is then and a work in progress",
+      "music": 0.0
+    },
+    {
+      "from": 130.11,
+      "to": 131.67,
+      "sid": 72,
+      "location": 2,
+      "content": "It is not finished finished them",
+      "music": 0.0
+    },
+    {
+      "from": 131.67,
+      "to": 132.73,
+      "sid": 73,
+      "location": 2,
+      "content": "Kind of ready for visitors",
+      "music": 0.0
+    },
+    {
+      "from": 132.73,
+      "to": 133.57,
+      "sid": 74,
+      "location": 2,
+      "content": "Ready for visitors",
+      "music": 0.0
+    },
+    {
+      "from": 133.57,
+      "to": 134.33,
+      "sid": 75,
+      "location": 2,
+      "content": "So yeah",
+      "music": 0.0
+    },
+    {
+      "from": 134.33,
+      "to": 136.8,
+      "sid": 76,
+      "location": 2,
+      "content": "So this will be the name is the redemption",
+      "music": 0.0
+    },
+    {
+      "from": 136.8,
+      "to": 137.86,
+      "sid": 77,
+      "location": 2,
+      "content": "Saloon name",
+      "music": 0.0
+    },
+    {
+      "from": 137.86,
+      "to": 138.86,
+      "sid": 78,
+      "location": 2,
+      "content": "Red dead redemption",
+      "music": 0.0
+    },
+    {
+      "from": 138.86,
+      "to": 140.78,
+      "sid": 79,
+      "location": 2,
+      "content": "Oh it it will be named after",
+      "music": 0.0
+    },
+    {
+      "from": 140.78,
+      "to": 141.28,
+      "sid": 80,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 141.28,
+      "to": 142.46,
+      "sid": 81,
+      "location": 2,
+      "content": "Redemption saloon",
+      "music": 0.0
+    },
+    {
+      "from": 142.46,
+      "to": 145.0,
+      "sid": 82,
+      "location": 2,
+      "content": "Oh for the for the red dead redemption",
+      "music": 0.0
+    },
+    {
+      "from": 145.0,
+      "to": 147.8,
+      "sid": 83,
+      "location": 2,
+      "content": "Players when they get very tired chasing the bad guys",
+      "music": 0.0
+    },
+    {
+      "from": 147.8,
+      "to": 150.67,
+      "sid": 84,
+      "location": 2,
+      "content": "They can come and have a drink at the redemption",
+      "music": 0.0
+    },
+    {
+      "from": 150.67,
+      "to": 151.49,
+      "sid": 85,
+      "location": 2,
+      "content": "Saloon",
+      "music": 0.0
+    },
+    {
+      "from": 151.49,
+      "to": 152.85,
+      "sid": 86,
+      "location": 2,
+      "content": "So this will be",
+      "music": 0.0
+    },
+    {
+      "from": 152.85,
+      "to": 153.97,
+      "sid": 87,
+      "location": 2,
+      "content": "We're working on it",
+      "music": 0.0
+    },
+    {
+      "from": 153.97,
+      "to": 155.59,
+      "sid": 88,
+      "location": 2,
+      "content": "Still there was a saloon",
+      "music": 0.0
+    },
+    {
+      "from": 155.59,
+      "to": 157.69,
+      "sid": 89,
+      "location": 2,
+      "content": "And we're we're redoing it now",
+      "music": 0.0
+    },
+    {
+      "from": 157.69,
+      "to": 161.15,
+      "sid": 90,
+      "location": 2,
+      "content": "And we will have some um um",
+      "music": 0.0
+    },
+    {
+      "from": 161.15,
+      "to": 164.55,
+      "sid": 91,
+      "location": 2,
+      "content": "So some memorabilia on the walls about red dead redemption",
+      "music": 0.0
+    },
+    {
+      "from": 164.55,
+      "to": 168.7,
+      "sid": 92,
+      "location": 2,
+      "content": "And that talk about the massacre of eighteen ninety",
+      "music": 0.0
+    },
+    {
+      "from": 168.7,
+      "to": 169.38,
+      "sid": 93,
+      "location": 2,
+      "content": "Nine",
+      "music": 0.0
+    },
+    {
+      "from": 169.38,
+      "to": 171.36,
+      "sid": 94,
+      "location": 2,
+      "content": "Maybe it didn't have it in real life",
+      "music": 0.0
+    },
+    {
+      "from": 171.36,
+      "to": 172.43,
+      "sid": 95,
+      "location": 2,
+      "content": "Maybe it did",
+      "music": 0.0
+    },
+    {
+      "from": 172.43,
+      "to": 173.13,
+      "sid": 96,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 173.13,
+      "to": 174.77,
+      "sid": 97,
+      "location": 2,
+      "content": "How do you play piano again",
+      "music": 0.0
+    },
+    {
+      "from": 174.77,
+      "to": 176.65,
+      "sid": 98,
+      "location": 2,
+      "content": "Oh i think this one is not so good",
+      "music": 0.0
+    },
+    {
+      "from": 176.65,
+      "to": 178.03,
+      "sid": 99,
+      "location": 2,
+      "content": "This was a player piano",
+      "music": 0.0
+    },
+    {
+      "from": 178.03,
+      "to": 180.82,
+      "sid": 100,
+      "location": 2,
+      "content": "So it has it has uu",
+      "music": 0.0
+    },
+    {
+      "from": 180.82,
+      "to": 182.4,
+      "sid": 101,
+      "location": 2,
+      "content": "It plays by itself",
+      "music": 0.0
+    },
+    {
+      "from": 182.4,
+      "to": 183.8,
+      "sid": 102,
+      "location": 2,
+      "content": "But i don't know how to make it work",
+      "music": 0.0
+    },
+    {
+      "from": 183.8,
+      "to": 185.29,
+      "sid": 103,
+      "location": 2,
+      "content": "So okay",
+      "music": 0.0
+    },
+    {
+      "from": 185.61,
+      "to": 188.07,
+      "sid": 104,
+      "location": 2,
+      "content": "It's an old style from the eighteen hundreds",
+      "music": 0.0
+    },
+    {
+      "from": 188.07,
+      "to": 194.18,
+      "sid": 105,
+      "location": 2,
+      "content": "That it has a it has a the way to read the uh",
+      "music": 0.0
+    },
+    {
+      "from": 194.18,
+      "to": 195.86,
+      "sid": 106,
+      "location": 2,
+      "content": "These holds sponched in it",
+      "music": 0.0
+    },
+    {
+      "from": 195.86,
+      "to": 199.98,
+      "sid": 107,
+      "location": 2,
+      "content": "And so we play automatically uand uh",
+      "music": 0.0
+    },
+    {
+      "from": 199.98,
+      "to": 201.78,
+      "sid": 108,
+      "location": 2,
+      "content": "But i don't know how to do it",
+      "music": 0.0
+    },
+    {
+      "from": 201.78,
+      "to": 205.85,
+      "sid": 109,
+      "location": 2,
+      "content": "So when the developers of renderridiction were designing the game",
+      "music": 0.0
+    },
+    {
+      "from": 205.85,
+      "to": 207.53,
+      "sid": 110,
+      "location": 2,
+      "content": "They stopped in black water",
+      "music": 0.0
+    },
+    {
+      "from": 207.53,
+      "to": 210.85,
+      "sid": 111,
+      "location": 2,
+      "content": "And they liked the saloon that we had in black water",
+      "music": 0.0
+    },
+    {
+      "from": 210.85,
+      "to": 212.47,
+      "sid": 112,
+      "location": 2,
+      "content": "It was an old west saloon",
+      "music": 0.0
+    },
+    {
+      "from": 212.47,
+      "to": 217.76,
+      "sid": 113,
+      "location": 2,
+      "content": "And so this was part of a little piece of their inspiration for for the game",
+      "music": 0.0
+    },
+    {
+      "from": 217.76,
+      "to": 221.47,
+      "sid": 114,
+      "location": 2,
+      "content": "And for using black water afterwards some years later",
+      "music": 0.0
+    },
+    {
+      "from": 221.47,
+      "to": 222.76,
+      "sid": 115,
+      "location": 2,
+      "content": "The saloon clothes",
+      "music": 0.0
+    },
+    {
+      "from": 222.76,
+      "to": 225.24,
+      "sid": 116,
+      "location": 2,
+      "content": "But we were able to to relocate",
+      "music": 0.0
+    },
+    {
+      "from": 225.24,
+      "to": 226.84,
+      "sid": 117,
+      "location": 2,
+      "content": "All of the original furniture",
+      "music": 0.0
+    },
+    {
+      "from": 226.84,
+      "to": 231.36,
+      "sid": 118,
+      "location": 2,
+      "content": "And the bar and the back bar and piano and and gaming tables",
+      "music": 0.0
+    },
+    {
+      "from": 231.36,
+      "to": 236.11,
+      "sid": 119,
+      "location": 2,
+      "content": "And so we are recreating the solution here for visitors",
+      "music": 0.0
+    },
+    {
+      "from": 236.11,
+      "to": 236.93,
+      "sid": 120,
+      "location": 2,
+      "content": "Who like red",
+      "music": 0.0
+    },
+    {
+      "from": 236.93,
+      "to": 237.73,
+      "sid": 121,
+      "location": 2,
+      "content": "Dead redetion",
+      "music": 0.0
+    },
+    {
+      "from": 237.73,
+      "to": 239.73,
+      "sid": 122,
+      "location": 2,
+      "content": "Or even if they only like old west",
+      "music": 0.0
+    },
+    {
+      "from": 239.73,
+      "to": 241.35,
+      "sid": 123,
+      "location": 2,
+      "content": "Oh this was ororiginal",
+      "music": 0.0
+    },
+    {
+      "from": 241.35,
+      "to": 241.69,
+      "sid": 124,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 241.69,
+      "to": 242.39,
+      "sid": 125,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 242.39,
+      "to": 243.36,
+      "sid": 126,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 243.36,
+      "to": 245.64,
+      "sid": 127,
+      "location": 2,
+      "content": "不知道大家觉得现实中的黑水镇",
+      "music": 0.0
+    },
+    {
+      "from": 245.64,
+      "to": 247.58,
+      "sid": 128,
+      "location": 2,
+      "content": "跟游戏中的差别有多大呢",
+      "music": 0.0
+    },
+    {
+      "from": 247.58,
+      "to": 249.25,
+      "sid": 129,
+      "location": 2,
+      "content": "我问了一下镇长",
+      "music": 0.0
+    },
+    {
+      "from": 249.25,
+      "to": 251.95,
+      "sid": 130,
+      "location": 2,
+      "content": "黑水镇的主路原先是鹅卵石的",
+      "music": 0.0
+    },
+    {
+      "from": 251.95,
+      "to": 253.87,
+      "sid": 131,
+      "location": 2,
+      "content": "但是后来因为这条主路变成了",
+      "music": 0.0
+    },
+    {
+      "from": 253.87,
+      "to": 255.55,
+      "sid": 132,
+      "location": 2,
+      "content": "密苏里州公路的一部分",
+      "music": 0.0
+    },
+    {
+      "from": 255.55,
+      "to": 257.51,
+      "sid": 133,
+      "location": 2,
+      "content": "必须按照州的统一标准",
+      "music": 0.0
+    },
+    {
+      "from": 257.51,
+      "to": 259.39,
+      "sid": 134,
+      "location": 2,
+      "content": "于是就改成了现代的材料",
+      "music": 0.0
+    },
+    {
+      "from": 259.39,
+      "to": 261.839,
+      "sid": 135,
+      "location": 2,
+      "content": "现实中的黑水镇只有200个人不到",
+      "music": 0.0
+    },
+    {
+      "from": 261.839,
+      "to": 263.199,
+      "sid": 136,
+      "location": 2,
+      "content": "老观众可以对比一下",
+      "music": 0.0
+    },
+    {
+      "from": 263.199,
+      "to": 265.379,
+      "sid": 137,
+      "location": 2,
+      "content": "之前我去过的同等大小的村庄",
+      "music": 0.0
+    },
+    {
+      "from": 265.379,
+      "to": 267.5,
+      "sid": 138,
+      "location": 2,
+      "content": "这边的市容是好上了不少",
+      "music": 0.0
+    },
+    {
+      "from": 267.5,
+      "to": 268.3,
+      "sid": 139,
+      "location": 2,
+      "content": "镇长说",
+      "music": 0.0
+    },
+    {
+      "from": 268.3,
+      "to": 271.36,
+      "sid": 140,
+      "location": 2,
+      "content": "黑水镇原先也是有不少空置废弃的危房",
+      "music": 0.0
+    },
+    {
+      "from": 271.36,
+      "to": 273.82,
+      "sid": 141,
+      "location": 2,
+      "content": "后来他们把这些房子都拆掉了",
+      "music": 0.0
+    },
+    {
+      "from": 273.82,
+      "to": 276.76,
+      "sid": 142,
+      "location": 2,
+      "content": "建成了这些小楼与小楼之间的花园啊",
+      "music": 0.0
+    },
+    {
+      "from": 276.76,
+      "to": 278.04,
+      "sid": 143,
+      "location": 2,
+      "content": "这是只西里哦",
+      "music": 0.0
+    },
+    {
+      "from": 278.04,
+      "to": 279.97,
+      "sid": 144,
+      "location": 2,
+      "content": "嗯i don't take anyone here",
+      "music": 0.0
+    },
+    {
+      "from": 279.97,
+      "to": 281.01,
+      "sid": 145,
+      "location": 2,
+      "content": "Right now",
+      "music": 0.0
+    },
+    {
+      "from": 281.37,
+      "to": 281.85,
+      "sid": 146,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 281.85,
+      "to": 282.27,
+      "sid": 147,
+      "location": 2,
+      "content": "Another way",
+      "music": 0.0
+    },
+    {
+      "from": 282.27,
+      "to": 283.87,
+      "sid": 148,
+      "location": 2,
+      "content": "There you have prece station",
+      "music": 0.0
+    },
+    {
+      "from": 283.87,
+      "to": 284.29,
+      "sid": 149,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 284.29,
+      "to": 286.97,
+      "sid": 150,
+      "location": 2,
+      "content": "Are you ask about uh police station station",
+      "music": 0.0
+    },
+    {
+      "from": 286.97,
+      "to": 288.21,
+      "sid": 151,
+      "location": 2,
+      "content": "Police station in jail",
+      "music": 0.0
+    },
+    {
+      "from": 288.21,
+      "to": 289.34,
+      "sid": 152,
+      "location": 2,
+      "content": "U",
+      "music": 0.0
+    },
+    {
+      "from": 289.98,
+      "to": 292.5,
+      "sid": 153,
+      "location": 2,
+      "content": "If you if your followers come to black water",
+      "music": 0.0
+    },
+    {
+      "from": 292.5,
+      "to": 293.74,
+      "sid": 154,
+      "location": 2,
+      "content": "And they are bad",
+      "music": 0.0
+    },
+    {
+      "from": 293.74,
+      "to": 295.94,
+      "sid": 155,
+      "location": 2,
+      "content": "They might find themselves in the jail",
+      "music": 0.0
+    },
+    {
+      "from": 295.94,
+      "to": 296.74,
+      "sid": 156,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 296.74,
+      "to": 298.23,
+      "sid": 157,
+      "location": 2,
+      "content": "Hhh",
+      "music": 0.0
+    },
+    {
+      "from": 298.23,
+      "to": 299.45,
+      "sid": 158,
+      "location": 2,
+      "content": "But it's okay",
+      "music": 0.0
+    },
+    {
+      "from": 299.45,
+      "to": 301.33,
+      "sid": 159,
+      "location": 2,
+      "content": "Because they have nice bed to sleep",
+      "music": 0.0
+    },
+    {
+      "from": 301.33,
+      "to": 303.97,
+      "sid": 160,
+      "location": 2,
+      "content": "And they have a restroom",
+      "music": 0.0
+    },
+    {
+      "from": 303.97,
+      "to": 305.35,
+      "sid": 161,
+      "location": 2,
+      "content": "And so oh",
+      "music": 0.0
+    },
+    {
+      "from": 305.35,
+      "to": 306.09,
+      "sid": 162,
+      "location": 2,
+      "content": "What's the rest",
+      "music": 0.0
+    },
+    {
+      "from": 306.09,
+      "to": 306.87,
+      "sid": 163,
+      "location": 2,
+      "content": "What's the rest",
+      "music": 0.0
+    },
+    {
+      "from": 306.87,
+      "to": 308.35,
+      "sid": 164,
+      "location": 2,
+      "content": "Oh this one bucket",
+      "music": 0.0
+    },
+    {
+      "from": 308.35,
+      "to": 309.25,
+      "sid": 165,
+      "location": 2,
+      "content": "Oh okay",
+      "music": 0.0
+    },
+    {
+      "from": 309.25,
+      "to": 310.83,
+      "sid": 166,
+      "location": 2,
+      "content": "And we give them very good",
+      "music": 0.0
+    },
+    {
+      "from": 310.83,
+      "to": 312.2,
+      "sid": 167,
+      "location": 2,
+      "content": "Food water and bread",
+      "music": 0.0
+    },
+    {
+      "from": 312.2,
+      "to": 313.14,
+      "sid": 168,
+      "location": 2,
+      "content": "Whatever",
+      "music": 0.0
+    },
+    {
+      "from": 313.14,
+      "to": 313.62,
+      "sid": 169,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 313.62,
+      "to": 314.6,
+      "sid": 170,
+      "location": 2,
+      "content": "For the prisoners",
+      "music": 0.0
+    },
+    {
+      "from": 314.6,
+      "to": 315.66,
+      "sid": 171,
+      "location": 2,
+      "content": "Prisoners",
+      "music": 0.0
+    },
+    {
+      "from": 315.66,
+      "to": 318.7,
+      "sid": 172,
+      "location": 2,
+      "content": "And i don't think i think no one knows the combination",
+      "music": 0.0
+    },
+    {
+      "from": 318.7,
+      "to": 320.18,
+      "sid": 173,
+      "location": 2,
+      "content": "So i hope it never gets closed",
+      "music": 0.0
+    },
+    {
+      "from": 320.18,
+      "to": 321.83,
+      "sid": 174,
+      "location": 2,
+      "content": "Oh okay",
+      "music": 0.0
+    },
+    {
+      "from": 321.83,
+      "to": 323.19,
+      "sid": 175,
+      "location": 2,
+      "content": "I'll never find accombination",
+      "music": 0.0
+    },
+    {
+      "from": 323.19,
+      "to": 324.21,
+      "sid": 176,
+      "location": 2,
+      "content": "But uh",
+      "music": 0.0
+    },
+    {
+      "from": 324.21,
+      "to": 325.65,
+      "sid": 177,
+      "location": 2,
+      "content": "Oh this is a real bathroom",
+      "music": 0.0
+    },
+    {
+      "from": 325.65,
+      "to": 325.95,
+      "sid": 178,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 325.95,
+      "to": 327.23,
+      "sid": 179,
+      "location": 2,
+      "content": "They look like on the outside",
+      "music": 0.0
+    },
+    {
+      "from": 327.23,
+      "to": 328.66,
+      "sid": 180,
+      "location": 2,
+      "content": "They look like out of you say",
+      "music": 0.0
+    },
+    {
+      "from": 328.66,
+      "to": 330.14,
+      "sid": 181,
+      "location": 2,
+      "content": "Out houses like old fashion",
+      "music": 0.0
+    },
+    {
+      "from": 330.14,
+      "to": 332.32,
+      "sid": 182,
+      "location": 2,
+      "content": "But inside their normal ubno",
+      "music": 0.0
+    },
+    {
+      "from": 332.32,
+      "to": 332.54,
+      "sid": 183,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 332.54,
+      "to": 333.34,
+      "sid": 184,
+      "location": 2,
+      "content": "This is women's",
+      "music": 0.0
+    },
+    {
+      "from": 333.34,
+      "to": 336.31,
+      "sid": 185,
+      "location": 2,
+      "content": "But they are it's unit sexy",
+      "music": 0.0
+    },
+    {
+      "from": 336.31,
+      "to": 337.67,
+      "sid": 186,
+      "location": 2,
+      "content": "And then uh",
+      "music": 0.0
+    },
+    {
+      "from": 337.67,
+      "to": 340.03,
+      "sid": 187,
+      "location": 2,
+      "content": "This building was a bank uh",
+      "music": 0.0
+    },
+    {
+      "from": 340.03,
+      "to": 341.91,
+      "sid": 188,
+      "location": 2,
+      "content": "And u it closed in",
+      "music": 0.0
+    },
+    {
+      "from": 341.91,
+      "to": 343.53,
+      "sid": 189,
+      "location": 2,
+      "content": "During the the depression",
+      "music": 0.0
+    },
+    {
+      "from": 343.53,
+      "to": 344.17,
+      "sid": 190,
+      "location": 2,
+      "content": "What's that",
+      "music": 0.0
+    },
+    {
+      "from": 344.17,
+      "to": 344.69,
+      "sid": 191,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 344.69,
+      "to": 346.45,
+      "sid": 192,
+      "location": 2,
+      "content": "This is this goes by the jail",
+      "music": 0.0
+    },
+    {
+      "from": 346.45,
+      "to": 347.75,
+      "sid": 193,
+      "location": 2,
+      "content": "Uh goes by the jail",
+      "music": 0.0
+    },
+    {
+      "from": 347.75,
+      "to": 348.09,
+      "sid": 194,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 348.09,
+      "to": 348.56,
+      "sid": 195,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 348.56,
+      "to": 350.48,
+      "sid": 196,
+      "location": 2,
+      "content": "我的也",
+      "music": 0.0
+    },
+    {
+      "from": 354.08,
+      "to": 358.289,
+      "sid": 197,
+      "location": 2,
+      "content": "呼黑水镇的老银行现在被改成一个电话博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 358.289,
+      "to": 360.229,
+      "sid": 198,
+      "location": 2,
+      "content": "由于黑水镇只有200个人",
+      "music": 0.0
+    },
+    {
+      "from": 360.229,
+      "to": 361.629,
+      "sid": 199,
+      "location": 2,
+      "content": "根本请不起人",
+      "music": 0.0
+    },
+    {
+      "from": 361.629,
+      "to": 363.709,
+      "sid": 200,
+      "location": 2,
+      "content": "这个博物馆不仅是免费的",
+      "music": 0.0
+    },
+    {
+      "from": 363.709,
+      "to": 366.15,
+      "sid": 201,
+      "location": 2,
+      "content": "而且还是完全无人值守的",
+      "music": 0.0
+    },
+    {
+      "from": 366.15,
+      "to": 367.95,
+      "sid": 202,
+      "location": 2,
+      "content": "而修建大表哥酒馆",
+      "music": 0.0
+    },
+    {
+      "from": 367.95,
+      "to": 368.95,
+      "sid": 203,
+      "location": 2,
+      "content": "街头的花园",
+      "music": 0.0
+    },
+    {
+      "from": 368.95,
+      "to": 370.55,
+      "sid": 204,
+      "location": 2,
+      "content": "还有各种各样的计划项目",
+      "music": 0.0
+    },
+    {
+      "from": 370.55,
+      "to": 373.53,
+      "sid": 205,
+      "location": 2,
+      "content": "也都是镇长和他几个亲戚朋友自愿在搞",
+      "music": 0.0
+    },
+    {
+      "from": 373.53,
+      "to": 375.69,
+      "sid": 206,
+      "location": 2,
+      "content": "我也是挺佩服他们的毅力",
+      "music": 0.0
+    },
+    {
+      "from": 375.69,
+      "to": 376.93,
+      "sid": 207,
+      "location": 2,
+      "content": "在大表哥之外",
+      "music": 0.0
+    },
+    {
+      "from": 376.93,
+      "to": 379.21,
+      "sid": 208,
+      "location": 2,
+      "content": "黑水镇也有自己的历史小镇",
+      "music": 0.0
+    },
+    {
+      "from": 379.21,
+      "to": 380.05,
+      "sid": 209,
+      "location": 2,
+      "content": "在1887年",
+      "music": 0.0
+    },
+    {
+      "from": 380.05,
+      "to": 381.97,
+      "sid": 210,
+      "location": 2,
+      "content": "围绕着他们的老火车站建里",
+      "music": 0.0
+    },
+    {
+      "from": 381.97,
+      "to": 384.05,
+      "sid": 211,
+      "location": 2,
+      "content": "铁路为当地带来了不少就业",
+      "music": 0.0
+    },
+    {
+      "from": 384.05,
+      "to": 385.37,
+      "sid": 212,
+      "location": 2,
+      "content": "这边在1930年",
+      "music": 0.0
+    },
+    {
+      "from": 385.37,
+      "to": 387.51,
+      "sid": 213,
+      "location": 2,
+      "content": "人口达到了巅峰的506个人",
+      "music": 0.0
+    },
+    {
+      "from": 387.51,
+      "to": 389.59,
+      "sid": 214,
+      "location": 2,
+      "content": "但是随着铁路公司的破产",
+      "music": 0.0
+    },
+    {
+      "from": 389.59,
+      "to": 391.789,
+      "sid": 215,
+      "location": 2,
+      "content": "这边的就业机会就慢慢减少了",
+      "music": 0.0
+    },
+    {
+      "from": 391.789,
+      "to": 394.609,
+      "sid": 216,
+      "location": 2,
+      "content": "再加上1950年附近另外一个大雇主",
+      "music": 0.0
+    },
+    {
+      "from": 394.609,
+      "to": 395.989,
+      "sid": 217,
+      "location": 2,
+      "content": "一个矿坑的关闭",
+      "music": 0.0
+    },
+    {
+      "from": 395.989,
+      "to": 398.6,
+      "sid": 218,
+      "location": 2,
+      "content": "现在小智只剩下170个人",
+      "music": 0.0
+    },
+    {
+      "from": 398.6,
+      "to": 402.14,
+      "sid": 219,
+      "location": 2,
+      "content": "所以说老哥一直在努力振兴一下本地的经济",
+      "music": 0.0
+    },
+    {
+      "from": 402.14,
+      "to": 405.23,
+      "sid": 220,
+      "location": 2,
+      "content": "不仅在新建一些和大表哥相关的东西",
+      "music": 0.0
+    },
+    {
+      "from": 405.23,
+      "to": 408.19,
+      "sid": 221,
+      "location": 2,
+      "content": "还在翻修一些和小镇历史相关的物件",
+      "music": 0.0
+    },
+    {
+      "from": 408.19,
+      "to": 409.73,
+      "sid": 222,
+      "location": 2,
+      "content": "They have the railroads u",
+      "music": 0.0
+    },
+    {
+      "from": 409.73,
+      "to": 411.41,
+      "sid": 223,
+      "location": 2,
+      "content": "This one was built in that nineteen",
+      "music": 0.0
+    },
+    {
+      "from": 411.41,
+      "to": 411.81,
+      "sid": 224,
+      "location": 2,
+      "content": "Nineteen",
+      "music": 0.0
+    },
+    {
+      "from": 411.81,
+      "to": 413.73,
+      "sid": 225,
+      "location": 2,
+      "content": "So a little over a hundred years ago",
+      "music": 0.0
+    },
+    {
+      "from": 413.73,
+      "to": 415.97,
+      "sid": 226,
+      "location": 2,
+      "content": "But it's been empty for about fifty years",
+      "music": 0.0
+    },
+    {
+      "from": 415.97,
+      "to": 419.94,
+      "sid": 227,
+      "location": 2,
+      "content": "Oh just it was just a mess it was just very uh",
+      "music": 0.0
+    },
+    {
+      "from": 420.54,
+      "to": 422.48,
+      "sid": 228,
+      "location": 2,
+      "content": "Not used in people with road",
+      "music": 0.0
+    },
+    {
+      "from": 422.48,
+      "to": 423.18,
+      "sid": 229,
+      "location": 2,
+      "content": "Garbage",
+      "music": 0.0
+    },
+    {
+      "from": 423.18,
+      "to": 423.78,
+      "sid": 230,
+      "location": 2,
+      "content": "Garbage",
+      "music": 0.0
+    },
+    {
+      "from": 423.78,
+      "to": 425.08,
+      "sid": 231,
+      "location": 2,
+      "content": "But now we're cleaning it up",
+      "music": 0.0
+    },
+    {
+      "from": 425.08,
+      "to": 428.99,
+      "sid": 232,
+      "location": 2,
+      "content": "Where we'll make a small uh museum about agriculture",
+      "music": 0.0
+    },
+    {
+      "from": 431.66,
+      "to": 436.32,
+      "sid": 233,
+      "location": 2,
+      "content": "And it will tell the story of agriculture in this area from eighteen",
+      "music": 0.0
+    },
+    {
+      "from": 436.32,
+      "to": 438.02,
+      "sid": 234,
+      "location": 2,
+      "content": "Hundred forward",
+      "music": 0.0
+    },
+    {
+      "from": 438.02,
+      "to": 440.2,
+      "sid": 235,
+      "location": 2,
+      "content": "But also in grain",
+      "music": 0.0
+    },
+    {
+      "from": 440.2,
+      "to": 440.84,
+      "sid": 236,
+      "location": 2,
+      "content": "Elevators",
+      "music": 0.0
+    },
+    {
+      "from": 440.84,
+      "to": 442.28,
+      "sid": 237,
+      "location": 2,
+      "content": "Where they stored the grain",
+      "music": 0.0
+    },
+    {
+      "from": 442.28,
+      "to": 444.34,
+      "sid": 238,
+      "location": 2,
+      "content": "So here was mostly wheat",
+      "music": 0.0
+    },
+    {
+      "from": 444.34,
+      "to": 445.72,
+      "sid": 239,
+      "location": 2,
+      "content": "But now a lot of corn",
+      "music": 0.0
+    },
+    {
+      "from": 445.72,
+      "to": 446.84,
+      "sid": 240,
+      "location": 2,
+      "content": "And a lot of soy",
+      "music": 0.0
+    },
+    {
+      "from": 446.84,
+      "to": 450.12,
+      "sid": 241,
+      "location": 2,
+      "content": "But they would store them in these big concrete towers",
+      "music": 0.0
+    },
+    {
+      "from": 450.12,
+      "to": 452.36,
+      "sid": 242,
+      "location": 2,
+      "content": "Normally people don't go in these towers",
+      "music": 0.0
+    },
+    {
+      "from": 452.36,
+      "to": 455.989,
+      "sid": 243,
+      "location": 2,
+      "content": "But we put doorways remember this",
+      "music": 0.0
+    },
+    {
+      "from": 455.989,
+      "to": 457.209,
+      "sid": 244,
+      "location": 2,
+      "content": "This is a project",
+      "music": 0.0
+    },
+    {
+      "from": 457.209,
+      "to": 457.949,
+      "sid": 245,
+      "location": 2,
+      "content": "We're working on",
+      "music": 0.0
+    },
+    {
+      "from": 457.949,
+      "to": 459.049,
+      "sid": 246,
+      "location": 2,
+      "content": "So maybe in one year",
+      "music": 0.0
+    },
+    {
+      "from": 459.049,
+      "to": 459.94,
+      "sid": 247,
+      "location": 2,
+      "content": "It will be finished",
+      "music": 0.0
+    },
+    {
+      "from": 459.94,
+      "to": 461.5,
+      "sid": 248,
+      "location": 2,
+      "content": "But so we got doorways",
+      "music": 0.0
+    },
+    {
+      "from": 461.5,
+      "to": 465.47,
+      "sid": 249,
+      "location": 2,
+      "content": "So it's possible to go into wove uh",
+      "music": 0.2579505209204641
+    },
+    {
+      "from": 465.47,
+      "to": 467.11,
+      "sid": 250,
+      "location": 2,
+      "content": "Oh i don't have enough light",
+      "music": 0.07926828784949252
+    },
+    {
+      "from": 467.11,
+      "to": 471.78,
+      "sid": 251,
+      "location": 2,
+      "content": "But it's sixty five feet above with this project",
+      "music": 0.0
+    },
+    {
+      "from": 471.78,
+      "to": 474.42,
+      "sid": 252,
+      "location": 2,
+      "content": "We hope in one year will definition of pork",
+      "music": 0.0
+    },
+    {
+      "from": 474.42,
+      "to": 476.97,
+      "sid": 253,
+      "location": 2,
+      "content": "And uh a little bit",
+      "music": 0.0
+    },
+    {
+      "from": 476.97,
+      "to": 478.61,
+      "sid": 254,
+      "location": 2,
+      "content": "But we're still working on it",
+      "music": 0.0
+    },
+    {
+      "from": 478.61,
+      "to": 479.73,
+      "sid": 255,
+      "location": 2,
+      "content": "But it shows uh",
+      "music": 0.0
+    },
+    {
+      "from": 479.73,
+      "to": 481.19,
+      "sid": 256,
+      "location": 2,
+      "content": "We'll have you old pictures of",
+      "music": 0.0
+    },
+    {
+      "from": 481.19,
+      "to": 482.51,
+      "sid": 257,
+      "location": 2,
+      "content": "How they how they did",
+      "music": 0.0
+    },
+    {
+      "from": 482.51,
+      "to": 485.21,
+      "sid": 258,
+      "location": 2,
+      "content": "How they processed for",
+      "music": 0.0
+    },
+    {
+      "from": 492.22,
+      "to": 496.14,
+      "sid": 259,
+      "location": 2,
+      "content": "We were in the eighteen hundred a a couple of small mines",
+      "music": 0.0
+    },
+    {
+      "from": 496.14,
+      "to": 499.08,
+      "sid": 260,
+      "location": 2,
+      "content": "So we're we're just beginning this project",
+      "music": 0.0
+    },
+    {
+      "from": 499.08,
+      "to": 499.42,
+      "sid": 261,
+      "location": 2,
+      "content": "Also",
+      "music": 0.0
+    },
+    {
+      "from": 499.42,
+      "to": 503.77,
+      "sid": 262,
+      "location": 2,
+      "content": "So it will it will have information about the minds of our area",
+      "music": 0.0
+    },
+    {
+      "from": 503.77,
+      "to": 507.89,
+      "sid": 263,
+      "location": 2,
+      "content": "So this was really built for storing uh",
+      "music": 0.0
+    },
+    {
+      "from": 507.89,
+      "to": 509.13,
+      "sid": 264,
+      "location": 2,
+      "content": "Like food and vegetables",
+      "music": 0.22580643340272916
+    },
+    {
+      "from": 509.13,
+      "to": 512.47,
+      "sid": 265,
+      "location": 2,
+      "content": "Ttanning food to preserve",
+      "music": 0.0
+    },
+    {
+      "from": 512.47,
+      "to": 514.19,
+      "sid": 266,
+      "location": 2,
+      "content": "They would build underground",
+      "music": 0.0
+    },
+    {
+      "from": 514.19,
+      "to": 516.669,
+      "sid": 267,
+      "location": 2,
+      "content": "Because the temperature is more stable",
+      "music": 0.0
+    },
+    {
+      "from": 516.669,
+      "to": 519.109,
+      "sid": 268,
+      "location": 2,
+      "content": "But we thought because it's stone walls",
+      "music": 0.0
+    },
+    {
+      "from": 519.109,
+      "to": 519.909,
+      "sid": 269,
+      "location": 2,
+      "content": "It's underground",
+      "music": 0.0
+    },
+    {
+      "from": 519.909,
+      "to": 520.749,
+      "sid": 270,
+      "location": 2,
+      "content": "It'll make a nice",
+      "music": 0.0
+    },
+    {
+      "from": 520.749,
+      "to": 523.439,
+      "sid": 271,
+      "location": 2,
+      "content": "This life for my name or a pump",
+      "music": 0.0
+    },
+    {
+      "from": 523.439,
+      "to": 523.839,
+      "sid": 272,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 523.839,
+      "to": 527.559,
+      "sid": 273,
+      "location": 2,
+      "content": "There's the red in the middle that that was where the businesses downtown",
+      "music": 0.0
+    },
+    {
+      "from": 527.559,
+      "to": 528.879,
+      "sid": 274,
+      "location": 2,
+      "content": "They would come here to take their water",
+      "music": 0.0
+    },
+    {
+      "from": 528.879,
+      "to": 530.45,
+      "sid": 275,
+      "location": 2,
+      "content": "Ah a hundred years ago",
+      "music": 0.0
+    },
+    {
+      "from": 530.45,
+      "to": 531.79,
+      "sid": 276,
+      "location": 2,
+      "content": "You can see the big uh",
+      "music": 0.0
+    },
+    {
+      "from": 531.79,
+      "to": 533.25,
+      "sid": 277,
+      "location": 2,
+      "content": "The larger brick building at the end",
+      "music": 0.0
+    },
+    {
+      "from": 533.25,
+      "to": 533.95,
+      "sid": 278,
+      "location": 2,
+      "content": "This is our school",
+      "music": 0.0
+    },
+    {
+      "from": 533.95,
+      "to": 535.69,
+      "sid": 279,
+      "location": 2,
+      "content": "We have kindergarten through eighth grade",
+      "music": 0.0
+    },
+    {
+      "from": 535.69,
+      "to": 536.17,
+      "sid": 280,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 536.17,
+      "to": 537.53,
+      "sid": 281,
+      "location": 2,
+      "content": "In black water for high school",
+      "music": 0.0
+    },
+    {
+      "from": 537.53,
+      "to": 538.29,
+      "sid": 282,
+      "location": 2,
+      "content": "Ninth grade",
+      "music": 0.0
+    },
+    {
+      "from": 538.29,
+      "to": 540.88,
+      "sid": 283,
+      "location": 2,
+      "content": "Ten eleven twelve they go to a bigger town",
+      "music": 0.0
+    },
+    {
+      "from": 540.88,
+      "to": 542.22,
+      "sid": 284,
+      "location": 2,
+      "content": "We're not big enough to have",
+      "music": 0.0
+    },
+    {
+      "from": 542.22,
+      "to": 544.62,
+      "sid": 285,
+      "location": 2,
+      "content": "嗯嗯they have high school之后",
+      "music": 0.0
+    },
+    {
+      "from": 544.62,
+      "to": 546.92,
+      "sid": 286,
+      "location": 2,
+      "content": "老哥带我逛了几家镇上面的小店",
+      "music": 0.0
+    },
+    {
+      "from": 546.92,
+      "to": 547.8,
+      "sid": 287,
+      "location": 2,
+      "content": "虽然说真的",
+      "music": 0.0
+    },
+    {
+      "from": 547.8,
+      "to": 550.14,
+      "sid": 288,
+      "location": 2,
+      "content": "因为大表哥来黑水镇的人其实不多",
+      "music": 0.0
+    },
+    {
+      "from": 550.14,
+      "to": 553.03,
+      "sid": 289,
+      "location": 2,
+      "content": "但是本地人基本上也都听说过这个游戏",
+      "music": 0.0
+    },
+    {
+      "from": 553.03,
+      "to": 554.03,
+      "sid": 290,
+      "location": 2,
+      "content": "在这个饮料店",
+      "music": 0.0
+    },
+    {
+      "from": 554.03,
+      "to": 555.69,
+      "sid": 291,
+      "location": 2,
+      "content": "老哥还请我喝了一杯饮料",
+      "music": 0.0
+    },
+    {
+      "from": 555.69,
+      "to": 557.55,
+      "sid": 292,
+      "location": 2,
+      "content": "这边也很少能见到外国人",
+      "music": 0.0
+    },
+    {
+      "from": 557.55,
+      "to": 560.35,
+      "sid": 293,
+      "location": 2,
+      "content": "这边几个员工听说我的观众大部分都在中国",
+      "music": 0.0
+    },
+    {
+      "from": 560.35,
+      "to": 561.49,
+      "sid": 294,
+      "location": 2,
+      "content": "还挺吃惊的",
+      "music": 0.0
+    },
+    {
+      "from": 561.49,
+      "to": 563.13,
+      "sid": 295,
+      "location": 2,
+      "content": "In china here",
+      "music": 0.0
+    },
+    {
+      "from": 563.13,
+      "to": 565.17,
+      "sid": 296,
+      "location": 2,
+      "content": "I mostly in china",
+      "music": 0.0
+    },
+    {
+      "from": 565.17,
+      "to": 565.59,
+      "sid": 297,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 565.59,
+      "to": 566.58,
+      "sid": 298,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 566.58,
+      "to": 567.58,
+      "sid": 299,
+      "location": 2,
+      "content": "Hello",
+      "music": 0.0
+    },
+    {
+      "from": 568.62,
+      "to": 569.98,
+      "sid": 300,
+      "location": 2,
+      "content": "Ha ha ha ha ha ha",
+      "music": 0.0
+    },
+    {
+      "from": 569.98,
+      "to": 570.7,
+      "sid": 301,
+      "location": 2,
+      "content": "This is my brother",
+      "music": 0.0
+    },
+    {
+      "from": 570.7,
+      "to": 571.3,
+      "sid": 302,
+      "location": 2,
+      "content": "Who's mayor",
+      "music": 0.0
+    },
+    {
+      "from": 571.3,
+      "to": 573.1,
+      "sid": 303,
+      "location": 2,
+      "content": "Uso ha ha",
+      "music": 0.0
+    },
+    {
+      "from": 573.1,
+      "to": 574.099,
+      "sid": 304,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 574.459,
+      "to": 575.659,
+      "sid": 305,
+      "location": 2,
+      "content": "Oh cabby",
+      "music": 0.0
+    },
+    {
+      "from": 575.659,
+      "to": 576.019,
+      "sid": 306,
+      "location": 2,
+      "content": "Cabby",
+      "music": 0.0
+    },
+    {
+      "from": 576.019,
+      "to": 577.48,
+      "sid": 307,
+      "location": 2,
+      "content": "Lame ha ha ha",
+      "music": 0.0
+    },
+    {
+      "from": 577.48,
+      "to": 579.28,
+      "sid": 308,
+      "location": 2,
+      "content": "So i thought because uh social media",
+      "music": 0.0
+    },
+    {
+      "from": 579.28,
+      "to": 580.28,
+      "sid": 309,
+      "location": 2,
+      "content": "I thought you might you",
+      "music": 0.0
+    },
+    {
+      "from": 580.28,
+      "to": 581.12,
+      "sid": 310,
+      "location": 2,
+      "content": "You would know him",
+      "music": 0.0
+    },
+    {
+      "from": 581.12,
+      "to": 582.6,
+      "sid": 311,
+      "location": 2,
+      "content": "So ha ha",
+      "music": 0.0
+    },
+    {
+      "from": 582.6,
+      "to": 582.92,
+      "sid": 312,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 582.92,
+      "to": 583.12,
+      "sid": 313,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 583.12,
+      "to": 583.68,
+      "sid": 314,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 583.68,
+      "to": 584.76,
+      "sid": 315,
+      "location": 2,
+      "content": "In new orleyes",
+      "music": 0.0
+    },
+    {
+      "from": 584.76,
+      "to": 585.38,
+      "sid": 316,
+      "location": 2,
+      "content": "Uh ha",
+      "music": 0.0
+    },
+    {
+      "from": 585.38,
+      "to": 588.94,
+      "sid": 317,
+      "location": 2,
+      "content": "He did a video uh with ua place",
+      "music": 0.0
+    },
+    {
+      "from": 588.94,
+      "to": 589.52,
+      "sid": 318,
+      "location": 2,
+      "content": "We have there",
+      "music": 0.0
+    },
+    {
+      "from": 589.52,
+      "to": 590.02,
+      "sid": 319,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 590.02,
+      "to": 593.32,
+      "sid": 320,
+      "location": 2,
+      "content": "Do you know new orleans is another town in red that redemption",
+      "music": 0.0
+    },
+    {
+      "from": 593.32,
+      "to": 594.06,
+      "sid": 321,
+      "location": 2,
+      "content": "It is yes",
+      "music": 0.0
+    },
+    {
+      "from": 594.06,
+      "to": 594.86,
+      "sid": 322,
+      "location": 2,
+      "content": "Usan underneath",
+      "music": 0.0
+    },
+    {
+      "from": 594.86,
+      "to": 595.42,
+      "sid": 323,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 595.42,
+      "to": 596.42,
+      "sid": 324,
+      "location": 2,
+      "content": "Arthur morgan",
+      "music": 0.0
+    },
+    {
+      "from": 597.54,
+      "to": 598.46,
+      "sid": 325,
+      "location": 2,
+      "content": "Arthur morgan",
+      "music": 0.0
+    },
+    {
+      "from": 598.46,
+      "to": 600.08,
+      "sid": 326,
+      "location": 2,
+      "content": "You've got to watch out for that character",
+      "music": 0.0
+    },
+    {
+      "from": 600.08,
+      "to": 600.9,
+      "sid": 327,
+      "location": 2,
+      "content": "He used to run",
+      "music": 0.0
+    },
+    {
+      "from": 600.9,
+      "to": 602.47,
+      "sid": 328,
+      "location": 2,
+      "content": "Around with the van dollar gang",
+      "music": 0.0
+    },
+    {
+      "from": 602.47,
+      "to": 604.83,
+      "sid": 329,
+      "location": 2,
+      "content": "And they cause all kinds of problems in black water",
+      "music": 0.0
+    },
+    {
+      "from": 604.83,
+      "to": 606.19,
+      "sid": 330,
+      "location": 2,
+      "content": "So if you see arthur morgan",
+      "music": 0.0
+    },
+    {
+      "from": 606.19,
+      "to": 606.63,
+      "sid": 331,
+      "location": 2,
+      "content": "You tell him",
+      "music": 0.0
+    },
+    {
+      "from": 606.63,
+      "to": 607.89,
+      "sid": 332,
+      "location": 2,
+      "content": "The police are looking for",
+      "music": 0.0
+    },
+    {
+      "from": 607.89,
+      "to": 609.53,
+      "sid": 333,
+      "location": 2,
+      "content": "在跟老哥道别之后",
+      "music": 0.0
+    },
+    {
+      "from": 609.53,
+      "to": 612.33,
+      "sid": 334,
+      "location": 2,
+      "content": "先给大家看看我们的传统项目邮局",
+      "music": 0.0
+    },
+    {
+      "from": 612.33,
+      "to": 615.59,
+      "sid": 335,
+      "location": 2,
+      "content": "黑水镇的邮局也跟之前去过的很多小镇一样",
+      "music": 0.0
+    },
+    {
+      "from": 615.59,
+      "to": 617.01,
+      "sid": 336,
+      "location": 2,
+      "content": "每天只有一两个小时",
+      "music": 0.0
+    },
+    {
+      "from": 617.01,
+      "to": 619.32,
+      "sid": 337,
+      "location": 2,
+      "content": "有人其余的时间都是不锁门",
+      "music": 0.0
+    },
+    {
+      "from": 619.32,
+      "to": 620.3,
+      "sid": 338,
+      "location": 2,
+      "content": "随便进的",
+      "music": 0.0
+    },
+    {
+      "from": 620.3,
+      "to": 621.72,
+      "sid": 339,
+      "location": 2,
+      "content": "在逛完邮局之后",
+      "music": 0.0
+    },
+    {
+      "from": 621.72,
+      "to": 624.22,
+      "sid": 340,
+      "location": 2,
+      "content": "我去试了一下小镇唯一一家餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 624.22,
+      "to": 627.18,
+      "sid": 341,
+      "location": 2,
+      "content": "点了一个六美元的炸鱼加炸虾套餐",
+      "music": 0.0
+    },
+    {
+      "from": 627.18,
+      "to": 629.9,
+      "sid": 342,
+      "location": 2,
+      "content": "味道总体来说跟连锁快餐店差不多",
+      "music": 0.0
+    },
+    {
+      "from": 629.9,
+      "to": 632.54,
+      "sid": 343,
+      "location": 2,
+      "content": "但是价格比很多美国的快餐店还要低",
+      "music": 0.0
+    },
+    {
+      "from": 632.54,
+      "to": 634.17,
+      "sid": 344,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 634.17,
+      "to": 635.65,
+      "sid": 345,
+      "location": 2,
+      "content": "没有点太多菜的原因",
+      "music": 0.0
+    },
+    {
+      "from": 635.65,
+      "to": 637.61,
+      "sid": 346,
+      "location": 2,
+      "content": "是因为刚刚去黑水镇银行的时候",
+      "music": 0.0
+    },
+    {
+      "from": 637.61,
+      "to": 638.81,
+      "sid": 347,
+      "location": 2,
+      "content": "一个店员跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 638.81,
+      "to": 640.79,
+      "sid": 348,
+      "location": 2,
+      "content": "隔壁镇有一个大表哥冰淇淋",
+      "music": 0.0
+    },
+    {
+      "from": 640.79,
+      "to": 641.89,
+      "sid": 349,
+      "location": 2,
+      "content": "可以去试试看",
+      "music": 0.0
+    },
+    {
+      "from": 641.89,
+      "to": 645.21,
+      "sid": 350,
+      "location": 2,
+      "content": "Error rock still doing it or not visit and that seated your dream",
+      "music": 0.0
+    },
+    {
+      "from": 645.21,
+      "to": 645.79,
+      "sid": 351,
+      "location": 2,
+      "content": "That's right",
+      "music": 0.0
+    },
+    {
+      "from": 645.79,
+      "to": 646.77,
+      "sid": 352,
+      "location": 2,
+      "content": "I'm gonna tell you about that",
+      "music": 0.0
+    },
+    {
+      "from": 646.77,
+      "to": 651.02,
+      "sid": 353,
+      "location": 2,
+      "content": "As is out the the next town over you should go to its beautiful song times",
+      "music": 0.0
+    },
+    {
+      "from": 651.02,
+      "to": 652.3,
+      "sid": 354,
+      "location": 2,
+      "content": "Smaller than black water",
+      "music": 0.0
+    },
+    {
+      "from": 652.3,
+      "to": 656.5,
+      "sid": 355,
+      "location": 2,
+      "content": "But historic small town and they have a nice ice cream shop on the main street",
+      "music": 0.0
+    },
+    {
+      "from": 656.5,
+      "to": 658.99,
+      "sid": 356,
+      "location": 2,
+      "content": "And they have a red dead redean ice cream",
+      "music": 0.0
+    },
+    {
+      "from": 658.99,
+      "to": 659.83,
+      "sid": 357,
+      "location": 2,
+      "content": "Oh well",
+      "music": 0.0
+    },
+    {
+      "from": 659.83,
+      "to": 661.99,
+      "sid": 358,
+      "location": 2,
+      "content": "I'm not they could call right",
+      "music": 0.0
+    },
+    {
+      "from": 661.99,
+      "to": 663.67,
+      "sid": 359,
+      "location": 2,
+      "content": "And should get whether",
+      "music": 0.0
+    },
+    {
+      "from": 663.67,
+      "to": 664.79,
+      "sid": 360,
+      "location": 2,
+      "content": "Not they say that this week",
+      "music": 0.0
+    },
+    {
+      "from": 664.79,
+      "to": 665.11,
+      "sid": 361,
+      "location": 2,
+      "content": "Or not",
+      "music": 0.0
+    },
+    {
+      "from": 665.11,
+      "to": 665.83,
+      "sid": 362,
+      "location": 2,
+      "content": "I don't know",
+      "music": 0.0
+    },
+    {
+      "from": 665.83,
+      "to": 666.27,
+      "sid": 363,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 666.27,
+      "to": 667.38,
+      "sid": 364,
+      "location": 2,
+      "content": "They different flavors",
+      "music": 0.0
+    },
+    {
+      "from": 667.38,
+      "to": 668.38,
+      "sid": 365,
+      "location": 2,
+      "content": "All the time fi",
+      "music": 0.0
+    },
+    {
+      "from": 668.38,
+      "to": 669.16,
+      "sid": 366,
+      "location": 2,
+      "content": "Don't know right",
+      "music": 0.0
+    },
+    {
+      "from": 669.16,
+      "to": 670.92,
+      "sid": 367,
+      "location": 2,
+      "content": "But he's been trying to keep that in more",
+      "music": 0.0
+    },
+    {
+      "from": 670.92,
+      "to": 671.96,
+      "sid": 368,
+      "location": 2,
+      "content": "Because of the population",
+      "music": 0.0
+    },
+    {
+      "from": 671.96,
+      "to": 672.88,
+      "sid": 369,
+      "location": 2,
+      "content": "Because yeah",
+      "music": 0.0
+    },
+    {
+      "from": 672.88,
+      "to": 674.72,
+      "sid": 370,
+      "location": 2,
+      "content": "Great rather be dimice cream here",
+      "music": 0.0
+    },
+    {
+      "from": 674.72,
+      "to": 674.96,
+      "sid": 371,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 674.96,
+      "to": 675.04,
+      "sid": 372,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 675.04,
+      "to": 675.44,
+      "sid": 373,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 675.44,
+      "to": 677.329,
+      "sid": 374,
+      "location": 2,
+      "content": "Let me see um",
+      "music": 0.29166663628472045
+    },
+    {
+      "from": 678.049,
+      "to": 680.349,
+      "sid": 375,
+      "location": 2,
+      "content": "There was a kid that came in",
+      "music": 0.09483166928253912
+    },
+    {
+      "from": 680.349,
+      "to": 682.009,
+      "sid": 376,
+      "location": 2,
+      "content": "He was really into the video game",
+      "music": 0.0
+    },
+    {
+      "from": 682.009,
+      "to": 683.089,
+      "sid": 377,
+      "location": 2,
+      "content": "Read reduction",
+      "music": 0.0
+    },
+    {
+      "from": 683.089,
+      "to": 686.08,
+      "sid": 378,
+      "location": 2,
+      "content": "And he was like a twelve year kid",
+      "music": 0.08787989425559507
+    },
+    {
+      "from": 686.08,
+      "to": 687.88,
+      "sid": 379,
+      "location": 2,
+      "content": "And his mom committed to drive",
+      "music": 0.0
+    },
+    {
+      "from": 687.88,
+      "to": 688.24,
+      "sid": 380,
+      "location": 2,
+      "content": "Like three",
+      "music": 0.0
+    },
+    {
+      "from": 688.24,
+      "to": 691.12,
+      "sid": 381,
+      "location": 2,
+      "content": "And a half hours to this area to black water",
+      "music": 0.0
+    },
+    {
+      "from": 691.12,
+      "to": 696.65,
+      "sid": 382,
+      "location": 2,
+      "content": "And error off um to just like check out where where the red dead redemption",
+      "music": 0.09657947491792114
+    },
+    {
+      "from": 696.65,
+      "to": 700.45,
+      "sid": 383,
+      "location": 2,
+      "content": "You know some of the some of the video game was off open stuff",
+      "music": 0.07902735322105121
+    },
+    {
+      "from": 700.45,
+      "to": 703.55,
+      "sid": 384,
+      "location": 2,
+      "content": "So then he came into some shop",
+      "music": 0.15228425622920916
+    },
+    {
+      "from": 703.55,
+      "to": 704.53,
+      "sid": 385,
+      "location": 2,
+      "content": "We got talkins",
+      "music": 0.0
+    },
+    {
+      "from": 704.53,
+      "to": 705.88,
+      "sid": 386,
+      "location": 2,
+      "content": "And he was like hey",
+      "music": 0.0
+    },
+    {
+      "from": 705.88,
+      "to": 708.9,
+      "sid": 387,
+      "location": 2,
+      "content": "You know you guys really need to rendecondemand ice cream player",
+      "music": 0.10638297495094462
+    },
+    {
+      "from": 708.9,
+      "to": 711.61,
+      "sid": 388,
+      "location": 2,
+      "content": "So min we made read redemption",
+      "music": 0.3098591403821857
+    },
+    {
+      "from": 711.61,
+      "to": 715.36,
+      "sid": 389,
+      "location": 2,
+      "content": "Which might uh vili spin with a special dark chocolate",
+      "music": 0.3569404998033855
+    },
+    {
+      "from": 715.36,
+      "to": 716.12,
+      "sid": 390,
+      "location": 2,
+      "content": "Brown nees",
+      "music": 0.0
+    },
+    {
+      "from": 716.12,
+      "to": 718.0,
+      "sid": 391,
+      "location": 2,
+      "content": "And a little smoky caramel sauce",
+      "music": 0.053191486532379956
+    },
+    {
+      "from": 718.0,
+      "to": 718.58,
+      "sid": 392,
+      "location": 2,
+      "content": "Ok",
+      "music": 0.0
+    },
+    {
+      "from": 718.58,
+      "to": 720.42,
+      "sid": 393,
+      "location": 2,
+      "content": "How you make greater redemption ice cream",
+      "music": 0.0
+    },
+    {
+      "from": 720.42,
+      "to": 720.76,
+      "sid": 394,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 720.76,
+      "to": 721.5,
+      "sid": 395,
+      "location": 2,
+      "content": "We are",
+      "music": 0.0
+    },
+    {
+      "from": 721.5,
+      "to": 721.9,
+      "sid": 396,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 721.9,
+      "to": 722.62,
+      "sid": 397,
+      "location": 2,
+      "content": "Awesome",
+      "music": 0.0
+    },
+    {
+      "from": 722.62,
+      "to": 724.44,
+      "sid": 398,
+      "location": 2,
+      "content": "This is homemade bug sauce",
+      "music": 0.0
+    },
+    {
+      "from": 724.44,
+      "to": 725.26,
+      "sid": 399,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 725.26,
+      "to": 726.46,
+      "sid": 400,
+      "location": 2,
+      "content": "Oh my",
+      "music": 0.0
+    },
+    {
+      "from": 733.32,
+      "to": 736.04,
+      "sid": 401,
+      "location": 2,
+      "content": "Holding on to everything",
+      "music": 0.9999997826087429
+    },
+    {
+      "from": 736.04,
+      "to": 737.8,
+      "sid": 402,
+      "location": 2,
+      "content": "I standing on",
+      "music": 0.0
+    },
+    {
+      "from": 738.88,
+      "to": 741.57,
+      "sid": 403,
+      "location": 2,
+      "content": "I can't see me awesome",
+      "music": 0.16666665404041933
+    },
+    {
+      "from": 741.57,
+      "to": 742.35,
+      "sid": 404,
+      "location": 2,
+      "content": "Uh there",
+      "music": 0.0
+    },
+    {
+      "from": 742.35,
+      "to": 742.63,
+      "sid": 405,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 742.63,
+      "to": 743.99,
+      "sid": 406,
+      "location": 2,
+      "content": "There's a red reaction",
+      "music": 0.0
+    },
+    {
+      "from": 743.99,
+      "to": 744.45,
+      "sid": 407,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 744.45,
+      "to": 744.87,
+      "sid": 408,
+      "location": 2,
+      "content": "Awesome",
+      "music": 0.0
+    },
+    {
+      "from": 744.87,
+      "to": 746.51,
+      "sid": 409,
+      "location": 2,
+      "content": "And i think most people if they come here",
+      "music": 0.0
+    },
+    {
+      "from": 746.51,
+      "to": 748.46,
+      "sid": 410,
+      "location": 2,
+      "content": "They don't need to add the sauce",
+      "music": 0.0
+    },
+    {
+      "from": 748.46,
+      "to": 748.86,
+      "sid": 411,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 748.86,
+      "to": 748.98,
+      "sid": 412,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 748.98,
+      "to": 749.06,
+      "sid": 413,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 749.06,
+      "to": 749.82,
+      "sid": 414,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 749.82,
+      "to": 751.18,
+      "sid": 415,
+      "location": 2,
+      "content": "But i i like the sauce",
+      "music": 0.0
+    },
+    {
+      "from": 751.18,
+      "to": 751.9,
+      "sid": 416,
+      "location": 2,
+      "content": "Not perfect",
+      "music": 0.0
+    },
+    {
+      "from": 751.9,
+      "to": 752.18,
+      "sid": 417,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 752.18,
+      "to": 752.64,
+      "sid": 418,
+      "location": 2,
+      "content": "Because",
+      "music": 0.0
+    },
+    {
+      "from": 752.64,
+      "to": 754.54,
+      "sid": 419,
+      "location": 2,
+      "content": "只是因为我比较喜欢甜的",
+      "music": 0.0
+    },
+    {
+      "from": 754.54,
+      "to": 756.38,
+      "sid": 420,
+      "location": 2,
+      "content": "所以我要让他加一点糖浆",
+      "music": 0.0
+    },
+    {
+      "from": 756.38,
+      "to": 760.2,
+      "sid": 421,
+      "location": 2,
+      "content": "正常人一般都吃不了这么甜的",
+      "music": 0.0
+    },
+    {
+      "from": 761.62,
+      "to": 765.18,
+      "sid": 422,
+      "location": 2,
+      "content": "然后这个就是大表哥冰淇淋",
+      "music": 0.0
+    },
+    {
+      "from": 767.56,
+      "to": 770.08,
+      "sid": 423,
+      "location": 2,
+      "content": "这大表哥冰淇淋真的蛮好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 770.08,
+      "to": 771.84,
+      "sid": 424,
+      "location": 2,
+      "content": "如果不喜欢吃甜食的话",
+      "music": 0.0
+    },
+    {
+      "from": 771.84,
+      "to": 773.08,
+      "sid": 425,
+      "location": 2,
+      "content": "就可以让他不要加糖浆",
+      "music": 0.0
+    },
+    {
+      "from": 773.08,
+      "to": 774.86,
+      "sid": 426,
+      "location": 2,
+      "content": "它里面这两个冰淇淋也可以",
+      "music": 0.0
+    },
+    {
+      "from": 774.86,
+      "to": 778.829,
+      "sid": 427,
+      "location": 2,
+      "content": "我挺喜欢吃这个致死量糖浆的",
+      "music": 0.0
+    },
+    {
+      "from": 779.269,
+      "to": 782.549,
+      "sid": 428,
+      "location": 2,
+      "content": "接着带大家来看一下黑水镇周围的大平原",
+      "music": 0.0
+    },
+    {
+      "from": 782.549,
+      "to": 785.469,
+      "sid": 429,
+      "location": 2,
+      "content": "镇子旁边最大的水域就是黑水河",
+      "music": 0.0
+    },
+    {
+      "from": 785.469,
+      "to": 786.349,
+      "sid": 430,
+      "location": 2,
+      "content": "再远一些",
+      "music": 0.0
+    },
+    {
+      "from": 786.349,
+      "to": 787.59,
+      "sid": 431,
+      "location": 2,
+      "content": "还有密苏里河",
+      "music": 0.0
+    },
+    {
+      "from": 787.59,
+      "to": 788.91,
+      "sid": 432,
+      "location": 2,
+      "content": "游戏里面的黑水镇",
+      "music": 0.0
+    },
+    {
+      "from": 788.91,
+      "to": 791.79,
+      "sid": 433,
+      "location": 2,
+      "content": "应该是融合了很多德州靠海地区的元素",
+      "music": 0.0
+    },
+    {
+      "from": 791.79,
+      "to": 793.11,
+      "sid": 434,
+      "location": 2,
+      "content": "尤其是休斯顿",
+      "music": 0.0
+    },
+    {
+      "from": 793.11,
+      "to": 794.85,
+      "sid": 435,
+      "location": 2,
+      "content": "我现在把地图打开啊",
+      "music": 0.0
+    },
+    {
+      "from": 794.85,
+      "to": 797.31,
+      "sid": 436,
+      "location": 2,
+      "content": "这个下面就是黑水河",
+      "music": 0.0
+    },
+    {
+      "from": 805.38,
+      "to": 807.24,
+      "sid": 437,
+      "location": 2,
+      "content": "然后这边都是石子路",
+      "music": 0.0
+    },
+    {
+      "from": 807.24,
+      "to": 811.0,
+      "sid": 438,
+      "location": 2,
+      "content": "这个车只要开过去就是全是灰",
+      "music": 0.0
+    },
+    {
+      "from": 811.44,
+      "to": 814.06,
+      "sid": 439,
+      "location": 2,
+      "content": "现在我去寻找一下大平原上面的铁道口",
+      "music": 0.0
+    },
+    {
+      "from": 814.06,
+      "to": 816.28,
+      "sid": 440,
+      "location": 2,
+      "content": "还有下到黑水河里面钓鱼的方式",
+      "music": 0.0
+    },
+    {
+      "from": 816.28,
+      "to": 817.08,
+      "sid": 441,
+      "location": 2,
+      "content": "顺便提一下",
+      "music": 0.0
+    },
+    {
+      "from": 817.08,
+      "to": 820.06,
+      "sid": 442,
+      "location": 2,
+      "content": "我这两天准备新开一个小号王霸小头切",
+      "music": 0.0
+    },
+    {
+      "from": 820.06,
+      "to": 821.24,
+      "sid": 443,
+      "location": 2,
+      "content": "把很多街景之类",
+      "music": 0.0
+    },
+    {
+      "from": 821.24,
+      "to": 824.48,
+      "sid": 444,
+      "location": 2,
+      "content": "由于视频篇幅没有办法放出来的素材发出来",
+      "music": 0.0
+    },
+    {
+      "from": 824.48,
+      "to": 826.39,
+      "sid": 445,
+      "location": 2,
+      "content": "有兴趣的可以关注一下哦",
+      "music": 0.0
+    },
+    {
+      "from": 826.39,
+      "to": 831.29,
+      "sid": 446,
+      "location": 2,
+      "content": "然后这边有个铁路岔道口边走下去不难啊",
+      "music": 0.0
+    },
+    {
+      "from": 831.29,
+      "to": 835.49,
+      "sid": 447,
+      "location": 2,
+      "content": "然后这个铁道旁边都是田野",
+      "music": 0.0
+    },
+    {
+      "from": 835.85,
+      "to": 836.87,
+      "sid": 448,
+      "location": 2,
+      "content": "兄弟们啊",
+      "music": 0.0
+    },
+    {
+      "from": 836.87,
+      "to": 839.73,
+      "sid": 449,
+      "location": 2,
+      "content": "我来到了这个黑水河边啊",
+      "music": 0.0
+    },
+    {
+      "from": 839.73,
+      "to": 840.87,
+      "sid": 450,
+      "location": 2,
+      "content": "给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 840.87,
+      "to": 844.02,
+      "sid": 451,
+      "location": 2,
+      "content": "给大家表演一个跨越黑水河",
+      "music": 0.0
+    },
+    {
+      "from": 844.02,
+      "to": 846.9,
+      "sid": 452,
+      "location": 2,
+      "content": "看看等会能不能摔到河里去",
+      "music": 0.0
+    },
+    {
+      "from": 850.56,
+      "to": 852.08,
+      "sid": 453,
+      "location": 2,
+      "content": "这里这个风光不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 853.12,
+      "to": 855.04,
+      "sid": 454,
+      "location": 2,
+      "content": "而且这个河水不是很深嘛",
+      "music": 0.0
+    },
+    {
+      "from": 855.04,
+      "to": 857.96,
+      "sid": 455,
+      "location": 2,
+      "content": "现在我在这个黑水河正中央",
+      "music": 0.0
+    },
+    {
+      "from": 859.58,
+      "to": 861.1,
+      "sid": 456,
+      "location": 2,
+      "content": "我本来还戴了个帽子的",
+      "music": 0.0
+    },
+    {
+      "from": 861.1,
+      "to": 862.66,
+      "sid": 457,
+      "location": 2,
+      "content": "但是这个戴不上去啊",
+      "music": 0.0
+    },
+    {
+      "from": 862.66,
+      "to": 863.88,
+      "sid": 458,
+      "location": 2,
+      "content": "太小了",
+      "music": 0.0
+    },
+    {
+      "from": 863.88,
+      "to": 866.86,
+      "sid": 459,
+      "location": 2,
+      "content": "我这个低配版的牛仔帽",
+      "music": 0.0
+    },
+    {
+      "from": 869.06,
+      "to": 871.06,
+      "sid": 460,
+      "location": 2,
+      "content": "这里是黑水河",
+      "music": 0.0
+    },
+    {
+      "from": 872.84,
+      "to": 875.24,
+      "sid": 461,
+      "location": 2,
+      "content": "这期视频就到这里了",
+      "music": 0.0
+    },
+    {
+      "from": 875.24,
+      "to": 878.62,
+      "sid": 462,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    },
+    {
+      "from": 878.62,
+      "to": 879.58,
+      "sid": 463,
+      "location": 2,
+      "content": "然记得点赞",
+      "music": 0.0
+    },
+    {
+      "from": 879.58,
+      "to": 880.18,
+      "sid": 464,
+      "location": 2,
+      "content": "投币啊",
+      "music": 0.0
+    },
+    {
+      "from": 880.18,
+      "to": 884.52,
+      "sid": 465,
+      "location": 2,
+      "content": "之后看看能不能争取带大家去一下西凉",
+      "music": 0.0
+    }
+  ]
+}

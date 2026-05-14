@@ -1,0 +1,708 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.2,
+      "to": 3.2,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了位于美国爱荷华州沃尔科特的",
+      "music": 0.0
+    },
+    {
+      "from": 3.2,
+      "to": 5.18,
+      "sid": 2,
+      "location": 2,
+      "content": "世界上最大的卡车休息站",
+      "music": 0.0
+    },
+    {
+      "from": 5.18,
+      "to": 7.189,
+      "sid": 3,
+      "location": 2,
+      "content": "看看这里停了多少卡车",
+      "music": 0.0
+    },
+    {
+      "from": 7.189,
+      "to": 8.869,
+      "sid": 4,
+      "location": 2,
+      "content": "整个停车场还有五六排",
+      "music": 0.0
+    },
+    {
+      "from": 8.869,
+      "to": 12.9,
+      "sid": 5,
+      "location": 2,
+      "content": "这样在探秘他们各种奇奇怪怪的设施之前",
+      "music": 0.0
+    },
+    {
+      "from": 12.9,
+      "to": 15.68,
+      "sid": 6,
+      "location": 2,
+      "content": "我先去看一看他们免费的卡车博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 15.68,
+      "to": 18.76,
+      "sid": 7,
+      "location": 2,
+      "content": "给你们感受一下这个里面有多大",
+      "music": 0.0
+    },
+    {
+      "from": 18.81,
+      "to": 19.89,
+      "sid": 8,
+      "location": 2,
+      "content": "我的天",
+      "music": 0.0
+    },
+    {
+      "from": 22.61,
+      "to": 23.97,
+      "sid": 9,
+      "location": 2,
+      "content": "望不到头",
+      "music": 0.0
+    },
+    {
+      "from": 24.41,
+      "to": 26.29,
+      "sid": 10,
+      "location": 2,
+      "content": "他这边有新的卡车",
+      "music": 0.0
+    },
+    {
+      "from": 26.29,
+      "to": 28.18,
+      "sid": 11,
+      "location": 2,
+      "content": "也有旧的",
+      "music": 0.0
+    },
+    {
+      "from": 28.5,
+      "to": 31.16,
+      "sid": 12,
+      "location": 2,
+      "content": "这里的卡车收藏真的是非常丰富了",
+      "music": 0.0
+    },
+    {
+      "from": 31.16,
+      "to": 34.72,
+      "sid": 13,
+      "location": 2,
+      "content": "大部分卡车都是博物馆从别人那边收购过来的",
+      "music": 0.0
+    },
+    {
+      "from": 34.72,
+      "to": 37.6,
+      "sid": 14,
+      "location": 2,
+      "content": "当然也有一部分是卡车主自愿捐献的",
+      "music": 0.0
+    },
+    {
+      "from": 37.6,
+      "to": 40.0,
+      "sid": 15,
+      "location": 2,
+      "content": "这些卡车旁边一般都有一个展板",
+      "music": 0.0
+    },
+    {
+      "from": 40.0,
+      "to": 42.49,
+      "sid": 16,
+      "location": 2,
+      "content": "展示卡车主和这辆卡车的故事",
+      "music": 0.0
+    },
+    {
+      "from": 42.49,
+      "to": 46.32,
+      "sid": 17,
+      "location": 2,
+      "content": "而这也是我这个博物馆最喜欢的一部分嗯",
+      "music": 0.0
+    },
+    {
+      "from": 67.76,
+      "to": 69.28,
+      "sid": 18,
+      "location": 2,
+      "content": "为什么这么多卡车主",
+      "music": 0.0
+    },
+    {
+      "from": 69.28,
+      "to": 71.42,
+      "sid": 19,
+      "location": 2,
+      "content": "愿意把自己的卡车捐献出来呢",
+      "music": 0.0
+    },
+    {
+      "from": 71.42,
+      "to": 72.36,
+      "sid": 20,
+      "location": 2,
+      "content": "其实看介绍",
+      "music": 0.0
+    },
+    {
+      "from": 72.36,
+      "to": 75.12,
+      "sid": 21,
+      "location": 2,
+      "content": "这里的不少卡车都是废弃在荒地里面拉出来",
+      "music": 0.0
+    },
+    {
+      "from": 75.12,
+      "to": 76.38,
+      "sid": 22,
+      "location": 2,
+      "content": "重新翻修的",
+      "music": 0.0
+    },
+    {
+      "from": 76.38,
+      "to": 79.62,
+      "sid": 23,
+      "location": 2,
+      "content": "维护卡车是一份很需要财力和精力的事情",
+      "music": 0.0
+    },
+    {
+      "from": 79.62,
+      "to": 81.45,
+      "sid": 24,
+      "location": 2,
+      "content": "原先的车主一旦已离世",
+      "music": 0.0
+    },
+    {
+      "from": 81.45,
+      "to": 83.97,
+      "sid": 25,
+      "location": 2,
+      "content": "他们的儿女大概率也不可能像博物馆一样",
+      "music": 0.0
+    },
+    {
+      "from": 83.97,
+      "to": 85.85,
+      "sid": 26,
+      "location": 2,
+      "content": "维护这些人的宝贝卡车了",
+      "music": 0.0
+    },
+    {
+      "from": 85.85,
+      "to": 87.75,
+      "sid": 27,
+      "location": 2,
+      "content": "其实与其把这些卡车留着",
+      "music": 0.0
+    },
+    {
+      "from": 87.75,
+      "to": 89.65,
+      "sid": 28,
+      "location": 2,
+      "content": "不如给他们找一个好的去处",
+      "music": 0.0
+    },
+    {
+      "from": 89.65,
+      "to": 91.55,
+      "sid": 29,
+      "location": 2,
+      "content": "也就是这个博物馆了",
+      "music": 0.0
+    },
+    {
+      "from": 91.55,
+      "to": 92.07,
+      "sid": 30,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 92.07,
+      "to": 93.67,
+      "sid": 31,
+      "location": 2,
+      "content": "我现在来到了他们的主楼",
+      "music": 0.0
+    },
+    {
+      "from": 93.67,
+      "to": 96.27,
+      "sid": 32,
+      "location": 2,
+      "content": "这里的一楼是一个超大的纪念品商店",
+      "music": 0.0
+    },
+    {
+      "from": 96.27,
+      "to": 97.99,
+      "sid": 33,
+      "location": 2,
+      "content": "还有不少快餐品牌",
+      "music": 0.0
+    },
+    {
+      "from": 97.99,
+      "to": 100.53,
+      "sid": 34,
+      "location": 2,
+      "content": "但是这里最神奇的地方在他们的二楼",
+      "music": 0.0
+    },
+    {
+      "from": 100.53,
+      "to": 103.47,
+      "sid": 35,
+      "location": 2,
+      "content": "二楼有给卡车司机用的各种各样的设施",
+      "music": 0.0
+    },
+    {
+      "from": 103.47,
+      "to": 106.32,
+      "sid": 36,
+      "location": 2,
+      "content": "包括牙医祈祷的地方",
+      "music": 0.0
+    },
+    {
+      "from": 107.48,
+      "to": 109.0,
+      "sid": 37,
+      "location": 2,
+      "content": "健身房",
+      "music": 0.0
+    },
+    {
+      "from": 110.42,
+      "to": 111.78,
+      "sid": 38,
+      "location": 2,
+      "content": "理发室",
+      "music": 0.0
+    },
+    {
+      "from": 111.78,
+      "to": 116.78,
+      "sid": 39,
+      "location": 2,
+      "content": "洗衣房和看电影的地方",
+      "music": 0.0
+    },
+    {
+      "from": 118.48,
+      "to": 122.08,
+      "sid": 40,
+      "location": 2,
+      "content": "如果我将把你抱在",
+      "music": 0.99999979166671
+    },
+    {
+      "from": 127.94,
+      "to": 132.0,
+      "sid": 41,
+      "location": 2,
+      "content": "不知道各位上一次去电影院看电影花了多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 132.0,
+      "to": 133.71,
+      "sid": 42,
+      "location": 2,
+      "content": "肯定不止十块钱了吧",
+      "music": 0.0
+    },
+    {
+      "from": 133.71,
+      "to": 136.39,
+      "sid": 43,
+      "location": 2,
+      "content": "而我这两天在知识派英语app上边看英文",
+      "music": 0.0
+    },
+    {
+      "from": 136.39,
+      "to": 137.67,
+      "sid": 44,
+      "location": 2,
+      "content": "无字幕电影边学习",
+      "music": 0.0
+    },
+    {
+      "from": 137.67,
+      "to": 139.89,
+      "sid": 45,
+      "location": 2,
+      "content": "四天也就才花了六块钱",
+      "music": 0.0
+    },
+    {
+      "from": 139.89,
+      "to": 141.35,
+      "sid": 46,
+      "location": 2,
+      "content": "里面有丰富的材料",
+      "music": 0.0
+    },
+    {
+      "from": 141.35,
+      "to": 142.19,
+      "sid": 47,
+      "location": 2,
+      "content": "涵盖电影",
+      "music": 0.0
+    },
+    {
+      "from": 142.19,
+      "to": 143.23,
+      "sid": 48,
+      "location": 2,
+      "content": "新闻广播剧",
+      "music": 0.0
+    },
+    {
+      "from": 143.23,
+      "to": 145.93,
+      "sid": 49,
+      "location": 2,
+      "content": "在戏曲中学习英语和锻炼听力水平",
+      "music": 0.0
+    },
+    {
+      "from": 145.93,
+      "to": 146.83,
+      "sid": 50,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 146.83,
+      "to": 147.89,
+      "sid": 51,
+      "location": 2,
+      "content": "背靠百词斩",
+      "music": 0.0
+    },
+    {
+      "from": 147.89,
+      "to": 150.87,
+      "sid": 52,
+      "location": 2,
+      "content": "知识派的听力课程也拥有强大的背单词系统",
+      "music": 0.0
+    },
+    {
+      "from": 150.87,
+      "to": 152.27,
+      "sid": 53,
+      "location": 2,
+      "content": "课前导入生词",
+      "music": 0.0
+    },
+    {
+      "from": 152.27,
+      "to": 154.06,
+      "sid": 54,
+      "location": 2,
+      "content": "课后习题巩固复盘",
+      "music": 0.0
+    },
+    {
+      "from": 154.06,
+      "to": 156.579,
+      "sid": 55,
+      "location": 2,
+      "content": "在练习听力的同时也温故知新",
+      "music": 0.0
+    },
+    {
+      "from": 156.579,
+      "to": 157.479,
+      "sid": 56,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 157.479,
+      "to": 159.079,
+      "sid": 57,
+      "location": 2,
+      "content": "示范还拥有3D音效",
+      "music": 0.0
+    },
+    {
+      "from": 159.079,
+      "to": 159.839,
+      "sid": 58,
+      "location": 2,
+      "content": "前情提要",
+      "music": 0.0
+    },
+    {
+      "from": 159.839,
+      "to": 161.199,
+      "sid": 59,
+      "location": 2,
+      "content": "专业讲义等功能",
+      "music": 0.0
+    },
+    {
+      "from": 161.199,
+      "to": 162.579,
+      "sid": 60,
+      "location": 2,
+      "content": "大家快去下载吧",
+      "music": 0.0
+    },
+    {
+      "from": 162.579,
+      "to": 165.59,
+      "sid": 61,
+      "location": 2,
+      "content": "这里还有可以休息的沙发椅子之类的",
+      "music": 0.0
+    },
+    {
+      "from": 165.59,
+      "to": 169.02,
+      "sid": 62,
+      "location": 2,
+      "content": "这里还有30多个和这个一模一样的洗澡间",
+      "music": 0.0
+    },
+    {
+      "from": 169.02,
+      "to": 170.78,
+      "sid": 63,
+      "location": 2,
+      "content": "洗一次澡要16美元",
+      "music": 0.0
+    },
+    {
+      "from": 170.78,
+      "to": 171.98,
+      "sid": 64,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 171.98,
+      "to": 172.86,
+      "sid": 65,
+      "location": 2,
+      "content": "在电梯里面",
+      "music": 0.0
+    },
+    {
+      "from": 172.86,
+      "to": 175.76,
+      "sid": 66,
+      "location": 2,
+      "content": "我还发现这里可以给卡车司机的宠物狗洗澡",
+      "music": 0.0
+    },
+    {
+      "from": 175.76,
+      "to": 178.12,
+      "sid": 67,
+      "location": 2,
+      "content": "我还跑到那个屋子里面看了一下",
+      "music": 0.0
+    },
+    {
+      "from": 178.12,
+      "to": 179.88,
+      "sid": 68,
+      "location": 2,
+      "content": "可能是开卡车的漫漫旅途",
+      "music": 0.0
+    },
+    {
+      "from": 179.88,
+      "to": 182.2,
+      "sid": 69,
+      "location": 2,
+      "content": "不小人需要狗的陪伴",
+      "music": 0.0
+    },
+    {
+      "from": 182.91,
+      "to": 183.81,
+      "sid": 70,
+      "location": 2,
+      "content": "诚实的说",
+      "music": 0.0
+    },
+    {
+      "from": 183.81,
+      "to": 184.23,
+      "sid": 71,
+      "location": 2,
+      "content": "我觉得",
+      "music": 0.0
+    },
+    {
+      "from": 184.23,
+      "to": 186.69,
+      "sid": 72,
+      "location": 2,
+      "content": "这边其实也就是比普通的服务区大了一些",
+      "music": 0.0
+    },
+    {
+      "from": 186.69,
+      "to": 188.78,
+      "sid": 73,
+      "location": 2,
+      "content": "提供的服务种类多一些罢了",
+      "music": 0.0
+    },
+    {
+      "from": 188.78,
+      "to": 189.46,
+      "sid": 74,
+      "location": 2,
+      "content": "如果我路过",
+      "music": 0.0
+    },
+    {
+      "from": 189.46,
+      "to": 190.3,
+      "sid": 75,
+      "location": 2,
+      "content": "我也不会停下来",
+      "music": 0.0
+    },
+    {
+      "from": 190.3,
+      "to": 192.14,
+      "sid": 76,
+      "location": 2,
+      "content": "在这里看电影洗澡之类的",
+      "music": 0.0
+    },
+    {
+      "from": 192.14,
+      "to": 193.76,
+      "sid": 77,
+      "location": 2,
+      "content": "但是对于卡车司机来说",
+      "music": 0.0
+    },
+    {
+      "from": 193.76,
+      "to": 195.0,
+      "sid": 78,
+      "location": 2,
+      "content": "他们的车太大了",
+      "music": 0.0
+    },
+    {
+      "from": 195.0,
+      "to": 197.32,
+      "sid": 79,
+      "location": 2,
+      "content": "很多正常人能去的餐馆和娱乐场所",
+      "music": 0.0
+    },
+    {
+      "from": 197.32,
+      "to": 198.59,
+      "sid": 80,
+      "location": 2,
+      "content": "卡车都开不进去",
+      "music": 0.0
+    },
+    {
+      "from": 198.59,
+      "to": 201.57,
+      "sid": 81,
+      "location": 2,
+      "content": "这个服务站其实已经提供超级多样的服务了",
+      "music": 0.0
+    },
+    {
+      "from": 201.57,
+      "to": 204.19,
+      "sid": 82,
+      "location": 2,
+      "content": "这可能是他们在路上十几天内能遇到的",
+      "music": 0.0
+    },
+    {
+      "from": 204.19,
+      "to": 206.62,
+      "sid": 83,
+      "location": 2,
+      "content": "为数不多可以剃头或者看电影的地方",
+      "music": 0.0
+    },
+    {
+      "from": 206.62,
+      "to": 208.42,
+      "sid": 84,
+      "location": 2,
+      "content": "而我所在的这家自助餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 208.42,
+      "to": 210.9,
+      "sid": 85,
+      "location": 2,
+      "content": "能提供的质量可能已经也算是不错了",
+      "music": 0.0
+    },
+    {
+      "from": 210.9,
+      "to": 214.0,
+      "sid": 86,
+      "location": 2,
+      "content": "你们觉得这个博物馆加上卡车停靠站怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 214.0,
+      "to": 217.2,
+      "sid": 87,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

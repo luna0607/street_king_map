@@ -1,0 +1,1844 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.32,
+      "sid": 1,
+      "location": 2,
+      "content": "接下来我来到德克萨斯州",
+      "music": 0.0
+    },
+    {
+      "from": 1.32,
+      "to": 2.58,
+      "sid": 2,
+      "location": 2,
+      "content": "一个180人的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 2.58,
+      "to": 3.34,
+      "sid": 3,
+      "location": 2,
+      "content": "佩内洛普",
+      "music": 0.0
+    },
+    {
+      "from": 3.34,
+      "to": 4.56,
+      "sid": 4,
+      "location": 2,
+      "content": "这看似荒凉的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 4.56,
+      "to": 6.64,
+      "sid": 5,
+      "location": 2,
+      "content": "其实位于如今美国发展最快的地区",
+      "music": 0.0
+    },
+    {
+      "from": 6.64,
+      "to": 7.74,
+      "sid": 6,
+      "location": 2,
+      "content": "德州三角地带",
+      "music": 0.0
+    },
+    {
+      "from": 7.74,
+      "to": 10.3,
+      "sid": 7,
+      "location": 2,
+      "content": "这个城市群得名于德州三个最大的城市",
+      "music": 0.0
+    },
+    {
+      "from": 10.3,
+      "to": 10.74,
+      "sid": 8,
+      "location": 2,
+      "content": "达拉斯",
+      "music": 0.0
+    },
+    {
+      "from": 10.74,
+      "to": 12.08,
+      "sid": 9,
+      "location": 2,
+      "content": "休斯顿和圣安东尼奥",
+      "music": 0.0
+    },
+    {
+      "from": 12.08,
+      "to": 14.08,
+      "sid": 10,
+      "location": 2,
+      "content": "以及把它们两两相连的45号",
+      "music": 0.0
+    },
+    {
+      "from": 14.08,
+      "to": 16.86,
+      "sid": 11,
+      "location": 2,
+      "content": "10号以及35号洲际公路沿线的城市",
+      "music": 0.0
+    },
+    {
+      "from": 16.86,
+      "to": 18.2,
+      "sid": 12,
+      "location": 2,
+      "content": "形成的三角形地带",
+      "music": 0.0
+    },
+    {
+      "from": 18.2,
+      "to": 19.74,
+      "sid": 13,
+      "location": 2,
+      "content": "可光看这张夜晚的灯光图",
+      "music": 0.0
+    },
+    {
+      "from": 19.74,
+      "to": 20.34,
+      "sid": 14,
+      "location": 2,
+      "content": "就显示出",
+      "music": 0.0
+    },
+    {
+      "from": 20.34,
+      "to": 23.5,
+      "sid": 15,
+      "location": 2,
+      "content": "人类聚集点都是在洲际公路以及核心城市周围",
+      "music": 0.0
+    },
+    {
+      "from": 23.5,
+      "to": 25.64,
+      "sid": 16,
+      "location": 2,
+      "content": "中间这么一大片黑暗的德州农村",
+      "music": 0.0
+    },
+    {
+      "from": 25.64,
+      "to": 27.509,
+      "sid": 17,
+      "location": 2,
+      "content": "便是我今天要带各位探索",
+      "music": 0.0
+    },
+    {
+      "from": 27.509,
+      "to": 29.069,
+      "sid": 18,
+      "location": 2,
+      "content": "这个叫佩内洛普的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 29.069,
+      "to": 32.109,
+      "sid": 19,
+      "location": 2,
+      "content": "在1980年抵达人口巅峰235人之后",
+      "music": 0.0
+    },
+    {
+      "from": 32.109,
+      "to": 33.57,
+      "sid": 20,
+      "location": 2,
+      "content": "如今只剩180人",
+      "music": 0.0
+    },
+    {
+      "from": 33.57,
+      "to": 35.15,
+      "sid": 21,
+      "location": 2,
+      "content": "居民绝大多数是白人",
+      "music": 0.0
+    },
+    {
+      "from": 35.15,
+      "to": 35.69,
+      "sid": 22,
+      "location": 2,
+      "content": "除了这些",
+      "music": 0.0
+    },
+    {
+      "from": 35.69,
+      "to": 38.04,
+      "sid": 23,
+      "location": 2,
+      "content": "我也找不到其他和小镇相关的信息",
+      "music": 0.0
+    },
+    {
+      "from": 38.04,
+      "to": 40.44,
+      "sid": 24,
+      "location": 2,
+      "content": "这边地少人多的优势就是大部分人门口",
+      "music": 0.0
+    },
+    {
+      "from": 40.44,
+      "to": 42.42,
+      "sid": 25,
+      "location": 2,
+      "content": "草地上都堆满了各种各样的杂物",
+      "music": 0.0
+    },
+    {
+      "from": 42.42,
+      "to": 44.12,
+      "sid": 26,
+      "location": 2,
+      "content": "我在小智转悠了十几分钟",
+      "music": 0.0
+    },
+    {
+      "from": 44.12,
+      "to": 46.28,
+      "sid": 27,
+      "location": 2,
+      "content": "真的一个活人都见不到",
+      "music": 0.0
+    },
+    {
+      "from": 51.34,
+      "to": 53.5,
+      "sid": 28,
+      "location": 2,
+      "content": "虽然佩内洛普只有180个人",
+      "music": 0.0
+    },
+    {
+      "from": 53.5,
+      "to": 56.42,
+      "sid": 29,
+      "location": 2,
+      "content": "但是小镇主街上还有一个自愿性质的消防局",
+      "music": 0.0
+    },
+    {
+      "from": 56.42,
+      "to": 58.9,
+      "sid": 30,
+      "location": 2,
+      "content": "当然马路对面还是有我们频道的保留节目",
+      "music": 0.0
+    },
+    {
+      "from": 58.9,
+      "to": 59.879,
+      "sid": 31,
+      "location": 2,
+      "content": "小镇邮局",
+      "music": 0.0
+    },
+    {
+      "from": 59.879,
+      "to": 61.119,
+      "sid": 32,
+      "location": 2,
+      "content": "虽然这是在德州",
+      "music": 0.0
+    },
+    {
+      "from": 61.119,
+      "to": 63.679,
+      "sid": 33,
+      "location": 2,
+      "content": "但是邮局门口还是写的不得带枪进入",
+      "music": 0.0
+    },
+    {
+      "from": 63.679,
+      "to": 64.939,
+      "sid": 34,
+      "location": 2,
+      "content": "这里的门是不锁的",
+      "music": 0.0
+    },
+    {
+      "from": 64.939,
+      "to": 67.53,
+      "sid": 35,
+      "location": 2,
+      "content": "所以24小时任何时间都可以进入",
+      "music": 0.0
+    },
+    {
+      "from": 67.53,
+      "to": 70.39,
+      "sid": 36,
+      "location": 2,
+      "content": "虽然说佩内洛普看着像是个与世隔绝的地方",
+      "music": 0.0
+    },
+    {
+      "from": 70.39,
+      "to": 72.25,
+      "sid": 37,
+      "location": 2,
+      "content": "但实际上这里并不是很偏",
+      "music": 0.0
+    },
+    {
+      "from": 72.25,
+      "to": 75.48,
+      "sid": 38,
+      "location": 2,
+      "content": "我拿到15万人的小城维科只要30分钟",
+      "music": 0.0
+    },
+    {
+      "from": 75.48,
+      "to": 76.72,
+      "sid": 39,
+      "location": 2,
+      "content": "可能一些人听说过",
+      "music": 0.0
+    },
+    {
+      "from": 76.72,
+      "to": 79.87,
+      "sid": 40,
+      "location": 2,
+      "content": "当年美国联邦调查局和大卫教对射的维科惨案",
+      "music": 0.0
+    },
+    {
+      "from": 79.87,
+      "to": 81.99,
+      "sid": 41,
+      "location": 2,
+      "content": "还有很多人没有办法接受的黑暗饮料",
+      "music": 0.0
+    },
+    {
+      "from": 83.87,
+      "to": 86.39,
+      "sid": 42,
+      "location": 2,
+      "content": "从佩内洛普往维科的方向向南开10分钟",
+      "music": 0.0
+    },
+    {
+      "from": 86.39,
+      "to": 87.58,
+      "sid": 43,
+      "location": 2,
+      "content": "明显车就多了不少",
+      "music": 0.0
+    },
+    {
+      "from": 87.58,
+      "to": 90.6,
+      "sid": 44,
+      "location": 2,
+      "content": "我现在拿到的是354人的勒罗伊小镇",
+      "music": 0.0
+    },
+    {
+      "from": 90.6,
+      "to": 92.58,
+      "sid": 45,
+      "location": 2,
+      "content": "这里就没有佩依洛普那种破败感",
+      "music": 0.0
+    },
+    {
+      "from": 92.58,
+      "to": 94.24,
+      "sid": 46,
+      "location": 2,
+      "content": "甚至还有一些老房子在整修",
+      "music": 0.0
+    },
+    {
+      "from": 94.24,
+      "to": 96.64,
+      "sid": 47,
+      "location": 2,
+      "content": "这个小镇毕竟离维科就20分钟车程",
+      "music": 0.0
+    },
+    {
+      "from": 96.64,
+      "to": 98.08,
+      "sid": 48,
+      "location": 2,
+      "content": "很多在大城市工作的人",
+      "music": 0.0
+    },
+    {
+      "from": 98.08,
+      "to": 99.92,
+      "sid": 49,
+      "location": 2,
+      "content": "会选择住在这样的地方通勤",
+      "music": 0.0
+    },
+    {
+      "from": 99.92,
+      "to": 102.0,
+      "sid": 50,
+      "location": 2,
+      "content": "因此这个小镇最近40年都在增长",
+      "music": 0.0
+    },
+    {
+      "from": 102.0,
+      "to": 103.5,
+      "sid": 51,
+      "location": 2,
+      "content": "人口虽然增加的不多",
+      "music": 0.0
+    },
+    {
+      "from": 103.5,
+      "to": 106.26,
+      "sid": 52,
+      "location": 2,
+      "content": "也是从253个人变成了354个人",
+      "music": 0.0
+    },
+    {
+      "from": 106.26,
+      "to": 108.0,
+      "sid": 53,
+      "location": 2,
+      "content": "当然勒罗伊也有自己的邮局",
+      "music": 0.0
+    },
+    {
+      "from": 108.0,
+      "to": 109.42,
+      "sid": 54,
+      "location": 2,
+      "content": "甚至还有一家小酒馆",
+      "music": 0.0
+    },
+    {
+      "from": 109.42,
+      "to": 111.82,
+      "sid": 55,
+      "location": 2,
+      "content": "这边通往维克的路看着也挺新的",
+      "music": 0.0
+    },
+    {
+      "from": 111.82,
+      "to": 113.5,
+      "sid": 56,
+      "location": 2,
+      "content": "但如果从开头的佩内洛普",
+      "music": 0.0
+    },
+    {
+      "from": 113.5,
+      "to": 115.18,
+      "sid": 57,
+      "location": 2,
+      "content": "往维科的反方向开5分钟",
+      "music": 0.0
+    },
+    {
+      "from": 115.18,
+      "to": 116.9,
+      "sid": 58,
+      "location": 2,
+      "content": "我来到了这个叫马龙的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 116.9,
+      "to": 118.69,
+      "sid": 59,
+      "location": 2,
+      "content": "比佩内洛普还要更破一些",
+      "music": 0.0
+    },
+    {
+      "from": 118.69,
+      "to": 121.59,
+      "sid": 60,
+      "location": 2,
+      "content": "马龙的这个主街街头甚至还有点末日风",
+      "music": 0.0
+    },
+    {
+      "from": 121.59,
+      "to": 123.41,
+      "sid": 61,
+      "location": 2,
+      "content": "在1920年马龙刚建立的时候",
+      "music": 0.0
+    },
+    {
+      "from": 123.41,
+      "to": 124.79,
+      "sid": 62,
+      "location": 2,
+      "content": "有488个人",
+      "music": 0.0
+    },
+    {
+      "from": 124.79,
+      "to": 126.8,
+      "sid": 63,
+      "location": 2,
+      "content": "如今只剩237个人了",
+      "music": 0.0
+    },
+    {
+      "from": 126.8,
+      "to": 128.88,
+      "sid": 64,
+      "location": 2,
+      "content": "这家原先在公路边卖商品的小店",
+      "music": 0.0
+    },
+    {
+      "from": 128.88,
+      "to": 131.84,
+      "sid": 65,
+      "location": 2,
+      "content": "看着也倒闭好些年头了",
+      "music": 0.0
+    },
+    {
+      "from": 134.36,
+      "to": 136.12,
+      "sid": 66,
+      "location": 2,
+      "content": "马龙最早是一个公路小镇",
+      "music": 0.0
+    },
+    {
+      "from": 136.12,
+      "to": 138.96,
+      "sid": 67,
+      "location": 2,
+      "content": "他是1939年修建的德州171号公路",
+      "music": 0.0
+    },
+    {
+      "from": 138.96,
+      "to": 140.88,
+      "sid": 68,
+      "location": 2,
+      "content": "和1948年修建的308号",
+      "music": 0.0
+    },
+    {
+      "from": 140.88,
+      "to": 142.44,
+      "sid": 69,
+      "location": 2,
+      "content": "德州乡村公路的交汇处",
+      "music": 0.0
+    },
+    {
+      "from": 142.44,
+      "to": 144.92,
+      "sid": 70,
+      "location": 2,
+      "content": "但这两条单方面只有一条车道的老公路",
+      "music": 0.0
+    },
+    {
+      "from": 144.92,
+      "to": 147.68,
+      "sid": 71,
+      "location": 2,
+      "content": "显然是比不上几条新修的封闭式高速公路",
+      "music": 0.0
+    },
+    {
+      "from": 147.68,
+      "to": 148.88,
+      "sid": 72,
+      "location": 2,
+      "content": "老的非封闭式公路",
+      "music": 0.0
+    },
+    {
+      "from": 148.88,
+      "to": 151.079,
+      "sid": 73,
+      "location": 2,
+      "content": "沿途会有很多像马龙这样的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 151.079,
+      "to": 153.519,
+      "sid": 74,
+      "location": 2,
+      "content": "在过去路过的车会来这些地方补给",
+      "music": 0.0
+    },
+    {
+      "from": 153.519,
+      "to": 155.919,
+      "sid": 75,
+      "location": 2,
+      "content": "但沿途的居民区也意味着经过的车流",
+      "music": 0.0
+    },
+    {
+      "from": 155.919,
+      "to": 156.879,
+      "sid": 76,
+      "location": 2,
+      "content": "经常得要减速",
+      "music": 0.0
+    },
+    {
+      "from": 156.879,
+      "to": 158.16,
+      "sid": 77,
+      "location": 2,
+      "content": "或者在路口让行",
+      "music": 0.0
+    },
+    {
+      "from": 158.16,
+      "to": 159.6,
+      "sid": 78,
+      "location": 2,
+      "content": "其实40分钟的车程",
+      "music": 0.0
+    },
+    {
+      "from": 159.6,
+      "to": 160.8,
+      "sid": 79,
+      "location": 2,
+      "content": "走马龙这里的老公路",
+      "music": 0.0
+    },
+    {
+      "from": 160.8,
+      "to": 162.79,
+      "sid": 80,
+      "location": 2,
+      "content": "也只比走洲际公路慢6分钟",
+      "music": 0.0
+    },
+    {
+      "from": 162.79,
+      "to": 164.23,
+      "sid": 81,
+      "location": 2,
+      "content": "但除了这周边的居民",
+      "music": 0.0
+    },
+    {
+      "from": 164.23,
+      "to": 165.75,
+      "sid": 82,
+      "location": 2,
+      "content": "并不会再有人路过这里",
+      "music": 0.0
+    },
+    {
+      "from": 165.75,
+      "to": 168.31,
+      "sid": 83,
+      "location": 2,
+      "content": "在离马路不远的一个交叉路口的stop sum旁边",
+      "music": 0.0
+    },
+    {
+      "from": 168.31,
+      "to": 170.1,
+      "sid": 84,
+      "location": 2,
+      "content": "我还发现了一个废弃的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 170.1,
+      "to": 172.7,
+      "sid": 85,
+      "location": 2,
+      "content": "虽然说全美国增长最快的几个德州都市圈",
+      "music": 0.0
+    },
+    {
+      "from": 172.7,
+      "to": 174.0,
+      "sid": 86,
+      "location": 2,
+      "content": "就在几10km之外",
+      "music": 0.0
+    },
+    {
+      "from": 174.0,
+      "to": 176.32,
+      "sid": 87,
+      "location": 2,
+      "content": "但这些地方跟我之前去过的衰败小镇",
+      "music": 0.0
+    },
+    {
+      "from": 176.32,
+      "to": 177.6,
+      "sid": 88,
+      "location": 2,
+      "content": "并没有太大的差别",
+      "music": 0.0
+    },
+    {
+      "from": 177.6,
+      "to": 180.05,
+      "sid": 89,
+      "location": 2,
+      "content": "这些地方当地唯一的产业就是农业了",
+      "music": 0.0
+    },
+    {
+      "from": 180.05,
+      "to": 182.13,
+      "sid": 90,
+      "location": 2,
+      "content": "佩内洛普和马龙所在的希尔县",
+      "music": 0.0
+    },
+    {
+      "from": 182.13,
+      "to": 184.45,
+      "sid": 91,
+      "location": 2,
+      "content": "分别在20162020和2024",
+      "music": 0.0
+    },
+    {
+      "from": 184.45,
+      "to": 186.03,
+      "sid": 92,
+      "location": 2,
+      "content": "投了特朗普78%",
+      "music": 0.0
+    },
+    {
+      "from": 186.03,
+      "to": 188.37,
+      "sid": 93,
+      "location": 2,
+      "content": "80%和82%的票",
+      "music": 0.0
+    },
+    {
+      "from": 188.37,
+      "to": 189.13,
+      "sid": 94,
+      "location": 2,
+      "content": "离开马龙",
+      "music": 0.0
+    },
+    {
+      "from": 189.13,
+      "to": 191.45,
+      "sid": 95,
+      "location": 2,
+      "content": "沿着德州308号农村公路一路向北",
+      "music": 0.0
+    },
+    {
+      "from": 191.45,
+      "to": 192.79,
+      "sid": 96,
+      "location": 2,
+      "content": "往达拉斯的方向开",
+      "music": 0.0
+    },
+    {
+      "from": 192.79,
+      "to": 193.41,
+      "sid": 97,
+      "location": 2,
+      "content": "穿公路",
+      "music": 0.0
+    },
+    {
+      "from": 193.41,
+      "to": 194.87,
+      "sid": 98,
+      "location": 2,
+      "content": "两边无穷无尽的农场",
+      "music": 0.0
+    },
+    {
+      "from": 194.87,
+      "to": 195.79,
+      "sid": 99,
+      "location": 2,
+      "content": "23分钟之后",
+      "music": 0.0
+    },
+    {
+      "from": 195.79,
+      "to": 196.95,
+      "sid": 100,
+      "location": 2,
+      "content": "我就到了一个叫意大利的",
+      "music": 0.0
+    },
+    {
+      "from": 196.95,
+      "to": 198.45,
+      "sid": 101,
+      "location": 2,
+      "content": "1926人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 198.45,
+      "to": 198.87,
+      "sid": 102,
+      "location": 2,
+      "content": "意大利",
+      "music": 0.0
+    },
+    {
+      "from": 198.87,
+      "to": 201.76,
+      "sid": 103,
+      "location": 2,
+      "content": "这个小镇曾经是周边地区的农产品交易中心",
+      "music": 0.0
+    },
+    {
+      "from": 201.76,
+      "to": 202.64,
+      "sid": 104,
+      "location": 2,
+      "content": "但这里的经济",
+      "music": 0.0
+    },
+    {
+      "from": 202.64,
+      "to": 205.2,
+      "sid": 105,
+      "location": 2,
+      "content": "在1930年受到美国大萧条很大的打击",
+      "music": 0.0
+    },
+    {
+      "from": 205.2,
+      "to": 206.84,
+      "sid": 106,
+      "location": 2,
+      "content": "再也没有恢复到从前",
+      "music": 0.0
+    },
+    {
+      "from": 206.84,
+      "to": 208.88,
+      "sid": 107,
+      "location": 2,
+      "content": "意大利已经是时期德州乡下小镇",
+      "music": 0.0
+    },
+    {
+      "from": 208.88,
+      "to": 209.94,
+      "sid": 108,
+      "location": 2,
+      "content": "州人口最多的",
+      "music": 0.0
+    },
+    {
+      "from": 209.94,
+      "to": 212.22,
+      "sid": 109,
+      "location": 2,
+      "content": "但这里主街上的建筑大多也是空置",
+      "music": 0.0
+    },
+    {
+      "from": 212.22,
+      "to": 213.74,
+      "sid": 110,
+      "location": 2,
+      "content": "想要找个地方吃饭都难",
+      "music": 0.0
+    },
+    {
+      "from": 213.74,
+      "to": 215.92,
+      "sid": 111,
+      "location": 2,
+      "content": "还好我带了厦门蜜意工厂的小零食",
+      "music": 0.0
+    },
+    {
+      "from": 215.92,
+      "to": 216.32,
+      "sid": 112,
+      "location": 2,
+      "content": "店铺",
+      "music": 0.0
+    },
+    {
+      "from": 216.32,
+      "to": 217.14,
+      "sid": 113,
+      "location": 2,
+      "content": "主打大份量",
+      "music": 0.0
+    },
+    {
+      "from": 217.14,
+      "to": 218.16,
+      "sid": 114,
+      "location": 2,
+      "content": "虽然包装朴素",
+      "music": 0.0
+    },
+    {
+      "from": 218.16,
+      "to": 219.68,
+      "sid": 115,
+      "location": 2,
+      "content": "但用料都是精挑细选",
+      "music": 0.0
+    },
+    {
+      "from": 219.68,
+      "to": 220.52,
+      "sid": 116,
+      "location": 2,
+      "content": "分量扎实",
+      "music": 0.0
+    },
+    {
+      "from": 220.52,
+      "to": 222.92,
+      "sid": 117,
+      "location": 2,
+      "content": "这款巴掌大的猪肉脯真的是很大片",
+      "music": 0.0
+    },
+    {
+      "from": 222.92,
+      "to": 224.4,
+      "sid": 118,
+      "location": 2,
+      "content": "味道是咸香咸香的",
+      "music": 0.0
+    },
+    {
+      "from": 224.4,
+      "to": 226.04,
+      "sid": 119,
+      "location": 2,
+      "content": "全都是猪后腿肉做的",
+      "music": 0.0
+    },
+    {
+      "from": 226.04,
+      "to": 226.88,
+      "sid": 120,
+      "location": 2,
+      "content": "完全没有淀粉",
+      "music": 0.0
+    },
+    {
+      "from": 226.88,
+      "to": 228.16,
+      "sid": 121,
+      "location": 2,
+      "content": "就是越嚼越香的那种",
+      "music": 0.0
+    },
+    {
+      "from": 228.16,
+      "to": 230.62,
+      "sid": 122,
+      "location": 2,
+      "content": "而且都是完整的一大片满满一包一斤装",
+      "music": 0.0
+    },
+    {
+      "from": 230.62,
+      "to": 232.16,
+      "sid": 123,
+      "location": 2,
+      "content": "拿在手上都是沉甸甸的",
+      "music": 0.0
+    },
+    {
+      "from": 232.16,
+      "to": 234.66,
+      "sid": 124,
+      "location": 2,
+      "content": "这个一斤装的芒果干都是泰国夏阿芒做的",
+      "music": 0.0
+    },
+    {
+      "from": 234.66,
+      "to": 235.18,
+      "sid": 125,
+      "location": 2,
+      "content": "一个芒果",
+      "music": 0.0
+    },
+    {
+      "from": 235.18,
+      "to": 236.08,
+      "sid": 126,
+      "location": 2,
+      "content": "出六片芒果干",
+      "music": 0.0
+    },
+    {
+      "from": 236.08,
+      "to": 237.26,
+      "sid": 127,
+      "location": 2,
+      "content": "芒果的香味真的很浓",
+      "music": 0.0
+    },
+    {
+      "from": 237.26,
+      "to": 239.16,
+      "sid": 128,
+      "location": 2,
+      "content": "打开袋子就能闻到满满的芒果味",
+      "music": 0.0
+    },
+    {
+      "from": 239.16,
+      "to": 240.38,
+      "sid": 129,
+      "location": 2,
+      "content": "芒果片里没有纤维",
+      "music": 0.0
+    },
+    {
+      "from": 240.38,
+      "to": 241.02,
+      "sid": 130,
+      "location": 2,
+      "content": "没有那种丝",
+      "music": 0.0
+    },
+    {
+      "from": 241.02,
+      "to": 241.68,
+      "sid": 131,
+      "location": 2,
+      "content": "不会塞牙",
+      "music": 0.0
+    },
+    {
+      "from": 241.68,
+      "to": 242.46,
+      "sid": 132,
+      "location": 2,
+      "content": "口感很好",
+      "music": 0.0
+    },
+    {
+      "from": 242.46,
+      "to": 243.86,
+      "sid": 133,
+      "location": 2,
+      "content": "味道也是酸酸甜甜的",
+      "music": 0.0
+    },
+    {
+      "from": 243.86,
+      "to": 245.6,
+      "sid": 134,
+      "location": 2,
+      "content": "真的算是很好吃的芒果干了",
+      "music": 0.0
+    },
+    {
+      "from": 245.6,
+      "to": 247.0,
+      "sid": 135,
+      "location": 2,
+      "content": "爆浆芝麻丸有好几层",
+      "music": 0.0
+    },
+    {
+      "from": 247.0,
+      "to": 247.84,
+      "sid": 136,
+      "location": 2,
+      "content": "外面是黑芝麻",
+      "music": 0.0
+    },
+    {
+      "from": 247.84,
+      "to": 248.64,
+      "sid": 137,
+      "location": 2,
+      "content": "中间是巧克力",
+      "music": 0.0
+    },
+    {
+      "from": 248.64,
+      "to": 249.92,
+      "sid": 138,
+      "location": 2,
+      "content": "然后是酥脆的威化",
+      "music": 0.0
+    },
+    {
+      "from": 249.92,
+      "to": 252.24,
+      "sid": 139,
+      "location": 2,
+      "content": "最后里面是七种黑食材的流心夹心",
+      "music": 0.0
+    },
+    {
+      "from": 252.24,
+      "to": 253.16,
+      "sid": 140,
+      "location": 2,
+      "content": "如果你像我一样",
+      "music": 0.0
+    },
+    {
+      "from": 253.16,
+      "to": 254.16,
+      "sid": 141,
+      "location": 2,
+      "content": "零食消耗量比较大",
+      "music": 0.0
+    },
+    {
+      "from": 254.16,
+      "to": 255.24,
+      "sid": 142,
+      "location": 2,
+      "content": "真的可以去他家看看",
+      "music": 0.0
+    },
+    {
+      "from": 255.24,
+      "to": 256.66,
+      "sid": 143,
+      "location": 2,
+      "content": "都是大包又便宜的零食",
+      "music": 0.0
+    },
+    {
+      "from": 256.66,
+      "to": 257.9,
+      "sid": 144,
+      "location": 2,
+      "content": "评论区置顶的优惠券",
+      "music": 0.0
+    },
+    {
+      "from": 257.9,
+      "to": 259.1,
+      "sid": 145,
+      "location": 2,
+      "content": "记得先领取再购买",
+      "music": 0.0
+    },
+    {
+      "from": 259.1,
+      "to": 259.86,
+      "sid": 146,
+      "location": 2,
+      "content": "回到意大利",
+      "music": 0.0
+    },
+    {
+      "from": 259.86,
+      "to": 262.42,
+      "sid": 147,
+      "location": 2,
+      "content": "虽然如今这个小镇看起来没有什么商业气息",
+      "music": 0.0
+    },
+    {
+      "from": 262.42,
+      "to": 263.94,
+      "sid": 148,
+      "location": 2,
+      "content": "但他祖上毕竟是阔国",
+      "music": 0.0
+    },
+    {
+      "from": 263.94,
+      "to": 266.06,
+      "sid": 149,
+      "location": 2,
+      "content": "这里曾经出过一个没有后代的富商",
+      "music": 0.0
+    },
+    {
+      "from": 266.06,
+      "to": 266.98,
+      "sid": 150,
+      "location": 2,
+      "content": "他去世了之后",
+      "music": 0.0
+    },
+    {
+      "from": 266.98,
+      "to": 269.64,
+      "sid": 151,
+      "location": 2,
+      "content": "就把所有的财富捐给小镇造了一座图书馆",
+      "music": 0.0
+    },
+    {
+      "from": 269.64,
+      "to": 272.38,
+      "sid": 152,
+      "location": 2,
+      "content": "这图书馆一进门就能看到这个哥们的画像",
+      "music": 0.0
+    },
+    {
+      "from": 272.38,
+      "to": 274.7,
+      "sid": 153,
+      "location": 2,
+      "content": "正好我也挺好奇意大利这个地名是怎么来的",
+      "music": 0.0
+    },
+    {
+      "from": 274.7,
+      "to": 276.46,
+      "sid": 154,
+      "location": 2,
+      "content": "于是我也问了一下图书管理员",
+      "music": 0.0
+    },
+    {
+      "from": 276.46,
+      "to": 278.76,
+      "sid": 155,
+      "location": 2,
+      "content": "They came through this town with a troops",
+      "music": 0.0
+    },
+    {
+      "from": 278.76,
+      "to": 279.68,
+      "sid": 156,
+      "location": 2,
+      "content": "And there's a creek",
+      "music": 0.0
+    },
+    {
+      "from": 279.68,
+      "to": 281.76,
+      "sid": 157,
+      "location": 2,
+      "content": "And so it's been called houston's creeks",
+      "music": 0.0
+    },
+    {
+      "from": 281.76,
+      "to": 286.14,
+      "sid": 158,
+      "location": 2,
+      "content": "So little town desent to apply to the post office for a name",
+      "music": 0.0
+    },
+    {
+      "from": 286.14,
+      "to": 286.54,
+      "sid": 159,
+      "location": 2,
+      "content": "They said",
+      "music": 0.0
+    },
+    {
+      "from": 286.54,
+      "to": 286.98,
+      "sid": 160,
+      "location": 2,
+      "content": "Oh no",
+      "music": 0.0
+    },
+    {
+      "from": 286.98,
+      "to": 288.54,
+      "sid": 161,
+      "location": 2,
+      "content": "Houston's already taken the cues",
+      "music": 0.0
+    },
+    {
+      "from": 288.54,
+      "to": 289.22,
+      "sid": 162,
+      "location": 2,
+      "content": "Don't like it",
+      "music": 0.0
+    },
+    {
+      "from": 289.22,
+      "to": 289.86,
+      "sid": 163,
+      "location": 2,
+      "content": "So i said no",
+      "music": 0.0
+    },
+    {
+      "from": 289.86,
+      "to": 291.3,
+      "sid": 164,
+      "location": 2,
+      "content": "And so their second choice with italy",
+      "music": 0.0
+    },
+    {
+      "from": 291.3,
+      "to": 292.42,
+      "sid": 165,
+      "location": 2,
+      "content": "Some guy said he",
+      "music": 0.0
+    },
+    {
+      "from": 292.42,
+      "to": 296.01,
+      "sid": 166,
+      "location": 2,
+      "content": "He reminded his of his hometown in the italy sunny",
+      "music": 0.0
+    },
+    {
+      "from": 296.01,
+      "to": 296.61,
+      "sid": 167,
+      "location": 2,
+      "content": "Italy",
+      "music": 0.0
+    },
+    {
+      "from": 296.61,
+      "to": 297.69,
+      "sid": 168,
+      "location": 2,
+      "content": "We woulin houston",
+      "music": 0.0
+    },
+    {
+      "from": 297.69,
+      "to": 298.61,
+      "sid": 169,
+      "location": 2,
+      "content": "And houston had heard",
+      "music": 0.0
+    },
+    {
+      "from": 298.61,
+      "to": 299.97,
+      "sid": 170,
+      "location": 2,
+      "content": "And taken up my six",
+      "music": 0.0
+    },
+    {
+      "from": 299.97,
+      "to": 301.21,
+      "sid": 171,
+      "location": 2,
+      "content": "Not a sunny nice",
+      "music": 0.0
+    },
+    {
+      "from": 301.21,
+      "to": 301.37,
+      "sid": 172,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 301.37,
+      "to": 302.34,
+      "sid": 173,
+      "location": 2,
+      "content": "I would be nice mother",
+      "music": 0.0
+    },
+    {
+      "from": 302.34,
+      "to": 304.46,
+      "sid": 174,
+      "location": 2,
+      "content": "意大利这个小镇确实阳光过于耀眼",
+      "music": 0.0
+    },
+    {
+      "from": 304.46,
+      "to": 306.28,
+      "sid": 175,
+      "location": 2,
+      "content": "导致我手机镜头都看不清了",
+      "music": 0.0
+    },
+    {
+      "from": 306.28,
+      "to": 308.06,
+      "sid": 176,
+      "location": 2,
+      "content": "意大利这个地方除了刚刚的图书馆",
+      "music": 0.0
+    },
+    {
+      "from": 308.06,
+      "to": 308.9,
+      "sid": 177,
+      "location": 2,
+      "content": "还有警察局",
+      "music": 0.0
+    },
+    {
+      "from": 308.9,
+      "to": 311.159,
+      "sid": 178,
+      "location": 2,
+      "content": "说明当地还是有一定的税收基础的",
+      "music": 0.0
+    },
+    {
+      "from": 311.159,
+      "to": 313.379,
+      "sid": 179,
+      "location": 2,
+      "content": "这边主街上也有一家老的废弃加油站",
+      "music": 0.0
+    },
+    {
+      "from": 313.379,
+      "to": 314.679,
+      "sid": 180,
+      "location": 2,
+      "content": "不过如今翻修了一下",
+      "music": 0.0
+    },
+    {
+      "from": 314.679,
+      "to": 316.17,
+      "sid": 181,
+      "location": 2,
+      "content": "改成了一家新的汉堡店",
+      "music": 0.0
+    },
+    {
+      "from": 316.17,
+      "to": 316.77,
+      "sid": 182,
+      "location": 2,
+      "content": "总的来说",
+      "music": 0.0
+    },
+    {
+      "from": 316.77,
+      "to": 319.09,
+      "sid": 183,
+      "location": 2,
+      "content": "意大利比刚刚那几个百人小镇要强不少",
+      "music": 0.0
+    },
+    {
+      "from": 319.09,
+      "to": 320.6,
+      "sid": 184,
+      "location": 2,
+      "content": "不只是因为这边人口多",
+      "music": 0.0
+    },
+    {
+      "from": 320.6,
+      "to": 321.68,
+      "sid": 185,
+      "location": 2,
+      "content": "还因为它的地理位置",
+      "music": 0.0
+    },
+    {
+      "from": 321.68,
+      "to": 323.56,
+      "sid": 186,
+      "location": 2,
+      "content": "就在35号洲际公路附近",
+      "music": 0.0
+    },
+    {
+      "from": 323.56,
+      "to": 326.289,
+      "sid": 187,
+      "location": 2,
+      "content": "从这里去达拉斯最南的郊区也就是20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 326.289,
+      "to": 328.009,
+      "sid": 188,
+      "location": 2,
+      "content": "这种小镇生活比较宁静",
+      "music": 0.0
+    },
+    {
+      "from": 328.009,
+      "to": 328.729,
+      "sid": 189,
+      "location": 2,
+      "content": "房价也低",
+      "music": 0.0
+    },
+    {
+      "from": 328.729,
+      "to": 330.7,
+      "sid": 190,
+      "location": 2,
+      "content": "很多人就住在这里通勤上班",
+      "music": 0.0
+    },
+    {
+      "from": 330.7,
+      "to": 331.7,
+      "sid": 191,
+      "location": 2,
+      "content": "这也跟网上查到的",
+      "music": 0.0
+    },
+    {
+      "from": 331.7,
+      "to": 334.76,
+      "sid": 192,
+      "location": 2,
+      "content": "意大利居民平均通勤时间30分钟比较吻合",
+      "music": 0.0
+    },
+    {
+      "from": 334.76,
+      "to": 336.38,
+      "sid": 193,
+      "location": 2,
+      "content": "这边的人口在过去30年内",
+      "music": 0.0
+    },
+    {
+      "from": 336.38,
+      "to": 338.18,
+      "sid": 194,
+      "location": 2,
+      "content": "都是稳定在1900上下",
+      "music": 0.0
+    },
+    {
+      "from": 338.18,
+      "to": 340.5,
+      "sid": 195,
+      "location": 2,
+      "content": "意大利向西7分钟也有一个比较类似的",
+      "music": 0.0
+    },
+    {
+      "from": 340.5,
+      "to": 342.58,
+      "sid": 196,
+      "location": 2,
+      "content": "在洲际公路边的722人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 342.58,
+      "to": 344.4,
+      "sid": 197,
+      "location": 2,
+      "content": "米尔福德小镇的主路上",
+      "music": 0.0
+    },
+    {
+      "from": 344.4,
+      "to": 346.44,
+      "sid": 198,
+      "location": 2,
+      "content": "还有去意大利和35号洲际公路",
+      "music": 0.0
+    },
+    {
+      "from": 346.44,
+      "to": 347.42,
+      "sid": 199,
+      "location": 2,
+      "content": "的方向指示牌",
+      "music": 0.0
+    },
+    {
+      "from": 347.42,
+      "to": 348.44,
+      "sid": 200,
+      "location": 2,
+      "content": "而掉头往南看",
+      "music": 0.0
+    },
+    {
+      "from": 348.44,
+      "to": 351.099,
+      "sid": 201,
+      "location": 2,
+      "content": "可以通往视频开头的佩内洛普米尔福德",
+      "music": 0.0
+    },
+    {
+      "from": 351.099,
+      "to": 352.259,
+      "sid": 202,
+      "location": 2,
+      "content": "在过去的30年内",
+      "music": 0.0
+    },
+    {
+      "from": 352.259,
+      "to": 354.239,
+      "sid": 203,
+      "location": 2,
+      "content": "人口一直稳定在700人上下",
+      "music": 0.0
+    },
+    {
+      "from": 354.239,
+      "to": 356.339,
+      "sid": 204,
+      "location": 2,
+      "content": "如今住在这的人也跟意大利差不多",
+      "music": 0.0
+    },
+    {
+      "from": 356.339,
+      "to": 358.98,
+      "sid": 205,
+      "location": 2,
+      "content": "大部分都是去达拉斯周边上班通勤的",
+      "music": 0.0
+    },
+    {
+      "from": 358.98,
+      "to": 362.18,
+      "sid": 206,
+      "location": 2,
+      "content": "今天在同一条德州308号农村公路上转悠",
+      "music": 0.0
+    },
+    {
+      "from": 362.18,
+      "to": 364.1,
+      "sid": 207,
+      "location": 2,
+      "content": "一般来说离大城市越近的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 364.1,
+      "to": 365.82,
+      "sid": 208,
+      "location": 2,
+      "content": "城市面貌要稍微强一点",
+      "music": 0.0
+    },
+    {
+      "from": 365.82,
+      "to": 368.74,
+      "sid": 209,
+      "location": 2,
+      "content": "米尔福德和意大利的主街上虽然也没啥人气",
+      "music": 0.0
+    },
+    {
+      "from": 368.74,
+      "to": 371.309,
+      "sid": 210,
+      "location": 2,
+      "content": "但是至少没有那种世界末日的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 371.309,
+      "to": 374.149,
+      "sid": 211,
+      "location": 2,
+      "content": "原先空置的店铺也被本地一个老哥利用起来",
+      "music": 0.0
+    },
+    {
+      "from": 374.149,
+      "to": 375.309,
+      "sid": 212,
+      "location": 2,
+      "content": "做成了小花园",
+      "music": 0.0
+    },
+    {
+      "from": 375.309,
+      "to": 376.509,
+      "sid": 213,
+      "location": 2,
+      "content": "虽然离都市圈近",
+      "music": 0.0
+    },
+    {
+      "from": 376.509,
+      "to": 379.22,
+      "sid": 214,
+      "location": 2,
+      "content": "给这些小镇带来了通勤的居民和一些税收",
+      "music": 0.0
+    },
+    {
+      "from": 379.22,
+      "to": 380.38,
+      "sid": 215,
+      "location": 2,
+      "content": "但是离大城市太近",
+      "music": 0.0
+    },
+    {
+      "from": 380.38,
+      "to": 382.26,
+      "sid": 216,
+      "location": 2,
+      "content": "也使得这些1000人左右的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 382.26,
+      "to": 383.96,
+      "sid": 217,
+      "location": 2,
+      "content": "很难发展起自己的商业",
+      "music": 0.0
+    },
+    {
+      "from": 383.96,
+      "to": 386.66,
+      "sid": 218,
+      "location": 2,
+      "content": "很多本地人一般买东西吃饭都是开个20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 386.66,
+      "to": 387.58,
+      "sid": 219,
+      "location": 2,
+      "content": "去城里面",
+      "music": 0.0
+    },
+    {
+      "from": 387.58,
+      "to": 388.62,
+      "sid": 220,
+      "location": 2,
+      "content": "本地的零售业",
+      "music": 0.0
+    },
+    {
+      "from": 388.62,
+      "to": 391.24,
+      "sid": 221,
+      "location": 2,
+      "content": "只有加油站和解决基本需求的小超市",
+      "music": 0.0
+    },
+    {
+      "from": 391.24,
+      "to": 393.85,
+      "sid": 222,
+      "location": 2,
+      "content": "如果是你会愿意来这样的小镇生活吗",
+      "music": 0.0
+    },
+    {
+      "from": 393.85,
+      "to": 394.53,
+      "sid": 223,
+      "location": 2,
+      "content": "转了一圈",
+      "music": 0.0
+    },
+    {
+      "from": 394.53,
+      "to": 395.87,
+      "sid": 224,
+      "location": 2,
+      "content": "米尔福德的小杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 395.87,
+      "to": 398.49,
+      "sid": 225,
+      "location": 2,
+      "content": "我看能买的只有这个2.75刀的口香糖",
+      "music": 0.0
+    },
+    {
+      "from": 398.49,
+      "to": 400.74,
+      "sid": 226,
+      "location": 2,
+      "content": "还好有厦门蜜翼工厂的小零食",
+      "music": 0.0
+    },
+    {
+      "from": 400.74,
+      "to": 402.54,
+      "sid": 227,
+      "location": 2,
+      "content": "喜欢吃零食的小伙伴不要忘记",
+      "music": 0.0
+    },
+    {
+      "from": 402.54,
+      "to": 404.72,
+      "sid": 228,
+      "location": 2,
+      "content": "点击评论区置顶链接领券购买哦",
+      "music": 0.0
+    },
+    {
+      "from": 404.72,
+      "to": 407.76,
+      "sid": 229,
+      "location": 2,
+      "content": "关注我带你去更多普通人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,1284 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.02,
+      "to": 1.38,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我在傍晚来到了",
+      "music": 0.0
+    },
+    {
+      "from": 1.38,
+      "to": 4.74,
+      "sid": 2,
+      "location": 2,
+      "content": "由美国谋杀之都之称的东圣路易斯市中心",
+      "music": 0.0
+    },
+    {
+      "from": 4.74,
+      "to": 7.58,
+      "sid": 3,
+      "location": 2,
+      "content": "这里2020年人口普查显示有1万8000人",
+      "music": 0.0
+    },
+    {
+      "from": 7.58,
+      "to": 9.12,
+      "sid": 4,
+      "location": 2,
+      "content": "黑人占比95%",
+      "music": 0.0
+    },
+    {
+      "from": 9.12,
+      "to": 11.72,
+      "sid": 5,
+      "location": 2,
+      "content": "这里算是密西西比河畔的一个铁锈城市",
+      "music": 0.0
+    },
+    {
+      "from": 11.72,
+      "to": 14.58,
+      "sid": 6,
+      "location": 2,
+      "content": "曾经有很多和工业航运铁路相关的工作",
+      "music": 0.0
+    },
+    {
+      "from": 14.58,
+      "to": 16.4,
+      "sid": 7,
+      "location": 2,
+      "content": "在1950年有8万2000人",
+      "music": 0.0
+    },
+    {
+      "from": 16.4,
+      "to": 18.58,
+      "sid": 8,
+      "location": 2,
+      "content": "但是随着产业的转移和就业的减少",
+      "music": 0.0
+    },
+    {
+      "from": 18.58,
+      "to": 19.8,
+      "sid": 9,
+      "location": 2,
+      "content": "这边慢慢没落了",
+      "music": 0.0
+    },
+    {
+      "from": 19.8,
+      "to": 20.86,
+      "sid": 10,
+      "location": 2,
+      "content": "在1960年代",
+      "music": 0.0
+    },
+    {
+      "from": 20.86,
+      "to": 22.759,
+      "sid": 11,
+      "location": 2,
+      "content": "这边开始断崖式人口减少",
+      "music": 0.0
+    },
+    {
+      "from": 22.759,
+      "to": 25.079,
+      "sid": 12,
+      "location": 2,
+      "content": "每10年都会失去20%多的人口",
+      "music": 0.0
+    },
+    {
+      "from": 25.079,
+      "to": 27.84,
+      "sid": 13,
+      "location": 2,
+      "content": "这比2022年的贫困率是32%",
+      "music": 0.0
+    },
+    {
+      "from": 27.84,
+      "to": 30.14,
+      "sid": 14,
+      "location": 2,
+      "content": "此一路开过来都是一些空房子",
+      "music": 0.0
+    },
+    {
+      "from": 30.14,
+      "to": 32.189,
+      "sid": 15,
+      "location": 2,
+      "content": "市中心的商业基本上也不存在",
+      "music": 0.0
+    },
+    {
+      "from": 32.189,
+      "to": 33.989,
+      "sid": 16,
+      "location": 2,
+      "content": "不过好在我路过一个酒吧门口",
+      "music": 0.0
+    },
+    {
+      "from": 33.989,
+      "to": 34.949,
+      "sid": 17,
+      "location": 2,
+      "content": "似乎人还不少",
+      "music": 0.0
+    },
+    {
+      "from": 34.949,
+      "to": 36.109,
+      "sid": 18,
+      "location": 2,
+      "content": "我现在进去看看",
+      "music": 0.0
+    },
+    {
+      "from": 36.109,
+      "to": 37.52,
+      "sid": 19,
+      "location": 2,
+      "content": "里面全部是本地人",
+      "music": 0.0
+    },
+    {
+      "from": 37.52,
+      "to": 38.8,
+      "sid": 20,
+      "location": 2,
+      "content": "而我一个亚洲人进去",
+      "music": 0.0
+    },
+    {
+      "from": 38.8,
+      "to": 40.28,
+      "sid": 21,
+      "location": 2,
+      "content": "很多人感觉是愣了一下",
+      "music": 0.0
+    },
+    {
+      "from": 40.28,
+      "to": 41.74,
+      "sid": 22,
+      "location": 2,
+      "content": "像是见到了一个新的物种",
+      "music": 0.0
+    },
+    {
+      "from": 41.74,
+      "to": 43.42,
+      "sid": 23,
+      "location": 2,
+      "content": "不过所有人都对我非常友好",
+      "music": 0.0
+    },
+    {
+      "from": 43.42,
+      "to": 44.74,
+      "sid": 24,
+      "location": 2,
+      "content": "都主动给我打招呼",
+      "music": 0.0
+    },
+    {
+      "from": 44.74,
+      "to": 47.38,
+      "sid": 25,
+      "location": 2,
+      "content": "可能是太久没有什么外来人来到这里",
+      "music": 0.0
+    },
+    {
+      "from": 47.38,
+      "to": 51.869,
+      "sid": 26,
+      "location": 2,
+      "content": "This get white meal four four dragon",
+      "music": 0.0
+    },
+    {
+      "from": 51.869,
+      "to": 53.889,
+      "sid": 27,
+      "location": 2,
+      "content": "It's the dangerous stuff",
+      "music": 0.0
+    },
+    {
+      "from": 53.889,
+      "to": 54.849,
+      "sid": 28,
+      "location": 2,
+      "content": "Very all right",
+      "music": 0.0
+    },
+    {
+      "from": 54.849,
+      "to": 55.609,
+      "sid": 29,
+      "location": 2,
+      "content": "Very dangerous",
+      "music": 0.0
+    },
+    {
+      "from": 55.609,
+      "to": 58.11,
+      "sid": 30,
+      "location": 2,
+      "content": "Very ok by this way",
+      "music": 0.0
+    },
+    {
+      "from": 58.11,
+      "to": 59.87,
+      "sid": 31,
+      "location": 2,
+      "content": "But this place is sus nice",
+      "music": 0.0
+    },
+    {
+      "from": 59.87,
+      "to": 60.47,
+      "sid": 32,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 60.47,
+      "to": 61.51,
+      "sid": 33,
+      "location": 2,
+      "content": "Very nice",
+      "music": 0.0
+    },
+    {
+      "from": 61.51,
+      "to": 64.17,
+      "sid": 34,
+      "location": 2,
+      "content": "That's why i'm telling when you leave here",
+      "music": 0.0
+    },
+    {
+      "from": 64.17,
+      "to": 65.759,
+      "sid": 35,
+      "location": 2,
+      "content": "Coming the wrong meo",
+      "music": 0.0
+    },
+    {
+      "from": 65.759,
+      "to": 67.119,
+      "sid": 36,
+      "location": 2,
+      "content": "听本地人这么一说",
+      "music": 0.0
+    },
+    {
+      "from": 67.119,
+      "to": 71.0,
+      "sid": 37,
+      "location": 2,
+      "content": "我更感觉东胜律易丝跟我的气质非常相符",
+      "music": 0.0
+    },
+    {
+      "from": 71.0,
+      "to": 74.24,
+      "sid": 38,
+      "location": 2,
+      "content": "于是我在这个地方的郊区旅居了四天之后",
+      "music": 0.0
+    },
+    {
+      "from": 74.24,
+      "to": 75.68,
+      "sid": 39,
+      "location": 2,
+      "content": "挑了一个良辰吉日",
+      "music": 0.0
+    },
+    {
+      "from": 75.68,
+      "to": 78.03,
+      "sid": 40,
+      "location": 2,
+      "content": "来到了这边的市中心核心区",
+      "music": 0.0
+    },
+    {
+      "from": 78.03,
+      "to": 78.75,
+      "sid": 41,
+      "location": 2,
+      "content": "进了城",
+      "music": 0.0
+    },
+    {
+      "from": 78.75,
+      "to": 81.39,
+      "sid": 42,
+      "location": 2,
+      "content": "给我的第一感觉就是路非常的坑坑洼洼",
+      "music": 0.0
+    },
+    {
+      "from": 81.39,
+      "to": 83.82,
+      "sid": 43,
+      "location": 2,
+      "content": "开车简直跟打地鼠一样",
+      "music": 0.0
+    },
+    {
+      "from": 83.82,
+      "to": 85.58,
+      "sid": 44,
+      "location": 2,
+      "content": "还有就是到处都是空地",
+      "music": 0.0
+    },
+    {
+      "from": 85.58,
+      "to": 86.8,
+      "sid": 45,
+      "location": 2,
+      "content": "或者说小树林",
+      "music": 0.0
+    },
+    {
+      "from": 86.8,
+      "to": 88.97,
+      "sid": 46,
+      "location": 2,
+      "content": "这些地方原先都有建筑",
+      "music": 0.0
+    },
+    {
+      "from": 88.97,
+      "to": 90.41,
+      "sid": 47,
+      "location": 2,
+      "content": "只是因为人口流失",
+      "music": 0.0
+    },
+    {
+      "from": 90.41,
+      "to": 92.09,
+      "sid": 48,
+      "location": 2,
+      "content": "很多都废弃空置了",
+      "music": 0.0
+    },
+    {
+      "from": 92.09,
+      "to": 95.59,
+      "sid": 49,
+      "location": 2,
+      "content": "这跟传说中的底特律一元房有一些类似",
+      "music": 0.0
+    },
+    {
+      "from": 95.59,
+      "to": 97.31,
+      "sid": 50,
+      "location": 2,
+      "content": "后来当地怕安全隐患",
+      "music": 0.0
+    },
+    {
+      "from": 97.31,
+      "to": 98.95,
+      "sid": 51,
+      "location": 2,
+      "content": "把这些房子都拆掉了",
+      "music": 0.0
+    },
+    {
+      "from": 98.95,
+      "to": 101.56,
+      "sid": 52,
+      "location": 2,
+      "content": "各种植物也就在这里野蛮生长",
+      "music": 0.0
+    },
+    {
+      "from": 101.56,
+      "to": 103.72,
+      "sid": 53,
+      "location": 2,
+      "content": "我先来到的是一家在街角",
+      "music": 0.0
+    },
+    {
+      "from": 103.72,
+      "to": 106.08,
+      "sid": 54,
+      "location": 2,
+      "content": "主要做美国黑人料理的餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 106.08,
+      "to": 108.44,
+      "sid": 55,
+      "location": 2,
+      "content": "门口有不少人在走来走去",
+      "music": 0.0
+    },
+    {
+      "from": 108.44,
+      "to": 110.5,
+      "sid": 56,
+      "location": 2,
+      "content": "看看网友们是怎么说的",
+      "music": 0.0
+    },
+    {
+      "from": 110.5,
+      "to": 112.74,
+      "sid": 57,
+      "location": 2,
+      "content": "位置太糟糕了",
+      "music": 0.0
+    },
+    {
+      "from": 112.74,
+      "to": 117.36,
+      "sid": 58,
+      "location": 2,
+      "content": "你感觉就像冒着生命危险才停下来",
+      "music": 0.0
+    },
+    {
+      "from": 117.36,
+      "to": 120.38,
+      "sid": 59,
+      "location": 2,
+      "content": "外面人们的眼球很疯狂",
+      "music": 0.0
+    },
+    {
+      "from": 120.38,
+      "to": 121.54,
+      "sid": 60,
+      "location": 2,
+      "content": "总的来说",
+      "music": 0.0
+    },
+    {
+      "from": 121.54,
+      "to": 125.2,
+      "sid": 61,
+      "location": 2,
+      "content": "准备好冒一切风险去吃美食",
+      "music": 0.0
+    },
+    {
+      "from": 125.2,
+      "to": 127.38,
+      "sid": 62,
+      "location": 2,
+      "content": "这个店明显是做外卖的",
+      "music": 0.0
+    },
+    {
+      "from": 127.38,
+      "to": 129.47,
+      "sid": 63,
+      "location": 2,
+      "content": "店里面只有一张小桌子",
+      "music": 0.0
+    },
+    {
+      "from": 129.47,
+      "to": 132.81,
+      "sid": 64,
+      "location": 2,
+      "content": "我看到的顾客基本上就是拿了菜就跑的那种",
+      "music": 0.0
+    },
+    {
+      "from": 132.81,
+      "to": 135.85,
+      "sid": 65,
+      "location": 2,
+      "content": "不过这个菜单上面的菜的价格都不低",
+      "music": 0.0
+    },
+    {
+      "from": 135.85,
+      "to": 137.97,
+      "sid": 66,
+      "location": 2,
+      "content": "我点了一个最便宜的五块钱的",
+      "music": 0.0
+    },
+    {
+      "from": 137.97,
+      "to": 139.31,
+      "sid": 67,
+      "location": 2,
+      "content": "不知道是什么的菜",
+      "music": 0.0
+    },
+    {
+      "from": 139.31,
+      "to": 141.73,
+      "sid": 68,
+      "location": 2,
+      "content": "拿到手发现大概就是这种很腻的",
+      "music": 0.0
+    },
+    {
+      "from": 141.73,
+      "to": 142.65,
+      "sid": 69,
+      "location": 2,
+      "content": "白白的酱汁",
+      "music": 0.0
+    },
+    {
+      "from": 142.65,
+      "to": 143.88,
+      "sid": 70,
+      "location": 2,
+      "content": "加上肉末",
+      "music": 0.0
+    },
+    {
+      "from": 143.88,
+      "to": 146.66,
+      "sid": 71,
+      "location": 2,
+      "content": "还附带一包薯片味道",
+      "music": 0.0
+    },
+    {
+      "from": 146.66,
+      "to": 148.46,
+      "sid": 72,
+      "location": 2,
+      "content": "俗语说是可以吃吧",
+      "music": 0.0
+    },
+    {
+      "from": 148.46,
+      "to": 149.8,
+      "sid": 73,
+      "location": 2,
+      "content": "不过好在量不大",
+      "music": 0.0
+    },
+    {
+      "from": 149.8,
+      "to": 151.08,
+      "sid": 74,
+      "location": 2,
+      "content": "我也就把它吃完了",
+      "music": 0.0
+    },
+    {
+      "from": 151.08,
+      "to": 152.05,
+      "sid": 75,
+      "location": 2,
+      "content": "没有浪费",
+      "music": 0.0
+    },
+    {
+      "from": 152.05,
+      "to": 155.21,
+      "sid": 76,
+      "location": 2,
+      "content": "接着我打算去看看这边的中餐馆是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 155.21,
+      "to": 156.05,
+      "sid": 77,
+      "location": 2,
+      "content": "在地图上",
+      "music": 0.0
+    },
+    {
+      "from": 156.05,
+      "to": 158.49,
+      "sid": 78,
+      "location": 2,
+      "content": "这边的餐馆选择其实非常的少",
+      "music": 0.0
+    },
+    {
+      "from": 158.49,
+      "to": 161.67,
+      "sid": 79,
+      "location": 2,
+      "content": "主要还是因为市中心核心区的治安很差",
+      "music": 0.0
+    },
+    {
+      "from": 161.67,
+      "to": 164.67,
+      "sid": 80,
+      "location": 2,
+      "content": "再加上周围的人的消费能力都不强",
+      "music": 0.0
+    },
+    {
+      "from": 164.67,
+      "to": 167.31,
+      "sid": 81,
+      "location": 2,
+      "content": "但是我发现其中一大半的餐馆都是这种",
+      "music": 0.0
+    },
+    {
+      "from": 167.31,
+      "to": 169.76,
+      "sid": 82,
+      "location": 2,
+      "content": "叫chop sui的老式中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 169.76,
+      "to": 171.72,
+      "sid": 83,
+      "location": 2,
+      "content": "这边也得不得不佩服华人",
+      "music": 0.0
+    },
+    {
+      "from": 171.72,
+      "to": 174.58,
+      "sid": 84,
+      "location": 2,
+      "content": "在什么样的条件下都可以把生意做起来",
+      "music": 0.0
+    },
+    {
+      "from": 174.58,
+      "to": 176.72,
+      "sid": 85,
+      "location": 2,
+      "content": "环顾一下餐厅的四周",
+      "music": 0.0
+    },
+    {
+      "from": 176.72,
+      "to": 179.82,
+      "sid": 86,
+      "location": 2,
+      "content": "基本上没有任何还投入运行的建筑了",
+      "music": 0.0
+    },
+    {
+      "from": 179.82,
+      "to": 182.94,
+      "sid": 87,
+      "location": 2,
+      "content": "这个餐厅像是一片沙漠里面的一个碉堡",
+      "music": 0.0
+    },
+    {
+      "from": 182.94,
+      "to": 185.55,
+      "sid": 88,
+      "location": 2,
+      "content": "这个安保设施做的非常的到位",
+      "music": 0.0
+    },
+    {
+      "from": 185.55,
+      "to": 186.79,
+      "sid": 89,
+      "location": 2,
+      "content": "这家餐厅的对面",
+      "music": 0.0
+    },
+    {
+      "from": 186.79,
+      "to": 190.42,
+      "sid": 90,
+      "location": 2,
+      "content": "原先应该也是一家卖炸鸡和海鲜的快餐店",
+      "music": 0.0
+    },
+    {
+      "from": 190.42,
+      "to": 192.54,
+      "sid": 91,
+      "location": 2,
+      "content": "老的街景图是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 192.54,
+      "to": 194.329,
+      "sid": 92,
+      "location": 2,
+      "content": "而且皮肤还不错",
+      "music": 0.0
+    },
+    {
+      "from": 194.329,
+      "to": 196.609,
+      "sid": 93,
+      "location": 2,
+      "content": "现在看着好像是被火烧掉了",
+      "music": 0.0
+    },
+    {
+      "from": 196.609,
+      "to": 199.189,
+      "sid": 94,
+      "location": 2,
+      "content": "然后这个房子就一直闲置在这里了",
+      "music": 0.0
+    },
+    {
+      "from": 199.189,
+      "to": 202.91,
+      "sid": 95,
+      "location": 2,
+      "content": "而这样的房子在东圣路易斯市中心到处都是",
+      "music": 0.0
+    },
+    {
+      "from": 202.91,
+      "to": 204.35,
+      "sid": 96,
+      "location": 2,
+      "content": "不过唯一好的一点就是",
+      "music": 0.0
+    },
+    {
+      "from": 204.35,
+      "to": 207.31,
+      "sid": 97,
+      "location": 2,
+      "content": "很多植物都从这种空地里面长了出来",
+      "music": 0.0
+    },
+    {
+      "from": 207.31,
+      "to": 208.83,
+      "sid": 98,
+      "location": 2,
+      "content": "就像原先的这个车道",
+      "music": 0.0
+    },
+    {
+      "from": 208.83,
+      "to": 211.04,
+      "sid": 99,
+      "location": 2,
+      "content": "点餐的地方长出了不少草",
+      "music": 0.0
+    },
+    {
+      "from": 211.04,
+      "to": 212.16,
+      "sid": 100,
+      "location": 2,
+      "content": "而周围转一圈",
+      "music": 0.0
+    },
+    {
+      "from": 212.16,
+      "to": 213.54,
+      "sid": 101,
+      "location": 2,
+      "content": "到处也都是绿地",
+      "music": 0.0
+    },
+    {
+      "from": 213.54,
+      "to": 216.61,
+      "sid": 102,
+      "location": 2,
+      "content": "现在还有一个名词叫城市草原",
+      "music": 0.0
+    },
+    {
+      "from": 216.61,
+      "to": 218.61,
+      "sid": 103,
+      "location": 2,
+      "content": "专门只是走城市衰退之后",
+      "music": 0.0
+    },
+    {
+      "from": 218.61,
+      "to": 221.399,
+      "sid": 104,
+      "location": 2,
+      "content": "在市中心里面出现了大片大片绿地",
+      "music": 0.0
+    },
+    {
+      "from": 221.399,
+      "to": 222.639,
+      "sid": 105,
+      "location": 2,
+      "content": "在外面转了一圈",
+      "music": 0.0
+    },
+    {
+      "from": 222.639,
+      "to": 224.299,
+      "sid": 106,
+      "location": 2,
+      "content": "发现我点的菜也好了",
+      "music": 0.0
+    },
+    {
+      "from": 224.299,
+      "to": 226.54,
+      "sid": 107,
+      "location": 2,
+      "content": "就是一个小份的炒杂碎",
+      "music": 0.0
+    },
+    {
+      "from": 226.54,
+      "to": 229.34,
+      "sid": 108,
+      "location": 2,
+      "content": "这个算是比较老式的美式中餐菜",
+      "music": 0.0
+    },
+    {
+      "from": 229.34,
+      "to": 230.84,
+      "sid": 109,
+      "location": 2,
+      "content": "也就是一堆蔬菜",
+      "music": 0.0
+    },
+    {
+      "from": 230.84,
+      "to": 232.34,
+      "sid": 110,
+      "location": 2,
+      "content": "加一点酱油和蚝油",
+      "music": 0.0
+    },
+    {
+      "from": 232.34,
+      "to": 236.02,
+      "sid": 111,
+      "location": 2,
+      "content": "乱炒这些黑人区里面的中餐厅也有卖炸鸡炒饭",
+      "music": 0.0
+    },
+    {
+      "from": 236.02,
+      "to": 237.26,
+      "sid": 112,
+      "location": 2,
+      "content": "还有芙蓉蛋之类的",
+      "music": 0.0
+    },
+    {
+      "from": 237.26,
+      "to": 238.5,
+      "sid": 113,
+      "location": 2,
+      "content": "黑人爱吃的饭",
+      "music": 0.0
+    },
+    {
+      "from": 238.5,
+      "to": 240.58,
+      "sid": 114,
+      "location": 2,
+      "content": "但是这些菜对于我来说太腻了",
+      "music": 0.0
+    },
+    {
+      "from": 240.58,
+      "to": 241.78,
+      "sid": 115,
+      "location": 2,
+      "content": "我就没有尝",
+      "music": 0.0
+    },
+    {
+      "from": 241.78,
+      "to": 245.58,
+      "sid": 116,
+      "location": 2,
+      "content": "之后我决定沿着东圣路易斯的主街seat street",
+      "music": 0.0
+    },
+    {
+      "from": 245.58,
+      "to": 248.5,
+      "sid": 117,
+      "location": 2,
+      "content": "一路向东试试看另外一家中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 248.5,
+      "to": 251.269,
+      "sid": 118,
+      "location": 2,
+      "content": "因为我发现他们的菜单上面有卖鸭脖",
+      "music": 0.0
+    },
+    {
+      "from": 251.269,
+      "to": 253.429,
+      "sid": 119,
+      "location": 2,
+      "content": "这个在美国是非常罕见的",
+      "music": 0.0
+    },
+    {
+      "from": 253.429,
+      "to": 255.269,
+      "sid": 120,
+      "location": 2,
+      "content": "因为这种带骨头的边角料",
+      "music": 0.0
+    },
+    {
+      "from": 255.269,
+      "to": 257.71,
+      "sid": 121,
+      "location": 2,
+      "content": "大部分美国白人是不会吃的",
+      "music": 0.0
+    },
+    {
+      "from": 257.71,
+      "to": 260.15,
+      "sid": 122,
+      "location": 2,
+      "content": "不过黑人倒是挺爱吃这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 260.15,
+      "to": 263.93,
+      "sid": 123,
+      "location": 2,
+      "content": "我之前还在新奥尔良的黑人区吃过大火鸡脖子",
+      "music": 0.0
+    },
+    {
+      "from": 263.93,
+      "to": 266.049,
+      "sid": 124,
+      "location": 2,
+      "content": "那个做的还是真挺不错的",
+      "music": 0.0
+    },
+    {
+      "from": 266.049,
+      "to": 268.209,
+      "sid": 125,
+      "location": 2,
+      "content": "而且火鸡的脖子又粗又大",
+      "music": 0.0
+    },
+    {
+      "from": 268.209,
+      "to": 270.55,
+      "sid": 126,
+      "location": 2,
+      "content": "肉比鸭脖子上面要多上不少",
+      "music": 0.0
+    },
+    {
+      "from": 270.55,
+      "to": 272.09,
+      "sid": 127,
+      "location": 2,
+      "content": "啃起来要爽很多",
+      "music": 0.0
+    },
+    {
+      "from": 272.09,
+      "to": 272.43,
+      "sid": 128,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 272.43,
+      "to": 275.23,
+      "sid": 129,
+      "location": 2,
+      "content": "我来到了这家叫YANCHOPSUEY的地方",
+      "music": 0.0
+    },
+    {
+      "from": 275.23,
+      "to": 276.99,
+      "sid": 130,
+      "location": 2,
+      "content": "里面又是跟个牢房一样",
+      "music": 0.0
+    },
+    {
+      "from": 276.99,
+      "to": 279.28,
+      "sid": 131,
+      "location": 2,
+      "content": "而且这次连个吃饭的地方都没有",
+      "music": 0.0
+    },
+    {
+      "from": 279.28,
+      "to": 280.12,
+      "sid": 132,
+      "location": 2,
+      "content": "在这种地方",
+      "music": 0.0
+    },
+    {
+      "from": 280.12,
+      "to": 282.26,
+      "sid": 133,
+      "location": 2,
+      "content": "我也不好意思举着个相机拍照",
+      "music": 0.0
+    },
+    {
+      "from": 282.26,
+      "to": 285.52,
+      "sid": 134,
+      "location": 2,
+      "content": "这个走到对面的麦当劳去吃一下吧",
+      "music": 0.0
+    },
+    {
+      "from": 287.06,
+      "to": 288.4,
+      "sid": 135,
+      "location": 2,
+      "content": "现在走去麦当劳",
+      "music": 0.0
+    },
+    {
+      "from": 288.4,
+      "to": 290.86,
+      "sid": 136,
+      "location": 2,
+      "content": "看看这个麦当劳里面什么情况",
+      "music": 0.0
+    },
+    {
+      "from": 293.64,
+      "to": 297.14,
+      "sid": 137,
+      "location": 2,
+      "content": "I've been really is coalways about to b",
+      "music": 0.9999998913043597
+    },
+    {
+      "from": 302.36,
+      "to": 304.12,
+      "sid": 138,
+      "location": 2,
+      "content": "刚刚在中餐厅买的鸭脖",
+      "music": 0.0
+    },
+    {
+      "from": 305.16,
+      "to": 307.56,
+      "sid": 139,
+      "location": 2,
+      "content": "去这对面看一看吧",
+      "music": 0.0
+    },
+    {
+      "from": 315.78,
+      "to": 317.85,
+      "sid": 140,
+      "location": 2,
+      "content": "回来拿车了啊",
+      "music": 0.0
+    },
+    {
+      "from": 318.37,
+      "to": 321.13,
+      "sid": 141,
+      "location": 2,
+      "content": "他们这个家的鸭脖还挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 321.13,
+      "to": 322.41,
+      "sid": 142,
+      "location": 2,
+      "content": "就是太咸了",
+      "music": 0.0
+    },
+    {
+      "from": 322.41,
+      "to": 323.47,
+      "sid": 143,
+      "location": 2,
+      "content": "然后不辣",
+      "music": 0.0
+    },
+    {
+      "from": 323.47,
+      "to": 326.8,
+      "sid": 144,
+      "location": 2,
+      "content": "我喜欢吃这种绝味鸭脖",
+      "music": 0.0
+    },
+    {
+      "from": 327.04,
+      "to": 328.64,
+      "sid": 145,
+      "location": 2,
+      "content": "但是绝味鸭脖都比这个贵",
+      "music": 0.0
+    },
+    {
+      "from": 328.64,
+      "to": 329.08,
+      "sid": 146,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 329.08,
+      "to": 331.539,
+      "sid": 147,
+      "location": 2,
+      "content": "现在这个绝味鸭脖太贵了",
+      "music": 0.0
+    },
+    {
+      "from": 331.539,
+      "to": 333.819,
+      "sid": 148,
+      "location": 2,
+      "content": "这期视频是我两个月之前拍的",
+      "music": 0.0
+    },
+    {
+      "from": 333.819,
+      "to": 336.01,
+      "sid": 149,
+      "location": 2,
+      "content": "现在回去看我自己都觉得有点傻",
+      "music": 0.0
+    },
+    {
+      "from": 336.01,
+      "to": 338.53,
+      "sid": 150,
+      "location": 2,
+      "content": "然后这期视频的篇幅也比较有限",
+      "music": 0.0
+    },
+    {
+      "from": 338.53,
+      "to": 340.95,
+      "sid": 151,
+      "location": 2,
+      "content": "很多街景之类的没有办法放出来",
+      "music": 0.0
+    },
+    {
+      "from": 340.95,
+      "to": 342.93,
+      "sid": 152,
+      "location": 2,
+      "content": "如果大家喜欢这期视频的话",
+      "music": 0.0
+    },
+    {
+      "from": 342.93,
+      "to": 344.76,
+      "sid": 153,
+      "location": 2,
+      "content": "记得点赞投币支持一下哦",
+      "music": 0.0
+    },
+    {
+      "from": 344.76,
+      "to": 346.14,
+      "sid": 154,
+      "location": 2,
+      "content": "如果反响好的话",
+      "music": 0.0
+    },
+    {
+      "from": 346.14,
+      "to": 348.46,
+      "sid": 155,
+      "location": 2,
+      "content": "之后我会单独出一期街景的视频",
+      "music": 0.0
+    },
+    {
+      "from": 348.46,
+      "to": 348.96,
+      "sid": 156,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 348.96,
+      "to": 349.96,
+      "sid": 157,
+      "location": 2,
+      "content": "这期就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 349.96,
+      "to": 350.36,
+      "sid": 158,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 350.36,
+      "to": 353.18,
+      "sid": 159,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

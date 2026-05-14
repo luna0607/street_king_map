@@ -1,0 +1,1428 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.72,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了",
+      "music": 0.0
+    },
+    {
+      "from": 0.72,
+      "to": 4.13,
+      "sid": 2,
+      "location": 2,
+      "content": "位于美国明尼苏达州的乔治弗洛伊德自由国",
+      "music": 0.0
+    },
+    {
+      "from": 4.13,
+      "to": 5.93,
+      "sid": 3,
+      "location": 2,
+      "content": "想必大家都可能听说过",
+      "music": 0.0
+    },
+    {
+      "from": 5.93,
+      "to": 7.93,
+      "sid": 4,
+      "location": 2,
+      "content": "4年前引发black lives matter",
+      "music": 0.0
+    },
+    {
+      "from": 10.34,
+      "to": 13.46,
+      "sid": 5,
+      "location": 2,
+      "content": "而这个自由国就是沿着世界原址上面的交",
+      "music": 0.0
+    },
+    {
+      "from": 13.46,
+      "to": 14.98,
+      "sid": 6,
+      "location": 2,
+      "content": "叉路口建立起来的",
+      "music": 0.0
+    },
+    {
+      "from": 14.98,
+      "to": 16.26,
+      "sid": 7,
+      "location": 2,
+      "content": "现在4年过去了",
+      "music": 0.0
+    },
+    {
+      "from": 16.26,
+      "to": 18.56,
+      "sid": 8,
+      "location": 2,
+      "content": "这个事情的影响力也慢慢减退了",
+      "music": 0.0
+    },
+    {
+      "from": 18.56,
+      "to": 19.88,
+      "sid": 9,
+      "location": 2,
+      "content": "我现在站着的地方",
+      "music": 0.0
+    },
+    {
+      "from": 19.88,
+      "to": 23.04,
+      "sid": 10,
+      "location": 2,
+      "content": "某种程度也算得上是他们的共和国中心广场",
+      "music": 0.0
+    },
+    {
+      "from": 23.04,
+      "to": 24.76,
+      "sid": 11,
+      "location": 2,
+      "content": "除了偶尔有几辆车经过",
+      "music": 0.0
+    },
+    {
+      "from": 24.76,
+      "to": 26.009,
+      "sid": 12,
+      "location": 2,
+      "content": "似乎也没有什么人",
+      "music": 0.0
+    },
+    {
+      "from": 26.009,
+      "to": 27.849,
+      "sid": 13,
+      "location": 2,
+      "content": "我现在来到的这家便利店是",
+      "music": 0.0
+    },
+    {
+      "from": 27.849,
+      "to": 29.72,
+      "sid": 14,
+      "location": 2,
+      "content": "2020年5月25号",
+      "music": 0.0
+    },
+    {
+      "from": 29.72,
+      "to": 32.32,
+      "sid": 15,
+      "location": 2,
+      "content": "乔治弗洛伊德被怀疑用20块钱的假钞",
+      "music": 0.0
+    },
+    {
+      "from": 32.32,
+      "to": 33.32,
+      "sid": 16,
+      "location": 2,
+      "content": "买烟的商店",
+      "music": 0.0
+    },
+    {
+      "from": 33.32,
+      "to": 34.52,
+      "sid": 17,
+      "location": 2,
+      "content": "后面发生的事情",
+      "music": 0.0
+    },
+    {
+      "from": 34.52,
+      "to": 35.87,
+      "sid": 18,
+      "location": 2,
+      "content": "想必大家都知道了",
+      "music": 0.0
+    },
+    {
+      "from": 35.87,
+      "to": 39.47,
+      "sid": 19,
+      "location": 2,
+      "content": "现在这家商店的名字从cup foods改成unity foods",
+      "music": 0.0
+    },
+    {
+      "from": 39.47,
+      "to": 41.28,
+      "sid": 20,
+      "location": 2,
+      "content": "或者说是团结商店",
+      "music": 0.0
+    },
+    {
+      "from": 41.28,
+      "to": 44.6,
+      "sid": 21,
+      "location": 2,
+      "content": "然后店主在两年之前也换成了新的印度人",
+      "music": 0.0
+    },
+    {
+      "from": 44.6,
+      "to": 45.56,
+      "sid": 22,
+      "location": 2,
+      "content": "他们跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 45.56,
+      "to": 47.879,
+      "sid": 23,
+      "location": 2,
+      "content": "当初就是稀里糊涂的买下了这家店",
+      "music": 0.0
+    },
+    {
+      "from": 47.879,
+      "to": 50.359,
+      "sid": 24,
+      "location": 2,
+      "content": "不过由于有不少慕名而来的游客",
+      "music": 0.0
+    },
+    {
+      "from": 50.359,
+      "to": 52.399,
+      "sid": 25,
+      "location": 2,
+      "content": "他们的生意其实还算不错",
+      "music": 0.0
+    },
+    {
+      "from": 52.399,
+      "to": 54.28,
+      "sid": 26,
+      "location": 2,
+      "content": "除了这家团结超市",
+      "music": 0.0
+    },
+    {
+      "from": 54.28,
+      "to": 57.04,
+      "sid": 27,
+      "location": 2,
+      "content": "在乔治弗洛伊德自由国的势力范围内",
+      "music": 0.0
+    },
+    {
+      "from": 57.04,
+      "to": 58.86,
+      "sid": 28,
+      "location": 2,
+      "content": "的商业选择还真不少",
+      "music": 0.0
+    },
+    {
+      "from": 58.86,
+      "to": 59.56,
+      "sid": 29,
+      "location": 2,
+      "content": "往前走",
+      "music": 0.0
+    },
+    {
+      "from": 59.56,
+      "to": 62.23,
+      "sid": 30,
+      "location": 2,
+      "content": "发现一个店上面写着清仓大甩卖",
+      "music": 0.0
+    },
+    {
+      "from": 62.23,
+      "to": 65.25,
+      "sid": 31,
+      "location": 2,
+      "content": "进去发现里面卖的东西居然还这么高级",
+      "music": 0.0
+    },
+    {
+      "from": 65.25,
+      "to": 66.47,
+      "sid": 32,
+      "location": 2,
+      "content": "香奈儿LV",
+      "music": 0.0
+    },
+    {
+      "from": 66.47,
+      "to": 68.09,
+      "sid": 33,
+      "location": 2,
+      "content": "GUCCI应有尽有",
+      "music": 0.0
+    },
+    {
+      "from": 68.09,
+      "to": 70.75,
+      "sid": 34,
+      "location": 2,
+      "content": "而且平均价格都只要十几20美元",
+      "music": 0.0
+    },
+    {
+      "from": 70.75,
+      "to": 73.71,
+      "sid": 35,
+      "location": 2,
+      "content": "这难道不比去他们的专卖店买便宜多了",
+      "music": 0.0
+    },
+    {
+      "from": 73.71,
+      "to": 75.75,
+      "sid": 36,
+      "location": 2,
+      "content": "除了这些柜台上面的店主",
+      "music": 0.0
+    },
+    {
+      "from": 75.75,
+      "to": 79.6,
+      "sid": 37,
+      "location": 2,
+      "content": "老哥还可以帮你当场制作任何大牌的T恤衫",
+      "music": 0.0
+    },
+    {
+      "from": 79.6,
+      "to": 80.8,
+      "sid": 38,
+      "location": 2,
+      "content": "只要15美元",
+      "music": 0.0
+    },
+    {
+      "from": 80.8,
+      "to": 81.66,
+      "sid": 39,
+      "location": 2,
+      "content": "一个印花",
+      "music": 0.0
+    },
+    {
+      "from": 81.66,
+      "to": 83.28,
+      "sid": 40,
+      "location": 2,
+      "content": "如果要两个印花的话",
+      "music": 0.0
+    },
+    {
+      "from": 83.28,
+      "to": 84.51,
+      "sid": 41,
+      "location": 2,
+      "content": "是25美元",
+      "music": 0.0
+    },
+    {
+      "from": 84.51,
+      "to": 86.99,
+      "sid": 42,
+      "location": 2,
+      "content": "于是我让老哥给我来了一个爱马仕",
+      "music": 0.0
+    },
+    {
+      "from": 86.99,
+      "to": 89.11,
+      "sid": 43,
+      "location": 2,
+      "content": "加上GUCCI的双拼套餐",
+      "music": 0.0
+    },
+    {
+      "from": 89.11,
+      "to": 91.99,
+      "sid": 44,
+      "location": 2,
+      "content": "我觉得他们这边很多组合也是蛮有意思的",
+      "music": 0.0
+    },
+    {
+      "from": 91.99,
+      "to": 93.07,
+      "sid": 45,
+      "location": 2,
+      "content": "在印花的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 93.07,
+      "to": 94.23,
+      "sid": 46,
+      "location": 2,
+      "content": "我也问了一下老哥们",
+      "music": 0.0
+    },
+    {
+      "from": 94.23,
+      "to": 97.46,
+      "sid": 47,
+      "location": 2,
+      "content": "他们对于身处乔治弗洛伊德自由国的感受",
+      "music": 0.0
+    },
+    {
+      "from": 97.46,
+      "to": 98.02,
+      "sid": 48,
+      "location": 2,
+      "content": "说白了",
+      "music": 0.0
+    },
+    {
+      "from": 98.02,
+      "to": 101.13,
+      "sid": 49,
+      "location": 2,
+      "content": "他也只是一个一直在这里开店做生意的人罢了",
+      "music": 0.0
+    },
+    {
+      "from": 101.13,
+      "to": 102.57,
+      "sid": 50,
+      "location": 2,
+      "content": "而且作为一个中国人",
+      "music": 0.0
+    },
+    {
+      "from": 102.57,
+      "to": 103.77,
+      "sid": 51,
+      "location": 2,
+      "content": "我也一眼就识破了",
+      "music": 0.0
+    },
+    {
+      "from": 103.77,
+      "to": 106.3,
+      "sid": 52,
+      "location": 2,
+      "content": "他们门口贴的清仓甩卖是骗人的",
+      "music": 0.0
+    },
+    {
+      "from": 106.3,
+      "to": 108.2,
+      "sid": 53,
+      "location": 2,
+      "content": "太不好意思地承认了这一点",
+      "music": 0.0
+    },
+    {
+      "from": 108.2,
+      "to": 109.06,
+      "sid": 54,
+      "location": 2,
+      "content": "以及他们这边",
+      "music": 0.0
+    },
+    {
+      "from": 109.06,
+      "to": 111.36,
+      "sid": 55,
+      "location": 2,
+      "content": "大部分也都是我们中国制造的事实",
+      "music": 0.0
+    },
+    {
+      "from": 111.36,
+      "to": 112.02,
+      "sid": 56,
+      "location": 2,
+      "content": "You are you guys",
+      "music": 0.0
+    },
+    {
+      "from": 112.02,
+      "to": 113.11,
+      "sid": 57,
+      "location": 2,
+      "content": "Are creative man",
+      "music": 0.0
+    },
+    {
+      "from": 113.11,
+      "to": 114.17,
+      "sid": 58,
+      "location": 2,
+      "content": "还有几包",
+      "music": 0.0
+    },
+    {
+      "from": 114.17,
+      "to": 115.73,
+      "sid": 59,
+      "location": 2,
+      "content": "嘿嘿嘿",
+      "music": 0.0
+    },
+    {
+      "from": 115.73,
+      "to": 116.27,
+      "sid": 60,
+      "location": 2,
+      "content": "Love it",
+      "music": 0.0
+    },
+    {
+      "from": 116.27,
+      "to": 117.68,
+      "sid": 61,
+      "location": 2,
+      "content": "Love it man go",
+      "music": 0.0
+    },
+    {
+      "from": 117.68,
+      "to": 119.42,
+      "sid": 62,
+      "location": 2,
+      "content": "咱立一个小flag",
+      "music": 0.0
+    },
+    {
+      "from": 119.42,
+      "to": 121.76,
+      "sid": 63,
+      "location": 2,
+      "content": "如果今天拿到一个什么新人奖的话",
+      "music": 0.0
+    },
+    {
+      "from": 121.76,
+      "to": 123.78,
+      "sid": 64,
+      "location": 2,
+      "content": "我就穿这个衣服上去领奖",
+      "music": 0.0
+    },
+    {
+      "from": 123.78,
+      "to": 125.78,
+      "sid": 65,
+      "location": 2,
+      "content": "大家觉得这个点子不错的话",
+      "music": 0.0
+    },
+    {
+      "from": 125.78,
+      "to": 127.62,
+      "sid": 66,
+      "location": 2,
+      "content": "记得给我点赞投币啊",
+      "music": 0.0
+    },
+    {
+      "from": 127.62,
+      "to": 130.99,
+      "sid": 67,
+      "location": 2,
+      "content": "在这家奢侈品店隔壁就是一个洗衣店",
+      "music": 0.0
+    },
+    {
+      "from": 130.99,
+      "to": 134.15,
+      "sid": 68,
+      "location": 2,
+      "content": "这可能是我去过最热闹的洗衣店之一了",
+      "music": 0.0
+    },
+    {
+      "from": 134.15,
+      "to": 136.37,
+      "sid": 69,
+      "location": 2,
+      "content": "而且里面以各种移民为主",
+      "music": 0.0
+    },
+    {
+      "from": 136.37,
+      "to": 137.89,
+      "sid": 70,
+      "location": 2,
+      "content": "大部分都是拉美人",
+      "music": 0.0
+    },
+    {
+      "from": 137.89,
+      "to": 140.405,
+      "sid": 71,
+      "location": 2,
+      "content": "但是各种各样的人也都有",
+      "music": 0.0
+    },
+    {
+      "from": 148.74,
+      "to": 151.18,
+      "sid": 72,
+      "location": 2,
+      "content": "逛了半天看看这边有什么吃的吧",
+      "music": 0.0
+    },
+    {
+      "from": 151.18,
+      "to": 152.98,
+      "sid": 73,
+      "location": 2,
+      "content": "这里有一家卖火鸡的店",
+      "music": 0.0
+    },
+    {
+      "from": 152.98,
+      "to": 154.42,
+      "sid": 74,
+      "location": 2,
+      "content": "还有一家炸鸡店",
+      "music": 0.0
+    },
+    {
+      "from": 154.42,
+      "to": 156.02,
+      "sid": 75,
+      "location": 2,
+      "content": "由于我刚刚走过来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 156.02,
+      "to": 159.0,
+      "sid": 76,
+      "location": 2,
+      "content": "发现这个火鸡店里面好像烧焦了什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 159.0,
+      "to": 160.95,
+      "sid": 77,
+      "location": 2,
+      "content": "于是我就点了一个炸鸡",
+      "music": 0.0
+    },
+    {
+      "from": 160.95,
+      "to": 162.99,
+      "sid": 78,
+      "location": 2,
+      "content": "三块炸鸡花了我五美元",
+      "music": 0.0
+    },
+    {
+      "from": 162.99,
+      "to": 164.15,
+      "sid": 79,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 164.15,
+      "to": 165.11,
+      "sid": 80,
+      "location": 2,
+      "content": "拿到菜之后",
+      "music": 0.0
+    },
+    {
+      "from": 165.11,
+      "to": 168.32,
+      "sid": 81,
+      "location": 2,
+      "content": "我坐到了这个废弃加油站的椅子上面啃鸡翅",
+      "music": 0.0
+    },
+    {
+      "from": 168.32,
+      "to": 170.36,
+      "sid": 82,
+      "location": 2,
+      "content": "这家的鸡翅炸的挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 170.36,
+      "to": 172.32,
+      "sid": 83,
+      "location": 2,
+      "content": "尤其是它上面撒了一层粉",
+      "music": 0.0
+    },
+    {
+      "from": 172.32,
+      "to": 174.269,
+      "sid": 84,
+      "location": 2,
+      "content": "和别家的味道还不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 174.269,
+      "to": 175.629,
+      "sid": 85,
+      "location": 2,
+      "content": "正好偶遇到了一个",
+      "music": 0.0
+    },
+    {
+      "from": 175.629,
+      "to": 178.829,
+      "sid": 86,
+      "location": 2,
+      "content": "算是乔治弗洛伊德共和国国父之类的人物",
+      "music": 0.0
+    },
+    {
+      "from": 178.829,
+      "to": 180.98,
+      "sid": 87,
+      "location": 2,
+      "content": "听听他是怎么说这里的现状的",
+      "music": 0.0
+    },
+    {
+      "from": 180.98,
+      "to": 182.86,
+      "sid": 88,
+      "location": 2,
+      "content": "You got some people like yourself that come up",
+      "music": 0.0
+    },
+    {
+      "from": 182.86,
+      "to": 184.15,
+      "sid": 89,
+      "location": 2,
+      "content": "They ask questions",
+      "music": 0.0
+    },
+    {
+      "from": 184.15,
+      "to": 185.39,
+      "sid": 90,
+      "location": 2,
+      "content": "You know they're intrigued",
+      "music": 0.0
+    },
+    {
+      "from": 185.39,
+      "to": 188.73,
+      "sid": 91,
+      "location": 2,
+      "content": "They wanna know what's going on before and was going on after",
+      "music": 0.0
+    },
+    {
+      "from": 188.73,
+      "to": 189.83,
+      "sid": 92,
+      "location": 2,
+      "content": "But a lot of folks",
+      "music": 0.0
+    },
+    {
+      "from": 189.83,
+      "to": 190.71,
+      "sid": 93,
+      "location": 2,
+      "content": "Majority of the folks",
+      "music": 0.0
+    },
+    {
+      "from": 190.71,
+      "to": 191.11,
+      "sid": 94,
+      "location": 2,
+      "content": "And i say",
+      "music": 0.0
+    },
+    {
+      "from": 191.11,
+      "to": 192.54,
+      "sid": 95,
+      "location": 2,
+      "content": "Maybe seventy percent",
+      "music": 0.0
+    },
+    {
+      "from": 192.54,
+      "to": 193.4,
+      "sid": 96,
+      "location": 2,
+      "content": "They come",
+      "music": 0.0
+    },
+    {
+      "from": 193.4,
+      "to": 194.58,
+      "sid": 97,
+      "location": 2,
+      "content": "They look at the pictures",
+      "music": 0.0
+    },
+    {
+      "from": 194.58,
+      "to": 195.5,
+      "sid": 98,
+      "location": 2,
+      "content": "They look at the paintings",
+      "music": 0.0
+    },
+    {
+      "from": 195.5,
+      "to": 196.7,
+      "sid": 99,
+      "location": 2,
+      "content": "They take their pictures",
+      "music": 0.0
+    },
+    {
+      "from": 196.7,
+      "to": 197.58,
+      "sid": 100,
+      "location": 2,
+      "content": "They take their own",
+      "music": 0.0
+    },
+    {
+      "from": 197.58,
+      "to": 198.36,
+      "sid": 101,
+      "location": 2,
+      "content": "Personal pictures",
+      "music": 0.0
+    },
+    {
+      "from": 198.36,
+      "to": 199.22,
+      "sid": 102,
+      "location": 2,
+      "content": "And then they leave",
+      "music": 0.0
+    },
+    {
+      "from": 199.22,
+      "to": 199.82,
+      "sid": 103,
+      "location": 2,
+      "content": "Oh",
+      "music": 0.0
+    },
+    {
+      "from": 199.82,
+      "to": 200.66,
+      "sid": 104,
+      "location": 2,
+      "content": "But other than that",
+      "music": 0.0
+    },
+    {
+      "from": 200.66,
+      "to": 201.06,
+      "sid": 105,
+      "location": 2,
+      "content": "Yeah man",
+      "music": 0.0
+    },
+    {
+      "from": 201.06,
+      "to": 202.14,
+      "sid": 106,
+      "location": 2,
+      "content": "It's just like a zoo here man",
+      "music": 0.0
+    },
+    {
+      "from": 202.14,
+      "to": 203.22,
+      "sid": 107,
+      "location": 2,
+      "content": "We feel like animals",
+      "music": 0.0
+    },
+    {
+      "from": 203.22,
+      "to": 207.19,
+      "sid": 108,
+      "location": 2,
+      "content": "They just come they look they admire they go",
+      "music": 0.0
+    },
+    {
+      "from": 207.19,
+      "to": 208.27,
+      "sid": 109,
+      "location": 2,
+      "content": "No conversation",
+      "music": 0.0
+    },
+    {
+      "from": 208.27,
+      "to": 210.03,
+      "sid": 110,
+      "location": 2,
+      "content": "No resources uh",
+      "music": 0.0
+    },
+    {
+      "from": 210.03,
+      "to": 211.75,
+      "sid": 111,
+      "location": 2,
+      "content": "They don't want to get to know the folks over here",
+      "music": 0.0
+    },
+    {
+      "from": 211.75,
+      "to": 212.98,
+      "sid": 112,
+      "location": 2,
+      "content": "They just want to go back home",
+      "music": 0.0
+    },
+    {
+      "from": 212.98,
+      "to": 214.36,
+      "sid": 113,
+      "location": 2,
+      "content": "Tell everybody else",
+      "music": 0.0
+    },
+    {
+      "from": 214.36,
+      "to": 217.65,
+      "sid": 114,
+      "location": 2,
+      "content": "I went to the dvoice where i took my pictures",
+      "music": 0.0
+    },
+    {
+      "from": 217.65,
+      "to": 219.93,
+      "sid": 115,
+      "location": 2,
+      "content": "And that's it especially white people",
+      "music": 0.0
+    },
+    {
+      "from": 219.93,
+      "to": 220.75,
+      "sid": 116,
+      "location": 2,
+      "content": "Yeah man",
+      "music": 0.0
+    },
+    {
+      "from": 220.75,
+      "to": 222.09,
+      "sid": 117,
+      "location": 2,
+      "content": "And it's you'll be surprised",
+      "music": 0.0
+    },
+    {
+      "from": 222.09,
+      "to": 223.11,
+      "sid": 118,
+      "location": 2,
+      "content": "It's a lot of white people",
+      "music": 0.0
+    },
+    {
+      "from": 223.73,
+      "to": 226.11,
+      "sid": 119,
+      "location": 2,
+      "content": "It's like a little bit of everything to be honest",
+      "music": 0.0
+    },
+    {
+      "from": 226.11,
+      "to": 228.34,
+      "sid": 120,
+      "location": 2,
+      "content": "And since this has happened",
+      "music": 0.0
+    },
+    {
+      "from": 228.34,
+      "to": 230.3,
+      "sid": 121,
+      "location": 2,
+      "content": "We've had a lot of white people come help",
+      "music": 0.0
+    },
+    {
+      "from": 230.3,
+      "to": 232.52,
+      "sid": 122,
+      "location": 2,
+      "content": "And you know be allies and whatnot",
+      "music": 0.0
+    },
+    {
+      "from": 232.52,
+      "to": 233.95,
+      "sid": 123,
+      "location": 2,
+      "content": "But at the same time",
+      "music": 0.0
+    },
+    {
+      "from": 233.95,
+      "to": 236.35,
+      "sid": 124,
+      "location": 2,
+      "content": "It doesn't seem like it's enough um",
+      "music": 0.0
+    },
+    {
+      "from": 236.35,
+      "to": 237.65,
+      "sid": 125,
+      "location": 2,
+      "content": "It's it's like they",
+      "music": 0.0
+    },
+    {
+      "from": 237.65,
+      "to": 238.09,
+      "sid": 126,
+      "location": 2,
+      "content": "They",
+      "music": 0.0
+    },
+    {
+      "from": 238.09,
+      "to": 239.99,
+      "sid": 127,
+      "location": 2,
+      "content": "They use it as a badge of honor",
+      "music": 0.0
+    },
+    {
+      "from": 239.99,
+      "to": 242.82,
+      "sid": 128,
+      "location": 2,
+      "content": "And you know like they come they they volunteer",
+      "music": 0.0
+    },
+    {
+      "from": 242.82,
+      "to": 245.97,
+      "sid": 129,
+      "location": 2,
+      "content": "And they go tell other friends that they volunteered the",
+      "music": 0.0
+    },
+    {
+      "from": 245.97,
+      "to": 249.33,
+      "sid": 130,
+      "location": 2,
+      "content": "But what relationships did they do are they gonna come back",
+      "music": 0.0
+    },
+    {
+      "from": 249.33,
+      "to": 250.53,
+      "sid": 131,
+      "location": 2,
+      "content": "Did they just come to say",
+      "music": 0.0
+    },
+    {
+      "from": 250.53,
+      "to": 250.73,
+      "sid": 132,
+      "location": 2,
+      "content": "Hey",
+      "music": 0.0
+    },
+    {
+      "from": 250.73,
+      "to": 253.13,
+      "sid": 133,
+      "location": 2,
+      "content": "I was there and leaving one about life",
+      "music": 0.0
+    },
+    {
+      "from": 253.13,
+      "to": 256.38,
+      "sid": 134,
+      "location": 2,
+      "content": "Or did you come to try to actually fix the problem",
+      "music": 0.0
+    },
+    {
+      "from": 256.38,
+      "to": 258.38,
+      "sid": 135,
+      "location": 2,
+      "content": "That's more on u this stuff",
+      "music": 0.0
+    },
+    {
+      "from": 258.38,
+      "to": 259.08,
+      "sid": 136,
+      "location": 2,
+      "content": "Man is",
+      "music": 0.0
+    },
+    {
+      "from": 259.08,
+      "to": 260.02,
+      "sid": 137,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 260.02,
+      "to": 261.44,
+      "sid": 138,
+      "location": 2,
+      "content": "It's a balance of everything",
+      "music": 0.0
+    },
+    {
+      "from": 261.44,
+      "to": 262.04,
+      "sid": 139,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 262.04,
+      "to": 264.38,
+      "sid": 140,
+      "location": 2,
+      "content": "Because sometimes you have your own issues in your own life",
+      "music": 0.0
+    },
+    {
+      "from": 264.38,
+      "to": 265.38,
+      "sid": 141,
+      "location": 2,
+      "content": "So you really",
+      "music": 0.0
+    },
+    {
+      "from": 265.38,
+      "to": 268.069,
+      "sid": 142,
+      "location": 2,
+      "content": "Can't you know put yourself as someone else's fight",
+      "music": 0.0
+    },
+    {
+      "from": 268.069,
+      "to": 270.2,
+      "sid": 143,
+      "location": 2,
+      "content": "They probably just stop here for ten ten minutes",
+      "music": 0.0
+    },
+    {
+      "from": 270.2,
+      "to": 270.76,
+      "sid": 144,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 270.76,
+      "to": 271.1,
+      "sid": 145,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 271.1,
+      "to": 273.12,
+      "sid": 146,
+      "location": 2,
+      "content": "I mean you know it takes it takes about",
+      "music": 0.0
+    },
+    {
+      "from": 273.12,
+      "to": 273.52,
+      "sid": 147,
+      "location": 2,
+      "content": "I say",
+      "music": 0.0
+    },
+    {
+      "from": 273.52,
+      "to": 275.2,
+      "sid": 148,
+      "location": 2,
+      "content": "A full twenty thirty minutes to walk",
+      "music": 0.0
+    },
+    {
+      "from": 275.2,
+      "to": 277.67,
+      "sid": 149,
+      "location": 2,
+      "content": "Through the entire four blocks",
+      "music": 0.0
+    },
+    {
+      "from": 277.67,
+      "to": 278.05,
+      "sid": 150,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 278.05,
+      "to": 278.31,
+      "sid": 151,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 278.31,
+      "to": 279.51,
+      "sid": 152,
+      "location": 2,
+      "content": "After that we're gone",
+      "music": 0.0
+    },
+    {
+      "from": 279.51,
+      "to": 280.15,
+      "sid": 153,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 280.15,
+      "to": 280.83,
+      "sid": 154,
+      "location": 2,
+      "content": "I did it",
+      "music": 0.0
+    },
+    {
+      "from": 280.83,
+      "to": 281.31,
+      "sid": 155,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 281.31,
+      "to": 281.63,
+      "sid": 156,
+      "location": 2,
+      "content": "Man",
+      "music": 0.0
+    },
+    {
+      "from": 281.63,
+      "to": 282.35,
+      "sid": 157,
+      "location": 2,
+      "content": "I appreciate it",
+      "music": 0.0
+    },
+    {
+      "from": 282.35,
+      "to": 283.57,
+      "sid": 158,
+      "location": 2,
+      "content": "Thank you very and come back",
+      "music": 0.0
+    },
+    {
+      "from": 283.57,
+      "to": 283.87,
+      "sid": 159,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 283.87,
+      "to": 284.51,
+      "sid": 160,
+      "location": 2,
+      "content": "I will come back",
+      "music": 0.0
+    },
+    {
+      "from": 284.51,
+      "to": 286.06,
+      "sid": 161,
+      "location": 2,
+      "content": "I want your friends with your family",
+      "music": 0.0
+    },
+    {
+      "from": 286.52,
+      "to": 287.5,
+      "sid": 162,
+      "location": 2,
+      "content": "老哥还跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 287.5,
+      "to": 289.32,
+      "sid": 163,
+      "location": 2,
+      "content": "每年到了纪念日的时候",
+      "music": 0.0
+    },
+    {
+      "from": 289.32,
+      "to": 292.03,
+      "sid": 164,
+      "location": 2,
+      "content": "他们几个街区都会搞一个联合集市",
+      "music": 0.0
+    },
+    {
+      "from": 292.03,
+      "to": 293.45,
+      "sid": 165,
+      "location": 2,
+      "content": "今年的刚结束",
+      "music": 0.0
+    },
+    {
+      "from": 293.45,
+      "to": 295.02,
+      "sid": 166,
+      "location": 2,
+      "content": "已经是第4年了",
+      "music": 0.0
+    },
+    {
+      "from": 295.02,
+      "to": 297.66,
+      "sid": 167,
+      "location": 2,
+      "content": "我感觉这边确实也渐渐变成了一个艺术",
+      "music": 0.0
+    },
+    {
+      "from": 297.66,
+      "to": 298.68,
+      "sid": 168,
+      "location": 2,
+      "content": "文化街区",
+      "music": 0.0
+    },
+    {
+      "from": 298.68,
+      "to": 300.28,
+      "sid": 169,
+      "location": 2,
+      "content": "而且我无论在便利店",
+      "music": 0.0
+    },
+    {
+      "from": 300.28,
+      "to": 301.36,
+      "sid": 170,
+      "location": 2,
+      "content": "奢侈品店",
+      "music": 0.0
+    },
+    {
+      "from": 301.36,
+      "to": 304.46,
+      "sid": 171,
+      "location": 2,
+      "content": "洗衣服店还是炸鸡店的体验都很不错",
+      "music": 0.0
+    },
+    {
+      "from": 304.46,
+      "to": 307.1,
+      "sid": 172,
+      "location": 2,
+      "content": "这边的人也很愿意跟外界交谈",
+      "music": 0.0
+    },
+    {
+      "from": 307.1,
+      "to": 308.66,
+      "sid": 173,
+      "location": 2,
+      "content": "除了这些店铺",
+      "music": 0.0
+    },
+    {
+      "from": 308.66,
+      "to": 312.14,
+      "sid": 174,
+      "location": 2,
+      "content": "还有公益小图书馆和免费衣橱之类的项目",
+      "music": 0.0
+    },
+    {
+      "from": 312.14,
+      "to": 314.58,
+      "sid": 175,
+      "location": 2,
+      "content": "你们要是有机会会想来这里看看吗",
+      "music": 0.0
+    },
+    {
+      "from": 314.58,
+      "to": 315.14,
+      "sid": 176,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 315.14,
+      "to": 317.82,
+      "sid": 177,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

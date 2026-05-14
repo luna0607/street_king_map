@@ -1,0 +1,2404 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.36,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国原住民奥吉布瓦人",
+      "music": 0.0
+    },
+    {
+      "from": 2.36,
+      "to": 5.07,
+      "sid": 2,
+      "location": 2,
+      "content": "在自己的偏远保留地里面的社区大学",
+      "music": 0.0
+    },
+    {
+      "from": 5.07,
+      "to": 7.33,
+      "sid": 3,
+      "location": 2,
+      "content": "先给大家看看这边外面是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 7.33,
+      "to": 8.47,
+      "sid": 4,
+      "location": 2,
+      "content": "这所大学很小",
+      "music": 0.0
+    },
+    {
+      "from": 8.47,
+      "to": 9.35,
+      "sid": 5,
+      "location": 2,
+      "content": "现在查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 9.35,
+      "to": 10.87,
+      "sid": 6,
+      "location": 2,
+      "content": "一共也就150个学生",
+      "music": 0.0
+    },
+    {
+      "from": 10.87,
+      "to": 13.18,
+      "sid": 7,
+      "location": 2,
+      "content": "主要还是因为这边实在是太偏了",
+      "music": 0.0
+    },
+    {
+      "from": 13.18,
+      "to": 15.34,
+      "sid": 8,
+      "location": 2,
+      "content": "周围最近的大城市明尼阿波利斯",
+      "music": 0.0
+    },
+    {
+      "from": 15.34,
+      "to": 16.76,
+      "sid": 9,
+      "location": 2,
+      "content": "要开车两个半小时",
+      "music": 0.0
+    },
+    {
+      "from": 16.76,
+      "to": 19.5,
+      "sid": 10,
+      "location": 2,
+      "content": "而吉尔布瓦大学附近一个小时车程内",
+      "music": 0.0
+    },
+    {
+      "from": 19.5,
+      "to": 21.53,
+      "sid": 11,
+      "location": 2,
+      "content": "最大的镇也就只有2000个人",
+      "music": 0.0
+    },
+    {
+      "from": 21.53,
+      "to": 23.96,
+      "sid": 12,
+      "location": 2,
+      "content": "除此之外就是一些森林和湖泊",
+      "music": 0.0
+    },
+    {
+      "from": 23.96,
+      "to": 24.92,
+      "sid": 13,
+      "location": 2,
+      "content": "一路开过来",
+      "music": 0.0
+    },
+    {
+      "from": 24.92,
+      "to": 26.38,
+      "sid": 14,
+      "location": 2,
+      "content": "自然环境倒是还不错",
+      "music": 0.0
+    },
+    {
+      "from": 26.38,
+      "to": 27.72,
+      "sid": 15,
+      "location": 2,
+      "content": "进了这个小社区大学",
+      "music": 0.0
+    },
+    {
+      "from": 27.72,
+      "to": 29.69,
+      "sid": 16,
+      "location": 2,
+      "content": "感觉还是挺有部落特色的",
+      "music": 0.0
+    },
+    {
+      "from": 29.69,
+      "to": 32.85,
+      "sid": 17,
+      "location": 2,
+      "content": "墙上挂了不少与部落历史文化相关的东西",
+      "music": 0.0
+    },
+    {
+      "from": 32.85,
+      "to": 34.95,
+      "sid": 18,
+      "location": 2,
+      "content": "还有他们现在部落领导的照片",
+      "music": 0.0
+    },
+    {
+      "from": 34.95,
+      "to": 37.6,
+      "sid": 19,
+      "location": 2,
+      "content": "以及其他美洲原住民相关的书籍",
+      "music": 0.0
+    },
+    {
+      "from": 37.6,
+      "to": 38.64,
+      "sid": 20,
+      "location": 2,
+      "content": "我去学校的时候",
+      "music": 0.0
+    },
+    {
+      "from": 38.64,
+      "to": 40.24,
+      "sid": 21,
+      "location": 2,
+      "content": "正好是一个暑假的下午",
+      "music": 0.0
+    },
+    {
+      "from": 40.24,
+      "to": 43.06,
+      "sid": 22,
+      "location": 2,
+      "content": "唯一能逮得到的活人就是他们的图书管理员",
+      "music": 0.0
+    },
+    {
+      "from": 43.06,
+      "to": 44.74,
+      "sid": 23,
+      "location": 2,
+      "content": "老哥虽然是一个白人",
+      "music": 0.0
+    },
+    {
+      "from": 44.74,
+      "to": 47.62,
+      "sid": 24,
+      "location": 2,
+      "content": "但是他的妻子和孩子都是印第安人",
+      "music": 0.0
+    },
+    {
+      "from": 47.62,
+      "to": 49.18,
+      "sid": 25,
+      "location": 2,
+      "content": "而且他在这个保留地上面",
+      "music": 0.0
+    },
+    {
+      "from": 49.18,
+      "to": 50.7,
+      "sid": 26,
+      "location": 2,
+      "content": "已经生活了20多年了",
+      "music": 0.0
+    },
+    {
+      "from": 50.7,
+      "to": 52.62,
+      "sid": 27,
+      "location": 2,
+      "content": "于是我让他介绍一下这所大学",
+      "music": 0.0
+    },
+    {
+      "from": 52.62,
+      "to": 54.36,
+      "sid": 28,
+      "location": 2,
+      "content": "以及保留地上面的生活",
+      "music": 0.0
+    },
+    {
+      "from": 54.36,
+      "to": 55.48,
+      "sid": 29,
+      "location": 2,
+      "content": "It's a good mixture",
+      "music": 0.0
+    },
+    {
+      "from": 55.48,
+      "to": 58.84,
+      "sid": 30,
+      "location": 2,
+      "content": "Though of nnative and native students in",
+      "music": 0.0
+    },
+    {
+      "from": 58.84,
+      "to": 62.28,
+      "sid": 31,
+      "location": 2,
+      "content": "The pasta was kind of more about native students",
+      "music": 0.0
+    },
+    {
+      "from": 62.28,
+      "to": 63.9,
+      "sid": 32,
+      "location": 2,
+      "content": "But it's starting to get word",
+      "music": 0.0
+    },
+    {
+      "from": 63.9,
+      "to": 65.74,
+      "sid": 33,
+      "location": 2,
+      "content": "I think more people know about us",
+      "music": 0.0
+    },
+    {
+      "from": 65.74,
+      "to": 68.62,
+      "sid": 34,
+      "location": 2,
+      "content": "And are coming to school here that other people come",
+      "music": 0.0
+    },
+    {
+      "from": 68.62,
+      "to": 69.66,
+      "sid": 35,
+      "location": 2,
+      "content": "I think it kind of opens",
+      "music": 0.0
+    },
+    {
+      "from": 69.66,
+      "to": 70.82,
+      "sid": 36,
+      "location": 2,
+      "content": "It up for everybody",
+      "music": 0.0
+    },
+    {
+      "from": 70.82,
+      "to": 75.76,
+      "sid": 37,
+      "location": 2,
+      "content": "And and now that we we were just a community college in our university",
+      "music": 0.0
+    },
+    {
+      "from": 75.76,
+      "to": 79.26,
+      "sid": 38,
+      "location": 2,
+      "content": "So we're trait bring more people in from from",
+      "music": 0.0
+    },
+    {
+      "from": 79.26,
+      "to": 79.44,
+      "sid": 39,
+      "location": 2,
+      "content": "You",
+      "music": 0.0
+    },
+    {
+      "from": 79.44,
+      "to": 80.5,
+      "sid": 40,
+      "location": 2,
+      "content": "Know wherever",
+      "music": 0.0
+    },
+    {
+      "from": 80.5,
+      "to": 82.06,
+      "sid": 41,
+      "location": 2,
+      "content": "之后我也问了一下老哥",
+      "music": 0.0
+    },
+    {
+      "from": 82.06,
+      "to": 83.8,
+      "sid": 42,
+      "location": 2,
+      "content": "有没有国际学生在这里",
+      "music": 0.0
+    },
+    {
+      "from": 83.8,
+      "to": 86.22,
+      "sid": 43,
+      "location": 2,
+      "content": "老哥说这里有过一个加拿大的学生",
+      "music": 0.0
+    },
+    {
+      "from": 86.22,
+      "to": 88.87,
+      "sid": 44,
+      "location": 2,
+      "content": "还有过一个捷克人旁听一门网课",
+      "music": 0.0
+    },
+    {
+      "from": 88.87,
+      "to": 90.07,
+      "sid": 45,
+      "location": 2,
+      "content": "至于中国人的话",
+      "music": 0.0
+    },
+    {
+      "from": 90.07,
+      "to": 91.77,
+      "sid": 46,
+      "location": 2,
+      "content": "他这辈子都没有见过几个",
+      "music": 0.0
+    },
+    {
+      "from": 91.77,
+      "to": 92.63,
+      "sid": 47,
+      "location": 2,
+      "content": "我查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 92.63,
+      "to": 94.59,
+      "sid": 48,
+      "location": 2,
+      "content": "最近的中餐馆要32英里",
+      "music": 0.0
+    },
+    {
+      "from": 94.59,
+      "to": 95.82,
+      "sid": 49,
+      "location": 2,
+      "content": "也就是50km",
+      "music": 0.0
+    },
+    {
+      "from": 95.82,
+      "to": 98.02,
+      "sid": 50,
+      "location": 2,
+      "content": "不过可以感受得到这边的人很欢迎",
+      "music": 0.0
+    },
+    {
+      "from": 98.02,
+      "to": 100.12,
+      "sid": 51,
+      "location": 2,
+      "content": "有不同背景的人来这边上学",
+      "music": 0.0
+    },
+    {
+      "from": 100.12,
+      "to": 101.18,
+      "sid": 52,
+      "location": 2,
+      "content": "我也查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 101.18,
+      "to": 103.87,
+      "sid": 53,
+      "location": 2,
+      "content": "学费只要250美元一个学分",
+      "music": 0.0
+    },
+    {
+      "from": 103.87,
+      "to": 104.83,
+      "sid": 54,
+      "location": 2,
+      "content": "我也查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 104.83,
+      "to": 105.99,
+      "sid": 55,
+      "location": 2,
+      "content": "像是什么南加大",
+      "music": 0.0
+    },
+    {
+      "from": 105.99,
+      "to": 107.39,
+      "sid": 56,
+      "location": 2,
+      "content": "纽约这些比较贵的学校",
+      "music": 0.0
+    },
+    {
+      "from": 107.39,
+      "to": 109.5,
+      "sid": 57,
+      "location": 2,
+      "content": "要2500美元一个学分",
+      "music": 0.0
+    },
+    {
+      "from": 109.5,
+      "to": 111.66,
+      "sid": 58,
+      "location": 2,
+      "content": "我简单上官网看了一下",
+      "music": 0.0
+    },
+    {
+      "from": 111.66,
+      "to": 114.34,
+      "sid": 59,
+      "location": 2,
+      "content": "这边提供商科和人力资源的大专",
+      "music": 0.0
+    },
+    {
+      "from": 114.34,
+      "to": 116.32,
+      "sid": 60,
+      "location": 2,
+      "content": "本科以及硕士学位",
+      "music": 0.0
+    },
+    {
+      "from": 116.32,
+      "to": 118.82,
+      "sid": 61,
+      "location": 2,
+      "content": "科学和教育的大专和本科学位",
+      "music": 0.0
+    },
+    {
+      "from": 118.82,
+      "to": 121.43,
+      "sid": 62,
+      "location": 2,
+      "content": "以及美洲原住民的大专学位",
+      "music": 0.0
+    },
+    {
+      "from": 121.43,
+      "to": 122.43,
+      "sid": 63,
+      "location": 2,
+      "content": "这么一看",
+      "music": 0.0
+    },
+    {
+      "from": 122.43,
+      "to": 124.79,
+      "sid": 64,
+      "location": 2,
+      "content": "3万美元就可以搞定一个本科",
+      "music": 0.0
+    },
+    {
+      "from": 124.79,
+      "to": 128.12,
+      "sid": 65,
+      "location": 2,
+      "content": "而且老哥说这边的学生大部分都有奖学金",
+      "music": 0.0
+    },
+    {
+      "from": 128.12,
+      "to": 129.44,
+      "sid": 66,
+      "location": 2,
+      "content": "但是最近这几年",
+      "music": 0.0
+    },
+    {
+      "from": 129.44,
+      "to": 132.14,
+      "sid": 67,
+      "location": 2,
+      "content": "这所大学发现招生越来越困难了",
+      "music": 0.0
+    },
+    {
+      "from": 132.14,
+      "to": 132.6,
+      "sid": 68,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 132.6,
+      "to": 135.019,
+      "sid": 69,
+      "location": 2,
+      "content": "I graduated from here in two thousand ten",
+      "music": 0.0
+    },
+    {
+      "from": 135.019,
+      "to": 136.019,
+      "sid": 70,
+      "location": 2,
+      "content": "And like i said",
+      "music": 0.0
+    },
+    {
+      "from": 136.019,
+      "to": 137.899,
+      "sid": 71,
+      "location": 2,
+      "content": "There was a lot of students back then",
+      "music": 0.0
+    },
+    {
+      "from": 137.899,
+      "to": 139.979,
+      "sid": 72,
+      "location": 2,
+      "content": "When when i was going to school here",
+      "music": 0.0
+    },
+    {
+      "from": 139.979,
+      "to": 142.349,
+      "sid": 73,
+      "location": 2,
+      "content": "We had um probably like five hundred",
+      "music": 0.0
+    },
+    {
+      "from": 142.349,
+      "to": 145.909,
+      "sid": 74,
+      "location": 2,
+      "content": "And then when covid hit like in two twenty",
+      "music": 0.0
+    },
+    {
+      "from": 145.909,
+      "to": 146.309,
+      "sid": 75,
+      "location": 2,
+      "content": "Twenty",
+      "music": 0.0
+    },
+    {
+      "from": 146.309,
+      "to": 146.669,
+      "sid": 76,
+      "location": 2,
+      "content": "Twenty",
+      "music": 0.0
+    },
+    {
+      "from": 146.669,
+      "to": 147.189,
+      "sid": 77,
+      "location": 2,
+      "content": "Twenty one",
+      "music": 0.0
+    },
+    {
+      "from": 147.189,
+      "to": 151.46,
+      "sid": 78,
+      "location": 2,
+      "content": "And we just our numbers is one hop down to nothing",
+      "music": 0.0
+    },
+    {
+      "from": 152.58,
+      "to": 155.3,
+      "sid": 79,
+      "location": 2,
+      "content": "And things we did we did switch and do things online",
+      "music": 0.0
+    },
+    {
+      "from": 155.3,
+      "to": 157.39,
+      "sid": 80,
+      "location": 2,
+      "content": "But um a lot of people",
+      "music": 0.0
+    },
+    {
+      "from": 157.39,
+      "to": 160.58,
+      "sid": 81,
+      "location": 2,
+      "content": "Just weren't even doing that even so right now",
+      "music": 0.0
+    },
+    {
+      "from": 160.58,
+      "to": 161.04,
+      "sid": 82,
+      "location": 2,
+      "content": "I think",
+      "music": 0.0
+    },
+    {
+      "from": 161.04,
+      "to": 163.62,
+      "sid": 83,
+      "location": 2,
+      "content": "But like like we just had graduation in may",
+      "music": 0.0
+    },
+    {
+      "from": 163.62,
+      "to": 166.88,
+      "sid": 84,
+      "location": 2,
+      "content": "And i think we graduated fifty nine students",
+      "music": 0.0
+    },
+    {
+      "from": 166.88,
+      "to": 168.42,
+      "sid": 85,
+      "location": 2,
+      "content": "Oh that's not many",
+      "music": 0.0
+    },
+    {
+      "from": 168.42,
+      "to": 168.9,
+      "sid": 86,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 168.9,
+      "to": 169.3,
+      "sid": 87,
+      "location": 2,
+      "content": "No",
+      "music": 0.0
+    },
+    {
+      "from": 169.3,
+      "to": 170.64,
+      "sid": 88,
+      "location": 2,
+      "content": "So it's really gone down",
+      "music": 0.0
+    },
+    {
+      "from": 170.64,
+      "to": 171.52,
+      "sid": 89,
+      "location": 2,
+      "content": "So where that's like",
+      "music": 0.0
+    },
+    {
+      "from": 171.52,
+      "to": 174.16,
+      "sid": 90,
+      "location": 2,
+      "content": "It's ever trying to get more people to come back",
+      "music": 0.0
+    },
+    {
+      "from": 174.16,
+      "to": 177.64,
+      "sid": 91,
+      "location": 2,
+      "content": "The smaller schools have been hit hard uh by",
+      "music": 0.0
+    },
+    {
+      "from": 177.64,
+      "to": 179.08,
+      "sid": 92,
+      "location": 2,
+      "content": "Just having a lack of students",
+      "music": 0.0
+    },
+    {
+      "from": 179.08,
+      "to": 181.71,
+      "sid": 93,
+      "location": 2,
+      "content": "Oh and i don't i'm not exactly sure",
+      "music": 0.0
+    },
+    {
+      "from": 181.71,
+      "to": 184.23,
+      "sid": 94,
+      "location": 2,
+      "content": "I don't know if people just can't afford to go to schools",
+      "music": 0.0
+    },
+    {
+      "from": 184.23,
+      "to": 185.93,
+      "sid": 95,
+      "location": 2,
+      "content": "or但是除了招生",
+      "music": 0.0
+    },
+    {
+      "from": 185.93,
+      "to": 188.0,
+      "sid": 96,
+      "location": 2,
+      "content": "想要留下老师也很困难",
+      "music": 0.0
+    },
+    {
+      "from": 188.0,
+      "to": 191.78,
+      "sid": 97,
+      "location": 2,
+      "content": "从外地来这里的老师很少会愿意长时间留下",
+      "music": 0.0
+    },
+    {
+      "from": 191.78,
+      "to": 197.48,
+      "sid": 98,
+      "location": 2,
+      "content": "People that are native that are teaching the language and in the culture um",
+      "music": 0.0
+    },
+    {
+      "from": 197.48,
+      "to": 200.16,
+      "sid": 99,
+      "location": 2,
+      "content": "And then there are the like for the math",
+      "music": 0.0
+    },
+    {
+      "from": 200.16,
+      "to": 200.88,
+      "sid": 100,
+      "location": 2,
+      "content": "And english",
+      "music": 0.0
+    },
+    {
+      "from": 200.88,
+      "to": 205.829,
+      "sid": 101,
+      "location": 2,
+      "content": "We have i think most of them are not native that that are in some way",
+      "music": 0.0
+    },
+    {
+      "from": 205.829,
+      "to": 208.989,
+      "sid": 102,
+      "location": 2,
+      "content": "And then we had a we had a a a science program",
+      "music": 0.0
+    },
+    {
+      "from": 208.989,
+      "to": 211.45,
+      "sid": 103,
+      "location": 2,
+      "content": "Which they were really big on",
+      "music": 0.0
+    },
+    {
+      "from": 211.45,
+      "to": 215.73,
+      "sid": 104,
+      "location": 2,
+      "content": "Like the renewable energy and like solar power and um",
+      "music": 0.0
+    },
+    {
+      "from": 215.97,
+      "to": 218.81,
+      "sid": 105,
+      "location": 2,
+      "content": "And uh the environment in into you",
+      "music": 0.0
+    },
+    {
+      "from": 218.81,
+      "to": 222.11,
+      "sid": 106,
+      "location": 2,
+      "content": "Like train like like water quality and stuff like that",
+      "music": 0.0
+    },
+    {
+      "from": 222.43,
+      "to": 225.39,
+      "sid": 107,
+      "location": 2,
+      "content": "Because the objepy culture is really reliant on",
+      "music": 0.09621992796495143
+    },
+    {
+      "from": 225.39,
+      "to": 227.74,
+      "sid": 108,
+      "location": 2,
+      "content": "Living off of those resources",
+      "music": 0.0
+    },
+    {
+      "from": 227.74,
+      "to": 230.22,
+      "sid": 109,
+      "location": 2,
+      "content": "And so they're trying to incorporate that into",
+      "music": 0.0
+    },
+    {
+      "from": 230.22,
+      "to": 232.98,
+      "sid": 110,
+      "location": 2,
+      "content": "Like students learning those jobs",
+      "music": 0.0
+    },
+    {
+      "from": 232.98,
+      "to": 234.48,
+      "sid": 111,
+      "location": 2,
+      "content": "So they can be you know",
+      "music": 0.0
+    },
+    {
+      "from": 234.48,
+      "to": 236.7,
+      "sid": 112,
+      "location": 2,
+      "content": "There's like a resource management",
+      "music": 0.0
+    },
+    {
+      "from": 236.7,
+      "to": 239.7,
+      "sid": 113,
+      "location": 2,
+      "content": "I guess is probably the best way to to say",
+      "music": 0.0
+    },
+    {
+      "from": 239.7,
+      "to": 241.42,
+      "sid": 114,
+      "location": 2,
+      "content": "And right now in the summer",
+      "music": 0.0
+    },
+    {
+      "from": 241.42,
+      "to": 242.6,
+      "sid": 115,
+      "location": 2,
+      "content": "There's a lot of um",
+      "music": 0.0
+    },
+    {
+      "from": 242.6,
+      "to": 244.019,
+      "sid": 116,
+      "location": 2,
+      "content": "Purist tourist",
+      "music": 0.0
+    },
+    {
+      "from": 244.019,
+      "to": 245.599,
+      "sid": 117,
+      "location": 2,
+      "content": "And there's resorts",
+      "music": 0.0
+    },
+    {
+      "from": 245.599,
+      "to": 247.779,
+      "sid": 118,
+      "location": 2,
+      "content": "Um all done the different lakes and stuff",
+      "music": 0.0
+    },
+    {
+      "from": 247.779,
+      "to": 249.859,
+      "sid": 119,
+      "location": 2,
+      "content": "So a lot of people are in that field like",
+      "music": 0.0
+    },
+    {
+      "from": 249.859,
+      "to": 254.18,
+      "sid": 120,
+      "location": 2,
+      "content": "Where they sign a lot of people that like our waitresses are waiters",
+      "music": 0.0
+    },
+    {
+      "from": 254.18,
+      "to": 256.06,
+      "sid": 121,
+      "location": 2,
+      "content": "Or they clean cabins",
+      "music": 0.0
+    },
+    {
+      "from": 256.06,
+      "to": 257.57,
+      "sid": 122,
+      "location": 2,
+      "content": "And and that kind of thing",
+      "music": 0.0
+    },
+    {
+      "from": 257.57,
+      "to": 259.45,
+      "sid": 123,
+      "location": 2,
+      "content": "So that's a that's like a summer",
+      "music": 0.0
+    },
+    {
+      "from": 259.45,
+      "to": 261.85,
+      "sid": 124,
+      "location": 2,
+      "content": "Seasonal thing um",
+      "music": 0.0
+    },
+    {
+      "from": 262.49,
+      "to": 263.89,
+      "sid": 125,
+      "location": 2,
+      "content": "But yeah",
+      "music": 0.0
+    },
+    {
+      "from": 263.89,
+      "to": 267.45,
+      "sid": 126,
+      "location": 2,
+      "content": "There's there's there's not a lot of really good being chapter",
+      "music": 0.0
+    },
+    {
+      "from": 267.45,
+      "to": 270.159,
+      "sid": 127,
+      "location": 2,
+      "content": "Around here to be honest casino there",
+      "music": 0.0
+    },
+    {
+      "from": 270.159,
+      "to": 270.479,
+      "sid": 128,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 270.479,
+      "to": 270.759,
+      "sid": 129,
+      "location": 2,
+      "content": "Cai",
+      "music": 0.0
+    },
+    {
+      "from": 270.759,
+      "to": 271.719,
+      "sid": 130,
+      "location": 2,
+      "content": "And all that's one of the",
+      "music": 0.0
+    },
+    {
+      "from": 271.719,
+      "to": 274.539,
+      "sid": 131,
+      "location": 2,
+      "content": "That's why the biggest employer in this whole county",
+      "music": 0.0
+    },
+    {
+      "from": 274.539,
+      "to": 274.999,
+      "sid": 132,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 274.999,
+      "to": 276.45,
+      "sid": 133,
+      "location": 2,
+      "content": "A lot of people work there",
+      "music": 0.0
+    },
+    {
+      "from": 276.45,
+      "to": 278.13,
+      "sid": 134,
+      "location": 2,
+      "content": "我也去参观了一下",
+      "music": 0.0
+    },
+    {
+      "from": 278.13,
+      "to": 279.29,
+      "sid": 135,
+      "location": 2,
+      "content": "里面的工作人员",
+      "music": 0.0
+    },
+    {
+      "from": 279.29,
+      "to": 281.37,
+      "sid": 136,
+      "location": 2,
+      "content": "大部分都是奥吉布瓦人",
+      "music": 0.0
+    },
+    {
+      "from": 281.37,
+      "to": 283.09,
+      "sid": 137,
+      "location": 2,
+      "content": "在他旁边还有一个加油站",
+      "music": 0.0
+    },
+    {
+      "from": 283.09,
+      "to": 284.22,
+      "sid": 138,
+      "location": 2,
+      "content": "也是部落的",
+      "music": 0.0
+    },
+    {
+      "from": 284.22,
+      "to": 285.06,
+      "sid": 139,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 285.06,
+      "to": 287.69,
+      "sid": 140,
+      "location": 2,
+      "content": "当地就还剩一些部落的行政工作",
+      "music": 0.0
+    },
+    {
+      "from": 287.69,
+      "to": 289.05,
+      "sid": 141,
+      "location": 2,
+      "content": "以及部落的医院",
+      "music": 0.0
+    },
+    {
+      "from": 289.05,
+      "to": 290.33,
+      "sid": 142,
+      "location": 2,
+      "content": "还有部落的小学",
+      "music": 0.0
+    },
+    {
+      "from": 290.33,
+      "to": 292.25,
+      "sid": 143,
+      "location": 2,
+      "content": "初中高中能提供的一些岗位",
+      "music": 0.0
+    },
+    {
+      "from": 292.25,
+      "to": 295.15,
+      "sid": 144,
+      "location": 2,
+      "content": "I think i think some of them working at the tribal office",
+      "music": 0.0
+    },
+    {
+      "from": 295.15,
+      "to": 297.11,
+      "sid": 145,
+      "location": 2,
+      "content": "Or or we we have a clinic to",
+      "music": 0.0
+    },
+    {
+      "from": 297.11,
+      "to": 298.79,
+      "sid": 146,
+      "location": 2,
+      "content": "Because we have a nursing program",
+      "music": 0.0
+    },
+    {
+      "from": 298.79,
+      "to": 301.41,
+      "sid": 147,
+      "location": 2,
+      "content": "And i i know what i've gone over there",
+      "music": 0.0
+    },
+    {
+      "from": 301.41,
+      "to": 305.08,
+      "sid": 148,
+      "location": 2,
+      "content": "U a lot of the students that are here as nursing",
+      "music": 0.0
+    },
+    {
+      "from": 305.08,
+      "to": 307.57,
+      "sid": 149,
+      "location": 2,
+      "content": "Students are like over there like the one lady",
+      "music": 0.0
+    },
+    {
+      "from": 307.57,
+      "to": 309.81,
+      "sid": 150,
+      "location": 2,
+      "content": "Gave me a shot the covid booster",
+      "music": 0.0
+    },
+    {
+      "from": 309.81,
+      "to": 311.21,
+      "sid": 151,
+      "location": 2,
+      "content": "And i was like hey",
+      "music": 0.0
+    },
+    {
+      "from": 311.21,
+      "to": 314.859,
+      "sid": 152,
+      "location": 2,
+      "content": "Oh so that i think they just kind of work in the community",
+      "music": 0.0
+    },
+    {
+      "from": 314.859,
+      "to": 315.979,
+      "sid": 153,
+      "location": 2,
+      "content": "Or they get a job",
+      "music": 0.0
+    },
+    {
+      "from": 315.979,
+      "to": 317.99,
+      "sid": 154,
+      "location": 2,
+      "content": "Teaching um",
+      "music": 0.0
+    },
+    {
+      "from": 317.99,
+      "to": 320.19,
+      "sid": 155,
+      "location": 2,
+      "content": "But but i'm sure some of the younger ones",
+      "music": 0.0
+    },
+    {
+      "from": 320.19,
+      "to": 321.39,
+      "sid": 156,
+      "location": 2,
+      "content": "Might even await",
+      "music": 0.0
+    },
+    {
+      "from": 321.39,
+      "to": 324.68,
+      "sid": 157,
+      "location": 2,
+      "content": "You want to mary naka better job",
+      "music": 0.0
+    },
+    {
+      "from": 324.68,
+      "to": 327.54,
+      "sid": 158,
+      "location": 2,
+      "content": "老哥其实对这里的生活倒是挺满意的",
+      "music": 0.0
+    },
+    {
+      "from": 327.54,
+      "to": 330.4,
+      "sid": 159,
+      "location": 2,
+      "content": "他的大专学历是美洲原住民研究",
+      "music": 0.0
+    },
+    {
+      "from": 330.4,
+      "to": 332.88,
+      "sid": 160,
+      "location": 2,
+      "content": "也学了一些基本的奥吉布瓦语",
+      "music": 0.0
+    },
+    {
+      "from": 332.88,
+      "to": 335.68,
+      "sid": 161,
+      "location": 2,
+      "content": "他现在的工作也算是保罗蒂上面为数不多的",
+      "music": 0.0
+    },
+    {
+      "from": 335.68,
+      "to": 336.62,
+      "sid": 162,
+      "location": 2,
+      "content": "铁饭碗工作",
+      "music": 0.0
+    },
+    {
+      "from": 336.62,
+      "to": 339.38,
+      "sid": 163,
+      "location": 2,
+      "content": "而且他说自己比较喜欢安静的农村生活",
+      "music": 0.0
+    },
+    {
+      "from": 339.38,
+      "to": 340.56,
+      "sid": 164,
+      "location": 2,
+      "content": "而不是大城市",
+      "music": 0.0
+    },
+    {
+      "from": 340.56,
+      "to": 342.22,
+      "sid": 165,
+      "location": 2,
+      "content": "I actually i grew up in a town",
+      "music": 0.0
+    },
+    {
+      "from": 342.22,
+      "to": 342.94,
+      "sid": 166,
+      "location": 2,
+      "content": "Called all claire",
+      "music": 0.0
+    },
+    {
+      "from": 342.94,
+      "to": 344.81,
+      "sid": 167,
+      "location": 2,
+      "content": "Which is two hours south year",
+      "music": 0.0
+    },
+    {
+      "from": 344.81,
+      "to": 345.49,
+      "sid": 168,
+      "location": 2,
+      "content": "It's a",
+      "music": 0.0
+    },
+    {
+      "from": 345.49,
+      "to": 345.91,
+      "sid": 169,
+      "location": 2,
+      "content": "It's a",
+      "music": 0.0
+    },
+    {
+      "from": 345.91,
+      "to": 349.15,
+      "sid": 170,
+      "location": 2,
+      "content": "It's a little bigger city than here um",
+      "music": 0.0
+    },
+    {
+      "from": 349.15,
+      "to": 351.07,
+      "sid": 171,
+      "location": 2,
+      "content": "But but what i moved up here",
+      "music": 0.0
+    },
+    {
+      "from": 351.07,
+      "to": 352.25,
+      "sid": 172,
+      "location": 2,
+      "content": "My wife is from here",
+      "music": 0.0
+    },
+    {
+      "from": 352.25,
+      "to": 353.19,
+      "sid": 173,
+      "location": 2,
+      "content": "So i moved up here",
+      "music": 0.0
+    },
+    {
+      "from": 353.19,
+      "to": 354.67,
+      "sid": 174,
+      "location": 2,
+      "content": "What you graduated from school",
+      "music": 0.0
+    },
+    {
+      "from": 354.67,
+      "to": 355.52,
+      "sid": 175,
+      "location": 2,
+      "content": "And all cla",
+      "music": 0.0
+    },
+    {
+      "from": 355.52,
+      "to": 356.76,
+      "sid": 176,
+      "location": 2,
+      "content": "That's all ended up here",
+      "music": 0.0
+    },
+    {
+      "from": 356.76,
+      "to": 358.04,
+      "sid": 177,
+      "location": 2,
+      "content": "And i really like it here",
+      "music": 0.0
+    },
+    {
+      "from": 358.04,
+      "to": 359.1,
+      "sid": 178,
+      "location": 2,
+      "content": "I like moto",
+      "music": 0.0
+    },
+    {
+      "from": 359.1,
+      "to": 362.0,
+      "sid": 179,
+      "location": 2,
+      "content": "不过这个叫做欧克莱尔的地方和保留地",
+      "music": 0.0
+    },
+    {
+      "from": 362.0,
+      "to": 363.88,
+      "sid": 180,
+      "location": 2,
+      "content": "历史上也是有一段恩怨",
+      "music": 0.0
+    },
+    {
+      "from": 363.88,
+      "to": 364.96,
+      "sid": 181,
+      "location": 2,
+      "content": "简单来说就是",
+      "music": 0.0
+    },
+    {
+      "from": 364.96,
+      "to": 367.66,
+      "sid": 182,
+      "location": 2,
+      "content": "威斯康辛州为了给下游的欧克莱尔供电",
+      "music": 0.0
+    },
+    {
+      "from": 367.66,
+      "to": 370.3,
+      "sid": 183,
+      "location": 2,
+      "content": "决定在上流的保留地修一个水库",
+      "music": 0.0
+    },
+    {
+      "from": 370.3,
+      "to": 373.68,
+      "sid": 184,
+      "location": 2,
+      "content": "代价就是淹没了不少印第安人的土地和村庄",
+      "music": 0.0
+    },
+    {
+      "from": 373.68,
+      "to": 375.85,
+      "sid": 185,
+      "location": 2,
+      "content": "网上能找到的信息很少",
+      "music": 0.0
+    },
+    {
+      "from": 375.85,
+      "to": 378.89,
+      "sid": 186,
+      "location": 2,
+      "content": "这个是我从这边一个小博物馆里面的老奶奶",
+      "music": 0.0
+    },
+    {
+      "from": 378.89,
+      "to": 379.85,
+      "sid": 187,
+      "location": 2,
+      "content": "那听说的",
+      "music": 0.0
+    },
+    {
+      "from": 379.85,
+      "to": 381.73,
+      "sid": 188,
+      "location": 2,
+      "content": "The government forced the tribe to",
+      "music": 0.0
+    },
+    {
+      "from": 381.73,
+      "to": 384.11,
+      "sid": 189,
+      "location": 2,
+      "content": "Give up five thousand acres of land",
+      "music": 0.0
+    },
+    {
+      "from": 384.89,
+      "to": 387.73,
+      "sid": 190,
+      "location": 2,
+      "content": "So that they could build a damn um",
+      "music": 0.18090451352238712
+    },
+    {
+      "from": 387.73,
+      "to": 389.87,
+      "sid": 191,
+      "location": 2,
+      "content": "That would provide electricity to city",
+      "music": 0.0
+    },
+    {
+      "from": 389.87,
+      "to": 390.71,
+      "sid": 192,
+      "location": 2,
+      "content": "South of us",
+      "music": 0.0
+    },
+    {
+      "from": 390.71,
+      "to": 392.37,
+      "sid": 193,
+      "location": 2,
+      "content": "Not here people here",
+      "music": 0.0
+    },
+    {
+      "from": 392.37,
+      "to": 393.39,
+      "sid": 194,
+      "location": 2,
+      "content": "Didn't get electricity",
+      "music": 0.0
+    },
+    {
+      "from": 393.39,
+      "to": 394.19,
+      "sid": 195,
+      "location": 2,
+      "content": "But old claire",
+      "music": 0.0
+    },
+    {
+      "from": 394.19,
+      "to": 397.739,
+      "sid": 196,
+      "location": 2,
+      "content": "And but it wiped out a village",
+      "music": 0.0
+    },
+    {
+      "from": 397.739,
+      "to": 399.259,
+      "sid": 197,
+      "location": 2,
+      "content": "It wiped out a whole village",
+      "music": 0.0
+    },
+    {
+      "from": 399.259,
+      "to": 400.699,
+      "sid": 198,
+      "location": 2,
+      "content": "That was one of the",
+      "music": 0.0
+    },
+    {
+      "from": 400.699,
+      "to": 404.47,
+      "sid": 199,
+      "location": 2,
+      "content": "First of the tribe and hundreds of people were buried there",
+      "music": 0.09029345081286184
+    },
+    {
+      "from": 404.47,
+      "to": 406.11,
+      "sid": 200,
+      "location": 2,
+      "content": "And they didn't move those graves",
+      "music": 0.0
+    },
+    {
+      "from": 406.11,
+      "to": 410.02,
+      "sid": 201,
+      "location": 2,
+      "content": "And so now those graves are washing up",
+      "music": 0.0
+    },
+    {
+      "from": 410.02,
+      "to": 411.4,
+      "sid": 202,
+      "location": 2,
+      "content": "And so people",
+      "music": 0.0
+    },
+    {
+      "from": 411.4,
+      "to": 414.33,
+      "sid": 203,
+      "location": 2,
+      "content": "But with all of the beauty",
+      "music": 0.0
+    },
+    {
+      "from": 414.33,
+      "to": 415.21,
+      "sid": 204,
+      "location": 2,
+      "content": "That's here in this",
+      "music": 0.0
+    },
+    {
+      "from": 415.21,
+      "to": 416.93,
+      "sid": 205,
+      "location": 2,
+      "content": "Really is a beautiful area",
+      "music": 0.0
+    },
+    {
+      "from": 416.93,
+      "to": 420.31,
+      "sid": 206,
+      "location": 2,
+      "content": "There's so many terrible stories that along with it",
+      "music": 0.0
+    },
+    {
+      "from": 420.31,
+      "to": 422.93,
+      "sid": 207,
+      "location": 2,
+      "content": "So anyway when world war two",
+      "music": 0.0
+    },
+    {
+      "from": 422.93,
+      "to": 427.58,
+      "sid": 208,
+      "location": 2,
+      "content": "Broke out that was the height of the era of the boarding schools",
+      "music": 0.0
+    },
+    {
+      "from": 427.58,
+      "to": 430.99,
+      "sid": 209,
+      "location": 2,
+      "content": "Where kids come little to high school",
+      "music": 0.0
+    },
+    {
+      "from": 430.99,
+      "to": 433.27,
+      "sid": 210,
+      "location": 2,
+      "content": "Were sent off to boarding schools",
+      "music": 0.0
+    },
+    {
+      "from": 433.27,
+      "to": 436.63,
+      "sid": 211,
+      "location": 2,
+      "content": "And so in world war two hit the boarding school",
+      "music": 0.0
+    },
+    {
+      "from": 436.63,
+      "to": 438.01,
+      "sid": 212,
+      "location": 2,
+      "content": "Just emptied those students",
+      "music": 0.0
+    },
+    {
+      "from": 438.01,
+      "to": 439.659,
+      "sid": 213,
+      "location": 2,
+      "content": "Who just went into enlist",
+      "music": 0.0
+    },
+    {
+      "from": 439.659,
+      "to": 443.679,
+      "sid": 214,
+      "location": 2,
+      "content": "然后because it is a tradition of their family",
+      "music": 0.0
+    },
+    {
+      "from": 443.679,
+      "to": 444.939,
+      "sid": 215,
+      "location": 2,
+      "content": "That will notion of",
+      "music": 0.0
+    },
+    {
+      "from": 444.939,
+      "to": 446.97,
+      "sid": 216,
+      "location": 2,
+      "content": "How you take care of your community",
+      "music": 0.0
+    },
+    {
+      "from": 446.97,
+      "to": 450.57,
+      "sid": 217,
+      "location": 2,
+      "content": "And that was so indians probably volunteered at a bigger",
+      "music": 0.0
+    },
+    {
+      "from": 450.57,
+      "to": 452.59,
+      "sid": 218,
+      "location": 2,
+      "content": "Percentage than edit any other group",
+      "music": 0.0
+    },
+    {
+      "from": 452.59,
+      "to": 455.68,
+      "sid": 219,
+      "location": 2,
+      "content": "Including in vietnam is a terrible",
+      "music": 0.0
+    },
+    {
+      "from": 455.88,
+      "to": 459.11,
+      "sid": 220,
+      "location": 2,
+      "content": "When my grandparents signed up",
+      "music": 0.0
+    },
+    {
+      "from": 459.11,
+      "to": 459.29,
+      "sid": 221,
+      "location": 2,
+      "content": "They",
+      "music": 0.0
+    },
+    {
+      "from": 459.29,
+      "to": 460.63,
+      "sid": 222,
+      "location": 2,
+      "content": "Weren't even citizens",
+      "music": 0.0
+    },
+    {
+      "from": 460.63,
+      "to": 462.53,
+      "sid": 223,
+      "location": 2,
+      "content": "They weren't recognized as citizens",
+      "music": 0.0
+    },
+    {
+      "from": 462.53,
+      "to": 466.44,
+      "sid": 224,
+      "location": 2,
+      "content": "So but they they volunteered to go into the service",
+      "music": 0.0
+    },
+    {
+      "from": 466.68,
+      "to": 468.08,
+      "sid": 225,
+      "location": 2,
+      "content": "Doesn't make any sense",
+      "music": 0.0
+    },
+    {
+      "from": 468.08,
+      "to": 471.1,
+      "sid": 226,
+      "location": 2,
+      "content": "And then chances are they lost their land",
+      "music": 0.0
+    },
+    {
+      "from": 471.1,
+      "to": 472.52,
+      "sid": 227,
+      "location": 2,
+      "content": "And when they got cheated out",
+      "music": 0.0
+    },
+    {
+      "from": 472.52,
+      "to": 474.549,
+      "sid": 228,
+      "location": 2,
+      "content": "But when they came back home",
+      "music": 0.0
+    },
+    {
+      "from": 474.909,
+      "to": 478.929,
+      "sid": 229,
+      "location": 2,
+      "content": "But they they wanted to put a dam on the river to control the",
+      "music": 0.0
+    },
+    {
+      "from": 478.929,
+      "to": 482.45,
+      "sid": 230,
+      "location": 2,
+      "content": "The chippo river is on a really big river",
+      "music": 0.0
+    },
+    {
+      "from": 482.45,
+      "to": 484.57,
+      "sid": 231,
+      "location": 2,
+      "content": "It actually goes all the way to the mississippi",
+      "music": 0.0
+    },
+    {
+      "from": 484.57,
+      "to": 486.73,
+      "sid": 232,
+      "location": 2,
+      "content": "It's like a pretty major tributary",
+      "music": 0.0
+    },
+    {
+      "from": 486.73,
+      "to": 490.89,
+      "sid": 233,
+      "location": 2,
+      "content": "But um that back like in the eighteen hundreds",
+      "music": 0.0
+    },
+    {
+      "from": 490.89,
+      "to": 494.31,
+      "sid": 234,
+      "location": 2,
+      "content": "They were there was lots of stuff going on the",
+      "music": 0.0
+    },
+    {
+      "from": 494.31,
+      "to": 498.054,
+      "sid": 235,
+      "location": 2,
+      "content": "The people that were coming over here um",
+      "music": 0.0
+    },
+    {
+      "from": 498.66,
+      "to": 501.22,
+      "sid": 236,
+      "location": 2,
+      "content": "Kind of wanted to cut down all the pine trees there was",
+      "music": 0.0
+    },
+    {
+      "from": 501.22,
+      "to": 502.5,
+      "sid": 237,
+      "location": 2,
+      "content": "Because this whole area was there",
+      "music": 0.0
+    },
+    {
+      "from": 502.5,
+      "to": 503.84,
+      "sid": 238,
+      "location": 2,
+      "content": "Just lots of pine trees",
+      "music": 0.0
+    },
+    {
+      "from": 503.84,
+      "to": 507.859,
+      "sid": 239,
+      "location": 2,
+      "content": "So they they they had they started lumbering businesses",
+      "music": 0.0
+    },
+    {
+      "from": 507.859,
+      "to": 509.9,
+      "sid": 240,
+      "location": 2,
+      "content": "And they go in and cut down the trees",
+      "music": 0.0
+    },
+    {
+      "from": 509.9,
+      "to": 512.1,
+      "sid": 241,
+      "location": 2,
+      "content": "And then they would float them down",
+      "music": 0.0
+    },
+    {
+      "from": 512.1,
+      "to": 514.42,
+      "sid": 242,
+      "location": 2,
+      "content": "The rivers down to the smiles",
+      "music": 0.0
+    },
+    {
+      "from": 514.42,
+      "to": 514.86,
+      "sid": 243,
+      "location": 2,
+      "content": "That's",
+      "music": 0.0
+    },
+    {
+      "from": 514.86,
+      "to": 516.0,
+      "sid": 244,
+      "location": 2,
+      "content": "How they made all their money",
+      "music": 0.0
+    },
+    {
+      "from": 516.0,
+      "to": 518.269,
+      "sid": 245,
+      "location": 2,
+      "content": "And so they were they were doing that",
+      "music": 0.0
+    },
+    {
+      "from": 518.269,
+      "to": 520.669,
+      "sid": 246,
+      "location": 2,
+      "content": "And they there was up here on the reservation",
+      "music": 0.0
+    },
+    {
+      "from": 520.669,
+      "to": 523.599,
+      "sid": 247,
+      "location": 2,
+      "content": "They they couldn't have access to all the trees",
+      "music": 0.0
+    },
+    {
+      "from": 523.599,
+      "to": 525.039,
+      "sid": 248,
+      "location": 2,
+      "content": "Because it was the indians",
+      "music": 0.0
+    },
+    {
+      "from": 525.039,
+      "to": 526.61,
+      "sid": 249,
+      "location": 2,
+      "content": "And they were like you",
+      "music": 0.0
+    },
+    {
+      "from": 526.61,
+      "to": 527.69,
+      "sid": 250,
+      "location": 2,
+      "content": "Can't take it from union",
+      "music": 0.0
+    },
+    {
+      "from": 527.69,
+      "to": 528.93,
+      "sid": 251,
+      "location": 2,
+      "content": "So so eventually",
+      "music": 0.0
+    },
+    {
+      "from": 528.93,
+      "to": 529.93,
+      "sid": 252,
+      "location": 2,
+      "content": "They kind of work that out",
+      "music": 0.0
+    },
+    {
+      "from": 529.93,
+      "to": 534.3,
+      "sid": 253,
+      "location": 2,
+      "content": "Where the government took over and created the reservation",
+      "music": 0.0
+    },
+    {
+      "from": 534.3,
+      "to": 535.1,
+      "sid": 254,
+      "location": 2,
+      "content": "But anyway",
+      "music": 0.0
+    },
+    {
+      "from": 535.1,
+      "to": 537.44,
+      "sid": 255,
+      "location": 2,
+      "content": "The the whole point was to control those rivers",
+      "music": 0.0
+    },
+    {
+      "from": 537.44,
+      "to": 538.74,
+      "sid": 256,
+      "location": 2,
+      "content": "So the government came in",
+      "music": 0.0
+    },
+    {
+      "from": 538.74,
+      "to": 540.62,
+      "sid": 257,
+      "location": 2,
+      "content": "So we're gonna put a damn in here",
+      "music": 0.0
+    },
+    {
+      "from": 540.62,
+      "to": 541.54,
+      "sid": 258,
+      "location": 2,
+      "content": "And unfortunately",
+      "music": 0.0
+    },
+    {
+      "from": 541.54,
+      "to": 544.04,
+      "sid": 259,
+      "location": 2,
+      "content": "It's gonna flood your your village by",
+      "music": 0.0
+    },
+    {
+      "from": 544.04,
+      "to": 545.42,
+      "sid": 260,
+      "location": 2,
+      "content": "They think they're just like you know",
+      "music": 0.0
+    },
+    {
+      "from": 545.42,
+      "to": 546.02,
+      "sid": 261,
+      "location": 2,
+      "content": "Oh uh",
+      "music": 0.0
+    },
+    {
+      "from": 546.02,
+      "to": 548.39,
+      "sid": 262,
+      "location": 2,
+      "content": "Don't care just you guys can just move you",
+      "music": 0.0
+    },
+    {
+      "from": 548.39,
+      "to": 550.77,
+      "sid": 263,
+      "location": 2,
+      "content": "Don't you know they didn't understand that they like",
+      "music": 0.0
+    },
+    {
+      "from": 550.77,
+      "to": 552.35,
+      "sid": 264,
+      "location": 2,
+      "content": "Chose that spot on purpose that",
+      "music": 0.0
+    },
+    {
+      "from": 552.35,
+      "to": 555.15,
+      "sid": 265,
+      "location": 2,
+      "content": "So so the government kind of just basically came in here",
+      "music": 0.0
+    },
+    {
+      "from": 555.15,
+      "to": 555.97,
+      "sid": 266,
+      "location": 2,
+      "content": "And said well",
+      "music": 0.0
+    },
+    {
+      "from": 555.97,
+      "to": 556.89,
+      "sid": 267,
+      "location": 2,
+      "content": "We're gonna do it",
+      "music": 0.0
+    },
+    {
+      "from": 556.89,
+      "to": 558.49,
+      "sid": 268,
+      "location": 2,
+      "content": "So they of course",
+      "music": 0.0
+    },
+    {
+      "from": 558.49,
+      "to": 558.85,
+      "sid": 269,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 558.85,
+      "to": 559.97,
+      "sid": 270,
+      "location": 2,
+      "content": "The native people said no",
+      "music": 0.0
+    },
+    {
+      "from": 559.97,
+      "to": 561.41,
+      "sid": 271,
+      "location": 2,
+      "content": "Where we don't want to move",
+      "music": 0.0
+    },
+    {
+      "from": 561.41,
+      "to": 563.32,
+      "sid": 272,
+      "location": 2,
+      "content": "But they got their way",
+      "music": 0.0
+    },
+    {
+      "from": 563.32,
+      "to": 564.0,
+      "sid": 273,
+      "location": 2,
+      "content": "Eventually",
+      "music": 0.0
+    },
+    {
+      "from": 564.0,
+      "to": 565.4,
+      "sid": 274,
+      "location": 2,
+      "content": "And so so they yeah",
+      "music": 0.0
+    },
+    {
+      "from": 565.4,
+      "to": 568.6,
+      "sid": 275,
+      "location": 2,
+      "content": "They the the village of post was like over here",
+      "music": 0.0
+    },
+    {
+      "from": 568.6,
+      "to": 570.9,
+      "sid": 276,
+      "location": 2,
+      "content": "And then they had to move to this new place",
+      "music": 0.0
+    },
+    {
+      "from": 570.9,
+      "to": 573.01,
+      "sid": 277,
+      "location": 2,
+      "content": "I guess it was more over here um",
+      "music": 0.0
+    },
+    {
+      "from": 573.01,
+      "to": 574.53,
+      "sid": 278,
+      "location": 2,
+      "content": "But that's that's np",
+      "music": 0.0
+    },
+    {
+      "from": 574.53,
+      "to": 575.79,
+      "sid": 279,
+      "location": 2,
+      "content": "That's why it's called new falls",
+      "music": 0.0
+    },
+    {
+      "from": 575.79,
+      "to": 577.95,
+      "sid": 280,
+      "location": 2,
+      "content": "水库淹没了印第安人的土地",
+      "music": 0.0
+    },
+    {
+      "from": 577.95,
+      "to": 579.71,
+      "sid": 281,
+      "location": 2,
+      "content": "但是现在很多奥吉布瓦人",
+      "music": 0.0
+    },
+    {
+      "from": 579.71,
+      "to": 582.43,
+      "sid": 282,
+      "location": 2,
+      "content": "反倒是依靠水库附近的风景区为生",
+      "music": 0.0
+    },
+    {
+      "from": 582.43,
+      "to": 585.84,
+      "sid": 283,
+      "location": 2,
+      "content": "来这一块划船钓鱼野营打猎的人都很多",
+      "music": 0.0
+    },
+    {
+      "from": 585.84,
+      "to": 586.88,
+      "sid": 284,
+      "location": 2,
+      "content": "离开保罗丽之前",
+      "music": 0.0
+    },
+    {
+      "from": 586.88,
+      "to": 589.08,
+      "sid": 285,
+      "location": 2,
+      "content": "我就去了这个叫new post的地方",
+      "music": 0.0
+    },
+    {
+      "from": 589.08,
+      "to": 589.88,
+      "sid": 286,
+      "location": 2,
+      "content": "老哥告诉我",
+      "music": 0.0
+    },
+    {
+      "from": 589.88,
+      "to": 591.04,
+      "sid": 287,
+      "location": 2,
+      "content": "湖边有一个餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 591.04,
+      "to": 593.18,
+      "sid": 288,
+      "location": 2,
+      "content": "里面的员工全部都是部落的",
+      "music": 0.0
+    },
+    {
+      "from": 593.18,
+      "to": 595.42,
+      "sid": 289,
+      "location": 2,
+      "content": "但是进去无论是装修还是菜单",
+      "music": 0.0
+    },
+    {
+      "from": 595.42,
+      "to": 598.06,
+      "sid": 290,
+      "location": 2,
+      "content": "都跟普通白人酒馆的风格差别不大",
+      "music": 0.0
+    },
+    {
+      "from": 598.06,
+      "to": 600.38,
+      "sid": 291,
+      "location": 2,
+      "content": "毕竟来这里大部分消费者都是白人",
+      "music": 0.0
+    },
+    {
+      "from": 600.38,
+      "to": 601.82,
+      "sid": 292,
+      "location": 2,
+      "content": "我点了一个炸鱼套餐",
+      "music": 0.0
+    },
+    {
+      "from": 601.82,
+      "to": 602.54,
+      "sid": 293,
+      "location": 2,
+      "content": "加上一个汤",
+      "music": 0.0
+    },
+    {
+      "from": 602.54,
+      "to": 605.17,
+      "sid": 294,
+      "location": 2,
+      "content": "还有一些蔬菜收了我30美元",
+      "music": 0.0
+    },
+    {
+      "from": 605.17,
+      "to": 606.8,
+      "sid": 295,
+      "location": 2,
+      "content": "吃得我有点肉疼",
+      "music": 0.0
+    },
+    {
+      "from": 606.8,
+      "to": 608.18,
+      "sid": 296,
+      "location": 2,
+      "content": "不过味道还行吧",
+      "music": 0.0
+    },
+    {
+      "from": 608.18,
+      "to": 610.38,
+      "sid": 297,
+      "location": 2,
+      "content": "大家对这片宝罗地感受如何呢",
+      "music": 0.0
+    },
+    {
+      "from": 610.38,
+      "to": 611.0,
+      "sid": 298,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 611.0,
+      "to": 613.62,
+      "sid": 299,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

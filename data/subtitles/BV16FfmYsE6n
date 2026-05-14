@@ -1,0 +1,1578 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "en",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.84,
+      "sid": 1,
+      "location": 2,
+      "content": "A deserted town on Route 66 in the United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 2.84,
+      "to": 3.62,
+      "sid": 2,
+      "location": 2,
+      "content": "Glenrio",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 3.62,
+      "to": 6.22,
+      "sid": 3,
+      "location": 2,
+      "content": "It's located at the border between Texas and New Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 6.22,
+      "to": 7.96,
+      "sid": 4,
+      "location": 2,
+      "content": "The current population here is zero",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 7.96,
+      "to": 10.24,
+      "sid": 5,
+      "location": 2,
+      "content": "It's perfect for someone like me to come for a walk at night",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 10.24,
+      "to": 13.07,
+      "sid": 6,
+      "location": 2,
+      "content": "Back in the day, there were many businesses serving travelers on the highway",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 13.07,
+      "to": 14.69,
+      "sid": 7,
+      "location": 2,
+      "content": "Like the auto repair shop I just passed",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 14.69,
+      "to": 17.44,
+      "sid": 8,
+      "location": 2,
+      "content": "And this little diner combined with a motel in front of me",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 17.44,
+      "to": 19.4,
+      "sid": 9,
+      "location": 2,
+      "content": "This room looks just like the cliffside ones I love to stay in",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 19.4,
+      "to": 20.68,
+      "sid": 10,
+      "location": 2,
+      "content": "The motel is pretty much the same.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 20.68,
+      "to": 22.2,
+      "sid": 11,
+      "location": 2,
+      "content": "There are quite a few rooms.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 22.2,
+      "to": 23.57,
+      "sid": 12,
+      "location": 2,
+      "content": "Let's drive around and take a look.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 23.57,
+      "to": 25.61,
+      "sid": 13,
+      "location": 2,
+      "content": "It was quite well-known back then.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 25.61,
+      "to": 27.89,
+      "sid": 14,
+      "location": 2,
+      "content": "This hotel is located on the state line in Texas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 27.89,
+      "to": 29.93,
+      "sid": 15,
+      "location": 2,
+      "content": "Back then, if people were traveling via Route 66,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 29.93,
+      "to": 31.91,
+      "sid": 16,
+      "location": 2,
+      "content": "entering Texas from New Mexico,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 31.91,
+      "to": 34.25,
+      "sid": 17,
+      "location": 2,
+      "content": "this would be the first hotel they could choose in Texas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 34.25,
+      "to": 35.23,
+      "sid": 18,
+      "location": 2,
+      "content": "If you're going in the opposite direction,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 35.23,
+      "to": 37.45,
+      "sid": 19,
+      "location": 2,
+      "content": "They are the last inn standing within the borders of Texas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 37.45,
+      "to": 40.36,
+      "sid": 20,
+      "location": 2,
+      "content": "That's why their sign reads 'First and Last in Texas'.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 40.36,
+      "to": 42.04,
+      "sid": 21,
+      "location": 2,
+      "content": "Although the surrounding area is now wilderness,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 42.04,
+      "to": 43.94,
+      "sid": 22,
+      "location": 2,
+      "content": "the sign has been preserved.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 43.94,
+      "to": 46.31,
+      "sid": 23,
+      "location": 2,
+      "content": "Even though only a few letters remain.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 46.31,
+      "to": 48.27,
+      "sid": 24,
+      "location": 2,
+      "content": "Turning west in the darkness,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 48.27,
+      "to": 50.55,
+      "sid": 25,
+      "location": 2,
+      "content": "you'll find Glorieta, on the New Mexico side.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 50.55,
+      "to": 51.99,
+      "sid": 26,
+      "location": 2,
+      "content": "The only green light in sight,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 51.99,
+      "to": 54.53,
+      "sid": 27,
+      "location": 2,
+      "content": "is a new business in the abandoned town.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 54.53,
+      "to": 57.27,
+      "sid": 28,
+      "location": 2,
+      "content": "This is the American specialty herb store right in front of me.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 57.27,
+      "to": 58.99,
+      "sid": 29,
+      "location": 2,
+      "content": "However, it only operates until seven in the evening.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 58.99,
+      "to": 59.89,
+      "sid": 30,
+      "location": 2,
+      "content": "Check the live map.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 59.89,
+      "to": 61.36,
+      "sid": 31,
+      "location": 2,
+      "content": "There are still some people around during the day.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 61.36,
+      "to": 62.32,
+      "sid": 32,
+      "location": 2,
+      "content": "New Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 62.32,
+      "to": 64.6,
+      "sid": 33,
+      "location": 2,
+      "content": "legalized cannabis in 2021.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 64.6,
+      "to": 66.59,
+      "sid": 34,
+      "location": 2,
+      "content": "But the regulations in Texas remain strict.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 66.59,
+      "to": 68.39,
+      "sid": 35,
+      "location": 2,
+      "content": "A new store has opened online as well.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 68.39,
+      "to": 70.199,
+      "sid": 36,
+      "location": 2,
+      "content": "It’s also convenient for the people of Texas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 70.199,
+      "to": 71.999,
+      "sid": 37,
+      "location": 2,
+      "content": "It's actually very similar to history",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 71.999,
+      "to": 74.959,
+      "sid": 38,
+      "location": 2,
+      "content": "All the liquor stores were on the New Mexico side back then",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 74.959,
+      "to": 77.659,
+      "sid": 39,
+      "location": 2,
+      "content": "Because all the Texas counties bordering New Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 77.659,
+      "to": 78.83,
+      "sid": 40,
+      "location": 2,
+      "content": "were dry",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 78.83,
+      "to": 81.07,
+      "sid": 41,
+      "location": 2,
+      "content": "While other businesses like gas stations and restaurants",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 81.07,
+      "to": 82.59,
+      "sid": 42,
+      "location": 2,
+      "content": "were on the Texas side",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 82.59,
+      "to": 84.63,
+      "sid": 43,
+      "location": 2,
+      "content": "due to lower taxes in Texas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 84.63,
+      "to": 86.35,
+      "sid": 44,
+      "location": 2,
+      "content": "Beyond the ruins of the old post office",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 86.35,
+      "to": 89.47,
+      "sid": 45,
+      "location": 2,
+      "content": "lies the vast wilderness of New Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 89.47,
+      "to": 91.55,
+      "sid": 46,
+      "location": 2,
+      "content": "Apart from the old Route 66 in the town area",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 91.55,
+      "to": 92.93,
+      "sid": 47,
+      "location": 2,
+      "content": "it is in a completely abandoned state",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 92.93,
+      "to": 94.69,
+      "sid": 48,
+      "location": 2,
+      "content": "full of potholes and small stones",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 94.69,
+      "to": 97.33,
+      "sid": 49,
+      "location": 2,
+      "content": "a car like mine can't drive on it at all",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 97.33,
+      "to": 100.6,
+      "sid": 50,
+      "location": 2,
+      "content": "while the road conditions within the former Glenrio town limits were still quite decent",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 100.6,
+      "to": 102.48,
+      "sid": 51,
+      "location": 2,
+      "content": "and there wasn't a soul around at night",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 102.48,
+      "to": 105.24,
+      "sid": 52,
+      "location": 2,
+      "content": "I felt like I could do whatever I wanted here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 105.24,
+      "to": 108.13,
+      "sid": 53,
+      "location": 2,
+      "content": "so I let loose a bit on the road",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 108.13,
+      "to": 110.41,
+      "sid": 54,
+      "location": 2,
+      "content": "after all, it didn’t look like there were any police around",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 110.41,
+      "to": 113.43,
+      "sid": 55,
+      "location": 2,
+      "content": "However, the road ahead becomes a dead end after just over 2km.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 113.43,
+      "to": 115.19,
+      "sid": 56,
+      "location": 2,
+      "content": "The Texas segment of Route 66",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 115.19,
+      "to": 116.11,
+      "sid": 57,
+      "location": 2,
+      "content": "in the 1970s",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 116.11,
+      "to": 118.49,
+      "sid": 58,
+      "location": 2,
+      "content": "was upgraded to a closed interstate highway.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 118.49,
+      "to": 120.55,
+      "sid": 59,
+      "location": 2,
+      "content": "Only this small section near New Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 120.55,
+      "to": 121.84,
+      "sid": 60,
+      "location": 2,
+      "content": "has been preserved.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 121.84,
+      "to": 123.04,
+      "sid": 61,
+      "location": 2,
+      "content": "In practice,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 123.04,
+      "to": 125.4,
+      "sid": 62,
+      "location": 2,
+      "content": "to force entry into a closed interstate highway from the outside,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 125.4,
+      "to": 127.009,
+      "sid": 63,
+      "location": 2,
+      "content": "you just need to get over this small hill.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 127.009,
+      "to": 129.129,
+      "sid": 64,
+      "location": 2,
+      "content": "But I, being law-abiding, still stand on the highway.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 129.129,
+      "to": 131.969,
+      "sid": 65,
+      "location": 2,
+      "content": "Listen to the roaring sound of the heat waves from passing vehicles.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 135.94,
+      "to": 138.02,
+      "sid": 66,
+      "location": 2,
+      "content": "On the highway bridge less than a kilometer from the town,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 138.02,
+      "to": 140.269,
+      "sid": 67,
+      "location": 2,
+      "content": "you can also see the Interstate 40 below.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 140.269,
+      "to": 141.669,
+      "sid": 68,
+      "location": 2,
+      "content": "This fully enclosed road,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 141.669,
+      "to": 142.889,
+      "sid": 69,
+      "location": 2,
+      "content": "while it has increased efficiency,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 142.889,
+      "to": 146.029,
+      "sid": 70,
+      "location": 2,
+      "content": "also means that the highway must bypass the villages along the way.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 146.029,
+      "to": 148.529,
+      "sid": 71,
+      "location": 2,
+      "content": "Travelers no longer stop to spend money as they used to.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 148.529,
+      "to": 151.7,
+      "sid": 72,
+      "location": 2,
+      "content": "Now, many such towns have only a few hundred residents left.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 151.7,
+      "to": 152.9,
+      "sid": 73,
+      "location": 2,
+      "content": "Glorieta is completely deserted",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 152.9,
+      "to": 154.66,
+      "sid": 74,
+      "location": 2,
+      "content": "mainly because within a 60km radius",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 154.66,
+      "to": 156.36,
+      "sid": 75,
+      "location": 2,
+      "content": "there isn't a single town with over a thousand residents",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 156.36,
+      "to": 157.1,
+      "sid": 76,
+      "location": 2,
+      "content": "staying here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 157.1,
+      "to": 158.0,
+      "sid": 77,
+      "location": 2,
+      "content": "is extremely inconvenient",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 158.0,
+      "to": 159.34,
+      "sid": 78,
+      "location": 2,
+      "content": "now leaving Glorieta",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 159.34,
+      "to": 160.16,
+      "sid": 79,
+      "location": 2,
+      "content": "let me show you",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 160.16,
+      "to": 161.08,
+      "sid": 80,
+      "location": 2,
+      "content": "a 20-minute drive away",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 161.08,
+      "to": 164.06,
+      "sid": 81,
+      "location": 2,
+      "content": "the small town of San Jon in New Mexico, which still has 195 residents",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 164.06,
+      "to": 166.78,
+      "sid": 82,
+      "location": 2,
+      "content": "This unmanned highway exit is perfect for long-distance drives.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 166.78,
+      "to": 167.8,
+      "sid": 83,
+      "location": 2,
+      "content": "You can pull over and take a nap.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 167.8,
+      "to": 169.64,
+      "sid": 84,
+      "location": 2,
+      "content": "There’s a car parked on the right for a rest.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 169.64,
+      "to": 172.7,
+      "sid": 85,
+      "location": 2,
+      "content": "The yellow sign ahead says 'Welcome to New Mexico'.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 172.7,
+      "to": 175.06,
+      "sid": 86,
+      "location": 2,
+      "content": "As soon as you enter New Mexico, there’s a small rest area.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 175.06,
+      "to": 176.42,
+      "sid": 87,
+      "location": 2,
+      "content": "Many trucks are parked here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 176.42,
+      "to": 178.0,
+      "sid": 88,
+      "location": 2,
+      "content": "I’ll take the opportunity to check my phone.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 178.0,
+      "to": 178.8,
+      "sid": 89,
+      "location": 2,
+      "content": "I was back in China recently.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 178.8,
+      "to": 181.2,
+      "sid": 90,
+      "location": 2,
+      "content": "I bought this 95% new iPhone 14 on OfferUp.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 181.2,
+      "to": 181.68,
+      "sid": 91,
+      "location": 2,
+      "content": "Pro max",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 181.68,
+      "to": 183.16,
+      "sid": 92,
+      "location": 2,
+      "content": "for just 4,548 yuan",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 183.16,
+      "to": 184.56,
+      "sid": 93,
+      "location": 2,
+      "content": "which is only a third of the price of a new one",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 184.56,
+      "to": 186.24,
+      "sid": 94,
+      "location": 2,
+      "content": "outstanding camera for shooting high-quality videos at 120 frames per second",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 186.24,
+      "to": 187.2,
+      "sid": 95,
+      "location": 2,
+      "content": "smooth gaming experience with high refresh rate",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 187.2,
+      "to": 188.04,
+      "sid": 96,
+      "location": 2,
+      "content": "extremely high cost-effectiveness",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 188.04,
+      "to": 188.96,
+      "sid": 97,
+      "location": 2,
+      "content": "Zhuazhu New Year's Big Sale",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 188.96,
+      "to": 190.74,
+      "sid": 98,
+      "location": 2,
+      "content": "it's a great deal to buy a phone from them right now",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 190.74,
+      "to": 192.13,
+      "sid": 99,
+      "location": 2,
+      "content": "and Zhuazhu offers more than just phones",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 192.13,
+      "to": 193.81,
+      "sid": 100,
+      "location": 2,
+      "content": "Last century, you could still find LG Magic on the platform.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 193.81,
+      "to": 195.98,
+      "sid": 101,
+      "location": 2,
+      "content": "The new moon easily powers the Black Myth to run smoothly.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 195.98,
+      "to": 197.46,
+      "sid": 102,
+      "location": 2,
+      "content": "It's a leading professional second-hand platform in the country.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 197.46,
+      "to": 199.04,
+      "sid": 103,
+      "location": 2,
+      "content": "Equipped with various patented quality inspection devices.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 199.04,
+      "to": 201.2,
+      "sid": 104,
+      "location": 2,
+      "content": "Each item undergoes a comprehensive inspection by professional engineers.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 201.2,
+      "to": 203.32,
+      "sid": 105,
+      "location": 2,
+      "content": "And it offers a seven-day no-questions-asked return policy and a one-year warranty.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 203.32,
+      "to": 204.68,
+      "sid": 106,
+      "location": 2,
+      "content": "Even during the Spring Festival, deliveries continue as usual.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 204.68,
+      "to": 205.44,
+      "sid": 107,
+      "location": 2,
+      "content": "Head over to Zhaunzhaun now.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 205.44,
+      "to": 208.44,
+      "sid": 108,
+      "location": 2,
+      "content": "Search for the code 85591, and you might get a chance to buy the iPhone 16 Pro for just 1 yuan.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 208.44,
+      "to": 209.68,
+      "sid": 109,
+      "location": 2,
+      "content": "You can still claim a coupon worth up to a thousand yuan.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 209.68,
+      "to": 210.48,
+      "sid": 110,
+      "location": 2,
+      "content": "Take advantage of the New Year's big sale.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 210.48,
+      "to": 211.08,
+      "sid": 111,
+      "location": 2,
+      "content": "Everyone, hurry over and check it out.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 211.08,
+      "to": 212.32,
+      "sid": 112,
+      "location": 2,
+      "content": "It’s time to upgrade your digital gadgets.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 212.32,
+      "to": 212.64,
+      "sid": 113,
+      "location": 2,
+      "content": "Alright.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 212.64,
+      "to": 214.04,
+      "sid": 114,
+      "location": 2,
+      "content": "Now I’ve teleported to Glorieta.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 214.04,
+      "to": 216.12,
+      "sid": 115,
+      "location": 2,
+      "content": "Thirty kilometers west, there are 195 people in the town of San Jon,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 216.12,
+      "to": 218.07,
+      "sid": 116,
+      "location": 2,
+      "content": "New Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 218.07,
+      "to": 219.91,
+      "sid": 117,
+      "location": 2,
+      "content": "Although there are quite a few abandoned houses around here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 219.91,
+      "to": 221.55,
+      "sid": 118,
+      "location": 2,
+      "content": "After all, there are still residents here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 221.55,
+      "to": 223.9,
+      "sid": 119,
+      "location": 2,
+      "content": "The main street is still lit by some faint lights.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 223.9,
+      "to": 225.84,
+      "sid": 120,
+      "location": 2,
+      "content": "I'm now driving down the main street of Saint Horn.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 225.84,
+      "to": 227.84,
+      "sid": 121,
+      "location": 2,
+      "content": "It's also part of the old Route 66.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 227.84,
+      "to": 230.93,
+      "sid": 122,
+      "location": 2,
+      "content": "The yellow building ahead is the post office of Saint Horn.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 230.93,
+      "to": 232.91,
+      "sid": 123,
+      "location": 2,
+      "content": "This post office is only open for six hours a day.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 232.91,
+      "to": 234.99,
+      "sid": 124,
+      "location": 2,
+      "content": "It's common practice not to turn off the lights.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 234.99,
+      "to": 236.34,
+      "sid": 125,
+      "location": 2,
+      "content": "It's definitely not in operation.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 236.34,
+      "to": 237.94,
+      "sid": 126,
+      "location": 2,
+      "content": "This post office serves the town's residents.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 237.94,
+      "to": 240.34,
+      "sid": 127,
+      "location": 2,
+      "content": "This is also the only part of the old Route 66 that's still commercial in St. Helens.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 240.34,
+      "to": 242.0,
+      "sid": 128,
+      "location": 2,
+      "content": "It's the only business left in Ginza.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 242.0,
+      "to": 244.52,
+      "sid": 129,
+      "location": 2,
+      "content": "Under the dim streetlights, there are old abandoned houses everywhere.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 244.52,
+      "to": 246.66,
+      "sid": 130,
+      "location": 2,
+      "content": "But it's actually fine to drive normally at night.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 246.66,
+      "to": 248.66,
+      "sid": 131,
+      "location": 2,
+      "content": "The roadsides are pitch black on both sides.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 248.66,
+      "to": 249.78,
+      "sid": 132,
+      "location": 2,
+      "content": "Unless you're like me,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 249.78,
+      "to": 251.96,
+      "sid": 133,
+      "location": 2,
+      "content": "insisting on shining your headlights on the buildings along the road.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 251.96,
+      "to": 254.08,
+      "sid": 134,
+      "location": 2,
+      "content": "Next to the main street, there's also a local resident.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 254.08,
+      "to": 256.51,
+      "sid": 135,
+      "location": 2,
+      "content": "When I went, it was just about time for Christmas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 256.51,
+      "to": 258.25,
+      "sid": 136,
+      "location": 2,
+      "content": "It looks like they've also hung up some lanterns.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 258.25,
+      "to": 258.99,
+      "sid": 137,
+      "location": 2,
+      "content": "Follow the main street all the way to the end.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 258.99,
+      "to": 261.85,
+      "sid": 138,
+      "location": 2,
+      "content": "That’s where the Saint Horn Inn, which has been in business since 1946, is located.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 261.85,
+      "to": 262.79,
+      "sid": 139,
+      "location": 2,
+      "content": "I was wondering at the time,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 262.79,
+      "to": 264.32,
+      "sid": 140,
+      "location": 2,
+      "content": "why there wasn’t a single person around in the evening.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 264.32,
+      "to": 265.24,
+      "sid": 141,
+      "location": 2,
+      "content": "I checked the map,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 265.24,
+      "to": 266.52,
+      "sid": 142,
+      "location": 2,
+      "content": "and it showed that it had permanently closed.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 266.52,
+      "to": 268.4,
+      "sid": 143,
+      "location": 2,
+      "content": "But it was still operational in 2023.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 268.4,
+      "to": 270.32,
+      "sid": 144,
+      "location": 2,
+      "content": "Back in the day, Saint Horn had several inns.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 270.32,
+      "to": 273.46,
+      "sid": 145,
+      "location": 2,
+      "content": "There are still some remnants from those days out in the wilderness beyond the town.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 273.46,
+      "to": 276.34,
+      "sid": 146,
+      "location": 2,
+      "content": "Although Saint Horn was largely abandoned in its middle period,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 276.34,
+      "to": 279.34,
+      "sid": 147,
+      "location": 2,
+      "content": "it is close to the exit of today's Interstate 40.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 279.34,
+      "to": 280.9,
+      "sid": 148,
+      "location": 2,
+      "content": "There are still some new commercial establishments,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 280.9,
+      "to": 282.14,
+      "sid": 149,
+      "location": 2,
+      "content": "like this gas station,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 282.14,
+      "to": 283.18,
+      "sid": 150,
+      "location": 2,
+      "content": "across from which,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 283.18,
+      "to": 285.7,
+      "sid": 151,
+      "location": 2,
+      "content": "there used to be a newly built Shell station,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 285.7,
+      "to": 287.28,
+      "sid": 152,
+      "location": 2,
+      "content": "but for some reason, it went out of business.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 287.28,
+      "to": 288.72,
+      "sid": 153,
+      "location": 2,
+      "content": "There’s also an empty house nearby.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 288.72,
+      "to": 290.9,
+      "sid": 154,
+      "location": 2,
+      "content": "The structure looks like the old town church.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 290.9,
+      "to": 292.48,
+      "sid": 155,
+      "location": 2,
+      "content": "This is the truck parking lot of the gas station.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 292.48,
+      "to": 295.39,
+      "sid": 156,
+      "location": 2,
+      "content": "Behind it is the town park and the newly built community center.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 295.39,
+      "to": 298.29,
+      "sid": 157,
+      "location": 2,
+      "content": "Most of these buildings are centered around the new Interstate 40.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 298.29,
+      "to": 300.11,
+      "sid": 158,
+      "location": 2,
+      "content": "Rather than the old Route 66.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 300.11,
+      "to": 301.909,
+      "sid": 159,
+      "location": 2,
+      "content": "It's quite similar to Glorieta we just saw.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 301.909,
+      "to": 304.429,
+      "sid": 160,
+      "location": 2,
+      "content": "The old Route 66 outside the core of Stone Lake Inn",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 304.429,
+      "to": 306.229,
+      "sid": 161,
+      "location": 2,
+      "content": "has turned into a bumpy gravel road.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 306.229,
+      "to": 307.429,
+      "sid": 162,
+      "location": 2,
+      "content": "You can still faintly see",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 307.429,
+      "to": 309.89,
+      "sid": 163,
+      "location": 2,
+      "content": "the headlights of vehicles coming and going on Interstate 40.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 309.89,
+      "to": 310.61,
+      "sid": 164,
+      "location": 2,
+      "content": "Magnolia.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 310.61,
+      "to": 311.63,
+      "sid": 165,
+      "location": 2,
+      "content": "There are also quite a few gas tanks.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 311.63,
+      "to": 313.59,
+      "sid": 166,
+      "location": 2,
+      "content": "It seems there are many farms around here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 313.59,
+      "to": 316.63,
+      "sid": 167,
+      "location": 2,
+      "content": "Five minutes later, we saw a 'You Shall Not Pass' sign.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 316.63,
+      "to": 317.55,
+      "sid": 168,
+      "location": 2,
+      "content": "In theory,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 317.55,
+      "to": 319.96,
+      "sid": 169,
+      "location": 2,
+      "content": "this stretch of road should offer a view of the beginning of the video, Glenrio.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 319.96,
+      "to": 322.89,
+      "sid": 170,
+      "location": 2,
+      "content": "But this kind of road is quite challenging for my sedan.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 322.89,
+      "to": 325.51,
+      "sid": 171,
+      "location": 2,
+      "content": "So I had to stick to the interstate highway.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 325.51,
+      "to": 325.93,
+      "sid": 172,
+      "location": 2,
+      "content": "Alright,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 325.93,
+      "to": 327.15,
+      "sid": 173,
+      "location": 2,
+      "content": "that's it for this video.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 327.15,
+      "to": 330.1,
+      "sid": 174,
+      "location": 2,
+      "content": "Follow me to explore more places that normal people wouldn't venture into.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    }
+  ]
+}

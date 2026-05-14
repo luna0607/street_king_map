@@ -1,0 +1,2572 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.44,
+      "sid": 1,
+      "location": 2,
+      "content": "今天带大家看一个美国非传统黑人区",
+      "music": 0.0
+    },
+    {
+      "from": 2.44,
+      "to": 4.54,
+      "sid": 2,
+      "location": 2,
+      "content": "索马里人在非洲外最大的聚集地",
+      "music": 0.0
+    },
+    {
+      "from": 4.54,
+      "to": 6.48,
+      "sid": 3,
+      "location": 2,
+      "content": "位于全美国最北的大都会区",
+      "music": 0.0
+    },
+    {
+      "from": 6.48,
+      "to": 8.46,
+      "sid": 4,
+      "location": 2,
+      "content": "明尼布里斯的索马里移民区",
+      "music": 0.0
+    },
+    {
+      "from": 8.46,
+      "to": 10.74,
+      "sid": 5,
+      "location": 2,
+      "content": "这里的索马里人大部分都是1991年",
+      "music": 0.0
+    },
+    {
+      "from": 10.74,
+      "to": 11.7,
+      "sid": 6,
+      "location": 2,
+      "content": "索马里内战后",
+      "music": 0.0
+    },
+    {
+      "from": 11.7,
+      "to": 14.54,
+      "sid": 7,
+      "location": 2,
+      "content": "作为难民逃难到明尼阿波利斯的这个城市",
+      "music": 0.0
+    },
+    {
+      "from": 14.54,
+      "to": 16.219,
+      "sid": 8,
+      "location": 2,
+      "content": "不止接受了索马里难民",
+      "music": 0.0
+    },
+    {
+      "from": 16.219,
+      "to": 17.339,
+      "sid": 9,
+      "location": 2,
+      "content": "当年越战的时候",
+      "music": 0.0
+    },
+    {
+      "from": 17.339,
+      "to": 19.799,
+      "sid": 10,
+      "location": 2,
+      "content": "很多在老挝的苗族人是支持美军的",
+      "music": 0.0
+    },
+    {
+      "from": 19.799,
+      "to": 20.459,
+      "sid": 11,
+      "location": 2,
+      "content": "战败之后",
+      "music": 0.0
+    },
+    {
+      "from": 20.459,
+      "to": 22.09,
+      "sid": 12,
+      "location": 2,
+      "content": "他们就遭到了当局的报复",
+      "music": 0.0
+    },
+    {
+      "from": 22.09,
+      "to": 24.05,
+      "sid": 13,
+      "location": 2,
+      "content": "很多人通过泰国的难民营逃出来",
+      "music": 0.0
+    },
+    {
+      "from": 24.05,
+      "to": 25.96,
+      "sid": 14,
+      "location": 2,
+      "content": "最后也在明尼阿波利斯安家了",
+      "music": 0.0
+    },
+    {
+      "from": 25.96,
+      "to": 28.16,
+      "sid": 15,
+      "location": 2,
+      "content": "苗族人区就在索马里人区隔壁",
+      "music": 0.0
+    },
+    {
+      "from": 28.16,
+      "to": 29.62,
+      "sid": 16,
+      "location": 2,
+      "content": "等会我也会去看看他们",
+      "music": 0.0
+    },
+    {
+      "from": 29.62,
+      "to": 31.76,
+      "sid": 17,
+      "location": 2,
+      "content": "现在先来吃个索马里饭试试看",
+      "music": 0.0
+    },
+    {
+      "from": 31.76,
+      "to": 34.48,
+      "sid": 18,
+      "location": 2,
+      "content": "一进这个叫哈迪姆的餐厅就感觉很正宗",
+      "music": 0.0
+    },
+    {
+      "from": 34.48,
+      "to": 36.0,
+      "sid": 19,
+      "location": 2,
+      "content": "里面一看都是本地人",
+      "music": 0.0
+    },
+    {
+      "from": 36.0,
+      "to": 37.16,
+      "sid": 20,
+      "location": 2,
+      "content": "而且不少人看打扮",
+      "music": 0.0
+    },
+    {
+      "from": 37.16,
+      "to": 39.46,
+      "sid": 21,
+      "location": 2,
+      "content": "有点像刻板印象中的非洲部落酋长",
+      "music": 0.0
+    },
+    {
+      "from": 39.46,
+      "to": 41.58,
+      "sid": 22,
+      "location": 2,
+      "content": "不过索马里确实也是一个部族社会",
+      "music": 0.0
+    },
+    {
+      "from": 41.58,
+      "to": 44.16,
+      "sid": 23,
+      "location": 2,
+      "content": "当年内战很大原因就是因为那高压统治",
+      "music": 0.0
+    },
+    {
+      "from": 44.16,
+      "to": 45.56,
+      "sid": 24,
+      "location": 2,
+      "content": "但大部分人只认部族",
+      "music": 0.0
+    },
+    {
+      "from": 45.56,
+      "to": 46.32,
+      "sid": 25,
+      "location": 2,
+      "content": "不认国家",
+      "music": 0.0
+    },
+    {
+      "from": 46.32,
+      "to": 47.94,
+      "sid": 26,
+      "location": 2,
+      "content": "之后就变成军阀混战了",
+      "music": 0.0
+    },
+    {
+      "from": 47.94,
+      "to": 49.46,
+      "sid": 27,
+      "location": 2,
+      "content": "如今在明尼阿波利斯的难民",
+      "music": 0.0
+    },
+    {
+      "from": 49.46,
+      "to": 50.66,
+      "sid": 28,
+      "location": 2,
+      "content": "大部分也是部落里的",
+      "music": 0.0
+    },
+    {
+      "from": 50.66,
+      "to": 51.42,
+      "sid": 29,
+      "location": 2,
+      "content": "不知道大家有没有",
+      "music": 0.0
+    },
+    {
+      "from": 51.42,
+      "to": 53.44,
+      "sid": 30,
+      "location": 2,
+      "content": "对这家店的装修有一点熟悉感",
+      "music": 0.0
+    },
+    {
+      "from": 53.44,
+      "to": 55.48,
+      "sid": 31,
+      "location": 2,
+      "content": "如果流星翼子和玻璃上面的图案",
+      "music": 0.0
+    },
+    {
+      "from": 55.48,
+      "to": 57.42,
+      "sid": 32,
+      "location": 2,
+      "content": "这里原先其实是一家中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 57.42,
+      "to": 59.14,
+      "sid": 33,
+      "location": 2,
+      "content": "店里所有的人对我也挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 59.14,
+      "to": 61.04,
+      "sid": 34,
+      "location": 2,
+      "content": "我猜这种民族餐厅一般也见不到",
+      "music": 0.0
+    },
+    {
+      "from": 61.04,
+      "to": 62.6,
+      "sid": 35,
+      "location": 2,
+      "content": "不是索马里的人来吃",
+      "music": 0.0
+    },
+    {
+      "from": 62.6,
+      "to": 64.36,
+      "sid": 36,
+      "location": 2,
+      "content": "我点了一盆羊肉饭配沙拉",
+      "music": 0.0
+    },
+    {
+      "from": 64.36,
+      "to": 65.66,
+      "sid": 37,
+      "location": 2,
+      "content": "还送了一碗汤给我",
+      "music": 0.0
+    },
+    {
+      "from": 65.66,
+      "to": 67.23,
+      "sid": 38,
+      "location": 2,
+      "content": "味道跟新疆菜差不多",
+      "music": 0.0
+    },
+    {
+      "from": 67.23,
+      "to": 70.23,
+      "sid": 39,
+      "location": 2,
+      "content": "最大的区别就是索马里人吃饭必须配香蕉吃",
+      "music": 0.0
+    },
+    {
+      "from": 70.23,
+      "to": 71.07,
+      "sid": 40,
+      "location": 2,
+      "content": "老观众也知道",
+      "music": 0.0
+    },
+    {
+      "from": 71.07,
+      "to": 73.06,
+      "sid": 41,
+      "location": 2,
+      "content": "这是我频道出现频率最高的水果",
+      "music": 0.0
+    },
+    {
+      "from": 73.06,
+      "to": 74.54,
+      "sid": 42,
+      "location": 2,
+      "content": "不仅是没有收我的小费",
+      "music": 0.0
+    },
+    {
+      "from": 74.54,
+      "to": 76.28,
+      "sid": 43,
+      "location": 2,
+      "content": "还多送了我两根香蕉带走",
+      "music": 0.0
+    },
+    {
+      "from": 76.28,
+      "to": 77.14,
+      "sid": 44,
+      "location": 2,
+      "content": "吃完再去逛逛",
+      "music": 0.0
+    },
+    {
+      "from": 77.14,
+      "to": 78.42,
+      "sid": 45,
+      "location": 2,
+      "content": "索马里人的购物中心",
+      "music": 0.0
+    },
+    {
+      "from": 78.42,
+      "to": 80.39,
+      "sid": 46,
+      "location": 2,
+      "content": "就是前面这个有尖塔的房子",
+      "music": 0.0
+    },
+    {
+      "from": 80.39,
+      "to": 82.05,
+      "sid": 47,
+      "location": 2,
+      "content": "他们上面几层是居民楼",
+      "music": 0.0
+    },
+    {
+      "from": 82.05,
+      "to": 84.77,
+      "sid": 48,
+      "location": 2,
+      "content": "最底下三层是卖索马里商品的购物中心",
+      "music": 0.0
+    },
+    {
+      "from": 84.77,
+      "to": 86.62,
+      "sid": 49,
+      "location": 2,
+      "content": "这个小商场的生意还真不错",
+      "music": 0.0
+    },
+    {
+      "from": 86.62,
+      "to": 87.98,
+      "sid": 50,
+      "location": 2,
+      "content": "路两边都停满了车",
+      "music": 0.0
+    },
+    {
+      "from": 87.98,
+      "to": 90.3,
+      "sid": 51,
+      "location": 2,
+      "content": "我多开了好几个街区才找到停车位",
+      "music": 0.0
+    },
+    {
+      "from": 90.3,
+      "to": 91.78,
+      "sid": 52,
+      "location": 2,
+      "content": "这周边的绿化也还行",
+      "music": 0.0
+    },
+    {
+      "from": 91.78,
+      "to": 93.46,
+      "sid": 53,
+      "location": 2,
+      "content": "桥底下这个树林应该是拆掉的",
+      "music": 0.0
+    },
+    {
+      "from": 93.46,
+      "to": 94.68,
+      "sid": 54,
+      "location": 2,
+      "content": "铁路改成了小径",
+      "music": 0.0
+    },
+    {
+      "from": 94.68,
+      "to": 95.62,
+      "sid": 55,
+      "location": 2,
+      "content": "明尼阿波利斯",
+      "music": 0.0
+    },
+    {
+      "from": 95.62,
+      "to": 97.98,
+      "sid": 56,
+      "location": 2,
+      "content": "并不是纽约那样的高密度国际大都市",
+      "music": 0.0
+    },
+    {
+      "from": 97.98,
+      "to": 100.36,
+      "sid": 57,
+      "location": 2,
+      "content": "而是坐落在美国中西部苦寒之地",
+      "music": 0.0
+    },
+    {
+      "from": 100.36,
+      "to": 102.26,
+      "sid": 58,
+      "location": 2,
+      "content": "这里的纬度跟哈尔滨差不多",
+      "music": 0.0
+    },
+    {
+      "from": 102.26,
+      "to": 104.66,
+      "sid": 59,
+      "location": 2,
+      "content": "冬天平均气温都是零下十几20度",
+      "music": 0.0
+    },
+    {
+      "from": 104.66,
+      "to": 107.36,
+      "sid": 60,
+      "location": 2,
+      "content": "而索马里全年的气温都是在30度上下",
+      "music": 0.0
+    },
+    {
+      "from": 107.36,
+      "to": 108.46,
+      "sid": 61,
+      "location": 2,
+      "content": "而且仅靠海洋",
+      "music": 0.0
+    },
+    {
+      "from": 108.46,
+      "to": 110.48,
+      "sid": 62,
+      "location": 2,
+      "content": "相信大家也都听说过索马里海盗",
+      "music": 0.0
+    },
+    {
+      "from": 110.48,
+      "to": 113.4,
+      "sid": 63,
+      "location": 2,
+      "content": "一是因为经济明尼苏达州是一个大农业州",
+      "music": 0.0
+    },
+    {
+      "from": 113.4,
+      "to": 115.44,
+      "sid": 64,
+      "location": 2,
+      "content": "在90年代畜牧业很缺人手",
+      "music": 0.0
+    },
+    {
+      "from": 115.44,
+      "to": 117.75,
+      "sid": 65,
+      "location": 2,
+      "content": "尤其是屠宰场这种脏活累活",
+      "music": 0.0
+    },
+    {
+      "from": 117.75,
+      "to": 119.23,
+      "sid": 66,
+      "location": 2,
+      "content": "本地人是不太愿意干的",
+      "music": 0.0
+    },
+    {
+      "from": 119.23,
+      "to": 121.27,
+      "sid": 67,
+      "location": 2,
+      "content": "二是因为明尼苏达这个州的政治气氛",
+      "music": 0.0
+    },
+    {
+      "from": 121.27,
+      "to": 122.69,
+      "sid": 68,
+      "location": 2,
+      "content": "一直是比较自由派的",
+      "music": 0.0
+    },
+    {
+      "from": 122.69,
+      "to": 124.39,
+      "sid": 69,
+      "location": 2,
+      "content": "在1972年的尼克松之后",
+      "music": 0.0
+    },
+    {
+      "from": 124.39,
+      "to": 126.13,
+      "sid": 70,
+      "location": 2,
+      "content": "这个州再也没有投过共和党",
+      "music": 0.0
+    },
+    {
+      "from": 126.13,
+      "to": 128.47,
+      "sid": 71,
+      "location": 2,
+      "content": "算是美国所有大农业州里面的特例",
+      "music": 0.0
+    },
+    {
+      "from": 128.47,
+      "to": 130.16,
+      "sid": 72,
+      "location": 2,
+      "content": "这里的人包容性比较强",
+      "music": 0.0
+    },
+    {
+      "from": 130.16,
+      "to": 131.72,
+      "sid": 73,
+      "location": 2,
+      "content": "当年有很多本地非营利组织",
+      "music": 0.0
+    },
+    {
+      "from": 131.72,
+      "to": 134.04,
+      "sid": 74,
+      "location": 2,
+      "content": "都志愿帮助难民安家找工作什么的",
+      "music": 0.0
+    },
+    {
+      "from": 134.04,
+      "to": 136.0,
+      "sid": 75,
+      "location": 2,
+      "content": "第三就是索马里人的族群意识",
+      "music": 0.0
+    },
+    {
+      "from": 136.0,
+      "to": 137.76,
+      "sid": 76,
+      "location": 2,
+      "content": "所有的移民也都喜欢抱团",
+      "music": 0.0
+    },
+    {
+      "from": 137.76,
+      "to": 139.12,
+      "sid": 77,
+      "location": 2,
+      "content": "来了一个就呼朋唤友",
+      "music": 0.0
+    },
+    {
+      "from": 139.12,
+      "to": 141.5,
+      "sid": 78,
+      "location": 2,
+      "content": "还可以把身在索马里的家人都接过来",
+      "music": 0.0
+    },
+    {
+      "from": 141.5,
+      "to": 143.02,
+      "sid": 79,
+      "location": 2,
+      "content": "而且一个族群形成了规模",
+      "music": 0.0
+    },
+    {
+      "from": 143.02,
+      "to": 144.06,
+      "sid": 80,
+      "location": 2,
+      "content": "办事情也方便",
+      "music": 0.0
+    },
+    {
+      "from": 144.06,
+      "to": 146.35,
+      "sid": 81,
+      "location": 2,
+      "content": "这个购物中心里面有各种各样的服务",
+      "music": 0.0
+    },
+    {
+      "from": 146.35,
+      "to": 147.83,
+      "sid": 82,
+      "location": 2,
+      "content": "像是报税律师",
+      "music": 0.0
+    },
+    {
+      "from": 147.83,
+      "to": 149.01,
+      "sid": 83,
+      "location": 2,
+      "content": "旅行社办签证",
+      "music": 0.0
+    },
+    {
+      "from": 149.01,
+      "to": 151.33,
+      "sid": 84,
+      "location": 2,
+      "content": "这里旅行社办中国签证的业务也挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 151.33,
+      "to": 153.59,
+      "sid": 85,
+      "location": 2,
+      "content": "毕竟商场里的货大部分都是中国进的",
+      "music": 0.0
+    },
+    {
+      "from": 153.59,
+      "to": 155.61,
+      "sid": 86,
+      "location": 2,
+      "content": "I see everything for chin",
+      "music": 0.0
+    },
+    {
+      "from": 155.61,
+      "to": 156.81,
+      "sid": 87,
+      "location": 2,
+      "content": "I will see from china",
+      "music": 0.0
+    },
+    {
+      "from": 156.81,
+      "to": 157.21,
+      "sid": 88,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 157.21,
+      "to": 157.97,
+      "sid": 89,
+      "location": 2,
+      "content": "Twenty six years",
+      "music": 0.0
+    },
+    {
+      "from": 157.97,
+      "to": 158.61,
+      "sid": 90,
+      "location": 2,
+      "content": "I came here",
+      "music": 0.0
+    },
+    {
+      "from": 158.61,
+      "to": 158.97,
+      "sid": 91,
+      "location": 2,
+      "content": "Nine",
+      "music": 0.0
+    },
+    {
+      "from": 158.97,
+      "to": 159.33,
+      "sid": 92,
+      "location": 2,
+      "content": "Nineteen",
+      "music": 0.0
+    },
+    {
+      "from": 159.33,
+      "to": 159.61,
+      "sid": 93,
+      "location": 2,
+      "content": "Ninety",
+      "music": 0.0
+    },
+    {
+      "from": 159.61,
+      "to": 160.01,
+      "sid": 94,
+      "location": 2,
+      "content": "Six",
+      "music": 0.0
+    },
+    {
+      "from": 160.01,
+      "to": 161.23,
+      "sid": 95,
+      "location": 2,
+      "content": "Fifteen or twenty years",
+      "music": 0.0
+    },
+    {
+      "from": 161.23,
+      "to": 162.59,
+      "sid": 96,
+      "location": 2,
+      "content": "Every year one time",
+      "music": 0.0
+    },
+    {
+      "from": 162.59,
+      "to": 162.97,
+      "sid": 97,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 162.97,
+      "to": 163.87,
+      "sid": 98,
+      "location": 2,
+      "content": "Go to one juice",
+      "music": 0.0
+    },
+    {
+      "from": 163.87,
+      "to": 167.45,
+      "sid": 99,
+      "location": 2,
+      "content": "If you only one job is america flag made in china",
+      "music": 0.0
+    },
+    {
+      "from": 167.45,
+      "to": 168.91,
+      "sid": 100,
+      "location": 2,
+      "content": "America flag made in china",
+      "music": 0.0
+    },
+    {
+      "from": 168.91,
+      "to": 170.03,
+      "sid": 101,
+      "location": 2,
+      "content": "All is china",
+      "music": 0.0
+    },
+    {
+      "from": 170.03,
+      "to": 170.79,
+      "sid": 102,
+      "location": 2,
+      "content": "China is great",
+      "music": 0.0
+    },
+    {
+      "from": 170.79,
+      "to": 174.03,
+      "sid": 103,
+      "location": 2,
+      "content": "And chinese a great business for business is good china",
+      "music": 0.0
+    },
+    {
+      "from": 174.03,
+      "to": 174.43,
+      "sid": 104,
+      "location": 2,
+      "content": "No fighting",
+      "music": 0.0
+    },
+    {
+      "from": 174.43,
+      "to": 175.3,
+      "sid": 105,
+      "location": 2,
+      "content": "No fighting is good",
+      "music": 0.0
+    },
+    {
+      "from": 175.3,
+      "to": 175.68,
+      "sid": 106,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 175.68,
+      "to": 177.9,
+      "sid": 107,
+      "location": 2,
+      "content": "Fighting fighting finish china",
+      "music": 0.0
+    },
+    {
+      "from": 177.9,
+      "to": 179.57,
+      "sid": 108,
+      "location": 2,
+      "content": "We make buy all over the world",
+      "music": 0.0
+    },
+    {
+      "from": 179.57,
+      "to": 181.07,
+      "sid": 109,
+      "location": 2,
+      "content": "Africa asia",
+      "music": 0.0
+    },
+    {
+      "from": 181.07,
+      "to": 183.43,
+      "sid": 110,
+      "location": 2,
+      "content": "阿拉伯in china",
+      "music": 0.0
+    },
+    {
+      "from": 183.43,
+      "to": 184.49,
+      "sid": 111,
+      "location": 2,
+      "content": "Everywhere in china",
+      "music": 0.0
+    },
+    {
+      "from": 184.49,
+      "to": 187.23,
+      "sid": 112,
+      "location": 2,
+      "content": "最后我也买了一件写着我爱索马里的T恤衫",
+      "music": 0.0
+    },
+    {
+      "from": 187.23,
+      "to": 189.32,
+      "sid": 113,
+      "location": 2,
+      "content": "支持一下老哥15美元",
+      "music": 0.0
+    },
+    {
+      "from": 189.32,
+      "to": 191.82,
+      "sid": 114,
+      "location": 2,
+      "content": "没想到义乌小商品竟用索马里人之手",
+      "music": 0.0
+    },
+    {
+      "from": 191.82,
+      "to": 193.46,
+      "sid": 115,
+      "location": 2,
+      "content": "在美国又卖给了一个中国人",
+      "music": 0.0
+    },
+    {
+      "from": 193.46,
+      "to": 196.01,
+      "sid": 116,
+      "location": 2,
+      "content": "如今索马里的情况比起之前也好了一些",
+      "music": 0.0
+    },
+    {
+      "from": 196.01,
+      "to": 196.45,
+      "sid": 117,
+      "location": 2,
+      "content": "不少",
+      "music": 0.0
+    },
+    {
+      "from": 196.45,
+      "to": 198.77,
+      "sid": 118,
+      "location": 2,
+      "content": "迷恋阿布利斯的索马里人也有回去投资的",
+      "music": 0.0
+    },
+    {
+      "from": 198.77,
+      "to": 201.13,
+      "sid": 119,
+      "location": 2,
+      "content": "走之前看看这个商场里有卖什么小吃",
+      "music": 0.0
+    },
+    {
+      "from": 201.13,
+      "to": 203.8,
+      "sid": 120,
+      "location": 2,
+      "content": "这个糕点店卖的都是一些糖油混合物",
+      "music": 0.0
+    },
+    {
+      "from": 203.8,
+      "to": 205.56,
+      "sid": 121,
+      "location": 2,
+      "content": "看这个袋子就知道有多油了",
+      "music": 0.0
+    },
+    {
+      "from": 205.56,
+      "to": 206.78,
+      "sid": 122,
+      "location": 2,
+      "content": "而且加了很多的糖",
+      "music": 0.0
+    },
+    {
+      "from": 206.78,
+      "to": 207.88,
+      "sid": 123,
+      "location": 2,
+      "content": "虽然说挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 207.88,
+      "to": 209.31,
+      "sid": 124,
+      "location": 2,
+      "content": "但是直接给我干晕碳了",
+      "music": 0.0
+    },
+    {
+      "from": 209.31,
+      "to": 210.67,
+      "sid": 125,
+      "location": 2,
+      "content": "在告苗族人去之前",
+      "music": 0.0
+    },
+    {
+      "from": 210.67,
+      "to": 211.85,
+      "sid": 126,
+      "location": 2,
+      "content": "先找个地方睡一会儿",
+      "music": 0.0
+    },
+    {
+      "from": 211.85,
+      "to": 213.15,
+      "sid": 127,
+      "location": 2,
+      "content": "正好给大家分享一个",
+      "music": 0.0
+    },
+    {
+      "from": 213.15,
+      "to": 215.22,
+      "sid": 128,
+      "location": 2,
+      "content": "最近在用的非常舒服的一款枕头",
+      "music": 0.0
+    },
+    {
+      "from": 215.22,
+      "to": 217.12,
+      "sid": 129,
+      "location": 2,
+      "content": "就是这款卡伦诗睡宝枕",
+      "music": 0.0
+    },
+    {
+      "from": 217.12,
+      "to": 219.28,
+      "sid": 130,
+      "location": 2,
+      "content": "跟我之前用的所有的枕头完全都不一样",
+      "music": 0.0
+    },
+    {
+      "from": 219.28,
+      "to": 220.68,
+      "sid": 131,
+      "location": 2,
+      "content": "这个睡宝枕是一枕二用",
+      "music": 0.0
+    },
+    {
+      "from": 220.68,
+      "to": 221.94,
+      "sid": 132,
+      "location": 2,
+      "content": "按摩睡眠二合一的",
+      "music": 0.0
+    },
+    {
+      "from": 221.94,
+      "to": 223.84,
+      "sid": 133,
+      "location": 2,
+      "content": "原型者是可以拆开单独使用的",
+      "music": 0.0
+    },
+    {
+      "from": 223.84,
+      "to": 225.26,
+      "sid": 134,
+      "location": 2,
+      "content": "侧面是开关按键设置",
+      "music": 0.0
+    },
+    {
+      "from": 225.26,
+      "to": 226.18,
+      "sid": 135,
+      "location": 2,
+      "content": "带有语音功能",
+      "music": 0.0
+    },
+    {
+      "from": 226.18,
+      "to": 228.3,
+      "sid": 136,
+      "location": 2,
+      "content": "像平时躺上去睡觉的时候也可以盲按",
+      "music": 0.0
+    },
+    {
+      "from": 228.3,
+      "to": 229.5,
+      "sid": 137,
+      "location": 2,
+      "content": "调节牵引高度",
+      "music": 0.0
+    },
+    {
+      "from": 229.5,
+      "to": 230.94,
+      "sid": 138,
+      "location": 2,
+      "content": "高度总共是分为四档",
+      "music": 0.0
+    },
+    {
+      "from": 230.94,
+      "to": 233.78,
+      "sid": 139,
+      "location": 2,
+      "content": "可以根据自己颈椎不适的情况选择不同的高度",
+      "music": 0.0
+    },
+    {
+      "from": 233.78,
+      "to": 236.14,
+      "sid": 140,
+      "location": 2,
+      "content": "这种牵引者跟我们常见的市面上的颈椎按摩器",
+      "music": 0.0
+    },
+    {
+      "from": 236.14,
+      "to": 238.56,
+      "sid": 141,
+      "location": 2,
+      "content": "最大的区别就是它是缓缓的牵引颈椎",
+      "music": 0.0
+    },
+    {
+      "from": 238.56,
+      "to": 239.96,
+      "sid": 142,
+      "location": 2,
+      "content": "能改善颈椎的曲线",
+      "music": 0.0
+    },
+    {
+      "from": 239.96,
+      "to": 241.44,
+      "sid": 143,
+      "location": 2,
+      "content": "而不是只按摩肌肉表面",
+      "music": 0.0
+    },
+    {
+      "from": 241.44,
+      "to": 242.2,
+      "sid": 144,
+      "location": 2,
+      "content": "就一时之急",
+      "music": 0.0
+    },
+    {
+      "from": 242.2,
+      "to": 243.7,
+      "sid": 145,
+      "location": 2,
+      "content": "不能从源头解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 243.7,
+      "to": 244.44,
+      "sid": 146,
+      "location": 2,
+      "content": "躺上去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 244.44,
+      "to": 245.6,
+      "sid": 147,
+      "location": 2,
+      "content": "后脑勺是贴在床上的",
+      "music": 0.0
+    },
+    {
+      "from": 245.6,
+      "to": 246.76,
+      "sid": 148,
+      "location": 2,
+      "content": "而不是悬空的状态",
+      "music": 0.0
+    },
+    {
+      "from": 246.76,
+      "to": 247.4,
+      "sid": 149,
+      "location": 2,
+      "content": "这样牵一枕",
+      "music": 0.0
+    },
+    {
+      "from": 247.4,
+      "to": 249.84,
+      "sid": 150,
+      "location": 2,
+      "content": "才可以把我们的颈椎牵回正常的C型曲线",
+      "music": 0.0
+    },
+    {
+      "from": 249.84,
+      "to": 250.84,
+      "sid": 151,
+      "location": 2,
+      "content": "刚开始觉得不舒服",
+      "music": 0.0
+    },
+    {
+      "from": 250.84,
+      "to": 252.88,
+      "sid": 152,
+      "location": 2,
+      "content": "是因为它在慢慢改善你颈椎的曲线",
+      "music": 0.0
+    },
+    {
+      "from": 252.88,
+      "to": 255.36,
+      "sid": 153,
+      "location": 2,
+      "content": "可以先从低档开始适应一段时间就好了",
+      "music": 0.0
+    },
+    {
+      "from": 255.36,
+      "to": 257.76,
+      "sid": 154,
+      "location": 2,
+      "content": "这个碟醒枕是睡觉的时候用的这个分区设计",
+      "music": 0.0
+    },
+    {
+      "from": 257.76,
+      "to": 258.92,
+      "sid": 155,
+      "location": 2,
+      "content": "让我们在仰睡侧睡",
+      "music": 0.0
+    },
+    {
+      "from": 258.92,
+      "to": 261.1,
+      "sid": 156,
+      "location": 2,
+      "content": "趴睡都可以贴合我们的颈椎曲线",
+      "music": 0.0
+    },
+    {
+      "from": 261.1,
+      "to": 262.9,
+      "sid": 157,
+      "location": 2,
+      "content": "让颈椎和枕头之间没有缝隙",
+      "music": 0.0
+    },
+    {
+      "from": 262.9,
+      "to": 264.66,
+      "sid": 158,
+      "location": 2,
+      "content": "让我们在睡觉中也可以慢慢的改善",
+      "music": 0.0
+    },
+    {
+      "from": 264.66,
+      "to": 265.48,
+      "sid": 159,
+      "location": 2,
+      "content": "颈椎不适的状态",
+      "music": 0.0
+    },
+    {
+      "from": 265.48,
+      "to": 266.6,
+      "sid": 160,
+      "location": 2,
+      "content": "自从用了这个枕头",
+      "music": 0.0
+    },
+    {
+      "from": 266.6,
+      "to": 267.76,
+      "sid": 161,
+      "location": 2,
+      "content": "我基本上再也没有落枕",
+      "music": 0.0
+    },
+    {
+      "from": 267.76,
+      "to": 268.64,
+      "sid": 162,
+      "location": 2,
+      "content": "人在30岁之后",
+      "music": 0.0
+    },
+    {
+      "from": 268.64,
+      "to": 269.72,
+      "sid": 163,
+      "location": 2,
+      "content": "颈椎就会走下坡路",
+      "music": 0.0
+    },
+    {
+      "from": 269.72,
+      "to": 271.4,
+      "sid": 164,
+      "location": 2,
+      "content": "要提前重视养护颈椎的重要性",
+      "music": 0.0
+    },
+    {
+      "from": 271.4,
+      "to": 272.44,
+      "sid": 165,
+      "location": 2,
+      "content": "这样才可以睡眠好",
+      "music": 0.0
+    },
+    {
+      "from": 272.44,
+      "to": 274.52,
+      "sid": 166,
+      "location": 2,
+      "content": "整个人看上去气色也会比同龄人好很多",
+      "music": 0.0
+    },
+    {
+      "from": 274.52,
+      "to": 275.78,
+      "sid": 167,
+      "location": 2,
+      "content": "这期推荐给经常落枕",
+      "music": 0.0
+    },
+    {
+      "from": 275.78,
+      "to": 276.84,
+      "sid": 168,
+      "location": 2,
+      "content": "长期看电脑玩游戏",
+      "music": 0.0
+    },
+    {
+      "from": 276.84,
+      "to": 277.56,
+      "sid": 169,
+      "location": 2,
+      "content": "颈椎不舒服的",
+      "music": 0.0
+    },
+    {
+      "from": 277.56,
+      "to": 278.28,
+      "sid": 170,
+      "location": 2,
+      "content": "各位好了",
+      "music": 0.0
+    },
+    {
+      "from": 278.28,
+      "to": 280.68,
+      "sid": 171,
+      "location": 2,
+      "content": "现在我们从非洲之外最大的索马里人聚集点",
+      "music": 0.0
+    },
+    {
+      "from": 280.68,
+      "to": 282.98,
+      "sid": 172,
+      "location": 2,
+      "content": "传送到亚洲之外最大的苗族聚集地",
+      "music": 0.0
+    },
+    {
+      "from": 282.98,
+      "to": 285.76,
+      "sid": 173,
+      "location": 2,
+      "content": "最早还得追溯到明末时期的改土归流",
+      "music": 0.0
+    },
+    {
+      "from": 285.76,
+      "to": 288.06,
+      "sid": 174,
+      "location": 2,
+      "content": "也就是废除少数民族的土司头目",
+      "music": 0.0
+    },
+    {
+      "from": 288.06,
+      "to": 290.0,
+      "sid": 175,
+      "location": 2,
+      "content": "而改为中央政府派留官治理",
+      "music": 0.0
+    },
+    {
+      "from": 290.0,
+      "to": 290.78,
+      "sid": 176,
+      "location": 2,
+      "content": "因为政策原因",
+      "music": 0.0
+    },
+    {
+      "from": 290.78,
+      "to": 291.94,
+      "sid": 177,
+      "location": 2,
+      "content": "再加上土地紧缺",
+      "music": 0.0
+    },
+    {
+      "from": 291.94,
+      "to": 294.64,
+      "sid": 178,
+      "location": 2,
+      "content": "很多苗族就从我们的西南地区迁到了老挝",
+      "music": 0.0
+    },
+    {
+      "from": 294.64,
+      "to": 296.0,
+      "sid": 179,
+      "location": 2,
+      "content": "越南北部的群山岭",
+      "music": 0.0
+    },
+    {
+      "from": 296.0,
+      "to": 297.7,
+      "sid": 180,
+      "location": 2,
+      "content": "在当地他们被称作赫蒙族",
+      "music": 0.0
+    },
+    {
+      "from": 297.7,
+      "to": 299.62,
+      "sid": 181,
+      "location": 2,
+      "content": "虽然他们主要聚集在封闭的山区里",
+      "music": 0.0
+    },
+    {
+      "from": 299.62,
+      "to": 300.76,
+      "sid": 182,
+      "location": 2,
+      "content": "不太跟外部往来",
+      "music": 0.0
+    },
+    {
+      "from": 300.76,
+      "to": 301.9,
+      "sid": 183,
+      "location": 2,
+      "content": "但是在冷战期间",
+      "music": 0.0
+    },
+    {
+      "from": 301.9,
+      "to": 304.36,
+      "sid": 184,
+      "location": 2,
+      "content": "美国中情局找到了他们打代理人战争",
+      "music": 0.0
+    },
+    {
+      "from": 304.36,
+      "to": 306.36,
+      "sid": 185,
+      "location": 2,
+      "content": "一个叫王宝的老挝苗族将军",
+      "music": 0.0
+    },
+    {
+      "from": 306.36,
+      "to": 309.28,
+      "sid": 186,
+      "location": 2,
+      "content": "带领苗族游击队参加了老挝内战和越战",
+      "music": 0.0
+    },
+    {
+      "from": 310.56,
+      "to": 313.2,
+      "sid": 187,
+      "location": 2,
+      "content": "以及与他们合作密切的老挝巴特寮",
+      "music": 0.0
+    },
+    {
+      "from": 313.2,
+      "to": 316.1,
+      "sid": 188,
+      "location": 2,
+      "content": "最后战争的结局是美军被赶出了越南和老挝",
+      "music": 0.0
+    },
+    {
+      "from": 316.1,
+      "to": 318.34,
+      "sid": 189,
+      "location": 2,
+      "content": "留下来的苗族下场自然也很惨",
+      "music": 0.0
+    },
+    {
+      "from": 318.34,
+      "to": 320.5,
+      "sid": 190,
+      "location": 2,
+      "content": "当初中戏局找苗族人合作的时候",
+      "music": 0.0
+    },
+    {
+      "from": 320.5,
+      "to": 321.1,
+      "sid": 191,
+      "location": 2,
+      "content": "就答应过",
+      "music": 0.0
+    },
+    {
+      "from": 321.1,
+      "to": 321.7,
+      "sid": 192,
+      "location": 2,
+      "content": "如果战败",
+      "music": 0.0
+    },
+    {
+      "from": 321.7,
+      "to": 323.64,
+      "sid": 193,
+      "location": 2,
+      "content": "美国会接收他们一部分兜底",
+      "music": 0.0
+    },
+    {
+      "from": 323.64,
+      "to": 325.6,
+      "sid": 194,
+      "location": 2,
+      "content": "因此许多参加过游击队的苗族人",
+      "music": 0.0
+    },
+    {
+      "from": 325.6,
+      "to": 327.01,
+      "sid": 195,
+      "location": 2,
+      "content": "最后就来到了美国",
+      "music": 0.0
+    },
+    {
+      "from": 327.01,
+      "to": 328.73,
+      "sid": 196,
+      "location": 2,
+      "content": "苗族人来到明尼苏达的原因",
+      "music": 0.0
+    },
+    {
+      "from": 328.73,
+      "to": 330.07,
+      "sid": 197,
+      "location": 2,
+      "content": "其实跟索马里人很像",
+      "music": 0.0
+    },
+    {
+      "from": 330.07,
+      "to": 332.99,
+      "sid": 198,
+      "location": 2,
+      "content": "就是这边有很多非政府的组织愿意帮助难民",
+      "music": 0.0
+    },
+    {
+      "from": 332.99,
+      "to": 335.31,
+      "sid": 199,
+      "location": 2,
+      "content": "但其实苗族人刚到米尼阿布利斯的时候",
+      "music": 0.0
+    },
+    {
+      "from": 335.31,
+      "to": 336.09,
+      "sid": 200,
+      "location": 2,
+      "content": "非常困难",
+      "music": 0.0
+    },
+    {
+      "from": 336.09,
+      "to": 338.94,
+      "sid": 201,
+      "location": 2,
+      "content": "大家本来都是在大山里种地或者打游击的",
+      "music": 0.0
+    },
+    {
+      "from": 338.94,
+      "to": 340.34,
+      "sid": 202,
+      "location": 2,
+      "content": "来到这么一个苦寒之地",
+      "music": 0.0
+    },
+    {
+      "from": 340.34,
+      "to": 341.52,
+      "sid": 203,
+      "location": 2,
+      "content": "其实非常不适应",
+      "music": 0.0
+    },
+    {
+      "from": 341.52,
+      "to": 342.9,
+      "sid": 204,
+      "location": 2,
+      "content": "苗族在很长一段时间内",
+      "music": 0.0
+    },
+    {
+      "from": 342.9,
+      "to": 344.64,
+      "sid": 205,
+      "location": 2,
+      "content": "都是美国最穷的亚裔族群",
+      "music": 0.0
+    },
+    {
+      "from": 344.64,
+      "to": 347.36,
+      "sid": 206,
+      "location": 2,
+      "content": "不过如今在美国的苗族人可能都是第二代了",
+      "music": 0.0
+    },
+    {
+      "from": 347.36,
+      "to": 348.76,
+      "sid": 207,
+      "location": 2,
+      "content": "比起刚刚来美国的时候",
+      "music": 0.0
+    },
+    {
+      "from": 348.76,
+      "to": 350.86,
+      "sid": 208,
+      "location": 2,
+      "content": "苗族人内部的经济状况要强了不少",
+      "music": 0.0
+    },
+    {
+      "from": 350.86,
+      "to": 353.78,
+      "sid": 209,
+      "location": 2,
+      "content": "这个苗族市场里面的小商品店和饭店也不少",
+      "music": 0.0
+    },
+    {
+      "from": 353.78,
+      "to": 355.3,
+      "sid": 210,
+      "location": 2,
+      "content": "比起刚刚的索马里人区",
+      "music": 0.0
+    },
+    {
+      "from": 355.3,
+      "to": 357.56,
+      "sid": 211,
+      "location": 2,
+      "content": "有更多苗族之外的人来这里逛街",
+      "music": 0.0
+    },
+    {
+      "from": 357.56,
+      "to": 360.9,
+      "sid": 212,
+      "location": 2,
+      "content": "毕竟这里卖的商品和食品的受众面要更广一些",
+      "music": 0.0
+    },
+    {
+      "from": 360.9,
+      "to": 362.9,
+      "sid": 213,
+      "location": 2,
+      "content": "我看很多人排队在这里买奶茶",
+      "music": 0.0
+    },
+    {
+      "from": 362.9,
+      "to": 364.289,
+      "sid": 214,
+      "location": 2,
+      "content": "我也买了一杯试试看",
+      "music": 0.0
+    },
+    {
+      "from": 364.289,
+      "to": 366.689,
+      "sid": 215,
+      "location": 2,
+      "content": "可能是受到美国人齁甜的口味影响",
+      "music": 0.0
+    },
+    {
+      "from": 366.689,
+      "to": 367.889,
+      "sid": 216,
+      "location": 2,
+      "content": "这个奶茶过于甜",
+      "music": 0.0
+    },
+    {
+      "from": 367.889,
+      "to": 369.309,
+      "sid": 217,
+      "location": 2,
+      "content": "以至于我都没有把它喝完",
+      "music": 0.0
+    },
+    {
+      "from": 369.309,
+      "to": 372.06,
+      "sid": 218,
+      "location": 2,
+      "content": "虽然这个市场原先的地位是苗族人的大师级",
+      "music": 0.0
+    },
+    {
+      "from": 372.06,
+      "to": 373.78,
+      "sid": 219,
+      "location": 2,
+      "content": "但由于文化上面的相近",
+      "music": 0.0
+    },
+    {
+      "from": 373.78,
+      "to": 375.82,
+      "sid": 220,
+      "location": 2,
+      "content": "很多南亚国家的人也来这里开店",
+      "music": 0.0
+    },
+    {
+      "from": 375.82,
+      "to": 378.4,
+      "sid": 221,
+      "location": 2,
+      "content": "这里还有越南人和尼泊尔人的超市",
+      "music": 0.0
+    },
+    {
+      "from": 378.4,
+      "to": 380.46,
+      "sid": 222,
+      "location": 2,
+      "content": "而且我在一个户外的小地摊上逛",
+      "music": 0.0
+    },
+    {
+      "from": 380.46,
+      "to": 382.01,
+      "sid": 223,
+      "location": 2,
+      "content": "还发现了不少国货",
+      "music": 0.0
+    },
+    {
+      "from": 382.01,
+      "to": 384.29,
+      "sid": 224,
+      "location": 2,
+      "content": "一开始我还以为这个店是苗族人开的",
+      "music": 0.0
+    },
+    {
+      "from": 384.29,
+      "to": 385.45,
+      "sid": 225,
+      "location": 2,
+      "content": "后来跟店主聊了一下",
+      "music": 0.0
+    },
+    {
+      "from": 385.45,
+      "to": 387.45,
+      "sid": 226,
+      "location": 2,
+      "content": "才知道他是福建人",
+      "music": 0.0
+    },
+    {
+      "from": 387.89,
+      "to": 391.69,
+      "sid": 227,
+      "location": 2,
+      "content": "美佳佳牙刷架",
+      "music": 0.0
+    },
+    {
+      "from": 394.72,
+      "to": 396.12,
+      "sid": 228,
+      "location": 2,
+      "content": "这种装都不装了",
+      "music": 0.0
+    },
+    {
+      "from": 396.12,
+      "to": 399.16,
+      "sid": 229,
+      "location": 2,
+      "content": "连个英文都没有的钢丝球",
+      "music": 0.0
+    },
+    {
+      "from": 401.48,
+      "to": 406.94,
+      "sid": 230,
+      "location": 2,
+      "content": "木棉花袖套嘶我买的这个阿迪达斯啊",
+      "music": 0.0
+    },
+    {
+      "from": 406.94,
+      "to": 409.48,
+      "sid": 231,
+      "location": 2,
+      "content": "中国阿迪达斯有一说一",
+      "music": 0.0
+    },
+    {
+      "from": 409.48,
+      "to": 410.74,
+      "sid": 232,
+      "location": 2,
+      "content": "这拖鞋的质量就是好",
+      "music": 0.0
+    },
+    {
+      "from": 410.74,
+      "to": 413.48,
+      "sid": 233,
+      "location": 2,
+      "content": "这期其实是我去年夏天拍的这个阿迪达斯拖鞋",
+      "music": 0.0
+    },
+    {
+      "from": 413.48,
+      "to": 414.56,
+      "sid": 234,
+      "location": 2,
+      "content": "我目前穿了九个月",
+      "music": 0.0
+    },
+    {
+      "from": 414.56,
+      "to": 415.6,
+      "sid": 235,
+      "location": 2,
+      "content": "依旧是没有坏",
+      "music": 0.0
+    },
+    {
+      "from": 415.6,
+      "to": 416.94,
+      "sid": 236,
+      "location": 2,
+      "content": "除了刚刚的福州人",
+      "music": 0.0
+    },
+    {
+      "from": 416.94,
+      "to": 419.2,
+      "sid": 237,
+      "location": 2,
+      "content": "这个苗族人区还有不少华人开的店",
+      "music": 0.0
+    },
+    {
+      "from": 419.2,
+      "to": 421.44,
+      "sid": 238,
+      "location": 2,
+      "content": "但是他们大部分都是越南老挝的华裔",
+      "music": 0.0
+    },
+    {
+      "from": 421.44,
+      "to": 423.53,
+      "sid": 239,
+      "location": 2,
+      "content": "而不是大陆或者港台过去的",
+      "music": 0.0
+    },
+    {
+      "from": 423.53,
+      "to": 424.77,
+      "sid": 240,
+      "location": 2,
+      "content": "我随便进了一个药店",
+      "music": 0.0
+    },
+    {
+      "from": 424.77,
+      "to": 426.11,
+      "sid": 241,
+      "location": 2,
+      "content": "跟一个大叔聊了一下",
+      "music": 0.0
+    },
+    {
+      "from": 426.11,
+      "to": 426.77,
+      "sid": 242,
+      "location": 2,
+      "content": "他跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 426.77,
+      "to": 429.419,
+      "sid": 243,
+      "location": 2,
+      "content": "他爸是国共内战的时候逃难去的老挝",
+      "music": 0.0
+    },
+    {
+      "from": 429.419,
+      "to": 430.739,
+      "sid": 244,
+      "location": 2,
+      "content": "他是在老挝长大的",
+      "music": 0.0
+    },
+    {
+      "from": 430.739,
+      "to": 431.879,
+      "sid": 245,
+      "location": 2,
+      "content": "最后再来到美国",
+      "music": 0.0
+    },
+    {
+      "from": 431.879,
+      "to": 433.479,
+      "sid": 246,
+      "location": 2,
+      "content": "这个大哥也是语言天才",
+      "music": 0.0
+    },
+    {
+      "from": 433.479,
+      "to": 434.419,
+      "sid": 247,
+      "location": 2,
+      "content": "汉语老挝语",
+      "music": 0.0
+    },
+    {
+      "from": 434.419,
+      "to": 434.819,
+      "sid": 248,
+      "location": 2,
+      "content": "苗语",
+      "music": 0.0
+    },
+    {
+      "from": 434.819,
+      "to": 435.86,
+      "sid": 249,
+      "location": 2,
+      "content": "英语都会说",
+      "music": 0.0
+    },
+    {
+      "from": 435.86,
+      "to": 438.74,
+      "sid": 250,
+      "location": 2,
+      "content": "这个老挝和儿药店隔壁还有一家越南超市",
+      "music": 0.0
+    },
+    {
+      "from": 438.74,
+      "to": 440.26,
+      "sid": 251,
+      "location": 2,
+      "content": "但是在里面上班的很多阿姨",
+      "music": 0.0
+    },
+    {
+      "from": 440.26,
+      "to": 441.86,
+      "sid": 252,
+      "location": 2,
+      "content": "都是会说国语和广东话的",
+      "music": 0.0
+    },
+    {
+      "from": 441.86,
+      "to": 442.72,
+      "sid": 253,
+      "location": 2,
+      "content": "越南华裔",
+      "music": 0.0
+    },
+    {
+      "from": 442.72,
+      "to": 444.52,
+      "sid": 254,
+      "location": 2,
+      "content": "这个超市的熟食区还不错",
+      "music": 0.0
+    },
+    {
+      "from": 444.52,
+      "to": 446.67,
+      "sid": 255,
+      "location": 2,
+      "content": "里面的猪耳朵和米粉都很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 446.67,
+      "to": 448.89,
+      "sid": 256,
+      "location": 2,
+      "content": "发现这两家华人店其实也是偶然",
+      "music": 0.0
+    },
+    {
+      "from": 448.89,
+      "to": 450.63,
+      "sid": 257,
+      "location": 2,
+      "content": "主要是因为我想去他们隔壁的",
+      "music": 0.0
+    },
+    {
+      "from": 450.63,
+      "to": 452.16,
+      "sid": 258,
+      "location": 2,
+      "content": "美国苗族博物馆看看",
+      "music": 0.0
+    },
+    {
+      "from": 452.16,
+      "to": 454.4,
+      "sid": 259,
+      "location": 2,
+      "content": "但是当时上班的小哥去吃午饭了",
+      "music": 0.0
+    },
+    {
+      "from": 454.4,
+      "to": 456.82,
+      "sid": 260,
+      "location": 2,
+      "content": "这个叫中美的药店就在苗族中心隔壁",
+      "music": 0.0
+    },
+    {
+      "from": 456.82,
+      "to": 458.98,
+      "sid": 261,
+      "location": 2,
+      "content": "一开始我还以为小哥来上班是划水的",
+      "music": 0.0
+    },
+    {
+      "from": 458.98,
+      "to": 460.56,
+      "sid": 262,
+      "location": 2,
+      "content": "后来发现他特别博学",
+      "music": 0.0
+    },
+    {
+      "from": 460.56,
+      "to": 462.42,
+      "sid": 263,
+      "location": 2,
+      "content": "甚至为了更好了解苗族的历史",
+      "music": 0.0
+    },
+    {
+      "from": 462.42,
+      "to": 463.86,
+      "sid": 264,
+      "location": 2,
+      "content": "还去学了一点普通话",
+      "music": 0.0
+    },
+    {
+      "from": 463.86,
+      "to": 464.32,
+      "sid": 265,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 464.32,
+      "to": 466.74,
+      "sid": 266,
+      "location": 2,
+      "content": "So misuu is like the umbrella term",
+      "music": 0.0
+    },
+    {
+      "from": 466.74,
+      "to": 469.43,
+      "sid": 267,
+      "location": 2,
+      "content": "Right uh one of the recognize",
+      "music": 0.0
+    },
+    {
+      "from": 469.43,
+      "to": 472.43,
+      "sid": 268,
+      "location": 2,
+      "content": "Uh fifty four ethic minority in china",
+      "music": 0.0
+    },
+    {
+      "from": 472.43,
+      "to": 474.41,
+      "sid": 269,
+      "location": 2,
+      "content": "But within that umbrella",
+      "music": 0.0
+    },
+    {
+      "from": 474.41,
+      "to": 476.88,
+      "sid": 270,
+      "location": 2,
+      "content": "Terms is like hundreds of soft groups",
+      "music": 0.0
+    },
+    {
+      "from": 476.88,
+      "to": 477.5,
+      "sid": 271,
+      "location": 2,
+      "content": "And so long",
+      "music": 0.0
+    },
+    {
+      "from": 477.5,
+      "to": 479.22,
+      "sid": 272,
+      "location": 2,
+      "content": "It's just one subgroup of the mail",
+      "music": 0.0
+    },
+    {
+      "from": 479.22,
+      "to": 480.42,
+      "sid": 273,
+      "location": 2,
+      "content": "And u the reason",
+      "music": 0.0
+    },
+    {
+      "from": 480.42,
+      "to": 482.48,
+      "sid": 274,
+      "location": 2,
+      "content": "Why they made these tapestries was to actually",
+      "music": 0.0
+    },
+    {
+      "from": 482.48,
+      "to": 485.659,
+      "sid": 275,
+      "location": 2,
+      "content": "Sell to tourists and western audiences",
+      "music": 0.0
+    },
+    {
+      "from": 485.659,
+      "to": 486.099,
+      "sid": 276,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 486.099,
+      "to": 487.379,
+      "sid": 277,
+      "location": 2,
+      "content": "So before the secret war",
+      "music": 0.0
+    },
+    {
+      "from": 487.379,
+      "to": 488.659,
+      "sid": 278,
+      "location": 2,
+      "content": "We actually did not make this",
+      "music": 0.0
+    },
+    {
+      "from": 488.659,
+      "to": 490.339,
+      "sid": 279,
+      "location": 2,
+      "content": "The only envoy er are clothing",
+      "music": 0.0
+    },
+    {
+      "from": 490.339,
+      "to": 492.989,
+      "sid": 280,
+      "location": 2,
+      "content": "The temperature and like lifestyle",
+      "music": 0.0
+    },
+    {
+      "from": 492.989,
+      "to": 496.069,
+      "sid": 281,
+      "location": 2,
+      "content": "Because we came from tropical climate in southeast asia",
+      "music": 0.0
+    },
+    {
+      "from": 496.069,
+      "to": 497.99,
+      "sid": 282,
+      "location": 2,
+      "content": "Right the tired in the mountains",
+      "music": 0.0
+    },
+    {
+      "from": 497.99,
+      "to": 499.75,
+      "sid": 283,
+      "location": 2,
+      "content": "Pretty much farmed our whole lives",
+      "music": 0.0
+    },
+    {
+      "from": 499.75,
+      "to": 501.59,
+      "sid": 284,
+      "location": 2,
+      "content": "And then was moved to here",
+      "music": 0.0
+    },
+    {
+      "from": 501.59,
+      "to": 502.39,
+      "sid": 285,
+      "location": 2,
+      "content": "Right in the city",
+      "music": 0.0
+    },
+    {
+      "from": 502.39,
+      "to": 503.91,
+      "sid": 286,
+      "location": 2,
+      "content": "Right way different you",
+      "music": 0.0
+    },
+    {
+      "from": 503.91,
+      "to": 506.07,
+      "sid": 287,
+      "location": 2,
+      "content": "Can't you can't farm back anywhere",
+      "music": 0.0
+    },
+    {
+      "from": 506.07,
+      "to": 509.46,
+      "sid": 288,
+      "location": 2,
+      "content": "So since we establish ourselves in the twin cities",
+      "music": 0.0
+    },
+    {
+      "from": 509.46,
+      "to": 509.54,
+      "sid": 289,
+      "location": 2,
+      "content": "Here",
+      "music": 0.0
+    },
+    {
+      "from": 509.54,
+      "to": 510.5,
+      "sid": 290,
+      "location": 2,
+      "content": "A lot of um",
+      "music": 0.0
+    },
+    {
+      "from": 510.5,
+      "to": 511.52,
+      "sid": 291,
+      "location": 2,
+      "content": "Uh kind of flourish",
+      "music": 0.0
+    },
+    {
+      "from": 511.52,
+      "to": 512.4,
+      "sid": 292,
+      "location": 2,
+      "content": "Right um",
+      "music": 0.0
+    },
+    {
+      "from": 512.4,
+      "to": 515.37,
+      "sid": 293,
+      "location": 2,
+      "content": "So we've opened up a lot of local businesses",
+      "music": 0.0
+    },
+    {
+      "from": 515.37,
+      "to": 516.97,
+      "sid": 294,
+      "location": 2,
+      "content": "Such as grocery stores",
+      "music": 0.0
+    },
+    {
+      "from": 516.97,
+      "to": 518.289,
+      "sid": 295,
+      "location": 2,
+      "content": "Marketplaces",
+      "music": 0.0
+    },
+    {
+      "from": 518.289,
+      "to": 518.969,
+      "sid": 296,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 518.969,
+      "to": 519.249,
+      "sid": 297,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 519.249,
+      "to": 520.949,
+      "sid": 298,
+      "location": 2,
+      "content": "Restaurants too um",
+      "music": 0.0
+    },
+    {
+      "from": 520.949,
+      "to": 524.049,
+      "sid": 299,
+      "location": 2,
+      "content": "So that's why you see a lot of one businesses in this area here",
+      "music": 0.0
+    },
+    {
+      "from": 524.049,
+      "to": 524.929,
+      "sid": 300,
+      "location": 2,
+      "content": "I'm wondering",
+      "music": 0.0
+    },
+    {
+      "from": 524.929,
+      "to": 527.1,
+      "sid": 301,
+      "location": 2,
+      "content": "How do you know so many manoring words",
+      "music": 0.0
+    },
+    {
+      "from": 527.1,
+      "to": 527.6,
+      "sid": 302,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 527.6,
+      "to": 530.8,
+      "sid": 303,
+      "location": 2,
+      "content": "Because i i love studying like about my history and my culture",
+      "music": 0.0
+    },
+    {
+      "from": 530.8,
+      "to": 534.44,
+      "sid": 304,
+      "location": 2,
+      "content": "So do you get many chinese viators not really all right",
+      "music": 0.0
+    },
+    {
+      "from": 534.44,
+      "to": 536.2,
+      "sid": 305,
+      "location": 2,
+      "content": "I know like here in minnesota",
+      "music": 0.0
+    },
+    {
+      "from": 536.2,
+      "to": 536.84,
+      "sid": 306,
+      "location": 2,
+      "content": "We actually",
+      "music": 0.0
+    },
+    {
+      "from": 536.84,
+      "to": 539.56,
+      "sid": 307,
+      "location": 2,
+      "content": "Don't have a very large chinese population",
+      "music": 0.0
+    },
+    {
+      "from": 539.56,
+      "to": 541.08,
+      "sid": 308,
+      "location": 2,
+      "content": "Mostly south decision",
+      "music": 0.0
+    },
+    {
+      "from": 541.08,
+      "to": 541.84,
+      "sid": 309,
+      "location": 2,
+      "content": "逛完博物馆之后",
+      "music": 0.0
+    },
+    {
+      "from": 541.84,
+      "to": 544.58,
+      "sid": 310,
+      "location": 2,
+      "content": "我发现这条街真的是集齐了南亚所有国家",
+      "music": 0.0
+    },
+    {
+      "from": 544.58,
+      "to": 546.49,
+      "sid": 311,
+      "location": 2,
+      "content": "马路对面还有一家缅甸菜",
+      "music": 0.0
+    },
+    {
+      "from": 546.49,
+      "to": 547.69,
+      "sid": 312,
+      "location": 2,
+      "content": "以后等我有空了",
+      "music": 0.0
+    },
+    {
+      "from": 547.69,
+      "to": 548.93,
+      "sid": 313,
+      "location": 2,
+      "content": "肯定会去缅甸逛逛",
+      "music": 0.0
+    },
+    {
+      "from": 548.93,
+      "to": 550.17,
+      "sid": 314,
+      "location": 2,
+      "content": "不过我先在这里试试",
+      "music": 0.0
+    },
+    {
+      "from": 550.17,
+      "to": 551.81,
+      "sid": 315,
+      "location": 2,
+      "content": "看他们这个缅甸菜怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 551.81,
+      "to": 553.39,
+      "sid": 316,
+      "location": 2,
+      "content": "我随便点了个米粉吃",
+      "music": 0.0
+    },
+    {
+      "from": 553.39,
+      "to": 554.57,
+      "sid": 317,
+      "location": 2,
+      "content": "虽然卖相不咋地",
+      "music": 0.0
+    },
+    {
+      "from": 554.57,
+      "to": 555.95,
+      "sid": 318,
+      "location": 2,
+      "content": "但是味道还行好了",
+      "music": 0.0
+    },
+    {
+      "from": 555.95,
+      "to": 557.05,
+      "sid": 319,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 557.05,
+      "to": 559.78,
+      "sid": 320,
+      "location": 2,
+      "content": "关注我带你去更多普通人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

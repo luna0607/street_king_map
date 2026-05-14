@@ -1,0 +1,3325 @@
+// Seems Wrong
+
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-index2.5",
+  "body": [
+    {
+      "from": 7.67,
+      "to": 13.47,
+      "sid": 1,
+      "location": 2,
+      "content": "默认可设为线性"
+    },
+    {
+      "from": 20.54,
+      "to": 23.1,
+      "sid": 2,
+      "location": 2,
+      "content": "我在循环中注意这个"
+    },
+    {
+      "from": 23.1,
+      "to": 23.34,
+      "sid": 3,
+      "location": 2,
+      "content": "这里"
+    },
+    {
+      "from": 23.34,
+      "to": 24.56,
+      "sid": 4,
+      "location": 2,
+      "content": "他们只是"
+    },
+    {
+      "from": 24.56,
+      "to": 28.44,
+      "sid": 5,
+      "location": 2,
+      "content": "你出生在"
+    },
+    {
+      "from": 29.92,
+      "to": 30.88,
+      "sid": 6,
+      "location": 2,
+      "content": "并在一夜之间"
+    },
+    {
+      "from": 30.88,
+      "to": 31.91,
+      "sid": 7,
+      "location": 2,
+      "content": "四九"
+    },
+    {
+      "from": 31.91,
+      "to": 32.63,
+      "sid": 8,
+      "location": 2,
+      "content": "二十五"
+    },
+    {
+      "from": 33.83,
+      "to": 34.53,
+      "sid": 9,
+      "location": 2,
+      "content": "四十五"
+    },
+    {
+      "from": 34.53,
+      "to": 36.42,
+      "sid": 10,
+      "location": 2,
+      "content": "税后四十五"
+    },
+    {
+      "from": 47.3,
+      "to": 57.19,
+      "sid": 11,
+      "location": 2,
+      "content": "方九义聚会"
+    },
+    {
+      "from": 57.19,
+      "to": 59.73,
+      "sid": 12,
+      "location": 2,
+      "content": "你做得不好"
+    },
+    {
+      "from": 59.73,
+      "to": 61.95,
+      "sid": 13,
+      "location": 2,
+      "content": "你喜欢"
+    },
+    {
+      "from": 66.9,
+      "to": 69.5,
+      "sid": 14,
+      "location": 2,
+      "content": "你应该"
+    },
+    {
+      "from": 72.2,
+      "to": 77.01,
+      "sid": 15,
+      "location": 2,
+      "content": "这是一个六十五岁的"
+    },
+    {
+      "from": 77.01,
+      "to": 79.91,
+      "sid": 16,
+      "location": 2,
+      "content": "但自三九三九年以来我就在这里"
+    },
+    {
+      "from": 79.91,
+      "to": 82.21,
+      "sid": 17,
+      "location": 2,
+      "content": "这里还有两个鸡蛋"
+    },
+    {
+      "from": 82.21,
+      "to": 84.41,
+      "sid": 18,
+      "location": 2,
+      "content": "哦你喜欢这里"
+    },
+    {
+      "from": 84.41,
+      "to": 85.61,
+      "sid": 19,
+      "location": 2,
+      "content": "哦是的"
+    },
+    {
+      "from": 85.61,
+      "to": 86.23,
+      "sid": 20,
+      "location": 2,
+      "content": "这里"
+    },
+    {
+      "from": 86.23,
+      "to": 87.92,
+      "sid": 21,
+      "location": 2,
+      "content": "你知道像克拉克代尔"
+    },
+    {
+      "from": 87.92,
+      "to": 88.4,
+      "sid": 22,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 88.4,
+      "to": 89.62,
+      "sid": 23,
+      "location": 2,
+      "content": "像你"
+    },
+    {
+      "from": 89.62,
+      "to": 92.78,
+      "sid": 24,
+      "location": 2,
+      "content": "但当我来到这里时我二十六岁"
+    },
+    {
+      "from": 92.78,
+      "to": 93.51,
+      "sid": 25,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 93.51,
+      "to": 94.75,
+      "sid": 26,
+      "location": 2,
+      "content": "三十九年前"
+    },
+    {
+      "from": 95.91,
+      "to": 98.43,
+      "sid": 27,
+      "location": 2,
+      "content": "我是二十六岁的新人"
+    },
+    {
+      "from": 98.43,
+      "to": 98.87,
+      "sid": 28,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 98.87,
+      "to": 99.64,
+      "sid": 29,
+      "location": 2,
+      "content": "年轻人"
+    },
+    {
+      "from": 99.64,
+      "to": 102.46,
+      "sid": 30,
+      "location": 2,
+      "content": "哦我六十四岁"
+    },
+    {
+      "from": 102.46,
+      "to": 104.14,
+      "sid": 31,
+      "location": 2,
+      "content": "但这里很漂亮"
+    },
+    {
+      "from": 104.14,
+      "to": 105.94,
+      "sid": 32,
+      "location": 2,
+      "content": "所以这里有点右"
+    },
+    {
+      "from": 105.94,
+      "to": 107.44,
+      "sid": 33,
+      "location": 2,
+      "content": "我知道我的社区"
+    },
+    {
+      "from": 107.44,
+      "to": 108.5,
+      "sid": 34,
+      "location": 2,
+      "content": "嗯是的"
+    },
+    {
+      "from": 108.5,
+      "to": 109.16,
+      "sid": 35,
+      "location": 2,
+      "content": "他们我是说"
+    },
+    {
+      "from": 109.16,
+      "to": 110.1,
+      "sid": 36,
+      "location": 2,
+      "content": "六户家庭"
+    },
+    {
+      "from": 110.1,
+      "to": 111.2,
+      "sid": 37,
+      "location": 2,
+      "content": "六个印第安人"
+    },
+    {
+      "from": 111.2,
+      "to": 112.72,
+      "sid": 38,
+      "location": 2,
+      "content": "六户家庭"
+    },
+    {
+      "from": 112.97,
+      "to": 113.87,
+      "sid": 39,
+      "location": 2,
+      "content": "他们中的大多数"
+    },
+    {
+      "from": 113.87,
+      "to": 117.26,
+      "sid": 40,
+      "location": 2,
+      "content": "在密西西比州不需要我"
+    },
+    {
+      "from": 117.26,
+      "to": 117.84,
+      "sid": 41,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 117.84,
+      "to": 119.6,
+      "sid": 42,
+      "location": 2,
+      "content": "我们已实现全州"
+    },
+    {
+      "from": 119.6,
+      "to": 120.8,
+      "sid": 43,
+      "location": 2,
+      "content": "黑人在这里"
+    },
+    {
+      "from": 120.8,
+      "to": 121.2,
+      "sid": 44,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 121.2,
+      "to": 125.38,
+      "sid": 45,
+      "location": 2,
+      "content": "布莱克韦尔几乎百分之八十五是黑人"
+    },
+    {
+      "from": 125.38,
+      "to": 128.22,
+      "sid": 46,
+      "location": 2,
+      "content": "只有百分之十五是白人"
+    },
+    {
+      "from": 128.22,
+      "to": 129.38,
+      "sid": 47,
+      "location": 2,
+      "content": "但他们很友好"
+    },
+    {
+      "from": 130.42,
+      "to": 132.7,
+      "sid": 48,
+      "location": 2,
+      "content": "这是一个完整的"
+    },
+    {
+      "from": 132.7,
+      "to": 133.38,
+      "sid": 49,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 133.38,
+      "to": 133.84,
+      "sid": 50,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 133.84,
+      "to": 135.42,
+      "sid": 51,
+      "location": 2,
+      "content": "牛排状态真好"
+    },
+    {
+      "from": 135.42,
+      "to": 136.94,
+      "sid": 52,
+      "location": 2,
+      "content": "人们并不真实"
+    },
+    {
+      "from": 136.94,
+      "to": 138.1,
+      "sid": 53,
+      "location": 2,
+      "content": "你知道他们工作5天"
+    },
+    {
+      "from": 138.1,
+      "to": 138.7,
+      "sid": 54,
+      "location": 2,
+      "content": "大多数人"
+    },
+    {
+      "from": 139.82,
+      "to": 140.06,
+      "sid": 55,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 140.06,
+      "to": 141.94,
+      "sid": 56,
+      "location": 2,
+      "content": "这些人很酷"
+    },
+    {
+      "from": 141.94,
+      "to": 143.6,
+      "sid": 57,
+      "location": 2,
+      "content": "人们疯狂"
+    },
+    {
+      "from": 143.6,
+      "to": 144.54,
+      "sid": 58,
+      "location": 2,
+      "content": "人们知道"
+    },
+    {
+      "from": 144.54,
+      "to": 145.06,
+      "sid": 59,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 145.06,
+      "to": 145.36,
+      "sid": 60,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 145.36,
+      "to": 146.269,
+      "sid": 61,
+      "location": 2,
+      "content": "我们在这"
+    },
+    {
+      "from": 146.789,
+      "to": 149.029,
+      "sid": 62,
+      "location": 2,
+      "content": "像任何黑人一样下来"
+    },
+    {
+      "from": 149.029,
+      "to": 151.809,
+      "sid": 63,
+      "location": 2,
+      "content": "最后你学会了"
+    },
+    {
+      "from": 151.809,
+      "to": 152.249,
+      "sid": 64,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 152.249,
+      "to": 153.149,
+      "sid": 65,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 153.149,
+      "to": 153.689,
+      "sid": 66,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 153.689,
+      "to": 153.969,
+      "sid": 67,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 153.969,
+      "to": 154.39,
+      "sid": 68,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 154.39,
+      "to": 157.03,
+      "sid": 69,
+      "location": 2,
+      "content": "我听说根源在这"
+    },
+    {
+      "from": 157.03,
+      "to": 159.31,
+      "sid": 70,
+      "location": 2,
+      "content": "但如果我说就给它"
+    },
+    {
+      "from": 159.31,
+      "to": 161.9,
+      "sid": 71,
+      "location": 2,
+      "content": "那么大多数当地人"
+    },
+    {
+      "from": 161.9,
+      "to": 162.4,
+      "sid": 72,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 162.4,
+      "to": 163.36,
+      "sid": 73,
+      "location": 2,
+      "content": "车在这"
+    },
+    {
+      "from": 163.36,
+      "to": 165.26,
+      "sid": 74,
+      "location": 2,
+      "content": "和一些农民的银行"
+    },
+    {
+      "from": 165.26,
+      "to": 165.44,
+      "sid": 75,
+      "location": 2,
+      "content": "人们"
+    },
+    {
+      "from": 165.44,
+      "to": 166.57,
+      "sid": 76,
+      "location": 2,
+      "content": "在农场工作的人"
+    },
+    {
+      "from": 166.57,
+      "to": 168.11,
+      "sid": 77,
+      "location": 2,
+      "content": "他来这里住"
+    },
+    {
+      "from": 168.11,
+      "to": 168.63,
+      "sid": 78,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 168.63,
+      "to": 169.09,
+      "sid": 79,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 169.09,
+      "to": 169.97,
+      "sid": 80,
+      "location": 2,
+      "content": "好的，像"
+    },
+    {
+      "from": 169.97,
+      "to": 170.41,
+      "sid": 81,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 170.41,
+      "to": 171.25,
+      "sid": 82,
+      "location": 2,
+      "content": "像沃尔玛"
+    },
+    {
+      "from": 171.25,
+      "to": 172.01,
+      "sid": 83,
+      "location": 2,
+      "content": "你沃尔玛"
+    },
+    {
+      "from": 172.01,
+      "to": 172.83,
+      "sid": 84,
+      "location": 2,
+      "content": "几乎5"
+    },
+    {
+      "from": 172.83,
+      "to": 175.09,
+      "sid": 85,
+      "location": 2,
+      "content": "只有多于一个在沃尔玛工作"
+    },
+    {
+      "from": 175.09,
+      "to": 176.92,
+      "sid": 86,
+      "location": 2,
+      "content": "所以那些人评论"
+    },
+    {
+      "from": 176.92,
+      "to": 177.7,
+      "sid": 87,
+      "location": 2,
+      "content": "他们也在这"
+    },
+    {
+      "from": 177.7,
+      "to": 178.5,
+      "sid": 88,
+      "location": 2,
+      "content": "哦，好的"
+    },
+    {
+      "from": 178.5,
+      "to": 179.08,
+      "sid": 89,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 180.12,
+      "to": 181.08,
+      "sid": 90,
+      "location": 2,
+      "content": "你不是富人"
+    },
+    {
+      "from": 181.08,
+      "to": 183.33,
+      "sid": 91,
+      "location": 2,
+      "content": "哦，你的酒店很好"
+    },
+    {
+      "from": 183.33,
+      "to": 184.01,
+      "sid": 92,
+      "location": 2,
+      "content": "好价格"
+    },
+    {
+      "from": 184.01,
+      "to": 184.63,
+      "sid": 93,
+      "location": 2,
+      "content": "哦，是的"
+    },
+    {
+      "from": 184.63,
+      "to": 186.43,
+      "sid": 94,
+      "location": 2,
+      "content": "但你不在谷歌上发帖"
+    },
+    {
+      "from": 186.43,
+      "to": 188.869,
+      "sid": 95,
+      "location": 2,
+      "content": "我得打电话给你谷歌谷歌"
+    },
+    {
+      "from": 188.869,
+      "to": 189.349,
+      "sid": 96,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 189.349,
+      "to": 190.949,
+      "sid": 97,
+      "location": 2,
+      "content": "谷歌上没有"
+    },
+    {
+      "from": 192.349,
+      "to": 193.069,
+      "sid": 98,
+      "location": 2,
+      "content": "有一个电话号码"
+    },
+    {
+      "from": 193.069,
+      "to": 194.95,
+      "sid": 99,
+      "location": 2,
+      "content": "但没有评分"
+    },
+    {
+      "from": 194.95,
+      "to": 197.13,
+      "sid": 100,
+      "location": 2,
+      "content": "我说你知道"
+    },
+    {
+      "from": 197.13,
+      "to": 198.64,
+      "sid": 101,
+      "location": 2,
+      "content": "大部分时间都在混合"
+    },
+    {
+      "from": 198.64,
+      "to": 200.44,
+      "sid": 102,
+      "location": 2,
+      "content": "世界百分之七十"
+    },
+    {
+      "from": 200.44,
+      "to": 201.84,
+      "sid": 103,
+      "location": 2,
+      "content": "只是取决于当地人"
+    },
+    {
+      "from": 202.96,
+      "to": 203.88,
+      "sid": 104,
+      "location": 2,
+      "content": "当地人会去"
+    },
+    {
+      "from": 203.88,
+      "to": 204.94,
+      "sid": 105,
+      "location": 2,
+      "content": "是价格"
+    },
+    {
+      "from": 204.94,
+      "to": 205.38,
+      "sid": 106,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 205.38,
+      "to": 206.44,
+      "sid": 107,
+      "location": 2,
+      "content": "总是四十五"
+    },
+    {
+      "from": 206.44,
+      "to": 207.28,
+      "sid": 108,
+      "location": 2,
+      "content": "对对对"
+    },
+    {
+      "from": 207.28,
+      "to": 208.06,
+      "sid": 109,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 208.06,
+      "to": 210.66,
+      "sid": 110,
+      "location": 2,
+      "content": "一周可能我们起床给他们一点"
+    },
+    {
+      "from": 210.66,
+      "to": 215.11,
+      "sid": 111,
+      "location": 2,
+      "content": "像四十五和七计数是三百五十美元对吧"
+    },
+    {
+      "from": 215.11,
+      "to": 215.53,
+      "sid": 112,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 215.53,
+      "to": 218.74,
+      "sid": 113,
+      "location": 2,
+      "content": "但那一周我们可以让他们八十"
+    },
+    {
+      "from": 218.82,
+      "to": 220.06,
+      "sid": 114,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 220.06,
+      "to": 224.839,
+      "sid": 115,
+      "location": 2,
+      "content": "让我们看看这里在这个的两百三十五折扣"
+    },
+    {
+      "from": 224.839,
+      "to": 226.879,
+      "sid": 116,
+      "location": 2,
+      "content": "我们大约有十四千人人口"
+    },
+    {
+      "from": 228.119,
+      "to": 230.759,
+      "sid": 117,
+      "location": 2,
+      "content": "但年轻人机会并不好"
+    },
+    {
+      "from": 230.759,
+      "to": 231.199,
+      "sid": 118,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 231.199,
+      "to": 231.979,
+      "sid": 119,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 231.979,
+      "to": 234.05,
+      "sid": 120,
+      "location": 2,
+      "content": "高中毕业的人"
+    },
+    {
+      "from": 234.05,
+      "to": 235.57,
+      "sid": 121,
+      "location": 2,
+      "content": "如果他们正在找工作"
+    },
+    {
+      "from": 235.57,
+      "to": 236.41,
+      "sid": 122,
+      "location": 2,
+      "content": "他们可以找到工作"
+    },
+    {
+      "from": 236.41,
+      "to": 237.63,
+      "sid": 123,
+      "location": 2,
+      "content": "所以他们去别的地方"
+    },
+    {
+      "from": 237.63,
+      "to": 240.21,
+      "sid": 124,
+      "location": 2,
+      "content": "就这样"
+    },
+    {
+      "from": 240.21,
+      "to": 243.579,
+      "sid": 125,
+      "location": 2,
+      "content": "这已经是密西西比州的一个大城市"
+    },
+    {
+      "from": 243.579,
+      "to": 245.839,
+      "sid": 126,
+      "location": 2,
+      "content": "如果你去像小房子"
+    },
+    {
+      "from": 245.839,
+      "to": 246.419,
+      "sid": 127,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 246.419,
+      "to": 246.619,
+      "sid": 128,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 246.619,
+      "to": 247.659,
+      "sid": 129,
+      "location": 2,
+      "content": "我们并不小"
+    },
+    {
+      "from": 247.659,
+      "to": 252.28,
+      "sid": 130,
+      "location": 2,
+      "content": "但人口大约是两万两千人"
+    },
+    {
+      "from": 253.4,
+      "to": 255.72,
+      "sid": 131,
+      "location": 2,
+      "content": "我们只有十四千人"
+    },
+    {
+      "from": 255.72,
+      "to": 258.24,
+      "sid": 132,
+      "location": 2,
+      "content": "所以可能有八千人住在周围"
+    },
+    {
+      "from": 258.24,
+      "to": 259.28,
+      "sid": 133,
+      "location": 2,
+      "content": "你知道小镇"
+    },
+    {
+      "from": 259.28,
+      "to": 260.28,
+      "sid": 134,
+      "location": 2,
+      "content": "所以那一次"
+    },
+    {
+      "from": 260.28,
+      "to": 262.84,
+      "sid": 135,
+      "location": 2,
+      "content": "但你知道人口非常低"
+    },
+    {
+      "from": 263.35,
+      "to": 263.73,
+      "sid": 136,
+      "location": 2,
+      "content": "好吧"
+    },
+    {
+      "from": 263.73,
+      "to": 265.29,
+      "sid": 137,
+      "location": 2,
+      "content": "这是州实际上"
+    },
+    {
+      "from": 265.29,
+      "to": 266.47,
+      "sid": 138,
+      "location": 2,
+      "content": "这就是为什么人们"
+    },
+    {
+      "from": 266.47,
+      "to": 269.73,
+      "sid": 139,
+      "location": 2,
+      "content": "很多人不搬进来农业"
+    },
+    {
+      "from": 269.73,
+      "to": 271.65,
+      "sid": 140,
+      "location": 2,
+      "content": "你无法在一切中找到更多的工作"
+    },
+    {
+      "from": 271.65,
+      "to": 272.25,
+      "sid": 141,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 272.25,
+      "to": 276.72,
+      "sid": 142,
+      "location": 2,
+      "content": "所有东西都通过卡车汽车机器机器机器对吧"
+    },
+    {
+      "from": 276.72,
+      "to": 277.08,
+      "sid": 143,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 277.08,
+      "to": 277.42,
+      "sid": 144,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 277.42,
+      "to": 278.66,
+      "sid": 145,
+      "location": 2,
+      "content": "他们不需要那么多人"
+    },
+    {
+      "from": 278.66,
+      "to": 279.2,
+      "sid": 146,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 279.2,
+      "to": 284.35,
+      "sid": 147,
+      "location": 2,
+      "content": "否则我们会有很多像密码一样非常富有"
+    },
+    {
+      "from": 285.43,
+      "to": 286.57,
+      "sid": 148,
+      "location": 2,
+      "content": "因为他们拥有土地"
+    },
+    {
+      "from": 286.57,
+      "to": 288.6,
+      "sid": 149,
+      "location": 2,
+      "content": "可能六千英亩"
+    },
+    {
+      "from": 7.67,
+      "to": 13.47,
+      "sid": 150,
+      "location": 2,
+      "content": "默认可设为线性"
+    },
+    {
+      "from": 20.54,
+      "to": 23.1,
+      "sid": 151,
+      "location": 2,
+      "content": "我在循环中注意这个"
+    },
+    {
+      "from": 23.1,
+      "to": 23.34,
+      "sid": 152,
+      "location": 2,
+      "content": "这里"
+    },
+    {
+      "from": 23.34,
+      "to": 24.56,
+      "sid": 153,
+      "location": 2,
+      "content": "他们只是"
+    },
+    {
+      "from": 24.56,
+      "to": 28.44,
+      "sid": 154,
+      "location": 2,
+      "content": "你出生在"
+    },
+    {
+      "from": 29.92,
+      "to": 30.88,
+      "sid": 155,
+      "location": 2,
+      "content": "并在一夜之间"
+    },
+    {
+      "from": 30.88,
+      "to": 31.91,
+      "sid": 156,
+      "location": 2,
+      "content": "四九"
+    },
+    {
+      "from": 31.91,
+      "to": 32.63,
+      "sid": 157,
+      "location": 2,
+      "content": "二十五"
+    },
+    {
+      "from": 33.83,
+      "to": 34.53,
+      "sid": 158,
+      "location": 2,
+      "content": "四十五"
+    },
+    {
+      "from": 34.53,
+      "to": 36.42,
+      "sid": 159,
+      "location": 2,
+      "content": "税后四十五"
+    },
+    {
+      "from": 47.3,
+      "to": 57.19,
+      "sid": 160,
+      "location": 2,
+      "content": "方九义聚会"
+    },
+    {
+      "from": 57.19,
+      "to": 59.73,
+      "sid": 161,
+      "location": 2,
+      "content": "你做得不好"
+    },
+    {
+      "from": 59.73,
+      "to": 61.95,
+      "sid": 162,
+      "location": 2,
+      "content": "你喜欢"
+    },
+    {
+      "from": 66.9,
+      "to": 69.5,
+      "sid": 163,
+      "location": 2,
+      "content": "你应该"
+    },
+    {
+      "from": 72.2,
+      "to": 77.01,
+      "sid": 164,
+      "location": 2,
+      "content": "这是一个六十五岁的"
+    },
+    {
+      "from": 77.01,
+      "to": 79.91,
+      "sid": 165,
+      "location": 2,
+      "content": "但自三九三九年以来我就在这里"
+    },
+    {
+      "from": 79.91,
+      "to": 82.21,
+      "sid": 166,
+      "location": 2,
+      "content": "这里还有两个鸡蛋"
+    },
+    {
+      "from": 82.21,
+      "to": 84.41,
+      "sid": 167,
+      "location": 2,
+      "content": "哦你喜欢这里"
+    },
+    {
+      "from": 84.41,
+      "to": 85.61,
+      "sid": 168,
+      "location": 2,
+      "content": "哦是的"
+    },
+    {
+      "from": 85.61,
+      "to": 86.23,
+      "sid": 169,
+      "location": 2,
+      "content": "这里"
+    },
+    {
+      "from": 86.23,
+      "to": 87.92,
+      "sid": 170,
+      "location": 2,
+      "content": "你知道像克拉克代尔"
+    },
+    {
+      "from": 87.92,
+      "to": 88.4,
+      "sid": 171,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 88.4,
+      "to": 89.62,
+      "sid": 172,
+      "location": 2,
+      "content": "像你"
+    },
+    {
+      "from": 89.62,
+      "to": 92.78,
+      "sid": 173,
+      "location": 2,
+      "content": "但当我来到这里时我二十六岁"
+    },
+    {
+      "from": 92.78,
+      "to": 93.51,
+      "sid": 174,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 93.51,
+      "to": 94.75,
+      "sid": 175,
+      "location": 2,
+      "content": "三十九年前"
+    },
+    {
+      "from": 95.91,
+      "to": 98.43,
+      "sid": 176,
+      "location": 2,
+      "content": "我是二十六岁的新人"
+    },
+    {
+      "from": 98.43,
+      "to": 98.87,
+      "sid": 177,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 98.87,
+      "to": 99.64,
+      "sid": 178,
+      "location": 2,
+      "content": "年轻人"
+    },
+    {
+      "from": 99.64,
+      "to": 102.46,
+      "sid": 179,
+      "location": 2,
+      "content": "哦我六十四岁"
+    },
+    {
+      "from": 102.46,
+      "to": 104.14,
+      "sid": 180,
+      "location": 2,
+      "content": "但这里很漂亮"
+    },
+    {
+      "from": 104.14,
+      "to": 105.94,
+      "sid": 181,
+      "location": 2,
+      "content": "所以这里有点右"
+    },
+    {
+      "from": 105.94,
+      "to": 107.44,
+      "sid": 182,
+      "location": 2,
+      "content": "我知道我的社区"
+    },
+    {
+      "from": 107.44,
+      "to": 108.5,
+      "sid": 183,
+      "location": 2,
+      "content": "嗯是的"
+    },
+    {
+      "from": 108.5,
+      "to": 109.16,
+      "sid": 184,
+      "location": 2,
+      "content": "他们我是说"
+    },
+    {
+      "from": 109.16,
+      "to": 110.1,
+      "sid": 185,
+      "location": 2,
+      "content": "六户家庭"
+    },
+    {
+      "from": 110.1,
+      "to": 111.2,
+      "sid": 186,
+      "location": 2,
+      "content": "六个印第安人"
+    },
+    {
+      "from": 111.2,
+      "to": 112.72,
+      "sid": 187,
+      "location": 2,
+      "content": "六户家庭"
+    },
+    {
+      "from": 112.97,
+      "to": 113.87,
+      "sid": 188,
+      "location": 2,
+      "content": "他们中的大多数"
+    },
+    {
+      "from": 113.87,
+      "to": 117.26,
+      "sid": 189,
+      "location": 2,
+      "content": "在密西西比州不需要我"
+    },
+    {
+      "from": 117.26,
+      "to": 117.84,
+      "sid": 190,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 117.84,
+      "to": 119.6,
+      "sid": 191,
+      "location": 2,
+      "content": "我们已实现全州"
+    },
+    {
+      "from": 119.6,
+      "to": 120.8,
+      "sid": 192,
+      "location": 2,
+      "content": "黑人在这里"
+    },
+    {
+      "from": 120.8,
+      "to": 121.2,
+      "sid": 193,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 121.2,
+      "to": 125.38,
+      "sid": 194,
+      "location": 2,
+      "content": "布莱克韦尔几乎百分之八十五是黑人"
+    },
+    {
+      "from": 125.38,
+      "to": 128.22,
+      "sid": 195,
+      "location": 2,
+      "content": "只有百分之十五是白人"
+    },
+    {
+      "from": 128.22,
+      "to": 129.38,
+      "sid": 196,
+      "location": 2,
+      "content": "但他们很友好"
+    },
+    {
+      "from": 130.42,
+      "to": 132.7,
+      "sid": 197,
+      "location": 2,
+      "content": "这是一个完整的"
+    },
+    {
+      "from": 132.7,
+      "to": 133.38,
+      "sid": 198,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 133.38,
+      "to": 133.84,
+      "sid": 199,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 133.84,
+      "to": 135.42,
+      "sid": 200,
+      "location": 2,
+      "content": "牛排状态真好"
+    },
+    {
+      "from": 135.42,
+      "to": 136.94,
+      "sid": 201,
+      "location": 2,
+      "content": "人们并不真实"
+    },
+    {
+      "from": 136.94,
+      "to": 138.1,
+      "sid": 202,
+      "location": 2,
+      "content": "你知道他们工作5天"
+    },
+    {
+      "from": 138.1,
+      "to": 138.7,
+      "sid": 203,
+      "location": 2,
+      "content": "大多数人"
+    },
+    {
+      "from": 139.82,
+      "to": 140.06,
+      "sid": 204,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 140.06,
+      "to": 141.94,
+      "sid": 205,
+      "location": 2,
+      "content": "这些人很酷"
+    },
+    {
+      "from": 141.94,
+      "to": 143.6,
+      "sid": 206,
+      "location": 2,
+      "content": "人们疯狂"
+    },
+    {
+      "from": 143.6,
+      "to": 144.54,
+      "sid": 207,
+      "location": 2,
+      "content": "人们知道"
+    },
+    {
+      "from": 144.54,
+      "to": 145.06,
+      "sid": 208,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 145.06,
+      "to": 145.36,
+      "sid": 209,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 145.36,
+      "to": 146.269,
+      "sid": 210,
+      "location": 2,
+      "content": "我们在这"
+    },
+    {
+      "from": 146.789,
+      "to": 149.029,
+      "sid": 211,
+      "location": 2,
+      "content": "像任何黑人一样下来"
+    },
+    {
+      "from": 149.029,
+      "to": 151.809,
+      "sid": 212,
+      "location": 2,
+      "content": "最后你学会了"
+    },
+    {
+      "from": 151.809,
+      "to": 152.249,
+      "sid": 213,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 152.249,
+      "to": 153.149,
+      "sid": 214,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 153.149,
+      "to": 153.689,
+      "sid": 215,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 153.689,
+      "to": 153.969,
+      "sid": 216,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 153.969,
+      "to": 154.39,
+      "sid": 217,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 154.39,
+      "to": 157.03,
+      "sid": 218,
+      "location": 2,
+      "content": "我听说根源在这"
+    },
+    {
+      "from": 157.03,
+      "to": 159.31,
+      "sid": 219,
+      "location": 2,
+      "content": "但如果我说就给它"
+    },
+    {
+      "from": 159.31,
+      "to": 161.9,
+      "sid": 220,
+      "location": 2,
+      "content": "那么大多数当地人"
+    },
+    {
+      "from": 161.9,
+      "to": 162.4,
+      "sid": 221,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 162.4,
+      "to": 163.36,
+      "sid": 222,
+      "location": 2,
+      "content": "车在这"
+    },
+    {
+      "from": 163.36,
+      "to": 165.26,
+      "sid": 223,
+      "location": 2,
+      "content": "和一些农民的银行"
+    },
+    {
+      "from": 165.26,
+      "to": 165.44,
+      "sid": 224,
+      "location": 2,
+      "content": "人们"
+    },
+    {
+      "from": 165.44,
+      "to": 166.57,
+      "sid": 225,
+      "location": 2,
+      "content": "在农场工作的人"
+    },
+    {
+      "from": 166.57,
+      "to": 168.11,
+      "sid": 226,
+      "location": 2,
+      "content": "他来这里住"
+    },
+    {
+      "from": 168.11,
+      "to": 168.63,
+      "sid": 227,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 168.63,
+      "to": 169.09,
+      "sid": 228,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 169.09,
+      "to": 169.97,
+      "sid": 229,
+      "location": 2,
+      "content": "好的，像"
+    },
+    {
+      "from": 169.97,
+      "to": 170.41,
+      "sid": 230,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 170.41,
+      "to": 171.25,
+      "sid": 231,
+      "location": 2,
+      "content": "像沃尔玛"
+    },
+    {
+      "from": 171.25,
+      "to": 172.01,
+      "sid": 232,
+      "location": 2,
+      "content": "你沃尔玛"
+    },
+    {
+      "from": 172.01,
+      "to": 172.83,
+      "sid": 233,
+      "location": 2,
+      "content": "几乎5"
+    },
+    {
+      "from": 172.83,
+      "to": 175.09,
+      "sid": 234,
+      "location": 2,
+      "content": "只有多于一个在沃尔玛工作"
+    },
+    {
+      "from": 175.09,
+      "to": 176.92,
+      "sid": 235,
+      "location": 2,
+      "content": "所以那些人评论"
+    },
+    {
+      "from": 176.92,
+      "to": 177.7,
+      "sid": 236,
+      "location": 2,
+      "content": "他们也在这"
+    },
+    {
+      "from": 177.7,
+      "to": 178.5,
+      "sid": 237,
+      "location": 2,
+      "content": "哦，好的"
+    },
+    {
+      "from": 178.5,
+      "to": 179.08,
+      "sid": 238,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 180.12,
+      "to": 181.08,
+      "sid": 239,
+      "location": 2,
+      "content": "你不是富人"
+    },
+    {
+      "from": 181.08,
+      "to": 183.33,
+      "sid": 240,
+      "location": 2,
+      "content": "哦，你的酒店很好"
+    },
+    {
+      "from": 183.33,
+      "to": 184.01,
+      "sid": 241,
+      "location": 2,
+      "content": "好价格"
+    },
+    {
+      "from": 184.01,
+      "to": 184.63,
+      "sid": 242,
+      "location": 2,
+      "content": "哦，是的"
+    },
+    {
+      "from": 184.63,
+      "to": 186.43,
+      "sid": 243,
+      "location": 2,
+      "content": "但你不在谷歌上发帖"
+    },
+    {
+      "from": 186.43,
+      "to": 188.869,
+      "sid": 244,
+      "location": 2,
+      "content": "我得打电话给你谷歌谷歌"
+    },
+    {
+      "from": 188.869,
+      "to": 189.349,
+      "sid": 245,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 189.349,
+      "to": 190.949,
+      "sid": 246,
+      "location": 2,
+      "content": "谷歌上没有"
+    },
+    {
+      "from": 192.349,
+      "to": 193.069,
+      "sid": 247,
+      "location": 2,
+      "content": "有一个电话号码"
+    },
+    {
+      "from": 193.069,
+      "to": 194.95,
+      "sid": 248,
+      "location": 2,
+      "content": "但没有评分"
+    },
+    {
+      "from": 194.95,
+      "to": 197.13,
+      "sid": 249,
+      "location": 2,
+      "content": "我说你知道"
+    },
+    {
+      "from": 197.13,
+      "to": 198.64,
+      "sid": 250,
+      "location": 2,
+      "content": "大部分时间都在混合"
+    },
+    {
+      "from": 198.64,
+      "to": 200.44,
+      "sid": 251,
+      "location": 2,
+      "content": "世界百分之七十"
+    },
+    {
+      "from": 200.44,
+      "to": 201.84,
+      "sid": 252,
+      "location": 2,
+      "content": "只是取决于当地人"
+    },
+    {
+      "from": 202.96,
+      "to": 203.88,
+      "sid": 253,
+      "location": 2,
+      "content": "当地人会去"
+    },
+    {
+      "from": 203.88,
+      "to": 204.94,
+      "sid": 254,
+      "location": 2,
+      "content": "是价格"
+    },
+    {
+      "from": 204.94,
+      "to": 205.38,
+      "sid": 255,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 205.38,
+      "to": 206.44,
+      "sid": 256,
+      "location": 2,
+      "content": "总是四十五"
+    },
+    {
+      "from": 206.44,
+      "to": 207.28,
+      "sid": 257,
+      "location": 2,
+      "content": "对对对"
+    },
+    {
+      "from": 207.28,
+      "to": 208.06,
+      "sid": 258,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 208.06,
+      "to": 210.66,
+      "sid": 259,
+      "location": 2,
+      "content": "一周可能我们起床给他们一点"
+    },
+    {
+      "from": 210.66,
+      "to": 215.11,
+      "sid": 260,
+      "location": 2,
+      "content": "像四十五和七计数是三百五十美元对吧"
+    },
+    {
+      "from": 215.11,
+      "to": 215.53,
+      "sid": 261,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 215.53,
+      "to": 218.74,
+      "sid": 262,
+      "location": 2,
+      "content": "但那一周我们可以让他们八十"
+    },
+    {
+      "from": 218.82,
+      "to": 220.06,
+      "sid": 263,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 220.06,
+      "to": 224.839,
+      "sid": 264,
+      "location": 2,
+      "content": "让我们看看这里在这个的两百三十五折扣"
+    },
+    {
+      "from": 224.839,
+      "to": 226.879,
+      "sid": 265,
+      "location": 2,
+      "content": "我们大约有十四千人人口"
+    },
+    {
+      "from": 228.119,
+      "to": 230.759,
+      "sid": 266,
+      "location": 2,
+      "content": "但年轻人机会并不好"
+    },
+    {
+      "from": 230.759,
+      "to": 231.199,
+      "sid": 267,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 231.199,
+      "to": 231.979,
+      "sid": 268,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 231.979,
+      "to": 234.05,
+      "sid": 269,
+      "location": 2,
+      "content": "高中毕业的人"
+    },
+    {
+      "from": 234.05,
+      "to": 235.57,
+      "sid": 270,
+      "location": 2,
+      "content": "如果他们正在找工作"
+    },
+    {
+      "from": 235.57,
+      "to": 236.41,
+      "sid": 271,
+      "location": 2,
+      "content": "他们可以找到工作"
+    },
+    {
+      "from": 236.41,
+      "to": 237.63,
+      "sid": 272,
+      "location": 2,
+      "content": "所以他们去别的地方"
+    },
+    {
+      "from": 237.63,
+      "to": 240.21,
+      "sid": 273,
+      "location": 2,
+      "content": "就这样"
+    },
+    {
+      "from": 240.21,
+      "to": 243.579,
+      "sid": 274,
+      "location": 2,
+      "content": "这已经是密西西比州的一个大城市"
+    },
+    {
+      "from": 243.579,
+      "to": 245.839,
+      "sid": 275,
+      "location": 2,
+      "content": "如果你去像小房子"
+    },
+    {
+      "from": 245.839,
+      "to": 246.419,
+      "sid": 276,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 246.419,
+      "to": 246.619,
+      "sid": 277,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 246.619,
+      "to": 247.659,
+      "sid": 278,
+      "location": 2,
+      "content": "我们并不小"
+    },
+    {
+      "from": 247.659,
+      "to": 252.28,
+      "sid": 279,
+      "location": 2,
+      "content": "但人口大约是两万两千人"
+    },
+    {
+      "from": 253.4,
+      "to": 255.72,
+      "sid": 280,
+      "location": 2,
+      "content": "我们只有十四千人"
+    },
+    {
+      "from": 255.72,
+      "to": 258.24,
+      "sid": 281,
+      "location": 2,
+      "content": "所以可能有八千人住在周围"
+    },
+    {
+      "from": 258.24,
+      "to": 259.28,
+      "sid": 282,
+      "location": 2,
+      "content": "你知道小镇"
+    },
+    {
+      "from": 259.28,
+      "to": 260.28,
+      "sid": 283,
+      "location": 2,
+      "content": "所以那一次"
+    },
+    {
+      "from": 260.28,
+      "to": 262.84,
+      "sid": 284,
+      "location": 2,
+      "content": "但你知道人口非常低"
+    },
+    {
+      "from": 263.35,
+      "to": 263.73,
+      "sid": 285,
+      "location": 2,
+      "content": "好吧"
+    },
+    {
+      "from": 263.73,
+      "to": 265.29,
+      "sid": 286,
+      "location": 2,
+      "content": "这是州实际上"
+    },
+    {
+      "from": 265.29,
+      "to": 266.47,
+      "sid": 287,
+      "location": 2,
+      "content": "这就是为什么人们"
+    },
+    {
+      "from": 266.47,
+      "to": 269.73,
+      "sid": 288,
+      "location": 2,
+      "content": "很多人不搬进来农业"
+    },
+    {
+      "from": 269.73,
+      "to": 271.65,
+      "sid": 289,
+      "location": 2,
+      "content": "你无法在一切中找到更多的工作"
+    },
+    {
+      "from": 271.65,
+      "to": 272.25,
+      "sid": 290,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 272.25,
+      "to": 276.72,
+      "sid": 291,
+      "location": 2,
+      "content": "所有东西都通过卡车汽车机器机器机器对吧"
+    },
+    {
+      "from": 276.72,
+      "to": 277.08,
+      "sid": 292,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 277.08,
+      "to": 277.42,
+      "sid": 293,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 277.42,
+      "to": 278.66,
+      "sid": 294,
+      "location": 2,
+      "content": "他们不需要那么多人"
+    },
+    {
+      "from": 278.66,
+      "to": 279.2,
+      "sid": 295,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 279.2,
+      "to": 284.35,
+      "sid": 296,
+      "location": 2,
+      "content": "否则我们会有很多像密码一样非常富有"
+    },
+    {
+      "from": 285.43,
+      "to": 286.57,
+      "sid": 297,
+      "location": 2,
+      "content": "因为他们拥有土地"
+    },
+    {
+      "from": 286.57,
+      "to": 288.6,
+      "sid": 298,
+      "location": 2,
+      "content": "可能六千英亩"
+    },
+    {
+      "from": 288.6,
+      "to": 290.68,
+      "sid": 299,
+      "location": 2,
+      "content": "大概一万零八百左右"
+    },
+    {
+      "from": 290.68,
+      "to": 291.16,
+      "sid": 300,
+      "location": 2,
+      "content": "是啊"
+    },
+    {
+      "from": 291.16,
+      "to": 293.06,
+      "sid": 301,
+      "location": 2,
+      "content": "我看到几栋漂亮的房子"
+    },
+    {
+      "from": 293.06,
+      "to": 294.12,
+      "sid": 302,
+      "location": 2,
+      "content": "哦耶"
+    },
+    {
+      "from": 294.12,
+      "to": 294.82,
+      "sid": 303,
+      "location": 2,
+      "content": "就像"
+    },
+    {
+      "from": 294.82,
+      "to": 297.3,
+      "sid": 304,
+      "location": 2,
+      "content": "可能是因为现在都是企业化农业"
+    },
+    {
+      "from": 297.3,
+      "to": 297.7,
+      "sid": 305,
+      "location": 2,
+      "content": "是啊"
+    },
+    {
+      "from": 297.7,
+      "to": 299.2,
+      "sid": 306,
+      "location": 2,
+      "content": "这不是考试"
+    },
+    {
+      "from": 299.2,
+      "to": 300.5,
+      "sid": 307,
+      "location": 2,
+      "content": "土地的主人"
+    },
+    {
+      "from": 300.5,
+      "to": 303.19,
+      "sid": 308,
+      "location": 2,
+      "content": "农民非常富有"
+    },
+    {
+      "from": 303.19,
+      "to": 305.569,
+      "sid": 309,
+      "location": 2,
+      "content": "你看他们不再工作了"
+    },
+    {
+      "from": 305.569,
+      "to": 306.769,
+      "sid": 310,
+      "location": 2,
+      "content": "当罚款"
+    },
+    {
+      "from": 306.769,
+      "to": 308.489,
+      "sid": 311,
+      "location": 2,
+      "content": "但他们会把所有东西都放在盒子里给你"
+    },
+    {
+      "from": 308.489,
+      "to": 310.209,
+      "sid": 312,
+      "location": 2,
+      "content": "你每年都能达到"
+    },
+    {
+      "from": 310.209,
+      "to": 310.869,
+      "sid": 313,
+      "location": 2,
+      "content": "他们制作"
+    },
+    {
+      "from": 310.869,
+      "to": 312.6,
+      "sid": 314,
+      "location": 2,
+      "content": "你知道从底层"
+    },
+    {
+      "from": 312.6,
+      "to": 313.58,
+      "sid": 315,
+      "location": 2,
+      "content": "你也很富有"
+    },
+    {
+      "from": 313.58,
+      "to": 315.16,
+      "sid": 316,
+      "location": 2,
+      "content": "嘿你也像"
+    },
+    {
+      "from": 315.16,
+      "to": 316.08,
+      "sid": 317,
+      "location": 2,
+      "content": "我不在这里"
+    },
+    {
+      "from": 316.08,
+      "to": 316.96,
+      "sid": 318,
+      "location": 2,
+      "content": "像二十九年"
+    },
+    {
+      "from": 316.96,
+      "to": 318.2,
+      "sid": 319,
+      "location": 2,
+      "content": "我在这里幸存"
+    },
+    {
+      "from": 318.2,
+      "to": 318.72,
+      "sid": 320,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 318.72,
+      "to": 319.62,
+      "sid": 321,
+      "location": 2,
+      "content": "这是一个小"
+    },
+    {
+      "from": 319.62,
+      "to": 320.52,
+      "sid": 322,
+      "location": 2,
+      "content": "这是一个非常小的"
+    },
+    {
+      "from": 321.92,
+      "to": 322.8,
+      "sid": 323,
+      "location": 2,
+      "content": "但我没有问题"
+    },
+    {
+      "from": 322.8,
+      "to": 323.36,
+      "sid": 324,
+      "location": 2,
+      "content": "那是肯定的"
+    },
+    {
+      "from": 323.36,
+      "to": 324.4,
+      "sid": 325,
+      "location": 2,
+      "content": "我没有她的脸颊"
+    },
+    {
+      "from": 324.4,
+      "to": 325.62,
+      "sid": 326,
+      "location": 2,
+      "content": "呃你知道"
+    },
+    {
+      "from": 325.62,
+      "to": 327.64,
+      "sid": 327,
+      "location": 2,
+      "content": "但我在那里更多一点"
+    },
+    {
+      "from": 327.64,
+      "to": 329.08,
+      "sid": 328,
+      "location": 2,
+      "content": "一一一像"
+    },
+    {
+      "from": 329.08,
+      "to": 330.28,
+      "sid": 329,
+      "location": 2,
+      "content": "你必须有另一个人"
+    },
+    {
+      "from": 330.28,
+      "to": 331.49,
+      "sid": 330,
+      "location": 2,
+      "content": "你需要睡觉"
+    },
+    {
+      "from": 331.49,
+      "to": 331.97,
+      "sid": 331,
+      "location": 2,
+      "content": "哦耶"
+    },
+    {
+      "from": 331.97,
+      "to": 333.21,
+      "sid": 332,
+      "location": 2,
+      "content": "我喜欢"
+    },
+    {
+      "from": 333.21,
+      "to": 333.73,
+      "sid": 333,
+      "location": 2,
+      "content": "呃"
+    },
+    {
+      "from": 333.73,
+      "to": 335.33,
+      "sid": 334,
+      "location": 2,
+      "content": "我不认为我自己在这里"
+    },
+    {
+      "from": 335.33,
+      "to": 335.69,
+      "sid": 335,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 335.69,
+      "to": 337.33,
+      "sid": 336,
+      "location": 2,
+      "content": "我和我妻子一起"
+    },
+    {
+      "from": 337.33,
+      "to": 339.69,
+      "sid": 337,
+      "location": 2,
+      "content": "你的妻子晚上也来这里为你"
+    },
+    {
+      "from": 339.69,
+      "to": 340.59,
+      "sid": 338,
+      "location": 2,
+      "content": "哦伙计"
+    },
+    {
+      "from": 340.59,
+      "to": 341.63,
+      "sid": 339,
+      "location": 2,
+      "content": "你认为我赢了"
+    },
+    {
+      "from": 341.63,
+      "to": 344.91,
+      "sid": 340,
+      "location": 2,
+      "content": "只有我和她可以来看她在房间里"
+    },
+    {
+      "from": 344.91,
+      "to": 347.42,
+      "sid": 341,
+      "location": 2,
+      "content": "好的那不是总是在这里"
+    },
+    {
+      "from": 347.42,
+      "to": 347.84,
+      "sid": 342,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 347.84,
+      "to": 349.06,
+      "sid": 343,
+      "location": 2,
+      "content": "我也有儿子和女儿"
+    },
+    {
+      "from": 349.06,
+      "to": 350.42,
+      "sid": 344,
+      "location": 2,
+      "content": "但他们赢了在这里"
+    },
+    {
+      "from": 350.42,
+      "to": 351.99,
+      "sid": 345,
+      "location": 2,
+      "content": "他们在这里长大"
+    },
+    {
+      "from": 351.99,
+      "to": 353.13,
+      "sid": 346,
+      "location": 2,
+      "content": "现在他们在某个地方"
+    },
+    {
+      "from": 353.13,
+      "to": 354.67,
+      "sid": 347,
+      "location": 2,
+      "content": "他们甚至不在小生意中"
+    },
+    {
+      "from": 355.99,
+      "to": 358.38,
+      "sid": 348,
+      "location": 2,
+      "content": "哦为什么住在佐治亚州"
+    },
+    {
+      "from": 358.38,
+      "to": 360.48,
+      "sid": 349,
+      "location": 2,
+      "content": "他赢了口井"
+    },
+    {
+      "from": 360.48,
+      "to": 361.56,
+      "sid": 350,
+      "location": 2,
+      "content": "哦 好的"
+    },
+    {
+      "from": 361.56,
+      "to": 361.92,
+      "sid": 351,
+      "location": 2,
+      "content": "耶"
+    },
+    {
+      "from": 361.92,
+      "to": 363.06,
+      "sid": 352,
+      "location": 2,
+      "content": "你可以看到他正往这边走"
+    },
+    {
+      "from": 363.06,
+      "to": 364.9,
+      "sid": 353,
+      "location": 2,
+      "content": "那是在印度得到的吗"
+    },
+    {
+      "from": 364.9,
+      "to": 367.36,
+      "sid": 354,
+      "location": 2,
+      "content": "嗯 那么你的女儿呢"
+    },
+    {
+      "from": 367.36,
+      "to": 369.16,
+      "sid": 355,
+      "location": 2,
+      "content": "我女儿在田纳西州纳什维尔"
+    },
+    {
+      "from": 369.16,
+      "to": 371.75,
+      "sid": 356,
+      "location": 2,
+      "content": "她有心脏学的博士学位"
+    },
+    {
+      "from": 371.75,
+      "to": 373.05,
+      "sid": 357,
+      "location": 2,
+      "content": "给你心脏问题"
+    },
+    {
+      "from": 373.05,
+      "to": 374.27,
+      "sid": 358,
+      "location": 2,
+      "content": "哦 你可以拿走"
+    },
+    {
+      "from": 374.27,
+      "to": 375.23,
+      "sid": 359,
+      "location": 2,
+      "content": "哦 好的"
+    },
+    {
+      "from": 375.23,
+      "to": 375.79,
+      "sid": 360,
+      "location": 2,
+      "content": "那很好"
+    },
+    {
+      "from": 375.79,
+      "to": 376.53,
+      "sid": 361,
+      "location": 2,
+      "content": "那很好"
+    },
+    {
+      "from": 376.53,
+      "to": 377.98,
+      "sid": 362,
+      "location": 2,
+      "content": "但非常聪明"
+    },
+    {
+      "from": 377.98,
+      "to": 380.18,
+      "sid": 363,
+      "location": 2,
+      "content": "哦 那就是她为中士工作的地方"
+    },
+    {
+      "from": 380.18,
+      "to": 382.32,
+      "sid": 364,
+      "location": 2,
+      "content": "你知道 做手术的医生"
+    },
+    {
+      "from": 382.32,
+      "to": 383.14,
+      "sid": 365,
+      "location": 2,
+      "content": "她说得对"
+    },
+    {
+      "from": 383.14,
+      "to": 386.54,
+      "sid": 366,
+      "location": 2,
+      "content": "我下一个小中士"
+    },
+    {
+      "from": 386.54,
+      "to": 387.66,
+      "sid": 367,
+      "location": 2,
+      "content": "儿子也很聪明"
+    },
+    {
+      "from": 387.66,
+      "to": 388.98,
+      "sid": 368,
+      "location": 2,
+      "content": "但他成了"
+    },
+    {
+      "from": 388.98,
+      "to": 390.26,
+      "sid": 369,
+      "location": 2,
+      "content": "他有商业学位"
+    },
+    {
+      "from": 390.26,
+      "to": 392.52,
+      "sid": 370,
+      "location": 2,
+      "content": "哦 我儿子从没做过生意"
+    },
+    {
+      "from": 392.52,
+      "to": 394.08,
+      "sid": 371,
+      "location": 2,
+      "content": "所以他做生意"
+    },
+    {
+      "from": 394.08,
+      "to": 395.32,
+      "sid": 372,
+      "location": 2,
+      "content": "我女儿在医院工作"
+    },
+    {
+      "from": 396.64,
+      "to": 397.78,
+      "sid": 373,
+      "location": 2,
+      "content": "印度人非常聪明"
+    },
+    {
+      "from": 397.78,
+      "to": 399.86,
+      "sid": 374,
+      "location": 2,
+      "content": "你看加油站 酒店"
+    },
+    {
+      "from": 399.86,
+      "to": 400.46,
+      "sid": 375,
+      "location": 2,
+      "content": "哦 是的"
+    },
+    {
+      "from": 400.46,
+      "to": 401.6,
+      "sid": 376,
+      "location": 2,
+      "content": "都是印度人"
+    },
+    {
+      "from": 401.6,
+      "to": 405.84,
+      "sid": 377,
+      "location": 2,
+      "content": "但你知道他们为霰弹枪贡献了什么"
+    },
+    {
+      "from": 405.84,
+      "to": 407.07,
+      "sid": 378,
+      "location": 2,
+      "content": "所以这意味着你知道"
+    },
+    {
+      "from": 407.07,
+      "to": 409.47,
+      "sid": 379,
+      "location": 2,
+      "content": "我绝不说"
+    },
+    {
+      "from": 409.47,
+      "to": 410.57,
+      "sid": 380,
+      "location": 2,
+      "content": "每天只会更好"
+    },
+    {
+      "from": 410.57,
+      "to": 411.21,
+      "sid": 381,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 411.21,
+      "to": 412.83,
+      "sid": 382,
+      "location": 2,
+      "content": "中国人放在这里"
+    },
+    {
+      "from": 412.83,
+      "to": 413.63,
+      "sid": 383,
+      "location": 2,
+      "content": "中国人"
+    },
+    {
+      "from": 413.63,
+      "to": 416.02,
+      "sid": 384,
+      "location": 2,
+      "content": "拥有餐馆和商店的中国家庭"
+    },
+    {
+      "from": 416.02,
+      "to": 416.46,
+      "sid": 385,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 416.46,
+      "to": 420.22,
+      "sid": 386,
+      "location": 2,
+      "content": "你考虑一周七天"
+    },
+    {
+      "from": 420.22,
+      "to": 424.09,
+      "sid": 387,
+      "location": 2,
+      "content": "他们家庭 一个中国家庭"
+    },
+    {
+      "from": 424.09,
+      "to": 424.97,
+      "sid": 388,
+      "location": 2,
+      "content": "他们没有那么多人"
+    },
+    {
+      "from": 424.97,
+      "to": 426.91,
+      "sid": 389,
+      "location": 2,
+      "content": "他们靠自己工作"
+    },
+    {
+      "from": 426.91,
+      "to": 428.71,
+      "sid": 390,
+      "location": 2,
+      "content": "自雇是一个"
+    },
+    {
+      "from": 428.71,
+      "to": 430.35,
+      "sid": 391,
+      "location": 2,
+      "content": "都是亚洲人"
+    },
+    {
+      "from": 432.19,
+      "to": 434.15,
+      "sid": 392,
+      "location": 2,
+      "content": "这是你需要帮助的大生意"
+    },
+    {
+      "from": 434.15,
+      "to": 436.36,
+      "sid": 393,
+      "location": 2,
+      "content": "就像我儿子在佐治亚州工作"
+    },
+    {
+      "from": 436.36,
+      "to": 437.36,
+      "sid": 394,
+      "location": 2,
+      "content": "他没有帮手"
+    },
+    {
+      "from": 437.36,
+      "to": 438.78,
+      "sid": 395,
+      "location": 2,
+      "content": "他可以自己工作"
+    },
+    {
+      "from": 438.78,
+      "to": 442.08,
+      "sid": 396,
+      "location": 2,
+      "content": "大约八年的大酒店"
+    },
+    {
+      "from": 442.08,
+      "to": 444.13,
+      "sid": 397,
+      "location": 2,
+      "content": "他在办公室有张桌子"
+    },
+    {
+      "from": 444.13,
+      "to": 446.53,
+      "sid": 398,
+      "location": 2,
+      "content": "她在汽车旅馆有维修工吗"
+    },
+    {
+      "from": 446.53,
+      "to": 447.83,
+      "sid": 399,
+      "location": 2,
+      "content": "她是清洁工"
+    },
+    {
+      "from": 447.83,
+      "to": 449.76,
+      "sid": 400,
+      "location": 2,
+      "content": "在汽车旅馆酒店"
+    },
+    {
+      "from": 449.76,
+      "to": 450.04,
+      "sid": 401,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 450.04,
+      "to": 451.74,
+      "sid": 402,
+      "location": 2,
+      "content": "你也做清洁工作吗"
+    },
+    {
+      "from": 451.74,
+      "to": 452.06,
+      "sid": 403,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 452.06,
+      "to": 453.08,
+      "sid": 404,
+      "location": 2,
+      "content": "我亲自做清洁"
+    },
+    {
+      "from": 454.56,
+      "to": 454.96,
+      "sid": 405,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 454.96,
+      "to": 456.6,
+      "sid": 406,
+      "location": 2,
+      "content": "每天这个都很好"
+    },
+    {
+      "from": 456.6,
+      "to": 458.66,
+      "sid": 407,
+      "location": 2,
+      "content": "但大约三到四个小时"
+    },
+    {
+      "from": 458.66,
+      "to": 460.72,
+      "sid": 408,
+      "location": 2,
+      "content": "但我可以在任何地方工作"
+    },
+    {
+      "from": 473.7,
+      "to": 477.74,
+      "sid": 409,
+      "location": 2,
+      "content": "所以当我发现时"
+    },
+    {
+      "from": 479.46,
+      "to": 480.62,
+      "sid": 410,
+      "location": 2,
+      "content": "她刚得到它"
+    },
+    {
+      "from": 480.62,
+      "to": 481.66,
+      "sid": 411,
+      "location": 2,
+      "content": "她是续集"
+    },
+    {
+      "from": 485.34,
+      "to": 486.46,
+      "sid": 412,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 486.979,
+      "to": 487.579,
+      "sid": 413,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 487.579,
+      "to": 488.059,
+      "sid": 414,
+      "location": 2,
+      "content": "祝福"
+    },
+    {
+      "from": 488.059,
+      "to": 488.499,
+      "sid": 415,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 488.499,
+      "to": 488.999,
+      "sid": 416,
+      "location": 2,
+      "content": "她不是"
+    },
+    {
+      "from": 488.999,
+      "to": 489.799,
+      "sid": 417,
+      "location": 2,
+      "content": "她不是顾客"
+    },
+    {
+      "from": 489.799,
+      "to": 490.639,
+      "sid": 418,
+      "location": 2,
+      "content": "她在街上"
+    },
+    {
+      "from": 490.639,
+      "to": 491.999,
+      "sid": 419,
+      "location": 2,
+      "content": "她和某人"
+    },
+    {
+      "from": 491.999,
+      "to": 493.1,
+      "sid": 420,
+      "location": 2,
+      "content": "好的"
+    },
+    {
+      "from": 493.1,
+      "to": 494.02,
+      "sid": 421,
+      "location": 2,
+      "content": "但最好是"
+    },
+    {
+      "from": 494.02,
+      "to": 494.76,
+      "sid": 422,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 494.76,
+      "to": 496.16,
+      "sid": 423,
+      "location": 2,
+      "content": "你对她好是很好的"
+    },
+    {
+      "from": 496.16,
+      "to": 498.7,
+      "sid": 424,
+      "location": 2,
+      "content": "这就是为什么我们尽力帮助她"
+    },
+    {
+      "from": 498.7,
+      "to": 500.13,
+      "sid": 425,
+      "location": 2,
+      "content": "你知道"
+    },
+    {
+      "from": 500.45,
+      "to": 502.03,
+      "sid": 426,
+      "location": 2,
+      "content": "顺便说一句，你得到了最好的"
+    },
+    {
+      "from": 502.03,
+      "to": 503.45,
+      "sid": 427,
+      "location": 2,
+      "content": "你也住在这里吗"
+    },
+    {
+      "from": 503.45,
+      "to": 504.03,
+      "sid": 428,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 504.03,
+      "to": 504.87,
+      "sid": 429,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 504.87,
+      "to": 506.58,
+      "sid": 430,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 506.94,
+      "to": 508.26,
+      "sid": 431,
+      "location": 2,
+      "content": "这个家伙在这里"
+    },
+    {
+      "from": 508.26,
+      "to": 508.86,
+      "sid": 432,
+      "location": 2,
+      "content": "照顾我"
+    },
+    {
+      "from": 508.86,
+      "to": 510.84,
+      "sid": 433,
+      "location": 2,
+      "content": "我住在这里"
+    },
+    {
+      "from": 510.84,
+      "to": 511.76,
+      "sid": 434,
+      "location": 2,
+      "content": "你看到我得到"
+    },
+    {
+      "from": 511.76,
+      "to": 512.72,
+      "sid": 435,
+      "location": 2,
+      "content": "他看到我生气"
+    },
+    {
+      "from": 512.72,
+      "to": 513.53,
+      "sid": 436,
+      "location": 2,
+      "content": "他告诉我"
+    },
+    {
+      "from": 513.53,
+      "to": 514.21,
+      "sid": 437,
+      "location": 2,
+      "content": "罗斯先生"
+    },
+    {
+      "from": 514.21,
+      "to": 515.73,
+      "sid": 438,
+      "location": 2,
+      "content": "我们会没事的"
+    },
+    {
+      "from": 516.93,
+      "to": 519.829,
+      "sid": 439,
+      "location": 2,
+      "content": "他总是试图让我"
+    },
+    {
+      "from": 519.829,
+      "to": 520.829,
+      "sid": 440,
+      "location": 2,
+      "content": "我在监狱工作"
+    },
+    {
+      "from": 520.829,
+      "to": 521.329,
+      "sid": 441,
+      "location": 2,
+      "content": "我工作"
+    },
+    {
+      "from": 521.329,
+      "to": 521.969,
+      "sid": 442,
+      "location": 2,
+      "content": "我为"
+    },
+    {
+      "from": 521.969,
+      "to": 522.389,
+      "sid": 443,
+      "location": 2,
+      "content": "嗯"
+    },
+    {
+      "from": 522.389,
+      "to": 523.809,
+      "sid": 444,
+      "location": 2,
+      "content": "联邦监狱在下面"
+    },
+    {
+      "from": 523.809,
+      "to": 524.469,
+      "sid": 445,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 524.469,
+      "to": 526.069,
+      "sid": 446,
+      "location": 2,
+      "content": "我的灵魂在这里"
+    },
+    {
+      "from": 526.069,
+      "to": 526.529,
+      "sid": 447,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 526.529,
+      "to": 528.29,
+      "sid": 448,
+      "location": 2,
+      "content": "关于十五"
+    },
+    {
+      "from": 528.29,
+      "to": 529.49,
+      "sid": 449,
+      "location": 2,
+      "content": "从这里17英里"
+    },
+    {
+      "from": 529.49,
+      "to": 529.69,
+      "sid": 450,
+      "location": 2,
+      "content": "对"
+    },
+    {
+      "from": 529.69,
+      "to": 530.47,
+      "sid": 451,
+      "location": 2,
+      "content": "那就是他工作的地方"
+    },
+    {
+      "from": 530.47,
+      "to": 531.77,
+      "sid": 452,
+      "location": 2,
+      "content": "他在监狱工作"
+    },
+    {
+      "from": 531.77,
+      "to": 532.89,
+      "sid": 453,
+      "location": 2,
+      "content": "他的监狱官"
+    },
+    {
+      "from": 532.89,
+      "to": 533.62,
+      "sid": 454,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 533.62,
+      "to": 536.2,
+      "sid": 455,
+      "location": 2,
+      "content": "所以我总是看到蓝灯"
+    },
+    {
+      "from": 536.2,
+      "to": 537.42,
+      "sid": 456,
+      "location": 2,
+      "content": "你看起来很坚强"
+    },
+    {
+      "from": 537.42,
+      "to": 537.94,
+      "sid": 457,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 539.38,
+      "to": 540.76,
+      "sid": 458,
+      "location": 2,
+      "content": "总得有人去做"
+    },
+    {
+      "from": 540.76,
+      "to": 541.76,
+      "sid": 459,
+      "location": 2,
+      "content": "哦，是的"
+    },
+    {
+      "from": 541.76,
+      "to": 551.15,
+      "sid": 460,
+      "location": 2,
+      "content": "或者是一个"
+    },
+    {
+      "from": 551.77,
+      "to": 552.41,
+      "sid": 461,
+      "location": 2,
+      "content": "是的"
+    },
+    {
+      "from": 552.41,
+      "to": 552.57,
+      "sid": 462,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 552.57,
+      "to": 553.17,
+      "sid": 463,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 553.17,
+      "to": 553.33,
+      "sid": 464,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 553.33,
+      "to": 554.71,
+      "sid": 465,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 554.71,
+      "to": 555.21,
+      "sid": 466,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 555.21,
+      "to": 556.55,
+      "sid": 467,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 556.55,
+      "to": 557.29,
+      "sid": 468,
+      "location": 2,
+      "content": "哦"
+    },
+    {
+      "from": 557.29,
+      "to": 558.55,
+      "sid": 469,
+      "location": 2,
+      "content": "让我看看"
+    },
+    {
+      "from": 558.55,
+      "to": 560.99,
+      "sid": 470,
+      "location": 2,
+      "content": "我猜他们会说"
+    },
+    {
+      "from": 562.03,
+      "to": 563.51,
+      "sid": 471,
+      "location": 2,
+      "content": "如果他们"
+    },
+    {
+      "from": 584.19,
+      "to": 591.2,
+      "sid": 472,
+      "location": 2,
+      "content": "但所有这些室友现在在你面前都很谦卑"
+    },
+    {
+      "from": 594.2,
+      "to": 596.54,
+      "sid": 473,
+      "location": 2,
+      "content": "能做到的只有十"
+    }
+  ]
+}

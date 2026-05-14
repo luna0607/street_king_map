@@ -1,0 +1,1508 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 1.0,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国",
+      "music": 0.0
+    },
+    {
+      "from": 1.0,
+      "to": 3.48,
+      "sid": 2,
+      "location": 2,
+      "content": "一个叫做凯维尔的500人小村庄",
+      "music": 0.0
+    },
+    {
+      "from": 3.48,
+      "to": 6.87,
+      "sid": 3,
+      "location": 2,
+      "content": "它位于肯塔基州最西端的县之一巴拉德县",
+      "music": 0.0
+    },
+    {
+      "from": 6.87,
+      "to": 8.63,
+      "sid": 4,
+      "location": 2,
+      "content": "这个县只有7000个人",
+      "music": 0.0
+    },
+    {
+      "from": 8.63,
+      "to": 9.99,
+      "sid": 5,
+      "location": 2,
+      "content": "但是面积有1.5个",
+      "music": 0.0
+    },
+    {
+      "from": 9.99,
+      "to": 10.61,
+      "sid": 6,
+      "location": 2,
+      "content": "海淀区",
+      "music": 0.0
+    },
+    {
+      "from": 10.61,
+      "to": 12.31,
+      "sid": 7,
+      "location": 2,
+      "content": "或者说一个上海松江区",
+      "music": 0.0
+    },
+    {
+      "from": 12.31,
+      "to": 13.91,
+      "sid": 8,
+      "location": 2,
+      "content": "加上杨浦区那么大",
+      "music": 0.0
+    },
+    {
+      "from": 13.91,
+      "to": 16.17,
+      "sid": 9,
+      "location": 2,
+      "content": "可以算得上是地广人稀了",
+      "music": 0.0
+    },
+    {
+      "from": 16.17,
+      "to": 18.75,
+      "sid": 10,
+      "location": 2,
+      "content": "而且这里的人口还在持续性流失",
+      "music": 0.0
+    },
+    {
+      "from": 18.75,
+      "to": 21.49,
+      "sid": 11,
+      "location": 2,
+      "content": "因此可以看得出来这边的空房子特别多",
+      "music": 0.0
+    },
+    {
+      "from": 21.49,
+      "to": 24.03,
+      "sid": 12,
+      "location": 2,
+      "content": "我现在在小镇的镇中公园旁边",
+      "music": 0.0
+    },
+    {
+      "from": 24.03,
+      "to": 25.54,
+      "sid": 13,
+      "location": 2,
+      "content": "还有一个很大的火车",
+      "music": 0.0
+    },
+    {
+      "from": 25.54,
+      "to": 27.38,
+      "sid": 14,
+      "location": 2,
+      "content": "这里曾经有一条铁路经过",
+      "music": 0.0
+    },
+    {
+      "from": 27.38,
+      "to": 28.82,
+      "sid": 15,
+      "location": 2,
+      "content": "但是现在拆掉了",
+      "music": 0.0
+    },
+    {
+      "from": 28.82,
+      "to": 31.64,
+      "sid": 16,
+      "location": 2,
+      "content": "所以说本地也变成了一个纯住宅区",
+      "music": 0.0
+    },
+    {
+      "from": 31.64,
+      "to": 34.03,
+      "sid": 17,
+      "location": 2,
+      "content": "看看这边非常的民风淳朴啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.03,
+      "to": 35.59,
+      "sid": 18,
+      "location": 2,
+      "content": "毕竟这个县2020年",
+      "music": 0.0
+    },
+    {
+      "from": 35.59,
+      "to": 38.01,
+      "sid": 19,
+      "location": 2,
+      "content": "80%的选民都投给了特朗普",
+      "music": 0.0
+    },
+    {
+      "from": 38.01,
+      "to": 39.43,
+      "sid": 20,
+      "location": 2,
+      "content": "我接着沿着乡村公路",
+      "music": 0.0
+    },
+    {
+      "from": 39.43,
+      "to": 41.86,
+      "sid": 21,
+      "location": 2,
+      "content": "前往这个县最大的镇拉桑克",
+      "music": 0.0
+    },
+    {
+      "from": 41.86,
+      "to": 44.34,
+      "sid": 22,
+      "location": 2,
+      "content": "这里也有着全县唯一家超市",
+      "music": 0.0
+    },
+    {
+      "from": 44.34,
+      "to": 46.1,
+      "sid": 23,
+      "location": 2,
+      "content": "Is this a new supermarket",
+      "music": 0.0
+    },
+    {
+      "from": 46.1,
+      "to": 46.86,
+      "sid": 24,
+      "location": 2,
+      "content": "Oh no",
+      "music": 0.0
+    },
+    {
+      "from": 46.86,
+      "to": 47.769,
+      "sid": 25,
+      "location": 2,
+      "content": "Not new",
+      "music": 0.0
+    },
+    {
+      "from": 47.769,
+      "to": 49.169,
+      "sid": 26,
+      "location": 2,
+      "content": "This like sewell",
+      "music": 0.0
+    },
+    {
+      "from": 49.169,
+      "to": 49.489,
+      "sid": 27,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 49.489,
+      "to": 51.669,
+      "sid": 28,
+      "location": 2,
+      "content": "It's um it changed hands",
+      "music": 0.0
+    },
+    {
+      "from": 51.669,
+      "to": 53.049,
+      "sid": 29,
+      "location": 2,
+      "content": "It is bought it",
+      "music": 0.0
+    },
+    {
+      "from": 53.049,
+      "to": 53.469,
+      "sid": 30,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 53.469,
+      "to": 54.049,
+      "sid": 31,
+      "location": 2,
+      "content": "谢谢送",
+      "music": 0.0
+    },
+    {
+      "from": 54.049,
+      "to": 54.609,
+      "sid": 32,
+      "location": 2,
+      "content": "Only market",
+      "music": 0.0
+    },
+    {
+      "from": 54.609,
+      "to": 55.98,
+      "sid": 33,
+      "location": 2,
+      "content": "Because serious dollar general",
+      "music": 0.0
+    },
+    {
+      "from": 55.98,
+      "to": 56.36,
+      "sid": 34,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 56.36,
+      "to": 57.46,
+      "sid": 35,
+      "location": 2,
+      "content": "Now this is only one",
+      "music": 0.0
+    },
+    {
+      "from": 57.46,
+      "to": 58.7,
+      "sid": 36,
+      "location": 2,
+      "content": "This is only one in balance",
+      "music": 0.0
+    },
+    {
+      "from": 58.7,
+      "to": 59.4,
+      "sid": 37,
+      "location": 2,
+      "content": "Ji",
+      "music": 0.0
+    },
+    {
+      "from": 59.4,
+      "to": 59.92,
+      "sid": 38,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 59.92,
+      "to": 62.27,
+      "sid": 39,
+      "location": 2,
+      "content": "Right now u in this whole county",
+      "music": 0.0
+    },
+    {
+      "from": 62.27,
+      "to": 64.57,
+      "sid": 40,
+      "location": 2,
+      "content": "Because dollar general doesn't have like vegetables",
+      "music": 0.0
+    },
+    {
+      "from": 64.57,
+      "to": 64.97,
+      "sid": 41,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 64.97,
+      "to": 65.53,
+      "sid": 42,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 65.53,
+      "to": 67.85,
+      "sid": 43,
+      "location": 2,
+      "content": "The one ars does sometimes",
+      "music": 0.0
+    },
+    {
+      "from": 67.85,
+      "to": 68.41,
+      "sid": 44,
+      "location": 2,
+      "content": "But yeah",
+      "music": 0.0
+    },
+    {
+      "from": 68.41,
+      "to": 69.9,
+      "sid": 45,
+      "location": 2,
+      "content": "They're not very much for little",
+      "music": 0.0
+    },
+    {
+      "from": 69.9,
+      "to": 71.98,
+      "sid": 46,
+      "location": 2,
+      "content": "虽说这已经是这边最大的镇",
+      "music": 0.0
+    },
+    {
+      "from": 71.98,
+      "to": 73.9,
+      "sid": 47,
+      "location": 2,
+      "content": "其实也只有872个人",
+      "music": 0.0
+    },
+    {
+      "from": 73.9,
+      "to": 76.48,
+      "sid": 48,
+      "location": 2,
+      "content": "而且在过去的10年中减少了13%",
+      "music": 0.0
+    },
+    {
+      "from": 76.48,
+      "to": 78.62,
+      "sid": 49,
+      "location": 2,
+      "content": "这边的人口中位数接近50岁",
+      "music": 0.0
+    },
+    {
+      "from": 78.62,
+      "to": 80.58,
+      "sid": 50,
+      "location": 2,
+      "content": "我能见到的大多也是些老人",
+      "music": 0.0
+    },
+    {
+      "from": 80.58,
+      "to": 83.45,
+      "sid": 51,
+      "location": 2,
+      "content": "当年这里曾经是一个大种植园的一部分",
+      "music": 0.0
+    },
+    {
+      "from": 83.45,
+      "to": 86.03,
+      "sid": 52,
+      "location": 2,
+      "content": "后来地产商把这里命名叫laser",
+      "music": 0.0
+    },
+    {
+      "from": 86.03,
+      "to": 87.65,
+      "sid": 53,
+      "location": 2,
+      "content": "也就是中心的意思",
+      "music": 0.0
+    },
+    {
+      "from": 87.65,
+      "to": 90.02,
+      "sid": 54,
+      "location": 2,
+      "content": "不仅因为它在整个县的中心",
+      "music": 0.0
+    },
+    {
+      "from": 90.02,
+      "to": 92.88,
+      "sid": 55,
+      "location": 2,
+      "content": "还寄希望于这里成为宇宙的中心",
+      "music": 0.0
+    },
+    {
+      "from": 92.88,
+      "to": 94.2,
+      "sid": 56,
+      "location": 2,
+      "content": "而我现在在的公园",
+      "music": 0.0
+    },
+    {
+      "from": 94.2,
+      "to": 96.06,
+      "sid": 57,
+      "location": 2,
+      "content": "也就是宇宙中心的中心",
+      "music": 0.0
+    },
+    {
+      "from": 96.06,
+      "to": 98.82,
+      "sid": 58,
+      "location": 2,
+      "content": "有一个老头坐在亭子里面打游戏",
+      "music": 0.0
+    },
+    {
+      "from": 98.82,
+      "to": 101.54,
+      "sid": 59,
+      "location": 2,
+      "content": "还有一个老奶奶走向邮局拿快递",
+      "music": 0.0
+    },
+    {
+      "from": 101.54,
+      "to": 102.76,
+      "sid": 60,
+      "location": 2,
+      "content": "我正好饿了",
+      "music": 0.0
+    },
+    {
+      "from": 102.76,
+      "to": 105.31,
+      "sid": 61,
+      "location": 2,
+      "content": "于是我想问问附近有没有什么好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 105.31,
+      "to": 107.17,
+      "sid": 62,
+      "location": 2,
+      "content": "I know there's not too much",
+      "music": 0.0
+    },
+    {
+      "from": 107.17,
+      "to": 108.51,
+      "sid": 63,
+      "location": 2,
+      "content": "Not for young people know",
+      "music": 0.0
+    },
+    {
+      "from": 108.51,
+      "to": 110.21,
+      "sid": 64,
+      "location": 2,
+      "content": "There's a group came in with the church",
+      "music": 0.0
+    },
+    {
+      "from": 110.21,
+      "to": 111.69,
+      "sid": 65,
+      "location": 2,
+      "content": "I thought you might have been the thing",
+      "music": 0.0
+    },
+    {
+      "from": 111.69,
+      "to": 112.13,
+      "sid": 66,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 112.13,
+      "to": 115.53,
+      "sid": 67,
+      "location": 2,
+      "content": "I'm not they came in to do work for people that needed something done",
+      "music": 0.0
+    },
+    {
+      "from": 115.53,
+      "to": 116.22,
+      "sid": 68,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 116.22,
+      "to": 117.36,
+      "sid": 69,
+      "location": 2,
+      "content": "Are you local here",
+      "music": 0.0
+    },
+    {
+      "from": 117.36,
+      "to": 117.98,
+      "sid": 70,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 117.98,
+      "to": 120.48,
+      "sid": 71,
+      "location": 2,
+      "content": "Can i saw a couple of restaurants outside",
+      "music": 0.0
+    },
+    {
+      "from": 120.48,
+      "to": 120.98,
+      "sid": 72,
+      "location": 2,
+      "content": "They're good",
+      "music": 0.0
+    },
+    {
+      "from": 120.98,
+      "to": 121.97,
+      "sid": 73,
+      "location": 2,
+      "content": "It's some good red",
+      "music": 0.0
+    },
+    {
+      "from": 121.97,
+      "to": 123.93,
+      "sid": 74,
+      "location": 2,
+      "content": "我在饭店门口的红绿灯的时候",
+      "music": 0.0
+    },
+    {
+      "from": 123.93,
+      "to": 126.57,
+      "sid": 75,
+      "location": 2,
+      "content": "好像就遇到了他口中这个团体的小八",
+      "music": 0.0
+    },
+    {
+      "from": 126.57,
+      "to": 128.699,
+      "sid": 76,
+      "location": 2,
+      "content": "他们的司机有一点犹豫不决",
+      "music": 0.0
+    },
+    {
+      "from": 128.699,
+      "to": 130.74,
+      "sid": 77,
+      "location": 2,
+      "content": "导致这个红绿灯没有过得去",
+      "music": 0.0
+    },
+    {
+      "from": 130.74,
+      "to": 132.82,
+      "sid": 78,
+      "location": 2,
+      "content": "结果他后面的这个车也是莽了",
+      "music": 0.0
+    },
+    {
+      "from": 132.82,
+      "to": 136.1,
+      "sid": 79,
+      "location": 2,
+      "content": "直接不看后视镜倒车",
+      "music": 0.29487178542077436
+    },
+    {
+      "from": 138.06,
+      "to": 139.7,
+      "sid": 80,
+      "location": 2,
+      "content": "还好我反应比较快",
+      "music": 0.0
+    },
+    {
+      "from": 139.7,
+      "to": 140.78,
+      "sid": 81,
+      "location": 2,
+      "content": "感觉情况不对",
+      "music": 0.0
+    },
+    {
+      "from": 140.78,
+      "to": 142.1,
+      "sid": 82,
+      "location": 2,
+      "content": "我也赶快往后退",
+      "music": 0.0
+    },
+    {
+      "from": 142.1,
+      "to": 143.48,
+      "sid": 83,
+      "location": 2,
+      "content": "我看问题不大",
+      "music": 0.0
+    },
+    {
+      "from": 143.48,
+      "to": 145.22,
+      "sid": 84,
+      "location": 2,
+      "content": "就是车牌被撞歪了一点",
+      "music": 0.0
+    },
+    {
+      "from": 145.22,
+      "to": 146.96,
+      "sid": 85,
+      "location": 2,
+      "content": "于是我就放了小哥一马",
+      "music": 0.0
+    },
+    {
+      "from": 146.96,
+      "to": 147.68,
+      "sid": 86,
+      "location": 2,
+      "content": "要不是他",
+      "music": 0.0
+    },
+    {
+      "from": 147.68,
+      "to": 149.36,
+      "sid": 87,
+      "location": 2,
+      "content": "我也不会停到这个广场上来",
+      "music": 0.0
+    },
+    {
+      "from": 149.36,
+      "to": 151.95,
+      "sid": 88,
+      "location": 2,
+      "content": "我发现这边原来是两个一元店",
+      "music": 0.0
+    },
+    {
+      "from": 151.95,
+      "to": 153.37,
+      "sid": 89,
+      "location": 2,
+      "content": "现在看的都倒闭了",
+      "music": 0.0
+    },
+    {
+      "from": 153.37,
+      "to": 155.54,
+      "sid": 90,
+      "location": 2,
+      "content": "我终于来到了这个兰草餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 155.54,
+      "to": 158.08,
+      "sid": 91,
+      "location": 2,
+      "content": "兰草也算是肯塔基州的一个象征",
+      "music": 0.0
+    },
+    {
+      "from": 158.08,
+      "to": 161.0,
+      "sid": 92,
+      "location": 2,
+      "content": "这就是刚刚那个奶奶推荐我来的地方之一",
+      "music": 0.0
+    },
+    {
+      "from": 161.0,
+      "to": 164.34,
+      "sid": 93,
+      "location": 2,
+      "content": "门口贴着很多和肯塔基大学相关的东西",
+      "music": 0.0
+    },
+    {
+      "from": 164.34,
+      "to": 166.88,
+      "sid": 94,
+      "location": 2,
+      "content": "里面的墙上有着巴拉德县的地图",
+      "music": 0.0
+    },
+    {
+      "from": 166.88,
+      "to": 168.59,
+      "sid": 95,
+      "location": 2,
+      "content": "还有一些老照片什么的",
+      "music": 0.0
+    },
+    {
+      "from": 168.59,
+      "to": 170.55,
+      "sid": 96,
+      "location": 2,
+      "content": "中午吃饭的人还是不少",
+      "music": 0.0
+    },
+    {
+      "from": 170.55,
+      "to": 173.27,
+      "sid": 97,
+      "location": 2,
+      "content": "I saw this a blue grass restaurant is that good",
+      "music": 0.0
+    },
+    {
+      "from": 173.27,
+      "to": 175.51,
+      "sid": 98,
+      "location": 2,
+      "content": "That's good for you know good food",
+      "music": 0.0
+    },
+    {
+      "from": 175.51,
+      "to": 176.01,
+      "sid": 99,
+      "location": 2,
+      "content": "And it",
+      "music": 0.0
+    },
+    {
+      "from": 176.01,
+      "to": 177.18,
+      "sid": 100,
+      "location": 2,
+      "content": "Fish is really good",
+      "music": 0.0
+    },
+    {
+      "from": 177.18,
+      "to": 178.14,
+      "sid": 101,
+      "location": 2,
+      "content": "The fish is good",
+      "music": 0.0
+    },
+    {
+      "from": 178.14,
+      "to": 178.6,
+      "sid": 102,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 178.6,
+      "to": 178.94,
+      "sid": 103,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 178.94,
+      "to": 180.66,
+      "sid": 104,
+      "location": 2,
+      "content": "I always order three pieces of fish",
+      "music": 0.0
+    },
+    {
+      "from": 180.66,
+      "to": 181.62,
+      "sid": 105,
+      "location": 2,
+      "content": "And a baked potato",
+      "music": 0.0
+    },
+    {
+      "from": 181.62,
+      "to": 182.24,
+      "sid": 106,
+      "location": 2,
+      "content": "It's good",
+      "music": 0.0
+    },
+    {
+      "from": 182.24,
+      "to": 182.58,
+      "sid": 107,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 182.58,
+      "to": 183.63,
+      "sid": 108,
+      "location": 2,
+      "content": "I will order the same",
+      "music": 0.0
+    },
+    {
+      "from": 183.63,
+      "to": 184.19,
+      "sid": 109,
+      "location": 2,
+      "content": "吃完饭",
+      "music": 0.0
+    },
+    {
+      "from": 184.19,
+      "to": 186.51,
+      "sid": 110,
+      "location": 2,
+      "content": "我来到了这边一个本地人卖服装的地方",
+      "music": 0.0
+    },
+    {
+      "from": 186.51,
+      "to": 188.98,
+      "sid": 111,
+      "location": 2,
+      "content": "看看刚刚的那顿饭是七块两毛二",
+      "music": 0.0
+    },
+    {
+      "from": 188.98,
+      "to": 190.8,
+      "sid": 112,
+      "location": 2,
+      "content": "这个餐馆不算快餐店",
+      "music": 0.0
+    },
+    {
+      "from": 190.8,
+      "to": 192.76,
+      "sid": 113,
+      "location": 2,
+      "content": "这个价格已经算很可以了",
+      "music": 0.0
+    },
+    {
+      "from": 192.76,
+      "to": 194.08,
+      "sid": 114,
+      "location": 2,
+      "content": "不知道你们觉得贵不贵",
+      "music": 0.0
+    },
+    {
+      "from": 194.08,
+      "to": 196.66,
+      "sid": 115,
+      "location": 2,
+      "content": "至于味道我就记得比平均水平高一些",
+      "music": 0.0
+    },
+    {
+      "from": 196.66,
+      "to": 198.86,
+      "sid": 116,
+      "location": 2,
+      "content": "主要是剪视频的时候已经过去一个月了",
+      "music": 0.0
+    },
+    {
+      "from": 198.86,
+      "to": 200.46,
+      "sid": 117,
+      "location": 2,
+      "content": "我也不记得是什么味道了",
+      "music": 0.0
+    },
+    {
+      "from": 200.46,
+      "to": 203.24,
+      "sid": 118,
+      "location": 2,
+      "content": "我一般这种都是小费凑整到十块钱",
+      "music": 0.0
+    },
+    {
+      "from": 203.24,
+      "to": 205.64,
+      "sid": 119,
+      "location": 2,
+      "content": "但是这个老板好像没有给我录进去",
+      "music": 0.0
+    },
+    {
+      "from": 205.64,
+      "to": 208.04,
+      "sid": 120,
+      "location": 2,
+      "content": "我猜是走之前我跟他聊了一下天",
+      "music": 0.0
+    },
+    {
+      "from": 208.04,
+      "to": 209.62,
+      "sid": 121,
+      "location": 2,
+      "content": "他其实是希腊人",
+      "music": 0.0
+    },
+    {
+      "from": 209.62,
+      "to": 211.04,
+      "sid": 122,
+      "location": 2,
+      "content": "只是家人在这里",
+      "music": 0.0
+    },
+    {
+      "from": 211.04,
+      "to": 213.76,
+      "sid": 123,
+      "location": 2,
+      "content": "然后我们一起吐槽了一下美国农村生活",
+      "music": 0.0
+    },
+    {
+      "from": 213.76,
+      "to": 215.68,
+      "sid": 124,
+      "location": 2,
+      "content": "他似乎也很少能遇到外地人",
+      "music": 0.0
+    },
+    {
+      "from": 215.68,
+      "to": 217.2,
+      "sid": 125,
+      "location": 2,
+      "content": "不知道大家有没有注意到",
+      "music": 0.0
+    },
+    {
+      "from": 217.2,
+      "to": 218.6,
+      "sid": 126,
+      "location": 2,
+      "content": "这一路乡村公路开过来",
+      "music": 0.0
+    },
+    {
+      "from": 218.6,
+      "to": 220.42,
+      "sid": 127,
+      "location": 2,
+      "content": "有好几家这种黄黄的店铺",
+      "music": 0.0
+    },
+    {
+      "from": 220.42,
+      "to": 223.0,
+      "sid": 128,
+      "location": 2,
+      "content": "这个是现在美国农村遍地都是的一元店",
+      "music": 0.0
+    },
+    {
+      "from": 223.0,
+      "to": 225.72,
+      "sid": 129,
+      "location": 2,
+      "content": "dollar general里面卖一些小包装的日用品",
+      "music": 0.0
+    },
+    {
+      "from": 225.72,
+      "to": 229.12,
+      "sid": 130,
+      "location": 2,
+      "content": "但是这种一元店被人诟病的是没有新鲜的水果",
+      "music": 0.0
+    },
+    {
+      "from": 229.12,
+      "to": 229.98,
+      "sid": 131,
+      "location": 2,
+      "content": "蔬菜和肉",
+      "music": 0.0
+    },
+    {
+      "from": 229.98,
+      "to": 232.16,
+      "sid": 132,
+      "location": 2,
+      "content": "大部分都是冷冻食品和垃圾食品",
+      "music": 0.0
+    },
+    {
+      "from": 232.16,
+      "to": 234.16,
+      "sid": 133,
+      "location": 2,
+      "content": "而我来到了这个县的县城威克里",
+      "music": 0.0
+    },
+    {
+      "from": 234.16,
+      "to": 236.04,
+      "sid": 134,
+      "location": 2,
+      "content": "发现了一家很大的dollar general",
+      "music": 0.0
+    },
+    {
+      "from": 236.04,
+      "to": 237.42,
+      "sid": 135,
+      "location": 2,
+      "content": "里面居然还有水果卖",
+      "music": 0.0
+    },
+    {
+      "from": 237.42,
+      "to": 240.92,
+      "sid": 136,
+      "location": 2,
+      "content": "正好我也问了两个本地人对这种一元店的看法",
+      "music": 0.0
+    },
+    {
+      "from": 240.92,
+      "to": 242.8,
+      "sid": 137,
+      "location": 2,
+      "content": "We're trying to get a dollar general",
+      "music": 0.0
+    },
+    {
+      "from": 242.8,
+      "to": 243.48,
+      "sid": 138,
+      "location": 2,
+      "content": "Supermarket",
+      "music": 0.0
+    },
+    {
+      "from": 243.48,
+      "to": 245.92,
+      "sid": 139,
+      "location": 2,
+      "content": "Which means it'll have fresh meat",
+      "music": 0.0
+    },
+    {
+      "from": 245.92,
+      "to": 247.78,
+      "sid": 140,
+      "location": 2,
+      "content": "It'll have a lot more stuff",
+      "music": 0.0
+    },
+    {
+      "from": 247.78,
+      "to": 250.16,
+      "sid": 141,
+      "location": 2,
+      "content": "But and it'll be a definitely bigger store",
+      "music": 0.0
+    },
+    {
+      "from": 250.16,
+      "to": 250.54,
+      "sid": 142,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 250.54,
+      "to": 250.66,
+      "sid": 143,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 250.66,
+      "to": 250.9,
+      "sid": 144,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 250.9,
+      "to": 251.76,
+      "sid": 145,
+      "location": 2,
+      "content": "You got vegetables",
+      "music": 0.0
+    },
+    {
+      "from": 251.76,
+      "to": 252.28,
+      "sid": 146,
+      "location": 2,
+      "content": "Usually",
+      "music": 0.0
+    },
+    {
+      "from": 252.28,
+      "to": 252.68,
+      "sid": 147,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 252.68,
+      "to": 253.3,
+      "sid": 148,
+      "location": 2,
+      "content": "Usually",
+      "music": 0.0
+    },
+    {
+      "from": 253.3,
+      "to": 255.06,
+      "sid": 149,
+      "location": 2,
+      "content": "Other dollar there are still have no",
+      "music": 0.0
+    },
+    {
+      "from": 255.06,
+      "to": 257.48,
+      "sid": 150,
+      "location": 2,
+      "content": "It's hard to find grocery stores",
+      "music": 0.0
+    },
+    {
+      "from": 257.48,
+      "to": 258.04,
+      "sid": 151,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 258.04,
+      "to": 258.6,
+      "sid": 152,
+      "location": 2,
+      "content": "I around here",
+      "music": 0.0
+    },
+    {
+      "from": 258.6,
+      "to": 260.18,
+      "sid": 153,
+      "location": 2,
+      "content": "When i got one in the center",
+      "music": 0.0
+    },
+    {
+      "from": 260.18,
+      "to": 261.96,
+      "sid": 154,
+      "location": 2,
+      "content": "And you gotta drive to get there",
+      "music": 0.05952380598073913
+    },
+    {
+      "from": 261.96,
+      "to": 263.0,
+      "sid": 155,
+      "location": 2,
+      "content": "Go all way to pedua",
+      "music": 0.0
+    },
+    {
+      "from": 263.0,
+      "to": 264.83,
+      "sid": 156,
+      "location": 2,
+      "content": "So we're trying to get them",
+      "music": 0.11188810406379035
+    },
+    {
+      "from": 264.83,
+      "to": 267.87,
+      "sid": 157,
+      "location": 2,
+      "content": "Even the mayors working with us to get one put in here a dollar",
+      "music": 0.0
+    },
+    {
+      "from": 267.87,
+      "to": 269.19,
+      "sid": 158,
+      "location": 2,
+      "content": "General supermarket",
+      "music": 0.0
+    },
+    {
+      "from": 269.19,
+      "to": 269.59,
+      "sid": 159,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 269.59,
+      "to": 270.84,
+      "sid": 160,
+      "location": 2,
+      "content": "I hope wouldn't get it",
+      "music": 0.0
+    },
+    {
+      "from": 270.84,
+      "to": 272.26,
+      "sid": 161,
+      "location": 2,
+      "content": "What do you really get food",
+      "music": 0.0
+    },
+    {
+      "from": 272.26,
+      "to": 273.64,
+      "sid": 162,
+      "location": 2,
+      "content": "There is a walmart puduker",
+      "music": 0.0
+    },
+    {
+      "from": 274.92,
+      "to": 278.489,
+      "sid": 163,
+      "location": 2,
+      "content": "That's about thirty five mild drives",
+      "music": 0.07178106452304481
+    },
+    {
+      "from": 278.489,
+      "to": 280.7,
+      "sid": 164,
+      "location": 2,
+      "content": "And i get that's the closest",
+      "music": 0.0
+    },
+    {
+      "from": 280.7,
+      "to": 281.26,
+      "sid": 165,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 281.26,
+      "to": 284.9,
+      "sid": 166,
+      "location": 2,
+      "content": "Besides they got a little grocery store in the center",
+      "music": 0.0
+    },
+    {
+      "from": 284.9,
+      "to": 286.34,
+      "sid": 167,
+      "location": 2,
+      "content": "They still meeting stuff",
+      "music": 0.0
+    },
+    {
+      "from": 286.34,
+      "to": 287.22,
+      "sid": 168,
+      "location": 2,
+      "content": "The real high",
+      "music": 0.0
+    },
+    {
+      "from": 287.22,
+      "to": 289.84,
+      "sid": 169,
+      "location": 2,
+      "content": "So i mean you can't get meeting stuff",
+      "music": 0.0
+    },
+    {
+      "from": 289.84,
+      "to": 290.36,
+      "sid": 170,
+      "location": 2,
+      "content": "There though",
+      "music": 0.0
+    },
+    {
+      "from": 290.36,
+      "to": 292.06,
+      "sid": 171,
+      "location": 2,
+      "content": "How how long is i trying to the same",
+      "music": 0.0
+    },
+    {
+      "from": 292.06,
+      "to": 293.92,
+      "sid": 172,
+      "location": 2,
+      "content": "Oh probably about fifteen minutes from here",
+      "music": 0.0
+    },
+    {
+      "from": 293.92,
+      "to": 296.91,
+      "sid": 173,
+      "location": 2,
+      "content": "Ten to fifteen minutes to go here in kentucky",
+      "music": 0.0
+    },
+    {
+      "from": 296.91,
+      "to": 297.51,
+      "sid": 174,
+      "location": 2,
+      "content": "Still now",
+      "music": 0.0
+    },
+    {
+      "from": 297.51,
+      "to": 299.03,
+      "sid": 175,
+      "location": 2,
+      "content": "Mafield has a walmart",
+      "music": 0.0
+    },
+    {
+      "from": 299.03,
+      "to": 300.62,
+      "sid": 176,
+      "location": 2,
+      "content": "That's just as far as bluca",
+      "music": 0.0
+    },
+    {
+      "from": 300.62,
+      "to": 302.06,
+      "sid": 177,
+      "location": 2,
+      "content": "Oh so you go that way",
+      "music": 0.0
+    },
+    {
+      "from": 302.06,
+      "to": 302.98,
+      "sid": 178,
+      "location": 2,
+      "content": "So that way",
+      "music": 0.0
+    },
+    {
+      "from": 302.98,
+      "to": 304.62,
+      "sid": 179,
+      "location": 2,
+      "content": "Oh so it's hard to get those",
+      "music": 0.0
+    },
+    {
+      "from": 304.62,
+      "to": 305.2,
+      "sid": 180,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 305.2,
+      "to": 307.25,
+      "sid": 181,
+      "location": 2,
+      "content": "right在离开这个县之前",
+      "music": 0.0
+    },
+    {
+      "from": 307.25,
+      "to": 309.73,
+      "sid": 182,
+      "location": 2,
+      "content": "我在高速公路旁边发现了一家烤肉店",
+      "music": 0.0
+    },
+    {
+      "from": 309.73,
+      "to": 311.37,
+      "sid": 183,
+      "location": 2,
+      "content": "我随便点了一个烤鸡",
+      "music": 0.0
+    },
+    {
+      "from": 311.37,
+      "to": 313.76,
+      "sid": 184,
+      "location": 2,
+      "content": "这么一份五美元还是挺实惠的",
+      "music": 0.0
+    },
+    {
+      "from": 313.76,
+      "to": 314.2,
+      "sid": 185,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 314.2,
+      "to": 315.1,
+      "sid": 186,
+      "location": 2,
+      "content": "这期就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 315.1,
+      "to": 318.32,
+      "sid": 187,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

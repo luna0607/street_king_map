@@ -1,0 +1,2956 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.72,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国两个农业州",
+      "music": 0.0
+    },
+    {
+      "from": 1.72,
+      "to": 3.42,
+      "sid": 2,
+      "location": 2,
+      "content": "交界地区的一个家庭农场",
+      "music": 0.0
+    },
+    {
+      "from": 3.42,
+      "to": 5.04,
+      "sid": 3,
+      "location": 2,
+      "content": "他们不仅养了1000多头牛",
+      "music": 0.0
+    },
+    {
+      "from": 5.04,
+      "to": 6.2,
+      "sid": 4,
+      "location": 2,
+      "content": "还有超大的农田",
+      "music": 0.0
+    },
+    {
+      "from": 6.2,
+      "to": 8.43,
+      "sid": 5,
+      "location": 2,
+      "content": "但是在农场上班的人只有个位数",
+      "music": 0.0
+    },
+    {
+      "from": 8.43,
+      "to": 10.55,
+      "sid": 6,
+      "location": 2,
+      "content": "看看他们怎么靠高度机械化的农业",
+      "music": 0.0
+    },
+    {
+      "from": 10.55,
+      "to": 11.47,
+      "sid": 7,
+      "location": 2,
+      "content": "做到这一点的",
+      "music": 0.0
+    },
+    {
+      "from": 11.47,
+      "to": 13.73,
+      "sid": 8,
+      "location": 2,
+      "content": "我到的时候正好是牛牛的开饭时间",
+      "music": 0.0
+    },
+    {
+      "from": 13.73,
+      "to": 15.19,
+      "sid": 9,
+      "location": 2,
+      "content": "看看他们今天吃什么",
+      "music": 0.0
+    },
+    {
+      "from": 16.43,
+      "to": 17.86,
+      "sid": 10,
+      "location": 2,
+      "content": "It's just like cookie",
+      "music": 0.6470587691547242
+    },
+    {
+      "from": 17.86,
+      "to": 18.8,
+      "sid": 11,
+      "location": 2,
+      "content": "It's just like",
+      "music": 0.27777773919753435
+    },
+    {
+      "from": 18.8,
+      "to": 19.6,
+      "sid": 12,
+      "location": 2,
+      "content": "She's adding",
+      "music": 0.9999998571428776
+    },
+    {
+      "from": 19.6,
+      "to": 21.28,
+      "sid": 13,
+      "location": 2,
+      "content": "She's not putting in butter",
+      "music": 0.29870127930511176
+    },
+    {
+      "from": 21.28,
+      "to": 23.04,
+      "sid": 14,
+      "location": 2,
+      "content": "And and sugar that",
+      "music": 0.0
+    },
+    {
+      "from": 23.04,
+      "to": 25.1,
+      "sid": 15,
+      "location": 2,
+      "content": "She's putting in hey",
+      "music": 0.2586206673602879
+    },
+    {
+      "from": 25.1,
+      "to": 27.15,
+      "sid": 16,
+      "location": 2,
+      "content": "Corn protein",
+      "music": 0.11214952222901751
+    },
+    {
+      "from": 27.15,
+      "to": 28.15,
+      "sid": 17,
+      "location": 2,
+      "content": "A liquid protein",
+      "music": 0.19999998000000127
+    },
+    {
+      "from": 28.15,
+      "to": 29.39,
+      "sid": 18,
+      "location": 2,
+      "content": "We kein this tanks here",
+      "music": 0.45967738228408156
+    },
+    {
+      "from": 29.39,
+      "to": 30.36,
+      "sid": 19,
+      "location": 2,
+      "content": "Liquid protein",
+      "music": 0.8666665511111247
+    },
+    {
+      "from": 30.36,
+      "to": 32.28,
+      "sid": 20,
+      "location": 2,
+      "content": "I thought the ethanol plants",
+      "music": 0.10465115670632778
+    },
+    {
+      "from": 32.28,
+      "to": 34.68,
+      "sid": 21,
+      "location": 2,
+      "content": "There's a liquid protein that comes off of that",
+      "music": 0.07142856823979447
+    },
+    {
+      "from": 34.68,
+      "to": 35.68,
+      "sid": 22,
+      "location": 2,
+      "content": "And we get that",
+      "music": 0.3589743129520121
+    },
+    {
+      "from": 35.68,
+      "to": 37.65,
+      "sid": 23,
+      "location": 2,
+      "content": "And she's putting that kind of things in",
+      "music": 0.13095237315759617
+    },
+    {
+      "from": 37.65,
+      "to": 39.13,
+      "sid": 24,
+      "location": 2,
+      "content": "每种食材要产多少",
+      "music": 0.0
+    },
+    {
+      "from": 39.13,
+      "to": 41.16,
+      "sid": 25,
+      "location": 2,
+      "content": "到桶里面都是按照公式来的",
+      "music": 0.0
+    },
+    {
+      "from": 41.16,
+      "to": 43.96,
+      "sid": 26,
+      "location": 2,
+      "content": "很多农用的电脑软件就是专门做这个的",
+      "music": 0.0
+    },
+    {
+      "from": 43.96,
+      "to": 47.16,
+      "sid": 27,
+      "location": 2,
+      "content": "我们吃的饭对于牛来说就是甘草和玉米",
+      "music": 0.0
+    },
+    {
+      "from": 47.16,
+      "to": 50.5,
+      "sid": 28,
+      "location": 2,
+      "content": "我们的菜对于他们来说就是这个桶装的营养液",
+      "music": 0.0
+    },
+    {
+      "from": 50.5,
+      "to": 53.89,
+      "sid": 29,
+      "location": 2,
+      "content": "它们还往草药里面加一些钙和辣椒带",
+      "music": 0.0
+    },
+    {
+      "from": 53.89,
+      "to": 55.55,
+      "sid": 30,
+      "location": 2,
+      "content": "是为了给牛强身健体",
+      "music": 0.0
+    },
+    {
+      "from": 55.55,
+      "to": 58.3,
+      "sid": 31,
+      "location": 2,
+      "content": "而辣椒是可以让牛更好的利用能量",
+      "music": 0.0
+    },
+    {
+      "from": 58.3,
+      "to": 60.78,
+      "sid": 32,
+      "location": 2,
+      "content": "甚至可以增加它们冬天的耐寒能力",
+      "music": 0.0
+    },
+    {
+      "from": 60.78,
+      "to": 62.18,
+      "sid": 33,
+      "location": 2,
+      "content": "产生往里面加多少料",
+      "music": 0.0
+    },
+    {
+      "from": 62.18,
+      "to": 64.28,
+      "sid": 34,
+      "location": 2,
+      "content": "是按照电脑程序严格执行的",
+      "music": 0.0
+    },
+    {
+      "from": 64.28,
+      "to": 65.0,
+      "sid": 35,
+      "location": 2,
+      "content": "加的多了",
+      "music": 0.0
+    },
+    {
+      "from": 65.0,
+      "to": 66.88,
+      "sid": 36,
+      "location": 2,
+      "content": "到时候把原材料放回去就是了",
+      "music": 0.0
+    },
+    {
+      "from": 66.88,
+      "to": 68.82,
+      "sid": 37,
+      "location": 2,
+      "content": "There it's all it's a family farm",
+      "music": 0.0
+    },
+    {
+      "from": 68.82,
+      "to": 70.96,
+      "sid": 38,
+      "location": 2,
+      "content": "But then my father took over the farm",
+      "music": 0.0
+    },
+    {
+      "from": 70.96,
+      "to": 72.07,
+      "sid": 39,
+      "location": 2,
+      "content": "And then now",
+      "music": 0.0
+    },
+    {
+      "from": 72.07,
+      "to": 75.31,
+      "sid": 40,
+      "location": 2,
+      "content": "This is my father is ninety one years old",
+      "music": 0.0
+    },
+    {
+      "from": 75.31,
+      "to": 79.31,
+      "sid": 41,
+      "location": 2,
+      "content": "And he and my mother are in a retirement of place",
+      "music": 0.0
+    },
+    {
+      "from": 79.31,
+      "to": 80.55,
+      "sid": 42,
+      "location": 2,
+      "content": "And then um",
+      "music": 0.0
+    },
+    {
+      "from": 80.55,
+      "to": 81.86,
+      "sid": 43,
+      "location": 2,
+      "content": "It's our firement",
+      "music": 0.0
+    },
+    {
+      "from": 81.86,
+      "to": 84.22,
+      "sid": 44,
+      "location": 2,
+      "content": "My daughter will be taking over pretty",
+      "music": 0.0
+    },
+    {
+      "from": 84.22,
+      "to": 86.96,
+      "sid": 45,
+      "location": 2,
+      "content": "Soon we also have two others that work on the farm with this",
+      "music": 0.0
+    },
+    {
+      "from": 86.96,
+      "to": 89.02,
+      "sid": 46,
+      "location": 2,
+      "content": "The younger generation is is coming",
+      "music": 0.0
+    },
+    {
+      "from": 89.02,
+      "to": 90.74,
+      "sid": 47,
+      "location": 2,
+      "content": "I'm sixty five years old",
+      "music": 0.0
+    },
+    {
+      "from": 90.74,
+      "to": 93.22,
+      "sid": 48,
+      "location": 2,
+      "content": "I hope to have a few more years of of farming",
+      "music": 0.0
+    },
+    {
+      "from": 93.22,
+      "to": 95.4,
+      "sid": 49,
+      "location": 2,
+      "content": "And i really really enjoy it that",
+      "music": 0.0
+    },
+    {
+      "from": 95.4,
+      "to": 96.88,
+      "sid": 50,
+      "location": 2,
+      "content": "It's it's you know",
+      "music": 0.0
+    },
+    {
+      "from": 96.88,
+      "to": 102.43,
+      "sid": 51,
+      "location": 2,
+      "content": "It's a passion of this farm is the center of of all of our operation",
+      "music": 0.0
+    },
+    {
+      "from": 102.43,
+      "to": 105.05,
+      "sid": 52,
+      "location": 2,
+      "content": "And we also have two ranches",
+      "music": 0.0
+    },
+    {
+      "from": 105.05,
+      "to": 107.55,
+      "sid": 53,
+      "location": 2,
+      "content": "Do you know what a ranch is compared to a farm",
+      "music": 0.0
+    },
+    {
+      "from": 107.55,
+      "to": 111.85,
+      "sid": 54,
+      "location": 2,
+      "content": "A rant is a place where the mother cows are the mothers",
+      "music": 0.0
+    },
+    {
+      "from": 111.85,
+      "to": 114.42,
+      "sid": 55,
+      "location": 2,
+      "content": "And it's lots of grass in western",
+      "music": 0.0
+    },
+    {
+      "from": 114.42,
+      "to": 115.1,
+      "sid": 56,
+      "location": 2,
+      "content": "Nebraska",
+      "music": 0.0
+    },
+    {
+      "from": 115.1,
+      "to": 117.56,
+      "sid": 57,
+      "location": 2,
+      "content": "We have uh about six hundred mamas",
+      "music": 0.0
+    },
+    {
+      "from": 117.56,
+      "to": 120.04,
+      "sid": 58,
+      "location": 2,
+      "content": "Mama cows and in iowa",
+      "music": 0.0
+    },
+    {
+      "from": 120.04,
+      "to": 121.02,
+      "sid": 59,
+      "location": 2,
+      "content": "Southwest iowa",
+      "music": 0.0
+    },
+    {
+      "from": 121.02,
+      "to": 124.21,
+      "sid": 60,
+      "location": 2,
+      "content": "We have about just almost five hundred cows",
+      "music": 0.0
+    },
+    {
+      "from": 124.21,
+      "to": 127.41,
+      "sid": 61,
+      "location": 2,
+      "content": "And there we have a manager on both of those places",
+      "music": 0.0
+    },
+    {
+      "from": 127.41,
+      "to": 132.94,
+      "sid": 62,
+      "location": 2,
+      "content": "And they have workers that work with them to to help birth out the babies",
+      "music": 0.0
+    },
+    {
+      "from": 132.94,
+      "to": 137.43,
+      "sid": 63,
+      "location": 2,
+      "content": "And they grow the babies to about six months old",
+      "music": 0.0
+    },
+    {
+      "from": 137.43,
+      "to": 139.75,
+      "sid": 64,
+      "location": 2,
+      "content": "And when the babies are six months old",
+      "music": 0.0
+    },
+    {
+      "from": 139.75,
+      "to": 142.63,
+      "sid": 65,
+      "location": 2,
+      "content": "Then the babies come here to this farm",
+      "music": 0.0
+    },
+    {
+      "from": 142.63,
+      "to": 144.59,
+      "sid": 66,
+      "location": 2,
+      "content": "And the babies are growing up",
+      "music": 0.0
+    },
+    {
+      "from": 144.59,
+      "to": 148.25,
+      "sid": 67,
+      "location": 2,
+      "content": "And they are they are for meat production",
+      "music": 0.0
+    },
+    {
+      "from": 148.25,
+      "to": 148.97,
+      "sid": 68,
+      "location": 2,
+      "content": "Not milk",
+      "music": 0.0
+    },
+    {
+      "from": 148.97,
+      "to": 151.3,
+      "sid": 69,
+      "location": 2,
+      "content": "We don't do any milking here as",
+      "music": 0.0
+    },
+    {
+      "from": 151.3,
+      "to": 152.86,
+      "sid": 70,
+      "location": 2,
+      "content": "But they are meat production",
+      "music": 0.0
+    },
+    {
+      "from": 152.86,
+      "to": 154.32,
+      "sid": 71,
+      "location": 2,
+      "content": "牛牛吃的草料和玉米",
+      "music": 0.0
+    },
+    {
+      "from": 154.32,
+      "to": 156.89,
+      "sid": 72,
+      "location": 2,
+      "content": "很多都是他们自己家田里面产出来的",
+      "music": 0.0
+    },
+    {
+      "from": 156.89,
+      "to": 159.01,
+      "sid": 73,
+      "location": 2,
+      "content": "不过他们今年种的大豆比较多",
+      "music": 0.0
+    },
+    {
+      "from": 159.01,
+      "to": 160.65,
+      "sid": 74,
+      "location": 2,
+      "content": "一般来说是一年种大豆",
+      "music": 0.0
+    },
+    {
+      "from": 160.65,
+      "to": 161.49,
+      "sid": 75,
+      "location": 2,
+      "content": "一年种玉米",
+      "music": 0.0
+    },
+    {
+      "from": 161.49,
+      "to": 162.51,
+      "sid": 76,
+      "location": 2,
+      "content": "If you take them out",
+      "music": 0.0
+    },
+    {
+      "from": 162.51,
+      "to": 164.07,
+      "sid": 77,
+      "location": 2,
+      "content": "You can try to eat them",
+      "music": 0.0
+    },
+    {
+      "from": 164.12,
+      "to": 166.99,
+      "sid": 78,
+      "location": 2,
+      "content": "the crunchy呀",
+      "music": 0.0
+    },
+    {
+      "from": 166.99,
+      "to": 168.3,
+      "sid": 79,
+      "location": 2,
+      "content": "这个大豆看起来很干",
+      "music": 0.0
+    },
+    {
+      "from": 168.3,
+      "to": 171.14,
+      "sid": 80,
+      "location": 2,
+      "content": "是因为收割的时候其实对湿度有要求的",
+      "music": 0.0
+    },
+    {
+      "from": 171.14,
+      "to": 173.18,
+      "sid": 81,
+      "location": 2,
+      "content": "And they cut off the soy beans",
+      "music": 0.0
+    },
+    {
+      "from": 173.18,
+      "to": 174.649,
+      "sid": 82,
+      "location": 2,
+      "content": "And the air blows",
+      "music": 0.0
+    },
+    {
+      "from": 174.649,
+      "to": 178.549,
+      "sid": 83,
+      "location": 2,
+      "content": "Any seat that could potentially fall on the ground",
+      "music": 0.0
+    },
+    {
+      "from": 178.549,
+      "to": 180.169,
+      "sid": 84,
+      "location": 2,
+      "content": "They blow them back in",
+      "music": 0.0
+    },
+    {
+      "from": 180.169,
+      "to": 181.349,
+      "sid": 85,
+      "location": 2,
+      "content": "So we can save them",
+      "music": 0.0
+    },
+    {
+      "from": 181.349,
+      "to": 183.85,
+      "sid": 86,
+      "location": 2,
+      "content": "And and and harvest those beings",
+      "music": 0.0
+    },
+    {
+      "from": 183.85,
+      "to": 187.11,
+      "sid": 87,
+      "location": 2,
+      "content": "So it spins at a high rate of speed",
+      "music": 0.0
+    },
+    {
+      "from": 187.11,
+      "to": 190.45,
+      "sid": 88,
+      "location": 2,
+      "content": "And that speed well actually take",
+      "music": 0.0
+    },
+    {
+      "from": 190.45,
+      "to": 192.81,
+      "sid": 89,
+      "location": 2,
+      "content": "And it knocks out the soil",
+      "music": 0.0
+    },
+    {
+      "from": 192.81,
+      "to": 194.55,
+      "sid": 90,
+      "location": 2,
+      "content": "And they drop down to the bottom",
+      "music": 0.0
+    },
+    {
+      "from": 194.55,
+      "to": 195.43,
+      "sid": 91,
+      "location": 2,
+      "content": "When they get back here",
+      "music": 0.0
+    },
+    {
+      "from": 195.43,
+      "to": 200.31,
+      "sid": 92,
+      "location": 2,
+      "content": "They drop through a great is the best way to explain a great",
+      "music": 0.0
+    },
+    {
+      "from": 200.31,
+      "to": 203.93,
+      "sid": 93,
+      "location": 2,
+      "content": "And the the the the pods and the stems",
+      "music": 0.0
+    },
+    {
+      "from": 203.93,
+      "to": 205.41,
+      "sid": 94,
+      "location": 2,
+      "content": "There's high pressure",
+      "music": 0.0
+    },
+    {
+      "from": 205.41,
+      "to": 208.59,
+      "sid": 95,
+      "location": 2,
+      "content": "Air blowing up they blow out the back",
+      "music": 0.0
+    },
+    {
+      "from": 208.59,
+      "to": 213.85,
+      "sid": 96,
+      "location": 2,
+      "content": "And the seeds are augered into a very large tank on top",
+      "music": 0.0
+    },
+    {
+      "from": 213.85,
+      "to": 217.29,
+      "sid": 97,
+      "location": 2,
+      "content": "So this is how all combines work with that kind of a system",
+      "music": 0.0
+    },
+    {
+      "from": 217.29,
+      "to": 218.65,
+      "sid": 98,
+      "location": 2,
+      "content": "If you see him out the deo",
+      "music": 0.0
+    },
+    {
+      "from": 218.65,
+      "to": 221.0,
+      "sid": 99,
+      "location": 2,
+      "content": "可能这个田以我们的标准看起来很大",
+      "music": 0.0
+    },
+    {
+      "from": 221.0,
+      "to": 224.18,
+      "sid": 100,
+      "location": 2,
+      "content": "其实他们家农田的面积在美国来看并不算很大",
+      "music": 0.0
+    },
+    {
+      "from": 224.18,
+      "to": 226.54,
+      "sid": 101,
+      "location": 2,
+      "content": "用的农业收割机也算挺小的",
+      "music": 0.0
+    },
+    {
+      "from": 226.54,
+      "to": 229.16,
+      "sid": 102,
+      "location": 2,
+      "content": "网上同类的机器都可以比他们大几倍",
+      "music": 0.0
+    },
+    {
+      "from": 229.16,
+      "to": 231.8,
+      "sid": 103,
+      "location": 2,
+      "content": "他们种地给牛提供饲料是第一位的",
+      "music": 0.0
+    },
+    {
+      "from": 231.8,
+      "to": 233.7,
+      "sid": 104,
+      "location": 2,
+      "content": "有余粮就顺便卖一卖",
+      "music": 0.0
+    },
+    {
+      "from": 233.7,
+      "to": 234.78,
+      "sid": 105,
+      "location": 2,
+      "content": "我问了一下老哥",
+      "music": 0.0
+    },
+    {
+      "from": 234.78,
+      "to": 236.38,
+      "sid": 106,
+      "location": 2,
+      "content": "他们一般会在地里面种蔬菜",
+      "music": 0.0
+    },
+    {
+      "from": 236.38,
+      "to": 237.74,
+      "sid": 107,
+      "location": 2,
+      "content": "水果自给自足吗",
+      "music": 0.0
+    },
+    {
+      "from": 237.74,
+      "to": 239.26,
+      "sid": 108,
+      "location": 2,
+      "content": "他说他们只在农场上",
+      "music": 0.0
+    },
+    {
+      "from": 239.26,
+      "to": 242.03,
+      "sid": 109,
+      "location": 2,
+      "content": "家的后院的小花园里面种种蔬菜什么的",
+      "music": 0.0
+    },
+    {
+      "from": 242.03,
+      "to": 244.13,
+      "sid": 110,
+      "location": 2,
+      "content": "平时主要还是去超市买菜",
+      "music": 0.0
+    },
+    {
+      "from": 244.13,
+      "to": 246.59,
+      "sid": 111,
+      "location": 2,
+      "content": "毕竟现在玉米和大豆更多是工业产品",
+      "music": 0.0
+    },
+    {
+      "from": 246.59,
+      "to": 247.709,
+      "sid": 112,
+      "location": 2,
+      "content": "而不是食品",
+      "music": 0.0
+    },
+    {
+      "from": 247.709,
+      "to": 250.209,
+      "sid": 113,
+      "location": 2,
+      "content": "第二个问题是有关于修理机械的",
+      "music": 0.0
+    },
+    {
+      "from": 250.209,
+      "to": 253.59,
+      "sid": 114,
+      "location": 2,
+      "content": "现在的农业机械越来越依赖复杂的电脑程序",
+      "music": 0.0
+    },
+    {
+      "from": 253.59,
+      "to": 256.35,
+      "sid": 115,
+      "location": 2,
+      "content": "一些农机大厂在程序上面设置了很多障碍",
+      "music": 0.0
+    },
+    {
+      "from": 256.35,
+      "to": 257.99,
+      "sid": 116,
+      "location": 2,
+      "content": "不让农民自己去修复",
+      "music": 0.0
+    },
+    {
+      "from": 257.99,
+      "to": 258.91,
+      "sid": 117,
+      "location": 2,
+      "content": "可以理解成",
+      "music": 0.0
+    },
+    {
+      "from": 258.91,
+      "to": 259.87,
+      "sid": 118,
+      "location": 2,
+      "content": "如果你的电脑坏了",
+      "music": 0.0
+    },
+    {
+      "from": 259.87,
+      "to": 261.47,
+      "sid": 119,
+      "location": 2,
+      "content": "你只能去专卖店修",
+      "music": 0.0
+    },
+    {
+      "from": 261.47,
+      "to": 262.67,
+      "sid": 120,
+      "location": 2,
+      "content": "那边价格特别高",
+      "music": 0.0
+    },
+    {
+      "from": 262.67,
+      "to": 264.65,
+      "sid": 121,
+      "location": 2,
+      "content": "还相当于是讹诈了你一笔钱",
+      "music": 0.0
+    },
+    {
+      "from": 264.65,
+      "to": 265.83,
+      "sid": 122,
+      "location": 2,
+      "content": "这个修理权问题",
+      "music": 0.0
+    },
+    {
+      "from": 265.83,
+      "to": 268.88,
+      "sid": 123,
+      "location": 2,
+      "content": "最近几年在美国的农业州是一个很重要的议题",
+      "music": 0.0
+    },
+    {
+      "from": 268.88,
+      "to": 272.52,
+      "sid": 124,
+      "location": 2,
+      "content": "So much with this company that we buy ours with with john deer",
+      "music": 0.0
+    },
+    {
+      "from": 272.52,
+      "to": 272.98,
+      "sid": 125,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 272.98,
+      "to": 276.02,
+      "sid": 126,
+      "location": 2,
+      "content": "Which is a major brand they have they",
+      "music": 0.11428570884354387
+    },
+    {
+      "from": 276.02,
+      "to": 277.78,
+      "sid": 127,
+      "location": 2,
+      "content": "Won't let other people",
+      "music": 0.0
+    },
+    {
+      "from": 277.78,
+      "to": 279.82,
+      "sid": 128,
+      "location": 2,
+      "content": "They won't let farmers repair their own",
+      "music": 0.0
+    },
+    {
+      "from": 279.82,
+      "to": 280.42,
+      "sid": 129,
+      "location": 2,
+      "content": "The uh",
+      "music": 0.0
+    },
+    {
+      "from": 280.42,
+      "to": 282.66,
+      "sid": 130,
+      "location": 2,
+      "content": "The their own machines very unhappy",
+      "music": 0.0
+    },
+    {
+      "from": 282.66,
+      "to": 283.9,
+      "sid": 131,
+      "location": 2,
+      "content": "Very in fact",
+      "music": 0.0
+    },
+    {
+      "from": 283.9,
+      "to": 285.76,
+      "sid": 132,
+      "location": 2,
+      "content": "Many of them are going away from john deer",
+      "music": 0.0
+    },
+    {
+      "from": 285.76,
+      "to": 288.23,
+      "sid": 133,
+      "location": 2,
+      "content": "Just because that john deer is gonna lose a lot of money",
+      "music": 0.0
+    },
+    {
+      "from": 288.23,
+      "to": 288.99,
+      "sid": 134,
+      "location": 2,
+      "content": "Typically",
+      "music": 0.0
+    },
+    {
+      "from": 288.99,
+      "to": 290.59,
+      "sid": 135,
+      "location": 2,
+      "content": "We like the the red ones",
+      "music": 0.0
+    },
+    {
+      "from": 290.59,
+      "to": 293.81,
+      "sid": 136,
+      "location": 2,
+      "content": "The except that is the only green thing that we have right there",
+      "music": 0.0
+    },
+    {
+      "from": 293.81,
+      "to": 295.419,
+      "sid": 137,
+      "location": 2,
+      "content": "That's our sprayer",
+      "music": 0.0
+    },
+    {
+      "from": 295.419,
+      "to": 297.959,
+      "sid": 138,
+      "location": 2,
+      "content": "And that they are actually pretty good players",
+      "music": 0.0
+    },
+    {
+      "from": 297.959,
+      "to": 299.979,
+      "sid": 139,
+      "location": 2,
+      "content": "这听起来纯粹是农用机械公司",
+      "music": 0.0
+    },
+    {
+      "from": 299.979,
+      "to": 302.22,
+      "sid": 140,
+      "location": 2,
+      "content": "为了增加营收采取的垄断措施",
+      "music": 0.0
+    },
+    {
+      "from": 302.22,
+      "to": 304.08,
+      "sid": 141,
+      "location": 2,
+      "content": "但是我用KIMI智能助手一查",
+      "music": 0.0
+    },
+    {
+      "from": 304.08,
+      "to": 306.05,
+      "sid": 142,
+      "location": 2,
+      "content": "美国农用机械的修理权问题",
+      "music": 0.0
+    },
+    {
+      "from": 306.05,
+      "to": 308.85,
+      "sid": 143,
+      "location": 2,
+      "content": "发现这个不合理的操作他居然是合法的",
+      "music": 0.0
+    },
+    {
+      "from": 308.85,
+      "to": 311.74,
+      "sid": 144,
+      "location": 2,
+      "content": "不过现在已经有多个州开始修改这部分的法律",
+      "music": 0.0
+    },
+    {
+      "from": 311.74,
+      "to": 313.1,
+      "sid": 145,
+      "location": 2,
+      "content": "感觉KIMI智能助手",
+      "music": 0.0
+    },
+    {
+      "from": 313.1,
+      "to": 316.2,
+      "sid": 146,
+      "location": 2,
+      "content": "比起其他很多AI平台给出来的消息要准确得多",
+      "music": 0.0
+    },
+    {
+      "from": 316.2,
+      "to": 318.22,
+      "sid": 147,
+      "location": 2,
+      "content": "因为它可以实时的联网搜索",
+      "music": 0.0
+    },
+    {
+      "from": 318.22,
+      "to": 320.32,
+      "sid": 148,
+      "location": 2,
+      "content": "还贴心地提供了资料的来源",
+      "music": 0.0
+    },
+    {
+      "from": 320.32,
+      "to": 322.7,
+      "sid": 149,
+      "location": 2,
+      "content": "最近KIMI还新推出了探索版",
+      "music": 0.0
+    },
+    {
+      "from": 322.7,
+      "to": 323.98,
+      "sid": 150,
+      "location": 2,
+      "content": "我们可以继续追问",
+      "music": 0.0
+    },
+    {
+      "from": 323.98,
+      "to": 326.87,
+      "sid": 151,
+      "location": 2,
+      "content": "美国农机厂商维修收入占总营收额的比重",
+      "music": 0.0
+    },
+    {
+      "from": 326.87,
+      "to": 329.21,
+      "sid": 152,
+      "location": 2,
+      "content": "KIMI会模拟人类的思考模式",
+      "music": 0.0
+    },
+    {
+      "from": 329.21,
+      "to": 330.71,
+      "sid": 153,
+      "location": 2,
+      "content": "分步骤搜索资料",
+      "music": 0.0
+    },
+    {
+      "from": 330.71,
+      "to": 332.09,
+      "sid": 154,
+      "location": 2,
+      "content": "然后得出结论",
+      "music": 0.0
+    },
+    {
+      "from": 332.09,
+      "to": 334.41,
+      "sid": 155,
+      "location": 2,
+      "content": "最后得出的10%到20%的比例",
+      "music": 0.0
+    },
+    {
+      "from": 334.41,
+      "to": 335.91,
+      "sid": 156,
+      "location": 2,
+      "content": "就非常具有说服力",
+      "music": 0.0
+    },
+    {
+      "from": 335.91,
+      "to": 336.75,
+      "sid": 157,
+      "location": 2,
+      "content": "此之外",
+      "music": 0.0
+    },
+    {
+      "from": 336.75,
+      "to": 339.52,
+      "sid": 158,
+      "location": 2,
+      "content": "KIMI搜索英文信息的能力也是非常的强大",
+      "music": 0.0
+    },
+    {
+      "from": 339.52,
+      "to": 341.82,
+      "sid": 159,
+      "location": 2,
+      "content": "比如说开头介绍牛吃的营养液",
+      "music": 0.0
+    },
+    {
+      "from": 341.82,
+      "to": 344.289,
+      "sid": 160,
+      "location": 2,
+      "content": "我备注的参考材料也是来源于KIMI",
+      "music": 0.0
+    },
+    {
+      "from": 344.289,
+      "to": 346.289,
+      "sid": 161,
+      "location": 2,
+      "content": "点击KIMI搜索过的网站一看",
+      "music": 0.0
+    },
+    {
+      "from": 346.289,
+      "to": 347.689,
+      "sid": 162,
+      "location": 2,
+      "content": "有一条就是爱荷华州",
+      "music": 0.0
+    },
+    {
+      "from": 347.689,
+      "to": 349.63,
+      "sid": 163,
+      "location": 2,
+      "content": "本地农民介绍营养液的视频",
+      "music": 0.0
+    },
+    {
+      "from": 349.63,
+      "to": 352.659,
+      "sid": 164,
+      "location": 2,
+      "content": "算是跟我之前去过的那一家农场关联性很大",
+      "music": 0.0
+    },
+    {
+      "from": 352.659,
+      "to": 353.639,
+      "sid": 165,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 353.639,
+      "to": 356.199,
+      "sid": 166,
+      "location": 2,
+      "content": "KIMI还搜索了大量领域内的相关论文",
+      "music": 0.0
+    },
+    {
+      "from": 356.199,
+      "to": 358.839,
+      "sid": 167,
+      "location": 2,
+      "content": "这么好用的AI产品居然还是免费的",
+      "music": 0.0
+    },
+    {
+      "from": 358.839,
+      "to": 360.25,
+      "sid": 168,
+      "location": 2,
+      "content": "而且简洁无广告",
+      "music": 0.0
+    },
+    {
+      "from": 360.25,
+      "to": 362.37,
+      "sid": 169,
+      "location": 2,
+      "content": "大家快点评论区的置顶链接",
+      "music": 0.0
+    },
+    {
+      "from": 362.37,
+      "to": 363.79,
+      "sid": 170,
+      "location": 2,
+      "content": "解锁同款神器",
+      "music": 0.0
+    },
+    {
+      "from": 363.79,
+      "to": 365.49,
+      "sid": 171,
+      "location": 2,
+      "content": "接下来看一看谷仓塔",
+      "music": 0.0
+    },
+    {
+      "from": 365.49,
+      "to": 366.61,
+      "sid": 172,
+      "location": 2,
+      "content": "这个噪音很大",
+      "music": 0.0
+    },
+    {
+      "from": 366.61,
+      "to": 368.08,
+      "sid": 173,
+      "location": 2,
+      "content": "大家做好准备哦",
+      "music": 0.0
+    },
+    {
+      "from": 368.08,
+      "to": 370.12,
+      "sid": 174,
+      "location": 2,
+      "content": "So what are always deped me",
+      "music": 0.0
+    },
+    {
+      "from": 370.12,
+      "to": 371.32,
+      "sid": 175,
+      "location": 2,
+      "content": "He's desped me",
+      "music": 0.0
+    },
+    {
+      "from": 371.32,
+      "to": 373.6,
+      "sid": 176,
+      "location": 2,
+      "content": "They are going down there",
+      "music": 0.0
+    },
+    {
+      "from": 375.88,
+      "to": 376.92,
+      "sid": 177,
+      "location": 2,
+      "content": "看",
+      "music": 0.0
+    },
+    {
+      "from": 378.92,
+      "to": 379.68,
+      "sid": 178,
+      "location": 2,
+      "content": "完古桑塔",
+      "music": 0.0
+    },
+    {
+      "from": 379.68,
+      "to": 381.61,
+      "sid": 179,
+      "location": 2,
+      "content": "我们现在回去看牛牛吧",
+      "music": 0.0
+    },
+    {
+      "from": 381.61,
+      "to": 383.41,
+      "sid": 180,
+      "location": 2,
+      "content": "You see a little bit of alphalpha",
+      "music": 0.0
+    },
+    {
+      "from": 383.41,
+      "to": 384.2,
+      "sid": 181,
+      "location": 2,
+      "content": "Hey",
+      "music": 0.0
+    },
+    {
+      "from": 384.2,
+      "to": 385.64,
+      "sid": 182,
+      "location": 2,
+      "content": "Which is protein",
+      "music": 0.0
+    },
+    {
+      "from": 385.64,
+      "to": 386.4,
+      "sid": 183,
+      "location": 2,
+      "content": "Good protein",
+      "music": 0.0
+    },
+    {
+      "from": 386.4,
+      "to": 388.2,
+      "sid": 184,
+      "location": 2,
+      "content": "But you see lots of corn in here",
+      "music": 0.0
+    },
+    {
+      "from": 388.2,
+      "to": 392.68,
+      "sid": 185,
+      "location": 2,
+      "content": "And corn has lots of starch and sugars and fat in it",
+      "music": 0.0
+    },
+    {
+      "from": 392.68,
+      "to": 393.68,
+      "sid": 186,
+      "location": 2,
+      "content": "你给扣了",
+      "music": 0.0
+    },
+    {
+      "from": 393.68,
+      "to": 394.22,
+      "sid": 187,
+      "location": 2,
+      "content": "我要分",
+      "music": 0.0
+    },
+    {
+      "from": 394.22,
+      "to": 394.68,
+      "sid": 188,
+      "location": 2,
+      "content": "老哥说",
+      "music": 0.0
+    },
+    {
+      "from": 394.68,
+      "to": 396.88,
+      "sid": 189,
+      "location": 2,
+      "content": "这些牛成熟了之后可以变得超级重",
+      "music": 0.0
+    },
+    {
+      "from": 396.88,
+      "to": 398.98,
+      "sid": 190,
+      "location": 2,
+      "content": "母牛可以到635kg",
+      "music": 0.0
+    },
+    {
+      "from": 398.98,
+      "to": 400.8,
+      "sid": 191,
+      "location": 2,
+      "content": "公牛到680kg",
+      "music": 0.0
+    },
+    {
+      "from": 400.8,
+      "to": 403.13,
+      "sid": 192,
+      "location": 2,
+      "content": "The goal is to put on good weight",
+      "music": 0.0
+    },
+    {
+      "from": 403.13,
+      "to": 405.79,
+      "sid": 193,
+      "location": 2,
+      "content": "And to have have them",
+      "music": 0.0
+    },
+    {
+      "from": 405.79,
+      "to": 409.55,
+      "sid": 194,
+      "location": 2,
+      "content": "Uh that's how you make money is by selling the heaviest",
+      "music": 0.0
+    },
+    {
+      "from": 409.55,
+      "to": 412.27,
+      "sid": 195,
+      "location": 2,
+      "content": "Best quality in our farm that",
+      "music": 0.0
+    },
+    {
+      "from": 412.27,
+      "to": 414.33,
+      "sid": 196,
+      "location": 2,
+      "content": "There's not a lot of people that do",
+      "music": 0.0
+    },
+    {
+      "from": 414.33,
+      "to": 416.2,
+      "sid": 197,
+      "location": 2,
+      "content": "And we alter sound",
+      "music": 0.0
+    },
+    {
+      "from": 416.2,
+      "to": 418.36,
+      "sid": 198,
+      "location": 2,
+      "content": "The fat cattle not for pregnancy",
+      "music": 0.0
+    },
+    {
+      "from": 418.36,
+      "to": 419.72,
+      "sid": 199,
+      "location": 2,
+      "content": "Not an alter sound for that",
+      "music": 0.0
+    },
+    {
+      "from": 419.72,
+      "to": 422.96,
+      "sid": 200,
+      "location": 2,
+      "content": "But we alter sound them to check out to find out",
+      "music": 0.0
+    },
+    {
+      "from": 422.96,
+      "to": 424.95,
+      "sid": 201,
+      "location": 2,
+      "content": "What their meat quality is",
+      "music": 0.0
+    },
+    {
+      "from": 424.95,
+      "to": 427.39,
+      "sid": 202,
+      "location": 2,
+      "content": "老哥的想法其实非常的现实主义",
+      "music": 0.0
+    },
+    {
+      "from": 427.39,
+      "to": 428.67,
+      "sid": 203,
+      "location": 2,
+      "content": "第一是靠超声波",
+      "music": 0.0
+    },
+    {
+      "from": 428.67,
+      "to": 431.07,
+      "sid": 204,
+      "location": 2,
+      "content": "估计什么时候是卖牛的最佳时机",
+      "music": 0.0
+    },
+    {
+      "from": 431.07,
+      "to": 433.34,
+      "sid": 205,
+      "location": 2,
+      "content": "这样子他们就不会浪费草料",
+      "music": 0.0
+    },
+    {
+      "from": 433.34,
+      "to": 435.36,
+      "sid": 206,
+      "location": 2,
+      "content": "第二是看那些小牛的肉质",
+      "music": 0.0
+    },
+    {
+      "from": 435.36,
+      "to": 436.98,
+      "sid": 207,
+      "location": 2,
+      "content": "如果一个牛妈妈连续几年",
+      "music": 0.0
+    },
+    {
+      "from": 436.98,
+      "to": 438.88,
+      "sid": 208,
+      "location": 2,
+      "content": "没有办法产出优质的小牛",
+      "music": 0.0
+    },
+    {
+      "from": 438.88,
+      "to": 441.08,
+      "sid": 209,
+      "location": 2,
+      "content": "这头母牛就会被淘汰掉了",
+      "music": 0.0
+    },
+    {
+      "from": 441.08,
+      "to": 444.42,
+      "sid": 210,
+      "location": 2,
+      "content": "因为它在之后大概率也产出不了优质的幼崽",
+      "music": 0.0
+    },
+    {
+      "from": 444.42,
+      "to": 446.98,
+      "sid": 211,
+      "location": 2,
+      "content": "Genetics is really important for us",
+      "music": 0.0
+    },
+    {
+      "from": 446.98,
+      "to": 449.54,
+      "sid": 212,
+      "location": 2,
+      "content": "And we're always looking for the top genetics that",
+      "music": 0.0
+    },
+    {
+      "from": 449.54,
+      "to": 451.58,
+      "sid": 213,
+      "location": 2,
+      "content": "We can get that will produce the highest quality",
+      "music": 0.0
+    },
+    {
+      "from": 451.58,
+      "to": 452.0,
+      "sid": 214,
+      "location": 2,
+      "content": "Beat",
+      "music": 0.0
+    },
+    {
+      "from": 452.0,
+      "to": 452.84,
+      "sid": 215,
+      "location": 2,
+      "content": "So in fact",
+      "music": 0.0
+    },
+    {
+      "from": 452.84,
+      "to": 453.64,
+      "sid": 216,
+      "location": 2,
+      "content": "This next year",
+      "music": 0.0
+    },
+    {
+      "from": 453.64,
+      "to": 455.33,
+      "sid": 217,
+      "location": 2,
+      "content": "We're starting something new",
+      "music": 0.0
+    },
+    {
+      "from": 455.33,
+      "to": 459.46,
+      "sid": 218,
+      "location": 2,
+      "content": "We are going to take uh dna samples on all of our",
+      "music": 0.0
+    },
+    {
+      "from": 459.46,
+      "to": 462.78,
+      "sid": 219,
+      "location": 2,
+      "content": "Heifers that the young females that are that we're gonna take",
+      "music": 0.0
+    },
+    {
+      "from": 462.78,
+      "to": 465.67,
+      "sid": 220,
+      "location": 2,
+      "content": "And we are going to keep the top seventy",
+      "music": 0.0
+    },
+    {
+      "from": 465.67,
+      "to": 465.83,
+      "sid": 221,
+      "location": 2,
+      "content": "Five",
+      "music": 0.0
+    },
+    {
+      "from": 465.83,
+      "to": 467.77,
+      "sid": 222,
+      "location": 2,
+      "content": "Percent top of of those",
+      "music": 0.0
+    },
+    {
+      "from": 467.77,
+      "to": 469.59,
+      "sid": 223,
+      "location": 2,
+      "content": "Because there are certain",
+      "music": 0.0
+    },
+    {
+      "from": 469.59,
+      "to": 474.899,
+      "sid": 224,
+      "location": 2,
+      "content": "Genes and genetics that will produce the highest quality",
+      "music": 0.0
+    },
+    {
+      "from": 474.899,
+      "to": 477.459,
+      "sid": 225,
+      "location": 2,
+      "content": "They will produce the best utters for the cows",
+      "music": 0.0
+    },
+    {
+      "from": 477.459,
+      "to": 478.86,
+      "sid": 226,
+      "location": 2,
+      "content": "For the babies to drink",
+      "music": 0.0
+    },
+    {
+      "from": 478.86,
+      "to": 481.74,
+      "sid": 227,
+      "location": 2,
+      "content": "And the milk supply for those babies to drink",
+      "music": 0.0
+    },
+    {
+      "from": 481.74,
+      "to": 483.34,
+      "sid": 228,
+      "location": 2,
+      "content": "They want for feet structure",
+      "music": 0.0
+    },
+    {
+      "from": 483.34,
+      "to": 484.299,
+      "sid": 229,
+      "location": 2,
+      "content": "It's really important",
+      "music": 0.0
+    },
+    {
+      "from": 484.299,
+      "to": 486.979,
+      "sid": 230,
+      "location": 2,
+      "content": "Have good feet on your cattle that you may not think that",
+      "music": 0.0
+    },
+    {
+      "from": 486.979,
+      "to": 489.219,
+      "sid": 231,
+      "location": 2,
+      "content": "But when they're when they're walking around all day",
+      "music": 0.0
+    },
+    {
+      "from": 489.219,
+      "to": 490.339,
+      "sid": 232,
+      "location": 2,
+      "content": "And out especially",
+      "music": 0.0
+    },
+    {
+      "from": 490.339,
+      "to": 491.7,
+      "sid": 233,
+      "location": 2,
+      "content": "If there were going to be a mother",
+      "music": 0.0
+    },
+    {
+      "from": 491.7,
+      "to": 496.07,
+      "sid": 234,
+      "location": 2,
+      "content": "They that we want our mothers to last about fifteen years uh",
+      "music": 0.0
+    },
+    {
+      "from": 496.07,
+      "to": 498.83,
+      "sid": 235,
+      "location": 2,
+      "content": "And then they they're after that they start going downhill",
+      "music": 0.0
+    },
+    {
+      "from": 498.83,
+      "to": 499.59,
+      "sid": 236,
+      "location": 2,
+      "content": "But let's say",
+      "music": 0.0
+    },
+    {
+      "from": 499.59,
+      "to": 501.03,
+      "sid": 237,
+      "location": 2,
+      "content": "If you have a cow that you are",
+      "music": 0.0
+    },
+    {
+      "from": 501.03,
+      "to": 502.39,
+      "sid": 238,
+      "location": 2,
+      "content": "Heifer that you produce",
+      "music": 0.0
+    },
+    {
+      "from": 502.39,
+      "to": 504.38,
+      "sid": 239,
+      "location": 2,
+      "content": "And it costs you uh",
+      "music": 0.0
+    },
+    {
+      "from": 504.38,
+      "to": 507.26,
+      "sid": 240,
+      "location": 2,
+      "content": "Three thousand or two thousand dollars to get her",
+      "music": 0.0
+    },
+    {
+      "from": 507.26,
+      "to": 509.52,
+      "sid": 241,
+      "location": 2,
+      "content": "Maybe three thousand to get her to the point where",
+      "music": 0.0
+    },
+    {
+      "from": 509.52,
+      "to": 511.21,
+      "sid": 242,
+      "location": 2,
+      "content": "She's gonna have that first baby",
+      "music": 0.0
+    },
+    {
+      "from": 511.21,
+      "to": 514.85,
+      "sid": 243,
+      "location": 2,
+      "content": "You don't want her to all of a sudden start getting you know",
+      "music": 0.0
+    },
+    {
+      "from": 514.85,
+      "to": 515.89,
+      "sid": 244,
+      "location": 2,
+      "content": "We're feet hurt",
+      "music": 0.0
+    },
+    {
+      "from": 515.89,
+      "to": 518.55,
+      "sid": 245,
+      "location": 2,
+      "content": "And all that you want the very best equality",
+      "music": 0.0
+    },
+    {
+      "from": 518.55,
+      "to": 520.55,
+      "sid": 246,
+      "location": 2,
+      "content": "So genetics can really help us",
+      "music": 0.0
+    },
+    {
+      "from": 520.55,
+      "to": 521.15,
+      "sid": 247,
+      "location": 2,
+      "content": "And then we're gonna",
+      "music": 0.0
+    },
+    {
+      "from": 521.15,
+      "to": 522.679,
+      "sid": 248,
+      "location": 2,
+      "content": "看老哥这么懂的样子",
+      "music": 0.0
+    },
+    {
+      "from": 522.679,
+      "to": 524.779,
+      "sid": 249,
+      "location": 2,
+      "content": "估计平时没少看这方面的知识",
+      "music": 0.0
+    },
+    {
+      "from": 524.779,
+      "to": 527.83,
+      "sid": 250,
+      "location": 2,
+      "content": "而KIMI智能助手也可以让我们学习事半功倍",
+      "music": 0.0
+    },
+    {
+      "from": 527.83,
+      "to": 529.73,
+      "sid": 251,
+      "location": 2,
+      "content": "我丢了一大堆论文给KIMI",
+      "music": 0.0
+    },
+    {
+      "from": 529.73,
+      "to": 532.23,
+      "sid": 252,
+      "location": 2,
+      "content": "而他很快就给了我一个总结性表格",
+      "music": 0.0
+    },
+    {
+      "from": 532.23,
+      "to": 534.07,
+      "sid": 253,
+      "location": 2,
+      "content": "想要提升学习效率的小伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 534.07,
+      "to": 536.79,
+      "sid": 254,
+      "location": 2,
+      "content": "也可以点击评论区下载KIMI智能助手哦",
+      "music": 0.0
+    },
+    {
+      "from": 536.79,
+      "to": 537.67,
+      "sid": 255,
+      "location": 2,
+      "content": "老哥还提到",
+      "music": 0.0
+    },
+    {
+      "from": 537.67,
+      "to": 538.93,
+      "sid": 256,
+      "location": 2,
+      "content": "养牛是一个玄学",
+      "music": 0.0
+    },
+    {
+      "from": 538.93,
+      "to": 541.45,
+      "sid": 257,
+      "location": 2,
+      "content": "每年市场的供需关系都非常的随机",
+      "music": 0.0
+    },
+    {
+      "from": 541.45,
+      "to": 542.61,
+      "sid": 258,
+      "location": 2,
+      "content": "今年前段时间",
+      "music": 0.0
+    },
+    {
+      "from": 542.61,
+      "to": 543.33,
+      "sid": 259,
+      "location": 2,
+      "content": "美国很多地方",
+      "music": 0.0
+    },
+    {
+      "from": 543.33,
+      "to": 546.15,
+      "sid": 260,
+      "location": 2,
+      "content": "由于干旱草场上面没有给牛吃的草",
+      "music": 0.0
+    },
+    {
+      "from": 546.15,
+      "to": 549.29,
+      "sid": 261,
+      "location": 2,
+      "content": "很多养牛的人被迫在那段时间把牛给卖掉了",
+      "music": 0.0
+    },
+    {
+      "from": 549.29,
+      "to": 551.59,
+      "sid": 262,
+      "location": 2,
+      "content": "导致当下的市场上的牛很少",
+      "music": 0.0
+    },
+    {
+      "from": 551.59,
+      "to": 553.9,
+      "sid": 263,
+      "location": 2,
+      "content": "尤其是产仔的母牛特别的抢手",
+      "music": 0.0
+    },
+    {
+      "from": 553.9,
+      "to": 556.04,
+      "sid": 264,
+      "location": 2,
+      "content": "整体来说的牛价都挺高的",
+      "music": 0.0
+    },
+    {
+      "from": 556.04,
+      "to": 558.3,
+      "sid": 265,
+      "location": 2,
+      "content": "So the the feed right now",
+      "music": 0.0
+    },
+    {
+      "from": 558.3,
+      "to": 560.16,
+      "sid": 266,
+      "location": 2,
+      "content": "The feed costs are low",
+      "music": 0.0
+    },
+    {
+      "from": 560.16,
+      "to": 563.22,
+      "sid": 267,
+      "location": 2,
+      "content": "Because there is an overabundance of corn like",
+      "music": 0.0
+    },
+    {
+      "from": 563.22,
+      "to": 564.37,
+      "sid": 268,
+      "location": 2,
+      "content": "We're feeding here",
+      "music": 0.0
+    },
+    {
+      "from": 564.37,
+      "to": 568.65,
+      "sid": 269,
+      "location": 2,
+      "content": "And there's also an overabundance of of pay this this year",
+      "music": 0.0
+    },
+    {
+      "from": 568.65,
+      "to": 570.07,
+      "sid": 270,
+      "location": 2,
+      "content": "There are years where people",
+      "music": 0.0
+    },
+    {
+      "from": 570.07,
+      "to": 570.65,
+      "sid": 271,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 570.65,
+      "to": 572.17,
+      "sid": 272,
+      "location": 2,
+      "content": "We don't make any profit in fact",
+      "music": 0.0
+    },
+    {
+      "from": 572.17,
+      "to": 573.95,
+      "sid": 273,
+      "location": 2,
+      "content": "We lose money on on different years",
+      "music": 0.0
+    },
+    {
+      "from": 573.95,
+      "to": 578.43,
+      "sid": 274,
+      "location": 2,
+      "content": "It's it's like going to a gambling gambling thing",
+      "music": 0.0
+    },
+    {
+      "from": 578.43,
+      "to": 579.51,
+      "sid": 275,
+      "location": 2,
+      "content": "Where you either",
+      "music": 0.0
+    },
+    {
+      "from": 579.51,
+      "to": 579.93,
+      "sid": 276,
+      "location": 2,
+      "content": "You're gonna",
+      "music": 0.0
+    },
+    {
+      "from": 579.93,
+      "to": 581.62,
+      "sid": 277,
+      "location": 2,
+      "content": "Put down your money and make money",
+      "music": 0.0
+    },
+    {
+      "from": 581.62,
+      "to": 582.94,
+      "sid": 278,
+      "location": 2,
+      "content": "Or you're going to lose money",
+      "music": 0.0
+    },
+    {
+      "from": 582.94,
+      "to": 584.94,
+      "sid": 279,
+      "location": 2,
+      "content": "And there are years where we lose money",
+      "music": 0.0
+    },
+    {
+      "from": 584.94,
+      "to": 586.1,
+      "sid": 280,
+      "location": 2,
+      "content": "There's years where we make money",
+      "music": 0.0
+    },
+    {
+      "from": 586.1,
+      "to": 586.86,
+      "sid": 281,
+      "location": 2,
+      "content": "And so hopefully",
+      "music": 0.0
+    },
+    {
+      "from": 586.86,
+      "to": 587.46,
+      "sid": 282,
+      "location": 2,
+      "content": "We can",
+      "music": 0.0
+    },
+    {
+      "from": 587.46,
+      "to": 589.16,
+      "sid": 283,
+      "location": 2,
+      "content": "每头牛都非常的值钱",
+      "music": 0.0
+    },
+    {
+      "from": 589.16,
+      "to": 591.0,
+      "sid": 284,
+      "location": 2,
+      "content": "是行走了3000美元啊",
+      "music": 0.0
+    },
+    {
+      "from": 591.0,
+      "to": 593.31,
+      "sid": 285,
+      "location": 2,
+      "content": "因此老哥特别在意它们的健康",
+      "music": 0.0
+    },
+    {
+      "from": 593.31,
+      "to": 594.45,
+      "sid": 286,
+      "location": 2,
+      "content": "但是就算这样",
+      "music": 0.0
+    },
+    {
+      "from": 594.45,
+      "to": 596.1,
+      "sid": 287,
+      "location": 2,
+      "content": "牛生病还是非常的正常",
+      "music": 0.0
+    },
+    {
+      "from": 596.1,
+      "to": 598.82,
+      "sid": 288,
+      "location": 2,
+      "content": "We probably lost thirty to forty thousand dollars",
+      "music": 0.0
+    },
+    {
+      "from": 598.82,
+      "to": 601.06,
+      "sid": 289,
+      "location": 2,
+      "content": "Worth the cattle that died on us that",
+      "music": 0.0
+    },
+    {
+      "from": 601.06,
+      "to": 603.26,
+      "sid": 290,
+      "location": 2,
+      "content": "It's just one of the one of those things",
+      "music": 0.0
+    },
+    {
+      "from": 603.26,
+      "to": 606.5,
+      "sid": 291,
+      "location": 2,
+      "content": "But it it takes a lot of the the it takes your profit",
+      "music": 0.0
+    },
+    {
+      "from": 606.5,
+      "to": 606.82,
+      "sid": 292,
+      "location": 2,
+      "content": "The way",
+      "music": 0.0
+    },
+    {
+      "from": 606.82,
+      "to": 607.64,
+      "sid": 293,
+      "location": 2,
+      "content": "Pretty fast",
+      "music": 0.0
+    },
+    {
+      "from": 607.64,
+      "to": 609.94,
+      "sid": 294,
+      "location": 2,
+      "content": "So help is very important",
+      "music": 0.0
+    },
+    {
+      "from": 609.94,
+      "to": 611.94,
+      "sid": 295,
+      "location": 2,
+      "content": "Like first of those small ones",
+      "music": 0.0
+    },
+    {
+      "from": 611.94,
+      "to": 613.86,
+      "sid": 296,
+      "location": 2,
+      "content": "Yesterday they just got here",
+      "music": 0.0
+    },
+    {
+      "from": 613.86,
+      "to": 619.359,
+      "sid": 297,
+      "location": 2,
+      "content": "And so we gave them imonizations for about seven or eight",
+      "music": 0.0
+    },
+    {
+      "from": 619.359,
+      "to": 621.879,
+      "sid": 298,
+      "location": 2,
+      "content": "Different diseases that are common in cattle",
+      "music": 0.0
+    },
+    {
+      "from": 621.879,
+      "to": 624.42,
+      "sid": 299,
+      "location": 2,
+      "content": "Respiratory diseases their lungs",
+      "music": 0.0
+    },
+    {
+      "from": 624.42,
+      "to": 628.329,
+      "sid": 300,
+      "location": 2,
+      "content": "And how they breathe they can they can get pneumonia very easy",
+      "music": 0.0
+    },
+    {
+      "from": 628.329,
+      "to": 631.569,
+      "sid": 301,
+      "location": 2,
+      "content": "And so we have to we have to immunize them for all",
+      "music": 0.0
+    },
+    {
+      "from": 631.569,
+      "to": 634.83,
+      "sid": 302,
+      "location": 2,
+      "content": "Those different diseases that they can get four shots",
+      "music": 0.0
+    },
+    {
+      "from": 634.83,
+      "to": 635.57,
+      "sid": 303,
+      "location": 2,
+      "content": "We gave them",
+      "music": 0.0
+    },
+    {
+      "from": 635.57,
+      "to": 638.04,
+      "sid": 304,
+      "location": 2,
+      "content": "Warmer we want to keep the worms that",
+      "music": 0.0
+    },
+    {
+      "from": 638.04,
+      "to": 642.1,
+      "sid": 305,
+      "location": 2,
+      "content": "May have they may have contacted or contracted in the in the pastures",
+      "music": 0.0
+    },
+    {
+      "from": 642.1,
+      "to": 643.7,
+      "sid": 306,
+      "location": 2,
+      "content": "Where they got graphs",
+      "music": 0.0
+    },
+    {
+      "from": 643.7,
+      "to": 645.089,
+      "sid": 307,
+      "location": 2,
+      "content": "They come in",
+      "music": 0.0
+    },
+    {
+      "from": 645.089,
+      "to": 648.41,
+      "sid": 308,
+      "location": 2,
+      "content": "And then yeah",
+      "music": 0.0
+    },
+    {
+      "from": 648.41,
+      "to": 649.91,
+      "sid": 309,
+      "location": 2,
+      "content": "And when they get in here",
+      "music": 0.0
+    },
+    {
+      "from": 649.91,
+      "to": 650.95,
+      "sid": 310,
+      "location": 2,
+      "content": "They'll run in",
+      "music": 0.0
+    },
+    {
+      "from": 650.95,
+      "to": 653.93,
+      "sid": 311,
+      "location": 2,
+      "content": "And right when they get their head about right here",
+      "music": 0.0
+    },
+    {
+      "from": 653.93,
+      "to": 659.06,
+      "sid": 312,
+      "location": 2,
+      "content": "I close this head like this on their neck",
+      "music": 0.0
+    },
+    {
+      "from": 659.06,
+      "to": 660.44,
+      "sid": 313,
+      "location": 2,
+      "content": "And i squeeze them down",
+      "music": 0.0
+    },
+    {
+      "from": 662.2,
+      "to": 664.52,
+      "sid": 314,
+      "location": 2,
+      "content": "Like that i squeeze them down",
+      "music": 0.0
+    },
+    {
+      "from": 664.52,
+      "to": 666.55,
+      "sid": 315,
+      "location": 2,
+      "content": "So that they can't hurt themselves",
+      "music": 0.0
+    },
+    {
+      "from": 666.55,
+      "to": 668.11,
+      "sid": 316,
+      "location": 2,
+      "content": "And then i can give them",
+      "music": 0.0
+    },
+    {
+      "from": 668.11,
+      "to": 671.25,
+      "sid": 317,
+      "location": 2,
+      "content": "All the humanizations and everything with the with the needles",
+      "music": 0.0
+    },
+    {
+      "from": 671.25,
+      "to": 671.99,
+      "sid": 318,
+      "location": 2,
+      "content": "And so forth",
+      "music": 0.0
+    },
+    {
+      "from": 671.99,
+      "to": 673.8,
+      "sid": 319,
+      "location": 2,
+      "content": "And they they don't hurt us",
+      "music": 0.0
+    },
+    {
+      "from": 673.8,
+      "to": 675.24,
+      "sid": 320,
+      "location": 2,
+      "content": "We don't hurt them",
+      "music": 0.0
+    },
+    {
+      "from": 675.24,
+      "to": 677.38,
+      "sid": 321,
+      "location": 2,
+      "content": "And so like if i have a sick one",
+      "music": 0.0
+    },
+    {
+      "from": 677.38,
+      "to": 678.18,
+      "sid": 322,
+      "location": 2,
+      "content": "I bring them up",
+      "music": 0.0
+    },
+    {
+      "from": 678.18,
+      "to": 679.4,
+      "sid": 323,
+      "location": 2,
+      "content": "And i do the same thing",
+      "music": 0.0
+    },
+    {
+      "from": 679.4,
+      "to": 680.819,
+      "sid": 324,
+      "location": 2,
+      "content": "We can also weigh them",
+      "music": 0.0
+    },
+    {
+      "from": 680.819,
+      "to": 682.959,
+      "sid": 325,
+      "location": 2,
+      "content": "之后我去他们家修理器械的仓库",
+      "music": 0.0
+    },
+    {
+      "from": 682.959,
+      "to": 685.37,
+      "sid": 326,
+      "location": 2,
+      "content": "吃了个肯德基和饼干做午饭",
+      "music": 0.0
+    },
+    {
+      "from": 685.37,
+      "to": 687.57,
+      "sid": 327,
+      "location": 2,
+      "content": "其实美国现在像老哥这样的家庭",
+      "music": 0.0
+    },
+    {
+      "from": 687.57,
+      "to": 689.14,
+      "sid": 328,
+      "location": 2,
+      "content": "小农场越来越少了",
+      "music": 0.0
+    },
+    {
+      "from": 689.14,
+      "to": 691.68,
+      "sid": 329,
+      "location": 2,
+      "content": "比起那些更工业化农场里面的牛",
+      "music": 0.0
+    },
+    {
+      "from": 691.68,
+      "to": 694.54,
+      "sid": 330,
+      "location": 2,
+      "content": "老哥把牛圈里面清理的是相当干净了",
+      "music": 0.0
+    },
+    {
+      "from": 694.54,
+      "to": 696.1,
+      "sid": 331,
+      "location": 2,
+      "content": "基本上没有异味",
+      "music": 0.0
+    },
+    {
+      "from": 696.1,
+      "to": 698.7,
+      "sid": 332,
+      "location": 2,
+      "content": "我在中西部经常能经过一些大养殖场",
+      "music": 0.0
+    },
+    {
+      "from": 698.7,
+      "to": 700.35,
+      "sid": 333,
+      "location": 2,
+      "content": "比如说泰森什么的",
+      "music": 0.0
+    },
+    {
+      "from": 700.35,
+      "to": 703.03,
+      "sid": 334,
+      "location": 2,
+      "content": "在公路边远远的都能闻到里面的臭味",
+      "music": 0.0
+    },
+    {
+      "from": 703.03,
+      "to": 705.03,
+      "sid": 335,
+      "location": 2,
+      "content": "吃完饭我就离开老哥的农场了",
+      "music": 0.0
+    },
+    {
+      "from": 705.03,
+      "to": 706.79,
+      "sid": 336,
+      "location": 2,
+      "content": "离他家不远的另外一个农场",
+      "music": 0.0
+    },
+    {
+      "from": 706.79,
+      "to": 708.71,
+      "sid": 337,
+      "location": 2,
+      "content": "有卖南瓜和苹果什么的",
+      "music": 0.0
+    },
+    {
+      "from": 708.71,
+      "to": 710.41,
+      "sid": 338,
+      "location": 2,
+      "content": "附近还有一个玉米迷宫",
+      "music": 0.0
+    },
+    {
+      "from": 710.41,
+      "to": 712.91,
+      "sid": 339,
+      "location": 2,
+      "content": "就是在快成熟的玉米中间开辟小路",
+      "music": 0.0
+    },
+    {
+      "from": 712.91,
+      "to": 713.96,
+      "sid": 340,
+      "location": 2,
+      "content": "在里面寻宝",
+      "music": 0.0
+    },
+    {
+      "from": 713.96,
+      "to": 715.2,
+      "sid": 341,
+      "location": 2,
+      "content": "做了这么多期视频",
+      "music": 0.0
+    },
+    {
+      "from": 715.2,
+      "to": 717.36,
+      "sid": 342,
+      "location": 2,
+      "content": "大家最关心的问题之一就是教育啊",
+      "music": 0.0
+    },
+    {
+      "from": 717.36,
+      "to": 719.4,
+      "sid": 343,
+      "location": 2,
+      "content": "我在走之前也是问了一下老哥",
+      "music": 0.0
+    },
+    {
+      "from": 719.4,
+      "to": 722.62,
+      "sid": 344,
+      "location": 2,
+      "content": "他的小孩子一般在附近的一个农村小学上学",
+      "music": 0.0
+    },
+    {
+      "from": 722.62,
+      "to": 723.66,
+      "sid": 345,
+      "location": 2,
+      "content": "开车20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 723.66,
+      "to": 725.77,
+      "sid": 346,
+      "location": 2,
+      "content": "但是一般来说会有校车来接他们",
+      "music": 0.0
+    },
+    {
+      "from": 725.77,
+      "to": 728.23,
+      "sid": 347,
+      "location": 2,
+      "content": "直到他们14岁可以自己开车上学",
+      "music": 0.0
+    },
+    {
+      "from": 728.23,
+      "to": 729.63,
+      "sid": 348,
+      "location": 2,
+      "content": "我一开始还以为听错了",
+      "music": 0.0
+    },
+    {
+      "from": 729.63,
+      "to": 730.65,
+      "sid": 349,
+      "location": 2,
+      "content": "后来确认了一下",
+      "music": 0.0
+    },
+    {
+      "from": 730.65,
+      "to": 731.45,
+      "sid": 350,
+      "location": 2,
+      "content": "确实是这样",
+      "music": 0.0
+    },
+    {
+      "from": 731.45,
+      "to": 732.89,
+      "sid": 351,
+      "location": 2,
+      "content": "毕竟美国农业州的小孩子",
+      "music": 0.0
+    },
+    {
+      "from": 732.89,
+      "to": 735.18,
+      "sid": 352,
+      "location": 2,
+      "content": "帮忙干农活的方式就是开各种器械",
+      "music": 0.0
+    },
+    {
+      "from": 735.18,
+      "to": 737.82,
+      "sid": 353,
+      "location": 2,
+      "content": "大部分小孩子五六岁就会开这种大农机了",
+      "music": 0.0
+    },
+    {
+      "from": 737.82,
+      "to": 741.28,
+      "sid": 354,
+      "location": 2,
+      "content": "So like my my grandson was walking around with us",
+      "music": 0.0
+    },
+    {
+      "from": 741.28,
+      "to": 742.66,
+      "sid": 355,
+      "location": 2,
+      "content": "He is eight years old",
+      "music": 0.0
+    },
+    {
+      "from": 742.66,
+      "to": 744.87,
+      "sid": 356,
+      "location": 2,
+      "content": "And he's already driving uh",
+      "music": 0.0
+    },
+    {
+      "from": 744.87,
+      "to": 746.39,
+      "sid": 357,
+      "location": 2,
+      "content": "All the ugds",
+      "music": 0.0
+    },
+    {
+      "from": 746.39,
+      "to": 749.48,
+      "sid": 358,
+      "location": 2,
+      "content": "Which are jin db and mason four either",
+      "music": 0.0
+    },
+    {
+      "from": 749.48,
+      "to": 750.78,
+      "sid": 359,
+      "location": 2,
+      "content": "Some things like that need to drive",
+      "music": 0.0
+    },
+    {
+      "from": 750.78,
+      "to": 751.58,
+      "sid": 360,
+      "location": 2,
+      "content": "All over the farm",
+      "music": 0.0
+    },
+    {
+      "from": 751.58,
+      "to": 752.34,
+      "sid": 361,
+      "location": 2,
+      "content": "Early as mother",
+      "music": 0.0
+    },
+    {
+      "from": 752.34,
+      "to": 754.04,
+      "sid": 362,
+      "location": 2,
+      "content": "And father can get a plan before",
+      "music": 0.0
+    },
+    {
+      "from": 754.04,
+      "to": 756.34,
+      "sid": 363,
+      "location": 2,
+      "content": "I can feel h",
+      "music": 0.0
+    },
+    {
+      "from": 756.34,
+      "to": 759.58,
+      "sid": 364,
+      "location": 2,
+      "content": "那个采访里面钻戒确实不知道",
+      "music": 0.0
+    },
+    {
+      "from": 759.58,
+      "to": 761.95,
+      "sid": 365,
+      "location": 2,
+      "content": "大家对美国这种机械化农场什么感受啊",
+      "music": 0.0
+    },
+    {
+      "from": 761.95,
+      "to": 764.83,
+      "sid": 366,
+      "location": 2,
+      "content": "欢迎在评论区弹幕发表一下你的看法好了",
+      "music": 0.0
+    },
+    {
+      "from": 764.83,
+      "to": 766.11,
+      "sid": 367,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 766.11,
+      "to": 769.12,
+      "sid": 368,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

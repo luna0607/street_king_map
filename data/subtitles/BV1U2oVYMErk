@@ -1,0 +1,720 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "en",
+  "version": "default",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.9,
+      "sid": 0,
+      "content": "Today I found a small African American restaurant that serves pork tripe"
+    },
+    {
+      "from": 2.9,
+      "to": 5.4,
+      "sid": 1,
+      "content": "It is located in the African American neighborhood of Mobile, Alabama, USA."
+    },
+    {
+      "from": 5.4,
+      "to": 7.09,
+      "sid": 2,
+      "content": "This neighborhood shop is doing great business at noon."
+    },
+    {
+      "from": 7.09,
+      "to": 9.05,
+      "sid": 3,
+      "content": "There were locals surrounding me from both front and back"
+    },
+    {
+      "from": 9.05,
+      "to": 10.65,
+      "sid": 4,
+      "content": "Plus, this glass is a bit reflective"
+    },
+    {
+      "from": 10.65,
+      "to": 12.61,
+      "sid": 5,
+      "content": "so I had to film the whole time with social anxiety"
+    },
+    {
+      "from": 14.99,
+      "to": 16.79,
+      "sid": 6,
+      "content": "Let me give you a sense of the atmosphere—it's actually very harmonious, everyone knows each other, I'm just a bit introverted. This pork belly combo comes with rice"
+    },
+    {
+      "from": 16.79,
+      "to": 18.67,
+      "sid": 7,
+      "content": "plus two side dishes and a cornbread"
+    },
+    {
+      "from": 18.67,
+      "to": 20.53,
+      "sid": 8,
+      "content": "I chose cabbage and cowpeas as my vegetables."
+    },
+    {
+      "from": 20.53,
+      "to": 22.31,
+      "sid": 9,
+      "content": "The pork tripe is actually today's special."
+    },
+    {
+      "from": 22.31,
+      "to": 24.32,
+      "sid": 10,
+      "content": "When it was my turn, there was only one portion left."
+    },
+    {
+      "from": 24.32,
+      "to": 27.62,
+      "sid": 11,
+      "content": "So the guy serving food is trying his best to scoop some meat out of the soup for me."
+    },
+    {
+      "from": 27.62,
+      "to": 28.68,
+      "sid": 12,
+      "content": "If you don't order the pork belly"
+    },
+    {
+      "from": 28.68,
+      "to": 31.26,
+      "sid": 13,
+      "content": "Other meat options include rib rolls and meatloaf"
+    },
+    {
+      "from": 31.26,
+      "to": 31.86,
+      "sid": 14,
+      "content": "smothered pork chop"
+    },
+    {
+      "from": 31.86,
+      "to": 33.08,
+      "sid": 15,
+      "content": "fried catfish and roasted chicken"
+    },
+    {
+      "from": 33.08,
+      "to": 35.62,
+      "sid": 16,
+      "content": "These are all classic dishes that African Americans love to eat."
+    },
+    {
+      "from": 35.62,
+      "to": 38.54,
+      "sid": 17,
+      "content": "Takeout shops like these don't have dine-in tables, so you must take your food to go."
+    },
+    {
+      "from": 38.54,
+      "to": 41.29,
+      "sid": 18,
+      "content": "After that, I went to the neighboring Black-owned convenience store to buy some water to have with my meal."
+    },
+    {
+      "from": 41.29,
+      "to": 42.41,
+      "sid": 19,
+      "content": "Inside this supermarket"
+    },
+    {
+      "from": 42.41,
+      "to": 45.08,
+      "sid": 20,
+      "content": "sells shampoo and conditioner specifically designed for black hair"
+    },
+    {
+      "from": 45.08,
+      "to": 47.58,
+      "sid": 21,
+      "content": "and various snacks endorsed by Black celebrities"
+    },
+    {
+      "from": 47.58,
+      "to": 49.88,
+      "sid": 22,
+      "content": "The most surreal part is that the cashier at the front desk is a Japanese person."
+    },
+    {
+      "from": 49.88,
+      "to": 52.34,
+      "sid": 23,
+      "content": "He told me that the owner of this small supermarket is Korean."
+    },
+    {
+      "from": 52.34,
+      "to": 53.36,
+      "sid": 24,
+      "content": "The community restaurant where I just bought food is run by Vietnamese."
+    },
+    {
+      "from": 53.36,
+      "to": 56.62,
+      "sid": 25,
+      "content": "Next to the small restaurant, there is also a Chinese eatery"
+    },
+    {
+      "from": 56.62,
+      "to": 58.34,
+      "sid": 26,
+      "content": "but I'm not exactly sure who owns it"
+    },
+    {
+      "from": 58.34,
+      "to": 61.269,
+      "sid": 27,
+      "content": "It can only be said that businesses in America's Black neighborhoods are mostly run by Asians."
+    },
+    {
+      "from": 61.269,
+      "to": 64.099,
+      "sid": 28,
+      "content": "I casually bought a Kool-aid and some cheap beer here."
+    },
+    {
+      "from": 64.099,
+      "to": 65.939,
+      "sid": 29,
+      "content": "I originally wanted to buy some zero-sugar cola or something"
+    },
+    {
+      "from": 65.939,
+      "to": 68.699,
+      "sid": 30,
+      "content": "However, this freezer is completely filled with classic sugary sodas."
+    },
+    {
+      "from": 68.699,
+      "to": 69.699,
+      "sid": 31,
+      "content": "Before going to find a table to eat"
+    },
+    {
+      "from": 69.699,
+      "to": 71.98,
+      "sid": 32,
+      "content": "Originally wanted to see how the Chinese food next door was"
+    },
+    {
+      "from": 71.98,
+      "to": 74.3,
+      "sid": 33,
+      "content": "Later, I found that the shop had simply locked its door."
+    },
+    {
+      "from": 74.3,
+      "to": 75.78,
+      "sid": 34,
+      "content": "You can only order from the drive-thru."
+    },
+    {
+      "from": 75.78,
+      "to": 78.12,
+      "sid": 35,
+      "content": "This decor doesn't look like authentic Chinese food to me."
+    },
+    {
+      "from": 78.12,
+      "to": 80.94,
+      "sid": 36,
+      "content": "I just found a spot under a nearby bridge and ate my lunch box"
+    },
+    {
+      "from": 80.94,
+      "to": 82.12,
+      "sid": 37,
+      "content": "There were several Mobile city workers next to me"
+    },
+    {
+      "from": 82.12,
+      "to": 84.28,
+      "sid": 38,
+      "content": "taking a nap"
+    },
+    {
+      "from": 84.28,
+      "to": 85.52,
+      "sid": 39,
+      "content": "Even though I didn't make any special requests"
+    },
+    {
+      "from": 85.52,
+      "to": 87.26,
+      "sid": 40,
+      "content": "but the shop owner directly gave me a few packets of chili sauce"
+    },
+    {
+      "from": 87.26,
+      "to": 88.78,
+      "sid": 41,
+      "content": "Let me try it with the fried chicken first."
+    },
+    {
+      "from": 88.78,
+      "to": 90.68,
+      "sid": 42,
+      "content": "This one is slightly spicier than the traditional sweet chili sauce"
+    },
+    {
+      "from": 90.68,
+      "to": 93.04,
+      "sid": 43,
+      "content": "Sriracha is a slightly spicier sweet chili sauce"
+    },
+    {
+      "from": 93.04,
+      "to": 94.96,
+      "sid": 44,
+      "content": "probably specifically tailored for African American tastes"
+    },
+    {
+      "from": 94.96,
+      "to": 96.24,
+      "sid": 45,
+      "content": "Although this sauce tastes good"
+    },
+    {
+      "from": 96.24,
+      "to": 98.16,
+      "sid": 46,
+      "content": "but I generally prefer the original flavor"
+    },
+    {
+      "from": 98.16,
+      "to": 99.4,
+      "sid": 47,
+      "content": "This pork tripe has no additional seasoning"
+    },
+    {
+      "from": 99.4,
+      "to": 100.64,
+      "sid": 48,
+      "content": "It tastes like it's just boiled in plain water."
+    },
+    {
+      "from": 100.64,
+      "to": 101.84,
+      "sid": 49,
+      "content": "but there's no fishy smell"
+    },
+    {
+      "from": 101.84,
+      "to": 103.66,
+      "sid": 50,
+      "content": "It actually does resemble Cantonese cuisine a bit."
+    },
+    {
+      "from": 103.66,
+      "to": 105.56,
+      "sid": 51,
+      "content": "The preparation methods for cabbage and cowpeas are quite similar."
+    },
+    {
+      "from": 105.56,
+      "to": 106.4,
+      "sid": 52,
+      "content": "Although it's quite light"
+    },
+    {
+      "from": 106.4,
+      "to": 107.3,
+      "sid": 53,
+      "content": "but the seasoning is good"
+    },
+    {
+      "from": 107.3,
+      "to": 109.7,
+      "sid": 54,
+      "content": "It doesn't have the bland salad-like taste of typical white people's food."
+    },
+    {
+      "from": 109.7,
+      "to": 111.74,
+      "sid": 55,
+      "content": "However, the seasoning of the pork tripe and the two vegetables is too similar, making it somewhat monotonous."
+    },
+    {
+      "from": 111.74,
+      "to": 112.58,
+      "sid": 56,
+      "content": "it's a bit monotonous"
+    },
+    {
+      "from": 112.58,
+      "to": 113.54,
+      "sid": 57,
+      "content": "After eating half of the rice bowl, adding a bit of chili sauce made a noticeable difference."
+    },
+    {
+      "from": 113.54,
+      "to": 115.9,
+      "sid": 58,
+      "content": "Sprinkling a bit more hot sauce on it really makes a difference"
+    },
+    {
+      "from": 115.9,
+      "to": 118.38,
+      "sid": 59,
+      "content": "This meal costs $16. If you think it's worth it, press 1; if not, press 2."
+    },
+    {
+      "from": 118.38,
+      "to": 122.04,
+      "sid": 60,
+      "content": "A few days later, I went to Montgomery, the capital of Alabama where Mobile is located."
+    },
+    {
+      "from": 122.04,
+      "to": 124.85,
+      "sid": 61,
+      "content": "Here, I found a Black-owned restaurant that serves chitterlings."
+    },
+    {
+      "from": 124.85,
+      "to": 127.03,
+      "sid": 62,
+      "content": "Alabama isn't very well-known domestically."
+    },
+    {
+      "from": 127.03,
+      "to": 128.33,
+      "sid": 63,
+      "content": "but I wonder if any of you have watched"
+    },
+    {
+      "from": 128.33,
+      "to": 130.21,
+      "sid": 64,
+      "content": "Forrest Gump and To Kill a Mockingbird"
+    },
+    {
+      "from": 130.21,
+      "to": 132.96,
+      "sid": 65,
+      "content": "The backgrounds of these two classic works are both set in the state of Alabama."
+    },
+    {
+      "from": 132.96,
+      "to": 134.98,
+      "sid": 66,
+      "content": "and both feature segregation storylines"
+    },
+    {
+      "from": 134.98,
+      "to": 137.56,
+      "sid": 67,
+      "content": "Alabama was once one of the most significant slaveholding states in the United States."
+    },
+    {
+      "from": 137.56,
+      "to": 139.12,
+      "sid": 68,
+      "content": "And the Chitlins I'm eating today"
+    },
+    {
+      "from": 139.12,
+      "to": 141.1,
+      "sid": 69,
+      "content": "can also be traced back to slavery"
+    },
+    {
+      "from": 141.1,
+      "to": 143.3,
+      "sid": 70,
+      "content": "Back then, the prime cuts of the pig were eaten by the slave owners."
+    },
+    {
+      "from": 143.3,
+      "to": 145.1,
+      "sid": 71,
+      "content": "while the enslaved Black people could only get pig heads, trotters"
+    },
+    {
+      "from": 145.1,
+      "to": 146.78,
+      "sid": 72,
+      "content": "pig eyes and various offal"
+    },
+    {
+      "from": 146.78,
+      "to": 147.46,
+      "sid": 73,
+      "content": "To put it bluntly, it's just like"
+    },
+    {
+      "from": 147.46,
+      "to": 150.64,
+      "sid": 74,
+      "content": "just like all ethnic groups in the world that once lacked protein sources"
+    },
+    {
+      "from": 150.64,
+      "to": 152.9,
+      "sid": 75,
+      "content": "African Americans also have their own way of preparing chitterlings."
+    },
+    {
+      "from": 152.9,
+      "to": 155.72,
+      "sid": 76,
+      "content": "but nowadays in black-owned restaurants outside the core regions of the Old South in the U.S."
+    },
+    {
+      "from": 155.72,
+      "to": 157.26,
+      "sid": 77,
+      "content": "it's rare to see chitterlings being served"
+    },
+    {
+      "from": 157.26,
+      "to": 159.23,
+      "sid": 78,
+      "content": "First of all, it's because the preparation process is quite troublesome."
+    },
+    {
+      "from": 159.23,
+      "to": 160.43,
+      "sid": 79,
+      "content": "Secondly, within the Black community"
+    },
+    {
+      "from": 160.43,
+      "to": 162.21,
+      "sid": 80,
+      "content": "Pork intestines are also somewhat controversial food"
+    },
+    {
+      "from": 162.21,
+      "to": 163.35,
+      "sid": 81,
+      "content": "Many people, just like white people,"
+    },
+    {
+      "from": 163.35,
+      "to": 164.45,
+      "sid": 82,
+      "content": "can't really accept offal"
+    },
+    {
+      "from": 164.45,
+      "to": 166.92,
+      "sid": 83,
+      "content": "Many Black people I know can't stand the taste of chitterlings."
+    },
+    {
+      "from": 166.92,
+      "to": 169.56,
+      "sid": 84,
+      "content": "There are also some people who feel that chitterlings are too closely associated with slavery."
+    },
+    {
+      "from": 169.56,
+      "to": 170.92,
+      "sid": 85,
+      "content": "However, the mainstream view still believes"
+    },
+    {
+      "from": 170.92,
+      "to": 173.75,
+      "sid": 86,
+      "content": "Chitlins represent the resistance and survival spirit of black slaves at that time."
+    },
+    {
+      "from": 173.75,
+      "to": 176.07,
+      "sid": 87,
+      "content": "But let's not bring too much history into a simple meal."
+    },
+    {
+      "from": 176.07,
+      "to": 178.91,
+      "sid": 88,
+      "content": "Actually, about 80% of the dishes in every Black-owned restaurant are pretty much the same"
+    },
+    {
+      "from": 178.91,
+      "to": 181.9,
+      "sid": 89,
+      "content": "which includes black-eyed peas, cornbread, collard greens, fried chicken, and fried catfish"
+    },
+    {
+      "from": 181.9,
+      "to": 184.58,
+      "sid": 90,
+      "content": "The remaining 20% of the menu rotates based on the chef's mood."
+    },
+    {
+      "from": 184.58,
+      "to": 186.39,
+      "sid": 91,
+      "content": "Chitlins are today's special dish."
+    },
+    {
+      "from": 186.39,
+      "to": 186.91,
+      "sid": 92,
+      "content": "Hello"
+    },
+    {
+      "from": 186.91,
+      "to": 187.65,
+      "sid": 93,
+      "content": "I just asked the owner if it's okay to film, and he said yes."
+    },
+    {
+      "from": 187.65,
+      "to": 188.27,
+      "sid": 94,
+      "content": "He said"
+    },
+    {
+      "from": 188.27,
+      "to": 190.87,
+      "sid": 95,
+      "content": "Okay"
+    },
+    {
+      "from": 191.98,
+      "to": 194.96,
+      "sid": 96,
+      "content": "Background police siren sound. This black-style chitterlings actually have a light seasoning similar to pork tripe."
+    },
+    {
+      "from": 194.96,
+      "to": 197.64,
+      "sid": 97,
+      "content": "But the gamy taste of chitterlings is on a whole different level compared to pork tripe."
+    },
+    {
+      "from": 197.64,
+      "to": 200.12,
+      "sid": 98,
+      "content": "So, the flavor of this chitlins is still quite gamey."
+    },
+    {
+      "from": 200.12,
+      "to": 201.64,
+      "sid": 99,
+      "content": "Unless you have the same strong taste preferences as me"
+    },
+    {
+      "from": 201.64,
+      "to": 202.78,
+      "sid": 100,
+      "content": "otherwise you might not be used to it"
+    },
+    {
+      "from": 202.78,
+      "to": 205.38,
+      "sid": 101,
+      "content": "Served with collard greens, black-eyed peas, and cornbread, it's $14."
+    },
+    {
+      "from": 205.38,
+      "to": 206.94,
+      "sid": 102,
+      "content": "If you think it's worth it, type 1; if not, type 2."
+    },
+    {
+      "from": 206.94,
+      "to": 208.06,
+      "sid": 103,
+      "content": "I couldn't get enough of one serving"
+    },
+    {
+      "from": 208.06,
+      "to": 208.82,
+      "sid": 104,
+      "content": "bought another portion"
+    },
+    {
+      "from": 208.82,
+      "to": 211.23,
+      "sid": 105,
+      "content": "I also ordered their fried chicken and fried catfish."
+    },
+    {
+      "from": 211.23,
+      "to": 212.31,
+      "sid": 106,
+      "content": "these old-school shops in the Black community"
+    },
+    {
+      "from": 212.31,
+      "to": 214.61,
+      "sid": 107,
+      "content": "Generally speaking, mastering these two fried dishes is a fundamental skill."
+    },
+    {
+      "from": 214.61,
+      "to": 215.81,
+      "sid": 108,
+      "content": "Although not particularly impressive"
+    },
+    {
+      "from": 215.81,
+      "to": 217.89,
+      "sid": 109,
+      "content": "but it's still at a level that can easily surpass KFC"
+    },
+    {
+      "from": 217.89,
+      "to": 218.81,
+      "sid": 110,
+      "content": "Right after finishing the meal and stepping outside"
+    },
+    {
+      "from": 218.81,
+      "to": 219.87,
+      "sid": 111,
+      "content": "just encountered a homeless person"
+    },
+    {
+      "from": 219.87,
+      "to": 220.97,
+      "sid": 112,
+      "content": "But I don't have any cash on me"
+    },
+    {
+      "from": 220.97,
+      "to": 222.079,
+      "sid": 113,
+      "content": "only some Coins"
+    },
+    {
+      "from": 222.079,
+      "to": 222.839,
+      "sid": 114,
+      "content": "Do you have any money on you? Me: No, I don't have any money left, just these few Coins."
+    },
+    {
+      "from": 222.839,
+      "to": 222.999,
+      "sid": 115,
+      "content": "Wen"
+    },
+    {
+      "from": 222.999,
+      "to": 224.759,
+      "sid": 116,
+      "content": "walked away in disgust"
+    },
+    {
+      "from": 224.759,
+      "to": 225.6,
+      "sid": 117,
+      "content": "waterproof"
+    }
+  ]
+}

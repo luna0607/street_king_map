@@ -1,0 +1,2060 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 1.16,
+      "sid": 1,
+      "location": 2,
+      "content": "在一个夏日的午后",
+      "music": 0.0
+    },
+    {
+      "from": 1.16,
+      "to": 3.12,
+      "sid": 2,
+      "location": 2,
+      "content": "来到了美国人口最少的村子",
+      "music": 0.0
+    },
+    {
+      "from": 3.12,
+      "to": 6.33,
+      "sid": 3,
+      "location": 2,
+      "content": "仅有一名居民的内布拉斯加州小镇莫诺维",
+      "music": 0.0
+    },
+    {
+      "from": 6.33,
+      "to": 9.58,
+      "sid": 4,
+      "location": 2,
+      "content": "这里在1930年曾经是100多人的小村庄",
+      "music": 0.0
+    },
+    {
+      "from": 9.58,
+      "to": 12.02,
+      "sid": 5,
+      "location": 2,
+      "content": "但是随着这一块地区的人口减少",
+      "music": 0.0
+    },
+    {
+      "from": 12.02,
+      "to": 13.92,
+      "sid": 6,
+      "location": 2,
+      "content": "这里现在只剩下了一个人",
+      "music": 0.0
+    },
+    {
+      "from": 13.92,
+      "to": 16.62,
+      "sid": 7,
+      "location": 2,
+      "content": "也就是莫洛维小酒版的老板埃尔希",
+      "music": 0.0
+    },
+    {
+      "from": 16.62,
+      "to": 19.52,
+      "sid": 8,
+      "location": 2,
+      "content": "由于小村还保留着当年的法律建制",
+      "music": 0.0
+    },
+    {
+      "from": 19.52,
+      "to": 21.84,
+      "sid": 9,
+      "location": 2,
+      "content": "阿尔西算是这边的村长警长",
+      "music": 0.0
+    },
+    {
+      "from": 21.84,
+      "to": 22.78,
+      "sid": 10,
+      "location": 2,
+      "content": "图书管理员",
+      "music": 0.0
+    },
+    {
+      "from": 22.78,
+      "to": 25.14,
+      "sid": 11,
+      "location": 2,
+      "content": "或者说任何他想自己封的称号",
+      "music": 0.0
+    },
+    {
+      "from": 25.14,
+      "to": 27.93,
+      "sid": 12,
+      "location": 2,
+      "content": "不过他确实自己得处理很多行政工作",
+      "music": 0.0
+    },
+    {
+      "from": 27.93,
+      "to": 30.51,
+      "sid": 13,
+      "location": 2,
+      "content": "比如说卖酒的许可收税",
+      "music": 0.0
+    },
+    {
+      "from": 30.51,
+      "to": 32.59,
+      "sid": 14,
+      "location": 2,
+      "content": "以及向上级政府申请拨款",
+      "music": 0.0
+    },
+    {
+      "from": 32.59,
+      "to": 33.989,
+      "sid": 15,
+      "location": 2,
+      "content": "维护村里面的道路",
+      "music": 0.0
+    },
+    {
+      "from": 33.989,
+      "to": 35.409,
+      "sid": 16,
+      "location": 2,
+      "content": "进到小酒馆里面",
+      "music": 0.0
+    },
+    {
+      "from": 35.409,
+      "to": 37.369,
+      "sid": 17,
+      "location": 2,
+      "content": "这边墙上展示的算是莫诺维",
+      "music": 0.0
+    },
+    {
+      "from": 37.369,
+      "to": 40.19,
+      "sid": 18,
+      "location": 2,
+      "content": "或者说阿尔西关于自己一生的小博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 40.19,
+      "to": 41.35,
+      "sid": 19,
+      "location": 2,
+      "content": "在2000年的时候",
+      "music": 0.0
+    },
+    {
+      "from": 41.35,
+      "to": 42.99,
+      "sid": 20,
+      "location": 2,
+      "content": "莫洛维曾经有两个居民",
+      "music": 0.0
+    },
+    {
+      "from": 42.99,
+      "to": 44.98,
+      "sid": 21,
+      "location": 2,
+      "content": "阿尔西和他的丈夫卢比",
+      "music": 0.0
+    },
+    {
+      "from": 44.98,
+      "to": 46.66,
+      "sid": 22,
+      "location": 2,
+      "content": "也就是桥上面的合照",
+      "music": 0.0
+    },
+    {
+      "from": 46.66,
+      "to": 48.78,
+      "sid": 23,
+      "location": 2,
+      "content": "卢比在2004年去世了之后",
+      "music": 0.0
+    },
+    {
+      "from": 48.78,
+      "to": 51.02,
+      "sid": 24,
+      "location": 2,
+      "content": "阿尔西就是一个人经营这家小酒馆",
+      "music": 0.0
+    },
+    {
+      "from": 51.02,
+      "to": 52.74,
+      "sid": 25,
+      "location": 2,
+      "content": "虽然说只有一个人的小村庄",
+      "music": 0.0
+    },
+    {
+      "from": 52.74,
+      "to": 53.95,
+      "sid": 26,
+      "location": 2,
+      "content": "听起来很孤单",
+      "music": 0.0
+    },
+    {
+      "from": 53.95,
+      "to": 55.91,
+      "sid": 27,
+      "location": 2,
+      "content": "但是莫洛维就在公路旁边",
+      "music": 0.0
+    },
+    {
+      "from": 55.91,
+      "to": 58.97,
+      "sid": 28,
+      "location": 2,
+      "content": "而且它是方圆20km内唯一的一家餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 58.97,
+      "to": 60.41,
+      "sid": 29,
+      "location": 2,
+      "content": "很多开车经过的人",
+      "music": 0.0
+    },
+    {
+      "from": 60.41,
+      "to": 62.21,
+      "sid": 30,
+      "location": 2,
+      "content": "或者在附近农田里面干活的",
+      "music": 0.0
+    },
+    {
+      "from": 62.21,
+      "to": 63.65,
+      "sid": 31,
+      "location": 2,
+      "content": "中午都会来这边吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 63.65,
+      "to": 65.05,
+      "sid": 32,
+      "location": 2,
+      "content": "所以说我刚进去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 65.05,
+      "to": 66.58,
+      "sid": 33,
+      "location": 2,
+      "content": "里面其实非常的热闹",
+      "music": 0.0
+    },
+    {
+      "from": 66.58,
+      "to": 68.32,
+      "sid": 34,
+      "location": 2,
+      "content": "这也导致阿尔西非常的忙",
+      "music": 0.0
+    },
+    {
+      "from": 68.32,
+      "to": 70.2,
+      "sid": 35,
+      "location": 2,
+      "content": "我就边吃我的三明治边等",
+      "music": 0.0
+    },
+    {
+      "from": 70.2,
+      "to": 73.03,
+      "sid": 36,
+      "location": 2,
+      "content": "但是我也一直没有找到单独跟他搭话的时机",
+      "music": 0.0
+    },
+    {
+      "from": 73.03,
+      "to": 75.51,
+      "sid": 37,
+      "location": 2,
+      "content": "不过其实阿尔西应该算这一片地区里",
+      "music": 0.0
+    },
+    {
+      "from": 75.51,
+      "to": 76.39,
+      "sid": 38,
+      "location": 2,
+      "content": "最有名的人",
+      "music": 0.0
+    },
+    {
+      "from": 76.39,
+      "to": 79.07,
+      "sid": 39,
+      "location": 2,
+      "content": "很多我好奇的问题之前都有人问过了",
+      "music": 0.0
+    },
+    {
+      "from": 79.07,
+      "to": 81.15,
+      "sid": 40,
+      "location": 2,
+      "content": "比如说一个人在这么一个小村子里面",
+      "music": 0.0
+    },
+    {
+      "from": 81.15,
+      "to": 82.1,
+      "sid": 41,
+      "location": 2,
+      "content": "会不会孤单",
+      "music": 0.0
+    },
+    {
+      "from": 82.1,
+      "to": 84.52,
+      "sid": 42,
+      "location": 2,
+      "content": "其实阿尔西年轻的时候在堪萨斯城",
+      "music": 0.0
+    },
+    {
+      "from": 84.52,
+      "to": 86.44,
+      "sid": 43,
+      "location": 2,
+      "content": "达拉斯这种大城市里面住过",
+      "music": 0.0
+    },
+    {
+      "from": 86.44,
+      "to": 87.58,
+      "sid": 44,
+      "location": 2,
+      "content": "只是说年纪大了",
+      "music": 0.0
+    },
+    {
+      "from": 87.58,
+      "to": 89.42,
+      "sid": 45,
+      "location": 2,
+      "content": "他更喜欢回到安静的乡下",
+      "music": 0.0
+    },
+    {
+      "from": 89.42,
+      "to": 92.34,
+      "sid": 46,
+      "location": 2,
+      "content": "这里也是她和丈夫卢比一起长大的地方",
+      "music": 0.0
+    },
+    {
+      "from": 92.34,
+      "to": 93.9,
+      "sid": 47,
+      "location": 2,
+      "content": "在卢比去世了之后",
+      "music": 0.0
+    },
+    {
+      "from": 93.9,
+      "to": 96.1,
+      "sid": 48,
+      "location": 2,
+      "content": "阿尔西在摩诺维建立一个图书馆",
+      "music": 0.0
+    },
+    {
+      "from": 96.1,
+      "to": 97.92,
+      "sid": 49,
+      "location": 2,
+      "content": "里面放的都是卢比的藏书",
+      "music": 0.0
+    },
+    {
+      "from": 97.92,
+      "to": 100.02,
+      "sid": 50,
+      "location": 2,
+      "content": "图书馆左侧是阿尔希的家",
+      "music": 0.0
+    },
+    {
+      "from": 100.02,
+      "to": 101.7,
+      "sid": 51,
+      "location": 2,
+      "content": "而右侧就是小酒馆了",
+      "music": 0.0
+    },
+    {
+      "from": 101.7,
+      "to": 103.82,
+      "sid": 52,
+      "location": 2,
+      "content": "这些也就是莫诺维的全部了",
+      "music": 0.0
+    },
+    {
+      "from": 103.82,
+      "to": 104.68,
+      "sid": 53,
+      "location": 2,
+      "content": "除了小镇",
+      "music": 0.0
+    },
+    {
+      "from": 104.68,
+      "to": 107.01,
+      "sid": 54,
+      "location": 2,
+      "content": "公路两边都是无穷无尽的田野",
+      "music": 0.0
+    },
+    {
+      "from": 107.01,
+      "to": 110.09,
+      "sid": 55,
+      "location": 2,
+      "content": "估计现在冬天应该都已经是白雪覆盖了",
+      "music": 0.0
+    },
+    {
+      "from": 110.09,
+      "to": 113.05,
+      "sid": 56,
+      "location": 2,
+      "content": "其实这种路开久了也很容易视觉疲劳",
+      "music": 0.0
+    },
+    {
+      "from": 113.05,
+      "to": 114.78,
+      "sid": 57,
+      "location": 2,
+      "content": "风景有一些单调",
+      "music": 0.0
+    },
+    {
+      "from": 114.78,
+      "to": 116.78,
+      "sid": 58,
+      "location": 2,
+      "content": "而且对面除了偶尔有卡车",
+      "music": 0.0
+    },
+    {
+      "from": 116.78,
+      "to": 118.08,
+      "sid": 59,
+      "location": 2,
+      "content": "基本上没有来车",
+      "music": 0.0
+    },
+    {
+      "from": 118.08,
+      "to": 120.78,
+      "sid": 60,
+      "location": 2,
+      "content": "于是我就随便找了一个路边休息了一下",
+      "music": 0.0
+    },
+    {
+      "from": 120.78,
+      "to": 122.5,
+      "sid": 61,
+      "location": 2,
+      "content": "像是公路边的这种小岔路",
+      "music": 0.0
+    },
+    {
+      "from": 122.5,
+      "to": 123.7,
+      "sid": 62,
+      "location": 2,
+      "content": "就没有人维护了",
+      "music": 0.0
+    },
+    {
+      "from": 123.7,
+      "to": 124.92,
+      "sid": 63,
+      "location": 2,
+      "content": "如果没有皮卡",
+      "music": 0.0
+    },
+    {
+      "from": 124.92,
+      "to": 127.8,
+      "sid": 64,
+      "location": 2,
+      "content": "像我这样的小轿车是没有办法开得进去的",
+      "music": 0.0
+    },
+    {
+      "from": 127.8,
+      "to": 129.34,
+      "sid": 65,
+      "location": 2,
+      "content": "莫洛维这样的异人村庄",
+      "music": 0.0
+    },
+    {
+      "from": 129.34,
+      "to": 131.29,
+      "sid": 66,
+      "location": 2,
+      "content": "算是一个比较极端的案例",
+      "music": 0.0
+    },
+    {
+      "from": 131.29,
+      "to": 134.33,
+      "sid": 67,
+      "location": 2,
+      "content": "但是它也算是这片地区人口流失的一个缩影",
+      "music": 0.0
+    },
+    {
+      "from": 134.33,
+      "to": 136.01,
+      "sid": 68,
+      "location": 2,
+      "content": "从莫洛维往东开8分钟",
+      "music": 0.0
+    },
+    {
+      "from": 136.01,
+      "to": 137.57,
+      "sid": 69,
+      "location": 2,
+      "content": "就到了38人的小村庄",
+      "music": 0.0
+    },
+    {
+      "from": 137.57,
+      "to": 138.23,
+      "sid": 70,
+      "location": 2,
+      "content": "福德尔",
+      "music": 0.0
+    },
+    {
+      "from": 138.23,
+      "to": 139.51,
+      "sid": 71,
+      "location": 2,
+      "content": "这里和穆洛维一样",
+      "music": 0.0
+    },
+    {
+      "from": 139.51,
+      "to": 141.03,
+      "sid": 72,
+      "location": 2,
+      "content": "所有的居民都是白人",
+      "music": 0.0
+    },
+    {
+      "from": 141.03,
+      "to": 143.11,
+      "sid": 73,
+      "location": 2,
+      "content": "这条公路就是村子的主干道",
+      "music": 0.0
+    },
+    {
+      "from": 143.11,
+      "to": 146.079,
+      "sid": 74,
+      "location": 2,
+      "content": "但是由于这一块基本上没有什么经过的车流",
+      "music": 0.0
+    },
+    {
+      "from": 146.079,
+      "to": 146.439,
+      "sid": 75,
+      "location": 2,
+      "content": "路",
+      "music": 0.0
+    },
+    {
+      "from": 146.439,
+      "to": 148.559,
+      "sid": 76,
+      "location": 2,
+      "content": "两边的商业基本上都是荒废了",
+      "music": 0.0
+    },
+    {
+      "from": 148.559,
+      "to": 149.539,
+      "sid": 77,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 149.539,
+      "to": 153.04,
+      "sid": 78,
+      "location": 2,
+      "content": "有一个小酒馆的莫洛维反倒是没有这么的萧条",
+      "music": 0.0
+    },
+    {
+      "from": 153.04,
+      "to": 156.12,
+      "sid": 79,
+      "location": 2,
+      "content": "福特尔和莫诺维曾经在同一条铁路线上",
+      "music": 0.0
+    },
+    {
+      "from": 156.12,
+      "to": 158.16,
+      "sid": 80,
+      "location": 2,
+      "content": "这一条铁路废弃了之后",
+      "music": 0.0
+    },
+    {
+      "from": 158.16,
+      "to": 159.46,
+      "sid": 81,
+      "location": 2,
+      "content": "很多人都离开了",
+      "music": 0.0
+    },
+    {
+      "from": 159.46,
+      "to": 162.18,
+      "sid": 82,
+      "location": 2,
+      "content": "只剩下了老人和周围做农业工作的",
+      "music": 0.0
+    },
+    {
+      "from": 162.18,
+      "to": 164.41,
+      "sid": 83,
+      "location": 2,
+      "content": "像是福德尔所在的诺克斯县",
+      "music": 0.0
+    },
+    {
+      "from": 164.41,
+      "to": 167.29,
+      "sid": 84,
+      "location": 2,
+      "content": "人口在1930年达到1万9的巅峰期之后",
+      "music": 0.0
+    },
+    {
+      "from": 167.29,
+      "to": 168.45,
+      "sid": 85,
+      "location": 2,
+      "content": "每年都在减少",
+      "music": 0.0
+    },
+    {
+      "from": 168.45,
+      "to": 170.6,
+      "sid": 86,
+      "location": 2,
+      "content": "现在只剩下8300人",
+      "music": 0.0
+    },
+    {
+      "from": 170.6,
+      "to": 172.4,
+      "sid": 87,
+      "location": 2,
+      "content": "而我之后要去的诺克斯县",
+      "music": 0.0
+    },
+    {
+      "from": 172.4,
+      "to": 174.73,
+      "sid": 88,
+      "location": 2,
+      "content": "县城森特也就只有73个人",
+      "music": 0.0
+    },
+    {
+      "from": 174.73,
+      "to": 175.97,
+      "sid": 89,
+      "location": 2,
+      "content": "经常看B友评论说",
+      "music": 0.0
+    },
+    {
+      "from": 175.97,
+      "to": 178.81,
+      "sid": 90,
+      "location": 2,
+      "content": "这样的半废弃小镇很适合当恐怖电影的取景地",
+      "music": 0.0
+    },
+    {
+      "from": 178.81,
+      "to": 181.5,
+      "sid": 91,
+      "location": 2,
+      "content": "美国确实有很多小镇主题的恐怖惊悚片",
+      "music": 0.0
+    },
+    {
+      "from": 181.5,
+      "to": 183.2,
+      "sid": 92,
+      "location": 2,
+      "content": "像是寂静岭逃出绝命镇",
+      "music": 0.0
+    },
+    {
+      "from": 183.2,
+      "to": 185.2,
+      "sid": 93,
+      "location": 2,
+      "content": "怪奇物语都是和小镇相关的故事",
+      "music": 0.0
+    },
+    {
+      "from": 185.2,
+      "to": 187.94,
+      "sid": 94,
+      "location": 2,
+      "content": "很多朋友通过看剧看电影的方式去学习英语",
+      "music": 0.0
+    },
+    {
+      "from": 187.94,
+      "to": 189.5,
+      "sid": 95,
+      "location": 2,
+      "content": "但是剧情很精彩的影视作品",
+      "music": 0.0
+    },
+    {
+      "from": 189.5,
+      "to": 191.86,
+      "sid": 96,
+      "location": 2,
+      "content": "很容易让人沉浸在剧情中忘记学习",
+      "music": 0.0
+    },
+    {
+      "from": 191.86,
+      "to": 192.66,
+      "sid": 97,
+      "location": 2,
+      "content": "最近这段时间",
+      "music": 0.0
+    },
+    {
+      "from": 192.66,
+      "to": 194.9,
+      "sid": 98,
+      "location": 2,
+      "content": "我用知识派听力app看无字幕电影",
+      "music": 0.0
+    },
+    {
+      "from": 194.9,
+      "to": 196.6,
+      "sid": 99,
+      "location": 2,
+      "content": "学习英语效果很不错",
+      "music": 0.0
+    },
+    {
+      "from": 196.6,
+      "to": 198.99,
+      "sid": 100,
+      "location": 2,
+      "content": "这个app汇集了丰富的电影资源",
+      "music": 0.0
+    },
+    {
+      "from": 198.99,
+      "to": 200.47,
+      "sid": 101,
+      "location": 2,
+      "content": "还有海量新闻广播剧",
+      "music": 0.0
+    },
+    {
+      "from": 200.47,
+      "to": 200.93,
+      "sid": 102,
+      "location": 2,
+      "content": "美剧",
+      "music": 0.0
+    },
+    {
+      "from": 200.93,
+      "to": 203.19,
+      "sid": 103,
+      "location": 2,
+      "content": "通过知识点讲解重点单词背诵",
+      "music": 0.0
+    },
+    {
+      "from": 203.19,
+      "to": 205.13,
+      "sid": 104,
+      "location": 2,
+      "content": "帮助你无字幕听懂英美剧",
+      "music": 0.0
+    },
+    {
+      "from": 205.13,
+      "to": 207.61,
+      "sid": 105,
+      "location": 2,
+      "content": "在戏曲中学习英语和锻炼听力水平",
+      "music": 0.0
+    },
+    {
+      "from": 207.61,
+      "to": 209.81,
+      "sid": 106,
+      "location": 2,
+      "content": "同时大家也不用担心能不能听懂知识",
+      "music": 0.0
+    },
+    {
+      "from": 209.81,
+      "to": 212.67,
+      "sid": 107,
+      "location": 2,
+      "content": "怕有I加一课程分级会根据每个人的测试结果",
+      "music": 0.0
+    },
+    {
+      "from": 212.67,
+      "to": 213.88,
+      "sid": 108,
+      "location": 2,
+      "content": "匹配合适的材料",
+      "music": 0.0
+    },
+    {
+      "from": 213.88,
+      "to": 215.34,
+      "sid": 109,
+      "location": 2,
+      "content": "背高百词斩的听力课程",
+      "music": 0.0
+    },
+    {
+      "from": 215.34,
+      "to": 217.16,
+      "sid": 110,
+      "location": 2,
+      "content": "知识盘也有强大的背单词系统",
+      "music": 0.0
+    },
+    {
+      "from": 217.16,
+      "to": 219.34,
+      "sid": 111,
+      "location": 2,
+      "content": "通过形象记忆帮助你记牢内容",
+      "music": 0.0
+    },
+    {
+      "from": 219.34,
+      "to": 221.98,
+      "sid": 112,
+      "location": 2,
+      "content": "多数时候听力听不懂就是一两个词在捣乱",
+      "music": 0.0
+    },
+    {
+      "from": 221.98,
+      "to": 224.1,
+      "sid": 113,
+      "location": 2,
+      "content": "试试派还有强大的课后练习功能",
+      "music": 0.0
+    },
+    {
+      "from": 224.1,
+      "to": 225.82,
+      "sid": 114,
+      "location": 2,
+      "content": "有具体习题巩固复盘",
+      "music": 0.0
+    },
+    {
+      "from": 225.82,
+      "to": 227.76,
+      "sid": 115,
+      "location": 2,
+      "content": "在练习听力的时候也温故知新",
+      "music": 0.0
+    },
+    {
+      "from": 227.76,
+      "to": 228.48,
+      "sid": 116,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 228.48,
+      "to": 229.7,
+      "sid": 117,
+      "location": 2,
+      "content": "知识派还有3D音效",
+      "music": 0.0
+    },
+    {
+      "from": 229.7,
+      "to": 231.68,
+      "sid": 118,
+      "location": 2,
+      "content": "前情提要专业讲义等等功能",
+      "music": 0.0
+    },
+    {
+      "from": 231.68,
+      "to": 234.45,
+      "sid": 119,
+      "location": 2,
+      "content": "最近他们还推出了六元四天听力体验课",
+      "music": 0.0
+    },
+    {
+      "from": 234.45,
+      "to": 235.67,
+      "sid": 120,
+      "location": 2,
+      "content": "大家快去下载吧",
+      "music": 0.0
+    },
+    {
+      "from": 235.67,
+      "to": 237.19,
+      "sid": 121,
+      "location": 2,
+      "content": "现在来到了诺克斯县",
+      "music": 0.0
+    },
+    {
+      "from": 237.19,
+      "to": 240.17,
+      "sid": 122,
+      "location": 2,
+      "content": "73人县城森特的最高建筑县法院",
+      "music": 0.0
+    },
+    {
+      "from": 240.17,
+      "to": 241.77,
+      "sid": 123,
+      "location": 2,
+      "content": "这是一座三层小楼",
+      "music": 0.0
+    },
+    {
+      "from": 241.77,
+      "to": 243.17,
+      "sid": 124,
+      "location": 2,
+      "content": "除了县一级的法庭",
+      "music": 0.0
+    },
+    {
+      "from": 243.17,
+      "to": 245.89,
+      "sid": 125,
+      "location": 2,
+      "content": "大部分的办公室全部都塞到这个楼里面了",
+      "music": 0.0
+    },
+    {
+      "from": 247.8,
+      "to": 249.04,
+      "sid": 126,
+      "location": 2,
+      "content": "不过整个洛克斯县",
+      "music": 0.0
+    },
+    {
+      "from": 249.04,
+      "to": 251.16,
+      "sid": 127,
+      "location": 2,
+      "content": "一共也就只有8336个人",
+      "music": 0.0
+    },
+    {
+      "from": 251.16,
+      "to": 252.62,
+      "sid": 128,
+      "location": 2,
+      "content": "在里面转悠了半天",
+      "music": 0.0
+    },
+    {
+      "from": 252.62,
+      "to": 253.88,
+      "sid": 129,
+      "location": 2,
+      "content": "别说来办事的",
+      "music": 0.0
+    },
+    {
+      "from": 253.88,
+      "to": 255.63,
+      "sid": 130,
+      "location": 2,
+      "content": "连一个工作人员都见不到",
+      "music": 0.0
+    },
+    {
+      "from": 255.63,
+      "to": 257.49,
+      "sid": 131,
+      "location": 2,
+      "content": "除了这扇门后面的小监狱",
+      "music": 0.0
+    },
+    {
+      "from": 257.49,
+      "to": 259.34,
+      "sid": 132,
+      "location": 2,
+      "content": "门口有一个狱警在值班",
+      "music": 0.0
+    },
+    {
+      "from": 259.34,
+      "to": 260.54,
+      "sid": 133,
+      "location": 2,
+      "content": "我继续转悠了一圈",
+      "music": 0.0
+    },
+    {
+      "from": 260.54,
+      "to": 261.3,
+      "sid": 134,
+      "location": 2,
+      "content": "还没来得及拍",
+      "music": 0.0
+    },
+    {
+      "from": 261.3,
+      "to": 262.34,
+      "sid": 135,
+      "location": 2,
+      "content": "就被问话了",
+      "music": 0.0
+    },
+    {
+      "from": 262.34,
+      "to": 264.18,
+      "sid": 136,
+      "location": 2,
+      "content": "还好里面有一台贩卖机",
+      "music": 0.0
+    },
+    {
+      "from": 264.18,
+      "to": 265.92,
+      "sid": 137,
+      "location": 2,
+      "content": "我假装说是来买水的",
+      "music": 0.0
+    },
+    {
+      "from": 265.92,
+      "to": 267.14,
+      "sid": 138,
+      "location": 2,
+      "content": "拿了一瓶一块钱的水",
+      "music": 0.0
+    },
+    {
+      "from": 267.14,
+      "to": 268.08,
+      "sid": 139,
+      "location": 2,
+      "content": "我就溜了",
+      "music": 0.0
+    },
+    {
+      "from": 268.08,
+      "to": 270.46,
+      "sid": 140,
+      "location": 2,
+      "content": "在监狱后面还有几栋一层的小房子",
+      "music": 0.0
+    },
+    {
+      "from": 270.46,
+      "to": 272.16,
+      "sid": 141,
+      "location": 2,
+      "content": "也都是一些机关部门",
+      "music": 0.0
+    },
+    {
+      "from": 272.16,
+      "to": 274.88,
+      "sid": 142,
+      "location": 2,
+      "content": "比如说内布拉斯加州的公共与卫生服务部",
+      "music": 0.0
+    },
+    {
+      "from": 274.88,
+      "to": 276.1,
+      "sid": 143,
+      "location": 2,
+      "content": "的森特办公室",
+      "music": 0.0
+    },
+    {
+      "from": 276.1,
+      "to": 277.56,
+      "sid": 144,
+      "location": 2,
+      "content": "还有旅游局什么的",
+      "music": 0.0
+    },
+    {
+      "from": 277.56,
+      "to": 279.8,
+      "sid": 145,
+      "location": 2,
+      "content": "本来想找一个工作人员来拷打一下",
+      "music": 0.0
+    },
+    {
+      "from": 279.8,
+      "to": 282.08,
+      "sid": 146,
+      "location": 2,
+      "content": "结果这个办公室也是无人值守的状态",
+      "music": 0.0
+    },
+    {
+      "from": 282.08,
+      "to": 284.309,
+      "sid": 147,
+      "location": 2,
+      "content": "不知道大家觉得里面布置的怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 284.309,
+      "to": 287.44,
+      "sid": 148,
+      "location": 2,
+      "content": "在这一小片矮房子旁边就是森林和小溪了",
+      "music": 0.0
+    },
+    {
+      "from": 287.44,
+      "to": 288.24,
+      "sid": 149,
+      "location": 2,
+      "content": "在英语中",
+      "music": 0.0
+    },
+    {
+      "from": 288.24,
+      "to": 289.76,
+      "sid": 150,
+      "location": 2,
+      "content": "森特也就是中心的意思",
+      "music": 0.0
+    },
+    {
+      "from": 289.76,
+      "to": 291.0,
+      "sid": 151,
+      "location": 2,
+      "content": "森特被选作县城",
+      "music": 0.0
+    },
+    {
+      "from": 291.0,
+      "to": 293.12,
+      "sid": 152,
+      "location": 2,
+      "content": "是因为它位于洛克斯县的正中心",
+      "music": 0.0
+    },
+    {
+      "from": 293.12,
+      "to": 295.6,
+      "sid": 153,
+      "location": 2,
+      "content": "也是当地的主要两条公路的交汇处",
+      "music": 0.0
+    },
+    {
+      "from": 295.6,
+      "to": 297.72,
+      "sid": 154,
+      "location": 2,
+      "content": "而且森特的北边还挨着一小片",
+      "music": 0.0
+    },
+    {
+      "from": 297.72,
+      "to": 298.94,
+      "sid": 155,
+      "location": 2,
+      "content": "美国原住民保留地",
+      "music": 0.0
+    },
+    {
+      "from": 298.94,
+      "to": 300.12,
+      "sid": 156,
+      "location": 2,
+      "content": "打开地图一看",
+      "music": 0.0
+    },
+    {
+      "from": 300.12,
+      "to": 300.64,
+      "sid": 157,
+      "location": 2,
+      "content": "森特",
+      "music": 0.0
+    },
+    {
+      "from": 300.64,
+      "to": 302.32,
+      "sid": 158,
+      "location": 2,
+      "content": "整个小镇最西南的1/4",
+      "music": 0.0
+    },
+    {
+      "from": 302.32,
+      "to": 304.59,
+      "sid": 159,
+      "location": 2,
+      "content": "都是各种机关的办公小房子",
+      "music": 0.0
+    },
+    {
+      "from": 304.59,
+      "to": 306.65,
+      "sid": 160,
+      "location": 2,
+      "content": "其他的地方就是一些居民区",
+      "music": 0.0
+    },
+    {
+      "from": 306.65,
+      "to": 308.59,
+      "sid": 161,
+      "location": 2,
+      "content": "唯一的商业就是一个小酒吧",
+      "music": 0.0
+    },
+    {
+      "from": 308.59,
+      "to": 311.23,
+      "sid": 162,
+      "location": 2,
+      "content": "当然这里还有每个小镇都会有的美国国企",
+      "music": 0.0
+    },
+    {
+      "from": 311.23,
+      "to": 312.57,
+      "sid": 163,
+      "location": 2,
+      "content": "那就是我们的老朋友",
+      "music": 0.0
+    },
+    {
+      "from": 312.57,
+      "to": 314.13,
+      "sid": 164,
+      "location": 2,
+      "content": "无处不在的美国邮局",
+      "music": 0.0
+    },
+    {
+      "from": 314.13,
+      "to": 316.81,
+      "sid": 165,
+      "location": 2,
+      "content": "在森特的西南方向15分钟开外",
+      "music": 0.0
+    },
+    {
+      "from": 316.81,
+      "to": 318.81,
+      "sid": 166,
+      "location": 2,
+      "content": "还有一个叫温妮图温的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 318.81,
+      "to": 321.08,
+      "sid": 167,
+      "location": 2,
+      "content": "这边现在只剩下54个居民了",
+      "music": 0.0
+    },
+    {
+      "from": 321.08,
+      "to": 323.88,
+      "sid": 168,
+      "location": 2,
+      "content": "比起森特这边没有什么核心产业",
+      "music": 0.0
+    },
+    {
+      "from": 323.88,
+      "to": 326.26,
+      "sid": 169,
+      "location": 2,
+      "content": "村中心的道路边都长了不少杂草",
+      "music": 0.0
+    },
+    {
+      "from": 326.26,
+      "to": 329.16,
+      "sid": 170,
+      "location": 2,
+      "content": "我们面前的这个邮局其实是后来画上去的",
+      "music": 0.0
+    },
+    {
+      "from": 329.16,
+      "to": 329.98,
+      "sid": 171,
+      "location": 2,
+      "content": "温妮图文",
+      "music": 0.0
+    },
+    {
+      "from": 329.98,
+      "to": 332.63,
+      "sid": 172,
+      "location": 2,
+      "content": "真的能寄信的邮局几年前就撤走了",
+      "music": 0.0
+    },
+    {
+      "from": 332.63,
+      "to": 334.99,
+      "sid": 173,
+      "location": 2,
+      "content": "不过这边的居民倒是挺有创造力的",
+      "music": 0.0
+    },
+    {
+      "from": 334.99,
+      "to": 336.17,
+      "sid": 174,
+      "location": 2,
+      "content": "直接就地取材",
+      "music": 0.0
+    },
+    {
+      "from": 336.17,
+      "to": 338.81,
+      "sid": 175,
+      "location": 2,
+      "content": "在小村的废墟中心搞起了艺术创作",
+      "music": 0.0
+    },
+    {
+      "from": 338.81,
+      "to": 342.075,
+      "sid": 176,
+      "location": 2,
+      "content": "也算是追忆这边当年繁荣的岁月了",
+      "music": 0.0
+    },
+    {
+      "from": 350.2,
+      "to": 352.04,
+      "sid": 177,
+      "location": 2,
+      "content": "由于今天我去了几个村子里面",
+      "music": 0.0
+    },
+    {
+      "from": 352.04,
+      "to": 353.29,
+      "sid": 178,
+      "location": 2,
+      "content": "基本上什么都没有",
+      "music": 0.0
+    },
+    {
+      "from": 353.29,
+      "to": 356.03,
+      "sid": 179,
+      "location": 2,
+      "content": "村民的基本生活物资都要出门采购",
+      "music": 0.0
+    },
+    {
+      "from": 356.03,
+      "to": 359.09,
+      "sid": 180,
+      "location": 2,
+      "content": "我接着要去的12分钟车程之外的600人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 359.09,
+      "to": 362.19,
+      "sid": 181,
+      "location": 2,
+      "content": "弗迪格里算是这一片最大的人类聚集地之一了",
+      "music": 0.0
+    },
+    {
+      "from": 362.19,
+      "to": 365.07,
+      "sid": 182,
+      "location": 2,
+      "content": "伏地格里上次在一个山谷里面是一片地区",
+      "music": 0.0
+    },
+    {
+      "from": 365.07,
+      "to": 366.47,
+      "sid": 183,
+      "location": 2,
+      "content": "就是小山丘比较多",
+      "music": 0.0
+    },
+    {
+      "from": 366.47,
+      "to": 368.53,
+      "sid": 184,
+      "location": 2,
+      "content": "目前福地阁里有609个人",
+      "music": 0.0
+    },
+    {
+      "from": 368.53,
+      "to": 370.25,
+      "sid": 185,
+      "location": 2,
+      "content": "其中76%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 370.25,
+      "to": 371.81,
+      "sid": 186,
+      "location": 2,
+      "content": "20%是原住民",
+      "music": 0.0
+    },
+    {
+      "from": 371.81,
+      "to": 374.49,
+      "sid": 187,
+      "location": 2,
+      "content": "这个体量至少可以撑得起一家小杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 374.49,
+      "to": 376.47,
+      "sid": 188,
+      "location": 2,
+      "content": "这一块大部分都是农业小镇",
+      "music": 0.0
+    },
+    {
+      "from": 376.47,
+      "to": 377.93,
+      "sid": 189,
+      "location": 2,
+      "content": "刚刚进伏地格里的时候",
+      "music": 0.0
+    },
+    {
+      "from": 377.93,
+      "to": 380.06,
+      "sid": 190,
+      "location": 2,
+      "content": "就路过了好多马路边的谷仓塔",
+      "music": 0.0
+    },
+    {
+      "from": 380.06,
+      "to": 382.26,
+      "sid": 191,
+      "location": 2,
+      "content": "而弗迪格里这个小镇最大的特色就是",
+      "music": 0.0
+    },
+    {
+      "from": 382.26,
+      "to": 384.74,
+      "sid": 192,
+      "location": 2,
+      "content": "他们这边大部分人的祖先都是捷克的",
+      "music": 0.0
+    },
+    {
+      "from": 384.74,
+      "to": 386.66,
+      "sid": 193,
+      "location": 2,
+      "content": "像这个凉亭旁边的木板上面画的",
+      "music": 0.0
+    },
+    {
+      "from": 386.66,
+      "to": 388.98,
+      "sid": 194,
+      "location": 2,
+      "content": "估计就是捷克的民族服装",
+      "music": 0.0
+    },
+    {
+      "from": 395.16,
+      "to": 397.44,
+      "sid": 195,
+      "location": 2,
+      "content": "每年这边会举行一个哥拉奇节",
+      "music": 0.0
+    },
+    {
+      "from": 397.44,
+      "to": 398.64,
+      "sid": 196,
+      "location": 2,
+      "content": "不过我去的当天",
+      "music": 0.0
+    },
+    {
+      "from": 398.64,
+      "to": 400.53,
+      "sid": 197,
+      "location": 2,
+      "content": "小镇唯一的面包店都没有开门",
+      "music": 0.0
+    },
+    {
+      "from": 400.53,
+      "to": 402.79,
+      "sid": 198,
+      "location": 2,
+      "content": "所以说我也只能逛逛他们的超市了",
+      "music": 0.0
+    },
+    {
+      "from": 402.79,
+      "to": 404.81,
+      "sid": 199,
+      "location": 2,
+      "content": "里面反正就挺宁静祥和的吧",
+      "music": 0.0
+    },
+    {
+      "from": 404.81,
+      "to": 406.53,
+      "sid": 200,
+      "location": 2,
+      "content": "这种明显是家庭的杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 406.53,
+      "to": 407.6,
+      "sid": 201,
+      "location": 2,
+      "content": "而不是连锁的",
+      "music": 0.0
+    },
+    {
+      "from": 407.6,
+      "to": 409.01,
+      "sid": 202,
+      "location": 2,
+      "content": "该有的东西也都有",
+      "music": 0.0
+    },
+    {
+      "from": 409.01,
+      "to": 411.67,
+      "sid": 203,
+      "location": 2,
+      "content": "不过价格一般来说要比沃尔玛之类的贵一些",
+      "music": 0.0
+    },
+    {
+      "from": 414.07,
+      "to": 416.88,
+      "sid": 204,
+      "location": 2,
+      "content": "但是这边村里的路大多都是没有铺沥青的",
+      "music": 0.0
+    },
+    {
+      "from": 416.88,
+      "to": 418.28,
+      "sid": 205,
+      "location": 2,
+      "content": "不知道大家有没有注意到",
+      "music": 0.0
+    },
+    {
+      "from": 418.28,
+      "to": 420.47,
+      "sid": 206,
+      "location": 2,
+      "content": "刚刚说身边有20%的原住民",
+      "music": 0.0
+    },
+    {
+      "from": 420.47,
+      "to": 422.97,
+      "sid": 207,
+      "location": 2,
+      "content": "这是一位一个叫彭加的原住民部落的总部",
+      "music": 0.0
+    },
+    {
+      "from": 422.97,
+      "to": 425.49,
+      "sid": 208,
+      "location": 2,
+      "content": "就在伏提格里北边的344人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 425.49,
+      "to": 426.669,
+      "sid": 209,
+      "location": 2,
+      "content": "奈厄布拉勒",
+      "music": 0.0
+    },
+    {
+      "from": 426.669,
+      "to": 429.089,
+      "sid": 210,
+      "location": 2,
+      "content": "其实他也就是一个平平无奇的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 429.089,
+      "to": 431.26,
+      "sid": 211,
+      "location": 2,
+      "content": "其中90%的居民是白人",
+      "music": 0.0
+    },
+    {
+      "from": 431.26,
+      "to": 432.86,
+      "sid": 212,
+      "location": 2,
+      "content": "只有80%原住民",
+      "music": 0.0
+    },
+    {
+      "from": 432.86,
+      "to": 434.06,
+      "sid": 213,
+      "location": 2,
+      "content": "我前面的这个小房子",
+      "music": 0.0
+    },
+    {
+      "from": 434.06,
+      "to": 436.18,
+      "sid": 214,
+      "location": 2,
+      "content": "就是彭加部落总部的办公室了",
+      "music": 0.0
+    },
+    {
+      "from": 436.18,
+      "to": 437.1,
+      "sid": 215,
+      "location": 2,
+      "content": "其实像这样的",
+      "music": 0.0
+    },
+    {
+      "from": 437.1,
+      "to": 440.039,
+      "sid": 216,
+      "location": 2,
+      "content": "美国边远地区的原住民部落的资源都要少一些",
+      "music": 0.0
+    },
+    {
+      "from": 440.039,
+      "to": 442.839,
+      "sid": 217,
+      "location": 2,
+      "content": "他们现在基本上支柱性产业就是博彩行业",
+      "music": 0.0
+    },
+    {
+      "from": 442.839,
+      "to": 445.219,
+      "sid": 218,
+      "location": 2,
+      "content": "但是这边周围都是几十个人的村子",
+      "music": 0.0
+    },
+    {
+      "from": 445.219,
+      "to": 446.61,
+      "sid": 219,
+      "location": 2,
+      "content": "没有什么大城市",
+      "music": 0.0
+    },
+    {
+      "from": 446.61,
+      "to": 448.289,
+      "sid": 220,
+      "location": 2,
+      "content": "自然就很难赚到钱",
+      "music": 0.0
+    },
+    {
+      "from": 448.289,
+      "to": 450.289,
+      "sid": 221,
+      "location": 2,
+      "content": "不过我看墙上贴的各种海报",
+      "music": 0.0
+    },
+    {
+      "from": 450.289,
+      "to": 452.369,
+      "sid": 222,
+      "location": 2,
+      "content": "这个部落中心还是给周边的原住民",
+      "music": 0.0
+    },
+    {
+      "from": 452.369,
+      "to": 453.329,
+      "sid": 223,
+      "location": 2,
+      "content": "提供不少生活",
+      "music": 0.0
+    },
+    {
+      "from": 453.329,
+      "to": 454.97,
+      "sid": 224,
+      "location": 2,
+      "content": "医疗教育和文化服务",
+      "music": 0.0
+    },
+    {
+      "from": 454.97,
+      "to": 456.79,
+      "sid": 225,
+      "location": 2,
+      "content": "在原住民部落的总部之外",
+      "music": 0.0
+    },
+    {
+      "from": 456.79,
+      "to": 459.45,
+      "sid": 226,
+      "location": 2,
+      "content": "奈厄布拉勒这边还有一个小加油站地区",
+      "music": 0.0
+    },
+    {
+      "from": 459.45,
+      "to": 460.83,
+      "sid": 227,
+      "location": 2,
+      "content": "问了一下是白人开的",
+      "music": 0.0
+    },
+    {
+      "from": 460.83,
+      "to": 462.09,
+      "sid": 228,
+      "location": 2,
+      "content": "其他最让我诧异的是",
+      "music": 0.0
+    },
+    {
+      "from": 462.09,
+      "to": 464.34,
+      "sid": 229,
+      "location": 2,
+      "content": "这边居然有一个福特的小4S店",
+      "music": 0.0
+    },
+    {
+      "from": 464.34,
+      "to": 465.08,
+      "sid": 230,
+      "location": 2,
+      "content": "不得不说",
+      "music": 0.0
+    },
+    {
+      "from": 465.08,
+      "to": 467.58,
+      "sid": 231,
+      "location": 2,
+      "content": "福特在美国的下沉市场还真的挺厉害",
+      "music": 0.0
+    },
+    {
+      "from": 467.58,
+      "to": 469.11,
+      "sid": 232,
+      "location": 2,
+      "content": "软week later",
+      "music": 0.0
+    },
+    {
+      "from": 469.11,
+      "to": 470.31,
+      "sid": 233,
+      "location": 2,
+      "content": "一周后的一个周一",
+      "music": 0.0
+    },
+    {
+      "from": 470.31,
+      "to": 473.27,
+      "sid": 234,
+      "location": 2,
+      "content": "我又经过了开头的那个艺人小村庄莫诺维",
+      "music": 0.0
+    },
+    {
+      "from": 473.27,
+      "to": 474.79,
+      "sid": 235,
+      "location": 2,
+      "content": "我其实第二次倒是抱着",
+      "music": 0.0
+    },
+    {
+      "from": 474.79,
+      "to": 476.71,
+      "sid": 236,
+      "location": 2,
+      "content": "真正想停下来休息一下的念头",
+      "music": 0.0
+    },
+    {
+      "from": 476.71,
+      "to": 478.37,
+      "sid": 237,
+      "location": 2,
+      "content": "毕竟跟我之前说的一样",
+      "music": 0.0
+    },
+    {
+      "from": 478.37,
+      "to": 481.22,
+      "sid": 238,
+      "location": 2,
+      "content": "这也确实是周边唯一一个可以吃饭的地方了",
+      "music": 0.0
+    },
+    {
+      "from": 481.22,
+      "to": 482.3,
+      "sid": 239,
+      "location": 2,
+      "content": "我也算是体会到了",
+      "music": 0.0
+    },
+    {
+      "from": 482.3,
+      "to": 484.48,
+      "sid": 240,
+      "location": 2,
+      "content": "这个小饭店对周围地区的重要性",
+      "music": 0.0
+    },
+    {
+      "from": 484.48,
+      "to": 486.46,
+      "sid": 241,
+      "location": 2,
+      "content": "可惜周一是阿尔西的休息日",
+      "music": 0.0
+    },
+    {
+      "from": 486.46,
+      "to": 487.87,
+      "sid": 242,
+      "location": 2,
+      "content": "小饭店不开门",
+      "music": 0.0
+    },
+    {
+      "from": 487.87,
+      "to": 489.75,
+      "sid": 243,
+      "location": 2,
+      "content": "有一刻我有一个很中二的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 489.75,
+      "to": 491.65,
+      "sid": 244,
+      "location": 2,
+      "content": "就是自己成为了小村的主宰",
+      "music": 0.0
+    },
+    {
+      "from": 491.65,
+      "to": 493.53,
+      "sid": 245,
+      "location": 2,
+      "content": "可以在这边为所欲为",
+      "music": 0.0
+    },
+    {
+      "from": 493.53,
+      "to": 494.81,
+      "sid": 246,
+      "location": 2,
+      "content": "其实像阿尔希一样",
+      "music": 0.0
+    },
+    {
+      "from": 494.81,
+      "to": 495.89,
+      "sid": 247,
+      "location": 2,
+      "content": "有一个自己的村子",
+      "music": 0.0
+    },
+    {
+      "from": 495.89,
+      "to": 497.75,
+      "sid": 248,
+      "location": 2,
+      "content": "想想看其实也挺爽的",
+      "music": 0.0
+    },
+    {
+      "from": 497.75,
+      "to": 499.37,
+      "sid": 249,
+      "location": 2,
+      "content": "不过离开的时候我在想",
+      "music": 0.0
+    },
+    {
+      "from": 499.37,
+      "to": 500.67,
+      "sid": 250,
+      "location": 2,
+      "content": "可能残酷的现实是",
+      "music": 0.0
+    },
+    {
+      "from": 500.67,
+      "to": 501.89,
+      "sid": 251,
+      "location": 2,
+      "content": "最多十几年后",
+      "music": 0.0
+    },
+    {
+      "from": 501.89,
+      "to": 504.93,
+      "sid": 252,
+      "location": 2,
+      "content": "莫洛维可能就会永远变成我眼前的这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 504.93,
+      "to": 505.37,
+      "sid": 253,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 505.37,
+      "to": 506.67,
+      "sid": 254,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 506.67,
+      "to": 507.21,
+      "sid": 255,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 507.21,
+      "to": 509.68,
+      "sid": 256,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

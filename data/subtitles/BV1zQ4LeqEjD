@@ -1,0 +1,2700 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.48,
+      "sid": 1,
+      "location": 2,
+      "content": "我今天来到了美加边境线上的22人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 2.48,
+      "to": 3.12,
+      "sid": 2,
+      "location": 2,
+      "content": "安特勒",
+      "music": 0.0
+    },
+    {
+      "from": 3.12,
+      "to": 5.58,
+      "sid": 3,
+      "location": 2,
+      "content": "这栋废弃的小楼是原先的海关大楼",
+      "music": 0.0
+    },
+    {
+      "from": 5.58,
+      "to": 8.08,
+      "sid": 4,
+      "location": 2,
+      "content": "从这里到正式的检查站只要4.9km",
+      "music": 0.0
+    },
+    {
+      "from": 8.08,
+      "to": 10.06,
+      "sid": 5,
+      "location": 2,
+      "content": "也就是15分钟自行车的功夫",
+      "music": 0.0
+    },
+    {
+      "from": 10.06,
+      "to": 12.93,
+      "sid": 6,
+      "location": 2,
+      "content": "这栋原先的海关大楼是安特勒小镇的核心",
+      "music": 0.0
+    },
+    {
+      "from": 12.93,
+      "to": 14.65,
+      "sid": 7,
+      "location": 2,
+      "content": "曾经还做过小镇的银行",
+      "music": 0.0
+    },
+    {
+      "from": 14.65,
+      "to": 16.11,
+      "sid": 8,
+      "location": 2,
+      "content": "警察局市政厅",
+      "music": 0.0
+    },
+    {
+      "from": 16.11,
+      "to": 17.69,
+      "sid": 9,
+      "location": 2,
+      "content": "但是随着安特勒的人口",
+      "music": 0.0
+    },
+    {
+      "from": 17.69,
+      "to": 19.78,
+      "sid": 10,
+      "location": 2,
+      "content": "从巅峰期的342人",
+      "music": 0.0
+    },
+    {
+      "from": 19.78,
+      "to": 21.3,
+      "sid": 11,
+      "location": 2,
+      "content": "减少到现在的21人",
+      "music": 0.0
+    },
+    {
+      "from": 21.3,
+      "to": 23.6,
+      "sid": 12,
+      "location": 2,
+      "content": "这个镇基本上处于半荒废状态",
+      "music": 0.0
+    },
+    {
+      "from": 23.6,
+      "to": 26.36,
+      "sid": 13,
+      "location": 2,
+      "content": "这一圈镇中心的商业应该也都是倒闭了",
+      "music": 0.0
+    },
+    {
+      "from": 26.36,
+      "to": 28.08,
+      "sid": 14,
+      "location": 2,
+      "content": "现在我在这个小镇里面转一转",
+      "music": 0.0
+    },
+    {
+      "from": 28.08,
+      "to": 30.42,
+      "sid": 15,
+      "location": 2,
+      "content": "照理说安特勒还算是一个口岸城市",
+      "music": 0.0
+    },
+    {
+      "from": 30.42,
+      "to": 31.92,
+      "sid": 16,
+      "location": 2,
+      "content": "为什么这边这么荒凉呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.92,
+      "to": 34.36,
+      "sid": 17,
+      "location": 2,
+      "content": "因为无论是安特勒所在的北达科他州",
+      "music": 0.0
+    },
+    {
+      "from": 34.36,
+      "to": 36.76,
+      "sid": 18,
+      "location": 2,
+      "content": "和他对面加拿大所在的马尼托巴省",
+      "music": 0.0
+    },
+    {
+      "from": 36.76,
+      "to": 38.3,
+      "sid": 19,
+      "location": 2,
+      "content": "都是地广人稀的草原",
+      "music": 0.0
+    },
+    {
+      "from": 38.3,
+      "to": 39.72,
+      "sid": 20,
+      "location": 2,
+      "content": "也没有什么大城市",
+      "music": 0.0
+    },
+    {
+      "from": 39.72,
+      "to": 42.129,
+      "sid": 21,
+      "location": 2,
+      "content": "北达科他州比河南省稍微大一点点",
+      "music": 0.0
+    },
+    {
+      "from": 42.129,
+      "to": 44.229,
+      "sid": 22,
+      "location": 2,
+      "content": "但是这边的人口只有70多万",
+      "music": 0.0
+    },
+    {
+      "from": 44.229,
+      "to": 47.04,
+      "sid": 23,
+      "location": 2,
+      "content": "而且北达科他州北部又是整个州最荒的地方",
+      "music": 0.0
+    },
+    {
+      "from": 47.04,
+      "to": 48.94,
+      "sid": 24,
+      "location": 2,
+      "content": "所以说这边连经过的车都没有",
+      "music": 0.0
+    },
+    {
+      "from": 48.94,
+      "to": 50.36,
+      "sid": 25,
+      "location": 2,
+      "content": "这边究竟有多偏呢",
+      "music": 0.0
+    },
+    {
+      "from": 50.36,
+      "to": 53.06,
+      "sid": 26,
+      "location": 2,
+      "content": "从安特勒到最近的麦当劳要83km",
+      "music": 0.0
+    },
+    {
+      "from": 53.06,
+      "to": 54.17,
+      "sid": 27,
+      "location": 2,
+      "content": "52分钟",
+      "music": 0.0
+    },
+    {
+      "from": 54.17,
+      "to": 57.21,
+      "sid": 28,
+      "location": 2,
+      "content": "到最近的沃尔玛要92km一个小时",
+      "music": 0.0
+    },
+    {
+      "from": 57.21,
+      "to": 58.65,
+      "sid": 29,
+      "location": 2,
+      "content": "整个小镇还在营业的",
+      "music": 0.0
+    },
+    {
+      "from": 58.65,
+      "to": 61.44,
+      "sid": 30,
+      "location": 2,
+      "content": "似乎只有这家曾经提供汽油的汽修店",
+      "music": 0.0
+    },
+    {
+      "from": 61.44,
+      "to": 63.46,
+      "sid": 31,
+      "location": 2,
+      "content": "再往前就是一望无际的田野",
+      "music": 0.0
+    },
+    {
+      "from": 63.46,
+      "to": 64.56,
+      "sid": 32,
+      "location": 2,
+      "content": "现在我离开小镇",
+      "music": 0.0
+    },
+    {
+      "from": 64.56,
+      "to": 66.44,
+      "sid": 33,
+      "location": 2,
+      "content": "往美加边境口岸的方向开",
+      "music": 0.0
+    },
+    {
+      "from": 66.44,
+      "to": 68.32,
+      "sid": 34,
+      "location": 2,
+      "content": "我当时还看了好几次地图",
+      "music": 0.0
+    },
+    {
+      "from": 68.32,
+      "to": 70.12,
+      "sid": 35,
+      "location": 2,
+      "content": "来确定自己是不是开错了",
+      "music": 0.0
+    },
+    {
+      "from": 70.12,
+      "to": 72.16,
+      "sid": 36,
+      "location": 2,
+      "content": "因为这条路两边就是普通的农田",
+      "music": 0.0
+    },
+    {
+      "from": 72.16,
+      "to": 74.7,
+      "sid": 37,
+      "location": 2,
+      "content": "看不出任何会出现一个检查站的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 74.7,
+      "to": 76.4,
+      "sid": 38,
+      "location": 2,
+      "content": "在路过这个农场的房子之后",
+      "music": 0.0
+    },
+    {
+      "from": 76.4,
+      "to": 77.4,
+      "sid": 39,
+      "location": 2,
+      "content": "转了一个小弯",
+      "music": 0.0
+    },
+    {
+      "from": 77.4,
+      "to": 80.24,
+      "sid": 40,
+      "location": 2,
+      "content": "一个白色的房子还真的出现在了草原上面",
+      "music": 0.0
+    },
+    {
+      "from": 80.24,
+      "to": 82.86,
+      "sid": 41,
+      "location": 2,
+      "content": "这个真是我去过最安静的边境口岸了",
+      "music": 0.0
+    },
+    {
+      "from": 82.86,
+      "to": 84.68,
+      "sid": 42,
+      "location": 2,
+      "content": "除了草原上的蜂和鸟叫",
+      "music": 0.0
+    },
+    {
+      "from": 84.68,
+      "to": 85.78,
+      "sid": 43,
+      "location": 2,
+      "content": "听不到别的声音",
+      "music": 0.0
+    },
+    {
+      "from": 85.78,
+      "to": 87.76,
+      "sid": 44,
+      "location": 2,
+      "content": "这个口岸还不是24个小时的",
+      "music": 0.0
+    },
+    {
+      "from": 87.76,
+      "to": 90.44,
+      "sid": 45,
+      "location": 2,
+      "content": "只有早上九点到下午五点有人上班",
+      "music": 0.0
+    },
+    {
+      "from": 90.44,
+      "to": 92.68,
+      "sid": 46,
+      "location": 2,
+      "content": "理论上半夜从这片草地跑两步",
+      "music": 0.0
+    },
+    {
+      "from": 92.68,
+      "to": 94.18,
+      "sid": 47,
+      "location": 2,
+      "content": "就可以到对面的加拿大了",
+      "music": 0.0
+    },
+    {
+      "from": 94.18,
+      "to": 95.08,
+      "sid": 48,
+      "location": 2,
+      "content": "我在这边拍拍",
+      "music": 0.0
+    },
+    {
+      "from": 95.08,
+      "to": 95.6,
+      "sid": 49,
+      "location": 2,
+      "content": "拍的时候",
+      "music": 0.0
+    },
+    {
+      "from": 95.6,
+      "to": 98.18,
+      "sid": 50,
+      "location": 2,
+      "content": "发现有一个大哥从这个牌房子里面走出来",
+      "music": 0.0
+    },
+    {
+      "from": 98.18,
+      "to": 99.74,
+      "sid": 51,
+      "location": 2,
+      "content": "嘴上叼着一个大雪茄",
+      "music": 0.0
+    },
+    {
+      "from": 99.74,
+      "to": 101.82,
+      "sid": 52,
+      "location": 2,
+      "content": "我一开始以为他是来找我麻烦的",
+      "music": 0.0
+    },
+    {
+      "from": 101.82,
+      "to": 103.74,
+      "sid": 53,
+      "location": 2,
+      "content": "于是我主动上去跟他打招呼",
+      "music": 0.0
+    },
+    {
+      "from": 103.74,
+      "to": 104.58,
+      "sid": 54,
+      "location": 2,
+      "content": "结果她跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 104.58,
+      "to": 105.33,
+      "sid": 55,
+      "location": 2,
+      "content": "随便拍",
+      "music": 0.0
+    },
+    {
+      "from": 105.33,
+      "to": 107.15,
+      "sid": 56,
+      "location": 2,
+      "content": "只要不拍到他人就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 107.15,
+      "to": 109.57,
+      "sid": 57,
+      "location": 2,
+      "content": "然后我们还进行了一些友好愉快的交流",
+      "music": 0.0
+    },
+    {
+      "from": 109.57,
+      "to": 111.22,
+      "sid": 58,
+      "location": 2,
+      "content": "他让我去加拿大看看",
+      "music": 0.0
+    },
+    {
+      "from": 111.22,
+      "to": 112.3,
+      "sid": 59,
+      "location": 2,
+      "content": "我说我没有签证",
+      "music": 0.0
+    },
+    {
+      "from": 112.3,
+      "to": 112.92,
+      "sid": 60,
+      "location": 2,
+      "content": "去不了",
+      "music": 0.0
+    },
+    {
+      "from": 112.92,
+      "to": 114.42,
+      "sid": 61,
+      "location": 2,
+      "content": "他说那可真是遗憾",
+      "music": 0.0
+    },
+    {
+      "from": 114.42,
+      "to": 115.9,
+      "sid": 62,
+      "location": 2,
+      "content": "一般人打交道比较多的",
+      "music": 0.0
+    },
+    {
+      "from": 115.9,
+      "to": 117.41,
+      "sid": 63,
+      "location": 2,
+      "content": "一般都是机场的边检",
+      "music": 0.0
+    },
+    {
+      "from": 117.41,
+      "to": 119.15,
+      "sid": 64,
+      "location": 2,
+      "content": "也都是住在城市里面的人",
+      "music": 0.0
+    },
+    {
+      "from": 119.15,
+      "to": 121.27,
+      "sid": 65,
+      "location": 2,
+      "content": "这个大哥一看就是本地的红脖子",
+      "music": 0.0
+    },
+    {
+      "from": 121.27,
+      "to": 122.69,
+      "sid": 66,
+      "location": 2,
+      "content": "那个气质完全不同",
+      "music": 0.0
+    },
+    {
+      "from": 122.69,
+      "to": 123.41,
+      "sid": 67,
+      "location": 2,
+      "content": "没法拍到",
+      "music": 0.0
+    },
+    {
+      "from": 123.41,
+      "to": 124.73,
+      "sid": 68,
+      "location": 2,
+      "content": "他真的有点可惜",
+      "music": 0.0
+    },
+    {
+      "from": 124.73,
+      "to": 126.16,
+      "sid": 69,
+      "location": 2,
+      "content": "现在我离开口岸",
+      "music": 0.0
+    },
+    {
+      "from": 126.16,
+      "to": 129.78,
+      "sid": 70,
+      "location": 2,
+      "content": "去这一块最大的小镇韦斯特霍普看一看",
+      "music": 0.0
+    },
+    {
+      "from": 129.78,
+      "to": 131.78,
+      "sid": 71,
+      "location": 2,
+      "content": "这边2020年人口普查显示",
+      "music": 0.0
+    },
+    {
+      "from": 131.78,
+      "to": 133.22,
+      "sid": 72,
+      "location": 2,
+      "content": "有374个人",
+      "music": 0.0
+    },
+    {
+      "from": 133.22,
+      "to": 134.62,
+      "sid": 73,
+      "location": 2,
+      "content": "虽然以国内标准",
+      "music": 0.0
+    },
+    {
+      "from": 134.62,
+      "to": 136.8,
+      "sid": 74,
+      "location": 2,
+      "content": "这还没有一栋楼里面的人多",
+      "music": 0.0
+    },
+    {
+      "from": 136.8,
+      "to": 138.28,
+      "sid": 75,
+      "location": 2,
+      "content": "但是比起安特勒",
+      "music": 0.0
+    },
+    {
+      "from": 138.28,
+      "to": 140.19,
+      "sid": 76,
+      "location": 2,
+      "content": "这里真的是一个大城市了",
+      "music": 0.0
+    },
+    {
+      "from": 140.19,
+      "to": 142.93,
+      "sid": 77,
+      "location": 2,
+      "content": "甚至在远处还能看到小镇的谷仓塔",
+      "music": 0.0
+    },
+    {
+      "from": 142.93,
+      "to": 144.79,
+      "sid": 78,
+      "location": 2,
+      "content": "以及公路旁边的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 144.79,
+      "to": 146.899,
+      "sid": 79,
+      "location": 2,
+      "content": "而且明显车流也大了起来",
+      "music": 0.0
+    },
+    {
+      "from": 146.899,
+      "to": 148.519,
+      "sid": 80,
+      "location": 2,
+      "content": "这好也快没有油了",
+      "music": 0.0
+    },
+    {
+      "from": 148.519,
+      "to": 151.539,
+      "sid": 81,
+      "location": 2,
+      "content": "于是我来到了这个叫做农民联盟加油站的地方",
+      "music": 0.0
+    },
+    {
+      "from": 151.539,
+      "to": 152.199,
+      "sid": 82,
+      "location": 2,
+      "content": "加个油",
+      "music": 0.0
+    },
+    {
+      "from": 152.199,
+      "to": 154.32,
+      "sid": 83,
+      "location": 2,
+      "content": "位置就在谷仓塔的下面",
+      "music": 0.0
+    },
+    {
+      "from": 154.32,
+      "to": 156.6,
+      "sid": 84,
+      "location": 2,
+      "content": "这个加油站的便利店倒是挺大的",
+      "music": 0.0
+    },
+    {
+      "from": 156.6,
+      "to": 158.66,
+      "sid": 85,
+      "location": 2,
+      "content": "里面算是一个五金小商店",
+      "music": 0.0
+    },
+    {
+      "from": 158.66,
+      "to": 161.4,
+      "sid": 86,
+      "location": 2,
+      "content": "我买了一瓶大可乐和一小瓶机油",
+      "music": 0.0
+    },
+    {
+      "from": 161.4,
+      "to": 163.5,
+      "sid": 87,
+      "location": 2,
+      "content": "一共花了我7.14美元",
+      "music": 0.0
+    },
+    {
+      "from": 163.5,
+      "to": 164.89,
+      "sid": 88,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 164.89,
+      "to": 167.23,
+      "sid": 89,
+      "location": 2,
+      "content": "结账的时候我和店员随便聊了一下",
+      "music": 0.0
+    },
+    {
+      "from": 167.23,
+      "to": 168.93,
+      "sid": 90,
+      "location": 2,
+      "content": "Do you get many kilers here",
+      "music": 0.0
+    },
+    {
+      "from": 168.93,
+      "to": 169.82,
+      "sid": 91,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 169.82,
+      "to": 170.94,
+      "sid": 92,
+      "location": 2,
+      "content": "During the summary",
+      "music": 0.0
+    },
+    {
+      "from": 170.94,
+      "to": 171.14,
+      "sid": 93,
+      "location": 2,
+      "content": "Yet",
+      "music": 0.0
+    },
+    {
+      "from": 171.14,
+      "to": 173.18,
+      "sid": 94,
+      "location": 2,
+      "content": "Sometimes the most people are from canada",
+      "music": 0.0
+    },
+    {
+      "from": 173.18,
+      "to": 175.44,
+      "sid": 95,
+      "location": 2,
+      "content": "Or going to uh merely from canada",
+      "music": 0.0
+    },
+    {
+      "from": 175.44,
+      "to": 177.76,
+      "sid": 96,
+      "location": 2,
+      "content": "We only get many people go to canada",
+      "music": 0.0
+    },
+    {
+      "from": 177.76,
+      "to": 178.92,
+      "sid": 97,
+      "location": 2,
+      "content": "They like come here",
+      "music": 0.0
+    },
+    {
+      "from": 178.92,
+      "to": 180.12,
+      "sid": 98,
+      "location": 2,
+      "content": "Go shopping with that",
+      "music": 0.0
+    },
+    {
+      "from": 180.12,
+      "to": 180.92,
+      "sid": 99,
+      "location": 2,
+      "content": "And then they go back",
+      "music": 0.0
+    },
+    {
+      "from": 180.92,
+      "to": 181.08,
+      "sid": 100,
+      "location": 2,
+      "content": "You",
+      "music": 0.0
+    },
+    {
+      "from": 181.08,
+      "to": 182.74,
+      "sid": 101,
+      "location": 2,
+      "content": "Don't really see that often uh",
+      "music": 0.0
+    },
+    {
+      "from": 182.74,
+      "to": 185.24,
+      "sid": 102,
+      "location": 2,
+      "content": "Kind of a dead place to be",
+      "music": 0.0
+    },
+    {
+      "from": 185.24,
+      "to": 186.98,
+      "sid": 103,
+      "location": 2,
+      "content": "Not sure big big town",
+      "music": 0.0
+    },
+    {
+      "from": 186.98,
+      "to": 188.72,
+      "sid": 104,
+      "location": 2,
+      "content": "我猜店员提到了购物",
+      "music": 0.0
+    },
+    {
+      "from": 188.72,
+      "to": 190.68,
+      "sid": 105,
+      "location": 2,
+      "content": "可能就是这个小镇的杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 190.68,
+      "to": 193.68,
+      "sid": 106,
+      "location": 2,
+      "content": "这也是这一片区域内唯一一家杂货店了",
+      "music": 0.0
+    },
+    {
+      "from": 193.68,
+      "to": 196.28,
+      "sid": 107,
+      "location": 2,
+      "content": "在它西南方向高速交叉口的杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 196.28,
+      "to": 197.78,
+      "sid": 108,
+      "location": 2,
+      "content": "我来的时候还路过了",
+      "music": 0.0
+    },
+    {
+      "from": 197.78,
+      "to": 199.34,
+      "sid": 109,
+      "location": 2,
+      "content": "似乎是倒闭了好了",
+      "music": 0.0
+    },
+    {
+      "from": 199.34,
+      "to": 200.38,
+      "sid": 110,
+      "location": 2,
+      "content": "现在我准备去看一看",
+      "music": 0.0
+    },
+    {
+      "from": 200.38,
+      "to": 202.48,
+      "sid": 111,
+      "location": 2,
+      "content": "韦斯特霍普小镇里面的杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 202.48,
+      "to": 204.42,
+      "sid": 112,
+      "location": 2,
+      "content": "顺便跟店员再聊一聊",
+      "music": 0.0
+    },
+    {
+      "from": 204.42,
+      "to": 206.41,
+      "sid": 113,
+      "location": 2,
+      "content": "Do you have many minitters here",
+      "music": 0.0
+    },
+    {
+      "from": 206.41,
+      "to": 207.65,
+      "sid": 114,
+      "location": 2,
+      "content": "Ah",
+      "music": 0.0
+    },
+    {
+      "from": 207.65,
+      "to": 209.31,
+      "sid": 115,
+      "location": 2,
+      "content": "It's kind of hit and miss",
+      "music": 0.0
+    },
+    {
+      "from": 209.31,
+      "to": 210.01,
+      "sid": 116,
+      "location": 2,
+      "content": "Sometimes",
+      "music": 0.0
+    },
+    {
+      "from": 210.01,
+      "to": 210.69,
+      "sid": 117,
+      "location": 2,
+      "content": "Sometimes",
+      "music": 0.0
+    },
+    {
+      "from": 210.69,
+      "to": 211.81,
+      "sid": 118,
+      "location": 2,
+      "content": "You have our hotels",
+      "music": 0.0
+    },
+    {
+      "from": 211.81,
+      "to": 213.01,
+      "sid": 119,
+      "location": 2,
+      "content": "So sometimes they come down",
+      "music": 0.0
+    },
+    {
+      "from": 213.01,
+      "to": 214.86,
+      "sid": 120,
+      "location": 2,
+      "content": "And let's go",
+      "music": 0.0
+    },
+    {
+      "from": 214.86,
+      "to": 217.34,
+      "sid": 121,
+      "location": 2,
+      "content": "So do you like you canada um",
+      "music": 0.0
+    },
+    {
+      "from": 217.34,
+      "to": 219.16,
+      "sid": 122,
+      "location": 2,
+      "content": "I have not had a very long time",
+      "music": 0.0
+    },
+    {
+      "from": 219.16,
+      "to": 220.46,
+      "sid": 123,
+      "location": 2,
+      "content": "Oh but you have been there",
+      "music": 0.0
+    },
+    {
+      "from": 220.46,
+      "to": 221.0,
+      "sid": 124,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 221.0,
+      "to": 222.86,
+      "sid": 125,
+      "location": 2,
+      "content": "That place is also empty",
+      "music": 0.0
+    },
+    {
+      "from": 222.86,
+      "to": 225.48,
+      "sid": 126,
+      "location": 2,
+      "content": "I think everybody likes to go downwards warmer",
+      "music": 0.0
+    },
+    {
+      "from": 226.58,
+      "to": 228.62,
+      "sid": 127,
+      "location": 2,
+      "content": "从杂货店逛了一圈出来",
+      "music": 0.0
+    },
+    {
+      "from": 228.62,
+      "to": 231.459,
+      "sid": 128,
+      "location": 2,
+      "content": "我还发现一堆人在主路上面拍婚纱照",
+      "music": 0.0
+    },
+    {
+      "from": 231.459,
+      "to": 232.699,
+      "sid": 129,
+      "location": 2,
+      "content": "我买了一大包面包",
+      "music": 0.0
+    },
+    {
+      "from": 232.699,
+      "to": 234.73,
+      "sid": 130,
+      "location": 2,
+      "content": "加上一个卖相最好的香蕉",
+      "music": 0.0
+    },
+    {
+      "from": 234.73,
+      "to": 236.53,
+      "sid": 131,
+      "location": 2,
+      "content": "一共花了4.89美元",
+      "music": 0.0
+    },
+    {
+      "from": 236.53,
+      "to": 238.19,
+      "sid": 132,
+      "location": 2,
+      "content": "各位觉得购买力如何",
+      "music": 0.0
+    },
+    {
+      "from": 238.19,
+      "to": 239.67,
+      "sid": 133,
+      "location": 2,
+      "content": "在这个杂货街对面呢",
+      "music": 0.0
+    },
+    {
+      "from": 239.67,
+      "to": 243.51,
+      "sid": 134,
+      "location": 2,
+      "content": "还有一家本地银行翻译过来叫人民州立银行",
+      "music": 0.0
+    },
+    {
+      "from": 243.51,
+      "to": 246.09,
+      "sid": 135,
+      "location": 2,
+      "content": "不知道各位觉得这个小镇设施如何",
+      "music": 0.0
+    },
+    {
+      "from": 246.09,
+      "to": 248.27,
+      "sid": 136,
+      "location": 2,
+      "content": "现在我去他们的居民区里面看看",
+      "music": 0.0
+    },
+    {
+      "from": 248.27,
+      "to": 250.4,
+      "sid": 137,
+      "location": 2,
+      "content": "这边甚至还有柏油路了啊",
+      "music": 0.0
+    },
+    {
+      "from": 250.4,
+      "to": 253.67,
+      "sid": 138,
+      "location": 2,
+      "content": "这个设施我觉得比起开头那个安特勒这边",
+      "music": 0.0
+    },
+    {
+      "from": 253.67,
+      "to": 256.05,
+      "sid": 139,
+      "location": 2,
+      "content": "甚至可以算是一个区域性大城市",
+      "music": 0.0
+    },
+    {
+      "from": 256.05,
+      "to": 257.61,
+      "sid": 140,
+      "location": 2,
+      "content": "不过再怎么兜圈子",
+      "music": 0.0
+    },
+    {
+      "from": 257.61,
+      "to": 260.38,
+      "sid": 141,
+      "location": 2,
+      "content": "韦斯特霍普也就是一个300人的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 260.38,
+      "to": 261.54,
+      "sid": 142,
+      "location": 2,
+      "content": "在里面转两圈",
+      "music": 0.0
+    },
+    {
+      "from": 261.54,
+      "to": 262.66,
+      "sid": 143,
+      "location": 2,
+      "content": "很快就出来了",
+      "music": 0.0
+    },
+    {
+      "from": 262.66,
+      "to": 264.69,
+      "sid": 144,
+      "location": 2,
+      "content": "然后又是无穷无尽的农田",
+      "music": 0.0
+    },
+    {
+      "from": 264.69,
+      "to": 266.09,
+      "sid": 145,
+      "location": 2,
+      "content": "但是今天我有一个梦想",
+      "music": 0.0
+    },
+    {
+      "from": 266.09,
+      "to": 267.93,
+      "sid": 146,
+      "location": 2,
+      "content": "就是我想见到几个加拿大人",
+      "music": 0.0
+    },
+    {
+      "from": 267.93,
+      "to": 270.0,
+      "sid": 147,
+      "location": 2,
+      "content": "第二就是我想去加拿大看看",
+      "music": 0.0
+    },
+    {
+      "from": 270.0,
+      "to": 270.88,
+      "sid": 148,
+      "location": 2,
+      "content": "没有牵制的",
+      "music": 0.0
+    },
+    {
+      "from": 270.88,
+      "to": 272.82,
+      "sid": 149,
+      "location": 2,
+      "content": "我怎么样才能实现这个梦想呢",
+      "music": 0.0
+    },
+    {
+      "from": 272.82,
+      "to": 273.64,
+      "sid": 150,
+      "location": 2,
+      "content": "正巧了",
+      "music": 0.0
+    },
+    {
+      "from": 273.64,
+      "to": 275.85,
+      "sid": 151,
+      "location": 2,
+      "content": "还真有一个地方可以实现我的愿望",
+      "music": 0.0
+    },
+    {
+      "from": 275.85,
+      "to": 278.81,
+      "sid": 152,
+      "location": 2,
+      "content": "就是在里韦斯特霍普有一个小时车程的地方",
+      "music": 0.0
+    },
+    {
+      "from": 278.81,
+      "to": 280.56,
+      "sid": 153,
+      "location": 2,
+      "content": "有一个国际和平公园",
+      "music": 0.0
+    },
+    {
+      "from": 280.56,
+      "to": 282.94,
+      "sid": 154,
+      "location": 2,
+      "content": "这算是美国和加拿大的公共公园",
+      "music": 0.0
+    },
+    {
+      "from": 282.94,
+      "to": 284.24,
+      "sid": 155,
+      "location": 2,
+      "content": "一半土地在美国",
+      "music": 0.0
+    },
+    {
+      "from": 284.24,
+      "to": 285.77,
+      "sid": 156,
+      "location": 2,
+      "content": "一半的土地在加拿大",
+      "music": 0.0
+    },
+    {
+      "from": 285.77,
+      "to": 287.63,
+      "sid": 157,
+      "location": 2,
+      "content": "但是你进去不需要过海关",
+      "music": 0.0
+    },
+    {
+      "from": 287.63,
+      "to": 288.65,
+      "sid": 158,
+      "location": 2,
+      "content": "在去公园的路上",
+      "music": 0.0
+    },
+    {
+      "from": 288.65,
+      "to": 290.59,
+      "sid": 159,
+      "location": 2,
+      "content": "我路过了一个叫苏里斯的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 290.59,
+      "to": 293.17,
+      "sid": 160,
+      "location": 2,
+      "content": "我还在这里发现了一个废弃的小学",
+      "music": 0.0
+    },
+    {
+      "from": 293.17,
+      "to": 295.63,
+      "sid": 161,
+      "location": 2,
+      "content": "苏里斯简直是安特勒的亲兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 295.63,
+      "to": 297.03,
+      "sid": 162,
+      "location": 2,
+      "content": "像是这个石子路",
+      "music": 0.0
+    },
+    {
+      "from": 297.03,
+      "to": 298.78,
+      "sid": 163,
+      "location": 2,
+      "content": "还有他们的人口流失",
+      "music": 0.0
+    },
+    {
+      "from": 298.78,
+      "to": 302.2,
+      "sid": 164,
+      "location": 2,
+      "content": "苏里斯人口巅峰期的时候有269个人",
+      "music": 0.0
+    },
+    {
+      "from": 302.2,
+      "to": 304.02,
+      "sid": 165,
+      "location": 2,
+      "content": "现在只剩下39个人",
+      "music": 0.0
+    },
+    {
+      "from": 304.02,
+      "to": 306.14,
+      "sid": 166,
+      "location": 2,
+      "content": "苏里斯和安特勒还有一个共同点",
+      "music": 0.0
+    },
+    {
+      "from": 306.14,
+      "to": 307.66,
+      "sid": 167,
+      "location": 2,
+      "content": "就是他们在倒闭的银行门前",
+      "music": 0.0
+    },
+    {
+      "from": 307.66,
+      "to": 309.44,
+      "sid": 168,
+      "location": 2,
+      "content": "都插着一个加拿大的旗子",
+      "music": 0.0
+    },
+    {
+      "from": 309.44,
+      "to": 310.36,
+      "sid": 169,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 310.36,
+      "to": 313.14,
+      "sid": 170,
+      "location": 2,
+      "content": "苏里斯还有一个水塔以及一个教堂",
+      "music": 0.0
+    },
+    {
+      "from": 313.14,
+      "to": 315.46,
+      "sid": 171,
+      "location": 2,
+      "content": "再加上公路边倒闭了的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 315.46,
+      "to": 316.48,
+      "sid": 172,
+      "location": 2,
+      "content": "一个小酒吧",
+      "music": 0.0
+    },
+    {
+      "from": 316.48,
+      "to": 318.12,
+      "sid": 173,
+      "location": 2,
+      "content": "还有一个谷仓塔",
+      "music": 0.0
+    },
+    {
+      "from": 318.12,
+      "to": 319.6,
+      "sid": 174,
+      "location": 2,
+      "content": "而且在苏里斯的北边",
+      "music": 0.0
+    },
+    {
+      "from": 319.6,
+      "to": 321.82,
+      "sid": 175,
+      "location": 2,
+      "content": "还有一个和安特勒很像的口岸",
+      "music": 0.0
+    },
+    {
+      "from": 321.82,
+      "to": 322.94,
+      "sid": 176,
+      "location": 2,
+      "content": "由于过于重复",
+      "music": 0.0
+    },
+    {
+      "from": 322.94,
+      "to": 325.58,
+      "sid": 177,
+      "location": 2,
+      "content": "我就放到小号的接机视频里面去了好了",
+      "music": 0.0
+    },
+    {
+      "from": 325.58,
+      "to": 327.98,
+      "sid": 178,
+      "location": 2,
+      "content": "我现在闪现到了国际和平公园附近",
+      "music": 0.0
+    },
+    {
+      "from": 327.98,
+      "to": 330.62,
+      "sid": 179,
+      "location": 2,
+      "content": "这是我今天见到车最多的一次",
+      "music": 0.0
+    },
+    {
+      "from": 330.62,
+      "to": 332.46,
+      "sid": 180,
+      "location": 2,
+      "content": "这里还有一个小免税店",
+      "music": 0.0
+    },
+    {
+      "from": 332.46,
+      "to": 334.419,
+      "sid": 181,
+      "location": 2,
+      "content": "免税店前面就是口岸",
+      "music": 0.0
+    },
+    {
+      "from": 334.419,
+      "to": 337.699,
+      "sid": 182,
+      "location": 2,
+      "content": "毕竟这个和平公园也算是一个区域内的小景点",
+      "music": 0.0
+    },
+    {
+      "from": 337.699,
+      "to": 339.359,
+      "sid": 183,
+      "location": 2,
+      "content": "这个免税店里面很小",
+      "music": 0.0
+    },
+    {
+      "from": 339.359,
+      "to": 341.339,
+      "sid": 184,
+      "location": 2,
+      "content": "卖的东西大部分我也都用不到",
+      "music": 0.0
+    },
+    {
+      "from": 341.339,
+      "to": 342.579,
+      "sid": 185,
+      "location": 2,
+      "content": "我就买了一袋饼干",
+      "music": 0.0
+    },
+    {
+      "from": 342.579,
+      "to": 343.429,
+      "sid": 186,
+      "location": 2,
+      "content": "意思一下",
+      "music": 0.0
+    },
+    {
+      "from": 343.429,
+      "to": 345.93,
+      "sid": 187,
+      "location": 2,
+      "content": "结果发现这个饼干其实要加税的",
+      "music": 0.0
+    },
+    {
+      "from": 345.93,
+      "to": 348.03,
+      "sid": 188,
+      "location": 2,
+      "content": "这里只有烟草和酒是免税的",
+      "music": 0.0
+    },
+    {
+      "from": 348.03,
+      "to": 350.21,
+      "sid": 189,
+      "location": 2,
+      "content": "而且你必须证明自己是加拿大人",
+      "music": 0.0
+    },
+    {
+      "from": 350.21,
+      "to": 352.01,
+      "sid": 190,
+      "location": 2,
+      "content": "从美国去往加拿大才可以",
+      "music": 0.0
+    },
+    {
+      "from": 352.01,
+      "to": 355.35,
+      "sid": 191,
+      "location": 2,
+      "content": "这个口岸的人流量是整个北达科他州第二大的",
+      "music": 0.0
+    },
+    {
+      "from": 355.35,
+      "to": 358.13,
+      "sid": 192,
+      "location": 2,
+      "content": "再加上这边附近还有一个印第安人保留地",
+      "music": 0.0
+    },
+    {
+      "from": 358.13,
+      "to": 360.61,
+      "sid": 193,
+      "location": 2,
+      "content": "所以说这个地员知道的事情要多",
+      "music": 0.0
+    },
+    {
+      "from": 360.61,
+      "to": 361.19,
+      "sid": 194,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 361.19,
+      "to": 362.41,
+      "sid": 195,
+      "location": 2,
+      "content": "Everybody's a little different",
+      "music": 0.0
+    },
+    {
+      "from": 362.41,
+      "to": 364.039,
+      "sid": 196,
+      "location": 2,
+      "content": "It's so hard to find help",
+      "music": 0.0
+    },
+    {
+      "from": 364.039,
+      "to": 364.579,
+      "sid": 197,
+      "location": 2,
+      "content": "Oh",
+      "music": 0.0
+    },
+    {
+      "from": 364.579,
+      "to": 366.559,
+      "sid": 198,
+      "location": 2,
+      "content": "It's hard to find people will only to work",
+      "music": 0.0
+    },
+    {
+      "from": 366.559,
+      "to": 367.119,
+      "sid": 199,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 367.119,
+      "to": 367.739,
+      "sid": 200,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 367.739,
+      "to": 369.399,
+      "sid": 201,
+      "location": 2,
+      "content": "So i am by myself",
+      "music": 0.0
+    },
+    {
+      "from": 369.399,
+      "to": 370.24,
+      "sid": 202,
+      "location": 2,
+      "content": "Right now",
+      "music": 0.0
+    },
+    {
+      "from": 370.24,
+      "to": 371.36,
+      "sid": 203,
+      "location": 2,
+      "content": "So these are the days",
+      "music": 0.0
+    },
+    {
+      "from": 371.36,
+      "to": 372.46,
+      "sid": 204,
+      "location": 2,
+      "content": "I'll be closed here",
+      "music": 0.0
+    },
+    {
+      "from": 372.46,
+      "to": 373.1,
+      "sid": 205,
+      "location": 2,
+      "content": "Oh yes",
+      "music": 0.0
+    },
+    {
+      "from": 373.1,
+      "to": 375.32,
+      "sid": 206,
+      "location": 2,
+      "content": "Because you have your personal things with you",
+      "music": 0.0
+    },
+    {
+      "from": 375.32,
+      "to": 375.52,
+      "sid": 207,
+      "location": 2,
+      "content": "Gonna",
+      "music": 0.0
+    },
+    {
+      "from": 375.52,
+      "to": 376.38,
+      "sid": 208,
+      "location": 2,
+      "content": "Do yes",
+      "music": 0.0
+    },
+    {
+      "from": 376.38,
+      "to": 379.12,
+      "sid": 209,
+      "location": 2,
+      "content": "Because you are the only person with well to work",
+      "music": 0.0
+    },
+    {
+      "from": 379.12,
+      "to": 379.62,
+      "sid": 210,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 379.62,
+      "to": 385.07,
+      "sid": 211,
+      "location": 2,
+      "content": "I did have three girls and one is on leave",
+      "music": 0.07166123545076596
+    },
+    {
+      "from": 385.07,
+      "to": 385.57,
+      "sid": 212,
+      "location": 2,
+      "content": "Right now",
+      "music": 0.0
+    },
+    {
+      "from": 385.57,
+      "to": 386.37,
+      "sid": 213,
+      "location": 2,
+      "content": "She's coming back",
+      "music": 0.0
+    },
+    {
+      "from": 386.37,
+      "to": 387.45,
+      "sid": 214,
+      "location": 2,
+      "content": "But she's on leave",
+      "music": 0.0
+    },
+    {
+      "from": 387.45,
+      "to": 389.37,
+      "sid": 215,
+      "location": 2,
+      "content": "And then i have um",
+      "music": 0.0
+    },
+    {
+      "from": 389.37,
+      "to": 391.35,
+      "sid": 216,
+      "location": 2,
+      "content": "The other ones uh quit",
+      "music": 0.0
+    },
+    {
+      "from": 391.35,
+      "to": 394.05,
+      "sid": 217,
+      "location": 2,
+      "content": "Because they found um",
+      "music": 0.08588956528284362
+    },
+    {
+      "from": 394.57,
+      "to": 397.31,
+      "sid": 218,
+      "location": 2,
+      "content": "They found work somewhere else with better hours",
+      "music": 0.0
+    },
+    {
+      "from": 397.31,
+      "to": 399.49,
+      "sid": 219,
+      "location": 2,
+      "content": "Nobody likes to work weekends",
+      "music": 0.0
+    },
+    {
+      "from": 399.49,
+      "to": 401.61,
+      "sid": 220,
+      "location": 2,
+      "content": "And nobody likes to work",
+      "music": 0.0
+    },
+    {
+      "from": 401.61,
+      "to": 403.36,
+      "sid": 221,
+      "location": 2,
+      "content": "Closing shift",
+      "music": 0.0
+    },
+    {
+      "from": 403.36,
+      "to": 408.86,
+      "sid": 222,
+      "location": 2,
+      "content": "So it's hard to find um reliable people eyes",
+      "music": 0.1666666615226193
+    },
+    {
+      "from": 408.86,
+      "to": 411.86,
+      "sid": 223,
+      "location": 2,
+      "content": "And then here you have to be twenty one to work",
+      "music": 0.0775193768403286
+    },
+    {
+      "from": 411.86,
+      "to": 417.85,
+      "sid": 224,
+      "location": 2,
+      "content": "So that's another deterrent that is really hard for us to find work",
+      "music": 0.08879492412696023
+    },
+    {
+      "from": 417.85,
+      "to": 419.95,
+      "sid": 225,
+      "location": 2,
+      "content": "Because a lot of people that work",
+      "music": 0.0
+    },
+    {
+      "from": 419.95,
+      "to": 422.049,
+      "sid": 226,
+      "location": 2,
+      "content": "Here is either healthcare",
+      "music": 0.0
+    },
+    {
+      "from": 422.049,
+      "to": 424.749,
+      "sid": 227,
+      "location": 2,
+      "content": "Education or farmers",
+      "music": 0.0
+    },
+    {
+      "from": 424.749,
+      "to": 429.55,
+      "sid": 228,
+      "location": 2,
+      "content": "And the younger people are college or move",
+      "music": 0.030690536299475296
+    },
+    {
+      "from": 429.55,
+      "to": 430.97,
+      "sid": 229,
+      "location": 2,
+      "content": "Or you know",
+      "music": 0.0
+    },
+    {
+      "from": 430.97,
+      "to": 434.12,
+      "sid": 230,
+      "location": 2,
+      "content": "There's a lot of officers that they come from all over",
+      "music": 0.0
+    },
+    {
+      "from": 434.12,
+      "to": 438.1,
+      "sid": 231,
+      "location": 2,
+      "content": "There's some that are from different states from new mexico",
+      "music": 0.0
+    },
+    {
+      "from": 438.1,
+      "to": 440.9,
+      "sid": 232,
+      "location": 2,
+      "content": "Texas that command stay",
+      "music": 0.0
+    },
+    {
+      "from": 440.9,
+      "to": 443.94,
+      "sid": 233,
+      "location": 2,
+      "content": "And they just rent a hotel or they rent an apartment",
+      "music": 0.0
+    },
+    {
+      "from": 443.94,
+      "to": 447.23,
+      "sid": 234,
+      "location": 2,
+      "content": "And they just do maybe a six month contract",
+      "music": 0.0
+    },
+    {
+      "from": 447.23,
+      "to": 451.25,
+      "sid": 235,
+      "location": 2,
+      "content": "And then they leave a lot of our officers have retired",
+      "music": 0.09150326498354615
+    },
+    {
+      "from": 451.25,
+      "to": 453.34,
+      "sid": 236,
+      "location": 2,
+      "content": "So now they have new staff",
+      "music": 0.0
+    },
+    {
+      "from": 453.405,
+      "to": 456.94,
+      "sid": 237,
+      "location": 2,
+      "content": "So these people are from different parts that",
+      "music": 0.0
+    },
+    {
+      "from": 456.94,
+      "to": 463.1,
+      "sid": 238,
+      "location": 2,
+      "content": "Come their conveniency of health care and education",
+      "music": 0.0
+    },
+    {
+      "from": 463.1,
+      "to": 465.98,
+      "sid": 239,
+      "location": 2,
+      "content": "Because here there's nothing",
+      "music": 0.0
+    },
+    {
+      "from": 466.18,
+      "to": 469.42,
+      "sid": 240,
+      "location": 2,
+      "content": "It's really unfortunate back to doctor",
+      "music": 0.0
+    },
+    {
+      "from": 469.42,
+      "to": 470.18,
+      "sid": 241,
+      "location": 2,
+      "content": "Two hours away",
+      "music": 0.0
+    },
+    {
+      "from": 470.18,
+      "to": 472.46,
+      "sid": 242,
+      "location": 2,
+      "content": "So i was like paranoid that",
+      "music": 0.0
+    },
+    {
+      "from": 472.46,
+      "to": 474.19,
+      "sid": 243,
+      "location": 2,
+      "content": "I'm gonna have a baby in the car",
+      "music": 0.0
+    },
+    {
+      "from": 474.19,
+      "to": 475.67,
+      "sid": 244,
+      "location": 2,
+      "content": "So then i said i ta",
+      "music": 0.0
+    },
+    {
+      "from": 475.67,
+      "to": 477.35,
+      "sid": 245,
+      "location": 2,
+      "content": "I gotta have plan c session",
+      "music": 0.0
+    },
+    {
+      "from": 477.35,
+      "to": 478.8,
+      "sid": 246,
+      "location": 2,
+      "content": "Because i was terrified",
+      "music": 0.0
+    },
+    {
+      "from": 478.8,
+      "to": 480.18,
+      "sid": 247,
+      "location": 2,
+      "content": "I mean baby",
+      "music": 0.0
+    },
+    {
+      "from": 480.18,
+      "to": 482.04,
+      "sid": 248,
+      "location": 2,
+      "content": "My son was doing in november",
+      "music": 0.0
+    },
+    {
+      "from": 482.04,
+      "to": 482.8,
+      "sid": 249,
+      "location": 2,
+      "content": "I was afraid",
+      "music": 0.0
+    },
+    {
+      "from": 482.8,
+      "to": 486.97,
+      "sid": 250,
+      "location": 2,
+      "content": "I was gonna get custo like my husband",
+      "music": 0.0
+    },
+    {
+      "from": 486.97,
+      "to": 490.39,
+      "sid": 251,
+      "location": 2,
+      "content": "He was probably the last person born in the hospital here",
+      "music": 0.0
+    },
+    {
+      "from": 490.39,
+      "to": 493.659,
+      "sid": 252,
+      "location": 2,
+      "content": "And that was forty three years ago",
+      "music": 0.0
+    },
+    {
+      "from": 493.659,
+      "to": 495.619,
+      "sid": 253,
+      "location": 2,
+      "content": "They don't deliver babies here",
+      "music": 0.0
+    },
+    {
+      "from": 495.619,
+      "to": 497.179,
+      "sid": 254,
+      "location": 2,
+      "content": "But if you're native american",
+      "music": 0.0
+    },
+    {
+      "from": 497.179,
+      "to": 499.679,
+      "sid": 255,
+      "location": 2,
+      "content": "You could go to the tribal hospital",
+      "music": 0.0
+    },
+    {
+      "from": 499.679,
+      "to": 500.48,
+      "sid": 256,
+      "location": 2,
+      "content": "Uh huh",
+      "music": 0.0
+    },
+    {
+      "from": 500.48,
+      "to": 501.32,
+      "sid": 257,
+      "location": 2,
+      "content": "I have big",
+      "music": 0.0
+    },
+    {
+      "from": 501.32,
+      "to": 503.44,
+      "sid": 258,
+      "location": 2,
+      "content": "But me i'm not uh tribal",
+      "music": 0.0
+    },
+    {
+      "from": 503.44,
+      "to": 505.31,
+      "sid": 259,
+      "location": 2,
+      "content": "So i can't go there",
+      "music": 0.0
+    },
+    {
+      "from": 505.31,
+      "to": 508.11,
+      "sid": 260,
+      "location": 2,
+      "content": "这个姐们本来是有墨西哥血统的加州人",
+      "music": 0.0
+    },
+    {
+      "from": 508.11,
+      "to": 511.03,
+      "sid": 261,
+      "location": 2,
+      "content": "后来她嫁给了一个本地的原住民大哥",
+      "music": 0.0
+    },
+    {
+      "from": 511.03,
+      "to": 512.559,
+      "sid": 262,
+      "location": 2,
+      "content": "之后就搬来了这里",
+      "music": 0.0
+    },
+    {
+      "from": 512.559,
+      "to": 513.839,
+      "sid": 263,
+      "location": 2,
+      "content": "然后他吐槽了一堆",
+      "music": 0.0
+    },
+    {
+      "from": 513.839,
+      "to": 516.49,
+      "sid": 264,
+      "location": 2,
+      "content": "在这个地方生活实在是太不方便了",
+      "music": 0.0
+    },
+    {
+      "from": 516.49,
+      "to": 518.87,
+      "sid": 265,
+      "location": 2,
+      "content": "不过这里至少比起前面几个口岸",
+      "music": 0.0
+    },
+    {
+      "from": 518.87,
+      "to": 520.89,
+      "sid": 266,
+      "location": 2,
+      "content": "还有一个大公园可以去逛逛",
+      "music": 0.0
+    },
+    {
+      "from": 520.89,
+      "to": 522.919,
+      "sid": 267,
+      "location": 2,
+      "content": "由于我从来没有去过加拿大",
+      "music": 0.0
+    },
+    {
+      "from": 522.919,
+      "to": 525.879,
+      "sid": 268,
+      "location": 2,
+      "content": "于是我一进去就直奔加拿大一侧的森林",
+      "music": 0.0
+    },
+    {
+      "from": 525.879,
+      "to": 527.499,
+      "sid": 269,
+      "location": 2,
+      "content": "不过美国加拿大的边境",
+      "music": 0.0
+    },
+    {
+      "from": 527.499,
+      "to": 529.78,
+      "sid": 270,
+      "location": 2,
+      "content": "说白了就是一条随便画的直线",
+      "music": 0.0
+    },
+    {
+      "from": 529.78,
+      "to": 532.53,
+      "sid": 271,
+      "location": 2,
+      "content": "两边确实也没有说有什么太大的区别",
+      "music": 0.0
+    },
+    {
+      "from": 532.53,
+      "to": 534.67,
+      "sid": 272,
+      "location": 2,
+      "content": "虽然说地理上面的差别不大",
+      "music": 0.0
+    },
+    {
+      "from": 534.67,
+      "to": 536.53,
+      "sid": 273,
+      "location": 2,
+      "content": "但是从加拿大那边过来的人",
+      "music": 0.0
+    },
+    {
+      "from": 536.53,
+      "to": 538.8,
+      "sid": 274,
+      "location": 2,
+      "content": "还是跟美国这边去的人不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 538.8,
+      "to": 541.76,
+      "sid": 275,
+      "location": 2,
+      "content": "由于北达科他州的乡下实在是太荒了",
+      "music": 0.0
+    },
+    {
+      "from": 541.76,
+      "to": 543.12,
+      "sid": 276,
+      "location": 2,
+      "content": "我一路开过来几天",
+      "music": 0.0
+    },
+    {
+      "from": 543.12,
+      "to": 544.49,
+      "sid": 277,
+      "location": 2,
+      "content": "全部都只有白人",
+      "music": 0.0
+    },
+    {
+      "from": 544.49,
+      "to": 547.77,
+      "sid": 278,
+      "location": 2,
+      "content": "但是加拿大这一侧我感觉比美国多元化不少啊",
+      "music": 0.0
+    },
+    {
+      "from": 547.77,
+      "to": 549.34,
+      "sid": 279,
+      "location": 2,
+      "content": "各个国家的人都有",
+      "music": 0.0
+    },
+    {
+      "from": 549.34,
+      "to": 551.06,
+      "sid": 280,
+      "location": 2,
+      "content": "我一下子见到这么多南亚人",
+      "music": 0.0
+    },
+    {
+      "from": 551.06,
+      "to": 552.48,
+      "sid": 281,
+      "location": 2,
+      "content": "我感到还挺亲切的",
+      "music": 0.0
+    },
+    {
+      "from": 552.48,
+      "to": 554.02,
+      "sid": 282,
+      "location": 2,
+      "content": "这个和平公园的中轴线",
+      "music": 0.0
+    },
+    {
+      "from": 554.02,
+      "to": 555.85,
+      "sid": 283,
+      "location": 2,
+      "content": "就是美国加拿大的边境线",
+      "music": 0.0
+    },
+    {
+      "from": 555.85,
+      "to": 557.01,
+      "sid": 284,
+      "location": 2,
+      "content": "在这个公园里面",
+      "music": 0.0
+    },
+    {
+      "from": 557.01,
+      "to": 558.39,
+      "sid": 285,
+      "location": 2,
+      "content": "你可以疯狂的走线",
+      "music": 0.0
+    },
+    {
+      "from": 558.39,
+      "to": 559.65,
+      "sid": 286,
+      "location": 2,
+      "content": "一会儿走到加拿大",
+      "music": 0.0
+    },
+    {
+      "from": 559.65,
+      "to": 560.72,
+      "sid": 287,
+      "location": 2,
+      "content": "一会儿走到美国",
+      "music": 0.0
+    },
+    {
+      "from": 560.72,
+      "to": 562.64,
+      "sid": 288,
+      "location": 2,
+      "content": "由于公园里面大部分非白人",
+      "music": 0.0
+    },
+    {
+      "from": 562.64,
+      "to": 564.5,
+      "sid": 289,
+      "location": 2,
+      "content": "都是从加拿大那一侧过来的",
+      "music": 0.0
+    },
+    {
+      "from": 564.5,
+      "to": 566.02,
+      "sid": 290,
+      "location": 2,
+      "content": "所有的工作人员都默认",
+      "music": 0.0
+    },
+    {
+      "from": 566.02,
+      "to": 567.58,
+      "sid": 291,
+      "location": 2,
+      "content": "我是从加拿大那边过来的",
+      "music": 0.0
+    },
+    {
+      "from": 567.58,
+      "to": 568.78,
+      "sid": 292,
+      "location": 2,
+      "content": "这边消费有一个bug",
+      "music": 0.0
+    },
+    {
+      "from": 568.78,
+      "to": 570.82,
+      "sid": 293,
+      "location": 2,
+      "content": "就是美元加币的汇率是一比一",
+      "music": 0.0
+    },
+    {
+      "from": 573.56,
+      "to": 575.58,
+      "sid": 294,
+      "location": 2,
+      "content": "你得花三加币或者收三美元",
+      "music": 0.0
+    },
+    {
+      "from": 575.58,
+      "to": 578.74,
+      "sid": 295,
+      "location": 2,
+      "content": "但是实际上的汇率是一美元等于1.35加币",
+      "music": 0.0
+    },
+    {
+      "from": 578.74,
+      "to": 581.41,
+      "sid": 296,
+      "location": 2,
+      "content": "一开始工作人员默认我是加拿大那边过来的",
+      "music": 0.0
+    },
+    {
+      "from": 581.41,
+      "to": 582.77,
+      "sid": 297,
+      "location": 2,
+      "content": "所以跟我说三加B",
+      "music": 0.0
+    },
+    {
+      "from": 582.77,
+      "to": 584.53,
+      "sid": 298,
+      "location": 2,
+      "content": "我说我没有带加拿大的钱",
+      "music": 0.0
+    },
+    {
+      "from": 584.53,
+      "to": 586.45,
+      "sid": 299,
+      "location": 2,
+      "content": "结果后面就变成美元结账了",
+      "music": 0.0
+    },
+    {
+      "from": 586.45,
+      "to": 589.15,
+      "sid": 300,
+      "location": 2,
+      "content": "其实我所有的信用卡都是全币种可以刷的",
+      "music": 0.0
+    },
+    {
+      "from": 589.15,
+      "to": 591.97,
+      "sid": 301,
+      "location": 2,
+      "content": "血亏这边的工作人员基本上是美国一侧",
+      "music": 0.0
+    },
+    {
+      "from": 591.97,
+      "to": 593.069,
+      "sid": 302,
+      "location": 2,
+      "content": "还都是美国人",
+      "music": 0.0
+    },
+    {
+      "from": 593.069,
+      "to": 594.949,
+      "sid": 303,
+      "location": 2,
+      "content": "加拿大那一侧都是加拿大人",
+      "music": 0.0
+    },
+    {
+      "from": 594.949,
+      "to": 595.769,
+      "sid": 304,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 595.769,
+      "to": 597.629,
+      "sid": 305,
+      "location": 2,
+      "content": "还有不少戴着帽子的志愿者",
+      "music": 0.0
+    },
+    {
+      "from": 597.629,
+      "to": 599.73,
+      "sid": 306,
+      "location": 2,
+      "content": "在国境线附近走来走去",
+      "music": 0.0
+    },
+    {
+      "from": 599.73,
+      "to": 601.51,
+      "sid": 307,
+      "location": 2,
+      "content": "这个公园维护的很好啊",
+      "music": 0.0
+    },
+    {
+      "from": 601.51,
+      "to": 602.57,
+      "sid": 308,
+      "location": 2,
+      "content": "如果在附近的话",
+      "music": 0.0
+    },
+    {
+      "from": 602.57,
+      "to": 603.83,
+      "sid": 309,
+      "location": 2,
+      "content": "确实可以过去玩一玩",
+      "music": 0.0
+    },
+    {
+      "from": 603.83,
+      "to": 606.79,
+      "sid": 310,
+      "location": 2,
+      "content": "不过这里不在我这个黑人区up主的舒适区内",
+      "music": 0.0
+    },
+    {
+      "from": 606.79,
+      "to": 608.59,
+      "sid": 311,
+      "location": 2,
+      "content": "我感觉此地不宜久留",
+      "music": 0.0
+    },
+    {
+      "from": 608.59,
+      "to": 610.95,
+      "sid": 312,
+      "location": 2,
+      "content": "从这个公园出去还是要过海关的",
+      "music": 0.0
+    },
+    {
+      "from": 610.95,
+      "to": 612.05,
+      "sid": 313,
+      "location": 2,
+      "content": "左转是加拿大",
+      "music": 0.0
+    },
+    {
+      "from": 612.05,
+      "to": 613.17,
+      "sid": 314,
+      "location": 2,
+      "content": "右转是美国",
+      "music": 0.0
+    },
+    {
+      "from": 613.17,
+      "to": 615.25,
+      "sid": 315,
+      "location": 2,
+      "content": "看看加拿大这边排队的车流",
+      "music": 0.0
+    },
+    {
+      "from": 615.25,
+      "to": 617.39,
+      "sid": 316,
+      "location": 2,
+      "content": "美国这一侧是冷冷清清啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.39,
+      "to": 618.97,
+      "sid": 317,
+      "location": 2,
+      "content": "我前面只有一辆车",
+      "music": 0.0
+    },
+    {
+      "from": 618.97,
+      "to": 621.16,
+      "sid": 318,
+      "location": 2,
+      "content": "后面我等了半天也没有来车",
+      "music": 0.0
+    },
+    {
+      "from": 621.16,
+      "to": 624.36,
+      "sid": 319,
+      "location": 2,
+      "content": "这个口岸网上据说是靠驾照就可以进去",
+      "music": 0.0
+    },
+    {
+      "from": 624.36,
+      "to": 625.44,
+      "sid": 320,
+      "location": 2,
+      "content": "不过以防万一",
+      "music": 0.0
+    },
+    {
+      "from": 625.44,
+      "to": 627.1,
+      "sid": 321,
+      "location": 2,
+      "content": "我还是带上了我尊贵的护照",
+      "music": 0.0
+    },
+    {
+      "from": 627.1,
+      "to": 629.06,
+      "sid": 322,
+      "location": 2,
+      "content": "以及各种杂七杂八的文件",
+      "music": 0.0
+    },
+    {
+      "from": 629.06,
+      "to": 630.38,
+      "sid": 323,
+      "location": 2,
+      "content": "结果过海关的时候",
+      "music": 0.0
+    },
+    {
+      "from": 630.38,
+      "to": 631.62,
+      "sid": 324,
+      "location": 2,
+      "content": "大哥啥也没有问",
+      "music": 0.0
+    },
+    {
+      "from": 631.62,
+      "to": 632.82,
+      "sid": 325,
+      "location": 2,
+      "content": "扫了一下我的驾照",
+      "music": 0.0
+    },
+    {
+      "from": 632.82,
+      "to": 634.14,
+      "sid": 326,
+      "location": 2,
+      "content": "就把我给放进去了",
+      "music": 0.0
+    },
+    {
+      "from": 634.14,
+      "to": 635.62,
+      "sid": 327,
+      "location": 2,
+      "content": "我不确定这边政策是这样",
+      "music": 0.0
+    },
+    {
+      "from": 635.62,
+      "to": 637.14,
+      "sid": 328,
+      "location": 2,
+      "content": "还是老哥比较随意啊",
+      "music": 0.0
+    },
+    {
+      "from": 637.14,
+      "to": 639.5,
+      "sid": 329,
+      "location": 2,
+      "content": "我回去还查了一下I94表",
+      "music": 0.0
+    },
+    {
+      "from": 639.5,
+      "to": 641.36,
+      "sid": 330,
+      "location": 2,
+      "content": "上面是有入境的记录的",
+      "music": 0.0
+    },
+    {
+      "from": 641.36,
+      "to": 643.71,
+      "sid": 331,
+      "location": 2,
+      "content": "因此这个海关也是内部联网的",
+      "music": 0.0
+    },
+    {
+      "from": 643.71,
+      "to": 645.69,
+      "sid": 332,
+      "location": 2,
+      "content": "如果真的有人想来这边的话",
+      "music": 0.0
+    },
+    {
+      "from": 645.69,
+      "to": 647.91,
+      "sid": 333,
+      "location": 2,
+      "content": "建议你还是带上所有的材料好了",
+      "music": 0.0
+    },
+    {
+      "from": 647.91,
+      "to": 649.19,
+      "sid": 334,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 649.19,
+      "to": 649.67,
+      "sid": 335,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 649.67,
+      "to": 652.18,
+      "sid": 336,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

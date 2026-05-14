@@ -1,0 +1,244 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 0.48,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.48,
+      "to": 2.1,
+      "sid": 2,
+      "location": 2,
+      "content": "我是你们的up主小霸王",
+      "music": 0.0
+    },
+    {
+      "from": 2.1,
+      "to": 3.46,
+      "sid": 3,
+      "location": 2,
+      "content": "现在是深夜",
+      "music": 0.0
+    },
+    {
+      "from": 3.46,
+      "to": 6.08,
+      "sid": 4,
+      "location": 2,
+      "content": "我在大家喜爱的底特律一元房地区",
+      "music": 0.0
+    },
+    {
+      "from": 6.08,
+      "to": 7.59,
+      "sid": 5,
+      "location": 2,
+      "content": "给大家报一个平安",
+      "music": 0.0
+    },
+    {
+      "from": 7.59,
+      "to": 9.07,
+      "sid": 6,
+      "location": 2,
+      "content": "最近两个星期没有更新",
+      "music": 0.0
+    },
+    {
+      "from": 9.07,
+      "to": 10.75,
+      "sid": 7,
+      "location": 2,
+      "content": "是因为我一直在外面拍视频",
+      "music": 0.0
+    },
+    {
+      "from": 11.75,
+      "to": 14.35,
+      "sid": 8,
+      "location": 2,
+      "content": "也收到了很多观众非常友好的来信",
+      "music": 0.0
+    },
+    {
+      "from": 14.35,
+      "to": 16.29,
+      "sid": 9,
+      "location": 2,
+      "content": "问我人还在不在呃",
+      "music": 0.0
+    },
+    {
+      "from": 16.29,
+      "to": 17.25,
+      "sid": 10,
+      "location": 2,
+      "content": "我人确实还在",
+      "music": 0.0
+    },
+    {
+      "from": 17.25,
+      "to": 18.97,
+      "sid": 11,
+      "location": 2,
+      "content": "但是不知道明天还在不在",
+      "music": 0.0
+    },
+    {
+      "from": 18.97,
+      "to": 20.65,
+      "sid": 12,
+      "location": 2,
+      "content": "但是如果明天我发了视频",
+      "music": 0.0
+    },
+    {
+      "from": 20.65,
+      "to": 22.869,
+      "sid": 13,
+      "location": 2,
+      "content": "说明我至少明天人还是在的",
+      "music": 0.0
+    },
+    {
+      "from": 22.869,
+      "to": 24.829,
+      "sid": 14,
+      "location": 2,
+      "content": "虽然这段时间没有发视频",
+      "music": 0.0
+    },
+    {
+      "from": 24.829,
+      "to": 28.249,
+      "sid": 15,
+      "location": 2,
+      "content": "但是最近我几个平台的观众的数量",
+      "music": 0.0
+    },
+    {
+      "from": 28.249,
+      "to": 30.6,
+      "sid": 16,
+      "location": 2,
+      "content": "也突破了一定的数量级呃",
+      "music": 0.0
+    },
+    {
+      "from": 30.6,
+      "to": 32.96,
+      "sid": 17,
+      "location": 2,
+      "content": "希望之后我可以出一期QMMA视频",
+      "music": 0.0
+    },
+    {
+      "from": 32.96,
+      "to": 34.84,
+      "sid": 18,
+      "location": 2,
+      "content": "如果大家有什么感兴趣的问题",
+      "music": 0.0
+    },
+    {
+      "from": 34.84,
+      "to": 37.16,
+      "sid": 19,
+      "location": 2,
+      "content": "可以在评论区回复我",
+      "music": 0.0
+    },
+    {
+      "from": 37.16,
+      "to": 38.52,
+      "sid": 20,
+      "location": 2,
+      "content": "我第一次对着镜头讲话",
+      "music": 0.0
+    },
+    {
+      "from": 38.52,
+      "to": 39.34,
+      "sid": 21,
+      "location": 2,
+      "content": "有点害羞",
+      "music": 0.0
+    },
+    {
+      "from": 39.34,
+      "to": 41.4,
+      "sid": 22,
+      "location": 2,
+      "content": "谢谢大家的体谅",
+      "music": 0.0
+    },
+    {
+      "from": 41.4,
+      "to": 44.97,
+      "sid": 23,
+      "location": 2,
+      "content": "现在是底特律时间的11.24",
+      "music": 0.0
+    },
+    {
+      "from": 45.37,
+      "to": 48.17,
+      "sid": 24,
+      "location": 2,
+      "content": "然后我大概在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 51.78,
+      "to": 52.48,
+      "sid": 25,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 52.48,
+      "to": 54.02,
+      "sid": 26,
+      "location": 2,
+      "content": "我是你们的up主小霸王",
+      "music": 0.0
+    },
+    {
+      "from": 54.02,
+      "to": 54.7,
+      "sid": 27,
+      "location": 2,
+      "content": "刚刚录视频",
+      "music": 0.0
+    },
+    {
+      "from": 54.7,
+      "to": 56.24,
+      "sid": 28,
+      "location": 2,
+      "content": "实在是太羞耻了",
+      "music": 0.0
+    },
+    {
+      "from": 56.24,
+      "to": 58.94,
+      "sid": 29,
+      "location": 2,
+      "content": "呃我现在好不容易才缓过来",
+      "music": 0.0
+    }
+  ]
+}

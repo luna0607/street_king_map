@@ -1,0 +1,2268 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "en",
+  "version": "sync-v1.2.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 6.18,
+      "sid": 1,
+      "location": 2,
+      "content": "You can hear like only linear",
+      "music": 0.0
+    },
+    {
+      "from": 6.18,
+      "to": 8.64,
+      "sid": 2,
+      "location": 2,
+      "content": "Should a sub ba",
+      "music": 0.0
+    },
+    {
+      "from": 17.38,
+      "to": 18.3,
+      "sid": 3,
+      "location": 2,
+      "content": "Twenty two",
+      "music": 0.0
+    },
+    {
+      "from": 20.7,
+      "to": 22.14,
+      "sid": 4,
+      "location": 2,
+      "content": "Local",
+      "music": 0.0
+    },
+    {
+      "from": 32.2,
+      "to": 40.34,
+      "sid": 5,
+      "location": 2,
+      "content": "What has sakhan the job would",
+      "music": 0.0
+    },
+    {
+      "from": 49.52,
+      "to": 50.2,
+      "sid": 6,
+      "location": 2,
+      "content": "Beijing",
+      "music": 0.0
+    },
+    {
+      "from": 55.64,
+      "to": 57.55,
+      "sid": 7,
+      "location": 2,
+      "content": "Like some ah",
+      "music": 0.0
+    },
+    {
+      "from": 57.55,
+      "to": 61.23,
+      "sid": 8,
+      "location": 2,
+      "content": "That's what that was amazingly you",
+      "music": 0.0
+    },
+    {
+      "from": 61.23,
+      "to": 62.63,
+      "sid": 9,
+      "location": 2,
+      "content": "You're not around here",
+      "music": 0.0
+    },
+    {
+      "from": 62.63,
+      "to": 63.209,
+      "sid": 10,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 63.209,
+      "to": 64.629,
+      "sid": 11,
+      "location": 2,
+      "content": "But you found this place",
+      "music": 0.0
+    },
+    {
+      "from": 64.629,
+      "to": 66.189,
+      "sid": 12,
+      "location": 2,
+      "content": "What they call the same",
+      "music": 0.0
+    },
+    {
+      "from": 66.189,
+      "to": 68.289,
+      "sid": 13,
+      "location": 2,
+      "content": "What they give me every month",
+      "music": 0.0
+    },
+    {
+      "from": 68.289,
+      "to": 70.16,
+      "sid": 14,
+      "location": 2,
+      "content": "Ain't enough to pay my bill",
+      "music": 0.0
+    },
+    {
+      "from": 70.16,
+      "to": 72.9,
+      "sid": 15,
+      "location": 2,
+      "content": "So i'm gonna try to find something that's like beauty",
+      "music": 0.0
+    },
+    {
+      "from": 72.9,
+      "to": 73.56,
+      "sid": 16,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 73.56,
+      "to": 77.18,
+      "sid": 17,
+      "location": 2,
+      "content": "Where i can make a little extra money to get to be honest",
+      "music": 0.0
+    },
+    {
+      "from": 77.18,
+      "to": 80.31,
+      "sid": 18,
+      "location": 2,
+      "content": "And and so i opened this to a little place",
+      "music": 0.0
+    },
+    {
+      "from": 81.67,
+      "to": 83.53,
+      "sid": 19,
+      "location": 2,
+      "content": "You know not that i got any money",
+      "music": 0.0
+    },
+    {
+      "from": 83.53,
+      "to": 85.65,
+      "sid": 20,
+      "location": 2,
+      "content": "Telephone a lot higher than",
+      "music": 0.0
+    },
+    {
+      "from": 85.65,
+      "to": 86.45,
+      "sid": 21,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 86.45,
+      "to": 87.43,
+      "sid": 22,
+      "location": 2,
+      "content": "For walmart",
+      "music": 0.0
+    },
+    {
+      "from": 87.43,
+      "to": 88.21,
+      "sid": 23,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 88.21,
+      "to": 92.57,
+      "sid": 24,
+      "location": 2,
+      "content": "How far is the coast for back to twenty miles",
+      "music": 0.0
+    },
+    {
+      "from": 92.57,
+      "to": 93.91,
+      "sid": 25,
+      "location": 2,
+      "content": "Thirty minutes is five",
+      "music": 0.0
+    },
+    {
+      "from": 93.91,
+      "to": 95.77,
+      "sid": 26,
+      "location": 2,
+      "content": "About thirty five",
+      "music": 0.0
+    },
+    {
+      "from": 96.85,
+      "to": 102.06,
+      "sid": 27,
+      "location": 2,
+      "content": "So you basically five five hours market sell",
+      "music": 0.0
+    },
+    {
+      "from": 102.06,
+      "to": 103.84,
+      "sid": 28,
+      "location": 2,
+      "content": "When the government come in on me",
+      "music": 0.0
+    },
+    {
+      "from": 103.84,
+      "to": 106.58,
+      "sid": 29,
+      "location": 2,
+      "content": "That's why one is the government",
+      "music": 0.0
+    },
+    {
+      "from": 106.66,
+      "to": 110.04,
+      "sid": 30,
+      "location": 2,
+      "content": "I can show my record with everything that unso",
+      "music": 0.0
+    },
+    {
+      "from": 110.04,
+      "to": 111.08,
+      "sid": 31,
+      "location": 2,
+      "content": "I owe him now",
+      "music": 0.0
+    },
+    {
+      "from": 111.08,
+      "to": 113.1,
+      "sid": 32,
+      "location": 2,
+      "content": "And i'm trying to get everything straight",
+      "music": 0.0
+    },
+    {
+      "from": 113.1,
+      "to": 114.06,
+      "sid": 33,
+      "location": 2,
+      "content": "Get my texsuch",
+      "music": 0.0
+    },
+    {
+      "from": 114.06,
+      "to": 116.36,
+      "sid": 34,
+      "location": 2,
+      "content": "As without moms been over to today",
+      "music": 0.0
+    },
+    {
+      "from": 116.36,
+      "to": 117.06,
+      "sid": 35,
+      "location": 2,
+      "content": "Um",
+      "music": 0.0
+    },
+    {
+      "from": 117.06,
+      "to": 118.6,
+      "sid": 36,
+      "location": 2,
+      "content": "About three four hours",
+      "music": 0.0
+    },
+    {
+      "from": 118.6,
+      "to": 120.38,
+      "sid": 37,
+      "location": 2,
+      "content": "I had made me go",
+      "music": 0.0
+    },
+    {
+      "from": 120.38,
+      "to": 121.289,
+      "sid": 38,
+      "location": 2,
+      "content": "Oh",
+      "music": 0.0
+    },
+    {
+      "from": 121.289,
+      "to": 123.249,
+      "sid": 39,
+      "location": 2,
+      "content": "They think i make a lot of money to",
+      "music": 0.0
+    },
+    {
+      "from": 124.409,
+      "to": 127.13,
+      "sid": 40,
+      "location": 2,
+      "content": "One day have been looking to make chindoa date",
+      "music": 0.0
+    },
+    {
+      "from": 127.13,
+      "to": 132.09,
+      "sid": 41,
+      "location": 2,
+      "content": "Ten ten dollars ten out some day",
+      "music": 0.04958677481046483
+    },
+    {
+      "from": 132.09,
+      "to": 134.89,
+      "sid": 42,
+      "location": 2,
+      "content": "I'm lucky to make ten dollars a day",
+      "music": 0.0
+    },
+    {
+      "from": 134.89,
+      "to": 138.47,
+      "sid": 43,
+      "location": 2,
+      "content": "Does it is all people go through double channel or distance no",
+      "music": 0.0
+    },
+    {
+      "from": 138.47,
+      "to": 140.95,
+      "sid": 44,
+      "location": 2,
+      "content": "They then got people in nine",
+      "music": 0.0
+    },
+    {
+      "from": 140.95,
+      "to": 146.45,
+      "sid": 45,
+      "location": 2,
+      "content": "A lot of people like to go to the casino over there and go on everything you get",
+      "music": 0.0
+    },
+    {
+      "from": 146.73,
+      "to": 153.21,
+      "sid": 46,
+      "location": 2,
+      "content": "And instead of trying to put in the household and bring the money going in the household",
+      "music": 0.0
+    },
+    {
+      "from": 153.38,
+      "to": 158.06,
+      "sid": 47,
+      "location": 2,
+      "content": "People fall when people fall and rise up",
+      "music": 0.0
+    },
+    {
+      "from": 158.06,
+      "to": 159.97,
+      "sid": 48,
+      "location": 2,
+      "content": "Crarise up",
+      "music": 0.0
+    },
+    {
+      "from": 160.17,
+      "to": 161.81,
+      "sid": 49,
+      "location": 2,
+      "content": "He can get killed",
+      "music": 0.0
+    },
+    {
+      "from": 163.13,
+      "to": 168.04,
+      "sid": 50,
+      "location": 2,
+      "content": "Young man take some drugs and walked in front of h amtrak train",
+      "music": 0.0
+    },
+    {
+      "from": 168.04,
+      "to": 170.54,
+      "sid": 51,
+      "location": 2,
+      "content": "Right up right down here now",
+      "music": 0.0
+    },
+    {
+      "from": 170.54,
+      "to": 173.25,
+      "sid": 52,
+      "location": 2,
+      "content": "Walk here and kill the same",
+      "music": 0.0
+    },
+    {
+      "from": 173.25,
+      "to": 175.39,
+      "sid": 53,
+      "location": 2,
+      "content": "Walked inside of the train train",
+      "music": 0.0
+    },
+    {
+      "from": 175.39,
+      "to": 178.81,
+      "sid": 54,
+      "location": 2,
+      "content": "Children at a",
+      "music": 0.058333330902783906
+    },
+    {
+      "from": 179.08,
+      "to": 179.84,
+      "sid": 55,
+      "location": 2,
+      "content": "My son",
+      "music": 0.0
+    },
+    {
+      "from": 179.84,
+      "to": 186.62,
+      "sid": 56,
+      "location": 2,
+      "content": "The thirty grand ba and my oldest",
+      "music": 0.0
+    },
+    {
+      "from": 189.82,
+      "to": 190.92,
+      "sid": 57,
+      "location": 2,
+      "content": "Uh wow",
+      "music": 0.0
+    },
+    {
+      "from": 190.92,
+      "to": 192.26,
+      "sid": 58,
+      "location": 2,
+      "content": "Nobody steal that",
+      "music": 0.0
+    },
+    {
+      "from": 192.26,
+      "to": 194.68,
+      "sid": 59,
+      "location": 2,
+      "content": "Nobody i know that we can try to be",
+      "music": 0.0
+    },
+    {
+      "from": 194.68,
+      "to": 195.54,
+      "sid": 60,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 196.62,
+      "to": 198.15,
+      "sid": 61,
+      "location": 2,
+      "content": "So they got a job here",
+      "music": 0.0
+    },
+    {
+      "from": 198.15,
+      "to": 199.19,
+      "sid": 62,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 199.19,
+      "to": 202.17,
+      "sid": 63,
+      "location": 2,
+      "content": "They don't know it's hard to find a job",
+      "music": 0.0
+    },
+    {
+      "from": 202.17,
+      "to": 204.11,
+      "sid": 64,
+      "location": 2,
+      "content": "It's hard to find a job right here",
+      "music": 0.0
+    },
+    {
+      "from": 204.11,
+      "to": 207.655,
+      "sid": 65,
+      "location": 2,
+      "content": "They are what you call little",
+      "music": 0.0
+    },
+    {
+      "from": 208.01,
+      "to": 208.97,
+      "sid": 66,
+      "location": 2,
+      "content": "I say",
+      "music": 0.0
+    },
+    {
+      "from": 208.97,
+      "to": 211.37,
+      "sid": 67,
+      "location": 2,
+      "content": "Uh so they can't get a job",
+      "music": 0.0
+    },
+    {
+      "from": 211.37,
+      "to": 213.3,
+      "sid": 68,
+      "location": 2,
+      "content": "But they know how to work",
+      "music": 0.0
+    },
+    {
+      "from": 213.46,
+      "to": 214.12,
+      "sid": 69,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 214.12,
+      "to": 216.84,
+      "sid": 70,
+      "location": 2,
+      "content": "But they got some government money",
+      "music": 0.0
+    },
+    {
+      "from": 216.84,
+      "to": 217.7,
+      "sid": 71,
+      "location": 2,
+      "content": "They got some government",
+      "music": 0.0
+    },
+    {
+      "from": 219.34,
+      "to": 220.74,
+      "sid": 72,
+      "location": 2,
+      "content": "Doesn't control everything",
+      "music": 0.0
+    },
+    {
+      "from": 220.74,
+      "to": 224.58,
+      "sid": 73,
+      "location": 2,
+      "content": "We think everything we do everything",
+      "music": 0.0
+    },
+    {
+      "from": 224.58,
+      "to": 225.68,
+      "sid": 74,
+      "location": 2,
+      "content": "I do right here",
+      "music": 0.0
+    },
+    {
+      "from": 225.68,
+      "to": 227.54,
+      "sid": 75,
+      "location": 2,
+      "content": "I can put it down for the body",
+      "music": 0.0
+    },
+    {
+      "from": 227.54,
+      "to": 229.22,
+      "sid": 76,
+      "location": 2,
+      "content": "Because we're gonna have it here",
+      "music": 0.0
+    },
+    {
+      "from": 229.22,
+      "to": 231.34,
+      "sid": 77,
+      "location": 2,
+      "content": "Or send somebody here to me",
+      "music": 0.0
+    },
+    {
+      "from": 231.34,
+      "to": 236.69,
+      "sid": 78,
+      "location": 2,
+      "content": "Anytime i gotta have my stuff together to show what i'm making",
+      "music": 0.0
+    },
+    {
+      "from": 236.69,
+      "to": 237.25,
+      "sid": 79,
+      "location": 2,
+      "content": "Um",
+      "music": 0.0
+    },
+    {
+      "from": 237.25,
+      "to": 242.09,
+      "sid": 80,
+      "location": 2,
+      "content": "That's why i put everything on one thing about people doing a lot",
+      "music": 0.0
+    },
+    {
+      "from": 242.19,
+      "to": 243.55,
+      "sid": 81,
+      "location": 2,
+      "content": "They will tell you exactly",
+      "music": 0.0
+    },
+    {
+      "from": 243.55,
+      "to": 245.49,
+      "sid": 82,
+      "location": 2,
+      "content": "And whenever they come right",
+      "music": 0.0
+    },
+    {
+      "from": 245.49,
+      "to": 249.43,
+      "sid": 83,
+      "location": 2,
+      "content": "Like a young man came in a wallet and bought a one",
+      "music": 0.0
+    },
+    {
+      "from": 249.43,
+      "to": 250.45,
+      "sid": 84,
+      "location": 2,
+      "content": "Uh today",
+      "music": 0.0
+    },
+    {
+      "from": 250.45,
+      "to": 253.65,
+      "sid": 85,
+      "location": 2,
+      "content": "Two thousand six percent said the two options right there",
+      "music": 0.0
+    },
+    {
+      "from": 253.65,
+      "to": 254.91,
+      "sid": 86,
+      "location": 2,
+      "content": "Uh but when they come in",
+      "music": 0.0
+    },
+    {
+      "from": 254.91,
+      "to": 256.57,
+      "sid": 87,
+      "location": 2,
+      "content": "And they sign up",
+      "music": 0.0
+    },
+    {
+      "from": 256.57,
+      "to": 260.38,
+      "sid": 88,
+      "location": 2,
+      "content": "Huh and i know that where my i don't like that",
+      "music": 0.0
+    },
+    {
+      "from": 260.38,
+      "to": 263.02,
+      "sid": 89,
+      "location": 2,
+      "content": "I got to pay on this and seventy seven",
+      "music": 0.0
+    },
+    {
+      "from": 263.02,
+      "to": 264.18,
+      "sid": 90,
+      "location": 2,
+      "content": "The dollar",
+      "music": 0.0
+    },
+    {
+      "from": 265.64,
+      "to": 267.8,
+      "sid": 91,
+      "location": 2,
+      "content": "Have you seen any government people come in",
+      "music": 0.0
+    },
+    {
+      "from": 267.8,
+      "to": 268.72,
+      "sid": 92,
+      "location": 2,
+      "content": "Ask you questions",
+      "music": 0.0
+    },
+    {
+      "from": 268.72,
+      "to": 271.5,
+      "sid": 93,
+      "location": 2,
+      "content": "No not yet not only are you",
+      "music": 0.0
+    },
+    {
+      "from": 271.5,
+      "to": 275.49,
+      "sid": 94,
+      "location": 2,
+      "content": "You are the government look is a common wealth and a chinese",
+      "music": 0.0
+    },
+    {
+      "from": 275.49,
+      "to": 275.91,
+      "sid": 95,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 277.27,
+      "to": 281.26,
+      "sid": 96,
+      "location": 2,
+      "content": "If that happened to me before i had a",
+      "music": 0.0
+    },
+    {
+      "from": 281.26,
+      "to": 283.7,
+      "sid": 97,
+      "location": 2,
+      "content": "I don't have a newer and bathroom",
+      "music": 0.0
+    },
+    {
+      "from": 283.7,
+      "to": 289.17,
+      "sid": 98,
+      "location": 2,
+      "content": "But i say like twenty five thirty five three five years ago",
+      "music": 0.0
+    },
+    {
+      "from": 290.89,
+      "to": 296.06,
+      "sid": 99,
+      "location": 2,
+      "content": "They did now that you know what do most people here before this",
+      "music": 0.0
+    },
+    {
+      "from": 296.06,
+      "to": 298.1,
+      "sid": 100,
+      "location": 2,
+      "content": "Oh wow",
+      "music": 0.5624999414062228
+    },
+    {
+      "from": 298.1,
+      "to": 301.05,
+      "sid": 101,
+      "location": 2,
+      "content": "This is uh one land around here",
+      "music": 0.0
+    },
+    {
+      "from": 301.05,
+      "to": 303.93,
+      "sid": 102,
+      "location": 2,
+      "content": "Um small thing roget fun",
+      "music": 0.0
+    },
+    {
+      "from": 303.93,
+      "to": 305.09,
+      "sid": 103,
+      "location": 2,
+      "content": "Like crazy",
+      "music": 0.0
+    },
+    {
+      "from": 305.09,
+      "to": 308.15,
+      "sid": 104,
+      "location": 2,
+      "content": "They raised cotton beans and rice",
+      "music": 0.0
+    },
+    {
+      "from": 308.15,
+      "to": 309.69,
+      "sid": 105,
+      "location": 2,
+      "content": "Um uh",
+      "music": 0.0
+    },
+    {
+      "from": 309.69,
+      "to": 311.61,
+      "sid": 106,
+      "location": 2,
+      "content": "In this area cool",
+      "music": 0.0
+    },
+    {
+      "from": 311.61,
+      "to": 314.97,
+      "sid": 107,
+      "location": 2,
+      "content": "But all the new technology we got now",
+      "music": 0.0
+    },
+    {
+      "from": 314.97,
+      "to": 316.13,
+      "sid": 108,
+      "location": 2,
+      "content": "Then come down",
+      "music": 0.0
+    },
+    {
+      "from": 316.13,
+      "to": 318.619,
+      "sid": 109,
+      "location": 2,
+      "content": "Yeah so right now",
+      "music": 0.0
+    },
+    {
+      "from": 319.779,
+      "to": 321.499,
+      "sid": 110,
+      "location": 2,
+      "content": "Uh well in this area",
+      "music": 0.0
+    },
+    {
+      "from": 322.499,
+      "to": 326.729,
+      "sid": 111,
+      "location": 2,
+      "content": "And anybody got a job and paid to stick with",
+      "music": 0.0
+    },
+    {
+      "from": 327.54,
+      "to": 329.06,
+      "sid": 112,
+      "location": 2,
+      "content": "Ain't got that going on",
+      "music": 0.0
+    },
+    {
+      "from": 329.06,
+      "to": 334.11,
+      "sid": 113,
+      "location": 2,
+      "content": "And then cut all that they don't feel they know nothing",
+      "music": 0.0
+    },
+    {
+      "from": 334.11,
+      "to": 338.93,
+      "sid": 114,
+      "location": 2,
+      "content": "And now that i can't imagine back",
+      "music": 0.0
+    },
+    {
+      "from": 338.93,
+      "to": 340.59,
+      "sid": 115,
+      "location": 2,
+      "content": "Then people walk in the fields",
+      "music": 0.0
+    },
+    {
+      "from": 340.59,
+      "to": 343.12,
+      "sid": 116,
+      "location": 2,
+      "content": "Every day they were ac",
+      "music": 0.0
+    },
+    {
+      "from": 343.12,
+      "to": 344.1,
+      "sid": 117,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 344.1,
+      "to": 346.08,
+      "sid": 118,
+      "location": 2,
+      "content": "Like a small",
+      "music": 0.35820892849189123
+    },
+    {
+      "from": 346.94,
+      "to": 347.86,
+      "sid": 119,
+      "location": 2,
+      "content": "Did you obey it",
+      "music": 0.0
+    },
+    {
+      "from": 347.86,
+      "to": 350.26,
+      "sid": 120,
+      "location": 2,
+      "content": "Or you want to save some electricity",
+      "music": 0.043478258506608324
+    },
+    {
+      "from": 353.13,
+      "to": 354.45,
+      "sid": 121,
+      "location": 2,
+      "content": "You got a nice car",
+      "music": 0.0
+    },
+    {
+      "from": 354.45,
+      "to": 357.73,
+      "sid": 122,
+      "location": 2,
+      "content": "And then this is not a nice car",
+      "music": 0.0
+    },
+    {
+      "from": 357.73,
+      "to": 360.31,
+      "sid": 123,
+      "location": 2,
+      "content": "I know you call it not a nice car",
+      "music": 0.2680412232968351
+    },
+    {
+      "from": 360.31,
+      "to": 361.95,
+      "sid": 124,
+      "location": 2,
+      "content": "Like the way i see it",
+      "music": 0.0
+    },
+    {
+      "from": 361.95,
+      "to": 363.53,
+      "sid": 125,
+      "location": 2,
+      "content": "It's a real nice car",
+      "music": 0.0
+    },
+    {
+      "from": 363.53,
+      "to": 364.45,
+      "sid": 126,
+      "location": 2,
+      "content": "Chevy",
+      "music": 0.0
+    },
+    {
+      "from": 364.45,
+      "to": 365.39,
+      "sid": 127,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 365.39,
+      "to": 367.65,
+      "sid": 128,
+      "location": 2,
+      "content": "I didn't have my first car",
+      "music": 0.0
+    },
+    {
+      "from": 367.65,
+      "to": 369.0,
+      "sid": 129,
+      "location": 2,
+      "content": "When i was young",
+      "music": 0.0
+    },
+    {
+      "from": 369.0,
+      "to": 370.6,
+      "sid": 130,
+      "location": 2,
+      "content": "I was like thirty years ago",
+      "music": 0.0
+    },
+    {
+      "from": 370.6,
+      "to": 372.04,
+      "sid": 131,
+      "location": 2,
+      "content": "When i got my first car",
+      "music": 0.0
+    },
+    {
+      "from": 372.04,
+      "to": 374.06,
+      "sid": 132,
+      "location": 2,
+      "content": "I an old funeral car",
+      "music": 0.0
+    },
+    {
+      "from": 374.06,
+      "to": 375.64,
+      "sid": 133,
+      "location": 2,
+      "content": "Oh this was a funeral car",
+      "music": 0.0
+    },
+    {
+      "from": 375.64,
+      "to": 376.89,
+      "sid": 134,
+      "location": 2,
+      "content": "That's our eral",
+      "music": 0.0
+    },
+    {
+      "from": 376.89,
+      "to": 378.55,
+      "sid": 135,
+      "location": 2,
+      "content": "The whole film card",
+      "music": 0.0
+    },
+    {
+      "from": 378.55,
+      "to": 381.31,
+      "sid": 136,
+      "location": 2,
+      "content": "So i got it like thirty five hundred dollars",
+      "music": 0.0
+    },
+    {
+      "from": 381.31,
+      "to": 382.87,
+      "sid": 137,
+      "location": 2,
+      "content": "If i can sell it today",
+      "music": 0.19230767998028392
+    },
+    {
+      "from": 382.87,
+      "to": 385.65,
+      "sid": 138,
+      "location": 2,
+      "content": "I would ain't nothing wrong with",
+      "music": 0.0
+    },
+    {
+      "from": 385.65,
+      "to": 387.52,
+      "sid": 139,
+      "location": 2,
+      "content": "It ain't got nothing wrong with",
+      "music": 0.0
+    },
+    {
+      "from": 387.52,
+      "to": 388.72,
+      "sid": 140,
+      "location": 2,
+      "content": "But but if you sell it",
+      "music": 0.0
+    },
+    {
+      "from": 388.72,
+      "to": 390.66,
+      "sid": 141,
+      "location": 2,
+      "content": "You got no other ways to transportation",
+      "music": 0.0
+    },
+    {
+      "from": 390.66,
+      "to": 391.58,
+      "sid": 142,
+      "location": 2,
+      "content": "If i sell it",
+      "music": 0.0
+    },
+    {
+      "from": 391.58,
+      "to": 393.36,
+      "sid": 143,
+      "location": 2,
+      "content": "I got a truck",
+      "music": 0.0
+    },
+    {
+      "from": 393.36,
+      "to": 395.18,
+      "sid": 144,
+      "location": 2,
+      "content": "I'm trying to do a",
+      "music": 0.0
+    },
+    {
+      "from": 395.18,
+      "to": 397.78,
+      "sid": 145,
+      "location": 2,
+      "content": "I can take the money and go get the truck",
+      "music": 0.0
+    },
+    {
+      "from": 397.78,
+      "to": 399.26,
+      "sid": 146,
+      "location": 2,
+      "content": "That's what i need in the truck",
+      "music": 0.0
+    },
+    {
+      "from": 399.26,
+      "to": 400.5,
+      "sid": 147,
+      "location": 2,
+      "content": "Uh so",
+      "music": 0.0
+    },
+    {
+      "from": 400.5,
+      "to": 401.22,
+      "sid": 148,
+      "location": 2,
+      "content": "If i sell it",
+      "music": 0.0
+    },
+    {
+      "from": 401.22,
+      "to": 404.36,
+      "sid": 149,
+      "location": 2,
+      "content": "I think you might go pay out on the trucks",
+      "music": 0.0
+    },
+    {
+      "from": 404.76,
+      "to": 405.52,
+      "sid": 150,
+      "location": 2,
+      "content": "I'm curious",
+      "music": 0.0
+    },
+    {
+      "from": 405.52,
+      "to": 406.92,
+      "sid": 151,
+      "location": 2,
+      "content": "Was there like a chinese",
+      "music": 0.0
+    },
+    {
+      "from": 406.92,
+      "to": 408.46,
+      "sid": 152,
+      "location": 2,
+      "content": "Grocery store marks back",
+      "music": 0.0
+    },
+    {
+      "from": 408.46,
+      "to": 410.2,
+      "sid": 153,
+      "location": 2,
+      "content": "Then they try to sell",
+      "music": 0.0
+    },
+    {
+      "from": 411.56,
+      "to": 415.04,
+      "sid": 154,
+      "location": 2,
+      "content": "Because venus is no good",
+      "music": 0.2899999854999928
+    },
+    {
+      "from": 416.72,
+      "to": 417.98,
+      "sid": 155,
+      "location": 2,
+      "content": "And they try out",
+      "music": 0.0
+    },
+    {
+      "from": 417.98,
+      "to": 419.32,
+      "sid": 156,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 420.449,
+      "to": 423.009,
+      "sid": 157,
+      "location": 2,
+      "content": "There's a lot of chinese to get into the ground",
+      "music": 0.0
+    },
+    {
+      "from": 423.009,
+      "to": 423.649,
+      "sid": 158,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 423.649,
+      "to": 424.049,
+      "sid": 159,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 424.049,
+      "to": 424.689,
+      "sid": 160,
+      "location": 2,
+      "content": "You guys",
+      "music": 0.0
+    },
+    {
+      "from": 424.689,
+      "to": 427.309,
+      "sid": 161,
+      "location": 2,
+      "content": "There's a lot of place here long ago",
+      "music": 0.0
+    },
+    {
+      "from": 427.309,
+      "to": 429.245,
+      "sid": 162,
+      "location": 2,
+      "content": "It had a chinese place thing",
+      "music": 0.0
+    },
+    {
+      "from": 429.5,
+      "to": 432.4,
+      "sid": 163,
+      "location": 2,
+      "content": "But i think they all moved down",
+      "music": 0.07920791687090831
+    },
+    {
+      "from": 432.48,
+      "to": 434.78,
+      "sid": 164,
+      "location": 2,
+      "content": "They got older and they just moved out",
+      "music": 0.0
+    },
+    {
+      "from": 434.78,
+      "to": 435.74,
+      "sid": 165,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 435.74,
+      "to": 436.4,
+      "sid": 166,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 436.4,
+      "to": 438.12,
+      "sid": 167,
+      "location": 2,
+      "content": "Older generation models business",
+      "music": 0.0
+    },
+    {
+      "from": 439.16,
+      "to": 441.09,
+      "sid": 168,
+      "location": 2,
+      "content": "Younger generation they leave now",
+      "music": 0.0
+    },
+    {
+      "from": 441.09,
+      "to": 444.19,
+      "sid": 169,
+      "location": 2,
+      "content": "The chinese people here and you guys got along well",
+      "music": 0.0
+    },
+    {
+      "from": 444.19,
+      "to": 444.95,
+      "sid": 170,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 444.95,
+      "to": 445.33,
+      "sid": 171,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 445.33,
+      "to": 446.08,
+      "sid": 172,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 446.08,
+      "to": 447.04,
+      "sid": 173,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 448.2,
+      "to": 448.68,
+      "sid": 174,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 448.68,
+      "to": 453.1,
+      "sid": 175,
+      "location": 2,
+      "content": "Most of chinese people in this area on the floor with chinese",
+      "music": 0.0
+    },
+    {
+      "from": 453.1,
+      "to": 453.7,
+      "sid": 176,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 453.7,
+      "to": 454.62,
+      "sid": 177,
+      "location": 2,
+      "content": "They don't too much food",
+      "music": 0.0
+    },
+    {
+      "from": 454.62,
+      "to": 455.48,
+      "sid": 178,
+      "location": 2,
+      "content": "With nobody else",
+      "music": 0.0
+    },
+    {
+      "from": 455.48,
+      "to": 456.56,
+      "sid": 179,
+      "location": 2,
+      "content": "Because they don't trust",
+      "music": 0.0
+    },
+    {
+      "from": 456.56,
+      "to": 458.87,
+      "sid": 180,
+      "location": 2,
+      "content": "Nobody else see right in this area",
+      "music": 0.0
+    },
+    {
+      "from": 458.87,
+      "to": 460.51,
+      "sid": 181,
+      "location": 2,
+      "content": "It's hard to trust me",
+      "music": 0.0
+    },
+    {
+      "from": 460.51,
+      "to": 463.34,
+      "sid": 182,
+      "location": 2,
+      "content": "So it's hard to trust people around in the game",
+      "music": 0.0
+    },
+    {
+      "from": 463.34,
+      "to": 464.96,
+      "sid": 183,
+      "location": 2,
+      "content": "You got to be very careful",
+      "music": 0.0
+    },
+    {
+      "from": 464.96,
+      "to": 468.049,
+      "sid": 184,
+      "location": 2,
+      "content": "Who you're talking to at all times",
+      "music": 0.0
+    },
+    {
+      "from": 468.049,
+      "to": 469.409,
+      "sid": 185,
+      "location": 2,
+      "content": "You think i would actually something",
+      "music": 0.0
+    },
+    {
+      "from": 469.409,
+      "to": 469.769,
+      "sid": 186,
+      "location": 2,
+      "content": "Of course",
+      "music": 0.0
+    },
+    {
+      "from": 471.489,
+      "to": 472.309,
+      "sid": 187,
+      "location": 2,
+      "content": "I don't know you",
+      "music": 0.0
+    },
+    {
+      "from": 472.309,
+      "to": 473.029,
+      "sid": 188,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 473.029,
+      "to": 473.589,
+      "sid": 189,
+      "location": 2,
+      "content": "Huh",
+      "music": 0.0
+    },
+    {
+      "from": 473.589,
+      "to": 474.429,
+      "sid": 190,
+      "location": 2,
+      "content": "You look nice",
+      "music": 0.0
+    },
+    {
+      "from": 474.429,
+      "to": 474.869,
+      "sid": 191,
+      "location": 2,
+      "content": "I'm",
+      "music": 0.0
+    },
+    {
+      "from": 474.869,
+      "to": 476.13,
+      "sid": 192,
+      "location": 2,
+      "content": "I'm trying to be",
+      "music": 0.0
+    },
+    {
+      "from": 476.13,
+      "to": 477.25,
+      "sid": 193,
+      "location": 2,
+      "content": "I try to be",
+      "music": 0.0
+    },
+    {
+      "from": 477.25,
+      "to": 477.89,
+      "sid": 194,
+      "location": 2,
+      "content": "I don't",
+      "music": 0.0
+    },
+    {
+      "from": 477.89,
+      "to": 478.93,
+      "sid": 195,
+      "location": 2,
+      "content": "I don't try to run on",
+      "music": 0.0
+    },
+    {
+      "from": 478.93,
+      "to": 479.45,
+      "sid": 196,
+      "location": 2,
+      "content": "Nobody",
+      "music": 0.0
+    },
+    {
+      "from": 479.45,
+      "to": 480.65,
+      "sid": 197,
+      "location": 2,
+      "content": "I don't try to do that",
+      "music": 0.0
+    },
+    {
+      "from": 480.65,
+      "to": 481.67,
+      "sid": 198,
+      "location": 2,
+      "content": "Nobody else",
+      "music": 0.0
+    },
+    {
+      "from": 481.67,
+      "to": 482.95,
+      "sid": 199,
+      "location": 2,
+      "content": "I'll be nice to hear",
+      "music": 0.0
+    },
+    {
+      "from": 482.95,
+      "to": 483.43,
+      "sid": 200,
+      "location": 2,
+      "content": "Everybody",
+      "music": 0.0
+    },
+    {
+      "from": 483.43,
+      "to": 485.21,
+      "sid": 201,
+      "location": 2,
+      "content": "Do you got a go with you right now",
+      "music": 0.0
+    },
+    {
+      "from": 485.21,
+      "to": 486.17,
+      "sid": 202,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 486.17,
+      "to": 487.91,
+      "sid": 203,
+      "location": 2,
+      "content": "Sure you have a go with you",
+      "music": 0.0
+    },
+    {
+      "from": 487.91,
+      "to": 489.99,
+      "sid": 204,
+      "location": 2,
+      "content": "Sure i always got it going",
+      "music": 0.0
+    },
+    {
+      "from": 491.47,
+      "to": 492.73,
+      "sid": 205,
+      "location": 2,
+      "content": "We see you all the time",
+      "music": 0.0
+    },
+    {
+      "from": 493.69,
+      "to": 494.67,
+      "sid": 206,
+      "location": 2,
+      "content": "Long time",
+      "music": 0.0
+    },
+    {
+      "from": 494.67,
+      "to": 495.89,
+      "sid": 207,
+      "location": 2,
+      "content": "It's not safe",
+      "music": 0.0
+    },
+    {
+      "from": 495.89,
+      "to": 497.03,
+      "sid": 208,
+      "location": 2,
+      "content": "It's not safe",
+      "music": 0.0
+    },
+    {
+      "from": 497.03,
+      "to": 497.87,
+      "sid": 209,
+      "location": 2,
+      "content": "Not safe",
+      "music": 0.0
+    },
+    {
+      "from": 497.87,
+      "to": 499.41,
+      "sid": 210,
+      "location": 2,
+      "content": "Just like the",
+      "music": 0.0
+    },
+    {
+      "from": 499.41,
+      "to": 500.01,
+      "sid": 211,
+      "location": 2,
+      "content": "You said",
+      "music": 0.0
+    },
+    {
+      "from": 500.01,
+      "to": 503.18,
+      "sid": 212,
+      "location": 2,
+      "content": "The chinese grocery bag was shot young boy",
+      "music": 0.07968127172586416
+    },
+    {
+      "from": 503.18,
+      "to": 504.58,
+      "sid": 213,
+      "location": 2,
+      "content": "Seventeen year old",
+      "music": 0.0
+    },
+    {
+      "from": 506.1,
+      "to": 508.1,
+      "sid": 214,
+      "location": 2,
+      "content": "Seventeen year old to tell me alive",
+      "music": 0.0
+    },
+    {
+      "from": 508.1,
+      "to": 510.4,
+      "sid": 215,
+      "location": 2,
+      "content": "As long as he had half that business over there",
+      "music": 0.0
+    },
+    {
+      "from": 510.4,
+      "to": 511.92,
+      "sid": 216,
+      "location": 2,
+      "content": "He had it over thirty years",
+      "music": 0.0
+    },
+    {
+      "from": 511.92,
+      "to": 515.32,
+      "sid": 217,
+      "location": 2,
+      "content": "And a young boy came off the street and shot that man",
+      "music": 0.0
+    },
+    {
+      "from": 515.32,
+      "to": 517.42,
+      "sid": 218,
+      "location": 2,
+      "content": "He came in out man",
+      "music": 0.0
+    },
+    {
+      "from": 517.42,
+      "to": 519.0,
+      "sid": 219,
+      "location": 2,
+      "content": "I don't like it",
+      "music": 0.0
+    },
+    {
+      "from": 519.12,
+      "to": 520.7,
+      "sid": 220,
+      "location": 2,
+      "content": "How they're done about it",
+      "music": 0.0
+    },
+    {
+      "from": 520.7,
+      "to": 521.28,
+      "sid": 221,
+      "location": 2,
+      "content": "But they",
+      "music": 0.0
+    },
+    {
+      "from": 521.28,
+      "to": 521.6,
+      "sid": 222,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 521.6,
+      "to": 524.1,
+      "sid": 223,
+      "location": 2,
+      "content": "They did send him back to school",
+      "music": 0.0
+    },
+    {
+      "from": 524.1,
+      "to": 527.8,
+      "sid": 224,
+      "location": 2,
+      "content": "Go ahead to go to school and get a dedication",
+      "music": 0.0
+    },
+    {
+      "from": 528.04,
+      "to": 529.56,
+      "sid": 225,
+      "location": 2,
+      "content": "They let him go",
+      "music": 0.0
+    },
+    {
+      "from": 529.56,
+      "to": 534.78,
+      "sid": 226,
+      "location": 2,
+      "content": "I don't like that of a well known and highly respected store owner",
+      "music": 0.0
+    },
+    {
+      "from": 534.78,
+      "to": 537.68,
+      "sid": 227,
+      "location": 2,
+      "content": "The owner of d t market was gunned down friday",
+      "music": 0.0
+    },
+    {
+      "from": 537.68,
+      "to": 542.65,
+      "sid": 228,
+      "location": 2,
+      "content": "And police say they expect that whoever pulled that trigger will be charged with capital murder",
+      "music": 0.0
+    },
+    {
+      "from": 542.65,
+      "to": 546.22,
+      "sid": 229,
+      "location": 2,
+      "content": "Then there are thirty thirty five forty years a long time",
+      "music": 0.0
+    },
+    {
+      "from": 546.22,
+      "to": 548.54,
+      "sid": 230,
+      "location": 2,
+      "content": "And so clarksdale staple",
+      "music": 0.0
+    },
+    {
+      "from": 548.54,
+      "to": 550.12,
+      "sid": 231,
+      "location": 2,
+      "content": "I guess man",
+      "music": 0.0
+    },
+    {
+      "from": 550.12,
+      "to": 551.28,
+      "sid": 232,
+      "location": 2,
+      "content": "Just a great person",
+      "music": 0.0
+    },
+    {
+      "from": 551.28,
+      "to": 552.52,
+      "sid": 233,
+      "location": 2,
+      "content": "Almost role model",
+      "music": 0.0
+    },
+    {
+      "from": 552.52,
+      "to": 555.079,
+      "sid": 234,
+      "location": 2,
+      "content": "Like stuck to itself",
+      "music": 0.0
+    },
+    {
+      "from": 556.079,
+      "to": 558.73,
+      "sid": 235,
+      "location": 2,
+      "content": "Just would help anyone at any time",
+      "music": 0.0
+    },
+    {
+      "from": 558.73,
+      "to": 560.55,
+      "sid": 236,
+      "location": 2,
+      "content": "Paul was running his business good",
+      "music": 0.0
+    },
+    {
+      "from": 560.55,
+      "to": 561.35,
+      "sid": 237,
+      "location": 2,
+      "content": "Friday afternoon",
+      "music": 0.0
+    },
+    {
+      "from": 561.35,
+      "to": 565.099,
+      "sid": 238,
+      "location": 2,
+      "content": "When an attempted robbery turned deadly and he was killed",
+      "music": 0.0
+    },
+    {
+      "from": 565.099,
+      "to": 570.329,
+      "sid": 239,
+      "location": 2,
+      "content": "According to police shot before he was able to get money out of the register",
+      "music": 0.0
+    },
+    {
+      "from": 570.329,
+      "to": 573.8,
+      "sid": 240,
+      "location": 2,
+      "content": "The shooter is now being sought for capital murder",
+      "music": 0.0
+    },
+    {
+      "from": 573.8,
+      "to": 576.72,
+      "sid": 241,
+      "location": 2,
+      "content": "It's just heartbreaking that this could happen to this",
+      "music": 0.0
+    },
+    {
+      "from": 576.72,
+      "to": 577.38,
+      "sid": 242,
+      "location": 2,
+      "content": "This person",
+      "music": 0.0
+    },
+    {
+      "from": 577.38,
+      "to": 580.44,
+      "sid": 243,
+      "location": 2,
+      "content": "And he meant so much for just that area",
+      "music": 0.0
+    },
+    {
+      "from": 580.93,
+      "to": 581.69,
+      "sid": 244,
+      "location": 2,
+      "content": "That's just",
+      "music": 0.0
+    },
+    {
+      "from": 581.69,
+      "to": 582.83,
+      "sid": 245,
+      "location": 2,
+      "content": "That's a shock",
+      "music": 0.0
+    },
+    {
+      "from": 582.83,
+      "to": 584.93,
+      "sid": 246,
+      "location": 2,
+      "content": "Shortly after the fatal shooting",
+      "music": 0.0
+    },
+    {
+      "from": 590.19,
+      "to": 595.14,
+      "sid": 247,
+      "location": 2,
+      "content": "I'm asking god to cover the city of clarksdale",
+      "music": 0.0
+    },
+    {
+      "from": 595.46,
+      "to": 600.79,
+      "sid": 248,
+      "location": 2,
+      "content": "And i'm just asking for violence to stop",
+      "music": 0.0
+    },
+    {
+      "from": 600.79,
+      "to": 605.07,
+      "sid": 249,
+      "location": 2,
+      "content": "It's unknown if tnt supermarket which caters to the underserved",
+      "music": 0.0
+    },
+    {
+      "from": 605.07,
+      "to": 607.24,
+      "sid": 250,
+      "location": 2,
+      "content": "In the community will reopen",
+      "music": 0.0
+    },
+    {
+      "from": 607.24,
+      "to": 611.16,
+      "sid": 251,
+      "location": 2,
+      "content": "But there is a strong demand for justice for paul",
+      "music": 0.0
+    },
+    {
+      "from": 611.16,
+      "to": 613.52,
+      "sid": 252,
+      "location": 2,
+      "content": "Everyone that i've talked to everyone",
+      "music": 0.0
+    },
+    {
+      "from": 613.52,
+      "to": 615.8,
+      "sid": 253,
+      "location": 2,
+      "content": "Agrees that they should pay the ultimate",
+      "music": 0.0
+    },
+    {
+      "from": 615.8,
+      "to": 619.2,
+      "sid": 254,
+      "location": 2,
+      "content": "Because that guy had been in business a long time",
+      "music": 0.0
+    },
+    {
+      "from": 619.2,
+      "to": 619.88,
+      "sid": 255,
+      "location": 2,
+      "content": "Uh",
+      "music": 0.0
+    },
+    {
+      "from": 619.88,
+      "to": 622.02,
+      "sid": 256,
+      "location": 2,
+      "content": "He had served everybody around here",
+      "music": 0.0
+    },
+    {
+      "from": 622.02,
+      "to": 624.11,
+      "sid": 257,
+      "location": 2,
+      "content": "He treated everybody good",
+      "music": 0.0
+    },
+    {
+      "from": 624.43,
+      "to": 626.11,
+      "sid": 258,
+      "location": 2,
+      "content": "Everybody do it in respect",
+      "music": 0.0
+    },
+    {
+      "from": 626.11,
+      "to": 628.47,
+      "sid": 259,
+      "location": 2,
+      "content": "He didn't try to run over the life",
+      "music": 0.0
+    },
+    {
+      "from": 628.47,
+      "to": 630.76,
+      "sid": 260,
+      "location": 2,
+      "content": "And he walked in off the street",
+      "music": 0.0
+    },
+    {
+      "from": 630.76,
+      "to": 632.08,
+      "sid": 261,
+      "location": 2,
+      "content": "And he killed that man",
+      "music": 0.0
+    },
+    {
+      "from": 632.08,
+      "to": 633.72,
+      "sid": 262,
+      "location": 2,
+      "content": "And when he just opened it",
+      "music": 0.0
+    },
+    {
+      "from": 633.72,
+      "to": 635.26,
+      "sid": 263,
+      "location": 2,
+      "content": "He didn't have any money",
+      "music": 0.0
+    },
+    {
+      "from": 635.26,
+      "to": 638.9,
+      "sid": 264,
+      "location": 2,
+      "content": "He didn't have nothing because he just opened",
+      "music": 0.0
+    },
+    {
+      "from": 639.22,
+      "to": 640.2,
+      "sid": 265,
+      "location": 2,
+      "content": "I think i want",
+      "music": 0.0
+    },
+    {
+      "from": 640.2,
+      "to": 641.06,
+      "sid": 266,
+      "location": 2,
+      "content": "I don't need male",
+      "music": 0.0
+    },
+    {
+      "from": 641.06,
+      "to": 642.08,
+      "sid": 267,
+      "location": 2,
+      "content": "No male no mail",
+      "music": 0.0
+    },
+    {
+      "from": 642.08,
+      "to": 642.3,
+      "sid": 268,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 642.3,
+      "to": 643.28,
+      "sid": 269,
+      "location": 2,
+      "content": "I think that's good",
+      "music": 0.0
+    },
+    {
+      "from": 643.28,
+      "to": 644.78,
+      "sid": 270,
+      "location": 2,
+      "content": "No camovement",
+      "music": 0.0
+    },
+    {
+      "from": 644.78,
+      "to": 646.74,
+      "sid": 271,
+      "location": 2,
+      "content": "No no",
+      "music": 0.0
+    },
+    {
+      "from": 646.74,
+      "to": 647.2,
+      "sid": 272,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 647.2,
+      "to": 647.78,
+      "sid": 273,
+      "location": 2,
+      "content": "No no",
+      "music": 0.0
+    },
+    {
+      "from": 647.78,
+      "to": 648.26,
+      "sid": 274,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 648.26,
+      "to": 650.079,
+      "sid": 275,
+      "location": 2,
+      "content": "I think that's enough for me",
+      "music": 0.0
+    },
+    {
+      "from": 650.399,
+      "to": 650.759,
+      "sid": 276,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 650.759,
+      "to": 652.099,
+      "sid": 277,
+      "location": 2,
+      "content": "You got enough vegetables",
+      "music": 0.0
+    },
+    {
+      "from": 652.099,
+      "to": 654.9,
+      "sid": 278,
+      "location": 2,
+      "content": "So i like tomatoes",
+      "music": 0.0
+    },
+    {
+      "from": 656.26,
+      "to": 656.46,
+      "sid": 279,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 656.46,
+      "to": 656.62,
+      "sid": 280,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 656.62,
+      "to": 657.32,
+      "sid": 281,
+      "location": 2,
+      "content": "I gave you a big",
+      "music": 0.0
+    },
+    {
+      "from": 657.32,
+      "to": 658.3,
+      "sid": 282,
+      "location": 2,
+      "content": "Like",
+      "music": 0.0
+    }
+  ]
+}

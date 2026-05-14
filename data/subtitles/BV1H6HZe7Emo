@@ -1,0 +1,1788 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.44,
+      "to": 5.28,
+      "sid": 1,
+      "location": 2,
+      "content": "接着我来到了在2019年力压巴尔地摩",
+      "music": 0.0
+    },
+    {
+      "from": 5.28,
+      "to": 8.83,
+      "sid": 2,
+      "location": 2,
+      "content": "获得美国谋杀之都桂冠的圣路易斯的黑人区",
+      "music": 0.0
+    },
+    {
+      "from": 8.83,
+      "to": 11.53,
+      "sid": 3,
+      "location": 2,
+      "content": "这张图是圣路易斯族裔分布的地图",
+      "music": 0.0
+    },
+    {
+      "from": 11.53,
+      "to": 12.71,
+      "sid": 4,
+      "location": 2,
+      "content": "绿色代表黑人",
+      "music": 0.0
+    },
+    {
+      "from": 12.71,
+      "to": 14.129,
+      "sid": 5,
+      "location": 2,
+      "content": "而蓝色代表白人",
+      "music": 0.0
+    },
+    {
+      "from": 14.129,
+      "to": 16.549,
+      "sid": 6,
+      "location": 2,
+      "content": "然后我再在地图上面搜chop sui",
+      "music": 0.0
+    },
+    {
+      "from": 16.549,
+      "to": 18.389,
+      "sid": 7,
+      "location": 2,
+      "content": "也就是炒杂碎的意思",
+      "music": 0.0
+    },
+    {
+      "from": 18.389,
+      "to": 21.11,
+      "sid": 8,
+      "location": 2,
+      "content": "你就会发现这两者高度重合",
+      "music": 0.0
+    },
+    {
+      "from": 21.11,
+      "to": 22.79,
+      "sid": 9,
+      "location": 2,
+      "content": "今天我就带各位探索一下",
+      "music": 0.0
+    },
+    {
+      "from": 22.79,
+      "to": 24.64,
+      "sid": 10,
+      "location": 2,
+      "content": "这些黑人区里面的中餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 24.64,
+      "to": 26.56,
+      "sid": 11,
+      "location": 2,
+      "content": "之前几期圣路易斯的视频",
+      "music": 0.0
+    },
+    {
+      "from": 26.56,
+      "to": 29.28,
+      "sid": 12,
+      "location": 2,
+      "content": "只是作为一个顾客比较粗略的点了一下餐",
+      "music": 0.0
+    },
+    {
+      "from": 29.28,
+      "to": 30.88,
+      "sid": 13,
+      "location": 2,
+      "content": "今天我小霸王给大家看看",
+      "music": 0.0
+    },
+    {
+      "from": 30.88,
+      "to": 33.2,
+      "sid": 14,
+      "location": 2,
+      "content": "我最爱吃的一家黑人区中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 33.2,
+      "to": 36.08,
+      "sid": 15,
+      "location": 2,
+      "content": "顺便给大家看看这家店里面的防御工事",
+      "music": 0.0
+    },
+    {
+      "from": 36.08,
+      "to": 37.92,
+      "sid": 16,
+      "location": 2,
+      "content": "这家叫mearing in的餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 37.92,
+      "to": 40.35,
+      "sid": 17,
+      "location": 2,
+      "content": "位于圣路易斯黑人区的主干道上",
+      "music": 0.0
+    },
+    {
+      "from": 40.35,
+      "to": 42.61,
+      "sid": 18,
+      "location": 2,
+      "content": "他这家店隔壁就是一家卖酒的",
+      "music": 0.0
+    },
+    {
+      "from": 42.61,
+      "to": 45.79,
+      "sid": 19,
+      "location": 2,
+      "content": "所以说这算是附近兄弟们的一个小聚集地了",
+      "music": 0.0
+    },
+    {
+      "from": 45.79,
+      "to": 47.709,
+      "sid": 20,
+      "location": 2,
+      "content": "现在我进屋子里面看看",
+      "music": 0.0
+    },
+    {
+      "from": 47.709,
+      "to": 50.009,
+      "sid": 21,
+      "location": 2,
+      "content": "里面只有一张糖吃的桌子",
+      "music": 0.0
+    },
+    {
+      "from": 50.009,
+      "to": 51.749,
+      "sid": 22,
+      "location": 2,
+      "content": "毕竟愿意留在这块区域",
+      "music": 0.0
+    },
+    {
+      "from": 51.749,
+      "to": 53.55,
+      "sid": 23,
+      "location": 2,
+      "content": "堂食的顾客也不算很多",
+      "music": 0.0
+    },
+    {
+      "from": 53.55,
+      "to": 55.55,
+      "sid": 24,
+      "location": 2,
+      "content": "这块区域的chop su与中餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 55.55,
+      "to": 58.11,
+      "sid": 25,
+      "location": 2,
+      "content": "大部分都是只有一个带窗的点餐口",
+      "music": 0.0
+    },
+    {
+      "from": 58.11,
+      "to": 60.19,
+      "sid": 26,
+      "location": 2,
+      "content": "有的地方连桌子都没有条件",
+      "music": 0.0
+    },
+    {
+      "from": 60.19,
+      "to": 62.4,
+      "sid": 27,
+      "location": 2,
+      "content": "稍微好一点的地方会给你一个椅子",
+      "music": 0.0
+    },
+    {
+      "from": 62.4,
+      "to": 64.129,
+      "sid": 28,
+      "location": 2,
+      "content": "等菜的时候让你坐着",
+      "music": 0.0
+    },
+    {
+      "from": 64.129,
+      "to": 66.009,
+      "sid": 29,
+      "location": 2,
+      "content": "不过我为了做这个市场调研",
+      "music": 0.0
+    },
+    {
+      "from": 66.009,
+      "to": 68.669,
+      "sid": 30,
+      "location": 2,
+      "content": "也是吃了好多家这些的黑人区中餐馆啊",
+      "music": 0.0
+    },
+    {
+      "from": 68.669,
+      "to": 70.78,
+      "sid": 31,
+      "location": 2,
+      "content": "我最喜欢的还是这家mandarin in",
+      "music": 0.0
+    },
+    {
+      "from": 70.78,
+      "to": 73.04,
+      "sid": 32,
+      "location": 2,
+      "content": "他们这个炒饭加上鸭腿面的套餐",
+      "music": 0.0
+    },
+    {
+      "from": 73.04,
+      "to": 74.56,
+      "sid": 33,
+      "location": 2,
+      "content": "加起来只要十美元",
+      "music": 0.0
+    },
+    {
+      "from": 74.56,
+      "to": 77.11,
+      "sid": 34,
+      "location": 2,
+      "content": "也是比较贴合本地的消费能力",
+      "music": 0.0
+    },
+    {
+      "from": 77.11,
+      "to": 78.11,
+      "sid": 35,
+      "location": 2,
+      "content": "我去了好几次",
+      "music": 0.0
+    },
+    {
+      "from": 78.11,
+      "to": 79.38,
+      "sid": 36,
+      "location": 2,
+      "content": "也跟老板混熟了",
+      "music": 0.0
+    },
+    {
+      "from": 79.38,
+      "to": 81.7,
+      "sid": 37,
+      "location": 2,
+      "content": "主要还是因为这些黑人去中餐馆里面",
+      "music": 0.0
+    },
+    {
+      "from": 81.7,
+      "to": 83.3,
+      "sid": 38,
+      "location": 2,
+      "content": "基本上没有中国人顾客",
+      "music": 0.0
+    },
+    {
+      "from": 83.3,
+      "to": 85.02,
+      "sid": 39,
+      "location": 2,
+      "content": "不知道老观众还记不记得",
+      "music": 0.0
+    },
+    {
+      "from": 85.02,
+      "to": 87.56,
+      "sid": 40,
+      "location": 2,
+      "content": "之前我带黑人小孩去吃中餐的那期",
+      "music": 0.0
+    },
+    {
+      "from": 87.56,
+      "to": 89.2,
+      "sid": 41,
+      "location": 2,
+      "content": "那个老板一开始听我说中文",
+      "music": 0.0
+    },
+    {
+      "from": 89.2,
+      "to": 90.92,
+      "sid": 42,
+      "location": 2,
+      "content": "一下子都没有反应过来",
+      "music": 0.0
+    },
+    {
+      "from": 90.92,
+      "to": 94.42,
+      "sid": 43,
+      "location": 2,
+      "content": "这这个地方是一般没有中国人来哼",
+      "music": 0.0
+    },
+    {
+      "from": 94.42,
+      "to": 96.709,
+      "sid": 44,
+      "location": 2,
+      "content": "在这里第一个说中文",
+      "music": 0.0
+    },
+    {
+      "from": 96.709,
+      "to": 98.269,
+      "sid": 45,
+      "location": 2,
+      "content": "我是第一个说中文的",
+      "music": 0.0
+    },
+    {
+      "from": 98.269,
+      "to": 99.449,
+      "sid": 46,
+      "location": 2,
+      "content": "你在这里十几年",
+      "music": 0.0
+    },
+    {
+      "from": 99.449,
+      "to": 102.27,
+      "sid": 47,
+      "location": 2,
+      "content": "不过我遇到的这些华人老板对我都不错",
+      "music": 0.0
+    },
+    {
+      "from": 102.27,
+      "to": 104.17,
+      "sid": 48,
+      "location": 2,
+      "content": "像是带小孩子吃饭的那期",
+      "music": 0.0
+    },
+    {
+      "from": 104.17,
+      "to": 105.39,
+      "sid": 49,
+      "location": 2,
+      "content": "老板给我抹了零",
+      "music": 0.0
+    },
+    {
+      "from": 105.39,
+      "to": 108.729,
+      "sid": 50,
+      "location": 2,
+      "content": "然后这家mandarin in的老板送了我一个炸鸡翅",
+      "music": 0.0
+    },
+    {
+      "from": 108.729,
+      "to": 110.189,
+      "sid": 51,
+      "location": 2,
+      "content": "等下全部吃掉了",
+      "music": 0.0
+    },
+    {
+      "from": 110.189,
+      "to": 111.029,
+      "sid": 52,
+      "location": 2,
+      "content": "很好吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.029,
+      "to": 112.789,
+      "sid": 53,
+      "location": 2,
+      "content": "主要你们这个油不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 112.789,
+      "to": 113.889,
+      "sid": 54,
+      "location": 2,
+      "content": "你都吃了吗",
+      "music": 0.0
+    },
+    {
+      "from": 113.889,
+      "to": 115.989,
+      "sid": 55,
+      "location": 2,
+      "content": "哦你从什么地方来啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.989,
+      "to": 118.08,
+      "sid": 56,
+      "location": 2,
+      "content": "嗯对行业嗯",
+      "music": 0.0
+    },
+    {
+      "from": 118.08,
+      "to": 119.1,
+      "sid": 57,
+      "location": 2,
+      "content": "我在南京业",
+      "music": 0.0
+    },
+    {
+      "from": 119.1,
+      "to": 120.84,
+      "sid": 58,
+      "location": 2,
+      "content": "那在南京不行啊",
+      "music": 0.0
+    },
+    {
+      "from": 120.84,
+      "to": 123.42,
+      "sid": 59,
+      "location": 2,
+      "content": "应该我从镇昌滚州出去哦",
+      "music": 0.0
+    },
+    {
+      "from": 123.42,
+      "to": 126.26,
+      "sid": 60,
+      "location": 2,
+      "content": "买出去我要不要帮你宣传一下什么",
+      "music": 0.0
+    },
+    {
+      "from": 126.26,
+      "to": 127.72,
+      "sid": 61,
+      "location": 2,
+      "content": "我帮你宣传一下",
+      "music": 0.0
+    },
+    {
+      "from": 127.72,
+      "to": 129.76,
+      "sid": 62,
+      "location": 2,
+      "content": "帮你advertise一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 129.76,
+      "to": 133.65,
+      "sid": 63,
+      "location": 2,
+      "content": "advertisement哎哎呦哎我要点广告啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.65,
+      "to": 138.29,
+      "sid": 64,
+      "location": 2,
+      "content": "广告广告广告帮你走",
+      "music": 0.0
+    },
+    {
+      "from": 138.29,
+      "to": 139.85,
+      "sid": 65,
+      "location": 2,
+      "content": "拍一拍",
+      "music": 0.0
+    },
+    {
+      "from": 142.39,
+      "to": 143.71,
+      "sid": 66,
+      "location": 2,
+      "content": "还阿姨啊",
+      "music": 0.0
+    },
+    {
+      "from": 143.71,
+      "to": 145.15,
+      "sid": 67,
+      "location": 2,
+      "content": "这3年我不单身",
+      "music": 0.0
+    },
+    {
+      "from": 145.15,
+      "to": 149.679,
+      "sid": 68,
+      "location": 2,
+      "content": "但是我们南京啊啊有问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 149.679,
+      "to": 150.779,
+      "sid": 69,
+      "location": 2,
+      "content": "这里很热",
+      "music": 0.0
+    },
+    {
+      "from": 150.779,
+      "to": 153.879,
+      "sid": 70,
+      "location": 2,
+      "content": "因为我经常青椒很麻烦啊",
+      "music": 0.0
+    },
+    {
+      "from": 153.879,
+      "to": 155.44,
+      "sid": 71,
+      "location": 2,
+      "content": "怕不啊",
+      "music": 0.0
+    },
+    {
+      "from": 155.44,
+      "to": 157.06,
+      "sid": 72,
+      "location": 2,
+      "content": "那燕郊我想租出去",
+      "music": 0.0
+    },
+    {
+      "from": 157.06,
+      "to": 158.12,
+      "sid": 73,
+      "location": 2,
+      "content": "要卖出去",
+      "music": 0.0
+    },
+    {
+      "from": 158.12,
+      "to": 160.46,
+      "sid": 74,
+      "location": 2,
+      "content": "但是很难很难卖出去",
+      "music": 0.0
+    },
+    {
+      "from": 160.46,
+      "to": 161.26,
+      "sid": 75,
+      "location": 2,
+      "content": "租出去哦",
+      "music": 0.0
+    },
+    {
+      "from": 164.0,
+      "to": 166.0,
+      "sid": 76,
+      "location": 2,
+      "content": "都还可以的还可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 166.0,
+      "to": 168.24,
+      "sid": 77,
+      "location": 2,
+      "content": "那你看看到我家米小兵啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.24,
+      "to": 171.36,
+      "sid": 78,
+      "location": 2,
+      "content": "呃呃呃有车围围围栏啊",
+      "music": 0.0833333301767669
+    },
+    {
+      "from": 171.36,
+      "to": 172.28,
+      "sid": 79,
+      "location": 2,
+      "content": "你过来啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.28,
+      "to": 173.54,
+      "sid": 80,
+      "location": 2,
+      "content": "有围栏啊",
+      "music": 0.0
+    },
+    {
+      "from": 173.54,
+      "to": 177.41,
+      "sid": 81,
+      "location": 2,
+      "content": "OK歪歪歪鸡蛋啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.02,
+      "to": 185.1,
+      "sid": 82,
+      "location": 2,
+      "content": "这个肉啊",
+      "music": 0.0
+    },
+    {
+      "from": 185.1,
+      "to": 187.98,
+      "sid": 83,
+      "location": 2,
+      "content": "这个要不要的不是那么黑了",
+      "music": 0.0
+    },
+    {
+      "from": 187.98,
+      "to": 189.56,
+      "sid": 84,
+      "location": 2,
+      "content": "这个要是有这个不好",
+      "music": 0.0
+    },
+    {
+      "from": 189.56,
+      "to": 190.32,
+      "sid": 85,
+      "location": 2,
+      "content": "我叫不好",
+      "music": 0.0
+    },
+    {
+      "from": 190.32,
+      "to": 191.58,
+      "sid": 86,
+      "location": 2,
+      "content": "我叫倒钓啊",
+      "music": 0.0
+    },
+    {
+      "from": 191.58,
+      "to": 193.04,
+      "sid": 87,
+      "location": 2,
+      "content": "有人不倒雕哦",
+      "music": 0.0
+    },
+    {
+      "from": 193.04,
+      "to": 194.82,
+      "sid": 88,
+      "location": 2,
+      "content": "做炒饭给人家钱",
+      "music": 0.0
+    },
+    {
+      "from": 194.82,
+      "to": 196.0,
+      "sid": 89,
+      "location": 2,
+      "content": "我懂很多很多",
+      "music": 0.0
+    },
+    {
+      "from": 196.0,
+      "to": 197.659,
+      "sid": 90,
+      "location": 2,
+      "content": "有的哦是啊",
+      "music": 0.0
+    },
+    {
+      "from": 197.659,
+      "to": 201.579,
+      "sid": 91,
+      "location": 2,
+      "content": "我的腰很很很干净很俊",
+      "music": 0.0
+    },
+    {
+      "from": 202.4,
+      "to": 202.96,
+      "sid": 92,
+      "location": 2,
+      "content": "看看",
+      "music": 0.0
+    },
+    {
+      "from": 205.32,
+      "to": 208.89,
+      "sid": 93,
+      "location": 2,
+      "content": "我在这看了一天还没钱哦",
+      "music": 0.0
+    },
+    {
+      "from": 208.89,
+      "to": 212.55,
+      "sid": 94,
+      "location": 2,
+      "content": "有围栏的围栏很安全啊",
+      "music": 0.0
+    },
+    {
+      "from": 212.55,
+      "to": 215.95,
+      "sid": 95,
+      "location": 2,
+      "content": "我以里有一些住餐馆里的住住餐馆呢",
+      "music": 0.0
+    },
+    {
+      "from": 215.95,
+      "to": 216.91,
+      "sid": 96,
+      "location": 2,
+      "content": "啊哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 216.91,
+      "to": 218.17,
+      "sid": 97,
+      "location": 2,
+      "content": "我帮你广告啊",
+      "music": 0.0
+    },
+    {
+      "from": 218.17,
+      "to": 221.07,
+      "sid": 98,
+      "location": 2,
+      "content": "广告广告我都自己说什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 221.07,
+      "to": 222.37,
+      "sid": 99,
+      "location": 2,
+      "content": "我叫你去告密",
+      "music": 0.0
+    },
+    {
+      "from": 222.37,
+      "to": 223.25,
+      "sid": 100,
+      "location": 2,
+      "content": "对啊",
+      "music": 0.0
+    },
+    {
+      "from": 223.25,
+      "to": 224.57,
+      "sid": 101,
+      "location": 2,
+      "content": "去你家餐馆呢",
+      "music": 0.0
+    },
+    {
+      "from": 224.57,
+      "to": 226.69,
+      "sid": 102,
+      "location": 2,
+      "content": "我做到好开心啊",
+      "music": 0.0
+    },
+    {
+      "from": 226.69,
+      "to": 229.34,
+      "sid": 103,
+      "location": 2,
+      "content": "我老婆的老婆大家好",
+      "music": 0.0
+    },
+    {
+      "from": 229.34,
+      "to": 232.57,
+      "sid": 104,
+      "location": 2,
+      "content": "俺真的是有点问题需要重来",
+      "music": 0.0
+    },
+    {
+      "from": 232.57,
+      "to": 234.71,
+      "sid": 105,
+      "location": 2,
+      "content": "我想买张车买车",
+      "music": 0.0
+    },
+    {
+      "from": 234.71,
+      "to": 235.93,
+      "sid": 106,
+      "location": 2,
+      "content": "我坐车",
+      "music": 0.0
+    },
+    {
+      "from": 235.93,
+      "to": 238.53,
+      "sid": 107,
+      "location": 2,
+      "content": "然后一朋友有意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 238.53,
+      "to": 241.05,
+      "sid": 108,
+      "location": 2,
+      "content": "帮我联络联络不啊",
+      "music": 0.0
+    },
+    {
+      "from": 241.05,
+      "to": 242.33,
+      "sid": 109,
+      "location": 2,
+      "content": "小姐姐吗",
+      "music": 0.0
+    },
+    {
+      "from": 242.33,
+      "to": 243.67,
+      "sid": 110,
+      "location": 2,
+      "content": "啊那谁不行啊",
+      "music": 0.0
+    },
+    {
+      "from": 243.67,
+      "to": 244.87,
+      "sid": 111,
+      "location": 2,
+      "content": "好我我不知道",
+      "music": 0.0
+    },
+    {
+      "from": 244.87,
+      "to": 247.5,
+      "sid": 112,
+      "location": 2,
+      "content": "到时候交给观众来翻译啊",
+      "music": 0.0
+    },
+    {
+      "from": 247.5,
+      "to": 248.1,
+      "sid": 113,
+      "location": 2,
+      "content": "八点呃",
+      "music": 0.0
+    },
+    {
+      "from": 248.1,
+      "to": 249.12,
+      "sid": 114,
+      "location": 2,
+      "content": "面对哦",
+      "music": 0.0
+    },
+    {
+      "from": 249.12,
+      "to": 251.28,
+      "sid": 115,
+      "location": 2,
+      "content": "讲的是黄附庸的啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.28,
+      "to": 252.85,
+      "sid": 116,
+      "location": 2,
+      "content": "要过来啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.85,
+      "to": 255.01,
+      "sid": 117,
+      "location": 2,
+      "content": "有很多人光过于我不懂啊",
+      "music": 0.0
+    },
+    {
+      "from": 255.01,
+      "to": 256.93,
+      "sid": 118,
+      "location": 2,
+      "content": "试试讲试试讲哦",
+      "music": 0.0
+    },
+    {
+      "from": 256.93,
+      "to": 258.17,
+      "sid": 119,
+      "location": 2,
+      "content": "英国是这样",
+      "music": 0.0
+    },
+    {
+      "from": 258.17,
+      "to": 259.05,
+      "sid": 120,
+      "location": 2,
+      "content": "你会请我过来",
+      "music": 0.0
+    },
+    {
+      "from": 259.05,
+      "to": 260.89,
+      "sid": 121,
+      "location": 2,
+      "content": "不懂啊啊是啊",
+      "music": 0.0
+    },
+    {
+      "from": 260.89,
+      "to": 261.57,
+      "sid": 122,
+      "location": 2,
+      "content": "没办法啦",
+      "music": 0.0
+    },
+    {
+      "from": 261.57,
+      "to": 265.36,
+      "sid": 123,
+      "location": 2,
+      "content": "西西西西讲玩玩那点点那点点了",
+      "music": 0.0
+    },
+    {
+      "from": 265.36,
+      "to": 270.08,
+      "sid": 124,
+      "location": 2,
+      "content": "捐小小车和基地投的有机滴滴",
+      "music": 0.0
+    },
+    {
+      "from": 270.08,
+      "to": 273.72,
+      "sid": 125,
+      "location": 2,
+      "content": "人家是好心开心舒服啊",
+      "music": 0.0
+    },
+    {
+      "from": 273.72,
+      "to": 276.5,
+      "sid": 126,
+      "location": 2,
+      "content": "所以我捐钱捐的少没问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 276.5,
+      "to": 280.249,
+      "sid": 127,
+      "location": 2,
+      "content": "所有人家是单快餐甜花嗯",
+      "music": 0.0
+    },
+    {
+      "from": 280.249,
+      "to": 281.109,
+      "sid": 128,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 281.109,
+      "to": 283.329,
+      "sid": 129,
+      "location": 2,
+      "content": "这个真的香啊",
+      "music": 0.0
+    },
+    {
+      "from": 283.64,
+      "to": 285.64,
+      "sid": 130,
+      "location": 2,
+      "content": "这个炒面可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 285.64,
+      "to": 287.78,
+      "sid": 131,
+      "location": 2,
+      "content": "里面有这个小鱿鱼虾",
+      "music": 0.0
+    },
+    {
+      "from": 287.78,
+      "to": 289.98,
+      "sid": 132,
+      "location": 2,
+      "content": "然后豆芽什么的",
+      "music": 0.0
+    },
+    {
+      "from": 289.98,
+      "to": 292.4,
+      "sid": 133,
+      "location": 2,
+      "content": "虾和油已经被我挑完了",
+      "music": 0.0
+    },
+    {
+      "from": 292.4,
+      "to": 294.98,
+      "sid": 134,
+      "location": 2,
+      "content": "然后这个炸鸡的水准和上次一样",
+      "music": 0.0
+    },
+    {
+      "from": 294.98,
+      "to": 297.08,
+      "sid": 135,
+      "location": 2,
+      "content": "都很送了瓶水",
+      "music": 0.0
+    },
+    {
+      "from": 298.92,
+      "to": 299.72,
+      "sid": 136,
+      "location": 2,
+      "content": "一个月之后",
+      "music": 0.0
+    },
+    {
+      "from": 299.72,
+      "to": 301.92,
+      "sid": 137,
+      "location": 2,
+      "content": "我正好带一个爱好黑人文化的B友",
+      "music": 0.0
+    },
+    {
+      "from": 301.92,
+      "to": 303.89,
+      "sid": 138,
+      "location": 2,
+      "content": "逛一下圣路易斯的黑人区啊",
+      "music": 0.0
+    },
+    {
+      "from": 303.89,
+      "to": 306.75,
+      "sid": 139,
+      "location": 2,
+      "content": "我本来打算再带他来体验一下这家餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 306.75,
+      "to": 309.87,
+      "sid": 140,
+      "location": 2,
+      "content": "后来我发现这个餐馆竟然没有在营业时间开门",
+      "music": 0.0
+    },
+    {
+      "from": 309.87,
+      "to": 312.87,
+      "sid": 141,
+      "location": 2,
+      "content": "门口还有不少兄弟姐妹们排队等着吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 312.87,
+      "to": 314.78,
+      "sid": 142,
+      "location": 2,
+      "content": "不知道是什么情况",
+      "music": 0.0
+    },
+    {
+      "from": 314.78,
+      "to": 318.2,
+      "sid": 143,
+      "location": 2,
+      "content": "那么我就带着大家看看这边周围是什么情况吧",
+      "music": 0.0
+    },
+    {
+      "from": 318.2,
+      "to": 320.88,
+      "sid": 144,
+      "location": 2,
+      "content": "首先呢就是这家汽车零部件店",
+      "music": 0.0
+    },
+    {
+      "from": 320.88,
+      "to": 324.69,
+      "sid": 145,
+      "location": 2,
+      "content": "里面的员工和顾客都是本地人哦",
+      "music": 0.0
+    },
+    {
+      "from": 324.69,
+      "to": 325.81,
+      "sid": 146,
+      "location": 2,
+      "content": "就是很空旷呀",
+      "music": 0.0
+    },
+    {
+      "from": 325.81,
+      "to": 328.15,
+      "sid": 147,
+      "location": 2,
+      "content": "就是没有没有什么人",
+      "music": 0.0
+    },
+    {
+      "from": 328.71,
+      "to": 330.73,
+      "sid": 148,
+      "location": 2,
+      "content": "你要不要去那个gas station",
+      "music": 0.0
+    },
+    {
+      "from": 330.73,
+      "to": 332.85,
+      "sid": 149,
+      "location": 2,
+      "content": "gas station更热闹一点",
+      "music": 0.0
+    },
+    {
+      "from": 332.85,
+      "to": 336.16,
+      "sid": 150,
+      "location": 2,
+      "content": "如果你想去的话",
+      "music": 0.0
+    },
+    {
+      "from": 344.36,
+      "to": 347.31,
+      "sid": 151,
+      "location": 2,
+      "content": "哦草是吗",
+      "music": 0.0
+    },
+    {
+      "from": 347.31,
+      "to": 349.99,
+      "sid": 152,
+      "location": 2,
+      "content": "你觉得你觉得前面我不知道怎么去看看吧",
+      "music": 0.0
+    },
+    {
+      "from": 349.99,
+      "to": 352.31,
+      "sid": 153,
+      "location": 2,
+      "content": "前面有点有点怕了",
+      "music": 0.0
+    },
+    {
+      "from": 352.31,
+      "to": 353.31,
+      "sid": 154,
+      "location": 2,
+      "content": "有点怕了吗",
+      "music": 0.0
+    },
+    {
+      "from": 353.31,
+      "to": 354.23,
+      "sid": 155,
+      "location": 2,
+      "content": "其实还好啊",
+      "music": 0.0
+    },
+    {
+      "from": 354.23,
+      "to": 356.37,
+      "sid": 156,
+      "location": 2,
+      "content": "就是正常人在加油而已",
+      "music": 0.0
+    },
+    {
+      "from": 356.37,
+      "to": 357.53,
+      "sid": 157,
+      "location": 2,
+      "content": "我们要去那边干嘛",
+      "music": 0.0
+    },
+    {
+      "from": 357.53,
+      "to": 358.49,
+      "sid": 158,
+      "location": 2,
+      "content": "要买补水",
+      "music": 0.0
+    },
+    {
+      "from": 358.49,
+      "to": 360.29,
+      "sid": 159,
+      "location": 2,
+      "content": "可以买去水",
+      "music": 0.0
+    },
+    {
+      "from": 374.92,
+      "to": 377.56,
+      "sid": 160,
+      "location": 2,
+      "content": "我们在周围转了一圈回来",
+      "music": 0.0
+    },
+    {
+      "from": 377.56,
+      "to": 379.12,
+      "sid": 161,
+      "location": 2,
+      "content": "发现这个店还是锁着的",
+      "music": 0.0
+    },
+    {
+      "from": 379.12,
+      "to": 382.039,
+      "sid": 162,
+      "location": 2,
+      "content": "然后这个门口的姐姐还一直在等着开门",
+      "music": 0.0
+    },
+    {
+      "from": 382.039,
+      "to": 385.339,
+      "sid": 163,
+      "location": 2,
+      "content": "于是善良的B友跟他进行了一些友好的交谈",
+      "music": 0.0
+    },
+    {
+      "from": 385.339,
+      "to": 387.679,
+      "sid": 164,
+      "location": 2,
+      "content": "我也试图打电话联系一下店主",
+      "music": 0.0
+    },
+    {
+      "from": 387.679,
+      "to": 388.82,
+      "sid": 165,
+      "location": 2,
+      "content": "但是没有接",
+      "music": 0.0
+    },
+    {
+      "from": 388.82,
+      "to": 390.7,
+      "sid": 166,
+      "location": 2,
+      "content": "于是我们就传送到了圣路易斯",
+      "music": 0.0
+    },
+    {
+      "from": 390.7,
+      "to": 392.5,
+      "sid": 167,
+      "location": 2,
+      "content": "唯一一家黑人开的中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 392.5,
+      "to": 394.4,
+      "sid": 168,
+      "location": 2,
+      "content": "没想到这家店不仅做外卖",
+      "music": 0.0
+    },
+    {
+      "from": 394.4,
+      "to": 396.58,
+      "sid": 169,
+      "location": 2,
+      "content": "里面糖吃和等菜的人都有",
+      "music": 0.0
+    },
+    {
+      "from": 396.58,
+      "to": 399.22,
+      "sid": 170,
+      "location": 2,
+      "content": "这边的老板和所有的员工都是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 399.22,
+      "to": 401.62,
+      "sid": 171,
+      "location": 2,
+      "content": "但是它里面卖的东西和其他的chop sui",
+      "music": 0.0
+    },
+    {
+      "from": 401.62,
+      "to": 402.98,
+      "sid": 172,
+      "location": 2,
+      "content": "中餐馆都是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 402.98,
+      "to": 403.78,
+      "sid": 173,
+      "location": 2,
+      "content": "我也问了一下",
+      "music": 0.0
+    },
+    {
+      "from": 403.78,
+      "to": 406.24,
+      "sid": 174,
+      "location": 2,
+      "content": "为什么他们黑人自己要开一家中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 406.24,
+      "to": 407.89,
+      "sid": 175,
+      "location": 2,
+      "content": "没想到答案是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 407.89,
+      "to": 408.57,
+      "sid": 176,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 408.57,
+      "to": 409.15,
+      "sid": 177,
+      "location": 2,
+      "content": "Like the other",
+      "music": 0.0
+    },
+    {
+      "from": 409.15,
+      "to": 410.45,
+      "sid": 178,
+      "location": 2,
+      "content": "Like other chinese places",
+      "music": 0.0
+    },
+    {
+      "from": 410.45,
+      "to": 411.67,
+      "sid": 179,
+      "location": 2,
+      "content": "Sometimes they get sick",
+      "music": 0.0
+    },
+    {
+      "from": 411.67,
+      "to": 413.57,
+      "sid": 180,
+      "location": 2,
+      "content": "And so they don't just created their own",
+      "music": 0.0
+    },
+    {
+      "from": 413.57,
+      "to": 414.07,
+      "sid": 181,
+      "location": 2,
+      "content": "Much now",
+      "music": 0.0
+    },
+    {
+      "from": 414.07,
+      "to": 415.32,
+      "sid": 182,
+      "location": 2,
+      "content": "Oh they got sick",
+      "music": 0.0
+    },
+    {
+      "from": 416.38,
+      "to": 418.52,
+      "sid": 183,
+      "location": 2,
+      "content": "不知道大家觉得黑人自己开的店",
+      "music": 0.0
+    },
+    {
+      "from": 418.52,
+      "to": 420.17,
+      "sid": 184,
+      "location": 2,
+      "content": "卫生情况怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 420.17,
+      "to": 421.73,
+      "sid": 185,
+      "location": 2,
+      "content": "松山会有吐司啊",
+      "music": 0.0
+    },
+    {
+      "from": 421.73,
+      "to": 424.159,
+      "sid": 186,
+      "location": 2,
+      "content": "哪个松开会有吐司吗",
+      "music": 0.0
+    },
+    {
+      "from": 424.159,
+      "to": 426.479,
+      "sid": 187,
+      "location": 2,
+      "content": "他这个等菜时间太久了",
+      "music": 0.0
+    },
+    {
+      "from": 426.479,
+      "to": 427.259,
+      "sid": 188,
+      "location": 2,
+      "content": "咱就不点了",
+      "music": 0.0
+    },
+    {
+      "from": 427.259,
+      "to": 428.899,
+      "sid": 189,
+      "location": 2,
+      "content": "但是给大家讲解一下",
+      "music": 0.0
+    },
+    {
+      "from": 428.899,
+      "to": 431.539,
+      "sid": 190,
+      "location": 2,
+      "content": "这个叫做圣保罗三明治",
+      "music": 0.0
+    },
+    {
+      "from": 431.539,
+      "to": 433.259,
+      "sid": 191,
+      "location": 2,
+      "content": "是1940年代的华人",
+      "music": 0.0
+    },
+    {
+      "from": 433.259,
+      "to": 436.15,
+      "sid": 192,
+      "location": 2,
+      "content": "在圣路易斯原有的唐人街发明的融合菜",
+      "music": 0.0
+    },
+    {
+      "from": 436.15,
+      "to": 439.21,
+      "sid": 193,
+      "location": 2,
+      "content": "总的来说就是汉堡里面的肉饼换成了芙蓉蛋",
+      "music": 0.0
+    },
+    {
+      "from": 439.21,
+      "to": 440.67,
+      "sid": 194,
+      "location": 2,
+      "content": "一般是两片白面包",
+      "music": 0.0
+    },
+    {
+      "from": 440.67,
+      "to": 441.51,
+      "sid": 195,
+      "location": 2,
+      "content": "加上生菜",
+      "music": 0.0
+    },
+    {
+      "from": 441.51,
+      "to": 442.59,
+      "sid": 196,
+      "location": 2,
+      "content": "番茄酸黄瓜",
+      "music": 0.0
+    },
+    {
+      "from": 442.59,
+      "to": 443.72,
+      "sid": 197,
+      "location": 2,
+      "content": "还有蛋黄酱",
+      "music": 0.0
+    },
+    {
+      "from": 443.72,
+      "to": 444.36,
+      "sid": 198,
+      "location": 2,
+      "content": "这个菜",
+      "music": 0.0
+    },
+    {
+      "from": 444.36,
+      "to": 446.72,
+      "sid": 199,
+      "location": 2,
+      "content": "基本上只有在圣路易斯都会区的传统",
+      "music": 0.0
+    },
+    {
+      "from": 446.72,
+      "to": 447.92,
+      "sid": 200,
+      "location": 2,
+      "content": "中餐厅里面含有",
+      "music": 0.0
+    },
+    {
+      "from": 447.92,
+      "to": 450.72,
+      "sid": 201,
+      "location": 2,
+      "content": "在美国别的地区基本上没有见到过",
+      "music": 0.0
+    },
+    {
+      "from": 450.72,
+      "to": 453.88,
+      "sid": 202,
+      "location": 2,
+      "content": "虽然说现在圣保罗三明治还是很受欢迎",
+      "music": 0.0
+    },
+    {
+      "from": 453.88,
+      "to": 455.32,
+      "sid": 203,
+      "location": 2,
+      "content": "但是圣路易斯的唐人街",
+      "music": 0.0
+    },
+    {
+      "from": 455.32,
+      "to": 457.24,
+      "sid": 204,
+      "location": 2,
+      "content": "由于1960年代的城市更新",
+      "music": 0.0
+    },
+    {
+      "from": 457.24,
+      "to": 458.72,
+      "sid": 205,
+      "location": 2,
+      "content": "已经不复存在了",
+      "music": 0.0
+    },
+    {
+      "from": 458.72,
+      "to": 461.56,
+      "sid": 206,
+      "location": 2,
+      "content": "而黑人区便宜的房租和对中餐的高需求",
+      "music": 0.0
+    },
+    {
+      "from": 461.56,
+      "to": 464.549,
+      "sid": 207,
+      "location": 2,
+      "content": "也就成为了那些老式中餐馆的新去处",
+      "music": 0.0
+    },
+    {
+      "from": 464.549,
+      "to": 465.869,
+      "sid": 208,
+      "location": 2,
+      "content": "再加上中国人以外",
+      "music": 0.0
+    },
+    {
+      "from": 465.869,
+      "to": 468.12,
+      "sid": 209,
+      "location": 2,
+      "content": "很少有人愿意在黑人区做生意",
+      "music": 0.0
+    },
+    {
+      "from": 468.12,
+      "to": 470.88,
+      "sid": 210,
+      "location": 2,
+      "content": "因此圣路易斯黑人区的炒杂碎中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 470.88,
+      "to": 473.169,
+      "sid": 211,
+      "location": 2,
+      "content": "算是当地最常见的餐厅选择",
+      "music": 0.0
+    },
+    {
+      "from": 473.169,
+      "to": 475.029,
+      "sid": 212,
+      "location": 2,
+      "content": "里面不止卖美式中餐",
+      "music": 0.0
+    },
+    {
+      "from": 475.029,
+      "to": 476.349,
+      "sid": 213,
+      "location": 2,
+      "content": "不少还卖炸鸡",
+      "music": 0.0
+    },
+    {
+      "from": 476.349,
+      "to": 478.68,
+      "sid": 214,
+      "location": 2,
+      "content": "炸鱼以及很多黑人爱吃的东西",
+      "music": 0.0
+    },
+    {
+      "from": 478.68,
+      "to": 480.96,
+      "sid": 215,
+      "location": 2,
+      "content": "我觉得他们炸的味道确实是相当的",
+      "music": 0.0
+    },
+    {
+      "from": 480.96,
+      "to": 484.16,
+      "sid": 216,
+      "location": 2,
+      "content": "好像是之前那期那些小朋友去的中餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 484.16,
+      "to": 485.919,
+      "sid": 217,
+      "location": 2,
+      "content": "也点的是他们的炸鸡",
+      "music": 0.0
+    },
+    {
+      "from": 485.919,
+      "to": 487.239,
+      "sid": 218,
+      "location": 2,
+      "content": "要想生意兴隆",
+      "music": 0.0
+    },
+    {
+      "from": 487.239,
+      "to": 490.659,
+      "sid": 219,
+      "location": 2,
+      "content": "这些店确实也应该把本地人爱吃的菜修炼好",
+      "music": 0.0
+    },
+    {
+      "from": 490.659,
+      "to": 493.399,
+      "sid": 220,
+      "location": 2,
+      "content": "各位B友们想去这些地方尝尝看吗",
+      "music": 0.0
+    },
+    {
+      "from": 493.399,
+      "to": 495.199,
+      "sid": 221,
+      "location": 2,
+      "content": "好了这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 495.199,
+      "to": 498.26,
+      "sid": 222,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

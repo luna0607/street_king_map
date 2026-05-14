@@ -1,0 +1,1292 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.4,
+      "sid": 1,
+      "location": 2,
+      "content": "我今天在美国最穷州",
+      "music": 0.0
+    },
+    {
+      "from": 1.4,
+      "to": 3.42,
+      "sid": 2,
+      "location": 2,
+      "content": "密西西比州的一个全黑人教堂",
+      "music": 0.0
+    },
+    {
+      "from": 3.42,
+      "to": 4.86,
+      "sid": 3,
+      "location": 2,
+      "content": "吃上了他们的免费饭",
+      "music": 0.0
+    },
+    {
+      "from": 4.86,
+      "to": 7.84,
+      "sid": 4,
+      "location": 2,
+      "content": "这个教堂位于密西西比州的地尼卡和北地尼卡",
+      "music": 0.0
+    },
+    {
+      "from": 7.84,
+      "to": 9.149,
+      "sid": 5,
+      "location": 2,
+      "content": "小镇的高速边",
+      "music": 0.0
+    },
+    {
+      "from": 9.149,
+      "to": 11.739,
+      "sid": 6,
+      "location": 2,
+      "content": "这边也算是美国最贫困的地区之一",
+      "music": 0.0
+    },
+    {
+      "from": 11.739,
+      "to": 14.779,
+      "sid": 7,
+      "location": 2,
+      "content": "北帝尼卡的平均收入还不到1万3000美元一年",
+      "music": 0.0
+    },
+    {
+      "from": 14.779,
+      "to": 17.58,
+      "sid": 8,
+      "location": 2,
+      "content": "而其中25%的人口都在贫困线以下",
+      "music": 0.0
+    },
+    {
+      "from": 17.58,
+      "to": 20.68,
+      "sid": 9,
+      "location": 2,
+      "content": "而北地尼卡的人口构成90%都是黑人",
+      "music": 0.0
+    },
+    {
+      "from": 20.68,
+      "to": 22.64,
+      "sid": 10,
+      "location": 2,
+      "content": "虽然说帝尼卡的白人要多一些",
+      "music": 0.0
+    },
+    {
+      "from": 22.64,
+      "to": 25.42,
+      "sid": 11,
+      "location": 2,
+      "content": "但是这个地方是美国当年种族隔离最严重的",
+      "music": 0.0
+    },
+    {
+      "from": 25.42,
+      "to": 26.3,
+      "sid": 12,
+      "location": 2,
+      "content": "密西西比州",
+      "music": 0.0
+    },
+    {
+      "from": 26.3,
+      "to": 26.94,
+      "sid": 13,
+      "location": 2,
+      "content": "到了今天",
+      "music": 0.0
+    },
+    {
+      "from": 26.94,
+      "to": 28.62,
+      "sid": 14,
+      "location": 2,
+      "content": "依旧是白人去白人的教堂",
+      "music": 0.0
+    },
+    {
+      "from": 28.62,
+      "to": 31.3,
+      "sid": 15,
+      "location": 2,
+      "content": "黑人去黑人的那这块地区很少有亚洲人",
+      "music": 0.0
+    },
+    {
+      "from": 31.3,
+      "to": 32.62,
+      "sid": 16,
+      "location": 2,
+      "content": "所以说我这么一个外来者",
+      "music": 0.0
+    },
+    {
+      "from": 32.62,
+      "to": 34.4,
+      "sid": 17,
+      "location": 2,
+      "content": "一进去就吸引到了不少目光",
+      "music": 0.0
+    },
+    {
+      "from": 34.4,
+      "to": 36.04,
+      "sid": 18,
+      "location": 2,
+      "content": "很多人主动跑来问候我",
+      "music": 0.0
+    },
+    {
+      "from": 36.04,
+      "to": 38.68,
+      "sid": 19,
+      "location": 2,
+      "content": "他们主牧师的儿子直接送了一瓶水给我",
+      "music": 0.0
+    },
+    {
+      "from": 38.68,
+      "to": 40.72,
+      "sid": 20,
+      "location": 2,
+      "content": "我这个人对宗教是没有什么研究",
+      "music": 0.0
+    },
+    {
+      "from": 40.72,
+      "to": 42.64,
+      "sid": 21,
+      "location": 2,
+      "content": "但是我知道一般这种周日的聚会",
+      "music": 0.0
+    },
+    {
+      "from": 42.64,
+      "to": 44.54,
+      "sid": 22,
+      "location": 2,
+      "content": "肯定有不少社区性质的东西",
+      "music": 0.0
+    },
+    {
+      "from": 44.54,
+      "to": 46.24,
+      "sid": 23,
+      "location": 2,
+      "content": "比如说他们会庆祝一些事情",
+      "music": 0.0
+    },
+    {
+      "from": 46.24,
+      "to": 47.68,
+      "sid": 24,
+      "location": 2,
+      "content": "像是谁过生日啦",
+      "music": 0.0
+    },
+    {
+      "from": 47.68,
+      "to": 49.3,
+      "sid": 25,
+      "location": 2,
+      "content": "谁家的小孩拿了什么奖啦",
+      "music": 0.0
+    },
+    {
+      "from": 49.3,
+      "to": 51.3,
+      "sid": 26,
+      "location": 2,
+      "content": "Is my first in my diary",
+      "music": 0.42105260941828254
+    },
+    {
+      "from": 51.3,
+      "to": 55.67,
+      "sid": 27,
+      "location": 2,
+      "content": "我come on man for basketball",
+      "music": 0.0
+    },
+    {
+      "from": 55.67,
+      "to": 60.43,
+      "sid": 28,
+      "location": 2,
+      "content": "And i got defmvp for football too ha",
+      "music": 0.0
+    },
+    {
+      "from": 61.19,
+      "to": 64.49,
+      "sid": 29,
+      "location": 2,
+      "content": "So they have like different students that make their own design",
+      "music": 0.03749999882812429
+    },
+    {
+      "from": 64.49,
+      "to": 65.95,
+      "sid": 30,
+      "location": 2,
+      "content": "And they should be when they like",
+      "music": 0.0
+    },
+    {
+      "from": 65.95,
+      "to": 66.15,
+      "sid": 31,
+      "location": 2,
+      "content": "This",
+      "music": 0.0
+    },
+    {
+      "from": 66.15,
+      "to": 66.64,
+      "sid": 32,
+      "location": 2,
+      "content": "Is one",
+      "music": 0.0
+    },
+    {
+      "from": 77.12,
+      "to": 79.869,
+      "sid": 33,
+      "location": 2,
+      "content": "My birthday student si those seven",
+      "music": 0.0
+    },
+    {
+      "from": 79.869,
+      "to": 80.829,
+      "sid": 34,
+      "location": 2,
+      "content": "And i cream",
+      "music": 0.0
+    },
+    {
+      "from": 80.829,
+      "to": 83.479,
+      "sid": 35,
+      "location": 2,
+      "content": "Seventeb",
+      "music": 0.0
+    },
+    {
+      "from": 89.18,
+      "to": 90.86,
+      "sid": 36,
+      "location": 2,
+      "content": "My birthday was june twenty day night",
+      "music": 0.0
+    },
+    {
+      "from": 90.86,
+      "to": 91.58,
+      "sid": 37,
+      "location": 2,
+      "content": "And i'm forty",
+      "music": 0.0
+    },
+    {
+      "from": 93.3,
+      "to": 94.78,
+      "sid": 38,
+      "location": 2,
+      "content": "My friday is jing two one",
+      "music": 0.0
+    },
+    {
+      "from": 94.78,
+      "to": 96.46,
+      "sid": 39,
+      "location": 2,
+      "content": "Second nand fifty three",
+      "music": 0.0
+    },
+    {
+      "from": 96.46,
+      "to": 98.14,
+      "sid": 40,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 105.909,
+      "to": 107.229,
+      "sid": 41,
+      "location": 2,
+      "content": "Jonny eleven",
+      "music": 0.0
+    },
+    {
+      "from": 107.229,
+      "to": 109.869,
+      "sid": 42,
+      "location": 2,
+      "content": "Six nine",
+      "music": 0.0
+    },
+    {
+      "from": 120.31,
+      "to": 121.87,
+      "sid": 43,
+      "location": 2,
+      "content": "就是",
+      "music": 0.09929077309994482
+    },
+    {
+      "from": 123.87,
+      "to": 125.85,
+      "sid": 44,
+      "location": 2,
+      "content": "我本来只是打算过来看看就走",
+      "music": 0.0
+    },
+    {
+      "from": 125.85,
+      "to": 128.169,
+      "sid": 45,
+      "location": 2,
+      "content": "结果他们非常热情的让我留下吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 128.169,
+      "to": 130.729,
+      "sid": 46,
+      "location": 2,
+      "content": "而且本来的计划是让那些上台展示的人",
+      "music": 0.0
+    },
+    {
+      "from": 130.729,
+      "to": 131.609,
+      "sid": 47,
+      "location": 2,
+      "content": "先去拿饭",
+      "music": 0.0
+    },
+    {
+      "from": 131.609,
+      "to": 133.889,
+      "sid": 48,
+      "location": 2,
+      "content": "结果他们强烈要求我去第一个吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 133.889,
+      "to": 135.55,
+      "sid": 49,
+      "location": 2,
+      "content": "搞得我特别不好意思",
+      "music": 0.0
+    },
+    {
+      "from": 135.55,
+      "to": 137.76,
+      "sid": 50,
+      "location": 2,
+      "content": "其实他们的菜品选择很多啊",
+      "music": 0.0
+    },
+    {
+      "from": 137.76,
+      "to": 140.78,
+      "sid": 51,
+      "location": 2,
+      "content": "只是说我肯定没有那么厚的脸皮去拿一堆吃的",
+      "music": 0.0
+    },
+    {
+      "from": 140.78,
+      "to": 143.9,
+      "sid": 52,
+      "location": 2,
+      "content": "于是我就随手拿了一个西瓜和这个鸡肉配饼干",
+      "music": 0.0
+    },
+    {
+      "from": 143.9,
+      "to": 145.88,
+      "sid": 53,
+      "location": 2,
+      "content": "再加上他们给我倒的甜茶",
+      "music": 0.0
+    },
+    {
+      "from": 145.88,
+      "to": 147.84,
+      "sid": 54,
+      "location": 2,
+      "content": "我飞速的把饭吃完了",
+      "music": 0.0
+    },
+    {
+      "from": 147.84,
+      "to": 151.04,
+      "sid": 55,
+      "location": 2,
+      "content": "因为我这个亚洲人实在是在他们里面太显眼了",
+      "music": 0.0
+    },
+    {
+      "from": 151.04,
+      "to": 152.28,
+      "sid": 56,
+      "location": 2,
+      "content": "而且我走出去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 152.28,
+      "to": 153.9,
+      "sid": 57,
+      "location": 2,
+      "content": "那个酒廊还特别的狭小",
+      "music": 0.0
+    },
+    {
+      "from": 153.9,
+      "to": 155.28,
+      "sid": 58,
+      "location": 2,
+      "content": "还在排队等着吃饭的",
+      "music": 0.0
+    },
+    {
+      "from": 155.28,
+      "to": 156.72,
+      "sid": 59,
+      "location": 2,
+      "content": "每个人都跑来跟我问好",
+      "music": 0.0
+    },
+    {
+      "from": 156.72,
+      "to": 157.75,
+      "sid": 60,
+      "location": 2,
+      "content": "寒暄什么的",
+      "music": 0.0
+    },
+    {
+      "from": 157.75,
+      "to": 160.59,
+      "sid": 61,
+      "location": 2,
+      "content": "我第一次也算是体验到了明星一般的待遇",
+      "music": 0.0
+    },
+    {
+      "from": 160.59,
+      "to": 162.03,
+      "sid": 62,
+      "location": 2,
+      "content": "包括里面的几个长老啊",
+      "music": 0.0
+    },
+    {
+      "from": 162.03,
+      "to": 164.01,
+      "sid": 63,
+      "location": 2,
+      "content": "牧师什么都主动跟我搭话",
+      "music": 0.0
+    },
+    {
+      "from": 164.01,
+      "to": 166.91,
+      "sid": 64,
+      "location": 2,
+      "content": "热情的让我这个社恐想挖一个洞钻进去",
+      "music": 0.0
+    },
+    {
+      "from": 166.91,
+      "to": 167.45,
+      "sid": 65,
+      "location": 2,
+      "content": "吃完饭",
+      "music": 0.0
+    },
+    {
+      "from": 167.45,
+      "to": 169.15,
+      "sid": 66,
+      "location": 2,
+      "content": "我去他们的这个居民区看一看",
+      "music": 0.0
+    },
+    {
+      "from": 169.15,
+      "to": 171.78,
+      "sid": 67,
+      "location": 2,
+      "content": "我刚刚经过的都是北帝尼卡的鱼洞房",
+      "music": 0.0
+    },
+    {
+      "from": 171.78,
+      "to": 173.7,
+      "sid": 68,
+      "location": 2,
+      "content": "这也是美国最便宜的房型",
+      "music": 0.0
+    },
+    {
+      "from": 173.7,
+      "to": 175.02,
+      "sid": 69,
+      "location": 2,
+      "content": "离开北地尼卡",
+      "music": 0.0
+    },
+    {
+      "from": 175.02,
+      "to": 177.71,
+      "sid": 70,
+      "location": 2,
+      "content": "我来到地尼卡的核心商业区看一看",
+      "music": 0.0
+    },
+    {
+      "from": 177.71,
+      "to": 179.97,
+      "sid": 71,
+      "location": 2,
+      "content": "帝尼卡曾经是美国最穷的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 179.97,
+      "to": 182.55,
+      "sid": 72,
+      "location": 2,
+      "content": "一度连像样的污水处理系统都没有",
+      "music": 0.0
+    },
+    {
+      "from": 182.55,
+      "to": 183.75,
+      "sid": 73,
+      "location": 2,
+      "content": "但是最近30年",
+      "music": 0.0
+    },
+    {
+      "from": 183.75,
+      "to": 185.85,
+      "sid": 74,
+      "location": 2,
+      "content": "当地的经济状况有了很大的改进",
+      "music": 0.0
+    },
+    {
+      "from": 185.85,
+      "to": 187.65,
+      "sid": 75,
+      "location": 2,
+      "content": "因为从1990年开始",
+      "music": 0.0
+    },
+    {
+      "from": 187.65,
+      "to": 190.79,
+      "sid": 76,
+      "location": 2,
+      "content": "在蒂尼卡县连着开了好几家很大的赌场",
+      "music": 0.0
+    },
+    {
+      "from": 190.79,
+      "to": 194.12,
+      "sid": 77,
+      "location": 2,
+      "content": "这个地方离田纳西的大城市孟菲斯不算很远",
+      "music": 0.0
+    },
+    {
+      "from": 194.12,
+      "to": 196.76,
+      "sid": 78,
+      "location": 2,
+      "content": "而整个田纳西州都是禁止赌博的",
+      "music": 0.0
+    },
+    {
+      "from": 196.76,
+      "to": 199.58,
+      "sid": 79,
+      "location": 2,
+      "content": "因此好几家大赌场都选址在地尼卡北边",
+      "music": 0.0
+    },
+    {
+      "from": 199.58,
+      "to": 201.42,
+      "sid": 80,
+      "location": 2,
+      "content": "靠近田纳西州的农田里",
+      "music": 0.0
+    },
+    {
+      "from": 201.42,
+      "to": 204.31,
+      "sid": 81,
+      "location": 2,
+      "content": "这也给当地提供了不少税收和就业机会",
+      "music": 0.0
+    },
+    {
+      "from": 204.31,
+      "to": 206.61,
+      "sid": 82,
+      "location": 2,
+      "content": "这算是农业以外的支柱产业了",
+      "music": 0.0
+    },
+    {
+      "from": 206.61,
+      "to": 208.85,
+      "sid": 83,
+      "location": 2,
+      "content": "现在去他们这个本地超市逛一逛",
+      "music": 0.0
+    },
+    {
+      "from": 208.85,
+      "to": 210.23,
+      "sid": 84,
+      "location": 2,
+      "content": "小镇也就1000个人",
+      "music": 0.0
+    },
+    {
+      "from": 210.23,
+      "to": 211.79,
+      "sid": 85,
+      "location": 2,
+      "content": "大家也都互相认识",
+      "music": 0.0
+    },
+    {
+      "from": 211.79,
+      "to": 212.87,
+      "sid": 86,
+      "location": 2,
+      "content": "我在排队的时候",
+      "music": 0.0
+    },
+    {
+      "from": 212.87,
+      "to": 214.49,
+      "sid": 87,
+      "location": 2,
+      "content": "前面两个人直接聊嗨了",
+      "music": 0.0
+    },
+    {
+      "from": 214.49,
+      "to": 217.15,
+      "sid": 88,
+      "location": 2,
+      "content": "顺便给B友们列一下黑人口音听力",
+      "music": 0.0
+    },
+    {
+      "from": 217.15,
+      "to": 219.04,
+      "sid": 89,
+      "location": 2,
+      "content": "They are you b",
+      "music": 0.2678571189413309
+    },
+    {
+      "from": 219.04,
+      "to": 220.37,
+      "sid": 90,
+      "location": 2,
+      "content": "拜拜喽",
+      "music": 0.0
+    },
+    {
+      "from": 221.17,
+      "to": 222.51,
+      "sid": 91,
+      "location": 2,
+      "content": "So you come on now",
+      "music": 0.0
+    },
+    {
+      "from": 222.51,
+      "to": 224.25,
+      "sid": 92,
+      "location": 2,
+      "content": "I know how you",
+      "music": 0.0
+    },
+    {
+      "from": 224.25,
+      "to": 228.29,
+      "sid": 93,
+      "location": 2,
+      "content": "这首歌是这个超市来的",
+      "music": 0.0
+    },
+    {
+      "from": 228.29,
+      "to": 229.329,
+      "sid": 94,
+      "location": 2,
+      "content": "都是本地居民",
+      "music": 0.0
+    },
+    {
+      "from": 229.329,
+      "to": 232.229,
+      "sid": 95,
+      "location": 2,
+      "content": "给我一种国内乡下村口超市的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 232.229,
+      "to": 234.609,
+      "sid": 96,
+      "location": 2,
+      "content": "我买了一个曼妥思和一大桶水",
+      "music": 0.0
+    },
+    {
+      "from": 234.609,
+      "to": 235.729,
+      "sid": 97,
+      "location": 2,
+      "content": "2.41美元",
+      "music": 0.0
+    },
+    {
+      "from": 235.729,
+      "to": 236.76,
+      "sid": 98,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 236.76,
+      "to": 238.2,
+      "sid": 99,
+      "location": 2,
+      "content": "在超市购物之后",
+      "music": 0.0
+    },
+    {
+      "from": 238.2,
+      "to": 239.9,
+      "sid": 100,
+      "location": 2,
+      "content": "我很快就发现自己饿了",
+      "music": 0.0
+    },
+    {
+      "from": 239.9,
+      "to": 242.56,
+      "sid": 101,
+      "location": 2,
+      "content": "本来想去这个镇上唯一一家中餐厅吃个饭",
+      "music": 0.0
+    },
+    {
+      "from": 242.56,
+      "to": 243.68,
+      "sid": 102,
+      "location": 2,
+      "content": "但是看了一眼菜",
+      "music": 0.0
+    },
+    {
+      "from": 243.68,
+      "to": 245.04,
+      "sid": 103,
+      "location": 2,
+      "content": "但我就不是很想吃",
+      "music": 0.0
+    },
+    {
+      "from": 245.04,
+      "to": 246.32,
+      "sid": 104,
+      "location": 2,
+      "content": "于是我就买了一瓶水",
+      "music": 0.0
+    },
+    {
+      "from": 246.32,
+      "to": 247.24,
+      "sid": 105,
+      "location": 2,
+      "content": "意思一下",
+      "music": 0.0
+    },
+    {
+      "from": 247.24,
+      "to": 248.94,
+      "sid": 106,
+      "location": 2,
+      "content": "不过这个老板娘人挺好",
+      "music": 0.0
+    },
+    {
+      "from": 248.94,
+      "to": 249.88,
+      "sid": 107,
+      "location": 2,
+      "content": "跟我聊了不少",
+      "music": 0.6428570280612668
+    },
+    {
+      "from": 249.88,
+      "to": 251.42,
+      "sid": 108,
+      "location": 2,
+      "content": "这个小镇怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 251.42,
+      "to": 253.04,
+      "sid": 109,
+      "location": 2,
+      "content": "嗯都OK了",
+      "music": 0.0
+    },
+    {
+      "from": 253.04,
+      "to": 254.06,
+      "sid": 110,
+      "location": 2,
+      "content": "都得都挺好",
+      "music": 0.0
+    },
+    {
+      "from": 254.06,
+      "to": 255.62,
+      "sid": 111,
+      "location": 2,
+      "content": "哎呀都没好",
+      "music": 0.0
+    },
+    {
+      "from": 255.62,
+      "to": 258.85,
+      "sid": 112,
+      "location": 2,
+      "content": "这里小山呢没有学校",
+      "music": 0.0
+    },
+    {
+      "from": 258.85,
+      "to": 260.61,
+      "sid": 113,
+      "location": 2,
+      "content": "小镇的小小人",
+      "music": 0.0
+    },
+    {
+      "from": 260.61,
+      "to": 264.54,
+      "sid": 114,
+      "location": 2,
+      "content": "那去那里多一点点少一点的哦",
+      "music": 0.0
+    },
+    {
+      "from": 264.54,
+      "to": 265.54,
+      "sid": 115,
+      "location": 2,
+      "content": "啊哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 265.54,
+      "to": 266.38,
+      "sid": 116,
+      "location": 2,
+      "content": "这边没什么事",
+      "music": 0.0
+    },
+    {
+      "from": 266.38,
+      "to": 268.26,
+      "sid": 117,
+      "location": 2,
+      "content": "没也没有什么饭店什么的",
+      "music": 0.0
+    },
+    {
+      "from": 268.26,
+      "to": 268.82,
+      "sid": 118,
+      "location": 2,
+      "content": "没有啊",
+      "music": 0.0
+    },
+    {
+      "from": 268.82,
+      "to": 272.74,
+      "sid": 119,
+      "location": 2,
+      "content": "这有我这个放的是我这里一根红肠的先啊",
+      "music": 0.0
+    },
+    {
+      "from": 272.74,
+      "to": 274.14,
+      "sid": 120,
+      "location": 2,
+      "content": "那个是有没有那个吗",
+      "music": 0.0
+    },
+    {
+      "from": 274.14,
+      "to": 276.16,
+      "sid": 121,
+      "location": 2,
+      "content": "咱想一马三餐",
+      "music": 0.0
+    },
+    {
+      "from": 276.16,
+      "to": 276.68,
+      "sid": 122,
+      "location": 2,
+      "content": "麦当劳",
+      "music": 0.0
+    },
+    {
+      "from": 276.68,
+      "to": 278.62,
+      "sid": 123,
+      "location": 2,
+      "content": "麦当劳马马马呃",
+      "music": 0.0
+    },
+    {
+      "from": 278.62,
+      "to": 279.66,
+      "sid": 124,
+      "location": 2,
+      "content": "麦当墨西哥",
+      "music": 0.0
+    },
+    {
+      "from": 279.66,
+      "to": 282.26,
+      "sid": 125,
+      "location": 2,
+      "content": "那墨西哥233那边哦",
+      "music": 0.0
+    },
+    {
+      "from": 282.26,
+      "to": 283.72,
+      "sid": 126,
+      "location": 2,
+      "content": "那下面好金呢",
+      "music": 0.0
+    },
+    {
+      "from": 283.72,
+      "to": 285.06,
+      "sid": 127,
+      "location": 2,
+      "content": "10号那里呀",
+      "music": 0.0
+    },
+    {
+      "from": 285.74,
+      "to": 287.74,
+      "sid": 128,
+      "location": 2,
+      "content": "那你来这里是里开店多久",
+      "music": 0.0
+    },
+    {
+      "from": 287.74,
+      "to": 289.06,
+      "sid": 129,
+      "location": 2,
+      "content": "我都叫你开店",
+      "music": 0.0
+    },
+    {
+      "from": 289.06,
+      "to": 290.08,
+      "sid": 130,
+      "location": 2,
+      "content": "都15年了",
+      "music": 0.0
+    },
+    {
+      "from": 290.08,
+      "to": 290.78,
+      "sid": 131,
+      "location": 2,
+      "content": "15年了",
+      "music": 0.0
+    },
+    {
+      "from": 290.78,
+      "to": 295.31,
+      "sid": 132,
+      "location": 2,
+      "content": "这样那你先我跟任泉新那里认识20多年了",
+      "music": 0.0
+    },
+    {
+      "from": 295.31,
+      "to": 296.38,
+      "sid": 133,
+      "location": 2,
+      "content": "在这里哦",
+      "music": 0.0
+    },
+    {
+      "from": 296.38,
+      "to": 297.78,
+      "sid": 134,
+      "location": 2,
+      "content": "你先去麦菲斯再过来",
+      "music": 0.0
+    },
+    {
+      "from": 297.78,
+      "to": 299.42,
+      "sid": 135,
+      "location": 2,
+      "content": "嗯嗯那我就在海边",
+      "music": 0.0
+    },
+    {
+      "from": 299.42,
+      "to": 301.94,
+      "sid": 136,
+      "location": 2,
+      "content": "那个假设没法子搞大",
+      "music": 0.0
+    },
+    {
+      "from": 301.94,
+      "to": 305.44,
+      "sid": 137,
+      "location": 2,
+      "content": "以前我的method是做48号来找个烧饭",
+      "music": 0.0
+    },
+    {
+      "from": 305.44,
+      "to": 306.68,
+      "sid": 138,
+      "location": 2,
+      "content": "全带鱼哦",
+      "music": 0.0
+    },
+    {
+      "from": 307.14,
+      "to": 310.33,
+      "sid": 139,
+      "location": 2,
+      "content": "我其实挺想在本地吃点比较有地方特色的食物",
+      "music": 0.0
+    },
+    {
+      "from": 310.33,
+      "to": 313.02,
+      "sid": 140,
+      "location": 2,
+      "content": "可惜我找了半天没有那种黑人料理店",
+      "music": 0.0
+    },
+    {
+      "from": 313.02,
+      "to": 315.82,
+      "sid": 141,
+      "location": 2,
+      "content": "不过我无意间发现这边公路边的一个加油站",
+      "music": 0.0
+    },
+    {
+      "from": 315.82,
+      "to": 317.38,
+      "sid": 142,
+      "location": 2,
+      "content": "里面有卖美国南方菜",
+      "music": 0.0
+    },
+    {
+      "from": 317.38,
+      "to": 319.78,
+      "sid": 143,
+      "location": 2,
+      "content": "我一进去看到这么多本地人在排队",
+      "music": 0.0
+    },
+    {
+      "from": 319.78,
+      "to": 321.81,
+      "sid": 144,
+      "location": 2,
+      "content": "就觉得味道应该会很不错",
+      "music": 0.0
+    },
+    {
+      "from": 321.81,
+      "to": 324.85,
+      "sid": 145,
+      "location": 2,
+      "content": "他们这边最有特色的是这个带骨头的炸鲶鱼",
+      "music": 0.0
+    },
+    {
+      "from": 324.85,
+      "to": 327.37,
+      "sid": 146,
+      "location": 2,
+      "content": "因为大部分美国白人只吃脱骨的",
+      "music": 0.0
+    },
+    {
+      "from": 327.37,
+      "to": 328.57,
+      "sid": 147,
+      "location": 2,
+      "content": "这种带骨头的鲶鱼",
+      "music": 0.0
+    },
+    {
+      "from": 328.57,
+      "to": 329.78,
+      "sid": 148,
+      "location": 2,
+      "content": "我还是第一次见",
+      "music": 0.0
+    },
+    {
+      "from": 329.78,
+      "to": 332.7,
+      "sid": 149,
+      "location": 2,
+      "content": "其他比较有特色的就是炸秋葵炸鸡",
+      "music": 0.0
+    },
+    {
+      "from": 332.7,
+      "to": 335.49,
+      "sid": 150,
+      "location": 2,
+      "content": "还有每次都能见到的意大利面和钢豆",
+      "music": 0.0
+    },
+    {
+      "from": 335.49,
+      "to": 336.45,
+      "sid": 151,
+      "location": 2,
+      "content": "最神奇的是",
+      "music": 0.0
+    },
+    {
+      "from": 336.45,
+      "to": 338.13,
+      "sid": 152,
+      "location": 2,
+      "content": "这家店是也门人开的",
+      "music": 0.0
+    },
+    {
+      "from": 338.13,
+      "to": 340.03,
+      "sid": 153,
+      "location": 2,
+      "content": "所有的店员也都是中东人",
+      "music": 0.0
+    },
+    {
+      "from": 340.03,
+      "to": 342.11,
+      "sid": 154,
+      "location": 2,
+      "content": "他们炸的鱼真的非常的酥脆",
+      "music": 0.0
+    },
+    {
+      "from": 342.11,
+      "to": 344.33,
+      "sid": 155,
+      "location": 2,
+      "content": "再加上我是钢豆的重度爱好者",
+      "music": 0.0
+    },
+    {
+      "from": 344.33,
+      "to": 345.61,
+      "sid": 156,
+      "location": 2,
+      "content": "于是我又买了一份",
+      "music": 0.0
+    },
+    {
+      "from": 345.61,
+      "to": 347.55,
+      "sid": 157,
+      "location": 2,
+      "content": "然后我就把后备箱当成桌子",
+      "music": 0.0
+    },
+    {
+      "from": 347.55,
+      "to": 349.599,
+      "sid": 158,
+      "location": 2,
+      "content": "把两份全部造了好了",
+      "music": 0.0
+    },
+    {
+      "from": 349.599,
+      "to": 350.859,
+      "sid": 159,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 350.859,
+      "to": 353.66,
+      "sid": 160,
+      "location": 2,
+      "content": "关注我带你去更多正常而不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

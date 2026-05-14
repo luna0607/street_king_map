@@ -1,0 +1,1604 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.4,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了西雅图最顶级的富人区",
+      "music": 0.0
+    },
+    {
+      "from": 2.4,
+      "to": 5.24,
+      "sid": 2,
+      "location": 2,
+      "content": "也是比尔盖茨和亚马逊老板贝佐斯的老巢",
+      "music": 0.0
+    },
+    {
+      "from": 5.24,
+      "to": 6.79,
+      "sid": 3,
+      "location": 2,
+      "content": "梅迪纳的市政厅门口",
+      "music": 0.0
+    },
+    {
+      "from": 6.79,
+      "to": 9.07,
+      "sid": 4,
+      "location": 2,
+      "content": "美国的富人区一般都有两个特征",
+      "music": 0.0
+    },
+    {
+      "from": 9.07,
+      "to": 10.33,
+      "sid": 5,
+      "location": 2,
+      "content": "一是风景优美",
+      "music": 0.0
+    },
+    {
+      "from": 10.33,
+      "to": 11.79,
+      "sid": 6,
+      "location": 2,
+      "content": "二是安保极佳",
+      "music": 0.0
+    },
+    {
+      "from": 11.79,
+      "to": 14.13,
+      "sid": 7,
+      "location": 2,
+      "content": "像是梅迪娜一共还没有3000个人",
+      "music": 0.0
+    },
+    {
+      "from": 14.13,
+      "to": 16.259,
+      "sid": 8,
+      "location": 2,
+      "content": "这边居然还有这么多的警察",
+      "music": 0.0
+    },
+    {
+      "from": 16.259,
+      "to": 18.499,
+      "sid": 9,
+      "location": 2,
+      "content": "给大家看一看这边房子的价格",
+      "music": 0.0
+    },
+    {
+      "from": 18.499,
+      "to": 20.199,
+      "sid": 10,
+      "location": 2,
+      "content": "网上一查都是几百万",
+      "music": 0.0
+    },
+    {
+      "from": 20.199,
+      "to": 22.5,
+      "sid": 11,
+      "location": 2,
+      "content": "而转化到人口普查的数据来看",
+      "music": 0.0
+    },
+    {
+      "from": 22.5,
+      "to": 24.18,
+      "sid": 12,
+      "location": 2,
+      "content": "93%的房子的价格",
+      "music": 0.0
+    },
+    {
+      "from": 24.18,
+      "to": 25.64,
+      "sid": 13,
+      "location": 2,
+      "content": "都超过了100万美元",
+      "music": 0.0
+    },
+    {
+      "from": 25.64,
+      "to": 26.76,
+      "sid": 14,
+      "location": 2,
+      "content": "其实普通的美国人",
+      "music": 0.0
+    },
+    {
+      "from": 26.76,
+      "to": 28.72,
+      "sid": 15,
+      "location": 2,
+      "content": "没有大家想象中的那么的有钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.72,
+      "to": 30.08,
+      "sid": 16,
+      "location": 2,
+      "content": "大部分人的家的价值",
+      "music": 0.0
+    },
+    {
+      "from": 30.08,
+      "to": 32.59,
+      "sid": 17,
+      "location": 2,
+      "content": "也就是在5万美元到100万美元之间",
+      "music": 0.0
+    },
+    {
+      "from": 32.59,
+      "to": 34.35,
+      "sid": 18,
+      "location": 2,
+      "content": "5万以下和100万以上的房子",
+      "music": 0.0
+    },
+    {
+      "from": 34.35,
+      "to": 35.99,
+      "sid": 19,
+      "location": 2,
+      "content": "都不再做细分统计了",
+      "music": 0.0
+    },
+    {
+      "from": 35.99,
+      "to": 36.79,
+      "sid": 20,
+      "location": 2,
+      "content": "我去了小镇",
+      "music": 0.0
+    },
+    {
+      "from": 36.79,
+      "to": 38.89,
+      "sid": 21,
+      "location": 2,
+      "content": "大部分的时候房价都是5万以下的",
+      "music": 0.0
+    },
+    {
+      "from": 38.89,
+      "to": 40.83,
+      "sid": 22,
+      "location": 2,
+      "content": "今天突破一下自己的舒适圈",
+      "music": 0.0
+    },
+    {
+      "from": 40.83,
+      "to": 43.07,
+      "sid": 23,
+      "location": 2,
+      "content": "给大家看一看百万美元的社区",
+      "music": 0.0
+    },
+    {
+      "from": 43.07,
+      "to": 45.41,
+      "sid": 24,
+      "location": 2,
+      "content": "虽然说围绕着梅迪娜的都是富人区",
+      "music": 0.0
+    },
+    {
+      "from": 45.41,
+      "to": 48.68,
+      "sid": 25,
+      "location": 2,
+      "content": "但是每一条进入小镇的道路口都是有摄像头的",
+      "music": 0.0
+    },
+    {
+      "from": 48.68,
+      "to": 50.4,
+      "sid": 26,
+      "location": 2,
+      "content": "像是我面前的这个栏杆",
+      "music": 0.0
+    },
+    {
+      "from": 50.4,
+      "to": 51.92,
+      "sid": 27,
+      "location": 2,
+      "content": "上面就是有一个警示牌",
+      "music": 0.0
+    },
+    {
+      "from": 51.92,
+      "to": 53.96,
+      "sid": 28,
+      "location": 2,
+      "content": "然后前面就是梅迪娜的标志",
+      "music": 0.0
+    },
+    {
+      "from": 53.96,
+      "to": 55.22,
+      "sid": 29,
+      "location": 2,
+      "content": "如果你是开车的话",
+      "music": 0.0
+    },
+    {
+      "from": 55.22,
+      "to": 56.66,
+      "sid": 30,
+      "location": 2,
+      "content": "他还会扫你的车牌",
+      "music": 0.0
+    },
+    {
+      "from": 56.66,
+      "to": 58.0,
+      "sid": 31,
+      "location": 2,
+      "content": "如果你有安迪什么的",
+      "music": 0.0
+    },
+    {
+      "from": 58.0,
+      "to": 59.81,
+      "sid": 32,
+      "location": 2,
+      "content": "它会自动通知警察局",
+      "music": 0.0
+    },
+    {
+      "from": 59.81,
+      "to": 61.59,
+      "sid": 33,
+      "location": 2,
+      "content": "像是我这种骑车进去的",
+      "music": 0.0
+    },
+    {
+      "from": 61.59,
+      "to": 63.09,
+      "sid": 34,
+      "location": 2,
+      "content": "警察局也会保留我的影像",
+      "music": 0.0
+    },
+    {
+      "from": 63.09,
+      "to": 63.71,
+      "sid": 35,
+      "location": 2,
+      "content": "60天",
+      "music": 0.0
+    },
+    {
+      "from": 63.71,
+      "to": 66.759,
+      "sid": 36,
+      "location": 2,
+      "content": "因为美国人普遍来说都比较讨厌这种摄像头",
+      "music": 0.0
+    },
+    {
+      "from": 66.759,
+      "to": 69.719,
+      "sid": 37,
+      "location": 2,
+      "content": "像是梅迪娜这种所有出入口都安监控的社区",
+      "music": 0.0
+    },
+    {
+      "from": 69.719,
+      "to": 71.319,
+      "sid": 38,
+      "location": 2,
+      "content": "我还是第一次见梅迪娜",
+      "music": 0.0
+    },
+    {
+      "from": 71.319,
+      "to": 73.11,
+      "sid": 39,
+      "location": 2,
+      "content": "总的来说是一个纯居住区",
+      "music": 0.0
+    },
+    {
+      "from": 73.11,
+      "to": 74.45,
+      "sid": 40,
+      "location": 2,
+      "content": "商业只有一个邮局",
+      "music": 0.0
+    },
+    {
+      "from": 74.45,
+      "to": 75.41,
+      "sid": 41,
+      "location": 2,
+      "content": "一个小超市",
+      "music": 0.0
+    },
+    {
+      "from": 75.41,
+      "to": 77.15,
+      "sid": 42,
+      "location": 2,
+      "content": "还有这个交叉路口的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 77.15,
+      "to": 79.73,
+      "sid": 43,
+      "location": 2,
+      "content": "没想到这个加油站的厕所外面也有摄像头",
+      "music": 0.0
+    },
+    {
+      "from": 79.73,
+      "to": 82.36,
+      "sid": 44,
+      "location": 2,
+      "content": "这可能是我见过绿化最好的加油站了",
+      "music": 0.0
+    },
+    {
+      "from": 82.36,
+      "to": 83.48,
+      "sid": 45,
+      "location": 2,
+      "content": "透过后面的树丛",
+      "music": 0.0
+    },
+    {
+      "from": 83.48,
+      "to": 85.26,
+      "sid": 46,
+      "location": 2,
+      "content": "我还可以看到一栋大宅子",
+      "music": 0.0
+    },
+    {
+      "from": 85.26,
+      "to": 86.9,
+      "sid": 47,
+      "location": 2,
+      "content": "这边水的价格还可以",
+      "music": 0.0
+    },
+    {
+      "from": 86.9,
+      "to": 87.86,
+      "sid": 48,
+      "location": 2,
+      "content": "两美元一瓶",
+      "music": 0.0
+    },
+    {
+      "from": 87.86,
+      "to": 90.31,
+      "sid": 49,
+      "location": 2,
+      "content": "但是油价比同地区的要高很多",
+      "music": 0.0
+    },
+    {
+      "from": 90.31,
+      "to": 91.57,
+      "sid": 50,
+      "location": 2,
+      "content": "4.58美元",
+      "music": 0.0
+    },
+    {
+      "from": 91.57,
+      "to": 94.77,
+      "sid": 51,
+      "location": 2,
+      "content": "可能是富人也不在意这么几毛钱一加仑的差异",
+      "music": 0.0
+    },
+    {
+      "from": 94.77,
+      "to": 97.51,
+      "sid": 52,
+      "location": 2,
+      "content": "这个地方马路对面有一个高尔夫球俱乐部",
+      "music": 0.0
+    },
+    {
+      "from": 97.51,
+      "to": 99.57,
+      "sid": 53,
+      "location": 2,
+      "content": "我去的时候是工作日的清晨",
+      "music": 0.0
+    },
+    {
+      "from": 99.57,
+      "to": 101.95,
+      "sid": 54,
+      "location": 2,
+      "content": "所以说根本没有人给大家看一看",
+      "music": 0.0
+    },
+    {
+      "from": 101.95,
+      "to": 102.71,
+      "sid": 55,
+      "location": 2,
+      "content": "比尔盖茨",
+      "music": 0.0
+    },
+    {
+      "from": 102.71,
+      "to": 103.41,
+      "sid": 56,
+      "location": 2,
+      "content": "鲍尔默",
+      "music": 0.0
+    },
+    {
+      "from": 103.41,
+      "to": 105.63,
+      "sid": 57,
+      "location": 2,
+      "content": "以及很多西雅图的科技大佬都会来的",
+      "music": 0.0
+    },
+    {
+      "from": 105.63,
+      "to": 106.919,
+      "sid": 58,
+      "location": 2,
+      "content": "高尔夫球俱乐部",
+      "music": 0.0
+    },
+    {
+      "from": 106.919,
+      "to": 108.319,
+      "sid": 59,
+      "location": 2,
+      "content": "一般来说这么大的球场",
+      "music": 0.0
+    },
+    {
+      "from": 108.319,
+      "to": 109.819,
+      "sid": 60,
+      "location": 2,
+      "content": "想捡一个球的难度不大",
+      "music": 0.0
+    },
+    {
+      "from": 109.819,
+      "to": 112.439,
+      "sid": 61,
+      "location": 2,
+      "content": "我也稍微在这边娱乐了一下",
+      "music": 0.0
+    },
+    {
+      "from": 118.8,
+      "to": 120.82,
+      "sid": 62,
+      "location": 2,
+      "content": "我去查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 120.82,
+      "to": 122.8,
+      "sid": 63,
+      "location": 2,
+      "content": "如果从正门进这个俱乐部的话",
+      "music": 0.0
+    },
+    {
+      "from": 122.8,
+      "to": 124.74,
+      "sid": 64,
+      "location": 2,
+      "content": "一年的会费是10万美元",
+      "music": 0.0
+    },
+    {
+      "from": 124.74,
+      "to": 125.9,
+      "sid": 65,
+      "location": 2,
+      "content": "这个高尔夫球场",
+      "music": 0.0
+    },
+    {
+      "from": 125.9,
+      "to": 128.48,
+      "sid": 66,
+      "location": 2,
+      "content": "后面就是一个教会和私立的教会学校",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 129.26,
+      "sid": 67,
+      "location": 2,
+      "content": "我查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 129.26,
+      "to": 131.23,
+      "sid": 68,
+      "location": 2,
+      "content": "这个学校的师生比是六比一",
+      "music": 0.0
+    },
+    {
+      "from": 131.23,
+      "to": 133.45,
+      "sid": 69,
+      "location": 2,
+      "content": "学费一年是3万6000美元",
+      "music": 0.0
+    },
+    {
+      "from": 133.45,
+      "to": 134.83,
+      "sid": 70,
+      "location": 2,
+      "content": "这比一些比较便宜的",
+      "music": 0.0
+    },
+    {
+      "from": 134.83,
+      "to": 136.95,
+      "sid": 71,
+      "location": 2,
+      "content": "美国州立大学的学费都要高了",
+      "music": 0.0
+    },
+    {
+      "from": 136.95,
+      "to": 138.83,
+      "sid": 72,
+      "location": 2,
+      "content": "私立学校的对面就是梅迪纳",
+      "music": 0.0
+    },
+    {
+      "from": 138.83,
+      "to": 140.645,
+      "sid": 73,
+      "location": 2,
+      "content": "真正的公共公园",
+      "music": 0.0
+    },
+    {
+      "from": 150.3,
+      "to": 153.42,
+      "sid": 74,
+      "location": 2,
+      "content": "我感觉这边维护的还是挺不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 153.42,
+      "to": 154.54,
+      "sid": 75,
+      "location": 2,
+      "content": "我当天路过的时候",
+      "music": 0.0
+    },
+    {
+      "from": 154.54,
+      "to": 157.16,
+      "sid": 76,
+      "location": 2,
+      "content": "就看了好几个园艺师在那边捡树枝",
+      "music": 0.0
+    },
+    {
+      "from": 157.16,
+      "to": 158.7,
+      "sid": 77,
+      "location": 2,
+      "content": "这边还有遛狗的步道",
+      "music": 0.0
+    },
+    {
+      "from": 158.7,
+      "to": 159.92,
+      "sid": 78,
+      "location": 2,
+      "content": "网球场什么的",
+      "music": 0.0
+    },
+    {
+      "from": 159.92,
+      "to": 160.8,
+      "sid": 79,
+      "location": 2,
+      "content": "出乎意料的是",
+      "music": 0.0
+    },
+    {
+      "from": 160.8,
+      "to": 162.67,
+      "sid": 80,
+      "location": 2,
+      "content": "我还见到了好多个中国老人",
+      "music": 0.0
+    },
+    {
+      "from": 162.67,
+      "to": 164.39,
+      "sid": 81,
+      "location": 2,
+      "content": "都是家里孩子在附近工作",
+      "music": 0.0
+    },
+    {
+      "from": 164.39,
+      "to": 165.65,
+      "sid": 82,
+      "location": 2,
+      "content": "把他们接过来的",
+      "music": 0.0
+    },
+    {
+      "from": 165.65,
+      "to": 168.85,
+      "sid": 83,
+      "location": 2,
+      "content": "每天他们就在这个公园一个凉亭附近锻炼",
+      "music": 0.0
+    },
+    {
+      "from": 168.85,
+      "to": 169.57,
+      "sid": 84,
+      "location": 2,
+      "content": "站立",
+      "music": 0.0
+    },
+    {
+      "from": 170.65,
+      "to": 174.24,
+      "sid": 85,
+      "location": 2,
+      "content": "目光内海神不忘区域",
+      "music": 0.0
+    },
+    {
+      "from": 174.24,
+      "to": 177.12,
+      "sid": 86,
+      "location": 2,
+      "content": "我跟这些老人刚见面搭话的时候",
+      "music": 0.0
+    },
+    {
+      "from": 177.12,
+      "to": 179.149,
+      "sid": 87,
+      "location": 2,
+      "content": "他们还问我是不是来看房子的",
+      "music": 0.0
+    },
+    {
+      "from": 179.149,
+      "to": 180.849,
+      "sid": 88,
+      "location": 2,
+      "content": "他们还是太看得起我了",
+      "music": 0.0
+    },
+    {
+      "from": 180.849,
+      "to": 181.869,
+      "sid": 89,
+      "location": 2,
+      "content": "不过话说回来",
+      "music": 0.0
+    },
+    {
+      "from": 181.869,
+      "to": 184.37,
+      "sid": 90,
+      "location": 2,
+      "content": "梅迪纳之边27%的人都是亚裔",
+      "music": 0.0
+    },
+    {
+      "from": 184.37,
+      "to": 186.43,
+      "sid": 91,
+      "location": 2,
+      "content": "估计其中有不少都是中国人",
+      "music": 0.0
+    },
+    {
+      "from": 186.43,
+      "to": 187.45,
+      "sid": 92,
+      "location": 2,
+      "content": "公园再往南走",
+      "music": 0.0
+    },
+    {
+      "from": 187.45,
+      "to": 188.91,
+      "sid": 93,
+      "location": 2,
+      "content": "就是这边的公立小学",
+      "music": 0.0
+    },
+    {
+      "from": 188.91,
+      "to": 191.31,
+      "sid": 94,
+      "location": 2,
+      "content": "他们这边好像正在上体育课什么的",
+      "music": 0.0
+    },
+    {
+      "from": 191.31,
+      "to": 193.27,
+      "sid": 95,
+      "location": 2,
+      "content": "我看不少都是中国人的面孔",
+      "music": 0.0
+    },
+    {
+      "from": 193.27,
+      "to": 196.15,
+      "sid": 96,
+      "location": 2,
+      "content": "其实到现在我去的也都是梅迪纳这个社区里面",
+      "music": 0.0
+    },
+    {
+      "from": 196.15,
+      "to": 197.37,
+      "sid": 97,
+      "location": 2,
+      "content": "比较平民的地方",
+      "music": 0.0
+    },
+    {
+      "from": 197.37,
+      "to": 199.899,
+      "sid": 98,
+      "location": 2,
+      "content": "因为这些地方还都是在内陆地区",
+      "music": 0.0
+    },
+    {
+      "from": 199.899,
+      "to": 201.319,
+      "sid": 99,
+      "location": 2,
+      "content": "一是看不到海景",
+      "music": 0.0
+    },
+    {
+      "from": 201.319,
+      "to": 202.959,
+      "sid": 100,
+      "location": 2,
+      "content": "二是隐蔽性比较差",
+      "music": 0.0
+    },
+    {
+      "from": 202.959,
+      "to": 205.179,
+      "sid": 101,
+      "location": 2,
+      "content": "像我这些路过的人都可以拍得到的",
+      "music": 0.0
+    },
+    {
+      "from": 205.179,
+      "to": 207.05,
+      "sid": 102,
+      "location": 2,
+      "content": "只能算是百万级的房子",
+      "music": 0.0
+    },
+    {
+      "from": 207.05,
+      "to": 209.71,
+      "sid": 103,
+      "location": 2,
+      "content": "而千万级的豪宅都是可以直接看得到海",
+      "music": 0.0
+    },
+    {
+      "from": 209.71,
+      "to": 211.35,
+      "sid": 104,
+      "location": 2,
+      "content": "且不跟马路直接连着的",
+      "music": 0.0
+    },
+    {
+      "from": 211.35,
+      "to": 213.149,
+      "sid": 105,
+      "location": 2,
+      "content": "这种都是有专属的车道",
+      "music": 0.0
+    },
+    {
+      "from": 213.149,
+      "to": 214.869,
+      "sid": 106,
+      "location": 2,
+      "content": "隐私性如果做的强的话",
+      "music": 0.0
+    },
+    {
+      "from": 214.869,
+      "to": 217.609,
+      "sid": 107,
+      "location": 2,
+      "content": "你站在公路道路上面是看不见房子的",
+      "music": 0.0
+    },
+    {
+      "from": 217.609,
+      "to": 218.849,
+      "sid": 108,
+      "location": 2,
+      "content": "除非你下到湖边",
+      "music": 0.0
+    },
+    {
+      "from": 218.849,
+      "to": 220.99,
+      "sid": 109,
+      "location": 2,
+      "content": "可以看到周围几栋的大宅子",
+      "music": 0.0
+    },
+    {
+      "from": 220.99,
+      "to": 223.43,
+      "sid": 110,
+      "location": 2,
+      "content": "但是梅迪纳的公共水域非常的少",
+      "music": 0.0
+    },
+    {
+      "from": 223.43,
+      "to": 226.71,
+      "sid": 111,
+      "location": 2,
+      "content": "主要是因为湖边的房子都附带有私人的码头",
+      "music": 0.0
+    },
+    {
+      "from": 226.71,
+      "to": 228.83,
+      "sid": 112,
+      "location": 2,
+      "content": "而google的码头只有两个小的",
+      "music": 0.0
+    },
+    {
+      "from": 228.83,
+      "to": 230.81,
+      "sid": 113,
+      "location": 2,
+      "content": "邻近的都是一些私人码头",
+      "music": 0.0
+    },
+    {
+      "from": 230.81,
+      "to": 233.48,
+      "sid": 114,
+      "location": 2,
+      "content": "像是隔壁这个上面写的就是私人财产",
+      "music": 0.0
+    },
+    {
+      "from": 233.48,
+      "to": 236.6,
+      "sid": 115,
+      "location": 2,
+      "content": "一般有钱人把船什么停在自己家门口就行了",
+      "music": 0.0
+    },
+    {
+      "from": 236.6,
+      "to": 239.16,
+      "sid": 116,
+      "location": 2,
+      "content": "这个码头对面是西雅图的主城区",
+      "music": 0.0
+    },
+    {
+      "from": 239.16,
+      "to": 241.329,
+      "sid": 117,
+      "location": 2,
+      "content": "附近能看到的居民区比较少",
+      "music": 0.0
+    },
+    {
+      "from": 241.329,
+      "to": 243.989,
+      "sid": 118,
+      "location": 2,
+      "content": "不过梅蒂娜北边还有一个小公共码头",
+      "music": 0.0
+    },
+    {
+      "from": 243.989,
+      "to": 245.769,
+      "sid": 119,
+      "location": 2,
+      "content": "这边的视野要好上不少",
+      "music": 0.0
+    },
+    {
+      "from": 245.769,
+      "to": 246.9,
+      "sid": 120,
+      "location": 2,
+      "content": "真是",
+      "music": 0.0
+    },
+    {
+      "from": 259.0,
+      "to": 261.54,
+      "sid": 121,
+      "location": 2,
+      "content": "是在1941年之前",
+      "music": 0.0
+    },
+    {
+      "from": 261.54,
+      "to": 263.56,
+      "sid": 122,
+      "location": 2,
+      "content": "梅蒂娜只是一个普通的农村",
+      "music": 0.0
+    },
+    {
+      "from": 263.56,
+      "to": 266.26,
+      "sid": 123,
+      "location": 2,
+      "content": "附近都是日裔美国人种草莓的地方",
+      "music": 0.0
+    },
+    {
+      "from": 266.26,
+      "to": 269.28,
+      "sid": 124,
+      "location": 2,
+      "content": "梅蒂娜的邮局和杂货店都算是当年为数不多",
+      "music": 0.0
+    },
+    {
+      "from": 269.28,
+      "to": 271.09,
+      "sid": 125,
+      "location": 2,
+      "content": "还遗留下来的老房子了",
+      "music": 0.0
+    },
+    {
+      "from": 271.09,
+      "to": 274.07,
+      "sid": 126,
+      "location": 2,
+      "content": "但是在日本炸了美国珍珠港的战舰之后",
+      "music": 0.0
+    },
+    {
+      "from": 274.07,
+      "to": 276.43,
+      "sid": 127,
+      "location": 2,
+      "content": "所有生活在太平洋沿岸的日裔美国人",
+      "music": 0.0
+    },
+    {
+      "from": 276.43,
+      "to": 278.71,
+      "sid": 128,
+      "location": 2,
+      "content": "都被强制流放到了内陆地区的集中营",
+      "music": 0.0
+    },
+    {
+      "from": 278.71,
+      "to": 279.549,
+      "sid": 129,
+      "location": 2,
+      "content": "关了几年",
+      "music": 0.0
+    },
+    {
+      "from": 279.549,
+      "to": 280.669,
+      "sid": 130,
+      "location": 2,
+      "content": "他们离开的时候",
+      "music": 0.0
+    },
+    {
+      "from": 280.669,
+      "to": 282.629,
+      "sid": 131,
+      "location": 2,
+      "content": "原先的农田就被地产商抢走",
+      "music": 0.0
+    },
+    {
+      "from": 282.629,
+      "to": 284.55,
+      "sid": 132,
+      "location": 2,
+      "content": "开发了这个梅迪纳邮局",
+      "music": 0.0
+    },
+    {
+      "from": 284.55,
+      "to": 286.95,
+      "sid": 133,
+      "location": 2,
+      "content": "墙上的壁画大概写的就是这样的故事",
+      "music": 0.0
+    },
+    {
+      "from": 286.95,
+      "to": 289.71,
+      "sid": 134,
+      "location": 2,
+      "content": "不过这个邮局里面跟我之前去过的别的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 289.71,
+      "to": 291.35,
+      "sid": 135,
+      "location": 2,
+      "content": "邮局差别并不是很大",
+      "music": 0.0
+    },
+    {
+      "from": 291.35,
+      "to": 292.11,
+      "sid": 136,
+      "location": 2,
+      "content": "出旅游局",
+      "music": 0.0
+    },
+    {
+      "from": 292.11,
+      "to": 293.81,
+      "sid": 137,
+      "location": 2,
+      "content": "正好看到一辆垃圾车开过",
+      "music": 0.0
+    },
+    {
+      "from": 293.81,
+      "to": 296.05,
+      "sid": 138,
+      "location": 2,
+      "content": "我在梅迪那晃悠了好几个小时",
+      "music": 0.0
+    },
+    {
+      "from": 296.05,
+      "to": 298.38,
+      "sid": 139,
+      "location": 2,
+      "content": "碰到的最多的就是这种服务车辆",
+      "music": 0.0
+    },
+    {
+      "from": 298.38,
+      "to": 300.0,
+      "sid": 140,
+      "location": 2,
+      "content": "比如说施工的剪草",
+      "music": 0.0
+    },
+    {
+      "from": 300.0,
+      "to": 302.38,
+      "sid": 141,
+      "location": 2,
+      "content": "砍树的这些社区里面的大房子",
+      "music": 0.0
+    },
+    {
+      "from": 302.38,
+      "to": 304.48,
+      "sid": 142,
+      "location": 2,
+      "content": "其实非常依赖各种各样的劳工",
+      "music": 0.0
+    },
+    {
+      "from": 304.48,
+      "to": 305.3,
+      "sid": 143,
+      "location": 2,
+      "content": "离开邮局",
+      "music": 0.0
+    },
+    {
+      "from": 305.3,
+      "to": 307.46,
+      "sid": 144,
+      "location": 2,
+      "content": "我现在前往比尔盖茨的老巢",
+      "music": 0.0
+    },
+    {
+      "from": 307.46,
+      "to": 309.85,
+      "sid": 145,
+      "location": 2,
+      "content": "他的家其实是在山脚下的湖边",
+      "music": 0.0
+    },
+    {
+      "from": 309.85,
+      "to": 312.25,
+      "sid": 146,
+      "location": 2,
+      "content": "而梅迪娜这条主路算是在山上",
+      "music": 0.0
+    },
+    {
+      "from": 312.25,
+      "to": 314.63,
+      "sid": 147,
+      "location": 2,
+      "content": "所以说想要下去得绕好多好多圈",
+      "music": 0.0
+    },
+    {
+      "from": 314.63,
+      "to": 317.659,
+      "sid": 148,
+      "location": 2,
+      "content": "基本上每个转角草丛里面都藏了一个摄像头",
+      "music": 0.0
+    },
+    {
+      "from": 317.659,
+      "to": 318.899,
+      "sid": 149,
+      "location": 2,
+      "content": "不知道就算我拍出来",
+      "music": 0.0
+    },
+    {
+      "from": 318.899,
+      "to": 320.139,
+      "sid": 150,
+      "location": 2,
+      "content": "你们能不能发现的了",
+      "music": 0.0
+    },
+    {
+      "from": 320.139,
+      "to": 321.579,
+      "sid": 151,
+      "location": 2,
+      "content": "虽然说我找到了摄像头",
+      "music": 0.0
+    },
+    {
+      "from": 321.579,
+      "to": 323.65,
+      "sid": 152,
+      "location": 2,
+      "content": "不过我应该是完全暴露了自己",
+      "music": 0.0
+    },
+    {
+      "from": 323.65,
+      "to": 325.83,
+      "sid": 153,
+      "location": 2,
+      "content": "其实这一路除了比尔盖茨的家",
+      "music": 0.0
+    },
+    {
+      "from": 325.83,
+      "to": 328.11,
+      "sid": 154,
+      "location": 2,
+      "content": "路两边都是各种超大的宅子",
+      "music": 0.0
+    },
+    {
+      "from": 328.11,
+      "to": 331.039,
+      "sid": 155,
+      "location": 2,
+      "content": "而且这一块的树篱修的都是格外的高",
+      "music": 0.0
+    },
+    {
+      "from": 331.039,
+      "to": 333.839,
+      "sid": 156,
+      "location": 2,
+      "content": "其实比尔盖茨家的地址算是半公开的吧",
+      "music": 0.0
+    },
+    {
+      "from": 333.839,
+      "to": 336.899,
+      "sid": 157,
+      "location": 2,
+      "content": "每年万圣节都有不少人会去他家门口要糖",
+      "music": 0.0
+    },
+    {
+      "from": 336.899,
+      "to": 339.83,
+      "sid": 158,
+      "location": 2,
+      "content": "估计平时也有不少人像我一样来这边转悠",
+      "music": 0.0
+    },
+    {
+      "from": 339.83,
+      "to": 341.43,
+      "sid": 159,
+      "location": 2,
+      "content": "如果走陆路去他家的话",
+      "music": 0.0
+    },
+    {
+      "from": 341.43,
+      "to": 343.01,
+      "sid": 160,
+      "location": 2,
+      "content": "也就只有这么一条小路",
+      "music": 0.0
+    },
+    {
+      "from": 343.01,
+      "to": 346.02,
+      "sid": 161,
+      "location": 2,
+      "content": "因此这条必经之路上面的屏障尤其的多",
+      "music": 0.0
+    },
+    {
+      "from": 346.02,
+      "to": 346.58,
+      "sid": 162,
+      "location": 2,
+      "content": "这么看",
+      "music": 0.0
+    },
+    {
+      "from": 346.58,
+      "to": 349.62,
+      "sid": 163,
+      "location": 2,
+      "content": "做比尔盖茨的邻居也是一件挺头疼的事情",
+      "music": 0.0
+    },
+    {
+      "from": 349.62,
+      "to": 351.22,
+      "sid": 164,
+      "location": 2,
+      "content": "在绕了无数个弯之后",
+      "music": 0.0
+    },
+    {
+      "from": 351.22,
+      "to": 353.25,
+      "sid": 165,
+      "location": 2,
+      "content": "我终于到了比尔盖茨家的门口",
+      "music": 0.0
+    },
+    {
+      "from": 353.25,
+      "to": 355.75,
+      "sid": 166,
+      "location": 2,
+      "content": "也就是路径头这个白色的棚子",
+      "music": 0.0
+    },
+    {
+      "from": 355.75,
+      "to": 357.69,
+      "sid": 167,
+      "location": 2,
+      "content": "当然这个肯定只是一个伪装",
+      "music": 0.0
+    },
+    {
+      "from": 357.69,
+      "to": 360.05,
+      "sid": 168,
+      "location": 2,
+      "content": "他家是一个名副其实的大豪宅",
+      "music": 0.0
+    },
+    {
+      "from": 360.05,
+      "to": 361.47,
+      "sid": 169,
+      "location": 2,
+      "content": "不过我倒是没有想到",
+      "music": 0.0
+    },
+    {
+      "from": 361.47,
+      "to": 364.64,
+      "sid": 170,
+      "location": 2,
+      "content": "紧挨着盖茨家的几栋房子都是很普通的平房",
+      "music": 0.0
+    },
+    {
+      "from": 364.64,
+      "to": 365.32,
+      "sid": 171,
+      "location": 2,
+      "content": "不得不说",
+      "music": 0.0
+    },
+    {
+      "from": 365.32,
+      "to": 367.7,
+      "sid": 172,
+      "location": 2,
+      "content": "盖茨家的隐私性做的是真的挺好",
+      "music": 0.0
+    },
+    {
+      "from": 367.7,
+      "to": 369.63,
+      "sid": 173,
+      "location": 2,
+      "content": "在山上完全看不到他家",
+      "music": 0.0
+    },
+    {
+      "from": 369.63,
+      "to": 372.65,
+      "sid": 174,
+      "location": 2,
+      "content": "而且他家还有很大一部分是藏在地底下的",
+      "music": 0.0
+    },
+    {
+      "from": 372.65,
+      "to": 374.85,
+      "sid": 175,
+      "location": 2,
+      "content": "不过我对于豪宅里面长什么样子",
+      "music": 0.0
+    },
+    {
+      "from": 374.85,
+      "to": 376.13,
+      "sid": 176,
+      "location": 2,
+      "content": "其实兴趣也不大",
+      "music": 0.0
+    },
+    {
+      "from": 376.13,
+      "to": 378.19,
+      "sid": 177,
+      "location": 2,
+      "content": "我只是比较喜欢随便走一走",
+      "music": 0.0
+    },
+    {
+      "from": 378.19,
+      "to": 379.549,
+      "sid": 178,
+      "location": 2,
+      "content": "看看周围的环境",
+      "music": 0.0
+    },
+    {
+      "from": 379.549,
+      "to": 380.949,
+      "sid": 179,
+      "location": 2,
+      "content": "不过有一点我可以确定",
+      "music": 0.0
+    },
+    {
+      "from": 380.949,
+      "to": 383.469,
+      "sid": 180,
+      "location": 2,
+      "content": "就是比尔盖茨从来不会骑自行车出门",
+      "music": 0.0
+    },
+    {
+      "from": 383.469,
+      "to": 386.169,
+      "sid": 181,
+      "location": 2,
+      "content": "他家门口的这个坡度真的是非常恐怖",
+      "music": 0.0
+    },
+    {
+      "from": 386.169,
+      "to": 388.329,
+      "sid": 182,
+      "location": 2,
+      "content": "我基本上是一路推上去的",
+      "music": 0.0
+    },
+    {
+      "from": 388.329,
+      "to": 390.97,
+      "sid": 183,
+      "location": 2,
+      "content": "不过这样倒是可以随地停下来看看",
+      "music": 0.0
+    },
+    {
+      "from": 390.97,
+      "to": 393.33,
+      "sid": 184,
+      "location": 2,
+      "content": "别看比尔盖茨家看着有一点偏",
+      "music": 0.0
+    },
+    {
+      "from": 393.33,
+      "to": 395.95,
+      "sid": 185,
+      "location": 2,
+      "content": "其实梅迪纳这个地方的地理位置很好",
+      "music": 0.0
+    },
+    {
+      "from": 395.95,
+      "to": 398.98,
+      "sid": 186,
+      "location": 2,
+      "content": "看到这边最主要的高速口开车只要3分钟",
+      "music": 0.0
+    },
+    {
+      "from": 398.98,
+      "to": 400.16,
+      "sid": 187,
+      "location": 2,
+      "content": "我上了坡之后",
+      "music": 0.0
+    },
+    {
+      "from": 400.16,
+      "to": 402.74,
+      "sid": 188,
+      "location": 2,
+      "content": "骑车10分钟就到了高速口的公交车站",
+      "music": 0.0
+    },
+    {
+      "from": 402.74,
+      "to": 404.74,
+      "sid": 189,
+      "location": 2,
+      "content": "然后我坐了10分钟不到的公交车",
+      "music": 0.0
+    },
+    {
+      "from": 404.74,
+      "to": 406.26,
+      "sid": 190,
+      "location": 2,
+      "content": "就到了微软的总部了",
+      "music": 0.0
+    },
+    {
+      "from": 406.26,
+      "to": 407.82,
+      "sid": 191,
+      "location": 2,
+      "content": "正好那天真有一个B友",
+      "music": 0.0
+    },
+    {
+      "from": 407.82,
+      "to": 409.75,
+      "sid": 192,
+      "location": 2,
+      "content": "带我到微软里面参观一下",
+      "music": 0.0
+    },
+    {
+      "from": 409.75,
+      "to": 410.67,
+      "sid": 193,
+      "location": 2,
+      "content": "而比尔盖茨",
+      "music": 0.0
+    },
+    {
+      "from": 410.67,
+      "to": 413.409,
+      "sid": 194,
+      "location": 2,
+      "content": "如果想从他的梅蒂娜豪宅里面出来逛逛",
+      "music": 0.0
+    },
+    {
+      "from": 413.409,
+      "to": 415.769,
+      "sid": 195,
+      "location": 2,
+      "content": "无论是去微软的总部还是西雅图",
+      "music": 0.0
+    },
+    {
+      "from": 415.769,
+      "to": 419.03,
+      "sid": 196,
+      "location": 2,
+      "content": "如今的肯辛顿大道都是15分钟左右的车程",
+      "music": 0.0
+    },
+    {
+      "from": 419.03,
+      "to": 421.79,
+      "sid": 197,
+      "location": 2,
+      "content": "我争取尽快把这些视频剪好好了",
+      "music": 0.0
+    },
+    {
+      "from": 421.79,
+      "to": 423.01,
+      "sid": 198,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 423.01,
+      "to": 426.0,
+      "sid": 199,
+      "location": 2,
+      "content": "关注我带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

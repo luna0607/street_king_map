@@ -1,0 +1,1652 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.28,
+      "sid": 1,
+      "location": 2,
+      "content": "骑手来到了与美国最穷印第安人保留地",
+      "music": 0.0
+    },
+    {
+      "from": 2.28,
+      "to": 5.02,
+      "sid": 2,
+      "location": 2,
+      "content": "南达科他州的松尼保罗地交界的巴人小村",
+      "music": 0.0
+    },
+    {
+      "from": 5.02,
+      "to": 5.88,
+      "sid": 3,
+      "location": 2,
+      "content": "怀特克莱",
+      "music": 0.0
+    },
+    {
+      "from": 5.88,
+      "to": 8.06,
+      "sid": 4,
+      "location": 2,
+      "content": "虽说这里的常住人口还不到十个人",
+      "music": 0.0
+    },
+    {
+      "from": 8.06,
+      "to": 9.5,
+      "sid": 5,
+      "location": 2,
+      "content": "但光2010年全年",
+      "music": 0.0
+    },
+    {
+      "from": 9.5,
+      "to": 11.74,
+      "sid": 6,
+      "location": 2,
+      "content": "这杯就卖出了490多万罐啤酒",
+      "music": 0.0
+    },
+    {
+      "from": 11.74,
+      "to": 14.28,
+      "sid": 7,
+      "location": 2,
+      "content": "平均下来一天可以卖出去1万3000多罐",
+      "music": 0.0
+    },
+    {
+      "from": 14.28,
+      "to": 17.2,
+      "sid": 8,
+      "location": 2,
+      "content": "光消费税有怀特克莱就交了40多万美元",
+      "music": 0.0
+    },
+    {
+      "from": 17.2,
+      "to": 19.88,
+      "sid": 9,
+      "location": 2,
+      "content": "来这里消费的主力军都是保罗蒂上面的达克",
+      "music": 0.0
+    },
+    {
+      "from": 19.88,
+      "to": 21.96,
+      "sid": 10,
+      "location": 2,
+      "content": "他人与怀特克莱接壤的松尼",
+      "music": 0.0
+    },
+    {
+      "from": 21.96,
+      "to": 24.59,
+      "sid": 11,
+      "location": 2,
+      "content": "保罗蒂上面是禁止贩卖酒类产品的",
+      "music": 0.0
+    },
+    {
+      "from": 24.59,
+      "to": 27.53,
+      "sid": 12,
+      "location": 2,
+      "content": "萨保罗蒂上的原住民们的酗酒问题很严重",
+      "music": 0.0
+    },
+    {
+      "from": 27.53,
+      "to": 29.11,
+      "sid": 13,
+      "location": 2,
+      "content": "这里的位置又特别偏",
+      "music": 0.0
+    },
+    {
+      "from": 29.11,
+      "to": 30.979,
+      "sid": 14,
+      "location": 2,
+      "content": "周围没有任何的大城镇",
+      "music": 0.0
+    },
+    {
+      "from": 30.979,
+      "to": 32.799,
+      "sid": 15,
+      "location": 2,
+      "content": "很多人便发现了这个商机",
+      "music": 0.0
+    },
+    {
+      "from": 32.799,
+      "to": 34.299,
+      "sid": 16,
+      "location": 2,
+      "content": "从20世纪初开始",
+      "music": 0.0
+    },
+    {
+      "from": 34.299,
+      "to": 35.979,
+      "sid": 17,
+      "location": 2,
+      "content": "在紧挨着保罗蒂上的荒野",
+      "music": 0.0
+    },
+    {
+      "from": 35.979,
+      "to": 38.42,
+      "sid": 18,
+      "location": 2,
+      "content": "就建立起了很多酒馆和酒类商店",
+      "music": 0.0
+    },
+    {
+      "from": 38.42,
+      "to": 40.18,
+      "sid": 19,
+      "location": 2,
+      "content": "后面这边还加了很多杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 40.18,
+      "to": 41.06,
+      "sid": 20,
+      "location": 2,
+      "content": "饭店什么的",
+      "music": 0.0
+    },
+    {
+      "from": 41.06,
+      "to": 42.94,
+      "sid": 21,
+      "location": 2,
+      "content": "渐渐就形成了一个小村落",
+      "music": 0.0
+    },
+    {
+      "from": 42.94,
+      "to": 44.42,
+      "sid": 22,
+      "location": 2,
+      "content": "但随着90年代起",
+      "music": 0.0
+    },
+    {
+      "from": 44.42,
+      "to": 46.769,
+      "sid": 23,
+      "location": 2,
+      "content": "保罗蒂上面的酗酒问题越来越严重",
+      "music": 0.0
+    },
+    {
+      "from": 46.769,
+      "to": 49.47,
+      "sid": 24,
+      "location": 2,
+      "content": "瓦罗蒂和怀特克莱之间的矛盾也越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 49.47,
+      "to": 51.23,
+      "sid": 25,
+      "location": 2,
+      "content": "本来我想用最近很火的deep seek",
+      "music": 0.0
+    },
+    {
+      "from": 51.23,
+      "to": 52.79,
+      "sid": 26,
+      "location": 2,
+      "content": "帮我理一下冲突的细节",
+      "music": 0.0
+    },
+    {
+      "from": 52.79,
+      "to": 55.04,
+      "sid": 27,
+      "location": 2,
+      "content": "但是发现deep seek经常服务器繁忙",
+      "music": 0.0
+    },
+    {
+      "from": 55.04,
+      "to": 56.4,
+      "sid": 28,
+      "location": 2,
+      "content": "于是我打开了问小白",
+      "music": 0.0
+    },
+    {
+      "from": 56.4,
+      "to": 58.92,
+      "sid": 29,
+      "location": 2,
+      "content": "deep seek r一六百七十一B满血版",
+      "music": 0.0
+    },
+    {
+      "from": 58.92,
+      "to": 60.3,
+      "sid": 30,
+      "location": 2,
+      "content": "它的搜索速度超快",
+      "music": 0.0
+    },
+    {
+      "from": 60.3,
+      "to": 60.72,
+      "sid": 31,
+      "location": 2,
+      "content": "不卡顿",
+      "music": 0.0
+    },
+    {
+      "from": 60.72,
+      "to": 61.62,
+      "sid": 32,
+      "location": 2,
+      "content": "也不限次数",
+      "music": 0.0
+    },
+    {
+      "from": 61.62,
+      "to": 63.2,
+      "sid": 33,
+      "location": 2,
+      "content": "无论是网页还是app版",
+      "music": 0.0
+    },
+    {
+      "from": 63.2,
+      "to": 64.08,
+      "sid": 34,
+      "location": 2,
+      "content": "都是全免费",
+      "music": 0.0
+    },
+    {
+      "from": 64.08,
+      "to": 66.5,
+      "sid": 35,
+      "location": 2,
+      "content": "而且温小白就算是分析国外的社会问题",
+      "music": 0.0
+    },
+    {
+      "from": 66.5,
+      "to": 67.6,
+      "sid": 36,
+      "location": 2,
+      "content": "也是又快又准",
+      "music": 0.0
+    },
+    {
+      "from": 67.6,
+      "to": 67.9,
+      "sid": 37,
+      "location": 2,
+      "content": "松",
+      "music": 0.0
+    },
+    {
+      "from": 67.9,
+      "to": 71.08,
+      "sid": 38,
+      "location": 2,
+      "content": "林保罗蒂迪是美国最贫困和失业率最高的地区",
+      "music": 0.0
+    },
+    {
+      "from": 71.08,
+      "to": 74.02,
+      "sid": 39,
+      "location": 2,
+      "content": "而怀特克兰的存在加剧了保罗蒂上的社会问题",
+      "music": 0.0
+    },
+    {
+      "from": 74.02,
+      "to": 76.54,
+      "sid": 40,
+      "location": 2,
+      "content": "温小白还有一个很强大的推理画图功能",
+      "music": 0.0
+    },
+    {
+      "from": 76.54,
+      "to": 79.74,
+      "sid": 41,
+      "location": 2,
+      "content": "我让他试着用图片的形式呈现两者的冲突",
+      "music": 0.0
+    },
+    {
+      "from": 79.74,
+      "to": 80.9,
+      "sid": 42,
+      "location": 2,
+      "content": "他还真发给了我",
+      "music": 0.0
+    },
+    {
+      "from": 80.9,
+      "to": 84.53,
+      "sid": 43,
+      "location": 2,
+      "content": "两张写实主义画风中融入象征主义构图的大作",
+      "music": 0.0
+    },
+    {
+      "from": 84.53,
+      "to": 85.67,
+      "sid": 44,
+      "location": 2,
+      "content": "有点扯远了",
+      "music": 0.0
+    },
+    {
+      "from": 85.67,
+      "to": 87.51,
+      "sid": 45,
+      "location": 2,
+      "content": "在原住民不断的抗争之后",
+      "music": 0.0
+    },
+    {
+      "from": 87.51,
+      "to": 88.37,
+      "sid": 46,
+      "location": 2,
+      "content": "2017年",
+      "music": 0.0
+    },
+    {
+      "from": 88.37,
+      "to": 91.19,
+      "sid": 47,
+      "location": 2,
+      "content": "酒类管理局拒绝与怀特克莱的九行续约",
+      "music": 0.0
+    },
+    {
+      "from": 91.19,
+      "to": 92.75,
+      "sid": 48,
+      "location": 2,
+      "content": "而德克莱也就变成了现在",
+      "music": 0.0
+    },
+    {
+      "from": 92.75,
+      "to": 94.41,
+      "sid": 49,
+      "location": 2,
+      "content": "这么一个平静的小村庄",
+      "music": 0.0
+    },
+    {
+      "from": 94.41,
+      "to": 97.71,
+      "sid": 50,
+      "location": 2,
+      "content": "但是这边卖其他生活物资的商店生意都很不错",
+      "music": 0.0
+    },
+    {
+      "from": 97.71,
+      "to": 100.29,
+      "sid": 51,
+      "location": 2,
+      "content": "主要是因为保利地上面的商业非常匮乏",
+      "music": 0.0
+    },
+    {
+      "from": 100.29,
+      "to": 101.59,
+      "sid": 52,
+      "location": 2,
+      "content": "酒之外的很多物资",
+      "music": 0.0
+    },
+    {
+      "from": 101.59,
+      "to": 103.59,
+      "sid": 53,
+      "location": 2,
+      "content": "原住民也得带怀特克来进货",
+      "music": 0.0
+    },
+    {
+      "from": 103.59,
+      "to": 105.91,
+      "sid": 54,
+      "location": 2,
+      "content": "现在带大家来逛一下他们这个杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 105.91,
+      "to": 108.15,
+      "sid": 55,
+      "location": 2,
+      "content": "怀特克莱的邮局也在这个超市里面",
+      "music": 0.0
+    },
+    {
+      "from": 108.15,
+      "to": 109.53,
+      "sid": 56,
+      "location": 2,
+      "content": "这个超市是白人开的",
+      "music": 0.0
+    },
+    {
+      "from": 109.53,
+      "to": 111.29,
+      "sid": 57,
+      "location": 2,
+      "content": "里面的工作人员都是部落的",
+      "music": 0.0
+    },
+    {
+      "from": 111.29,
+      "to": 113.05,
+      "sid": 58,
+      "location": 2,
+      "content": "他们确实长得有点像亚洲人",
+      "music": 0.0
+    },
+    {
+      "from": 113.05,
+      "to": 114.81,
+      "sid": 59,
+      "location": 2,
+      "content": "可能看我长得跟他们差不多",
+      "music": 0.0
+    },
+    {
+      "from": 114.81,
+      "to": 116.39,
+      "sid": 60,
+      "location": 2,
+      "content": "大家对我也挺友好的",
+      "music": 0.0
+    },
+    {
+      "from": 116.39,
+      "to": 118.24,
+      "sid": 61,
+      "location": 2,
+      "content": "这边是没有新鲜蔬果卖的",
+      "music": 0.0
+    },
+    {
+      "from": 118.24,
+      "to": 119.64,
+      "sid": 62,
+      "location": 2,
+      "content": "全部是罐头食品",
+      "music": 0.0
+    },
+    {
+      "from": 119.64,
+      "to": 121.34,
+      "sid": 63,
+      "location": 2,
+      "content": "这个超市对面有一个服装店",
+      "music": 0.0
+    },
+    {
+      "from": 121.34,
+      "to": 122.94,
+      "sid": 64,
+      "location": 2,
+      "content": "这里主要卖两种东西",
+      "music": 0.0
+    },
+    {
+      "from": 122.94,
+      "to": 124.68,
+      "sid": 65,
+      "location": 2,
+      "content": "一个是老西部风服装",
+      "music": 0.0
+    },
+    {
+      "from": 124.68,
+      "to": 126.58,
+      "sid": 66,
+      "location": 2,
+      "content": "另外一个是部落的服装",
+      "music": 0.0
+    },
+    {
+      "from": 126.58,
+      "to": 127.56,
+      "sid": 67,
+      "location": 2,
+      "content": "我查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 127.56,
+      "to": 131.16,
+      "sid": 68,
+      "location": 2,
+      "content": "在松林保罗地8800平方公里的土地上面",
+      "music": 0.0
+    },
+    {
+      "from": 131.16,
+      "to": 132.98,
+      "sid": 69,
+      "location": 2,
+      "content": "一家专卖服装的店都没有",
+      "music": 0.0
+    },
+    {
+      "from": 132.98,
+      "to": 135.0,
+      "sid": 70,
+      "location": 2,
+      "content": "最多是有便利店卖卖衣服什么的",
+      "music": 0.0
+    },
+    {
+      "from": 135.0,
+      "to": 137.06,
+      "sid": 71,
+      "location": 2,
+      "content": "我不确定保罗蒂上面能不能网购",
+      "music": 0.0
+    },
+    {
+      "from": 137.06,
+      "to": 138.64,
+      "sid": 72,
+      "location": 2,
+      "content": "不过要想在线下买的话",
+      "music": 0.0
+    },
+    {
+      "from": 138.64,
+      "to": 139.57,
+      "sid": 73,
+      "location": 2,
+      "content": "只能来这里",
+      "music": 0.0
+    },
+    {
+      "from": 139.57,
+      "to": 140.37,
+      "sid": 74,
+      "location": 2,
+      "content": "逛完商店",
+      "music": 0.0
+    },
+    {
+      "from": 140.37,
+      "to": 141.77,
+      "sid": 75,
+      "location": 2,
+      "content": "去马路对面吃个午饭",
+      "music": 0.0
+    },
+    {
+      "from": 141.77,
+      "to": 143.69,
+      "sid": 76,
+      "location": 2,
+      "content": "这里卖的都是一些快餐",
+      "music": 0.0
+    },
+    {
+      "from": 143.69,
+      "to": 146.18,
+      "sid": 77,
+      "location": 2,
+      "content": "不过意外的比我想象中的好吃很多",
+      "music": 0.0
+    },
+    {
+      "from": 146.18,
+      "to": 148.46,
+      "sid": 78,
+      "location": 2,
+      "content": "我点了一个五美元一份的鸡肉泡饭",
+      "music": 0.0
+    },
+    {
+      "from": 148.46,
+      "to": 150.3,
+      "sid": 79,
+      "location": 2,
+      "content": "和一个四美元的香肠三明治",
+      "music": 0.0
+    },
+    {
+      "from": 150.3,
+      "to": 151.98,
+      "sid": 80,
+      "location": 2,
+      "content": "再加上一罐一美元的汽水",
+      "music": 0.0
+    },
+    {
+      "from": 151.98,
+      "to": 153.26,
+      "sid": 81,
+      "location": 2,
+      "content": "一共是十块钱",
+      "music": 0.0
+    },
+    {
+      "from": 153.26,
+      "to": 154.7,
+      "sid": 82,
+      "location": 2,
+      "content": "各位觉得价格如何",
+      "music": 0.0
+    },
+    {
+      "from": 154.7,
+      "to": 156.56,
+      "sid": 83,
+      "location": 2,
+      "content": "虽说怀特克莱不再卖酒了",
+      "music": 0.0
+    },
+    {
+      "from": 156.56,
+      "to": 158.18,
+      "sid": 84,
+      "location": 2,
+      "content": "但保罗蒂上面的酗酒问题",
+      "music": 0.0
+    },
+    {
+      "from": 158.18,
+      "to": 160.209,
+      "sid": 85,
+      "location": 2,
+      "content": "肯定也不可能这么轻易的解决",
+      "music": 0.0
+    },
+    {
+      "from": 160.209,
+      "to": 162.529,
+      "sid": 86,
+      "location": 2,
+      "content": "很多人主要通过我现在行驶在的公路",
+      "music": 0.0
+    },
+    {
+      "from": 162.529,
+      "to": 165.309,
+      "sid": 87,
+      "location": 2,
+      "content": "南下到怀特克莱所在的谢里登县县城",
+      "music": 0.0
+    },
+    {
+      "from": 165.309,
+      "to": 166.62,
+      "sid": 88,
+      "location": 2,
+      "content": "拉什维尔进货",
+      "music": 0.0
+    },
+    {
+      "from": 166.62,
+      "to": 168.46,
+      "sid": 89,
+      "location": 2,
+      "content": "这一条路两侧都是草场",
+      "music": 0.0
+    },
+    {
+      "from": 168.46,
+      "to": 169.42,
+      "sid": 90,
+      "location": 2,
+      "content": "只见得到牛",
+      "music": 0.0
+    },
+    {
+      "from": 169.42,
+      "to": 170.28,
+      "sid": 91,
+      "location": 2,
+      "content": "见不到人",
+      "music": 0.0
+    },
+    {
+      "from": 170.28,
+      "to": 171.64,
+      "sid": 92,
+      "location": 2,
+      "content": "怀特克拉戒酒之后",
+      "music": 0.0
+    },
+    {
+      "from": 171.64,
+      "to": 173.94,
+      "sid": 93,
+      "location": 2,
+      "content": "很多人甚至直接徒步穿越这么一段",
+      "music": 0.0
+    },
+    {
+      "from": 173.94,
+      "to": 177.08,
+      "sid": 94,
+      "location": 2,
+      "content": "35km的无人区公路去拉什维尔路两侧",
+      "music": 0.0
+    },
+    {
+      "from": 177.08,
+      "to": 178.72,
+      "sid": 95,
+      "location": 2,
+      "content": "也有很多人想搭便车",
+      "music": 0.0
+    },
+    {
+      "from": 178.72,
+      "to": 181.87,
+      "sid": 96,
+      "location": 2,
+      "content": "劳拉什维尔只是一个816人的普通小镇",
+      "music": 0.0
+    },
+    {
+      "from": 181.87,
+      "to": 184.47,
+      "sid": 97,
+      "location": 2,
+      "content": "这边跟我去过的很多美国偏僻乡村一样",
+      "music": 0.0
+    },
+    {
+      "from": 184.47,
+      "to": 187.34,
+      "sid": 98,
+      "location": 2,
+      "content": "每10年以10%左右的比例流失人口",
+      "music": 0.0
+    },
+    {
+      "from": 187.34,
+      "to": 188.76,
+      "sid": 99,
+      "location": 2,
+      "content": "这里的产业除了农业",
+      "music": 0.0
+    },
+    {
+      "from": 188.76,
+      "to": 190.38,
+      "sid": 100,
+      "location": 2,
+      "content": "还有跟保罗蒂上面的贸易",
+      "music": 0.0
+    },
+    {
+      "from": 190.38,
+      "to": 192.9,
+      "sid": 101,
+      "location": 2,
+      "content": "比如说这边有距离保罗地最近的银行",
+      "music": 0.0
+    },
+    {
+      "from": 192.9,
+      "to": 195.82,
+      "sid": 102,
+      "location": 2,
+      "content": "说来你可能不信保罗地上面一家银行都没有",
+      "music": 0.0
+    },
+    {
+      "from": 195.82,
+      "to": 198.88,
+      "sid": 103,
+      "location": 2,
+      "content": "所以说想办银行卡的原住民得来拉什维尔开户",
+      "music": 0.0
+    },
+    {
+      "from": 198.88,
+      "to": 200.42,
+      "sid": 104,
+      "location": 2,
+      "content": "当然还有酒类生意",
+      "music": 0.0
+    },
+    {
+      "from": 200.42,
+      "to": 202.12,
+      "sid": 105,
+      "location": 2,
+      "content": "就算是相隔35km",
+      "music": 0.0
+    },
+    {
+      "from": 202.12,
+      "to": 204.78,
+      "sid": 106,
+      "location": 2,
+      "content": "这里也是保罗蒂上原住民最近的选择了",
+      "music": 0.0
+    },
+    {
+      "from": 204.78,
+      "to": 206.5,
+      "sid": 107,
+      "location": 2,
+      "content": "比如说公路变这家九行",
+      "music": 0.0
+    },
+    {
+      "from": 206.5,
+      "to": 209.519,
+      "sid": 108,
+      "location": 2,
+      "content": "而且我发现他们的价格比市场价要高上不少",
+      "music": 0.0
+    },
+    {
+      "from": 209.519,
+      "to": 211.379,
+      "sid": 109,
+      "location": 2,
+      "content": "可能是因为竞争对手太少",
+      "music": 0.0
+    },
+    {
+      "from": 211.379,
+      "to": 213.99,
+      "sid": 110,
+      "location": 2,
+      "content": "虽说酒行对面还有一个卖啤酒的加油站",
+      "music": 0.0
+    },
+    {
+      "from": 213.99,
+      "to": 216.59,
+      "sid": 111,
+      "location": 2,
+      "content": "不过高度数的烈酒只有酒类商店才有卖",
+      "music": 0.0
+    },
+    {
+      "from": 216.59,
+      "to": 219.15,
+      "sid": 112,
+      "location": 2,
+      "content": "拉什维尔有一个自己的小历史博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 219.15,
+      "to": 221.09,
+      "sid": 113,
+      "location": 2,
+      "content": "我在这遇到了一个本地老人",
+      "music": 0.0
+    },
+    {
+      "from": 221.09,
+      "to": 221.73,
+      "sid": 114,
+      "location": 2,
+      "content": "他跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 221.73,
+      "to": 224.09,
+      "sid": 115,
+      "location": 2,
+      "content": "不只是怀特克莱拉什维尔的经济",
+      "music": 0.0
+    },
+    {
+      "from": 224.09,
+      "to": 226.0,
+      "sid": 116,
+      "location": 2,
+      "content": "也很依赖原住民的消费",
+      "music": 0.0
+    },
+    {
+      "from": 226.0,
+      "to": 226.36,
+      "sid": 117,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 226.36,
+      "to": 227.54,
+      "sid": 118,
+      "location": 2,
+      "content": "I think everyqukeeps us",
+      "music": 0.0
+    },
+    {
+      "from": 227.54,
+      "to": 228.82,
+      "sid": 119,
+      "location": 2,
+      "content": "Alive this spine rich",
+      "music": 0.0
+    },
+    {
+      "from": 228.82,
+      "to": 230.36,
+      "sid": 120,
+      "location": 2,
+      "content": "Because there's a lot of traffic",
+      "music": 0.0
+    },
+    {
+      "from": 230.36,
+      "to": 231.28,
+      "sid": 121,
+      "location": 2,
+      "content": "Comes down and up there",
+      "music": 0.0
+    },
+    {
+      "from": 231.28,
+      "to": 232.4,
+      "sid": 122,
+      "location": 2,
+      "content": "They used to come here a lot",
+      "music": 0.0
+    },
+    {
+      "from": 232.4,
+      "to": 234.32,
+      "sid": 123,
+      "location": 2,
+      "content": "But now and then the dog on bank here",
+      "music": 0.0
+    },
+    {
+      "from": 234.32,
+      "to": 234.4,
+      "sid": 124,
+      "location": 2,
+      "content": "When",
+      "music": 0.0
+    },
+    {
+      "from": 234.4,
+      "to": 235.52,
+      "sid": 125,
+      "location": 2,
+      "content": "And put mobile bank in",
+      "music": 0.0
+    },
+    {
+      "from": 235.52,
+      "to": 236.64,
+      "sid": 126,
+      "location": 2,
+      "content": "So they could go up there",
+      "music": 0.0
+    },
+    {
+      "from": 236.64,
+      "to": 239.29,
+      "sid": 127,
+      "location": 2,
+      "content": "And so they didn't have to come to town",
+      "music": 0.0
+    },
+    {
+      "from": 239.29,
+      "to": 240.75,
+      "sid": 128,
+      "location": 2,
+      "content": "And hopefully bear",
+      "music": 0.0
+    },
+    {
+      "from": 240.75,
+      "to": 241.37,
+      "sid": 129,
+      "location": 2,
+      "content": "Oh yeah",
+      "music": 0.0
+    },
+    {
+      "from": 241.37,
+      "to": 241.93,
+      "sid": 130,
+      "location": 2,
+      "content": "Beyes",
+      "music": 0.0
+    },
+    {
+      "from": 241.93,
+      "to": 242.17,
+      "sid": 131,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 242.17,
+      "to": 242.43,
+      "sid": 132,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 242.43,
+      "to": 243.77,
+      "sid": 133,
+      "location": 2,
+      "content": "And hands harder down",
+      "music": 0.0
+    },
+    {
+      "from": 243.77,
+      "to": 243.93,
+      "sid": 134,
+      "location": 2,
+      "content": "There",
+      "music": 0.0
+    },
+    {
+      "from": 243.93,
+      "to": 246.2,
+      "sid": 135,
+      "location": 2,
+      "content": "Deserum payment plan for",
+      "music": 0.0
+    },
+    {
+      "from": 246.2,
+      "to": 247.42,
+      "sid": 136,
+      "location": 2,
+      "content": "But they they had quiet",
+      "music": 0.0
+    },
+    {
+      "from": 247.42,
+      "to": 247.8,
+      "sid": 137,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 247.8,
+      "to": 250.36,
+      "sid": 138,
+      "location": 2,
+      "content": "Now that highway just msunick and the locker stores here",
+      "music": 0.0
+    },
+    {
+      "from": 250.36,
+      "to": 251.58,
+      "sid": 139,
+      "location": 2,
+      "content": "And didn't stop up",
+      "music": 0.0
+    },
+    {
+      "from": 251.58,
+      "to": 252.34,
+      "sid": 140,
+      "location": 2,
+      "content": "Stop anything",
+      "music": 0.0
+    },
+    {
+      "from": 252.34,
+      "to": 252.54,
+      "sid": 141,
+      "location": 2,
+      "content": "Actually",
+      "music": 0.0
+    },
+    {
+      "from": 252.54,
+      "to": 253.34,
+      "sid": 142,
+      "location": 2,
+      "content": "What is done is",
+      "music": 0.0
+    },
+    {
+      "from": 253.34,
+      "to": 255.08,
+      "sid": 143,
+      "location": 2,
+      "content": "I don't know if it's still that bad way worse",
+      "music": 0.0
+    },
+    {
+      "from": 255.08,
+      "to": 255.74,
+      "sid": 144,
+      "location": 2,
+      "content": "Because sup there",
+      "music": 0.21212117998161983
+    },
+    {
+      "from": 255.74,
+      "to": 257.9,
+      "sid": 145,
+      "location": 2,
+      "content": "You can only buy beer and rational you buy heart",
+      "music": 0.0
+    },
+    {
+      "from": 257.9,
+      "to": 258.659,
+      "sid": 146,
+      "location": 2,
+      "content": "Liquor stuff",
+      "music": 0.2857142346938287
+    },
+    {
+      "from": 258.659,
+      "to": 260.099,
+      "sid": 147,
+      "location": 2,
+      "content": "So when they stand the bootleers",
+      "music": 0.3963462751115094
+    },
+    {
+      "from": 260.099,
+      "to": 261.839,
+      "sid": 148,
+      "location": 2,
+      "content": "Which comes down",
+      "music": 0.8334874344600457
+    },
+    {
+      "from": 261.839,
+      "to": 264.939,
+      "sid": 149,
+      "location": 2,
+      "content": "And they get by uh beer and boda",
+      "music": 0.12234616328368446
+    },
+    {
+      "from": 264.939,
+      "to": 265.409,
+      "sid": 150,
+      "location": 2,
+      "content": "They did",
+      "music": 0.0
+    },
+    {
+      "from": 265.409,
+      "to": 267.169,
+      "sid": 151,
+      "location": 2,
+      "content": "And what they were doing was taking water balls",
+      "music": 0.0
+    },
+    {
+      "from": 267.169,
+      "to": 267.609,
+      "sid": 152,
+      "location": 2,
+      "content": "Poured half",
+      "music": 0.0
+    },
+    {
+      "from": 267.609,
+      "to": 269.889,
+      "sid": 153,
+      "location": 2,
+      "content": "The water up fill in rest of with with vodkd",
+      "music": 0.0
+    },
+    {
+      "from": 269.889,
+      "to": 272.009,
+      "sid": 154,
+      "location": 2,
+      "content": "Selling it to the onions up there for five bucks",
+      "music": 0.3978494409758079
+    },
+    {
+      "from": 272.009,
+      "to": 274.36,
+      "sid": 155,
+      "location": 2,
+      "content": "A bottle thing",
+      "music": 0.0
+    },
+    {
+      "from": 274.36,
+      "to": 274.56,
+      "sid": 156,
+      "location": 2,
+      "content": "Really",
+      "music": 0.0
+    },
+    {
+      "from": 274.56,
+      "to": 277.9,
+      "sid": 157,
+      "location": 2,
+      "content": "I just move traffic traffic",
+      "music": 0.2395209509125516
+    },
+    {
+      "from": 277.9,
+      "to": 278.48,
+      "sid": 158,
+      "location": 2,
+      "content": "老哥说",
+      "music": 0.0
+    },
+    {
+      "from": 278.48,
+      "to": 279.84,
+      "sid": 159,
+      "location": 2,
+      "content": "除了来消费的原住民",
+      "music": 0.0
+    },
+    {
+      "from": 279.84,
+      "to": 282.78,
+      "sid": 160,
+      "location": 2,
+      "content": "很多人也会搬到拉什维尔和附近的小镇工作",
+      "music": 0.0
+    },
+    {
+      "from": 282.78,
+      "to": 285.08,
+      "sid": 161,
+      "location": 2,
+      "content": "他之前是一个小建筑工程的老板",
+      "music": 0.0
+    },
+    {
+      "from": 285.08,
+      "to": 286.789,
+      "sid": 162,
+      "location": 2,
+      "content": "有过不少原住民的员工",
+      "music": 0.0
+    },
+    {
+      "from": 286.789,
+      "to": 289.849,
+      "sid": 163,
+      "location": 2,
+      "content": "他觉得有勇气搬出保罗蒂的原住民都很厉害了",
+      "music": 0.0
+    },
+    {
+      "from": 289.849,
+      "to": 291.289,
+      "sid": 164,
+      "location": 2,
+      "content": "而保罗蒂上面很穷",
+      "music": 0.0
+    },
+    {
+      "from": 291.289,
+      "to": 292.069,
+      "sid": 165,
+      "location": 2,
+      "content": "氛围很差",
+      "music": 0.0
+    },
+    {
+      "from": 292.069,
+      "to": 293.45,
+      "sid": 166,
+      "location": 2,
+      "content": "而且社会问题很多",
+      "music": 0.0
+    },
+    {
+      "from": 293.45,
+      "to": 295.89,
+      "sid": 167,
+      "location": 2,
+      "content": "留在那里相当于是陷入了一滩泥沼",
+      "music": 0.0
+    },
+    {
+      "from": 295.89,
+      "to": 297.65,
+      "sid": 168,
+      "location": 2,
+      "content": "下一集我也会带大家去看一看",
+      "music": 0.0
+    },
+    {
+      "from": 297.65,
+      "to": 299.51,
+      "sid": 169,
+      "location": 2,
+      "content": "美国最穷的松林保留地",
+      "music": 0.0
+    },
+    {
+      "from": 299.51,
+      "to": 301.23,
+      "sid": 170,
+      "location": 2,
+      "content": "拉什维尔往西20多公里",
+      "music": 0.0
+    },
+    {
+      "from": 301.23,
+      "to": 303.63,
+      "sid": 171,
+      "location": 2,
+      "content": "还有一个叫戈登的1500人小镇",
+      "music": 0.054298640076987176
+    },
+    {
+      "from": 303.63,
+      "to": 306.03,
+      "sid": 172,
+      "location": 2,
+      "content": "这里的总体情况也跟拉什维尔差不多",
+      "music": 0.0
+    },
+    {
+      "from": 306.03,
+      "to": 307.95,
+      "sid": 173,
+      "location": 2,
+      "content": "有很多原住民会下来消费",
+      "music": 0.0
+    },
+    {
+      "from": 307.95,
+      "to": 310.98,
+      "sid": 174,
+      "location": 2,
+      "content": "而搬出保留地的原住民也会选择来这里生活",
+      "music": 0.0
+    },
+    {
+      "from": 310.98,
+      "to": 313.44,
+      "sid": 175,
+      "location": 2,
+      "content": "在拉什维尔和戈登所在的谢里登县",
+      "music": 0.0
+    },
+    {
+      "from": 313.44,
+      "to": 314.9,
+      "sid": 176,
+      "location": 2,
+      "content": "我县人中有400多人",
+      "music": 0.0
+    },
+    {
+      "from": 314.9,
+      "to": 316.68,
+      "sid": 177,
+      "location": 2,
+      "content": "也就是90%原住民",
+      "music": 0.0
+    },
+    {
+      "from": 316.68,
+      "to": 319.66,
+      "sid": 178,
+      "location": 2,
+      "content": "由于戈登有周围这片地区最便宜的汽车旅馆",
+      "music": 0.0
+    },
+    {
+      "from": 319.66,
+      "to": 321.08,
+      "sid": 179,
+      "location": 2,
+      "content": "我也在这里住了一晚",
+      "music": 0.0
+    },
+    {
+      "from": 321.08,
+      "to": 323.4,
+      "sid": 180,
+      "location": 2,
+      "content": "就是这个右手边的western sense motel",
+      "music": 0.0
+    },
+    {
+      "from": 323.4,
+      "to": 325.42,
+      "sid": 181,
+      "location": 2,
+      "content": "这里的房间是70美元一晚",
+      "music": 0.0
+    },
+    {
+      "from": 325.42,
+      "to": 327.72,
+      "sid": 182,
+      "location": 2,
+      "content": "酒店前台是在一个小小的屋子里面",
+      "music": 0.0
+    },
+    {
+      "from": 327.72,
+      "to": 330.9,
+      "sid": 183,
+      "location": 2,
+      "content": "它里面这些装饰也是挺反映这边的政治气氛啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.9,
+      "to": 333.02,
+      "sid": 184,
+      "location": 2,
+      "content": "毕竟谢里登现84%的人",
+      "music": 0.0
+    },
+    {
+      "from": 333.02,
+      "to": 334.72,
+      "sid": 185,
+      "location": 2,
+      "content": "在2024年都投了特朗普",
+      "music": 0.0
+    },
+    {
+      "from": 337.36,
+      "to": 338.16,
+      "sid": 186,
+      "location": 2,
+      "content": "旗鼓相当",
+      "music": 0.0
+    },
+    {
+      "from": 338.16,
+      "to": 339.88,
+      "sid": 187,
+      "location": 2,
+      "content": "在2024年投哈里斯的比例",
+      "music": 0.0
+    },
+    {
+      "from": 339.88,
+      "to": 341.3,
+      "sid": 188,
+      "location": 2,
+      "content": "他们也是84%",
+      "music": 0.0
+    },
+    {
+      "from": 341.3,
+      "to": 342.4,
+      "sid": 189,
+      "location": 2,
+      "content": "我也顺便问了一下",
+      "music": 0.0
+    },
+    {
+      "from": 342.4,
+      "to": 342.84,
+      "sid": 190,
+      "location": 2,
+      "content": "问小白",
+      "music": 0.0
+    },
+    {
+      "from": 344.64,
+      "to": 346.289,
+      "sid": 191,
+      "location": 2,
+      "content": "他给出的答案也很全面",
+      "music": 0.0
+    },
+    {
+      "from": 346.289,
+      "to": 347.529,
+      "sid": 192,
+      "location": 2,
+      "content": "大家要是看新闻的时候",
+      "music": 0.0
+    },
+    {
+      "from": 347.529,
+      "to": 350.02,
+      "sid": 193,
+      "location": 2,
+      "content": "有感兴趣的问题也可以问问问小白哦",
+      "music": 0.0
+    },
+    {
+      "from": 350.02,
+      "to": 351.58,
+      "sid": 194,
+      "location": 2,
+      "content": "接着带大家看看房间",
+      "music": 0.0
+    },
+    {
+      "from": 351.58,
+      "to": 353.78,
+      "sid": 195,
+      "location": 2,
+      "content": "这个就是70美元招待所的水平",
+      "music": 0.0
+    },
+    {
+      "from": 353.78,
+      "to": 355.03,
+      "sid": 196,
+      "location": 2,
+      "content": "各位觉得怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 355.03,
+      "to": 356.07,
+      "sid": 197,
+      "location": 2,
+      "content": "值得一提的是",
+      "music": 0.0
+    },
+    {
+      "from": 356.07,
+      "to": 357.63,
+      "sid": 198,
+      "location": 2,
+      "content": "停在我房间门口的面包车",
+      "music": 0.0
+    },
+    {
+      "from": 357.63,
+      "to": 359.8,
+      "sid": 199,
+      "location": 2,
+      "content": "是松林保罗蒂上面一个小教堂的",
+      "music": 0.0
+    },
+    {
+      "from": 359.8,
+      "to": 362.26,
+      "sid": 200,
+      "location": 2,
+      "content": "本来想第二天早起拉他们来聊聊天的",
+      "music": 0.0
+    },
+    {
+      "from": 362.26,
+      "to": 363.44,
+      "sid": 201,
+      "location": 2,
+      "content": "可是我起床的时候",
+      "music": 0.0
+    },
+    {
+      "from": 363.44,
+      "to": 365.17,
+      "sid": 202,
+      "location": 2,
+      "content": "这辆门外的车已经消失了",
+      "music": 0.0
+    },
+    {
+      "from": 365.17,
+      "to": 365.53,
+      "sid": 203,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 365.53,
+      "to": 366.69,
+      "sid": 204,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 366.69,
+      "to": 369.86,
+      "sid": 205,
+      "location": 2,
+      "content": "关注我带你去更多普通人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

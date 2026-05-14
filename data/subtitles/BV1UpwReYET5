@@ -1,0 +1,3060 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.1,
+      "sid": 1,
+      "location": 2,
+      "content": "一夜的暴风雪后",
+      "music": 0.0
+    },
+    {
+      "from": 1.1,
+      "to": 3.84,
+      "sid": 2,
+      "location": 2,
+      "content": "我来到了美国大平原上的765人小村庄",
+      "music": 0.0
+    },
+    {
+      "from": 3.84,
+      "to": 4.9,
+      "sid": 3,
+      "location": 2,
+      "content": "阿尔姆伍德",
+      "music": 0.0
+    },
+    {
+      "from": 4.9,
+      "to": 6.78,
+      "sid": 4,
+      "location": 2,
+      "content": "这片人口构成是98%",
+      "music": 0.0
+    },
+    {
+      "from": 6.78,
+      "to": 7.82,
+      "sid": 5,
+      "location": 2,
+      "content": "白人1%",
+      "music": 0.0
+    },
+    {
+      "from": 7.82,
+      "to": 9.78,
+      "sid": 6,
+      "location": 2,
+      "content": "原住民1%混合种族",
+      "music": 0.0
+    },
+    {
+      "from": 9.78,
+      "to": 11.96,
+      "sid": 7,
+      "location": 2,
+      "content": "阿尔姆伍德是一个农业小村",
+      "music": 0.0
+    },
+    {
+      "from": 11.96,
+      "to": 13.22,
+      "sid": 8,
+      "location": 2,
+      "content": "方圆25km内",
+      "music": 0.0
+    },
+    {
+      "from": 13.22,
+      "to": 14.6,
+      "sid": 9,
+      "location": 2,
+      "content": "除了玉米地和大豆田",
+      "music": 0.0
+    },
+    {
+      "from": 14.6,
+      "to": 15.42,
+      "sid": 10,
+      "location": 2,
+      "content": "什么都没有",
+      "music": 0.0
+    },
+    {
+      "from": 15.42,
+      "to": 18.17,
+      "sid": 11,
+      "location": 2,
+      "content": "今天的户外温度差不多是零下11度",
+      "music": 0.0
+    },
+    {
+      "from": 18.17,
+      "to": 20.01,
+      "sid": 12,
+      "location": 2,
+      "content": "小村的主街上基本没有人",
+      "music": 0.0
+    },
+    {
+      "from": 20.01,
+      "to": 22.1,
+      "sid": 13,
+      "location": 2,
+      "content": "这条路上面空置的房子也不少",
+      "music": 0.0
+    },
+    {
+      "from": 22.1,
+      "to": 23.52,
+      "sid": 14,
+      "location": 2,
+      "content": "再加上雪后的周六",
+      "music": 0.0
+    },
+    {
+      "from": 23.52,
+      "to": 25.2,
+      "sid": 15,
+      "location": 2,
+      "content": "大部分商家也都歇业了",
+      "music": 0.0
+    },
+    {
+      "from": 25.2,
+      "to": 27.44,
+      "sid": 16,
+      "location": 2,
+      "content": "要不是前面这个棕色小房子的窗上",
+      "music": 0.0
+    },
+    {
+      "from": 27.44,
+      "to": 28.68,
+      "sid": 17,
+      "location": 2,
+      "content": "贴了一张小小的便签",
+      "music": 0.0
+    },
+    {
+      "from": 28.68,
+      "to": 29.84,
+      "sid": 18,
+      "location": 2,
+      "content": "携带有一元的甩卖",
+      "music": 0.0
+    },
+    {
+      "from": 29.84,
+      "to": 31.44,
+      "sid": 19,
+      "location": 2,
+      "content": "我还以为他们也倒闭了呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.44,
+      "to": 33.98,
+      "sid": 20,
+      "location": 2,
+      "content": "开门进去发现是一家二手慈善商店",
+      "music": 0.0
+    },
+    {
+      "from": 33.98,
+      "to": 36.32,
+      "sid": 21,
+      "location": 2,
+      "content": "没想到里面杂七杂八的东西挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 36.32,
+      "to": 37.92,
+      "sid": 22,
+      "location": 2,
+      "content": "而且价格还挺便宜的",
+      "music": 0.0
+    },
+    {
+      "from": 37.92,
+      "to": 39.72,
+      "sid": 23,
+      "location": 2,
+      "content": "有很多十美元以内的衣服",
+      "music": 0.0
+    },
+    {
+      "from": 39.72,
+      "to": 41.24,
+      "sid": 24,
+      "location": 2,
+      "content": "而很多书籍桌游",
+      "music": 0.0
+    },
+    {
+      "from": 41.24,
+      "to": 42.02,
+      "sid": 25,
+      "location": 2,
+      "content": "还有小物件",
+      "music": 0.0
+    },
+    {
+      "from": 42.02,
+      "to": 43.269,
+      "sid": 26,
+      "location": 2,
+      "content": "真的只要一块钱",
+      "music": 0.0
+    },
+    {
+      "from": 43.269,
+      "to": 44.989,
+      "sid": 27,
+      "location": 2,
+      "content": "虽然说我只象征性的买了一个",
+      "music": 0.0
+    },
+    {
+      "from": 44.989,
+      "to": 46.669,
+      "sid": 28,
+      "location": 2,
+      "content": "99美分的芝麻街玩偶",
+      "music": 0.0
+    },
+    {
+      "from": 46.669,
+      "to": 48.769,
+      "sid": 29,
+      "location": 2,
+      "content": "店员老奶奶依旧对我非常热情",
+      "music": 0.0
+    },
+    {
+      "from": 48.769,
+      "to": 51.589,
+      "sid": 30,
+      "location": 2,
+      "content": "一是在这个98%都是白人的小村子里",
+      "music": 0.0
+    },
+    {
+      "from": 51.589,
+      "to": 53.03,
+      "sid": 31,
+      "location": 2,
+      "content": "我一看就不是本地人",
+      "music": 0.0
+    },
+    {
+      "from": 53.03,
+      "to": 55.13,
+      "sid": 32,
+      "location": 2,
+      "content": "美国中西部的人还是比较热情的",
+      "music": 0.0
+    },
+    {
+      "from": 55.13,
+      "to": 57.92,
+      "sid": 33,
+      "location": 2,
+      "content": "二是这个小店本身就是一个非营利组织",
+      "music": 0.0
+    },
+    {
+      "from": 57.92,
+      "to": 60.3,
+      "sid": 34,
+      "location": 2,
+      "content": "大部分卖的物品都是村民捐赠的",
+      "music": 0.0
+    },
+    {
+      "from": 60.3,
+      "to": 63.48,
+      "sid": 35,
+      "location": 2,
+      "content": "这个小店的历史可以追溯到1994年那年",
+      "music": 0.0
+    },
+    {
+      "from": 63.48,
+      "to": 66.04,
+      "sid": 36,
+      "location": 2,
+      "content": "2月一场大火烧毁了小村的主教堂",
+      "music": 0.0
+    },
+    {
+      "from": 66.04,
+      "to": 67.12,
+      "sid": 37,
+      "location": 2,
+      "content": "很多人联合起来",
+      "music": 0.0
+    },
+    {
+      "from": 67.12,
+      "to": 69.72,
+      "sid": 38,
+      "location": 2,
+      "content": "租下了一栋主街上面的65平方小房子",
+      "music": 0.0
+    },
+    {
+      "from": 69.72,
+      "to": 70.789,
+      "sid": 39,
+      "location": 2,
+      "content": "做二手市场",
+      "music": 0.0
+    },
+    {
+      "from": 70.789,
+      "to": 72.949,
+      "sid": 40,
+      "location": 2,
+      "content": "大家的捐赠和购买意愿都很强",
+      "music": 0.0
+    },
+    {
+      "from": 72.949,
+      "to": 74.589,
+      "sid": 41,
+      "location": 2,
+      "content": "很快就筹够了资金",
+      "music": 0.0
+    },
+    {
+      "from": 74.589,
+      "to": 76.029,
+      "sid": 42,
+      "location": 2,
+      "content": "虽然说目标达成了",
+      "music": 0.0
+    },
+    {
+      "from": 76.029,
+      "to": 78.37,
+      "sid": 43,
+      "location": 2,
+      "content": "但是村民们也很喜欢这个二手商店",
+      "music": 0.0
+    },
+    {
+      "from": 78.37,
+      "to": 80.37,
+      "sid": 44,
+      "location": 2,
+      "content": "于是他就一直经营到了今天",
+      "music": 0.0
+    },
+    {
+      "from": 80.37,
+      "to": 82.29,
+      "sid": 45,
+      "location": 2,
+      "content": "如今这个店的面积已经扩大到了",
+      "music": 0.0
+    },
+    {
+      "from": 82.29,
+      "to": 83.59,
+      "sid": 46,
+      "location": 2,
+      "content": "278平方米",
+      "music": 0.0
+    },
+    {
+      "from": 83.59,
+      "to": 85.35,
+      "sid": 47,
+      "location": 2,
+      "content": "它经营的宗旨有两个",
+      "music": 0.0
+    },
+    {
+      "from": 85.35,
+      "to": 86.67,
+      "sid": 48,
+      "location": 2,
+      "content": "一是为了废物利用",
+      "music": 0.0
+    },
+    {
+      "from": 86.67,
+      "to": 88.83,
+      "sid": 49,
+      "location": 2,
+      "content": "并给大家一个淘便宜货的选择",
+      "music": 0.0
+    },
+    {
+      "from": 88.83,
+      "to": 91.43,
+      "sid": 50,
+      "location": 2,
+      "content": "二是为了教会以及村里各种各样的组织",
+      "music": 0.0
+    },
+    {
+      "from": 91.43,
+      "to": 92.949,
+      "sid": 51,
+      "location": 2,
+      "content": "筹集活动基金",
+      "music": 0.0
+    },
+    {
+      "from": 92.949,
+      "to": 95.709,
+      "sid": 52,
+      "location": 2,
+      "content": "比起二手商店阿姆伍德村民更自豪的是",
+      "music": 0.0
+    },
+    {
+      "from": 95.709,
+      "to": 97.429,
+      "sid": 53,
+      "location": 2,
+      "content": "他们这里出了一个很有名的作家",
+      "music": 0.0
+    },
+    {
+      "from": 97.429,
+      "to": 98.07,
+      "sid": 54,
+      "location": 2,
+      "content": "Bs",
+      "music": 0.0
+    },
+    {
+      "from": 98.07,
+      "to": 100.43,
+      "sid": 55,
+      "location": 2,
+      "content": "像是主街上面的壁画和村公园的牌子",
+      "music": 0.0
+    },
+    {
+      "from": 100.43,
+      "to": 103.43,
+      "sid": 56,
+      "location": 2,
+      "content": "上面都写着阿尔姆伍德best的故乡",
+      "music": 0.0
+    },
+    {
+      "from": 103.43,
+      "to": 104.79,
+      "sid": 57,
+      "location": 2,
+      "content": "best s在美国很有名",
+      "music": 0.0
+    },
+    {
+      "from": 104.79,
+      "to": 106.87,
+      "sid": 58,
+      "location": 2,
+      "content": "但是在中文互联网上资料很少",
+      "music": 0.0
+    },
+    {
+      "from": 106.87,
+      "to": 108.47,
+      "sid": 59,
+      "location": 2,
+      "content": "其实我的文化水平也不高",
+      "music": 0.0
+    },
+    {
+      "from": 108.47,
+      "to": 109.35,
+      "sid": 60,
+      "location": 2,
+      "content": "要不是来这里",
+      "music": 0.0
+    },
+    {
+      "from": 109.35,
+      "to": 110.9,
+      "sid": 61,
+      "location": 2,
+      "content": "我也没有听说过他",
+      "music": 0.0
+    },
+    {
+      "from": 110.9,
+      "to": 111.98,
+      "sid": 62,
+      "location": 2,
+      "content": "苦思冥想很久",
+      "music": 0.0
+    },
+    {
+      "from": 111.98,
+      "to": 114.2,
+      "sid": 63,
+      "location": 2,
+      "content": "也不知道怎么给大家介绍这个作家",
+      "music": 0.0
+    },
+    {
+      "from": 114.2,
+      "to": 116.949,
+      "sid": 64,
+      "location": 2,
+      "content": "于是我只能求助我查资料的好伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 116.949,
+      "to": 118.289,
+      "sid": 65,
+      "location": 2,
+      "content": "小霸王AI",
+      "music": 0.0
+    },
+    {
+      "from": 118.289,
+      "to": 120.949,
+      "sid": 66,
+      "location": 2,
+      "content": "我觉得他这个上面形容的还是挺准确的",
+      "music": 0.0
+    },
+    {
+      "from": 120.949,
+      "to": 122.429,
+      "sid": 67,
+      "location": 2,
+      "content": "在此之外补充一下",
+      "music": 0.0
+    },
+    {
+      "from": 122.429,
+      "to": 123.509,
+      "sid": 68,
+      "location": 2,
+      "content": "BETH在世的时候",
+      "music": 0.0
+    },
+    {
+      "from": 123.509,
+      "to": 125.729,
+      "sid": 69,
+      "location": 2,
+      "content": "曾经是全美收入最高的女作家",
+      "music": 0.0
+    },
+    {
+      "from": 125.729,
+      "to": 126.729,
+      "sid": 70,
+      "location": 2,
+      "content": "而他成名后",
+      "music": 0.0
+    },
+    {
+      "from": 126.729,
+      "to": 129.389,
+      "sid": 71,
+      "location": 2,
+      "content": "依旧选择留在阿尔姆伍德这个小村生活",
+      "music": 0.0
+    },
+    {
+      "from": 129.389,
+      "to": 132.829,
+      "sid": 72,
+      "location": 2,
+      "content": "而best s的旧居就在这个公园洗手间的斜对面",
+      "music": 0.0
+    },
+    {
+      "from": 132.829,
+      "to": 135.069,
+      "sid": 73,
+      "location": 2,
+      "content": "这个故居只有周末的下午开门",
+      "music": 0.0
+    },
+    {
+      "from": 135.069,
+      "to": 136.069,
+      "sid": 74,
+      "location": 2,
+      "content": "接待我的是一个",
+      "music": 0.0
+    },
+    {
+      "from": 136.069,
+      "to": 138.19,
+      "sid": 75,
+      "location": 2,
+      "content": "在这里做了18年向导的老奶奶",
+      "music": 0.0
+    },
+    {
+      "from": 138.19,
+      "to": 139.29,
+      "sid": 76,
+      "location": 2,
+      "content": "还有他们的馆长",
+      "music": 0.0
+    },
+    {
+      "from": 139.29,
+      "to": 142.21,
+      "sid": 77,
+      "location": 2,
+      "content": "曾经在小村教了30多年书的退休老教师",
+      "music": 0.0
+    },
+    {
+      "from": 142.21,
+      "to": 142.91,
+      "sid": 78,
+      "location": 2,
+      "content": "Came from iowa",
+      "music": 0.0
+    },
+    {
+      "from": 142.91,
+      "to": 145.88,
+      "sid": 79,
+      "location": 2,
+      "content": "Originally and better her husband wanted to on a bank somewhere",
+      "music": 0.0
+    },
+    {
+      "from": 145.88,
+      "to": 147.34,
+      "sid": 80,
+      "location": 2,
+      "content": "Or so she followed a lot",
+      "music": 0.0
+    },
+    {
+      "from": 147.34,
+      "to": 148.46,
+      "sid": 81,
+      "location": 2,
+      "content": "She wasn't very exciting",
+      "music": 0.0
+    },
+    {
+      "from": 148.46,
+      "to": 152.22,
+      "sid": 82,
+      "location": 2,
+      "content": "Because what for her memories of nebraska was meant that she",
+      "music": 0.0
+    },
+    {
+      "from": 152.22,
+      "to": 152.96,
+      "sid": 83,
+      "location": 2,
+      "content": "And her mother would",
+      "music": 0.0
+    },
+    {
+      "from": 152.96,
+      "to": 155.18,
+      "sid": 84,
+      "location": 2,
+      "content": "Dry apples and take old clothes and mend them",
+      "music": 0.0
+    },
+    {
+      "from": 155.18,
+      "to": 157.04,
+      "sid": 85,
+      "location": 2,
+      "content": "And send them to those poor people in nebraska",
+      "music": 0.0
+    },
+    {
+      "from": 157.04,
+      "to": 157.84,
+      "sid": 86,
+      "location": 2,
+      "content": "So she wasn't thinking",
+      "music": 0.0
+    },
+    {
+      "from": 157.84,
+      "to": 160.64,
+      "sid": 87,
+      "location": 2,
+      "content": "She was getting into a very good situation and in fact when she arrived",
+      "music": 0.0
+    },
+    {
+      "from": 160.64,
+      "to": 161.6,
+      "sid": 88,
+      "location": 2,
+      "content": "It was during a dust storm",
+      "music": 0.0
+    },
+    {
+      "from": 161.6,
+      "to": 163.4,
+      "sid": 89,
+      "location": 2,
+      "content": "It is not like a dust storm that we think of today",
+      "music": 0.0
+    },
+    {
+      "from": 163.4,
+      "to": 165.39,
+      "sid": 90,
+      "location": 2,
+      "content": "I mean she couldn't see across the street",
+      "music": 0.0
+    },
+    {
+      "from": 165.39,
+      "to": 168.12,
+      "sid": 91,
+      "location": 2,
+      "content": "And so um she was thinking this isn't going very well",
+      "music": 0.0
+    },
+    {
+      "from": 168.12,
+      "to": 169.0,
+      "sid": 92,
+      "location": 2,
+      "content": "And they drove up to the house",
+      "music": 0.0
+    },
+    {
+      "from": 169.0,
+      "to": 169.68,
+      "sid": 93,
+      "location": 2,
+      "content": "That they were trent",
+      "music": 0.0
+    },
+    {
+      "from": 169.68,
+      "to": 171.16,
+      "sid": 94,
+      "location": 2,
+      "content": "And her favorite rocker was on the front porch",
+      "music": 0.0
+    },
+    {
+      "from": 171.16,
+      "to": 172.0,
+      "sid": 95,
+      "location": 2,
+      "content": "And it was broken",
+      "music": 0.0
+    },
+    {
+      "from": 172.0,
+      "to": 173.12,
+      "sid": 96,
+      "location": 2,
+      "content": "So this isn't gonna build",
+      "music": 0.0
+    },
+    {
+      "from": 173.12,
+      "to": 173.52,
+      "sid": 97,
+      "location": 2,
+      "content": "Very well",
+      "music": 0.0
+    },
+    {
+      "from": 173.52,
+      "to": 174.87,
+      "sid": 98,
+      "location": 2,
+      "content": "So she walked inside though",
+      "music": 0.0
+    },
+    {
+      "from": 174.87,
+      "to": 177.07,
+      "sid": 99,
+      "location": 2,
+      "content": "And the neighbor lady had unpacked all of her dishes",
+      "music": 0.0
+    },
+    {
+      "from": 177.07,
+      "to": 178.09,
+      "sid": 100,
+      "location": 2,
+      "content": "And had cooked her her meal",
+      "music": 0.0
+    },
+    {
+      "from": 178.09,
+      "to": 179.95,
+      "sid": 101,
+      "location": 2,
+      "content": "And she said that was the type of hospitality",
+      "music": 0.0
+    },
+    {
+      "from": 179.95,
+      "to": 181.09,
+      "sid": 102,
+      "location": 2,
+      "content": "She experienced in this town",
+      "music": 0.0
+    },
+    {
+      "from": 181.09,
+      "to": 182.13,
+      "sid": 103,
+      "location": 2,
+      "content": "Every day of her life is",
+      "music": 0.0
+    },
+    {
+      "from": 182.13,
+      "to": 184.17,
+      "sid": 104,
+      "location": 2,
+      "content": "So that's why even after her husband died her",
+      "music": 0.0
+    },
+    {
+      "from": 184.17,
+      "to": 185.49,
+      "sid": 105,
+      "location": 2,
+      "content": "Publishers said come to the coast",
+      "music": 0.0
+    },
+    {
+      "from": 185.49,
+      "to": 186.71,
+      "sid": 106,
+      "location": 2,
+      "content": "We want to work with you on the coast",
+      "music": 0.0
+    },
+    {
+      "from": 186.71,
+      "to": 187.73,
+      "sid": 107,
+      "location": 2,
+      "content": "But she stayed right here",
+      "music": 0.0
+    },
+    {
+      "from": 187.73,
+      "to": 189.31,
+      "sid": 108,
+      "location": 2,
+      "content": "Because the people of this town",
+      "music": 0.0
+    },
+    {
+      "from": 189.31,
+      "to": 191.67,
+      "sid": 109,
+      "location": 2,
+      "content": "Were her essentially her extended family for her children",
+      "music": 0.0
+    },
+    {
+      "from": 191.67,
+      "to": 193.41,
+      "sid": 110,
+      "location": 2,
+      "content": "Who were still sixteen to four",
+      "music": 0.0
+    },
+    {
+      "from": 193.41,
+      "to": 196.3,
+      "sid": 111,
+      "location": 2,
+      "content": "So she had a so she basically liked a small town",
+      "music": 0.0
+    },
+    {
+      "from": 196.3,
+      "to": 198.32,
+      "sid": 112,
+      "location": 2,
+      "content": "And often wrote it off small town in nineteen",
+      "music": 0.0
+    },
+    {
+      "from": 198.32,
+      "to": 200.6,
+      "sid": 113,
+      "location": 2,
+      "content": "They build this house in nineteen twenty two um",
+      "music": 0.0
+    },
+    {
+      "from": 200.6,
+      "to": 203.08,
+      "sid": 114,
+      "location": 2,
+      "content": "And and nineteen twenty five or three short years later",
+      "music": 0.0
+    },
+    {
+      "from": 203.08,
+      "to": 204.54,
+      "sid": 115,
+      "location": 2,
+      "content": "Her husband died very suddenly",
+      "music": 0.0
+    },
+    {
+      "from": 204.54,
+      "to": 206.35,
+      "sid": 116,
+      "location": 2,
+      "content": "So she was a widow with four children",
+      "music": 0.0
+    },
+    {
+      "from": 206.35,
+      "to": 207.27,
+      "sid": 117,
+      "location": 2,
+      "content": "And um",
+      "music": 0.0
+    },
+    {
+      "from": 207.27,
+      "to": 209.55,
+      "sid": 118,
+      "location": 2,
+      "content": "So her comment was i guess my hoby's gonna",
+      "music": 0.0
+    },
+    {
+      "from": 209.55,
+      "to": 210.53,
+      "sid": 119,
+      "location": 2,
+      "content": "Have to make a living",
+      "music": 0.0
+    },
+    {
+      "from": 210.53,
+      "to": 212.23,
+      "sid": 120,
+      "location": 2,
+      "content": "And so she was really quite prolific",
+      "music": 0.0
+    },
+    {
+      "from": 212.23,
+      "to": 214.169,
+      "sid": 121,
+      "location": 2,
+      "content": "She wrote um uh a short story",
+      "music": 0.0
+    },
+    {
+      "from": 214.169,
+      "to": 215.789,
+      "sid": 122,
+      "location": 2,
+      "content": "Every month for like cosmopolitan",
+      "music": 0.0
+    },
+    {
+      "from": 215.789,
+      "to": 216.069,
+      "sid": 123,
+      "location": 2,
+      "content": "Saturday",
+      "music": 0.0
+    },
+    {
+      "from": 216.069,
+      "to": 217.67,
+      "sid": 124,
+      "location": 2,
+      "content": "Evening post any of those",
+      "music": 0.0
+    },
+    {
+      "from": 217.67,
+      "to": 219.25,
+      "sid": 125,
+      "location": 2,
+      "content": "And then uh she wrote uh",
+      "music": 0.0
+    },
+    {
+      "from": 219.25,
+      "to": 221.07,
+      "sid": 126,
+      "location": 2,
+      "content": "Twelve novels in that time too",
+      "music": 0.0
+    },
+    {
+      "from": 221.07,
+      "to": 222.41,
+      "sid": 127,
+      "location": 2,
+      "content": "So she had a regiment",
+      "music": 0.0
+    },
+    {
+      "from": 222.41,
+      "to": 222.77,
+      "sid": 128,
+      "location": 2,
+      "content": "She knew",
+      "music": 0.0
+    },
+    {
+      "from": 222.77,
+      "to": 223.53,
+      "sid": 129,
+      "location": 2,
+      "content": "She had to pay the bills",
+      "music": 0.0
+    },
+    {
+      "from": 223.53,
+      "to": 224.89,
+      "sid": 130,
+      "location": 2,
+      "content": "And so because her husband had passed",
+      "music": 0.0
+    },
+    {
+      "from": 224.89,
+      "to": 225.95,
+      "sid": 131,
+      "location": 2,
+      "content": "So um",
+      "music": 0.0
+    },
+    {
+      "from": 225.95,
+      "to": 227.27,
+      "sid": 132,
+      "location": 2,
+      "content": "I i tried here for thirty years",
+      "music": 0.0
+    },
+    {
+      "from": 227.27,
+      "to": 229.47,
+      "sid": 133,
+      "location": 2,
+      "content": "And so it was a fantastic experience",
+      "music": 0.0
+    },
+    {
+      "from": 229.47,
+      "to": 230.35,
+      "sid": 134,
+      "location": 2,
+      "content": "And supported parents",
+      "music": 0.0
+    },
+    {
+      "from": 230.35,
+      "to": 231.38,
+      "sid": 135,
+      "location": 2,
+      "content": "And um",
+      "music": 0.0
+    },
+    {
+      "from": 231.38,
+      "to": 233.88,
+      "sid": 136,
+      "location": 2,
+      "content": "Because students are and students who wanted to learn",
+      "music": 0.0
+    },
+    {
+      "from": 233.88,
+      "to": 235.56,
+      "sid": 137,
+      "location": 2,
+      "content": "You know that was really key",
+      "music": 0.0
+    },
+    {
+      "from": 235.56,
+      "to": 236.7,
+      "sid": 138,
+      "location": 2,
+      "content": "And um well",
+      "music": 0.0
+    },
+    {
+      "from": 236.7,
+      "to": 237.38,
+      "sid": 139,
+      "location": 2,
+      "content": "I didn't grow up here",
+      "music": 0.0
+    },
+    {
+      "from": 237.38,
+      "to": 239.66,
+      "sid": 140,
+      "location": 2,
+      "content": "But i wanted to teach near where i was living",
+      "music": 0.0
+    },
+    {
+      "from": 239.66,
+      "to": 241.82,
+      "sid": 141,
+      "location": 2,
+      "content": "So that i could feel like i was making an investment in my own",
+      "music": 0.0
+    },
+    {
+      "from": 241.82,
+      "to": 242.34,
+      "sid": 142,
+      "location": 2,
+      "content": "Community",
+      "music": 0.0
+    },
+    {
+      "from": 242.34,
+      "to": 244.3,
+      "sid": 143,
+      "location": 2,
+      "content": "Which is what um really has happened",
+      "music": 0.0
+    },
+    {
+      "from": 244.3,
+      "to": 245.62,
+      "sid": 144,
+      "location": 2,
+      "content": "A lot of our students have moved back",
+      "music": 0.0
+    },
+    {
+      "from": 245.62,
+      "to": 247.02,
+      "sid": 145,
+      "location": 2,
+      "content": "And i'm seeing a lot of students",
+      "music": 0.0
+    },
+    {
+      "from": 247.02,
+      "to": 248.62,
+      "sid": 146,
+      "location": 2,
+      "content": "Who are now moms and dads",
+      "music": 0.0
+    },
+    {
+      "from": 248.62,
+      "to": 250.58,
+      "sid": 147,
+      "location": 2,
+      "content": "Who are wanting to the same experience for their children",
+      "music": 0.0
+    },
+    {
+      "from": 250.58,
+      "to": 251.56,
+      "sid": 148,
+      "location": 2,
+      "content": "We raised our children here",
+      "music": 0.0
+    },
+    {
+      "from": 251.56,
+      "to": 252.539,
+      "sid": 149,
+      "location": 2,
+      "content": "So um",
+      "music": 0.0
+    },
+    {
+      "from": 252.539,
+      "to": 254.459,
+      "sid": 150,
+      "location": 2,
+      "content": "Which is another reason that it was something",
+      "music": 0.0
+    },
+    {
+      "from": 254.459,
+      "to": 255.73,
+      "sid": 151,
+      "location": 2,
+      "content": "I was important to us",
+      "music": 0.0
+    },
+    {
+      "from": 255.73,
+      "to": 258.17,
+      "sid": 152,
+      "location": 2,
+      "content": "So how do you feel about the difference between a small town school",
+      "music": 0.0
+    },
+    {
+      "from": 258.17,
+      "to": 258.75,
+      "sid": 153,
+      "location": 2,
+      "content": "District",
+      "music": 0.0
+    },
+    {
+      "from": 258.75,
+      "to": 260.21,
+      "sid": 154,
+      "location": 2,
+      "content": "And a large city",
+      "music": 0.0
+    },
+    {
+      "from": 260.21,
+      "to": 261.89,
+      "sid": 155,
+      "location": 2,
+      "content": "You know i don't think we may have as many of the",
+      "music": 0.0
+    },
+    {
+      "from": 261.89,
+      "to": 263.23,
+      "sid": 156,
+      "location": 2,
+      "content": "Issues that they may have to deal with",
+      "music": 0.0
+    },
+    {
+      "from": 263.23,
+      "to": 265.69,
+      "sid": 157,
+      "location": 2,
+      "content": "I think that you can get an excellent education and each one",
+      "music": 0.0
+    },
+    {
+      "from": 265.69,
+      "to": 268.77,
+      "sid": 158,
+      "location": 2,
+      "content": "But i for me it allowed my kids to connect to their neighbor",
+      "music": 0.0
+    },
+    {
+      "from": 268.77,
+      "to": 269.47,
+      "sid": 159,
+      "location": 2,
+      "content": "And mean it there",
+      "music": 0.0
+    },
+    {
+      "from": 269.47,
+      "to": 272.27,
+      "sid": 160,
+      "location": 2,
+      "content": "And uh uh get to know the people in your communities",
+      "music": 0.0
+    },
+    {
+      "from": 272.27,
+      "to": 273.59,
+      "sid": 161,
+      "location": 2,
+      "content": "So it was it was more than",
+      "music": 0.0
+    },
+    {
+      "from": 273.59,
+      "to": 275.229,
+      "sid": 162,
+      "location": 2,
+      "content": "Just the then",
+      "music": 0.0
+    },
+    {
+      "from": 275.229,
+      "to": 276.429,
+      "sid": 163,
+      "location": 2,
+      "content": "Just the educational component",
+      "music": 0.0
+    },
+    {
+      "from": 276.429,
+      "to": 279.4,
+      "sid": 164,
+      "location": 2,
+      "content": "It was more about feeling like you're part of it something bigger",
+      "music": 0.0
+    },
+    {
+      "from": 279.4,
+      "to": 280.28,
+      "sid": 165,
+      "location": 2,
+      "content": "And that's a good thing",
+      "music": 0.0
+    },
+    {
+      "from": 280.28,
+      "to": 280.96,
+      "sid": 166,
+      "location": 2,
+      "content": "And that's a bad thing",
+      "music": 0.0
+    },
+    {
+      "from": 280.96,
+      "to": 283.42,
+      "sid": 167,
+      "location": 2,
+      "content": "You know i i know what things are going on in town",
+      "music": 0.0
+    },
+    {
+      "from": 283.42,
+      "to": 284.56,
+      "sid": 168,
+      "location": 2,
+      "content": "And some of us gossip",
+      "music": 0.0
+    },
+    {
+      "from": 284.56,
+      "to": 285.46,
+      "sid": 169,
+      "location": 2,
+      "content": "And so that's the part",
+      "music": 0.0
+    },
+    {
+      "from": 285.46,
+      "to": 287.18,
+      "sid": 170,
+      "location": 2,
+      "content": "We hope we can leave behind on the other hand",
+      "music": 0.0
+    },
+    {
+      "from": 287.18,
+      "to": 288.14,
+      "sid": 171,
+      "location": 2,
+      "content": "If i hear somebody not feeling",
+      "music": 0.0
+    },
+    {
+      "from": 288.14,
+      "to": 288.99,
+      "sid": 172,
+      "location": 2,
+      "content": "Well um",
+      "music": 0.0
+    },
+    {
+      "from": 288.99,
+      "to": 290.79,
+      "sid": 173,
+      "location": 2,
+      "content": "You know you can take them send them",
+      "music": 0.0
+    },
+    {
+      "from": 290.79,
+      "to": 291.27,
+      "sid": 174,
+      "location": 2,
+      "content": "A card",
+      "music": 0.0
+    },
+    {
+      "from": 291.27,
+      "to": 293.11,
+      "sid": 175,
+      "location": 2,
+      "content": "You can take them all the joke is take them",
+      "music": 0.0
+    },
+    {
+      "from": 293.11,
+      "to": 295.37,
+      "sid": 176,
+      "location": 2,
+      "content": "A casserole or a cake or something like that",
+      "music": 0.0
+    },
+    {
+      "from": 295.37,
+      "to": 297.889,
+      "sid": 177,
+      "location": 2,
+      "content": "But um there's there's that component",
+      "music": 0.0
+    },
+    {
+      "from": 297.889,
+      "to": 300.54,
+      "sid": 178,
+      "location": 2,
+      "content": "And you know that's mrs aldridge when her husband died",
+      "music": 0.0
+    },
+    {
+      "from": 300.54,
+      "to": 301.98,
+      "sid": 179,
+      "location": 2,
+      "content": "That's why she decided to say is",
+      "music": 0.0
+    },
+    {
+      "from": 301.98,
+      "to": 303.9,
+      "sid": 180,
+      "location": 2,
+      "content": "Because her neighbor was now her family",
+      "music": 0.0
+    },
+    {
+      "from": 303.9,
+      "to": 304.98,
+      "sid": 181,
+      "location": 2,
+      "content": "And she didn't want to lead them",
+      "music": 0.0
+    },
+    {
+      "from": 304.98,
+      "to": 305.7,
+      "sid": 182,
+      "location": 2,
+      "content": "She needed to help her",
+      "music": 0.0
+    },
+    {
+      "from": 305.7,
+      "to": 306.83,
+      "sid": 183,
+      "location": 2,
+      "content": "Raise her children",
+      "music": 0.0
+    },
+    {
+      "from": 306.83,
+      "to": 308.27,
+      "sid": 184,
+      "location": 2,
+      "content": "So that was the whole thing",
+      "music": 0.0
+    },
+    {
+      "from": 308.27,
+      "to": 309.55,
+      "sid": 185,
+      "location": 2,
+      "content": "Because for publishers said",
+      "music": 0.0
+    },
+    {
+      "from": 309.55,
+      "to": 310.63,
+      "sid": 186,
+      "location": 2,
+      "content": "Come to the coast",
+      "music": 0.0
+    },
+    {
+      "from": 310.63,
+      "to": 311.35,
+      "sid": 187,
+      "location": 2,
+      "content": "That's where we are",
+      "music": 0.0
+    },
+    {
+      "from": 311.35,
+      "to": 313.98,
+      "sid": 188,
+      "location": 2,
+      "content": "It's it's not convenient for us to come to the midwest",
+      "music": 0.0
+    },
+    {
+      "from": 313.98,
+      "to": 316.78,
+      "sid": 189,
+      "location": 2,
+      "content": "And so that's still a true trait of small towns today",
+      "music": 0.0
+    },
+    {
+      "from": 316.78,
+      "to": 319.44,
+      "sid": 190,
+      "location": 2,
+      "content": "You know is that you get to know your neighbor",
+      "music": 0.0
+    },
+    {
+      "from": 319.44,
+      "to": 320.78,
+      "sid": 191,
+      "location": 2,
+      "content": "And rely on them",
+      "music": 0.0
+    },
+    {
+      "from": 320.78,
+      "to": 323.45,
+      "sid": 192,
+      "location": 2,
+      "content": "And can help them when their time of need that type of thing",
+      "music": 0.0
+    },
+    {
+      "from": 323.45,
+      "to": 324.97,
+      "sid": 193,
+      "location": 2,
+      "content": "我感觉这个小村是我去过的",
+      "music": 0.0
+    },
+    {
+      "from": 324.97,
+      "to": 326.43,
+      "sid": 194,
+      "location": 2,
+      "content": "社区氛围最好的一个",
+      "music": 0.0
+    },
+    {
+      "from": 326.43,
+      "to": 327.65,
+      "sid": 195,
+      "location": 2,
+      "content": "我在看湖居之前",
+      "music": 0.0
+    },
+    {
+      "from": 327.65,
+      "to": 330.18,
+      "sid": 196,
+      "location": 2,
+      "content": "就在入口处跟这两个人快聊了一个小时",
+      "music": 0.0
+    },
+    {
+      "from": 330.18,
+      "to": 331.46,
+      "sid": 197,
+      "location": 2,
+      "content": "这个地方的地理位置",
+      "music": 0.0
+    },
+    {
+      "from": 331.46,
+      "to": 334.4,
+      "sid": 198,
+      "location": 2,
+      "content": "再加上今天的天气是完全不会有人来参观的",
+      "music": 0.0
+    },
+    {
+      "from": 334.4,
+      "to": 335.8,
+      "sid": 199,
+      "location": 2,
+      "content": "比起大城市的景点",
+      "music": 0.0
+    },
+    {
+      "from": 335.8,
+      "to": 336.84,
+      "sid": 200,
+      "location": 2,
+      "content": "博物馆什么的",
+      "music": 0.0
+    },
+    {
+      "from": 336.84,
+      "to": 339.15,
+      "sid": 201,
+      "location": 2,
+      "content": "小地方的人也其实也更愿意跟你聊天",
+      "music": 0.0
+    },
+    {
+      "from": 339.15,
+      "to": 341.77,
+      "sid": 202,
+      "location": 2,
+      "content": "这个大哥要不是下午要去看孙女的篮球比赛",
+      "music": 0.0
+    },
+    {
+      "from": 341.77,
+      "to": 343.37,
+      "sid": 203,
+      "location": 2,
+      "content": "他还可以跟我再聊一会儿",
+      "music": 0.0
+    },
+    {
+      "from": 343.37,
+      "to": 345.77,
+      "sid": 204,
+      "location": 2,
+      "content": "而这个老奶奶的生活也是非常的充实",
+      "music": 0.0
+    },
+    {
+      "from": 345.77,
+      "to": 348.05,
+      "sid": 205,
+      "location": 2,
+      "content": "她加入了很多本地的社区组织",
+      "music": 0.0
+    },
+    {
+      "from": 348.05,
+      "to": 349.07,
+      "sid": 206,
+      "location": 2,
+      "content": "而且没有想到",
+      "music": 0.0
+    },
+    {
+      "from": 349.07,
+      "to": 352.07,
+      "sid": 207,
+      "location": 2,
+      "content": "他还在我开头去的那个慈善二手店做志愿者",
+      "music": 0.0
+    },
+    {
+      "from": 352.07,
+      "to": 352.81,
+      "sid": 208,
+      "location": 2,
+      "content": "他告诉我",
+      "music": 0.0
+    },
+    {
+      "from": 352.81,
+      "to": 355.12,
+      "sid": 209,
+      "location": 2,
+      "content": "下次他上班的时间让我再去一次",
+      "music": 0.0
+    },
+    {
+      "from": 355.12,
+      "to": 357.929,
+      "sid": 210,
+      "location": 2,
+      "content": "不得不感叹这个小村的世界真小",
+      "music": 0.0
+    },
+    {
+      "from": 357.929,
+      "to": 358.869,
+      "sid": 211,
+      "location": 2,
+      "content": "回到故居里",
+      "music": 0.0
+    },
+    {
+      "from": 358.869,
+      "to": 360.849,
+      "sid": 212,
+      "location": 2,
+      "content": "虽然我对这个座驾并不是太了解",
+      "music": 0.0
+    },
+    {
+      "from": 360.849,
+      "to": 363.269,
+      "sid": 213,
+      "location": 2,
+      "content": "但是在这个小房子里面逛还挺有意思",
+      "music": 0.0
+    },
+    {
+      "from": 363.269,
+      "to": 365.61,
+      "sid": 214,
+      "location": 2,
+      "content": "这边每个季度会搞一个主题展览",
+      "music": 0.0
+    },
+    {
+      "from": 365.61,
+      "to": 367.31,
+      "sid": 215,
+      "location": 2,
+      "content": "目前是童书之类的",
+      "music": 0.0
+    },
+    {
+      "from": 367.31,
+      "to": 369.67,
+      "sid": 216,
+      "location": 2,
+      "content": "每间房间还有一个更细分的主题",
+      "music": 0.0
+    },
+    {
+      "from": 369.67,
+      "to": 372.31,
+      "sid": 217,
+      "location": 2,
+      "content": "而所有的物件都是当地社会团体摆的",
+      "music": 0.0
+    },
+    {
+      "from": 372.31,
+      "to": 374.049,
+      "sid": 218,
+      "location": 2,
+      "content": "以反映他们组织的特色",
+      "music": 0.0
+    },
+    {
+      "from": 374.049,
+      "to": 375.889,
+      "sid": 219,
+      "location": 2,
+      "content": "这些都是大家自发搞这玩的",
+      "music": 0.0
+    },
+    {
+      "from": 375.889,
+      "to": 377.189,
+      "sid": 220,
+      "location": 2,
+      "content": "并不是有赞助什么的",
+      "music": 0.0
+    },
+    {
+      "from": 377.189,
+      "to": 378.909,
+      "sid": 221,
+      "location": 2,
+      "content": "毕竟这个地方也没有什么游客",
+      "music": 0.0
+    },
+    {
+      "from": 378.909,
+      "to": 380.469,
+      "sid": 222,
+      "location": 2,
+      "content": "自然也没有商业价值",
+      "music": 0.0
+    },
+    {
+      "from": 380.469,
+      "to": 382.87,
+      "sid": 223,
+      "location": 2,
+      "content": "甚至这个床上面的童书都是免费的",
+      "music": 0.0
+    },
+    {
+      "from": 382.87,
+      "to": 383.61,
+      "sid": 224,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 383.61,
+      "to": 385.51,
+      "sid": 225,
+      "location": 2,
+      "content": "这边还有不少有意思的老物件",
+      "music": 0.0
+    },
+    {
+      "from": 385.51,
+      "to": 387.37,
+      "sid": 226,
+      "location": 2,
+      "content": "比如说这个桌子的设计",
+      "music": 0.0
+    },
+    {
+      "from": 387.37,
+      "to": 389.35,
+      "sid": 227,
+      "location": 2,
+      "content": "How how you close this",
+      "music": 0.0
+    },
+    {
+      "from": 389.35,
+      "to": 390.91,
+      "sid": 228,
+      "location": 2,
+      "content": "And it's rather nei",
+      "music": 0.0
+    },
+    {
+      "from": 390.91,
+      "to": 392.71,
+      "sid": 229,
+      "location": 2,
+      "content": "I'm surprised they haven't thought of something",
+      "music": 0.0
+    },
+    {
+      "from": 392.71,
+      "to": 394.25,
+      "sid": 230,
+      "location": 2,
+      "content": "Like that from computers",
+      "music": 0.0
+    },
+    {
+      "from": 394.25,
+      "to": 395.83,
+      "sid": 231,
+      "location": 2,
+      "content": "Oh that's impressive ninety",
+      "music": 0.0
+    },
+    {
+      "from": 395.83,
+      "to": 396.15,
+      "sid": 232,
+      "location": 2,
+      "content": "Twenty two",
+      "music": 0.0
+    },
+    {
+      "from": 396.15,
+      "to": 397.05,
+      "sid": 233,
+      "location": 2,
+      "content": "They have this",
+      "music": 0.0
+    },
+    {
+      "from": 397.05,
+      "to": 399.53,
+      "sid": 234,
+      "location": 2,
+      "content": "I thought this should be at least like seventies",
+      "music": 0.0
+    },
+    {
+      "from": 399.53,
+      "to": 400.17,
+      "sid": 235,
+      "location": 2,
+      "content": "Eighties",
+      "music": 0.0
+    },
+    {
+      "from": 400.17,
+      "to": 401.57,
+      "sid": 236,
+      "location": 2,
+      "content": "No in fact",
+      "music": 0.0
+    },
+    {
+      "from": 401.57,
+      "to": 402.19,
+      "sid": 237,
+      "location": 2,
+      "content": "I",
+      "music": 0.0
+    },
+    {
+      "from": 402.19,
+      "to": 405.31,
+      "sid": 238,
+      "location": 2,
+      "content": "And i don't think they ever changed things never changed",
+      "music": 0.0
+    },
+    {
+      "from": 405.31,
+      "to": 405.67,
+      "sid": 239,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 405.67,
+      "to": 408.27,
+      "sid": 240,
+      "location": 2,
+      "content": "Because like i said at nineteen forty in the forty s",
+      "music": 0.0
+    },
+    {
+      "from": 408.27,
+      "to": 409.59,
+      "sid": 241,
+      "location": 2,
+      "content": "My mother had a setup",
+      "music": 0.0
+    },
+    {
+      "from": 409.59,
+      "to": 410.79,
+      "sid": 242,
+      "location": 2,
+      "content": "Just like them lifts",
+      "music": 0.0
+    },
+    {
+      "from": 410.79,
+      "to": 414.23,
+      "sid": 243,
+      "location": 2,
+      "content": "It has two udouble stoves",
+      "music": 0.07511736736539573
+    },
+    {
+      "from": 414.71,
+      "to": 415.13,
+      "sid": 244,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 415.13,
+      "to": 418.07,
+      "sid": 245,
+      "location": 2,
+      "content": "And this released and pulled out",
+      "music": 0.10232557663603077
+    },
+    {
+      "from": 418.07,
+      "to": 420.33,
+      "sid": 246,
+      "location": 2,
+      "content": "So that you had a unit to cook on",
+      "music": 0.0
+    },
+    {
+      "from": 420.33,
+      "to": 423.87,
+      "sid": 247,
+      "location": 2,
+      "content": "Oh and then you could put it away",
+      "music": 0.0
+    },
+    {
+      "from": 423.87,
+      "to": 427.79,
+      "sid": 248,
+      "location": 2,
+      "content": "两次阿姆伍德已经算是我去过还不错的村子了",
+      "music": 0.22297296544009332
+    },
+    {
+      "from": 427.79,
+      "to": 428.71,
+      "sid": 249,
+      "location": 2,
+      "content": "但是老奶奶也说",
+      "music": 0.0
+    },
+    {
+      "from": 428.71,
+      "to": 430.24,
+      "sid": 250,
+      "location": 2,
+      "content": "这里不比当年了",
+      "music": 0.0
+    },
+    {
+      "from": 430.24,
+      "to": 432.16,
+      "sid": 251,
+      "location": 2,
+      "content": "So we try moving down",
+      "music": 0.0
+    },
+    {
+      "from": 432.16,
+      "to": 433.54,
+      "sid": 252,
+      "location": 2,
+      "content": "So you had a theater",
+      "music": 0.0
+    },
+    {
+      "from": 433.54,
+      "to": 434.86,
+      "sid": 253,
+      "location": 2,
+      "content": "How many pharmacies",
+      "music": 0.0
+    },
+    {
+      "from": 434.86,
+      "to": 436.28,
+      "sid": 254,
+      "location": 2,
+      "content": "We had two pharmacy",
+      "music": 0.0
+    },
+    {
+      "from": 436.28,
+      "to": 437.6,
+      "sid": 255,
+      "location": 2,
+      "content": "Had three grocery",
+      "music": 0.0
+    },
+    {
+      "from": 437.6,
+      "to": 438.83,
+      "sid": 256,
+      "location": 2,
+      "content": "Three grocery stores",
+      "music": 0.0
+    },
+    {
+      "from": 438.83,
+      "to": 439.33,
+      "sid": 257,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 439.33,
+      "to": 441.59,
+      "sid": 258,
+      "location": 2,
+      "content": "You know things change in a little town",
+      "music": 0.0
+    },
+    {
+      "from": 441.59,
+      "to": 444.17,
+      "sid": 259,
+      "location": 2,
+      "content": "Because everybody has to go to bigger cities to work",
+      "music": 0.0
+    },
+    {
+      "from": 444.17,
+      "to": 446.74,
+      "sid": 260,
+      "location": 2,
+      "content": "And so you ended up with just",
+      "music": 0.0
+    },
+    {
+      "from": 446.74,
+      "to": 449.18,
+      "sid": 261,
+      "location": 2,
+      "content": "如今想在阿尔姆伍德买生活用品",
+      "music": 0.0
+    },
+    {
+      "from": 449.18,
+      "to": 452.01,
+      "sid": 262,
+      "location": 2,
+      "content": "唯一的选择就是这个加油站旁边的便利店了",
+      "music": 0.0
+    },
+    {
+      "from": 452.01,
+      "to": 454.19,
+      "sid": 263,
+      "location": 2,
+      "content": "这里的油价是三美元一加仑",
+      "music": 0.0
+    },
+    {
+      "from": 454.19,
+      "to": 457.35,
+      "sid": 264,
+      "location": 2,
+      "content": "不知道跟现在北美别的地方比起来贵还是便宜",
+      "music": 0.0
+    },
+    {
+      "from": 457.35,
+      "to": 459.1,
+      "sid": 265,
+      "location": 2,
+      "content": "现在我们进小店里看看",
+      "music": 0.0
+    },
+    {
+      "from": 459.1,
+      "to": 461.7,
+      "sid": 266,
+      "location": 2,
+      "content": "这个便利店里面还自带娱乐设备啊",
+      "music": 0.0
+    },
+    {
+      "from": 461.7,
+      "to": 464.97,
+      "sid": 267,
+      "location": 2,
+      "content": "这边还附带几个可以坐着吃饭的小桌子",
+      "music": 0.0
+    },
+    {
+      "from": 464.97,
+      "to": 467.29,
+      "sid": 268,
+      "location": 2,
+      "content": "卖的都是一些美国的传统快餐",
+      "music": 0.0
+    },
+    {
+      "from": 467.29,
+      "to": 468.25,
+      "sid": 269,
+      "location": 2,
+      "content": "比如说汉堡",
+      "music": 0.0
+    },
+    {
+      "from": 468.25,
+      "to": 469.53,
+      "sid": 270,
+      "location": 2,
+      "content": "还有各种炸物",
+      "music": 0.0
+    },
+    {
+      "from": 469.53,
+      "to": 471.61,
+      "sid": 271,
+      "location": 2,
+      "content": "这些都是冻货和预制菜",
+      "music": 0.0
+    },
+    {
+      "from": 471.61,
+      "to": 472.51,
+      "sid": 272,
+      "location": 2,
+      "content": "我点了餐",
+      "music": 0.0
+    },
+    {
+      "from": 472.51,
+      "to": 473.81,
+      "sid": 273,
+      "location": 2,
+      "content": "工作人员直接大大方方",
+      "music": 0.0
+    },
+    {
+      "from": 473.81,
+      "to": 476.4,
+      "sid": 274,
+      "location": 2,
+      "content": "从后面冰箱里面拿了九只炸虾出来",
+      "music": 0.0
+    },
+    {
+      "from": 476.4,
+      "to": 477.08,
+      "sid": 275,
+      "location": 2,
+      "content": "这么一盒",
+      "music": 0.0
+    },
+    {
+      "from": 477.08,
+      "to": 477.84,
+      "sid": 276,
+      "location": 2,
+      "content": "加上一个可乐",
+      "music": 0.0
+    },
+    {
+      "from": 477.84,
+      "to": 478.78,
+      "sid": 277,
+      "location": 2,
+      "content": "一共是八美元",
+      "music": 0.0
+    },
+    {
+      "from": 478.78,
+      "to": 479.95,
+      "sid": 278,
+      "location": 2,
+      "content": "你们觉得贵吗",
+      "music": 0.0
+    },
+    {
+      "from": 479.95,
+      "to": 481.93,
+      "sid": 279,
+      "location": 2,
+      "content": "从阿尔姆伍德往的20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 481.93,
+      "to": 484.99,
+      "sid": 280,
+      "location": 2,
+      "content": "还有一个叫帕尔曼拉的534人小村",
+      "music": 0.0
+    },
+    {
+      "from": 484.99,
+      "to": 485.95,
+      "sid": 281,
+      "location": 2,
+      "content": "那边的路少",
+      "music": 0.0
+    },
+    {
+      "from": 485.95,
+      "to": 488.33,
+      "sid": 282,
+      "location": 2,
+      "content": "正好带大家看一下这边杳无人烟的野外",
+      "music": 0.0
+    },
+    {
+      "from": 488.33,
+      "to": 489.47,
+      "sid": 283,
+      "location": 2,
+      "content": "像这个黄牌子写的",
+      "music": 0.0
+    },
+    {
+      "from": 489.47,
+      "to": 491.33,
+      "sid": 284,
+      "location": 2,
+      "content": "就是这边的路是没有人维护的",
+      "music": 0.0
+    },
+    {
+      "from": 491.33,
+      "to": 491.95,
+      "sid": 285,
+      "location": 2,
+      "content": "往前开",
+      "music": 0.0
+    },
+    {
+      "from": 491.95,
+      "to": 493.14,
+      "sid": 286,
+      "location": 2,
+      "content": "你自担风险吧",
+      "music": 0.0
+    },
+    {
+      "from": 493.14,
+      "to": 494.68,
+      "sid": 287,
+      "location": 2,
+      "content": "这边野外有不少小溪",
+      "music": 0.0
+    },
+    {
+      "from": 494.68,
+      "to": 496.72,
+      "sid": 288,
+      "location": 2,
+      "content": "我经过了好几座这样子的小桥",
+      "music": 0.0
+    },
+    {
+      "from": 496.72,
+      "to": 497.7,
+      "sid": 289,
+      "location": 2,
+      "content": "都是没有护栏",
+      "music": 0.0
+    },
+    {
+      "from": 497.7,
+      "to": 500.66,
+      "sid": 290,
+      "location": 2,
+      "content": "而且同时只能一辆车通行的",
+      "music": 0.0
+    },
+    {
+      "from": 504.5,
+      "to": 507.21,
+      "sid": 291,
+      "location": 2,
+      "content": "现在我拿到了534人的帕尔麦拉",
+      "music": 0.0
+    },
+    {
+      "from": 507.21,
+      "to": 509.05,
+      "sid": 292,
+      "location": 2,
+      "content": "这边除了没有出一个大作家",
+      "music": 0.0
+    },
+    {
+      "from": 509.05,
+      "to": 511.53,
+      "sid": 293,
+      "location": 2,
+      "content": "大致的情况跟阿尔蒙伍德差不多",
+      "music": 0.0
+    },
+    {
+      "from": 511.53,
+      "to": 513.59,
+      "sid": 294,
+      "location": 2,
+      "content": "主街上面有一家倒闭的牛排馆",
+      "music": 0.0
+    },
+    {
+      "from": 513.59,
+      "to": 515.96,
+      "sid": 295,
+      "location": 2,
+      "content": "门上面还贴着一张寻人启事",
+      "music": 0.0
+    },
+    {
+      "from": 515.96,
+      "to": 518.64,
+      "sid": 296,
+      "location": 2,
+      "content": "这个小村给我印象最深的就是这么小一个地方",
+      "music": 0.0
+    },
+    {
+      "from": 518.64,
+      "to": 521.299,
+      "sid": 297,
+      "location": 2,
+      "content": "竟然有着三个维护的特别好的橄榄球场",
+      "music": 0.0
+    },
+    {
+      "from": 521.299,
+      "to": 524.099,
+      "sid": 298,
+      "location": 2,
+      "content": "正好在阿尔姆姆泽故居做向导的老奶奶",
+      "music": 0.0
+    },
+    {
+      "from": 524.099,
+      "to": 526.719,
+      "sid": 299,
+      "location": 2,
+      "content": "小时候在帕尔曼拉还生活过一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 526.719,
+      "to": 527.739,
+      "sid": 300,
+      "location": 2,
+      "content": "跟她闲聊的时候",
+      "music": 0.0
+    },
+    {
+      "from": 527.739,
+      "to": 529.18,
+      "sid": 301,
+      "location": 2,
+      "content": "我顺便提到了这个话题",
+      "music": 0.0
+    },
+    {
+      "from": 529.18,
+      "to": 530.8,
+      "sid": 302,
+      "location": 2,
+      "content": "One it is a practice field",
+      "music": 0.0
+    },
+    {
+      "from": 530.8,
+      "to": 532.9,
+      "sid": 303,
+      "location": 2,
+      "content": "The others are to play on",
+      "music": 0.0
+    },
+    {
+      "from": 532.9,
+      "to": 534.66,
+      "sid": 304,
+      "location": 2,
+      "content": "Because you have different groups",
+      "music": 0.0
+    },
+    {
+      "from": 534.66,
+      "to": 535.5,
+      "sid": 305,
+      "location": 2,
+      "content": "You have high school",
+      "music": 0.0
+    },
+    {
+      "from": 535.5,
+      "to": 539.22,
+      "sid": 306,
+      "location": 2,
+      "content": "You have middle school and dr olson left five million dollars",
+      "music": 0.0
+    },
+    {
+      "from": 539.22,
+      "to": 542.48,
+      "sid": 307,
+      "location": 2,
+      "content": "And so they decided to build big sports complex",
+      "music": 0.0
+    },
+    {
+      "from": 542.48,
+      "to": 544.55,
+      "sid": 308,
+      "location": 2,
+      "content": "They even have a baseball field there",
+      "music": 0.0
+    },
+    {
+      "from": 544.55,
+      "to": 548.87,
+      "sid": 309,
+      "location": 2,
+      "content": "And they've added to the park and grew up in palmyra",
+      "music": 0.0
+    },
+    {
+      "from": 548.87,
+      "to": 552.6,
+      "sid": 310,
+      "location": 2,
+      "content": "How did he make such fortune being a doctor",
+      "music": 0.0
+    },
+    {
+      "from": 552.6,
+      "to": 554.08,
+      "sid": 311,
+      "location": 2,
+      "content": "being a dr.哦",
+      "music": 0.0
+    },
+    {
+      "from": 554.08,
+      "to": 554.78,
+      "sid": 312,
+      "location": 2,
+      "content": "Sorry love",
+      "music": 0.0
+    },
+    {
+      "from": 554.78,
+      "to": 555.56,
+      "sid": 313,
+      "location": 2,
+      "content": "So much",
+      "music": 0.0
+    },
+    {
+      "from": 555.57,
+      "to": 556.56,
+      "sid": 314,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 556.56,
+      "to": 557.0,
+      "sid": 315,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 557.0,
+      "to": 559.94,
+      "sid": 316,
+      "location": 2,
+      "content": "His mother lived right across the street from my grandmother",
+      "music": 0.0
+    },
+    {
+      "from": 559.94,
+      "to": 562.12,
+      "sid": 317,
+      "location": 2,
+      "content": "Oh and so i didn't know his mother",
+      "music": 0.0
+    },
+    {
+      "from": 562.12,
+      "to": 562.3,
+      "sid": 318,
+      "location": 2,
+      "content": "Quite",
+      "music": 0.0
+    },
+    {
+      "from": 562.3,
+      "to": 562.64,
+      "sid": 319,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 562.64,
+      "to": 563.72,
+      "sid": 320,
+      "location": 2,
+      "content": "Oh that's wild",
+      "music": 0.0
+    },
+    {
+      "from": 563.72,
+      "to": 564.0,
+      "sid": 321,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 564.0,
+      "to": 564.34,
+      "sid": 322,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 564.34,
+      "to": 567.04,
+      "sid": 323,
+      "location": 2,
+      "content": "How important is like the sports in small house",
+      "music": 0.0
+    },
+    {
+      "from": 567.04,
+      "to": 568.44,
+      "sid": 324,
+      "location": 2,
+      "content": "Oh it's it's really important",
+      "music": 0.0
+    },
+    {
+      "from": 568.44,
+      "to": 569.74,
+      "sid": 325,
+      "location": 2,
+      "content": "So uh in fact",
+      "music": 0.0
+    },
+    {
+      "from": 569.74,
+      "to": 570.64,
+      "sid": 326,
+      "location": 2,
+      "content": "I just there",
+      "music": 0.0
+    },
+    {
+      "from": 570.64,
+      "to": 571.98,
+      "sid": 327,
+      "location": 2,
+      "content": "I was just watching my granddaughter play",
+      "music": 0.0
+    },
+    {
+      "from": 571.98,
+      "to": 572.74,
+      "sid": 328,
+      "location": 2,
+      "content": "And she's a third reader",
+      "music": 0.0
+    },
+    {
+      "from": 572.74,
+      "to": 575.38,
+      "sid": 329,
+      "location": 2,
+      "content": "You know so um play basketball lips at this school",
+      "music": 0.0
+    },
+    {
+      "from": 575.38,
+      "to": 576.26,
+      "sid": 330,
+      "location": 2,
+      "content": "But uh again",
+      "music": 0.0
+    },
+    {
+      "from": 576.26,
+      "to": 579.02,
+      "sid": 331,
+      "location": 2,
+      "content": "I think that's because that brings that that come come rogery",
+      "music": 0.0
+    },
+    {
+      "from": 579.02,
+      "to": 580.14,
+      "sid": 332,
+      "location": 2,
+      "content": "You know where people come together",
+      "music": 0.0
+    },
+    {
+      "from": 580.14,
+      "to": 582.3,
+      "sid": 333,
+      "location": 2,
+      "content": "And they get to root for their own people for a little bit",
+      "music": 0.0
+    },
+    {
+      "from": 582.3,
+      "to": 584.72,
+      "sid": 334,
+      "location": 2,
+      "content": "You know um sometimes to a fault",
+      "music": 0.0
+    },
+    {
+      "from": 584.72,
+      "to": 585.7,
+      "sid": 335,
+      "location": 2,
+      "content": "You know um",
+      "music": 0.0
+    },
+    {
+      "from": 585.7,
+      "to": 587.22,
+      "sid": 336,
+      "location": 2,
+      "content": "And that's one of the reasons that like",
+      "music": 0.0
+    },
+    {
+      "from": 587.22,
+      "to": 588.94,
+      "sid": 337,
+      "location": 2,
+      "content": "I've enjoyed working here at the older house",
+      "music": 0.0
+    },
+    {
+      "from": 588.94,
+      "to": 591.49,
+      "sid": 338,
+      "location": 2,
+      "content": "Because we're working on cultural things",
+      "music": 0.0
+    },
+    {
+      "from": 591.49,
+      "to": 592.91,
+      "sid": 339,
+      "location": 2,
+      "content": "We're working on arts",
+      "music": 0.0
+    },
+    {
+      "from": 592.91,
+      "to": 593.99,
+      "sid": 340,
+      "location": 2,
+      "content": "And those kinds of things",
+      "music": 0.0
+    },
+    {
+      "from": 593.99,
+      "to": 597.0,
+      "sid": 341,
+      "location": 2,
+      "content": "Which sometimes can be the first programs to get cut um",
+      "music": 0.0
+    },
+    {
+      "from": 597.0,
+      "to": 598.0,
+      "sid": 342,
+      "location": 2,
+      "content": "I'm not too worried about them",
+      "music": 0.0
+    },
+    {
+      "from": 598.0,
+      "to": 599.41,
+      "sid": 343,
+      "location": 2,
+      "content": "Ever cutting the basketball program",
+      "music": 0.0
+    },
+    {
+      "from": 599.41,
+      "to": 600.33,
+      "sid": 344,
+      "location": 2,
+      "content": "Are you worried about that",
+      "music": 0.0
+    },
+    {
+      "from": 600.33,
+      "to": 600.89,
+      "sid": 345,
+      "location": 2,
+      "content": "Caroll no",
+      "music": 0.0
+    },
+    {
+      "from": 600.89,
+      "to": 602.97,
+      "sid": 346,
+      "location": 2,
+      "content": "I'm worried about people will make sure that that is fun",
+      "music": 0.0
+    },
+    {
+      "from": 602.97,
+      "to": 604.89,
+      "sid": 347,
+      "location": 2,
+      "content": "And so one advantage to a smaller school",
+      "music": 0.0
+    },
+    {
+      "from": 604.89,
+      "to": 607.47,
+      "sid": 348,
+      "location": 2,
+      "content": "Is that all the children have an opportunity to play",
+      "music": 0.0
+    },
+    {
+      "from": 607.47,
+      "to": 607.73,
+      "sid": 349,
+      "location": 2,
+      "content": "It",
+      "music": 0.0
+    },
+    {
+      "from": 607.73,
+      "to": 609.2,
+      "sid": 350,
+      "location": 2,
+      "content": "Isn't just the best",
+      "music": 0.0
+    },
+    {
+      "from": 609.2,
+      "to": 609.62,
+      "sid": 351,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 609.62,
+      "to": 610.62,
+      "sid": 352,
+      "location": 2,
+      "content": "Just the best in other words",
+      "music": 0.0
+    },
+    {
+      "from": 610.62,
+      "to": 611.76,
+      "sid": 353,
+      "location": 2,
+      "content": "You don't have to try out",
+      "music": 0.0
+    },
+    {
+      "from": 611.76,
+      "to": 613.22,
+      "sid": 354,
+      "location": 2,
+      "content": "It's if you want to play basketball",
+      "music": 0.0
+    },
+    {
+      "from": 613.22,
+      "to": 613.98,
+      "sid": 355,
+      "location": 2,
+      "content": "You play basketball",
+      "music": 0.0
+    },
+    {
+      "from": 613.98,
+      "to": 614.74,
+      "sid": 356,
+      "location": 2,
+      "content": "You want to play football",
+      "music": 0.0
+    },
+    {
+      "from": 614.74,
+      "to": 615.54,
+      "sid": 357,
+      "location": 2,
+      "content": "You play football",
+      "music": 0.0
+    },
+    {
+      "from": 615.54,
+      "to": 617.05,
+      "sid": 358,
+      "location": 2,
+      "content": "You know you're they get it",
+      "music": 0.0
+    },
+    {
+      "from": 617.05,
+      "to": 618.01,
+      "sid": 359,
+      "location": 2,
+      "content": "They get more opportunity",
+      "music": 0.0
+    },
+    {
+      "from": 618.01,
+      "to": 618.53,
+      "sid": 360,
+      "location": 2,
+      "content": "That way they give you",
+      "music": 0.0
+    },
+    {
+      "from": 618.53,
+      "to": 619.43,
+      "sid": 361,
+      "location": 2,
+      "content": "The opportunity",
+      "music": 0.0
+    },
+    {
+      "from": 619.43,
+      "to": 620.61,
+      "sid": 362,
+      "location": 2,
+      "content": "And if you're really good then",
+      "music": 0.0
+    },
+    {
+      "from": 620.61,
+      "to": 620.79,
+      "sid": 363,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 620.79,
+      "to": 621.69,
+      "sid": 364,
+      "location": 2,
+      "content": "You're gonna make it better",
+      "music": 0.0
+    },
+    {
+      "from": 621.69,
+      "to": 622.49,
+      "sid": 365,
+      "location": 2,
+      "content": "But if you aren't",
+      "music": 0.0
+    },
+    {
+      "from": 622.49,
+      "to": 624.4,
+      "sid": 366,
+      "location": 2,
+      "content": "Why that's that's fine they don't care at least",
+      "music": 0.0
+    },
+    {
+      "from": 624.4,
+      "to": 626.4,
+      "sid": 367,
+      "location": 2,
+      "content": "You've had the opportunity and the experience",
+      "music": 0.0
+    },
+    {
+      "from": 626.4,
+      "to": 628.64,
+      "sid": 368,
+      "location": 2,
+      "content": "Where a lot of kids and big girls miss out on that",
+      "music": 0.0
+    },
+    {
+      "from": 628.64,
+      "to": 629.96,
+      "sid": 369,
+      "location": 2,
+      "content": "Because you have to try out",
+      "music": 0.0
+    },
+    {
+      "from": 629.96,
+      "to": 631.19,
+      "sid": 370,
+      "location": 2,
+      "content": "And if you're not accepted",
+      "music": 0.0
+    },
+    {
+      "from": 631.19,
+      "to": 633.15,
+      "sid": 371,
+      "location": 2,
+      "content": "虽说帕尔曼拉的学校还不错",
+      "music": 0.0
+    },
+    {
+      "from": 633.15,
+      "to": 635.47,
+      "sid": 372,
+      "location": 2,
+      "content": "但这里也没有什么吃饭娱乐的地方",
+      "music": 0.0
+    },
+    {
+      "from": 635.47,
+      "to": 639.09,
+      "sid": 373,
+      "location": 2,
+      "content": "好在村中心有一个小杂货店里面挺质朴的吧",
+      "music": 0.0
+    },
+    {
+      "from": 639.09,
+      "to": 641.329,
+      "sid": 374,
+      "location": 2,
+      "content": "就是一些基本的日用品和食物",
+      "music": 0.0
+    },
+    {
+      "from": 641.329,
+      "to": 643.289,
+      "sid": 375,
+      "location": 2,
+      "content": "我买了这个2.79美元的面包",
+      "music": 0.0
+    },
+    {
+      "from": 643.289,
+      "to": 644.969,
+      "sid": 376,
+      "location": 2,
+      "content": "和1.99美元的佳得乐",
+      "music": 0.0
+    },
+    {
+      "from": 644.969,
+      "to": 647.5,
+      "sid": 377,
+      "location": 2,
+      "content": "不知道大家怎么看这样的美国小村生活呢",
+      "music": 0.0
+    },
+    {
+      "from": 647.5,
+      "to": 649.58,
+      "sid": 378,
+      "location": 2,
+      "content": "欢迎在评论区说说你的看法好了",
+      "music": 0.0
+    },
+    {
+      "from": 649.58,
+      "to": 650.86,
+      "sid": 379,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 650.86,
+      "to": 651.3,
+      "sid": 380,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 651.3,
+      "to": 654.12,
+      "sid": 381,
+      "location": 2,
+      "content": "带你去更多普通人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

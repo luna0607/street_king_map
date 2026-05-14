@@ -1,0 +1,1244 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.08,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了俄克拉荷马州的切罗基",
+      "music": 0.0
+    },
+    {
+      "from": 2.08,
+      "to": 3.02,
+      "sid": 2,
+      "location": 2,
+      "content": "原住民保留地",
+      "music": 0.0
+    },
+    {
+      "from": 3.02,
+      "to": 5.64,
+      "sid": 3,
+      "location": 2,
+      "content": "但是为什么我在这个地方的停车场转了一大圈",
+      "music": 0.0
+    },
+    {
+      "from": 5.64,
+      "to": 7.65,
+      "sid": 4,
+      "location": 2,
+      "content": "发现都是阿肯色州的车牌呢",
+      "music": 0.0
+    },
+    {
+      "from": 7.65,
+      "to": 9.45,
+      "sid": 5,
+      "location": 2,
+      "content": "因为我的所在地是切洛基人",
+      "music": 0.0
+    },
+    {
+      "from": 9.45,
+      "to": 11.8,
+      "sid": 6,
+      "location": 2,
+      "content": "在阿肯色州州界上面开的赌场",
+      "music": 0.0
+    },
+    {
+      "from": 11.8,
+      "to": 13.02,
+      "sid": 7,
+      "location": 2,
+      "content": "除了这家赌场",
+      "music": 0.0
+    },
+    {
+      "from": 13.02,
+      "to": 14.8,
+      "sid": 8,
+      "location": 2,
+      "content": "特洛基日还开了好几家赌场",
+      "music": 0.0
+    },
+    {
+      "from": 14.8,
+      "to": 16.68,
+      "sid": 9,
+      "location": 2,
+      "content": "专门针对阿肯色州的居民",
+      "music": 0.0
+    },
+    {
+      "from": 16.68,
+      "to": 18.5,
+      "sid": 10,
+      "location": 2,
+      "content": "在参观赌场内部之前",
+      "music": 0.0
+    },
+    {
+      "from": 18.5,
+      "to": 21.3,
+      "sid": 11,
+      "location": 2,
+      "content": "先带你们看一下这里离阿肯色州有多近",
+      "music": 0.0
+    },
+    {
+      "from": 21.3,
+      "to": 24.38,
+      "sid": 12,
+      "location": 2,
+      "content": "开车一分钟不到就能见到阿肯色州的州牌",
+      "music": 0.0
+    },
+    {
+      "from": 24.38,
+      "to": 26.78,
+      "sid": 13,
+      "location": 2,
+      "content": "赌场肯定是一个稳赚不赔的生意",
+      "music": 0.0
+    },
+    {
+      "from": 26.78,
+      "to": 28.96,
+      "sid": 14,
+      "location": 2,
+      "content": "这里也劝诫大家不要赌博",
+      "music": 0.0
+    },
+    {
+      "from": 28.96,
+      "to": 29.92,
+      "sid": 15,
+      "location": 2,
+      "content": "这也是为什么",
+      "music": 0.0
+    },
+    {
+      "from": 29.92,
+      "to": 30.64,
+      "sid": 16,
+      "location": 2,
+      "content": "切洛基部落",
+      "music": 0.0
+    },
+    {
+      "from": 30.64,
+      "to": 33.68,
+      "sid": 17,
+      "location": 2,
+      "content": "选择把赌场开到离自己人口中心最远的地方",
+      "music": 0.0
+    },
+    {
+      "from": 33.68,
+      "to": 35.28,
+      "sid": 18,
+      "location": 2,
+      "content": "同样也是离阿肯色州",
+      "music": 0.0
+    },
+    {
+      "from": 35.28,
+      "to": 36.32,
+      "sid": 19,
+      "location": 2,
+      "content": "一个美国南方",
+      "music": 0.0
+    },
+    {
+      "from": 36.32,
+      "to": 38.28,
+      "sid": 20,
+      "location": 2,
+      "content": "以受教育程度不算太高的",
+      "music": 0.0
+    },
+    {
+      "from": 38.28,
+      "to": 40.28,
+      "sid": 21,
+      "location": 2,
+      "content": "保守白人为主的州界省",
+      "music": 0.0
+    },
+    {
+      "from": 40.28,
+      "to": 41.36,
+      "sid": 22,
+      "location": 2,
+      "content": "过了这个红绿灯",
+      "music": 0.0
+    },
+    {
+      "from": 41.36,
+      "to": 43.82,
+      "sid": 23,
+      "location": 2,
+      "content": "就能看到阿肯色州欢迎你的牌子",
+      "music": 0.0
+    },
+    {
+      "from": 43.82,
+      "to": 47.14,
+      "sid": 24,
+      "location": 2,
+      "content": "然后掉个头又能看到切洛基国欢迎你的牌子",
+      "music": 0.0
+    },
+    {
+      "from": 47.14,
+      "to": 50.19,
+      "sid": 25,
+      "location": 2,
+      "content": "他们部落开的赌场也是保罗地上最大的雇主",
+      "music": 0.0
+    },
+    {
+      "from": 50.19,
+      "to": 52.29,
+      "sid": 26,
+      "location": 2,
+      "content": "这两天我在保罗蒂上面停留",
+      "music": 0.0
+    },
+    {
+      "from": 52.29,
+      "to": 54.19,
+      "sid": 27,
+      "location": 2,
+      "content": "参观了好几家类似的赌场",
+      "music": 0.0
+    },
+    {
+      "from": 54.19,
+      "to": 55.95,
+      "sid": 28,
+      "location": 2,
+      "content": "比如说在南边的罗兰",
+      "music": 0.0
+    },
+    {
+      "from": 55.95,
+      "to": 58.31,
+      "sid": 29,
+      "location": 2,
+      "content": "同样也是与阿肯色州交界的地方",
+      "music": 0.0
+    },
+    {
+      "from": 58.31,
+      "to": 60.32,
+      "sid": 30,
+      "location": 2,
+      "content": "也有一家规模很大的赌场",
+      "music": 0.0
+    },
+    {
+      "from": 60.32,
+      "to": 62.56,
+      "sid": 31,
+      "location": 2,
+      "content": "很多美国印第安部落选择开赌场",
+      "music": 0.0
+    },
+    {
+      "from": 62.56,
+      "to": 65.03,
+      "sid": 32,
+      "location": 2,
+      "content": "是因为他们在自己的保罗蒂上面有主权",
+      "music": 0.0
+    },
+    {
+      "from": 65.03,
+      "to": 67.99,
+      "sid": 33,
+      "location": 2,
+      "content": "就算他们所在的州有严格的法律禁止赌场",
+      "music": 0.0
+    },
+    {
+      "from": 67.99,
+      "to": 70.64,
+      "sid": 34,
+      "location": 2,
+      "content": "这些法律不适用于印第安保留地",
+      "music": 0.0
+    },
+    {
+      "from": 70.64,
+      "to": 73.42,
+      "sid": 35,
+      "location": 2,
+      "content": "而切罗基国的邻居阿肯色州只能赌马",
+      "music": 0.0
+    },
+    {
+      "from": 73.42,
+      "to": 76.03,
+      "sid": 36,
+      "location": 2,
+      "content": "其他的赌博方式都是明令禁止的",
+      "music": 0.0
+    },
+    {
+      "from": 76.03,
+      "to": 78.31,
+      "sid": 37,
+      "location": 2,
+      "content": "因此切罗基国就利用了这个bug",
+      "music": 0.0
+    },
+    {
+      "from": 78.31,
+      "to": 79.71,
+      "sid": 38,
+      "location": 2,
+      "content": "从另外一个角度来说",
+      "music": 0.0
+    },
+    {
+      "from": 79.71,
+      "to": 81.67,
+      "sid": 39,
+      "location": 2,
+      "content": "开赌场也是一个无奈的选择",
+      "music": 0.0
+    },
+    {
+      "from": 81.67,
+      "to": 83.95,
+      "sid": 40,
+      "location": 2,
+      "content": "因为印第安人保留地大多都比较偏远",
+      "music": 0.0
+    },
+    {
+      "from": 83.95,
+      "to": 84.83,
+      "sid": 41,
+      "location": 2,
+      "content": "人烟稀少",
+      "music": 0.0
+    },
+    {
+      "from": 84.83,
+      "to": 86.66,
+      "sid": 42,
+      "location": 2,
+      "content": "当地的就业机会也不多",
+      "music": 0.0
+    },
+    {
+      "from": 86.66,
+      "to": 88.56,
+      "sid": 43,
+      "location": 2,
+      "content": "就算在自己的保罗地上",
+      "music": 0.0
+    },
+    {
+      "from": 88.56,
+      "to": 91.16,
+      "sid": 44,
+      "location": 2,
+      "content": "很多地和资源都被白人给霸占了",
+      "music": 0.0
+    },
+    {
+      "from": 91.16,
+      "to": 94.27,
+      "sid": 45,
+      "location": 2,
+      "content": "他们也只能通过赌场来创造一点收入和就业了",
+      "music": 0.0
+    },
+    {
+      "from": 94.27,
+      "to": 96.53,
+      "sid": 46,
+      "location": 2,
+      "content": "现在来带大家看看赌场的内部",
+      "music": 0.0
+    },
+    {
+      "from": 96.53,
+      "to": 97.33,
+      "sid": 47,
+      "location": 2,
+      "content": "我个人觉得",
+      "music": 0.0
+    },
+    {
+      "from": 97.33,
+      "to": 99.61,
+      "sid": 48,
+      "location": 2,
+      "content": "这里跟非印第安人赌场最大的区别是",
+      "music": 0.0
+    },
+    {
+      "from": 99.61,
+      "to": 101.53,
+      "sid": 49,
+      "location": 2,
+      "content": "这里会穿插一些文化展示",
+      "music": 0.0
+    },
+    {
+      "from": 101.53,
+      "to": 102.69,
+      "sid": 50,
+      "location": 2,
+      "content": "一些地方的标识",
+      "music": 0.0
+    },
+    {
+      "from": 102.69,
+      "to": 105.82,
+      "sid": 51,
+      "location": 2,
+      "content": "比如说洗手间垃圾桶上面有他们的双语文字",
+      "music": 0.0
+    },
+    {
+      "from": 105.82,
+      "to": 107.86,
+      "sid": 52,
+      "location": 2,
+      "content": "我所在的这家在塔勒夸",
+      "music": 0.0
+    },
+    {
+      "from": 107.86,
+      "to": 109.84,
+      "sid": 53,
+      "location": 2,
+      "content": "也是切罗基人部落的总部",
+      "music": 0.0
+    },
+    {
+      "from": 109.84,
+      "to": 111.7,
+      "sid": 54,
+      "location": 2,
+      "content": "这里还有会议中心的功能",
+      "music": 0.0
+    },
+    {
+      "from": 111.7,
+      "to": 114.74,
+      "sid": 55,
+      "location": 2,
+      "content": "因此这边的文化展示要比别家的多很多",
+      "music": 0.0
+    },
+    {
+      "from": 114.74,
+      "to": 117.94,
+      "sid": 56,
+      "location": 2,
+      "content": "墙上贴的合影大概就是他们部落的管理层",
+      "music": 0.0
+    },
+    {
+      "from": 117.94,
+      "to": 121.009,
+      "sid": 57,
+      "location": 2,
+      "content": "其实可能跟大家想象中的印第安人不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 121.009,
+      "to": 123.009,
+      "sid": 58,
+      "location": 2,
+      "content": "想要成为切洛基部落的成员",
+      "music": 0.0
+    },
+    {
+      "from": 123.009,
+      "to": 124.109,
+      "sid": 59,
+      "location": 2,
+      "content": "标准并不高",
+      "music": 0.0
+    },
+    {
+      "from": 124.109,
+      "to": 126.169,
+      "sid": 60,
+      "location": 2,
+      "content": "你只要证明自己有任何祖先",
+      "music": 0.0
+    },
+    {
+      "from": 126.169,
+      "to": 127.68,
+      "sid": 61,
+      "location": 2,
+      "content": "是切洛基人就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 127.68,
+      "to": 129.92,
+      "sid": 62,
+      "location": 2,
+      "content": "而很多切罗基人跟其他美国人通婚",
+      "music": 0.0
+    },
+    {
+      "from": 129.92,
+      "to": 131.08,
+      "sid": 63,
+      "location": 2,
+      "content": "其实挺普遍的",
+      "music": 0.0
+    },
+    {
+      "from": 131.08,
+      "to": 133.24,
+      "sid": 64,
+      "location": 2,
+      "content": "我见到的不少切罗基人不仔细看",
+      "music": 0.0
+    },
+    {
+      "from": 133.24,
+      "to": 134.68,
+      "sid": 65,
+      "location": 2,
+      "content": "觉得长得很像白人",
+      "music": 0.0
+    },
+    {
+      "from": 134.68,
+      "to": 136.32,
+      "sid": 66,
+      "location": 2,
+      "content": "不过我当然也是见到了不少",
+      "music": 0.0
+    },
+    {
+      "from": 136.32,
+      "to": 139.04,
+      "sid": 67,
+      "location": 2,
+      "content": "符合我们刻板印象中的原住民切洛基人",
+      "music": 0.0
+    },
+    {
+      "from": 139.04,
+      "to": 141.04,
+      "sid": 68,
+      "location": 2,
+      "content": "由于相对宽松的录取标准",
+      "music": 0.0
+    },
+    {
+      "from": 141.04,
+      "to": 142.68,
+      "sid": 69,
+      "location": 2,
+      "content": "切洛基人因此成为美国",
+      "music": 0.0
+    },
+    {
+      "from": 142.68,
+      "to": 144.6,
+      "sid": 70,
+      "location": 2,
+      "content": "现在第二大的印第安人部落",
+      "music": 0.0
+    },
+    {
+      "from": 144.6,
+      "to": 146.08,
+      "sid": 71,
+      "location": 2,
+      "content": "一共有38万人",
+      "music": 0.0
+    },
+    {
+      "from": 146.08,
+      "to": 148.55,
+      "sid": 72,
+      "location": 2,
+      "content": "那么成为部落成员能有什么好处呢",
+      "music": 0.0
+    },
+    {
+      "from": 148.55,
+      "to": 150.27,
+      "sid": 73,
+      "location": 2,
+      "content": "第一个好处就是像赌场",
+      "music": 0.0
+    },
+    {
+      "from": 150.27,
+      "to": 151.65,
+      "sid": 74,
+      "location": 2,
+      "content": "还有很多部落的岗位",
+      "music": 0.0
+    },
+    {
+      "from": 151.65,
+      "to": 153.21,
+      "sid": 75,
+      "location": 2,
+      "content": "他们只招切罗基人",
+      "music": 0.0
+    },
+    {
+      "from": 153.21,
+      "to": 155.6,
+      "sid": 76,
+      "location": 2,
+      "content": "外人是没有办法在这里工作的",
+      "music": 0.0
+    },
+    {
+      "from": 155.6,
+      "to": 158.66,
+      "sid": 77,
+      "location": 2,
+      "content": "所以说所有在赌场的荷官也都是切罗基人",
+      "music": 0.0
+    },
+    {
+      "from": 158.66,
+      "to": 161.24,
+      "sid": 78,
+      "location": 2,
+      "content": "他们的荷官一般胸前会带一个牌子",
+      "music": 0.0
+    },
+    {
+      "from": 161.24,
+      "to": 163.6,
+      "sid": 79,
+      "location": 2,
+      "content": "代表自己的部落成员身份",
+      "music": 0.0
+    },
+    {
+      "from": 163.6,
+      "to": 165.24,
+      "sid": 80,
+      "location": 2,
+      "content": "至于来这边赌博的人",
+      "music": 0.0
+    },
+    {
+      "from": 165.24,
+      "to": 167.78,
+      "sid": 81,
+      "location": 2,
+      "content": "除了那种戴着特朗普帽子的红脖子",
+      "music": 0.0
+    },
+    {
+      "from": 167.78,
+      "to": 170.68,
+      "sid": 82,
+      "location": 2,
+      "content": "大多数其实都是看着走路都困难的老人",
+      "music": 0.0
+    },
+    {
+      "from": 170.68,
+      "to": 172.34,
+      "sid": 83,
+      "location": 2,
+      "content": "我在保罗蒂上面呆了好几天",
+      "music": 0.0
+    },
+    {
+      "from": 172.34,
+      "to": 174.39,
+      "sid": 84,
+      "location": 2,
+      "content": "也跟各种各样的人聊了聊天",
+      "music": 0.0
+    },
+    {
+      "from": 174.39,
+      "to": 176.95,
+      "sid": 85,
+      "location": 2,
+      "content": "其实很多人来赌场未必也是想赢钱",
+      "music": 0.0
+    },
+    {
+      "from": 176.95,
+      "to": 179.17,
+      "sid": 86,
+      "location": 2,
+      "content": "只是在家里太孤独寂寞了",
+      "music": 0.0
+    },
+    {
+      "from": 179.17,
+      "to": 181.25,
+      "sid": 87,
+      "location": 2,
+      "content": "美国的娱乐活动也比较有限",
+      "music": 0.0
+    },
+    {
+      "from": 181.25,
+      "to": 184.75,
+      "sid": 88,
+      "location": 2,
+      "content": "不如来这个赌场热闹的地方打发打发时间",
+      "music": 0.0
+    },
+    {
+      "from": 184.75,
+      "to": 187.72,
+      "sid": 89,
+      "location": 2,
+      "content": "那部落赚到这些钱之后用来干嘛呢",
+      "music": 0.0
+    },
+    {
+      "from": 187.72,
+      "to": 189.28,
+      "sid": 90,
+      "location": 2,
+      "content": "很大一部分赌场的收入",
+      "music": 0.0
+    },
+    {
+      "from": 189.28,
+      "to": 191.56,
+      "sid": 91,
+      "location": 2,
+      "content": "就用作部落成员的社会福利了",
+      "music": 0.0
+    },
+    {
+      "from": 191.56,
+      "to": 194.74,
+      "sid": 92,
+      "location": 2,
+      "content": "正好前一天晚上我的酒店前台就是切洛基人",
+      "music": 0.0
+    },
+    {
+      "from": 194.74,
+      "to": 196.62,
+      "sid": 93,
+      "location": 2,
+      "content": "听听他是怎么说的",
+      "music": 0.0
+    },
+    {
+      "from": 196.62,
+      "to": 197.42,
+      "sid": 94,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 197.42,
+      "to": 200.42,
+      "sid": 95,
+      "location": 2,
+      "content": "i love呀",
+      "music": 0.05882352724913319
+    },
+    {
+      "from": 200.42,
+      "to": 203.3,
+      "sid": 96,
+      "location": 2,
+      "content": "So we get we get different",
+      "music": 0.0
+    },
+    {
+      "from": 203.3,
+      "to": 203.98,
+      "sid": 97,
+      "location": 2,
+      "content": "Pout",
+      "music": 0.0
+    },
+    {
+      "from": 203.98,
+      "to": 206.99,
+      "sid": 98,
+      "location": 2,
+      "content": "Living were available to get super plan",
+      "music": 0.0
+    },
+    {
+      "from": 212.42,
+      "to": 214.42,
+      "sid": 99,
+      "location": 2,
+      "content": "你要担保值能是100多",
+      "music": 0.0
+    },
+    {
+      "from": 214.42,
+      "to": 215.02,
+      "sid": 100,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 215.02,
+      "to": 217.22,
+      "sid": 101,
+      "location": 2,
+      "content": "Why would help me",
+      "music": 0.0
+    },
+    {
+      "from": 225.76,
+      "to": 228.04,
+      "sid": 102,
+      "location": 2,
+      "content": "We're not you know they",
+      "music": 0.0
+    },
+    {
+      "from": 228.04,
+      "to": 230.54,
+      "sid": 103,
+      "location": 2,
+      "content": "And i build makes for people",
+      "music": 0.0
+    },
+    {
+      "from": 230.54,
+      "to": 231.32,
+      "sid": 104,
+      "location": 2,
+      "content": "You know",
+      "music": 0.0
+    },
+    {
+      "from": 231.32,
+      "to": 233.5,
+      "sid": 105,
+      "location": 2,
+      "content": "Which they have the pain",
+      "music": 0.0
+    },
+    {
+      "from": 233.5,
+      "to": 237.14,
+      "sid": 106,
+      "location": 2,
+      "content": "No pon me come that most democrthree hundred",
+      "music": 0.0
+    },
+    {
+      "from": 237.14,
+      "to": 240.78,
+      "sid": 107,
+      "location": 2,
+      "content": "And get your turn to be a month or buy house",
+      "music": 0.0
+    },
+    {
+      "from": 240.78,
+      "to": 242.08,
+      "sid": 108,
+      "location": 2,
+      "content": "So yeah",
+      "music": 0.0
+    },
+    {
+      "from": 242.08,
+      "to": 243.74,
+      "sid": 109,
+      "location": 2,
+      "content": "They really do help them",
+      "music": 0.0
+    },
+    {
+      "from": 243.74,
+      "to": 245.36,
+      "sid": 110,
+      "location": 2,
+      "content": "They could be like other people",
+      "music": 0.0
+    },
+    {
+      "from": 245.36,
+      "to": 248.67,
+      "sid": 111,
+      "location": 2,
+      "content": "And see that my girls um",
+      "music": 0.0
+    },
+    {
+      "from": 248.67,
+      "to": 252.64,
+      "sid": 112,
+      "location": 2,
+      "content": "My rose friend is a thing right as culture",
+      "music": 0.0
+    },
+    {
+      "from": 252.64,
+      "to": 254.84,
+      "sid": 113,
+      "location": 2,
+      "content": "And they show remorals",
+      "music": 0.0
+    },
+    {
+      "from": 254.84,
+      "to": 256.7,
+      "sid": 114,
+      "location": 2,
+      "content": "So at the end of the year",
+      "music": 0.0
+    },
+    {
+      "from": 256.7,
+      "to": 259.439,
+      "sid": 115,
+      "location": 2,
+      "content": "They will have u ah you fi forms",
+      "music": 0.0
+    },
+    {
+      "from": 259.439,
+      "to": 263.859,
+      "sid": 116,
+      "location": 2,
+      "content": "And they give my rosting heralmost extra for you know polotion",
+      "music": 0.0
+    },
+    {
+      "from": 263.859,
+      "to": 265.52,
+      "sid": 117,
+      "location": 2,
+      "content": "Joan ambush",
+      "music": 0.0
+    },
+    {
+      "from": 265.52,
+      "to": 267.81,
+      "sid": 118,
+      "location": 2,
+      "content": "So those twenty five from the",
+      "music": 0.0
+    },
+    {
+      "from": 274.239,
+      "to": 275.019,
+      "sid": 119,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 275.019,
+      "to": 275.559,
+      "sid": 120,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 275.559,
+      "to": 276.399,
+      "sid": 121,
+      "location": 2,
+      "content": "And you're just now",
+      "music": 0.0
+    },
+    {
+      "from": 276.399,
+      "to": 279.079,
+      "sid": 122,
+      "location": 2,
+      "content": "I'm gonna start opening wine and arkansas",
+      "music": 0.0
+    },
+    {
+      "from": 279.079,
+      "to": 280.56,
+      "sid": 123,
+      "location": 2,
+      "content": "And coat coun",
+      "music": 0.0
+    },
+    {
+      "from": 280.56,
+      "to": 281.2,
+      "sid": 124,
+      "location": 2,
+      "content": "Arkansas",
+      "music": 0.0
+    },
+    {
+      "from": 281.2,
+      "to": 282.6,
+      "sid": 125,
+      "location": 2,
+      "content": "This and happy to peanut",
+      "music": 0.0
+    },
+    {
+      "from": 282.6,
+      "to": 285.7,
+      "sid": 126,
+      "location": 2,
+      "content": "But chair peanubin that got through fen up there",
+      "music": 0.0
+    },
+    {
+      "from": 285.7,
+      "to": 288.639,
+      "sid": 127,
+      "location": 2,
+      "content": "so没人全是轻易跟着我",
+      "music": 0.0
+    },
+    {
+      "from": 288.639,
+      "to": 289.099,
+      "sid": 128,
+      "location": 2,
+      "content": "天啊",
+      "music": 0.0
+    },
+    {
+      "from": 289.099,
+      "to": 291.019,
+      "sid": 129,
+      "location": 2,
+      "content": "咱蟹老说双马克三糖去吃",
+      "music": 0.0
+    },
+    {
+      "from": 291.019,
+      "to": 291.34,
+      "sid": 130,
+      "location": 2,
+      "content": "快",
+      "music": 0.0
+    },
+    {
+      "from": 298.789,
+      "to": 301.429,
+      "sid": 131,
+      "location": 2,
+      "content": "Generally you got a coin for this chart",
+      "music": 0.0
+    },
+    {
+      "from": 301.429,
+      "to": 302.209,
+      "sid": 132,
+      "location": 2,
+      "content": "Talk cusing out",
+      "music": 0.0
+    },
+    {
+      "from": 302.209,
+      "to": 303.98,
+      "sid": 133,
+      "location": 2,
+      "content": "Which was like that time age to like",
+      "music": 0.0
+    },
+    {
+      "from": 303.98,
+      "to": 305.8,
+      "sid": 134,
+      "location": 2,
+      "content": "You think that this comment",
+      "music": 0.0
+    },
+    {
+      "from": 305.8,
+      "to": 306.32,
+      "sid": 135,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 306.32,
+      "to": 310.76,
+      "sid": 136,
+      "location": 2,
+      "content": "Hoyou can the the girl last night told me this one",
+      "music": 0.0
+    },
+    {
+      "from": 310.76,
+      "to": 311.34,
+      "sid": 137,
+      "location": 2,
+      "content": "Only this",
+      "music": 0.0
+    },
+    {
+      "from": 316.82,
+      "to": 318.1,
+      "sid": 138,
+      "location": 2,
+      "content": "A large one north",
+      "music": 0.0
+    },
+    {
+      "from": 318.1,
+      "to": 318.62,
+      "sid": 139,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 318.62,
+      "to": 320.62,
+      "sid": 140,
+      "location": 2,
+      "content": "Three my long over",
+      "music": 0.0
+    },
+    {
+      "from": 320.62,
+      "to": 321.24,
+      "sid": 141,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 321.24,
+      "to": 324.3,
+      "sid": 142,
+      "location": 2,
+      "content": "I am like like when you're going to the north down uh",
+      "music": 0.0
+    },
+    {
+      "from": 324.3,
+      "to": 325.34,
+      "sid": 143,
+      "location": 2,
+      "content": "A little to you",
+      "music": 0.0
+    },
+    {
+      "from": 325.34,
+      "to": 326.66,
+      "sid": 144,
+      "location": 2,
+      "content": "They got um",
+      "music": 0.0
+    },
+    {
+      "from": 326.66,
+      "to": 328.64,
+      "sid": 145,
+      "location": 2,
+      "content": "This thing else is that they also",
+      "music": 0.0
+    },
+    {
+      "from": 328.64,
+      "to": 329.33,
+      "sid": 146,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 341.72,
+      "to": 342.86,
+      "sid": 147,
+      "location": 2,
+      "content": "Thank you yes",
+      "music": 0.0
+    },
+    {
+      "from": 342.86,
+      "to": 344.0,
+      "sid": 148,
+      "location": 2,
+      "content": "Thank you",
+      "music": 0.0
+    },
+    {
+      "from": 345.48,
+      "to": 348.44,
+      "sid": 149,
+      "location": 2,
+      "content": "当然切洛基和俄克拉荷马其他的印第安部落",
+      "music": 0.0
+    },
+    {
+      "from": 348.44,
+      "to": 349.04,
+      "sid": 150,
+      "location": 2,
+      "content": "除了赌场",
+      "music": 0.0
+    },
+    {
+      "from": 349.04,
+      "to": 350.32,
+      "sid": 151,
+      "location": 2,
+      "content": "还有很多别的",
+      "music": 0.0
+    },
+    {
+      "from": 350.32,
+      "to": 352.32,
+      "sid": 152,
+      "location": 2,
+      "content": "那么大家就关注我之后的视频",
+      "music": 0.0
+    },
+    {
+      "from": 352.32,
+      "to": 354.92,
+      "sid": 153,
+      "location": 2,
+      "content": "跟着我一起去更多正常人不会涉足的地方",
+      "music": 0.0
+    },
+    {
+      "from": 354.92,
+      "to": 355.66,
+      "sid": 154,
+      "location": 2,
+      "content": "探索吧",
+      "music": 0.0
+    }
+  ]
+}

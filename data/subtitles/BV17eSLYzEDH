@@ -1,0 +1,2212 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.88,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国密苏里州部",
+      "music": 0.0
+    },
+    {
+      "from": 1.88,
+      "to": 3.32,
+      "sid": 2,
+      "location": 2,
+      "content": "一个叫墨西哥的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 3.32,
+      "to": 5.54,
+      "sid": 3,
+      "location": 2,
+      "content": "这个地区的人都非常会起名字",
+      "music": 0.0
+    },
+    {
+      "from": 5.54,
+      "to": 7.24,
+      "sid": 4,
+      "location": 2,
+      "content": "从墨西哥往北开半个小时",
+      "music": 0.0
+    },
+    {
+      "from": 7.24,
+      "to": 8.71,
+      "sid": 5,
+      "location": 2,
+      "content": "有一个叫巴黎的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 8.71,
+      "to": 10.67,
+      "sid": 6,
+      "location": 2,
+      "content": "然后巴黎再往西开半个小时",
+      "music": 0.0
+    },
+    {
+      "from": 10.67,
+      "to": 12.27,
+      "sid": 7,
+      "location": 2,
+      "content": "还有一个叫开罗的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 12.27,
+      "to": 13.59,
+      "sid": 8,
+      "location": 2,
+      "content": "今天我就带各位看看",
+      "music": 0.0
+    },
+    {
+      "from": 13.59,
+      "to": 16.34,
+      "sid": 9,
+      "location": 2,
+      "content": "这三个有着盗版名字的小镇都长什么样",
+      "music": 0.0
+    },
+    {
+      "from": 16.34,
+      "to": 19.32,
+      "sid": 10,
+      "location": 2,
+      "content": "目前我所在的墨西哥小镇有1万1000多人",
+      "music": 0.0
+    },
+    {
+      "from": 19.32,
+      "to": 21.16,
+      "sid": 11,
+      "location": 2,
+      "content": "其中81%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 21.16,
+      "to": 21.86,
+      "sid": 12,
+      "location": 2,
+      "content": "80%",
+      "music": 0.0
+    },
+    {
+      "from": 21.86,
+      "to": 23.73,
+      "sid": 13,
+      "location": 2,
+      "content": "黑人4%是拉美人",
+      "music": 0.0
+    },
+    {
+      "from": 23.73,
+      "to": 27.13,
+      "sid": 14,
+      "location": 2,
+      "content": "这边买一套房子的中位数是10万900美元",
+      "music": 0.0
+    },
+    {
+      "from": 27.13,
+      "to": 28.97,
+      "sid": 15,
+      "location": 2,
+      "content": "到了假墨西哥的第一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 28.97,
+      "to": 31.22,
+      "sid": 16,
+      "location": 2,
+      "content": "就是去试一试这边的墨西哥餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 31.22,
+      "to": 33.56,
+      "sid": 17,
+      "location": 2,
+      "content": "看看和别的地方有没有什么区别",
+      "music": 0.0
+    },
+    {
+      "from": 33.56,
+      "to": 35.88,
+      "sid": 18,
+      "location": 2,
+      "content": "这边虽然说拉美人的占比很低",
+      "music": 0.0
+    },
+    {
+      "from": 35.88,
+      "to": 38.44,
+      "sid": 19,
+      "location": 2,
+      "content": "而且小镇的总人口只有1万多个人",
+      "music": 0.0
+    },
+    {
+      "from": 38.44,
+      "to": 41.01,
+      "sid": 20,
+      "location": 2,
+      "content": "这上面居然有三家墨西哥餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 41.01,
+      "to": 43.41,
+      "sid": 21,
+      "location": 2,
+      "content": "如果加上假墨西哥菜塔可钟的话",
+      "music": 0.0
+    },
+    {
+      "from": 43.41,
+      "to": 44.49,
+      "sid": 22,
+      "location": 2,
+      "content": "一共有四家",
+      "music": 0.0
+    },
+    {
+      "from": 44.49,
+      "to": 47.06,
+      "sid": 23,
+      "location": 2,
+      "content": "无愧于这个小镇的墨西哥之名",
+      "music": 0.0
+    },
+    {
+      "from": 47.06,
+      "to": 48.86,
+      "sid": 24,
+      "location": 2,
+      "content": "我凭着自己多年的直觉",
+      "music": 0.0
+    },
+    {
+      "from": 48.86,
+      "to": 52.02,
+      "sid": 25,
+      "location": 2,
+      "content": "选择了这家叫DOS arcos的墨西哥小店",
+      "music": 0.0
+    },
+    {
+      "from": 52.02,
+      "to": 54.11,
+      "sid": 26,
+      "location": 2,
+      "content": "翻译过来叫做两个拱门",
+      "music": 0.0
+    },
+    {
+      "from": 54.11,
+      "to": 57.35,
+      "sid": 27,
+      "location": 2,
+      "content": "确实里面装修的看圆弧的狗们还不少",
+      "music": 0.0
+    },
+    {
+      "from": 57.35,
+      "to": 60.19,
+      "sid": 28,
+      "location": 2,
+      "content": "其实我是墨西哥菜的重度爱好者",
+      "music": 0.0
+    },
+    {
+      "from": 60.19,
+      "to": 62.37,
+      "sid": 29,
+      "location": 2,
+      "content": "第一是因为不管你是几个人",
+      "music": 0.0
+    },
+    {
+      "from": 62.37,
+      "to": 63.99,
+      "sid": 30,
+      "location": 2,
+      "content": "只要你坐在店里面吃的话",
+      "music": 0.0
+    },
+    {
+      "from": 63.99,
+      "to": 66.31,
+      "sid": 31,
+      "location": 2,
+      "content": "商家一般都会送你一小碟开胃小菜",
+      "music": 0.0
+    },
+    {
+      "from": 66.31,
+      "to": 66.97,
+      "sid": 32,
+      "location": 2,
+      "content": "玉米片",
+      "music": 0.0
+    },
+    {
+      "from": 66.97,
+      "to": 69.07,
+      "sid": 33,
+      "location": 2,
+      "content": "这个沾着番茄汁就很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 69.07,
+      "to": 70.11,
+      "sid": 34,
+      "location": 2,
+      "content": "第二是墨西哥菜",
+      "music": 0.0
+    },
+    {
+      "from": 70.11,
+      "to": 72.57,
+      "sid": 35,
+      "location": 2,
+      "content": "某种程度可以算得上是中餐平替",
+      "music": 0.0
+    },
+    {
+      "from": 72.57,
+      "to": 74.53,
+      "sid": 36,
+      "location": 2,
+      "content": "很多的菜都非常的相似",
+      "music": 0.0
+    },
+    {
+      "from": 74.53,
+      "to": 76.44,
+      "sid": 37,
+      "location": 2,
+      "content": "比如说我点的这个虾汤",
+      "music": 0.0
+    },
+    {
+      "from": 76.44,
+      "to": 78.0,
+      "sid": 38,
+      "location": 2,
+      "content": "他们一般会放一点米",
+      "music": 0.0
+    },
+    {
+      "from": 78.0,
+      "to": 80.24,
+      "sid": 39,
+      "location": 2,
+      "content": "或者说玉米粒到这个番茄汤里面",
+      "music": 0.0
+    },
+    {
+      "from": 80.24,
+      "to": 83.68,
+      "sid": 40,
+      "location": 2,
+      "content": "吃起来味道跟我们的番茄虾汤泡饭差不多",
+      "music": 0.0
+    },
+    {
+      "from": 83.68,
+      "to": 85.12,
+      "sid": 41,
+      "location": 2,
+      "content": "我建议如果各位B友",
+      "music": 0.0
+    },
+    {
+      "from": 85.12,
+      "to": 87.41,
+      "sid": 42,
+      "location": 2,
+      "content": "去到那些没有中餐厅的偏远小镇",
+      "music": 0.0
+    },
+    {
+      "from": 87.41,
+      "to": 89.51,
+      "sid": 43,
+      "location": 2,
+      "content": "可以找一找附近的墨西哥餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 89.51,
+      "to": 91.21,
+      "sid": 44,
+      "location": 2,
+      "content": "得点他们的汤泡饭吃",
+      "music": 0.0
+    },
+    {
+      "from": 91.21,
+      "to": 94.51,
+      "sid": 45,
+      "location": 2,
+      "content": "我这么一份饭加上免费的玉米片是14美元",
+      "music": 0.0
+    },
+    {
+      "from": 94.51,
+      "to": 96.59,
+      "sid": 46,
+      "location": 2,
+      "content": "加上税和小费要18块",
+      "music": 0.0
+    },
+    {
+      "from": 96.59,
+      "to": 98.43,
+      "sid": 47,
+      "location": 2,
+      "content": "各位觉得性价比如何",
+      "music": 0.0
+    },
+    {
+      "from": 98.43,
+      "to": 100.23,
+      "sid": 48,
+      "location": 2,
+      "content": "墨西哥虽然叫墨西哥",
+      "music": 0.0
+    },
+    {
+      "from": 100.23,
+      "to": 102.77,
+      "sid": 49,
+      "location": 2,
+      "content": "但是这边还是以保守的白人为主",
+      "music": 0.0
+    },
+    {
+      "from": 102.77,
+      "to": 103.65,
+      "sid": 50,
+      "location": 2,
+      "content": "2020年",
+      "music": 0.0
+    },
+    {
+      "from": 103.65,
+      "to": 104.65,
+      "sid": 51,
+      "location": 2,
+      "content": "墨西哥所在的县",
+      "music": 0.0
+    },
+    {
+      "from": 104.65,
+      "to": 107.289,
+      "sid": 52,
+      "location": 2,
+      "content": "72.5%的人都投给了特朗普",
+      "music": 0.0
+    },
+    {
+      "from": 107.289,
+      "to": 110.169,
+      "sid": 53,
+      "location": 2,
+      "content": "我看到有一个大哥站在墨西哥餐馆的马路对面",
+      "music": 0.0
+    },
+    {
+      "from": 110.169,
+      "to": 111.59,
+      "sid": 54,
+      "location": 2,
+      "content": "卖特朗普的周边啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.59,
+      "to": 113.21,
+      "sid": 55,
+      "location": 2,
+      "content": "我现在过去跟他聊一聊",
+      "music": 0.0
+    },
+    {
+      "from": 113.21,
+      "to": 113.55,
+      "sid": 56,
+      "location": 2,
+      "content": "Role",
+      "music": 0.0
+    },
+    {
+      "from": 113.55,
+      "to": 114.19,
+      "sid": 57,
+      "location": 2,
+      "content": "I'm a christian",
+      "music": 0.0
+    },
+    {
+      "from": 114.19,
+      "to": 117.33,
+      "sid": 58,
+      "location": 2,
+      "content": "And and i'm also a hardware conservative",
+      "music": 0.0
+    },
+    {
+      "from": 117.33,
+      "to": 119.15,
+      "sid": 59,
+      "location": 2,
+      "content": "Was you know in the military",
+      "music": 0.0
+    },
+    {
+      "from": 119.29,
+      "to": 121.77,
+      "sid": 60,
+      "location": 2,
+      "content": "So what do you do for a living in there",
+      "music": 0.0
+    },
+    {
+      "from": 121.77,
+      "to": 123.97,
+      "sid": 61,
+      "location": 2,
+      "content": "I coordinated collect sanctures for stained wipe",
+      "music": 0.0
+    },
+    {
+      "from": 123.97,
+      "to": 124.53,
+      "sid": 62,
+      "location": 2,
+      "content": "Blot measures",
+      "music": 0.0
+    },
+    {
+      "from": 124.53,
+      "to": 125.85,
+      "sid": 63,
+      "location": 2,
+      "content": "I'm just doing this to supplement",
+      "music": 0.0
+    },
+    {
+      "from": 125.85,
+      "to": 127.21,
+      "sid": 64,
+      "location": 2,
+      "content": "My intuduring the off season",
+      "music": 0.0
+    },
+    {
+      "from": 127.21,
+      "to": 127.759,
+      "sid": 65,
+      "location": 2,
+      "content": "Right now",
+      "music": 0.0
+    },
+    {
+      "from": 127.759,
+      "to": 129.879,
+      "sid": 66,
+      "location": 2,
+      "content": "老哥做了这么多年政治相关的工作",
+      "music": 0.0
+    },
+    {
+      "from": 129.879,
+      "to": 131.959,
+      "sid": 67,
+      "location": 2,
+      "content": "其实知识储备非常丰富啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.959,
+      "to": 132.839,
+      "sid": 68,
+      "location": 2,
+      "content": "我还问了一下",
+      "music": 0.0
+    },
+    {
+      "from": 132.839,
+      "to": 132.999,
+      "sid": 69,
+      "location": 2,
+      "content": "他",
+      "music": 0.0
+    },
+    {
+      "from": 132.999,
+      "to": 133.359,
+      "sid": 70,
+      "location": 2,
+      "content": "怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 133.359,
+      "to": 136.26,
+      "sid": 71,
+      "location": 2,
+      "content": "美国大部分川普周边都是中国生产这一现象",
+      "music": 0.0
+    },
+    {
+      "from": 136.26,
+      "to": 136.5,
+      "sid": 72,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 136.5,
+      "to": 137.94,
+      "sid": 73,
+      "location": 2,
+      "content": "A lot of stuff does the flags",
+      "music": 0.0
+    },
+    {
+      "from": 137.94,
+      "to": 139.14,
+      "sid": 74,
+      "location": 2,
+      "content": "Do i'm sure most of these flags",
+      "music": 0.0
+    },
+    {
+      "from": 139.14,
+      "to": 139.9,
+      "sid": 75,
+      "location": 2,
+      "content": "Stuff from china",
+      "music": 0.0
+    },
+    {
+      "from": 139.9,
+      "to": 140.98,
+      "sid": 76,
+      "location": 2,
+      "content": "Most of these flags",
+      "music": 0.0
+    },
+    {
+      "from": 140.98,
+      "to": 141.34,
+      "sid": 77,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 141.34,
+      "to": 142.52,
+      "sid": 78,
+      "location": 2,
+      "content": "Flags from china",
+      "music": 0.0
+    },
+    {
+      "from": 142.52,
+      "to": 142.82,
+      "sid": 79,
+      "location": 2,
+      "content": "Cheap",
+      "music": 0.0
+    },
+    {
+      "from": 142.82,
+      "to": 143.83,
+      "sid": 80,
+      "location": 2,
+      "content": "You know when you get",
+      "music": 0.0
+    },
+    {
+      "from": 143.83,
+      "to": 145.67,
+      "sid": 81,
+      "location": 2,
+      "content": "When you can buy them for you",
+      "music": 0.0
+    },
+    {
+      "from": 145.67,
+      "to": 145.79,
+      "sid": 82,
+      "location": 2,
+      "content": "Know",
+      "music": 0.0
+    },
+    {
+      "from": 145.79,
+      "to": 147.25,
+      "sid": 83,
+      "location": 2,
+      "content": "Like six seven dollars",
+      "music": 0.0
+    },
+    {
+      "from": 147.25,
+      "to": 148.15,
+      "sid": 84,
+      "location": 2,
+      "content": "A piece",
+      "music": 0.0
+    },
+    {
+      "from": 148.15,
+      "to": 149.43,
+      "sid": 85,
+      "location": 2,
+      "content": "And you can sell up for twenty",
+      "music": 0.0
+    },
+    {
+      "from": 149.43,
+      "to": 150.57,
+      "sid": 86,
+      "location": 2,
+      "content": "Which is what i do",
+      "music": 0.0
+    },
+    {
+      "from": 150.57,
+      "to": 151.13,
+      "sid": 87,
+      "location": 2,
+      "content": "Okay",
+      "music": 0.0
+    },
+    {
+      "from": 151.13,
+      "to": 151.73,
+      "sid": 88,
+      "location": 2,
+      "content": "So yeah",
+      "music": 0.0
+    },
+    {
+      "from": 151.73,
+      "to": 152.69,
+      "sid": 89,
+      "location": 2,
+      "content": "You get a lot of you",
+      "music": 0.0
+    },
+    {
+      "from": 152.69,
+      "to": 153.53,
+      "sid": 90,
+      "location": 2,
+      "content": "Got the market corn",
+      "music": 0.0
+    },
+    {
+      "from": 153.53,
+      "to": 153.85,
+      "sid": 91,
+      "location": 2,
+      "content": "Of course",
+      "music": 0.0
+    },
+    {
+      "from": 153.85,
+      "to": 154.77,
+      "sid": 92,
+      "location": 2,
+      "content": "You know trump gets selected",
+      "music": 0.0
+    },
+    {
+      "from": 154.77,
+      "to": 155.69,
+      "sid": 93,
+      "location": 2,
+      "content": "He's gonna attack it",
+      "music": 0.0
+    },
+    {
+      "from": 155.69,
+      "to": 155.96,
+      "sid": 94,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 155.96,
+      "to": 157.72,
+      "sid": 95,
+      "location": 2,
+      "content": "Put tariffs on everything from the chinese",
+      "music": 0.0
+    },
+    {
+      "from": 157.72,
+      "to": 158.52,
+      "sid": 96,
+      "location": 2,
+      "content": "So you might also get away",
+      "music": 0.0
+    },
+    {
+      "from": 158.52,
+      "to": 159.34,
+      "sid": 97,
+      "location": 2,
+      "content": "You can from us",
+      "music": 0.0
+    },
+    {
+      "from": 159.34,
+      "to": 161.4,
+      "sid": 98,
+      "location": 2,
+      "content": "我感觉这个老哥还挺有商业头脑",
+      "music": 0.0
+    },
+    {
+      "from": 161.4,
+      "to": 164.29,
+      "sid": 99,
+      "location": 2,
+      "content": "学习我们中国人赚特朗普支持者的钱",
+      "music": 0.0
+    },
+    {
+      "from": 164.29,
+      "to": 166.59,
+      "sid": 100,
+      "location": 2,
+      "content": "不过我刚刚感觉这个泡饭没有吃饱",
+      "music": 0.0
+    },
+    {
+      "from": 166.59,
+      "to": 168.91,
+      "sid": 101,
+      "location": 2,
+      "content": "我再去墨西哥的唯一一家中餐馆",
+      "music": 0.0
+    },
+    {
+      "from": 168.91,
+      "to": 171.95,
+      "sid": 102,
+      "location": 2,
+      "content": "这个叫做china king的饭店再大吃一顿啊",
+      "music": 0.0
+    },
+    {
+      "from": 171.95,
+      "to": 173.71,
+      "sid": 103,
+      "location": 2,
+      "content": "一般来说比较偏僻的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 173.71,
+      "to": 175.49,
+      "sid": 104,
+      "location": 2,
+      "content": "中餐厅都是福建人开的",
+      "music": 0.0
+    },
+    {
+      "from": 175.49,
+      "to": 176.67,
+      "sid": 105,
+      "location": 2,
+      "content": "这一家也不例外",
+      "music": 0.0
+    },
+    {
+      "from": 176.67,
+      "to": 179.49,
+      "sid": 106,
+      "location": 2,
+      "content": "而且我觉得福建的老板一般见到我都非常热情",
+      "music": 0.0
+    },
+    {
+      "from": 179.49,
+      "to": 182.17,
+      "sid": 107,
+      "location": 2,
+      "content": "也可能是大部分大部分时候在这种偏远的地方",
+      "music": 0.0
+    },
+    {
+      "from": 182.17,
+      "to": 183.3,
+      "sid": 108,
+      "location": 2,
+      "content": "都见不到中国人",
+      "music": 0.0
+    },
+    {
+      "from": 183.3,
+      "to": 186.0,
+      "sid": 109,
+      "location": 2,
+      "content": "这一家餐厅的价格好像还在疫情之前啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.0,
+      "to": 187.34,
+      "sid": 110,
+      "location": 2,
+      "content": "小份都是六美元",
+      "music": 0.0
+    },
+    {
+      "from": 187.34,
+      "to": 188.38,
+      "sid": 111,
+      "location": 2,
+      "content": "大份九美元",
+      "music": 0.0
+    },
+    {
+      "from": 188.38,
+      "to": 189.34,
+      "sid": 112,
+      "location": 2,
+      "content": "美国的B友们",
+      "music": 0.0
+    },
+    {
+      "from": 189.34,
+      "to": 190.68,
+      "sid": 113,
+      "location": 2,
+      "content": "你们觉得这个物价怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 190.68,
+      "to": 192.22,
+      "sid": 114,
+      "location": 2,
+      "content": "那我在这里都没去玩",
+      "music": 0.0
+    },
+    {
+      "from": 192.22,
+      "to": 193.08,
+      "sid": 115,
+      "location": 2,
+      "content": "没有什么好的",
+      "music": 0.0
+    },
+    {
+      "from": 193.08,
+      "to": 193.72,
+      "sid": 116,
+      "location": 2,
+      "content": "这个小大",
+      "music": 0.0
+    },
+    {
+      "from": 193.72,
+      "to": 197.679,
+      "sid": 117,
+      "location": 2,
+      "content": "你肯定没有大堂里去省会省那边哦",
+      "music": 0.0
+    },
+    {
+      "from": 197.679,
+      "to": 200.159,
+      "sid": 118,
+      "location": 2,
+      "content": "哦哦这个就这个证没有什么特别的",
+      "music": 0.0
+    },
+    {
+      "from": 201.159,
+      "to": 202.699,
+      "sid": 119,
+      "location": 2,
+      "content": "那你们就你这是每天上班",
+      "music": 0.0
+    },
+    {
+      "from": 202.699,
+      "to": 206.11,
+      "sid": 120,
+      "location": 2,
+      "content": "对这个中餐厅当天洗手间还坏了",
+      "music": 0.0
+    },
+    {
+      "from": 206.11,
+      "to": 208.29,
+      "sid": 121,
+      "location": 2,
+      "content": "搞得我只能去隔壁的鞋店借用一下",
+      "music": 0.0
+    },
+    {
+      "from": 208.29,
+      "to": 209.93,
+      "sid": 122,
+      "location": 2,
+      "content": "他们的鞋垫的洗手间",
+      "music": 0.0
+    },
+    {
+      "from": 209.93,
+      "to": 211.17,
+      "sid": 123,
+      "location": 2,
+      "content": "在仓库的最里面",
+      "music": 0.0
+    },
+    {
+      "from": 211.17,
+      "to": 212.78,
+      "sid": 124,
+      "location": 2,
+      "content": "这边算是私人的吧",
+      "music": 0.0
+    },
+    {
+      "from": 212.78,
+      "to": 215.74,
+      "sid": 125,
+      "location": 2,
+      "content": "理论上我可以随手拿一双鞋塞到我的包里面",
+      "music": 0.0
+    },
+    {
+      "from": 215.74,
+      "to": 217.56,
+      "sid": 126,
+      "location": 2,
+      "content": "但是他们也是放我进去用嘛",
+      "music": 0.0
+    },
+    {
+      "from": 217.56,
+      "to": 218.22,
+      "sid": 127,
+      "location": 2,
+      "content": "总的来说",
+      "music": 0.0
+    },
+    {
+      "from": 218.22,
+      "to": 220.79,
+      "sid": 128,
+      "location": 2,
+      "content": "今天我在墨西哥小镇上面遇到的人都还不错",
+      "music": 0.0
+    },
+    {
+      "from": 220.79,
+      "to": 222.27,
+      "sid": 129,
+      "location": 2,
+      "content": "现在我离开墨西哥小镇",
+      "music": 0.0
+    },
+    {
+      "from": 222.27,
+      "to": 223.73,
+      "sid": 130,
+      "location": 2,
+      "content": "去北边的巴黎看一看",
+      "music": 0.0
+    },
+    {
+      "from": 223.73,
+      "to": 225.81,
+      "sid": 131,
+      "location": 2,
+      "content": "墨西哥附近都是一些玉米地",
+      "music": 0.0
+    },
+    {
+      "from": 225.81,
+      "to": 227.93,
+      "sid": 132,
+      "location": 2,
+      "content": "这块最主要的经济还是农业",
+      "music": 0.0
+    },
+    {
+      "from": 227.93,
+      "to": 228.77,
+      "sid": 133,
+      "location": 2,
+      "content": "直到走的时候",
+      "music": 0.0
+    },
+    {
+      "from": 228.77,
+      "to": 229.89,
+      "sid": 134,
+      "location": 2,
+      "content": "我才想起来介绍一下",
+      "music": 0.0
+    },
+    {
+      "from": 229.89,
+      "to": 231.77,
+      "sid": 135,
+      "location": 2,
+      "content": "这个小镇为什么叫做墨西哥",
+      "music": 0.0
+    },
+    {
+      "from": 231.77,
+      "to": 233.37,
+      "sid": 136,
+      "location": 2,
+      "content": "第一是因为最早来的居民",
+      "music": 0.0
+    },
+    {
+      "from": 233.37,
+      "to": 236.29,
+      "sid": 137,
+      "location": 2,
+      "content": "听说很多密苏里州的探险家在墨西哥发了财",
+      "music": 0.0
+    },
+    {
+      "from": 236.29,
+      "to": 238.38,
+      "sid": 138,
+      "location": 2,
+      "content": "也就是现在的德克萨斯州",
+      "music": 0.0
+    },
+    {
+      "from": 238.38,
+      "to": 240.62,
+      "sid": 139,
+      "location": 2,
+      "content": "来这边最早的定居者也想发财",
+      "music": 0.0
+    },
+    {
+      "from": 240.62,
+      "to": 242.86,
+      "sid": 140,
+      "location": 2,
+      "content": "于是就把小镇命名为墨西哥",
+      "music": 0.0
+    },
+    {
+      "from": 242.86,
+      "to": 244.94,
+      "sid": 141,
+      "location": 2,
+      "content": "第二个原因就是这块地区的人很喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 244.94,
+      "to": 247.59,
+      "sid": 142,
+      "location": 2,
+      "content": "用异域风情的名字来命名自己的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 247.59,
+      "to": 249.79,
+      "sid": 143,
+      "location": 2,
+      "content": "除了马上要去的巴黎和开罗",
+      "music": 0.0
+    },
+    {
+      "from": 249.79,
+      "to": 251.31,
+      "sid": 144,
+      "location": 2,
+      "content": "这边还有叫新伦敦",
+      "music": 0.0
+    },
+    {
+      "from": 251.31,
+      "to": 253.38,
+      "sid": 145,
+      "location": 2,
+      "content": "特洛伊和新马德里的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 253.38,
+      "to": 255.62,
+      "sid": 146,
+      "location": 2,
+      "content": "很多朋友说想旅游看一看世界",
+      "music": 0.0
+    },
+    {
+      "from": 255.62,
+      "to": 256.98,
+      "sid": 147,
+      "location": 2,
+      "content": "我建议大家出国之前",
+      "music": 0.0
+    },
+    {
+      "from": 256.98,
+      "to": 259.44,
+      "sid": 148,
+      "location": 2,
+      "content": "可以先学习一些实用的地道口语",
+      "music": 0.0
+    },
+    {
+      "from": 259.44,
+      "to": 261.08,
+      "sid": 149,
+      "location": 2,
+      "content": "不管是去正版还是美国",
+      "music": 0.0
+    },
+    {
+      "from": 261.08,
+      "to": 262.02,
+      "sid": 150,
+      "location": 2,
+      "content": "盗版的墨西哥",
+      "music": 0.0
+    },
+    {
+      "from": 262.02,
+      "to": 263.26,
+      "sid": 151,
+      "location": 2,
+      "content": "巴黎还是开罗",
+      "music": 0.0
+    },
+    {
+      "from": 263.26,
+      "to": 264.9,
+      "sid": 152,
+      "location": 2,
+      "content": "掌握一定水平的国际语言",
+      "music": 0.0
+    },
+    {
+      "from": 264.9,
+      "to": 266.64,
+      "sid": 153,
+      "location": 2,
+      "content": "英语来应对各种各样的情境",
+      "music": 0.0
+    },
+    {
+      "from": 266.64,
+      "to": 268.65,
+      "sid": 154,
+      "location": 2,
+      "content": "可以让我们的旅程轻松很多",
+      "music": 0.0
+    },
+    {
+      "from": 268.65,
+      "to": 271.95,
+      "sid": 155,
+      "location": 2,
+      "content": "这两天我正好在用百词斩旗下推出的番茄英语",
+      "music": 0.0
+    },
+    {
+      "from": 271.95,
+      "to": 274.43,
+      "sid": 156,
+      "location": 2,
+      "content": "他通过外国老师原创实拍的VLOG",
+      "music": 0.0
+    },
+    {
+      "from": 274.43,
+      "to": 276.49,
+      "sid": 157,
+      "location": 2,
+      "content": "第一视角让你体验海外游",
+      "music": 0.0
+    },
+    {
+      "from": 276.49,
+      "to": 280.03,
+      "sid": 158,
+      "location": 2,
+      "content": "学完一章就掌握一个场景下的口语表达选题",
+      "music": 0.0
+    },
+    {
+      "from": 280.03,
+      "to": 281.13,
+      "sid": 159,
+      "location": 2,
+      "content": "非常的实用啊",
+      "music": 0.0
+    },
+    {
+      "from": 281.13,
+      "to": 283.55,
+      "sid": 160,
+      "location": 2,
+      "content": "重点词句视频里面也会标注出来",
+      "music": 0.0
+    },
+    {
+      "from": 283.55,
+      "to": 286.57,
+      "sid": 161,
+      "location": 2,
+      "content": "我最近看的就是如何入驻纽约的AIRBNB",
+      "music": 0.0
+    },
+    {
+      "from": 286.57,
+      "to": 289.71,
+      "sid": 162,
+      "location": 2,
+      "content": "学完之后你就能掌握和房东交流的技巧了",
+      "music": 0.0
+    },
+    {
+      "from": 289.71,
+      "to": 291.72,
+      "sid": 163,
+      "location": 2,
+      "content": "不仅是我看的津津有味啊",
+      "music": 0.0
+    },
+    {
+      "from": 291.72,
+      "to": 292.6,
+      "sid": 164,
+      "location": 2,
+      "content": "我的黑人兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 292.6,
+      "to": 295.12,
+      "sid": 165,
+      "location": 2,
+      "content": "也很快被番茄英语的趣味节目吸引了",
+      "music": 0.0
+    },
+    {
+      "from": 295.12,
+      "to": 296.8,
+      "sid": 166,
+      "location": 2,
+      "content": "在碎片化的时间里面",
+      "music": 0.0
+    },
+    {
+      "from": 296.8,
+      "to": 300.23,
+      "sid": 167,
+      "location": 2,
+      "content": "我们可以拿出手机轻松学习听力口语相关内容",
+      "music": 0.0
+    },
+    {
+      "from": 300.23,
+      "to": 302.59,
+      "sid": 168,
+      "location": 2,
+      "content": "而且番茄英语还设置了中间问题和",
+      "music": 0.0
+    },
+    {
+      "from": 302.59,
+      "to": 303.87,
+      "sid": 169,
+      "location": 2,
+      "content": "看后的汇总环节",
+      "music": 0.0
+    },
+    {
+      "from": 303.87,
+      "to": 305.81,
+      "sid": 170,
+      "location": 2,
+      "content": "这样子可以帮助我们回顾学习",
+      "music": 0.0
+    },
+    {
+      "from": 305.81,
+      "to": 307.15,
+      "sid": 171,
+      "location": 2,
+      "content": "加深对视频的印象",
+      "music": 0.0
+    },
+    {
+      "from": 307.15,
+      "to": 308.53,
+      "sid": 172,
+      "location": 2,
+      "content": "不至于一看就忘",
+      "music": 0.0
+    },
+    {
+      "from": 308.53,
+      "to": 310.01,
+      "sid": 173,
+      "location": 2,
+      "content": "现在发琴音有六块钱",
+      "music": 0.0
+    },
+    {
+      "from": 310.01,
+      "to": 310.95,
+      "sid": 174,
+      "location": 2,
+      "content": "四天体验课",
+      "music": 0.0
+    },
+    {
+      "from": 310.95,
+      "to": 312.44,
+      "sid": 175,
+      "location": 2,
+      "content": "大家快去下载吧",
+      "music": 0.0
+    },
+    {
+      "from": 312.44,
+      "to": 313.68,
+      "sid": 176,
+      "location": 2,
+      "content": "回到巴黎这边",
+      "music": 0.0
+    },
+    {
+      "from": 313.68,
+      "to": 316.22,
+      "sid": 177,
+      "location": 2,
+      "content": "最早的定居者是来自于肯塔基州巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 316.22,
+      "to": 318.12,
+      "sid": 178,
+      "location": 2,
+      "content": "而肯塔基州的巴黎的名字来源",
+      "music": 0.0
+    },
+    {
+      "from": 318.12,
+      "to": 321.12,
+      "sid": 179,
+      "location": 2,
+      "content": "是为了纪念法国在美国独立战争中的支援",
+      "music": 0.0
+    },
+    {
+      "from": 321.12,
+      "to": 323.2,
+      "sid": 180,
+      "location": 2,
+      "content": "全美国大概有20个巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 323.2,
+      "to": 325.48,
+      "sid": 181,
+      "location": 2,
+      "content": "一半是直接借鉴的法国巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 325.48,
+      "to": 327.02,
+      "sid": 182,
+      "location": 2,
+      "content": "还有一半是互相照抄",
+      "music": 0.0
+    },
+    {
+      "from": 327.02,
+      "to": 328.77,
+      "sid": 183,
+      "location": 2,
+      "content": "或者说是间接借借",
+      "music": 0.0
+    },
+    {
+      "from": 328.77,
+      "to": 329.85,
+      "sid": 184,
+      "location": 2,
+      "content": "其中人口最多",
+      "music": 0.0
+    },
+    {
+      "from": 329.85,
+      "to": 331.83,
+      "sid": 185,
+      "location": 2,
+      "content": "最有名的巴黎还是德州巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 331.83,
+      "to": 334.07,
+      "sid": 186,
+      "location": 2,
+      "content": "不知道有多少B友看过那一部电影",
+      "music": 0.0
+    },
+    {
+      "from": 334.07,
+      "to": 336.65,
+      "sid": 187,
+      "location": 2,
+      "content": "其实那个电影只是叫德州巴黎这个名字",
+      "music": 0.0
+    },
+    {
+      "from": 336.65,
+      "to": 338.85,
+      "sid": 188,
+      "location": 2,
+      "content": "所有的取景地都是在德州的西部",
+      "music": 0.0
+    },
+    {
+      "from": 338.85,
+      "to": 340.27,
+      "sid": 189,
+      "location": 2,
+      "content": "而不是德州巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 340.27,
+      "to": 341.31,
+      "sid": 190,
+      "location": 2,
+      "content": "而德州的巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 341.31,
+      "to": 343.45,
+      "sid": 191,
+      "location": 2,
+      "content": "总的来说就是一个有一点破败的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 343.45,
+      "to": 345.95,
+      "sid": 192,
+      "location": 2,
+      "content": "不过我印象最深的是那边有一个很矮的山寨",
+      "music": 0.0
+    },
+    {
+      "from": 345.95,
+      "to": 346.89,
+      "sid": 193,
+      "location": 2,
+      "content": "埃菲尔铁塔",
+      "music": 0.0
+    },
+    {
+      "from": 346.89,
+      "to": 348.89,
+      "sid": 194,
+      "location": 2,
+      "content": "最上面还有一个德州的牛仔帽",
+      "music": 0.0
+    },
+    {
+      "from": 348.89,
+      "to": 350.89,
+      "sid": 195,
+      "location": 2,
+      "content": "美国只有最大的两个巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 350.89,
+      "to": 353.97,
+      "sid": 196,
+      "location": 2,
+      "content": "田纳西州的巴黎和德州的巴黎有建这个假铁塔",
+      "music": 0.0
+    },
+    {
+      "from": 353.97,
+      "to": 356.07,
+      "sid": 197,
+      "location": 2,
+      "content": "而密苏里州的巴黎只有1000个人",
+      "music": 0.0
+    },
+    {
+      "from": 356.07,
+      "to": 358.23,
+      "sid": 198,
+      "location": 2,
+      "content": "没有资金来源建这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 358.23,
+      "to": 359.25,
+      "sid": 199,
+      "location": 2,
+      "content": "除了铁塔",
+      "music": 0.0
+    },
+    {
+      "from": 359.25,
+      "to": 360.79,
+      "sid": 200,
+      "location": 2,
+      "content": "德州巴黎给我印象很深的",
+      "music": 0.0
+    },
+    {
+      "from": 360.79,
+      "to": 362.87,
+      "sid": 201,
+      "location": 2,
+      "content": "就是在一个40多度的大热天",
+      "music": 0.0
+    },
+    {
+      "from": 362.87,
+      "to": 364.91,
+      "sid": 202,
+      "location": 2,
+      "content": "有几个人在为了一个慈善活动",
+      "music": 0.0
+    },
+    {
+      "from": 364.91,
+      "to": 367.05,
+      "sid": 203,
+      "location": 2,
+      "content": "在大太阳底下筹款卖瓜",
+      "music": 0.0
+    },
+    {
+      "from": 367.05,
+      "to": 368.69,
+      "sid": 204,
+      "location": 2,
+      "content": "我还在这条路的马路对面",
+      "music": 0.0
+    },
+    {
+      "from": 368.69,
+      "to": 371.49,
+      "sid": 205,
+      "location": 2,
+      "content": "遇到了那一期支持特朗普的黑人大姐",
+      "music": 0.0
+    },
+    {
+      "from": 371.49,
+      "to": 372.85,
+      "sid": 206,
+      "location": 2,
+      "content": "说来有点搞笑",
+      "music": 0.0
+    },
+    {
+      "from": 372.85,
+      "to": 375.43,
+      "sid": 207,
+      "location": 2,
+      "content": "我唯一两次偶遇到卖特朗普周边的",
+      "music": 0.0
+    },
+    {
+      "from": 375.43,
+      "to": 376.87,
+      "sid": 208,
+      "location": 2,
+      "content": "一次是在墨西哥",
+      "music": 0.0
+    },
+    {
+      "from": 376.87,
+      "to": 378.67,
+      "sid": 209,
+      "location": 2,
+      "content": "另外一次是在巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 378.67,
+      "to": 381.23,
+      "sid": 210,
+      "location": 2,
+      "content": "我现在回到密苏里州巴黎的主街上",
+      "music": 0.0
+    },
+    {
+      "from": 381.23,
+      "to": 382.71,
+      "sid": 211,
+      "location": 2,
+      "content": "由于我是一个周日到的",
+      "music": 0.0
+    },
+    {
+      "from": 382.71,
+      "to": 385.28,
+      "sid": 212,
+      "location": 2,
+      "content": "这边街上所有的店铺都是休息",
+      "music": 0.0
+    },
+    {
+      "from": 385.28,
+      "to": 388.659,
+      "sid": 213,
+      "location": 2,
+      "content": "除了一家叫DOS across的墨西哥餐厅开门",
+      "music": 0.0
+    },
+    {
+      "from": 388.659,
+      "to": 391.499,
+      "sid": 214,
+      "location": 2,
+      "content": "这个餐厅的名字跟我刚刚在墨西哥吃的那一家",
+      "music": 0.0
+    },
+    {
+      "from": 391.499,
+      "to": 392.679,
+      "sid": 215,
+      "location": 2,
+      "content": "是一模一样的",
+      "music": 0.0
+    },
+    {
+      "from": 392.679,
+      "to": 394.78,
+      "sid": 216,
+      "location": 2,
+      "content": "不过这个应该不是什么连锁店",
+      "music": 0.0
+    },
+    {
+      "from": 394.78,
+      "to": 397.62,
+      "sid": 217,
+      "location": 2,
+      "content": "有可能是一家人在墨西哥把生意做大了",
+      "music": 0.0
+    },
+    {
+      "from": 397.62,
+      "to": 400.14,
+      "sid": 218,
+      "location": 2,
+      "content": "接着在隔壁的巴黎又开了一家",
+      "music": 0.0
+    },
+    {
+      "from": 400.14,
+      "to": 403.38,
+      "sid": 219,
+      "location": 2,
+      "content": "现在我来到了巴黎的地标性建筑门罗县法院",
+      "music": 0.0
+    },
+    {
+      "from": 403.38,
+      "to": 405.34,
+      "sid": 220,
+      "location": 2,
+      "content": "巴黎虽然只有1100个人",
+      "music": 0.0
+    },
+    {
+      "from": 405.34,
+      "to": 407.86,
+      "sid": 221,
+      "location": 2,
+      "content": "但是他已经是所在的门罗县最大的城市",
+      "music": 0.0
+    },
+    {
+      "from": 407.86,
+      "to": 409.23,
+      "sid": 222,
+      "location": 2,
+      "content": "也是他的县城",
+      "music": 0.0
+    },
+    {
+      "from": 409.23,
+      "to": 410.41,
+      "sid": 223,
+      "location": 2,
+      "content": "值得一提的是",
+      "music": 0.0
+    },
+    {
+      "from": 410.41,
+      "to": 412.57,
+      "sid": 224,
+      "location": 2,
+      "content": "门罗县还有个地方叫做佛罗里达",
+      "music": 0.0
+    },
+    {
+      "from": 412.57,
+      "to": 414.71,
+      "sid": 225,
+      "location": 2,
+      "content": "写了汤姆索亚历险记的马克吐温",
+      "music": 0.0
+    },
+    {
+      "from": 414.71,
+      "to": 416.89,
+      "sid": 226,
+      "location": 2,
+      "content": "就出生于密苏里州的佛罗里达",
+      "music": 0.0
+    },
+    {
+      "from": 416.89,
+      "to": 419.75,
+      "sid": 227,
+      "location": 2,
+      "content": "他的出生地离巴黎只有20分钟的车程",
+      "music": 0.0
+    },
+    {
+      "from": 419.75,
+      "to": 420.69,
+      "sid": 228,
+      "location": 2,
+      "content": "除了这些",
+      "music": 0.0
+    },
+    {
+      "from": 420.69,
+      "to": 421.61,
+      "sid": 229,
+      "location": 2,
+      "content": "密苏里的巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 421.61,
+      "to": 423.99,
+      "sid": 230,
+      "location": 2,
+      "content": "基本上和其他的美国农村小镇差不多",
+      "music": 0.0
+    },
+    {
+      "from": 423.99,
+      "to": 426.15,
+      "sid": 231,
+      "location": 2,
+      "content": "有一个dollar general小杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 426.15,
+      "to": 428.81,
+      "sid": 232,
+      "location": 2,
+      "content": "我在这边买了两个泡泡糖和一个大水",
+      "music": 0.0
+    },
+    {
+      "from": 428.81,
+      "to": 430.27,
+      "sid": 233,
+      "location": 2,
+      "content": "花了我两美元",
+      "music": 0.0
+    },
+    {
+      "from": 430.27,
+      "to": 432.43,
+      "sid": 234,
+      "location": 2,
+      "content": "走之前没有忘记我们的保留节目",
+      "music": 0.0
+    },
+    {
+      "from": 432.43,
+      "to": 433.39,
+      "sid": 235,
+      "location": 2,
+      "content": "小镇邮局",
+      "music": 0.0
+    },
+    {
+      "from": 433.39,
+      "to": 434.71,
+      "sid": 236,
+      "location": 2,
+      "content": "感觉巴黎小镇的邮局",
+      "music": 0.0
+    },
+    {
+      "from": 434.71,
+      "to": 437.25,
+      "sid": 237,
+      "location": 2,
+      "content": "比之前去过的大部分邮局都要有一点特色",
+      "music": 0.0
+    },
+    {
+      "from": 437.25,
+      "to": 438.81,
+      "sid": 238,
+      "location": 2,
+      "content": "这边还有一点历史感",
+      "music": 0.0
+    },
+    {
+      "from": 438.81,
+      "to": 441.19,
+      "sid": 239,
+      "location": 2,
+      "content": "目前巴黎94%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 441.19,
+      "to": 443.75,
+      "sid": 240,
+      "location": 2,
+      "content": "一套房子的中位数是9万4000美元",
+      "music": 0.0
+    },
+    {
+      "from": 443.75,
+      "to": 444.63,
+      "sid": 241,
+      "location": 2,
+      "content": "离开巴黎",
+      "music": 0.0
+    },
+    {
+      "from": 444.63,
+      "to": 446.09,
+      "sid": 242,
+      "location": 2,
+      "content": "再往西开半个小时",
+      "music": 0.0
+    },
+    {
+      "from": 446.09,
+      "to": 448.789,
+      "sid": 243,
+      "location": 2,
+      "content": "我就来到了密苏里州的开罗小镇",
+      "music": 0.0
+    },
+    {
+      "from": 448.789,
+      "to": 451.409,
+      "sid": 244,
+      "location": 2,
+      "content": "这是今天三个小镇里面最小的那一个",
+      "music": 0.0
+    },
+    {
+      "from": 451.409,
+      "to": 453.589,
+      "sid": 245,
+      "location": 2,
+      "content": "现在只剩下205个人了",
+      "music": 0.0
+    },
+    {
+      "from": 453.589,
+      "to": 455.55,
+      "sid": 246,
+      "location": 2,
+      "content": "其中98%是白人",
+      "music": 0.0
+    },
+    {
+      "from": 455.55,
+      "to": 458.09,
+      "sid": 247,
+      "location": 2,
+      "content": "大部分还留在开罗的人都是老人了",
+      "music": 0.0
+    },
+    {
+      "from": 458.09,
+      "to": 460.71,
+      "sid": 248,
+      "location": 2,
+      "content": "这边人口中位数有55.8岁",
+      "music": 0.0
+    },
+    {
+      "from": 460.71,
+      "to": 463.46,
+      "sid": 249,
+      "location": 2,
+      "content": "然后房子的中位数价格是10万美元",
+      "music": 0.0
+    },
+    {
+      "from": 463.46,
+      "to": 464.26,
+      "sid": 250,
+      "location": 2,
+      "content": "密苏里州",
+      "music": 0.0
+    },
+    {
+      "from": 464.26,
+      "to": 467.3,
+      "sid": 251,
+      "location": 2,
+      "content": "开罗最早的定居者来自于伊利诺伊州的开罗",
+      "music": 0.0
+    },
+    {
+      "from": 467.3,
+      "to": 469.1,
+      "sid": 252,
+      "location": 2,
+      "content": "那一个小镇我还真去过",
+      "music": 0.0
+    },
+    {
+      "from": 469.1,
+      "to": 470.88,
+      "sid": 253,
+      "location": 2,
+      "content": "而且我还发过一期视频",
+      "music": 0.0
+    },
+    {
+      "from": 470.88,
+      "to": 473.84,
+      "sid": 254,
+      "location": 2,
+      "content": "当然最早他们肯定还是抄的埃及的开罗",
+      "music": 0.0
+    },
+    {
+      "from": 473.84,
+      "to": 474.96,
+      "sid": 255,
+      "location": 2,
+      "content": "我当时去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 474.96,
+      "to": 476.59,
+      "sid": 256,
+      "location": 2,
+      "content": "只有这个加油站还开门",
+      "music": 0.0
+    },
+    {
+      "from": 476.59,
+      "to": 479.23,
+      "sid": 257,
+      "location": 2,
+      "content": "我去这个叫做埃及村庄市场的小店里面",
+      "music": 0.0
+    },
+    {
+      "from": 479.23,
+      "to": 480.95,
+      "sid": 258,
+      "location": 2,
+      "content": "买了一罐一美元的可乐",
+      "music": 0.0
+    },
+    {
+      "from": 480.95,
+      "to": 481.67,
+      "sid": 259,
+      "location": 2,
+      "content": "马路对面",
+      "music": 0.0
+    },
+    {
+      "from": 481.67,
+      "to": 485.35,
+      "sid": 260,
+      "location": 2,
+      "content": "还有一个叫做开罗村庄存储洗车的地方",
+      "music": 0.0
+    },
+    {
+      "from": 486.6,
+      "to": 489.5,
+      "sid": 261,
+      "location": 2,
+      "content": "除了偶遇的这两个小朋友的摩托车有一点吵",
+      "music": 0.0
+    },
+    {
+      "from": 489.5,
+      "to": 491.9,
+      "sid": 262,
+      "location": 2,
+      "content": "整个开楼就是一个非常安静的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 491.9,
+      "to": 493.88,
+      "sid": 263,
+      "location": 2,
+      "content": "不过他们这边设施还挺全",
+      "music": 0.0
+    },
+    {
+      "from": 493.88,
+      "to": 495.24,
+      "sid": 264,
+      "location": 2,
+      "content": "有一个市政厅",
+      "music": 0.0
+    },
+    {
+      "from": 495.24,
+      "to": 496.5,
+      "sid": 265,
+      "location": 2,
+      "content": "一个消防局",
+      "music": 0.0
+    },
+    {
+      "from": 496.5,
+      "to": 499.09,
+      "sid": 266,
+      "location": 2,
+      "content": "这上面房子的草坪维护的也不错",
+      "music": 0.0
+    },
+    {
+      "from": 499.09,
+      "to": 501.77,
+      "sid": 267,
+      "location": 2,
+      "content": "从开罗核心的加油站小店到外面的农田",
+      "music": 0.0
+    },
+    {
+      "from": 501.77,
+      "to": 503.34,
+      "sid": 268,
+      "location": 2,
+      "content": "也就是一脚油门的事情",
+      "music": 0.0
+    },
+    {
+      "from": 503.34,
+      "to": 505.9,
+      "sid": 269,
+      "location": 2,
+      "content": "到了村口这边很快就变成石子路了",
+      "music": 0.0
+    },
+    {
+      "from": 505.9,
+      "to": 508.28,
+      "sid": 270,
+      "location": 2,
+      "content": "公路边上有一个开罗二手车市场",
+      "music": 0.0
+    },
+    {
+      "from": 508.28,
+      "to": 509.83,
+      "sid": 271,
+      "location": 2,
+      "content": "远处还有一个枪店",
+      "music": 0.0
+    },
+    {
+      "from": 509.83,
+      "to": 510.27,
+      "sid": 272,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 510.27,
+      "to": 511.51,
+      "sid": 273,
+      "location": 2,
+      "content": "这期视频就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 511.51,
+      "to": 511.95,
+      "sid": 274,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 511.95,
+      "to": 514.48,
+      "sid": 275,
+      "location": 2,
+      "content": "带你去更多正常人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}
