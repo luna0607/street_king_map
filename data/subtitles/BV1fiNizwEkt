@@ -1,0 +1,3198 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "en",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.92,
+      "sid": 1,
+      "location": 2,
+      "content": "The tone has shifted to the United States.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 0.92,
+      "to": 2.64,
+      "sid": 2,
+      "location": 2,
+      "content": "The city with the highest percentage of Mexican Americans.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 2.64,
+      "to": 5.24,
+      "sid": 3,
+      "location": 2,
+      "content": "A city of 250,000 residents, 95% of whom are Latino.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 5.24,
+      "to": 6.52,
+      "sid": 4,
+      "location": 2,
+      "content": "The small Texas town of Laredo.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 6.52,
+      "to": 8.16,
+      "sid": 5,
+      "location": 2,
+      "content": "Across the river lies Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 11.55,
+      "to": 13.35,
+      "sid": 6,
+      "location": 2,
+      "content": "I previously visited an African American gang neighborhood in the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 13.35,
+      "to": 15.11,
+      "sid": 7,
+      "location": 2,
+      "content": "Compared to the crime syndicates in Mexico,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 15.11,
+      "to": 16.58,
+      "sid": 8,
+      "location": 2,
+      "content": "it's just petty stuff.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 16.58,
+      "to": 18.32,
+      "sid": 9,
+      "location": 2,
+      "content": "Mexican gangs are known for their brutal methods.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 18.32,
+      "to": 21.1,
+      "sid": 10,
+      "location": 2,
+      "content": "The armed forces of 20 are so powerful that they can directly challenge the authorities.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 21.1,
+      "to": 23.0,
+      "sid": 11,
+      "location": 2,
+      "content": "They resemble a warlord group controlling a region.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 23.0,
+      "to": 25.14,
+      "sid": 12,
+      "location": 2,
+      "content": "This border town, now a major smuggling hub,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 25.14,
+      "to": 27.64,
+      "sid": 13,
+      "location": 2,
+      "content": "is still fully controlled by the Northeast Group in Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 27.64,
+      "to": 28.24,
+      "sid": 14,
+      "location": 2,
+      "content": "In February this year,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 28.24,
+      "to": 30.52,
+      "sid": 15,
+      "location": 2,
+      "content": "Mexican police attempted to apprehend the number two leader of this gang,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 30.52,
+      "to": 32.16,
+      "sid": 16,
+      "location": 2,
+      "content": "which directly sparked citywide street battles.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 32.16,
+      "to": 32.96,
+      "sid": 17,
+      "location": 2,
+      "content": "Flights at the airport were suspended,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 32.96,
+      "to": 33.64,
+      "sid": 18,
+      "location": 2,
+      "content": "with all flights grounded.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 33.64,
+      "to": 35.36,
+      "sid": 19,
+      "location": 2,
+      "content": "The local U.S. consulates and embassies are closed",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 35.36,
+      "to": 36.68,
+      "sid": 20,
+      "location": 2,
+      "content": "And by mid-2025,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 36.68,
+      "to": 37.8,
+      "sid": 21,
+      "location": 2,
+      "content": "one of the few shared opinions in the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 37.8,
+      "to": 40.0,
+      "sid": 22,
+      "location": 2,
+      "content": "is to advise citizens against traveling to Nuevo Laredo,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 40.0,
+      "to": 42.16,
+      "sid": 23,
+      "location": 2,
+      "content": "and its home state of Tamaulipas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 42.16,
+      "to": 44.28,
+      "sid": 24,
+      "location": 2,
+      "content": "I'm now preparing to depart from the U.S. side of the border,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 44.28,
+      "to": 45.56,
+      "sid": 25,
+      "location": 2,
+      "content": "from a street known for cross-border trade,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 45.56,
+      "to": 46.28,
+      "sid": 26,
+      "location": 2,
+      "content": "heading to the other side of the river,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 46.28,
+      "to": 49.3,
+      "sid": 27,
+      "location": 2,
+      "content": "to the town of Nuevo Laredo, controlled by Mexican criminal groups.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 49.3,
+      "to": 52.629,
+      "sid": 28,
+      "location": 2,
+      "content": "The first step is to teach you how to legally cross from the U.S. to Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 52.629,
+      "to": 54.109,
+      "sid": 29,
+      "location": 2,
+      "content": "Of course, you can choose to drive.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 54.109,
+      "to": 56.349,
+      "sid": 30,
+      "location": 2,
+      "content": "But in Laredo, most people, like me, use the pedestrian bridge.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 56.349,
+      "to": 57.289,
+      "sid": 31,
+      "location": 2,
+      "content": "Walk across to Mexico, exchange your dollars after passing through that toll gate.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 57.289,
+      "to": 60.12,
+      "sid": 32,
+      "location": 2,
+      "content": "That's when you're close to the U.S. and have entered the international bridge area.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 60.12,
+      "to": 62.78,
+      "sid": 33,
+      "location": 2,
+      "content": "If you want to go back, you'll need to queue up at the other end of the bridge to clear customs.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 62.78,
+      "to": 66.08,
+      "sid": 34,
+      "location": 2,
+      "content": "Right in the middle of this bridge is the boundary marker between the U.S. and Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 66.08,
+      "to": 69.45,
+      "sid": 35,
+      "location": 2,
+      "content": "Since the border between Texas and Mexico is natural,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 69.45,
+      "to": 72.05,
+      "sid": 36,
+      "location": 2,
+      "content": "The border between Texas and Mexico is natural.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 72.05,
+      "to": 72.77,
+      "sid": 37,
+      "location": 2,
+      "content": "The Rio Grande",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 72.77,
+      "to": 74.35,
+      "sid": 38,
+      "location": 2,
+      "content": "There's no border wall here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 74.35,
+      "to": 77.33,
+      "sid": 39,
+      "location": 2,
+      "content": "An outlet mall has even opened on the U.S. side of the border",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 77.33,
+      "to": 79.95,
+      "sid": 40,
+      "location": 2,
+      "content": "The border jurisdiction around the small town of Laredo is like this",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 79.95,
+      "to": 82.11,
+      "sid": 41,
+      "location": 2,
+      "content": "This is another cross-border railway bridge over the river",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 82.11,
+      "to": 84.86,
+      "sid": 42,
+      "location": 2,
+      "content": "If it weren't for a few vehicles from the U.S. Border Patrol parked by the shore",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 84.86,
+      "to": 87.18,
+      "sid": 43,
+      "location": 2,
+      "content": "The Rio Grande, which serves as the U.S.-Mexico border, looks like an ordinary river",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 87.18,
+      "to": 88.42,
+      "sid": 44,
+      "location": 2,
+      "content": "There's not much difference",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 88.42,
+      "to": 90.58,
+      "sid": 45,
+      "location": 2,
+      "content": "In the wider border area outside Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 90.58,
+      "to": 91.98,
+      "sid": 46,
+      "location": 2,
+      "content": "It's a small grove like this.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 91.98,
+      "to": 94.83,
+      "sid": 47,
+      "location": 2,
+      "content": "You can swim from the U.S. to Mexico down this slope.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 94.83,
+      "to": 95.99,
+      "sid": 48,
+      "location": 2,
+      "content": "Back on the border bridge.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 95.99,
+      "to": 98.01,
+      "sid": 49,
+      "location": 2,
+      "content": "Now I've entered Mexican territory.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 98.01,
+      "to": 99.89,
+      "sid": 50,
+      "location": 2,
+      "content": "The building up ahead is the Mexican customs office.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 99.89,
+      "to": 102.64,
+      "sid": 51,
+      "location": 2,
+      "content": "Pedestrians aren't checked at all when entering Mexico from the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 102.64,
+      "to": 103.44,
+      "sid": 52,
+      "location": 2,
+      "content": "No exaggeration,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 103.44,
+      "to": 105.26,
+      "sid": 53,
+      "location": 2,
+      "content": "it's even easier to enter than going into a supermarket.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 105.26,
+      "to": 106.92,
+      "sid": 54,
+      "location": 2,
+      "content": "Even if I begged the Mexican border control.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 106.92,
+      "to": 109.16,
+      "sid": 55,
+      "location": 2,
+      "content": "Stamp my passport as a souvenir of doing business",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 109.16,
+      "to": 110.34,
+      "sid": 56,
+      "location": 2,
+      "content": "None of them would do it",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 110.34,
+      "to": 113.24,
+      "sid": 57,
+      "location": 2,
+      "content": "The small plaza at the customs should be the safest place in Nuevo Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 113.24,
+      "to": 115.78,
+      "sid": 58,
+      "location": 2,
+      "content": "This small area is mostly dental clinics serving American tourists",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 115.78,
+      "to": 116.7,
+      "sid": 59,
+      "location": 2,
+      "content": "pharmacies and such",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 116.7,
+      "to": 118.12,
+      "sid": 60,
+      "location": 2,
+      "content": "After all, healthcare in the U.S. is too expensive",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 118.12,
+      "to": 119.94,
+      "sid": 61,
+      "location": 2,
+      "content": "Guo Jing’s shopping trip offers great value for money",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 119.94,
+      "to": 122.98,
+      "sid": 62,
+      "location": 2,
+      "content": "Most towns along the U.S.-Mexico border have a safe tourist area",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 122.98,
+      "to": 125.76,
+      "sid": 63,
+      "location": 2,
+      "content": "The size of these areas depends on the population of the American city across the border",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 125.76,
+      "to": 127.94,
+      "sid": 64,
+      "location": 2,
+      "content": "Laredo, across from Nuevo Laredo, has a population of 250,000.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 127.94,
+      "to": 129.26,
+      "sid": 65,
+      "location": 2,
+      "content": "And the surrounding areas are mostly uninhabited.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 129.26,
+      "to": 131.339,
+      "sid": 66,
+      "location": 2,
+      "content": "The desert area has been set up as a tourist zone for American visitors.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 131.339,
+      "to": 132.499,
+      "sid": 67,
+      "location": 2,
+      "content": "There’s just this small square.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 132.499,
+      "to": 133.579,
+      "sid": 68,
+      "location": 2,
+      "content": "Apart from this small area,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 133.579,
+      "to": 134.879,
+      "sid": 69,
+      "location": 2,
+      "content": "the rest is the local residents' living quarters.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 134.879,
+      "to": 136.839,
+      "sid": 70,
+      "location": 2,
+      "content": "Most of the street vendors don’t speak much English.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 136.839,
+      "to": 138.88,
+      "sid": 71,
+      "location": 2,
+      "content": "Fortunately, my broken Spanish is just about usable.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 138.88,
+      "to": 139.96,
+      "sid": 72,
+      "location": 2,
+      "content": "This little Mexican snake",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 139.96,
+      "to": 141.32,
+      "sid": 73,
+      "location": 2,
+      "content": "Although the cityscape is a bit aged",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 141.32,
+      "to": 142.04,
+      "sid": 74,
+      "location": 2,
+      "content": "in terms of data",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 142.04,
+      "to": 144.64,
+      "sid": 75,
+      "location": 2,
+      "content": "the average annual salary in Nuevo Laredo is $16,000",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 144.64,
+      "to": 145.72,
+      "sid": 76,
+      "location": 2,
+      "content": "which is also 110,000 RMB",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 145.72,
+      "to": 148.3,
+      "sid": 77,
+      "location": 2,
+      "content": "of course, I can't vouch for the extent of data inflation in Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 148.3,
+      "to": 151.04,
+      "sid": 78,
+      "location": 2,
+      "content": "while the annual income across the river in Laredo is $40,000",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 151.04,
+      "to": 153.56,
+      "sid": 79,
+      "location": 2,
+      "content": "many locals from Nuevo Laredo work in the United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 153.56,
+      "to": 154.44,
+      "sid": 80,
+      "location": 2,
+      "content": "earning dollars during the day",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 154.44,
+      "to": 155.68,
+      "sid": 81,
+      "location": 2,
+      "content": "and spending them in Mexico after work",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 155.68,
+      "to": 156.84,
+      "sid": 82,
+      "location": 2,
+      "content": "I saved a lot of money",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 156.84,
+      "to": 158.28,
+      "sid": 83,
+      "location": 2,
+      "content": "When it comes to saving money, you can't beat Zhuanzhuan",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 158.28,
+      "to": 160.22,
+      "sid": 84,
+      "location": 2,
+      "content": "This is the perfect time to buy a phone from them",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 160.22,
+      "to": 162.62,
+      "sid": 85,
+      "location": 2,
+      "content": "This 95% new iPhone 14 Pro costs only 3000",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 162.62,
+      "to": 163.48,
+      "sid": 86,
+      "location": 2,
+      "content": "728 yuan",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 163.48,
+      "to": 164.72,
+      "sid": 87,
+      "location": 2,
+      "content": "That's just 40% of the price of a new one",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 164.72,
+      "to": 165.76,
+      "sid": 88,
+      "location": 2,
+      "content": "The value for money is outstanding",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 165.76,
+      "to": 167.16,
+      "sid": 89,
+      "location": 2,
+      "content": "And Zhuanzhuan offers more than just phones",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 167.16,
+      "to": 168.54,
+      "sid": 90,
+      "location": 2,
+      "content": "They also have iPads and DJI Pocket 3",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 168.54,
+      "to": 169.6,
+      "sid": 91,
+      "location": 2,
+      "content": "The prices are also very reasonable.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 169.6,
+      "to": 171.64,
+      "sid": 92,
+      "location": 2,
+      "content": "Zhuanzhuan is a professional official platform for both new and second-hand items.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 171.64,
+      "to": 173.38,
+      "sid": 93,
+      "location": 2,
+      "content": "It boasts a variety of patented quality inspection devices.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 173.38,
+      "to": 176.02,
+      "sid": 94,
+      "location": 2,
+      "content": "Each item undergoes a comprehensive inspection by professional engineers.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 176.02,
+      "to": 178.46,
+      "sid": 95,
+      "location": 2,
+      "content": "And it supports a seven-day no-questions-asked return policy and a one-year warranty.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 178.46,
+      "to": 179.86,
+      "sid": 96,
+      "location": 2,
+      "content": "Now, head over to Zhuanzhuan and enter the search command.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 179.86,
+      "to": 182.28,
+      "sid": 97,
+      "location": 2,
+      "content": "You can also claim the highest thousand-yuan discount coupons for premium brands.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 182.28,
+      "to": 183.4,
+      "sid": 98,
+      "location": 2,
+      "content": "Take advantage of the platform's current promotions.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 183.4,
+      "to": 184.24,
+      "sid": 99,
+      "location": 2,
+      "content": "Everyone, hurry to Zhuanzhuan!",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 184.24,
+      "to": 185.8,
+      "sid": 100,
+      "location": 2,
+      "content": "Let's update our tech gadgets.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 185.8,
+      "to": 187.28,
+      "sid": 101,
+      "location": 2,
+      "content": "Speaking of Nuevo Laredo's economy,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 187.28,
+      "to": 189.66,
+      "sid": 102,
+      "location": 2,
+      "content": "there are also Americans who cross the border to seek medical care and buy medications.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 189.66,
+      "to": 190.32,
+      "sid": 103,
+      "location": 2,
+      "content": "Moreover, in this area,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 190.32,
+      "to": 192.76,
+      "sid": 104,
+      "location": 2,
+      "content": "as the headquarters of the most significant warlord in northeastern Mexico,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 192.76,
+      "to": 194.86,
+      "sid": 105,
+      "location": 2,
+      "content": "a considerable amount of illicit income also circulates within the city.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 194.86,
+      "to": 195.84,
+      "sid": 106,
+      "location": 2,
+      "content": "Putting aside the issue of public safety,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 195.84,
+      "to": 197.7,
+      "sid": 107,
+      "location": 2,
+      "content": "the town still looks quite prosperous.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 197.7,
+      "to": 200.48,
+      "sid": 108,
+      "location": 2,
+      "content": "I randomly picked a small restaurant in their residential area to have a meal.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 200.48,
+      "to": 201.5,
+      "sid": 109,
+      "location": 2,
+      "content": "I randomly picked the chicken",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 201.5,
+      "to": 202.34,
+      "sid": 110,
+      "location": 2,
+      "content": "chickpea soup",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 202.34,
+      "to": 204.46,
+      "sid": 111,
+      "location": 2,
+      "content": "the taste is actually quite similar to our chicken congee",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 204.46,
+      "to": 205.86,
+      "sid": 112,
+      "location": 2,
+      "content": "the broth is on the lighter side",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 205.86,
+      "to": 206.42,
+      "sid": 113,
+      "location": 2,
+      "content": "not greasy",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 206.42,
+      "to": 207.26,
+      "sid": 114,
+      "location": 2,
+      "content": "paired with vegetables",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 207.26,
+      "to": 208.54,
+      "sid": 115,
+      "location": 2,
+      "content": "it’s quite suitable for summer",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 208.54,
+      "to": 210.26,
+      "sid": 116,
+      "location": 2,
+      "content": "which comes to about 20 RMB",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 210.26,
+      "to": 211.58,
+      "sid": 117,
+      "location": 2,
+      "content": "I think it’s worth it, but I’m not sure if it’s worth a full point",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 211.58,
+      "to": 211.86,
+      "sid": 118,
+      "location": 2,
+      "content": "Two",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 211.86,
+      "to": 214.32,
+      "sid": 119,
+      "location": 2,
+      "content": "There's a clean and hygienic little taco stand by the roadside",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 214.32,
+      "to": 216.42,
+      "sid": 120,
+      "location": 2,
+      "content": "Their guacamole seasoning is pretty good",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 216.42,
+      "to": 217.14,
+      "sid": 121,
+      "location": 2,
+      "content": "Fresh and refreshing",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 217.14,
+      "to": 218.38,
+      "sid": 122,
+      "location": 2,
+      "content": "You can add as much as you like",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 218.38,
+      "to": 219.86,
+      "sid": 123,
+      "location": 2,
+      "content": "Squeeze a bit more lemon juice on top",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 219.86,
+      "to": 221.94,
+      "sid": 124,
+      "location": 2,
+      "content": "This little taco stand gives a generous amount of meat",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 221.94,
+      "to": 222.78,
+      "sid": 125,
+      "location": 2,
+      "content": "The seasoning is also great",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 222.78,
+      "to": 225.44,
+      "sid": 126,
+      "location": 2,
+      "content": "Each little taco comes to about 7.5 RMB",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 225.44,
+      "to": 227.76,
+      "sid": 127,
+      "location": 2,
+      "content": "Now let's take a look at a slightly more upscale restaurant.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 227.76,
+      "to": 228.84,
+      "sid": 128,
+      "location": 2,
+      "content": "It's a seafood place.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 228.84,
+      "to": 231.54,
+      "sid": 129,
+      "location": 2,
+      "content": "As soon as I sat down, they brought me a large bowl of free tortilla chips.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 231.54,
+      "to": 234.28,
+      "sid": 130,
+      "location": 2,
+      "content": "The seafood platter I ordered is quite generous with its variety.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 234.28,
+      "to": 235.22,
+      "sid": 131,
+      "location": 2,
+      "content": "It includes shrimp and octopus,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 235.22,
+      "to": 236.42,
+      "sid": 132,
+      "location": 2,
+      "content": "oysters and fried fish fillets.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 236.42,
+      "to": 238.76,
+      "sid": 133,
+      "location": 2,
+      "content": "And it comes with a tangy red broth.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 238.76,
+      "to": 241.52,
+      "sid": 134,
+      "location": 2,
+      "content": "Mexican cuisine, in general, is quite to the taste of Chinese people.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 241.52,
+      "to": 242.8,
+      "sid": 135,
+      "location": 2,
+      "content": "This dish costs 200 pesos.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 242.8,
+      "to": 244.04,
+      "sid": 136,
+      "location": 2,
+      "content": "That's 75 RMB",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 244.04,
+      "to": 245.62,
+      "sid": 137,
+      "location": 2,
+      "content": "Press 1 if you think it's worth it, or 2 if you don't",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 245.62,
+      "to": 247.64,
+      "sid": 138,
+      "location": 2,
+      "content": "When I went, it was just before Christmas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 247.64,
+      "to": 249.62,
+      "sid": 139,
+      "location": 2,
+      "content": "The decorations at their entrance were quite cute",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 249.62,
+      "to": 251.28,
+      "sid": 140,
+      "location": 2,
+      "content": "Besides these local restaurants",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 251.28,
+      "to": 252.86,
+      "sid": 141,
+      "location": 2,
+      "content": "There's also a McDonald's meal set",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 252.86,
+      "to": 254.3,
+      "sid": 142,
+      "location": 2,
+      "content": "On average, it costs 150 pesos",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 254.3,
+      "to": 255.58,
+      "sid": 143,
+      "location": 2,
+      "content": "Which is about 50 RMB",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 255.58,
+      "to": 258.12,
+      "sid": 144,
+      "location": 2,
+      "content": "But it seems there aren't many local specialties here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 258.12,
+      "to": 260.26,
+      "sid": 145,
+      "location": 2,
+      "content": "What left the deepest impression on me was the motorcycles here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 260.26,
+      "to": 261.54,
+      "sid": 146,
+      "location": 2,
+      "content": "The color schemes are all for Didi Food Delivery.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 261.54,
+      "to": 263.73,
+      "sid": 147,
+      "location": 2,
+      "content": "The taxis in this small town are also under the Didi brand.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 263.73,
+      "to": 265.85,
+      "sid": 148,
+      "location": 2,
+      "content": "If it weren't for the different languages on the signs in the street,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 265.85,
+      "to": 267.49,
+      "sid": 149,
+      "location": 2,
+      "content": "walking through this peaceful Mexican town,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 267.49,
+      "to": 270.25,
+      "sid": 150,
+      "location": 2,
+      "content": "I would occasionally feel like I had traveled back to the 1980s or 1990s,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 270.25,
+      "to": 271.73,
+      "sid": 151,
+      "location": 2,
+      "content": "to a remote village in my country.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 271.73,
+      "to": 273.55,
+      "sid": 152,
+      "location": 2,
+      "content": "For example, this old man's grocery store,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 273.55,
+      "to": 275.05,
+      "sid": 153,
+      "location": 2,
+      "content": "it reminds me a lot of a village entrance back home.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 275.05,
+      "to": 276.419,
+      "sid": 154,
+      "location": 2,
+      "content": "The little shops on the old street",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 276.419,
+      "to": 277.019,
+      "sid": 155,
+      "location": 2,
+      "content": "Actually",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 277.019,
+      "to": 279.659,
+      "sid": 156,
+      "location": 2,
+      "content": "Most ordinary Mexicans lead honest and simple lives",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 279.659,
+      "to": 281.619,
+      "sid": 157,
+      "location": 2,
+      "content": "The people I met on the streets that day were very friendly",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 281.619,
+      "to": 283.019,
+      "sid": 158,
+      "location": 2,
+      "content": "While people are repulsed by gangs",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 283.019,
+      "to": 284.44,
+      "sid": 159,
+      "location": 2,
+      "content": "They also fear them",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 284.44,
+      "to": 286.8,
+      "sid": 160,
+      "location": 2,
+      "content": "The Mexican authorities have long been infiltrated by gangs",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 286.8,
+      "to": 288.08,
+      "sid": 161,
+      "location": 2,
+      "content": "The government can't be relied upon",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 288.08,
+      "to": 289.14,
+      "sid": 162,
+      "location": 2,
+      "content": "I cautiously probed",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 289.14,
+      "to": 290.96,
+      "sid": 163,
+      "location": 2,
+      "content": "I want to chat with the locals about this topic",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 290.96,
+      "to": 292.28,
+      "sid": 164,
+      "location": 2,
+      "content": "but everyone is tight-lipped",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 292.28,
+      "to": 294.36,
+      "sid": 165,
+      "location": 2,
+      "content": "as it's considered too taboo and sensitive",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 294.36,
+      "to": 295.12,
+      "sid": 166,
+      "location": 2,
+      "content": "Regular viewers know",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 295.12,
+      "to": 296.78,
+      "sid": 167,
+      "location": 2,
+      "content": "I was once kidnapped in Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 296.78,
+      "to": 300.08,
+      "sid": 168,
+      "location": 2,
+      "content": "which happened in this seemingly peaceful town of Nuevo Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 300.08,
+      "to": 301.92,
+      "sid": 169,
+      "location": 2,
+      "content": "The Northeast Group is in Tamaulipas State",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 301.92,
+      "to": 303.48,
+      "sid": 170,
+      "location": 2,
+      "content": "and they are the de facto border police",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 303.48,
+      "to": 305.28,
+      "sid": 171,
+      "location": 2,
+      "content": "We just saw that segment of the border area",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 305.28,
+      "to": 306.94,
+      "sid": 172,
+      "location": 2,
+      "content": "The prediction in the U.S. is that there will be no border wall.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 306.94,
+      "to": 308.62,
+      "sid": 173,
+      "location": 2,
+      "content": "You just need to cross the river to get to the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 308.62,
+      "to": 310.66,
+      "sid": 174,
+      "location": 2,
+      "content": "And this Northeast Group, after drug smuggling,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 310.66,
+      "to": 312.68,
+      "sid": 175,
+      "location": 2,
+      "content": "their second-largest source of income is human trafficking.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 312.68,
+      "to": 314.44,
+      "sid": 176,
+      "location": 2,
+      "content": "Each person has to pay them several thousand dollars.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 314.44,
+      "to": 317.44,
+      "sid": 177,
+      "location": 2,
+      "content": "It's roughly 50,000 RMB to cross the river from their territory.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 317.44,
+      "to": 319.72,
+      "sid": 178,
+      "location": 2,
+      "content": "On that day, I was near a park not far from the border river,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 319.72,
+      "to": 320.78,
+      "sid": 179,
+      "location": 2,
+      "content": "just hanging around.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 320.78,
+      "to": 322.32,
+      "sid": 180,
+      "location": 2,
+      "content": "They thought I was trying to cross over.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 322.32,
+      "to": 324.72,
+      "sid": 181,
+      "location": 2,
+      "content": "They just outright kidnapped me in broad daylight on the street",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 324.72,
+      "to": 326.08,
+      "sid": 182,
+      "location": 2,
+      "content": "and took me to the desert",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 326.08,
+      "to": 327.08,
+      "sid": 183,
+      "location": 2,
+      "content": "saving four hours",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 327.08,
+      "to": 329.1,
+      "sid": 184,
+      "location": 2,
+      "content": "by the time they let me go, it was already dark",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 329.1,
+      "to": 330.82,
+      "sid": 185,
+      "location": 2,
+      "content": "the gang members dropped me off at the border",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 330.82,
+      "to": 330.98,
+      "sid": 186,
+      "location": 2,
+      "content": "and said",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 330.98,
+      "to": 332.78,
+      "sid": 187,
+      "location": 2,
+      "content": "never come back to this town, ever",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 332.78,
+      "to": 333.88,
+      "sid": 188,
+      "location": 2,
+      "content": "even if it's safe here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 333.88,
+      "to": 335.98,
+      "sid": 189,
+      "location": 2,
+      "content": "I really don't recommend anyone to visit this place for tourism",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 335.98,
+      "to": 338.22,
+      "sid": 190,
+      "location": 2,
+      "content": "Apart from the city vibe, let's experience the locals' way of life.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 338.22,
+      "to": 339.64,
+      "sid": 191,
+      "location": 2,
+      "content": "There are no tourist attractions here at all.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 339.64,
+      "to": 340.44,
+      "sid": 192,
+      "location": 2,
+      "content": "Even so,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 340.44,
+      "to": 342.58,
+      "sid": 193,
+      "location": 2,
+      "content": "my impression of the town's residents is still not bad.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 342.58,
+      "to": 344.24,
+      "sid": 194,
+      "location": 2,
+      "content": "even the gang members who kidnapped me,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 344.24,
+      "to": 345.62,
+      "sid": 195,
+      "location": 2,
+      "content": "don't seem that bad to me.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 345.62,
+      "to": 347.86,
+      "sid": 196,
+      "location": 2,
+      "content": "The specifics will be covered in another video.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 347.86,
+      "to": 349.98,
+      "sid": 197,
+      "location": 2,
+      "content": "But the theme of this one is still to explore a border town,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 349.98,
+      "to": 351.7,
+      "sid": 198,
+      "location": 2,
+      "content": "and the differences in life between two small cities.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 351.7,
+      "to": 354.28,
+      "sid": 199,
+      "location": 2,
+      "content": "There were a few neighborhoods in Nuevo Laredo I wanted to visit but didn’t get to film.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 354.28,
+      "to": 356.98,
+      "sid": 200,
+      "location": 2,
+      "content": "So today, I’ll stick to the route and head back to the U.S. the proper way.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 356.98,
+      "to": 359.24,
+      "sid": 201,
+      "location": 2,
+      "content": "The bridge toll from Mexico to the U.S. is only five pesos.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 359.24,
+      "to": 360.58,
+      "sid": 202,
+      "location": 2,
+      "content": "That’s less than two yuan.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 360.58,
+      "to": 361.66,
+      "sid": 203,
+      "location": 2,
+      "content": "Pretty reasonable, actually.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 361.66,
+      "to": 362.88,
+      "sid": 204,
+      "location": 2,
+      "content": "On the Mexican side of the bridge,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 362.88,
+      "to": 364.2,
+      "sid": 205,
+      "location": 2,
+      "content": "there are quite a few street vendors.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 364.2,
+      "to": 366.2,
+      "sid": 206,
+      "location": 2,
+      "content": "The process of going through U.S. Customs was fairly smooth.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 366.2,
+      "to": 367.48,
+      "sid": 207,
+      "location": 2,
+      "content": "Just a bit of a difference at the border.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 367.48,
+      "to": 369.799,
+      "sid": 208,
+      "location": 2,
+      "content": "Chinese people will enter the U.S. through the Laredo port of entry",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 369.799,
+      "to": 372.319,
+      "sid": 209,
+      "location": 2,
+      "content": "and the initial English proficiency of my assigned U.S. editor",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 372.319,
+      "to": 374.039,
+      "sid": 210,
+      "location": 2,
+      "content": "was about the same as my Spanish language skills",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 374.039,
+      "to": 375.359,
+      "sid": 211,
+      "location": 2,
+      "content": "due to the communication being so difficult",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 375.359,
+      "to": 376.919,
+      "sid": 212,
+      "location": 2,
+      "content": "they eventually switched me to a different window",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 376.919,
+      "to": 377.64,
+      "sid": 213,
+      "location": 2,
+      "content": "as for Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 377.64,
+      "to": 380.08,
+      "sid": 214,
+      "location": 2,
+      "content": "U.S. census data shows that 88% of the population",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 380.08,
+      "to": 381.46,
+      "sid": 215,
+      "location": 2,
+      "content": "speak Spanish at home",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 381.46,
+      "to": 384.0,
+      "sid": 216,
+      "location": 2,
+      "content": "the prevalence of Spanish here far exceeds that of Chinese",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 384.0,
+      "to": 386.39,
+      "sid": 217,
+      "location": 2,
+      "content": "In places like Flushing or Chinatown",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 386.39,
+      "to": 387.75,
+      "sid": 218,
+      "location": 2,
+      "content": "I'm inside the city of Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 387.75,
+      "to": 388.35,
+      "sid": 219,
+      "location": 2,
+      "content": "On the road",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 388.35,
+      "to": 390.17,
+      "sid": 220,
+      "location": 2,
+      "content": "You basically don't hear English in your ears",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 390.17,
+      "to": 391.87,
+      "sid": 221,
+      "location": 2,
+      "content": "After all, this city of 250,000 people",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 391.87,
+      "to": 393.39,
+      "sid": 222,
+      "location": 2,
+      "content": "240,000 are of Latin American descent",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 393.39,
+      "to": 394.31,
+      "sid": 223,
+      "location": 2,
+      "content": "Back on the American side",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 394.31,
+      "to": 395.26,
+      "sid": 224,
+      "location": 2,
+      "content": "Though it's safe",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 395.26,
+      "to": 396.46,
+      "sid": 225,
+      "location": 2,
+      "content": "Still, you can't help but marvel",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 396.46,
+      "to": 398.54,
+      "sid": 226,
+      "location": 2,
+      "content": "The city center here is quite dilapidated and bleak.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 398.54,
+      "to": 400.3,
+      "sid": 227,
+      "location": 2,
+      "content": "Most stores close early.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 400.3,
+      "to": 401.68,
+      "sid": 228,
+      "location": 2,
+      "content": "Now, let's switch to daytime mode.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 401.68,
+      "to": 403.22,
+      "sid": 229,
+      "location": 2,
+      "content": "Even if you go back at noon the next day,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 403.22,
+      "to": 405.3,
+      "sid": 230,
+      "location": 2,
+      "content": "most of the store shutters are still closed.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 405.3,
+      "to": 406.72,
+      "sid": 231,
+      "location": 2,
+      "content": "Many are even boarded up.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 406.72,
+      "to": 408.44,
+      "sid": 232,
+      "location": 2,
+      "content": "This street is far less vibrant than Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 408.44,
+      "to": 409.34,
+      "sid": 233,
+      "location": 2,
+      "content": "The reason is easy to understand.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 409.34,
+      "to": 410.56,
+      "sid": 234,
+      "location": 2,
+      "content": "Goods in the U.S. are just too expensive.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 410.56,
+      "to": 412.56,
+      "sid": 235,
+      "location": 2,
+      "content": "And nowadays, it would be quite challenging for Mexicans to invade the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 412.56,
+      "to": 413.66,
+      "sid": 236,
+      "location": 2,
+      "content": "The difficulty is still quite high.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 413.66,
+      "to": 415.92,
+      "sid": 237,
+      "location": 2,
+      "content": "This old commercial street was established in the early 20th century.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 415.92,
+      "to": 417.78,
+      "sid": 238,
+      "location": 2,
+      "content": "And the U.S. only really began to enforce border policies as we know them today in the 1980s.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 417.78,
+      "to": 420.2,
+      "sid": 239,
+      "location": 2,
+      "content": "The modern border wall, on the other hand, started to be built gradually in the late 20th century, around the 1980s and 1990s.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 420.2,
+      "to": 421.78,
+      "sid": 240,
+      "location": 2,
+      "content": "And the modern border wall didn't start to take shape until the late 20th century, in the 1980s and 1990s.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 421.78,
+      "to": 424.56,
+      "sid": 241,
+      "location": 2,
+      "content": "Mexican drug cartels also began to form gradually in the 1980s.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 424.56,
+      "to": 427.42,
+      "sid": 242,
+      "location": 2,
+      "content": "The border between the U.S. and Mexico used to be very different from what it is today.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 427.42,
+      "to": 429.93,
+      "sid": 243,
+      "location": 2,
+      "content": "The U.S.-Mexico border used to be quite different from what it is now.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 429.93,
+      "to": 431.09,
+      "sid": 244,
+      "location": 2,
+      "content": "And over the years,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 431.09,
+      "to": 433.41,
+      "sid": 245,
+      "location": 2,
+      "content": "the only thing that hasn’t changed is the architectural style of the Laredo houses,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 433.41,
+      "to": 436.59,
+      "sid": 246,
+      "location": 2,
+      "content": "and they also have a church next to the small plaza in the city center.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 436.59,
+      "to": 438.11,
+      "sid": 247,
+      "location": 2,
+      "content": "Most of the southwestern United States,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 438.11,
+      "to": 440.15,
+      "sid": 248,
+      "location": 2,
+      "content": "roughly a third of the area of the contiguous 48 states,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 440.15,
+      "to": 441.45,
+      "sid": 249,
+      "location": 2,
+      "content": "used to belong to Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 441.45,
+      "to": 442.95,
+      "sid": 250,
+      "location": 2,
+      "content": "From Mexico’s perspective,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 442.95,
+      "to": 443.99,
+      "sid": 251,
+      "location": 2,
+      "content": "before 1836,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 443.99,
+      "to": 446.05,
+      "sid": 252,
+      "location": 2,
+      "content": "55% of its territory was ceded to the United States.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 446.05,
+      "to": 448.49,
+      "sid": 253,
+      "location": 2,
+      "content": "This Laredo town was originally part of Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 448.49,
+      "to": 450.25,
+      "sid": 254,
+      "location": 2,
+      "content": "Later, after it was incorporated into U.S. territory",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 450.25,
+      "to": 451.68,
+      "sid": 255,
+      "location": 2,
+      "content": "17 Laredo families",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 451.68,
+      "to": 454.38,
+      "sid": 256,
+      "location": 2,
+      "content": "chose to retain their Mexican citizenship and culture",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 454.38,
+      "to": 455.82,
+      "sid": 257,
+      "location": 2,
+      "content": "and did not want to be governed by the United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 455.82,
+      "to": 457.04,
+      "sid": 258,
+      "location": 2,
+      "content": "crossed what is now the border river",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 457.04,
+      "to": 459.039,
+      "sid": 259,
+      "location": 2,
+      "content": "the Rio Grande to establish Nuevo Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 459.039,
+      "to": 461.699,
+      "sid": 260,
+      "location": 2,
+      "content": "This is why these two cities are so similar",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 461.699,
+      "to": 464.199,
+      "sid": 261,
+      "location": 2,
+      "content": "Now let’s take a look at places outside the center of Nuevo Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 464.199,
+      "to": 467.2,
+      "sid": 262,
+      "location": 2,
+      "content": "Actually, the city as a whole has a somewhat rundown feel.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 467.2,
+      "to": 469.82,
+      "sid": 263,
+      "location": 2,
+      "content": "The housing prices here are only 3/2 of the average in Texas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 469.82,
+      "to": 470.72,
+      "sid": 264,
+      "location": 2,
+      "content": "Compared to Nuevo Laredo,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 470.72,
+      "to": 472.24,
+      "sid": 265,
+      "location": 2,
+      "content": "the houses here are more spread out,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 472.24,
+      "to": 473.28,
+      "sid": 266,
+      "location": 2,
+      "content": "and the roads are wider.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 473.28,
+      "to": 475.42,
+      "sid": 267,
+      "location": 2,
+      "content": "After all, most Americans travel by car.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 475.42,
+      "to": 476.48,
+      "sid": 268,
+      "location": 2,
+      "content": "After driving around this area,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 476.48,
+      "to": 477.3,
+      "sid": 269,
+      "location": 2,
+      "content": "leaving aside the safety issues,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 477.3,
+      "to": 480.06,
+      "sid": 270,
+      "location": 2,
+      "content": "I can’t help but feel that this side of the U.S. looks less appealing than Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 480.06,
+      "to": 482.74,
+      "sid": 271,
+      "location": 2,
+      "content": "Don't be fooled by the fact that Laredo and Nuevo Laredo together have a population of only 600,000.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 482.74,
+      "to": 485.7,
+      "sid": 272,
+      "location": 2,
+      "content": "In reality, this is the most crucial freight port on the U.S.-Mexico border.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 485.7,
+      "to": 487.72,
+      "sid": 273,
+      "location": 2,
+      "content": "Railways can be seen everywhere in this small city.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 487.72,
+      "to": 489.98,
+      "sid": 274,
+      "location": 2,
+      "content": "47% of the goods shipped from the U.S. to Mexico and",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 489.98,
+      "to": 492.12,
+      "sid": 275,
+      "location": 2,
+      "content": "36% of the goods shipped from Mexico to the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 492.12,
+      "to": 494.8,
+      "sid": 276,
+      "location": 2,
+      "content": "all pass through the Laredo-Nuevo Laredo port of entry.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 494.8,
+      "to": 496.84,
+      "sid": 277,
+      "location": 2,
+      "content": "This is because Laredo is the starting point of the major U.S. highway artery,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 496.84,
+      "to": 498.76,
+      "sid": 278,
+      "location": 2,
+      "content": "Interstate 35,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 498.76,
+      "to": 499.96,
+      "sid": 279,
+      "location": 2,
+      "content": "which connects to the three largest cities in Texas.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 499.96,
+      "to": 500.44,
+      "sid": 280,
+      "location": 2,
+      "content": "Dallas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 500.44,
+      "to": 501.12,
+      "sid": 281,
+      "location": 2,
+      "content": "San Antonio",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 501.12,
+      "to": 502.06,
+      "sid": 282,
+      "location": 2,
+      "content": "is quite close to Houston",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 502.06,
+      "to": 503.06,
+      "sid": 283,
+      "location": 2,
+      "content": "if you take the highway",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 503.06,
+      "to": 505.26,
+      "sid": 284,
+      "location": 2,
+      "content": "This is the fastest route from Mexico to the eastern United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 505.26,
+      "to": 507.48,
+      "sid": 285,
+      "location": 2,
+      "content": "The Laredo border crossing has seen particularly rapid growth recently",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 507.48,
+      "to": 508.66,
+      "sid": 286,
+      "location": 2,
+      "content": "mainly due to the trade war",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 508.66,
+      "to": 510.82,
+      "sid": 287,
+      "location": 2,
+      "content": "Many Chinese companies have set up factories in Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 510.82,
+      "to": 512.46,
+      "sid": 288,
+      "location": 2,
+      "content": "Many choose locations south of Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 512.46,
+      "to": 514.2,
+      "sid": 289,
+      "location": 2,
+      "content": "Monterrey, the ninth largest city in Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 514.2,
+      "to": 516.36,
+      "sid": 290,
+      "location": 2,
+      "content": "has relatively better security",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 516.36,
+      "to": 519.44,
+      "sid": 291,
+      "location": 2,
+      "content": "and a lot of goods heading north from Monterrey pass through Laredo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 519.44,
+      "to": 520.44,
+      "sid": 292,
+      "location": 2,
+      "content": "when I went to Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 520.44,
+      "to": 522.2,
+      "sid": 293,
+      "location": 2,
+      "content": "it was along this road leading to the border crossing",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 522.2,
+      "to": 523.559,
+      "sid": 294,
+      "location": 2,
+      "content": "that I exchanged 80 dollars for pesos",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 523.559,
+      "to": 525.459,
+      "sid": 295,
+      "location": 2,
+      "content": "I originally planned to stay in Mexico for two days",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 525.459,
+      "to": 526.679,
+      "sid": 296,
+      "location": 2,
+      "content": "but ended up doing a day trip",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 526.679,
+      "to": 527.699,
+      "sid": 297,
+      "location": 2,
+      "content": "I had no other choice",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 527.699,
+      "to": 529.479,
+      "sid": 298,
+      "location": 2,
+      "content": "After all, Mexican food is quite delicious.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 529.479,
+      "to": 531.2,
+      "sid": 299,
+      "location": 2,
+      "content": "And it's much cheaper than in the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 531.2,
+      "to": 533.16,
+      "sid": 300,
+      "location": 2,
+      "content": "Now I can only visit Laredo in the U.S. once.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 533.16,
+      "to": 534.2,
+      "sid": 301,
+      "location": 2,
+      "content": "To find some alternatives.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 534.2,
+      "to": 537.0,
+      "sid": 302,
+      "location": 2,
+      "content": "In fact, most restaurants in Laredo also serve Mexican cuisine.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 537.0,
+      "to": 539.8,
+      "sid": 303,
+      "location": 2,
+      "content": "I found a small family restaurant located in a residential area.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 539.8,
+      "to": 540.48,
+      "sid": 304,
+      "location": 2,
+      "content": "Laredo,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 540.48,
+      "to": 542.0,
+      "sid": 305,
+      "location": 2,
+      "content": "Most people only speak Spanish.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 542.0,
+      "to": 543.14,
+      "sid": 306,
+      "location": 2,
+      "content": "Including the owner of this restaurant.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 543.14,
+      "to": 544.97,
+      "sid": 307,
+      "location": 2,
+      "content": "Only the kids in the store speak English",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 544.97,
+      "to": 547.01,
+      "sid": 308,
+      "location": 2,
+      "content": "Generally, the flavor of this kind of store is quite authentic",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 547.01,
+      "to": 548.79,
+      "sid": 309,
+      "location": 2,
+      "content": "I ordered something called Ranch Style Eggs",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 548.79,
+      "to": 549.57,
+      "sid": 310,
+      "location": 2,
+      "content": "served with bacon",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 549.57,
+      "to": 550.85,
+      "sid": 311,
+      "location": 2,
+      "content": "fried potato cubes and black-eyed peas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 550.85,
+      "to": 552.53,
+      "sid": 312,
+      "location": 2,
+      "content": "I really like the sauce they mix here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 552.53,
+      "to": 554.14,
+      "sid": 313,
+      "location": 2,
+      "content": "a tangy and spicy tomato sauce",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 554.14,
+      "to": 556.12,
+      "sid": 314,
+      "location": 2,
+      "content": "Most of the items on their menu are single-digit priced",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 556.12,
+      "to": 557.6,
+      "sid": 315,
+      "location": 2,
+      "content": "My meal costs six yuan",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 557.6,
+      "to": 559.29,
+      "sid": 316,
+      "location": 2,
+      "content": "If you think it's worth it, tap one; if not, tap two.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 559.29,
+      "to": 561.79,
+      "sid": 317,
+      "location": 2,
+      "content": "Then I also tried a local Chinese restaurant that people love.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 561.79,
+      "to": 564.28,
+      "sid": 318,
+      "location": 2,
+      "content": "This place is just a 5-minute drive from the border.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 564.28,
+      "to": 566.6,
+      "sid": 319,
+      "location": 2,
+      "content": "The name translates to 'Borderline Chinese Restaurant'.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 566.6,
+      "to": 567.48,
+      "sid": 320,
+      "location": 2,
+      "content": "United States and Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 567.48,
+      "to": 569.24,
+      "sid": 321,
+      "location": 2,
+      "content": "A mix of dishes from three countries: China, the U.S., and Mexico.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 569.24,
+      "to": 570.72,
+      "sid": 322,
+      "location": 2,
+      "content": "I didn't expect it to be this abstract.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 570.72,
+      "to": 573.38,
+      "sid": 323,
+      "location": 2,
+      "content": "I ordered a classic American-Chinese dish,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 573.38,
+      "to": 574.18,
+      "sid": 324,
+      "location": 2,
+      "content": "General Tso's Chicken.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 574.18,
+      "to": 576.1,
+      "sid": 325,
+      "location": 2,
+      "content": "But the sauce was way too dark,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 576.1,
+      "to": 577.04,
+      "sid": 326,
+      "location": 2,
+      "content": "and too thick.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 577.04,
+      "to": 578.32,
+      "sid": 327,
+      "location": 2,
+      "content": "Even the complimentary hot and sour soup.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 578.32,
+      "to": 580.22,
+      "sid": 328,
+      "location": 2,
+      "content": "I suspect they use soy sauce like it's free here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 580.22,
+      "to": 582.96,
+      "sid": 329,
+      "location": 2,
+      "content": "I don't really understand why so many people come to eat this Chinese food.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 582.96,
+      "to": 585.34,
+      "sid": 330,
+      "location": 2,
+      "content": "Finally, let's check out the Mexican supermarket on the Laredo side.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 585.34,
+      "to": 588.14,
+      "sid": 331,
+      "location": 2,
+      "content": "The biggest feature here is the imported Mexican beverages.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 588.14,
+      "to": 589.34,
+      "sid": 332,
+      "location": 2,
+      "content": "The owner, noticing I was from out of town,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 589.34,
+      "to": 591.32,
+      "sid": 333,
+      "location": 2,
+      "content": "kindly offered me a cup of coffee.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 591.32,
+      "to": 594.14,
+      "sid": 334,
+      "location": 2,
+      "content": "The Walmart on the Laredo side has also made some local adaptations.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 594.14,
+      "to": 594.62,
+      "sid": 335,
+      "location": 2,
+      "content": "As you enter,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 594.62,
+      "to": 595.12,
+      "sid": 336,
+      "location": 2,
+      "content": "this mural,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 595.12,
+      "to": 597.86,
+      "sid": 337,
+      "location": 2,
+      "content": "reflects the history of the area where Mexico and the U.S. meet.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 597.86,
+      "to": 599.76,
+      "sid": 338,
+      "location": 2,
+      "content": "They also sell city commemorative hoodies here,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 599.76,
+      "to": 602.4,
+      "sid": 339,
+      "location": 2,
+      "content": "and the shelves are filled with all sorts of Mexican goods.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 602.4,
+      "to": 602.84,
+      "sid": 340,
+      "location": 2,
+      "content": "Laredo,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 602.84,
+      "to": 605.46,
+      "sid": 341,
+      "location": 2,
+      "content": "which is actually located in the rugged Texas,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 605.46,
+      "to": 608.5,
+      "sid": 342,
+      "location": 2,
+      "content": "has rows of Texas and American flags on the store roofs.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 608.5,
+      "to": 611.34,
+      "sid": 343,
+      "location": 2,
+      "content": "Although this place is a bit different from the traditional redneck Texas,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 611.34,
+      "to": 613.64,
+      "sid": 344,
+      "location": 2,
+      "content": "all the products here are quite large,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 613.64,
+      "to": 616.04,
+      "sid": 345,
+      "location": 2,
+      "content": "like this 4-liter juice and 3-liter cola,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 616.04,
+      "to": 617.22,
+      "sid": 346,
+      "location": 2,
+      "content": "which are Texas exclusives.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 617.22,
+      "to": 620.2,
+      "sid": 347,
+      "location": 2,
+      "content": "The border between Texas and Mexico is over 2,000 kilometers long,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 620.2,
+      "to": 622.84,
+      "sid": 348,
+      "location": 2,
+      "content": "and Laredo is actually a fairly well-developed small city.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 622.84,
+      "to": 624.68,
+      "sid": 349,
+      "location": 2,
+      "content": "In the next episode, I'll take you to see even more remote,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 624.68,
+      "to": 626.36,
+      "sid": 350,
+      "location": 2,
+      "content": "decayed Texas border towns.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 626.36,
+      "to": 626.76,
+      "sid": 351,
+      "location": 2,
+      "content": "Alright,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 626.76,
+      "to": 627.96,
+      "sid": 352,
+      "location": 2,
+      "content": "that's it for this video.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 627.96,
+      "to": 628.4,
+      "sid": 353,
+      "location": 2,
+      "content": "Follow me,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 628.4,
+      "to": 630.92,
+      "sid": 354,
+      "location": 2,
+      "content": "and I'll take you to explore more places that ordinary people don't venture into.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    }
+  ]
+}

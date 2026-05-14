@@ -46,7 +46,7 @@ editForm.querySelector('input[name=google_maps_url]').addEventListener("input", 
   editCoordHint.textContent = c
     ? `→ ${c.lat}, ${c.lng}`
     : editForm.google_maps_url.value
-      ? "(no coords in URL — will be resolved by script)"
+      ? "(URL 中无坐标 — 将由脚本解析)"
       : "";
 });
 for (const b of editDialog.querySelectorAll("[data-close]")) b.addEventListener("click", () => editDialog.close());
@@ -62,30 +62,26 @@ boot();
 
 function setupHint() {
   if (LIVE_MODE) {
-    hintEl.innerHTML = `
-      Run <code>python3 scripts/serve.py</code> and every <strong>Add pin</strong> / edit / remove writes directly to
-      <code>data/locations.json</code>. Paste a Google Maps URL — coords are extracted client-side when the URL
-      contains them (<code>@lat,lng</code>, <code>!3d…!4d…</code>, <code>q=/ll=</code>).
-      For short URLs (<code>maps.app.goo.gl</code>) run <code>python3 scripts/resolve_locations.py</code> once after adding.`;
-    exportBtn.textContent = "Export";
-    exportBtn.title = "Download a copy of the current data/locations.json";
+    hintEl.innerHTML = "";
+    exportBtn.textContent = "导出";
+    exportBtn.title = "下载当前 data/locations.json 的副本";
   } else {
     hintEl.innerHTML = `
-      <strong>Contributor mode.</strong> Add, edit, or remove pins on any video below — your changes live in this browser only.
-      When done, click <strong>Submit on GitHub</strong> to open a pre-filled issue; a bot opens a pull request (~1–2 min)
-      and tags you as the contributor. A <a href="https://github.com/signup" target="_blank" rel="noopener">GitHub account</a>
-      is required. No account? Use <strong>Export</strong> and send the file to the maintainer.`;
-    exportBtn.textContent = "Export";
-    exportBtn.title = "Download your changes as contributions.json";
+      <strong>贡献者模式。</strong> 您可以在下方的任何视频中添加、编辑或删除点位 — 您的更改仅保存在此浏览器中。
+      完成后，点击 <strong>提交到 GitHub</strong> 以打开预填好的 issue；机器人将开启一个 Pull Request（约 1–2 分钟）
+      并标记您为贡献者。需要 <a href="https://github.com/signup" target="_blank" rel="noopener">GitHub 账号</a>。
+      没有账号？请使用 <strong>导出</strong> 并将文件发送给维护者。`;
+    exportBtn.textContent = "导出";
+    exportBtn.title = "将您的更改下载为 contributions.json";
     submitBtn.hidden = false;
-    reloadBtn.textContent = "Discard my edits";
+    reloadBtn.textContent = "舍弃我的编辑";
   }
 }
 
 async function boot() {
   const [videos, baseline] = await Promise.all([
-    fetch("../data/videos.json", { cache: "no-store" }).then((r) => r.json()),
-    fetch("../data/locations.json", { cache: "no-store" }).then((r) => r.json()),
+    fetch("data/videos.json", { cache: "no-store" }).then((r) => r.json()),
+    fetch("data/locations.json", { cache: "no-store" }).then((r) => r.json()),
   ]);
   state.videos = videos;
   state.baseline = baseline || {};
@@ -166,21 +162,21 @@ async function migrateLegacyDraft() {
 
 async function reloadFromDisk() {
   if (!LIVE_MODE) {
-    if (!confirm("Discard all your local edits (new pins, edits, removals)?")) return;
+    if (!confirm("舍弃您所有的本地编辑（新点位、编辑、删除）吗？")) return;
     localStorage.removeItem(CONTRIB_KEY);
     state.contributions = {};
     state.updates = [];
     state.removals = [];
     renderList();
-    setSaveStatus("discarded", "ok");
+    setSaveStatus("已舍弃", "ok");
     return;
   }
   await boot();
-  setSaveStatus("reloaded", "ok");
+  setSaveStatus("已重新加载", "ok");
 }
 
 async function persistLive() {
-  setSaveStatus("saving…", "pending");
+  setSaveStatus("正在保存…", "pending");
   try {
     const resp = await fetch("/api/locations", {
       method: "POST",
@@ -188,10 +184,10 @@ async function persistLive() {
       body: JSON.stringify(state.baseline),
     });
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-    setSaveStatus("saved ✓", "ok");
+    setSaveStatus("已保存 ✓", "ok");
   } catch (err) {
     console.error(err);
-    setSaveStatus(`save failed (${err.message}) — start scripts/serve.py`, "err");
+    setSaveStatus(`保存失败 (${err.message}) — 请启动 scripts/serve.py`, "err");
   }
   updateStats();
 }
@@ -201,7 +197,7 @@ function persist() {
     persistLive();
   } else {
     saveContributionsToStorage();
-    setSaveStatus("saved to browser ✓", "ok");
+    setSaveStatus("已保存到浏览器 ✓", "ok");
     updateStats();
   }
 }
@@ -224,7 +220,7 @@ function download() {
 function downloadContributions() {
   const payload = buildContributionPayload();
   if (!payloadHasOps(payload)) {
-    alert("No contributions yet. Add, edit, or remove a pin before exporting.");
+    alert("尚未有任何贡献。在导出前，请先添加、编辑或删除点位。");
     return;
   }
   downloadBlob("contributions.json", payload);
@@ -268,7 +264,7 @@ function stripEmpty(obj) {
 function submitOnGithub() {
   const payload = buildContributionPayload();
   if (!payloadHasOps(payload)) {
-    alert("Add, edit, or remove a pin before submitting.");
+    alert("在提交前，请先添加、编辑或删除点位。");
     return;
   }
   const json = JSON.stringify(payload, null, 2);
@@ -280,8 +276,8 @@ function submitOnGithub() {
   const target = withJson.toString().length > MAX_PREFILL_LEN ? base.toString() : withJson.toString();
   if (target === base.toString()) {
     alert(
-      "Your contributions are too large to prefill the issue form via URL.\n\n" +
-      "The JSON has been copied to your clipboard. Paste it into the 'Contributions JSON' field after the form opens."
+      "您的贡献内容过大，无法通过 URL 预填 issue 表单。\n\n" +
+      "JSON 已复制到您的剪贴板。请在表单打开后，将其粘贴到 'Contributions JSON' 字段中。"
     );
   }
   lastSubmitUrl = target;
@@ -292,10 +288,10 @@ function submitOnGithub() {
 function showSubmitDialog(payload) {
   const s = payloadSummary(payload);
   const parts = [];
-  if (s.added) parts.push(`<strong>${s.added}</strong> new pin${s.added === 1 ? "" : "s"}`);
-  if (s.updated) parts.push(`<strong>${s.updated}</strong> edit${s.updated === 1 ? "" : "s"}`);
-  if (s.removed) parts.push(`<strong>${s.removed}</strong> removal${s.removed === 1 ? "" : "s"}`);
-  submitSummaryEl.innerHTML = `You're submitting ${parts.join(" + ")}.`;
+  if (s.added) parts.push(`<strong>${s.added}</strong> 个新点位`);
+  if (s.updated) parts.push(`<strong>${s.updated}</strong> 次编辑`);
+  if (s.removed) parts.push(`<strong>${s.removed}</strong> 次删除`);
+  submitSummaryEl.innerHTML = `您正在提交 ${parts.join(" + ")}。`;
   submitDialog.showModal();
 }
 
@@ -335,7 +331,7 @@ function renderList() {
       hint.textContent = c
         ? `→ ${c.lat}, ${c.lng}`
         : urlInput.value
-          ? "(no coords in URL — will be resolved by script)"
+          ? "(URL 中无坐标 — 将由脚本解析)"
           : "";
     });
   }
@@ -366,13 +362,13 @@ function renderCard(v) {
           <a class="card-title" href="${esc(v.link)}" target="_blank" rel="noopener">${esc(v.name)}</a>
           <div class="card-meta">${esc(v.post_date)} · ${esc(v.length)} · ${esc(v.bv)}</div>
         </div>
-        <ul class="locations">${rows || `<li class="muted">No locations yet</li>`}</ul>
+        <ul class="locations">${rows || `<li class="muted">暂无点位</li>`}</ul>
         <form class="add-form">
-          <input type="text" name="place_name" placeholder="Place name (optional)">
-          <input type="url" name="google_maps_url" placeholder="Google Maps URL" required>
+          <input type="text" name="place_name" placeholder="地点名称（可选）">
+          <input type="url" name="google_maps_url" placeholder="Google 地图 URL" required>
           <span class="coord-hint"></span>
-          <input type="text" name="comment" placeholder="Comment (optional)">
-          <button class="btn primary" type="submit">Add pin</button>
+          <input type="text" name="comment" placeholder="备注（可选）">
+          <button class="btn primary" type="submit">添加点位</button>
         </form>
       </div>
     </article>`;
@@ -385,29 +381,29 @@ function renderLocRow(loc, idx, kind, flags) {
   const coords =
     Number.isFinite(effective.lat) && Number.isFinite(effective.lng)
       ? `${effective.lat.toFixed(5)}, ${effective.lng.toFixed(5)}`
-      : `<span class="warn">unresolved</span>`;
+      : `<span class="warn">未解析坐标</span>`;
 
   const badges = [];
-  if (kind === "new") badges.push('<span class="badge badge-new">new</span>');
-  if (update) badges.push('<span class="badge badge-edit">edited</span>');
-  if (removed) badges.push('<span class="badge badge-remove">will remove</span>');
+  if (kind === "new") badges.push('<span class="badge badge-new">新增</span>');
+  if (update) badges.push('<span class="badge badge-edit">已编辑</span>');
+  if (removed) badges.push('<span class="badge badge-remove">将删除</span>');
 
   const canEdit = LIVE_MODE || kind === "new" || !removed;
   const canRemove = LIVE_MODE || kind === "new";
   const baselineRemovable = !LIVE_MODE && kind === "baseline" && !removed;
 
   const actions = [];
-  if (canEdit) actions.push(`<button type="button" class="icon-btn" data-action="edit" data-kind="${kind}" data-idx="${idx}" title="Edit">✎</button>`);
-  if (canRemove) actions.push(`<button type="button" class="icon-btn" data-action="remove" data-kind="${kind}" data-idx="${idx}" title="Remove">×</button>`);
-  if (baselineRemovable) actions.push(`<button type="button" class="icon-btn" data-action="remove" data-kind="baseline" data-idx="${idx}" title="Mark for removal">×</button>`);
-  if (removed) actions.push(`<button type="button" class="icon-btn" data-action="undo-remove" data-idx="${idx}" title="Undo removal">↺</button>`);
-  if (update) actions.push(`<button type="button" class="icon-btn" data-action="revert-edit" data-match-url="${esc(update.match_url)}" title="Revert edit">↺</button>`);
+  if (canEdit) actions.push(`<button type="button" class="icon-btn" data-action="edit" data-kind="${kind}" data-idx="${idx}" title="编辑">✎</button>`);
+  if (canRemove) actions.push(`<button type="button" class="icon-btn" data-action="remove" data-kind="${kind}" data-idx="${idx}" title="删除">×</button>`);
+  if (baselineRemovable) actions.push(`<button type="button" class="icon-btn" data-action="remove" data-kind="baseline" data-idx="${idx}" title="标记为删除">×</button>`);
+  if (removed) actions.push(`<button type="button" class="icon-btn" data-action="undo-remove" data-idx="${idx}" title="撤销删除">↺</button>`);
+  if (update) actions.push(`<button type="button" class="icon-btn" data-action="revert-edit" data-match-url="${esc(update.match_url)}" title="还原编辑">↺</button>`);
 
   return `
     <li class="${kind === "new" ? "is-contrib" : ""} ${removed ? "is-removed" : ""} ${update ? "is-edited" : ""}">
       <div class="loc-row">
         ${badges.join("")}
-        <span class="place">${esc(effective.place_name || "(unnamed)")}</span>
+        <span class="place">${esc(effective.place_name || "(未命名)")}</span>
         <span class="coords">${coords}</span>
         ${actions.join("")}
       </div>
@@ -452,7 +448,7 @@ function openEdit(kind, bv, idx) {
     : null;
   const current = pendingUpdate ? { ...original, ...pendingUpdate.set } : { ...original };
   editCtx = { kind, bv, idx, original, pendingUpdate };
-  editTitle.textContent = kind === "new" ? "Edit new pin" : "Suggest edits to existing pin";
+  editTitle.textContent = kind === "new" ? "编辑新点位" : "建议对现有点位进行编辑";
   editForm.place_name.value = current.place_name || "";
   editForm.google_maps_url.value = current.google_maps_url || "";
   editForm.comment.value = current.comment || "";
@@ -541,18 +537,18 @@ function updateStats() {
     baselinePins += locs.length;
   }
   if (LIVE_MODE) {
-    statsEl.textContent = `${baselineVideos}/${state.videos.length} videos · ${baselinePins} pins`;
+    statsEl.textContent = `${baselineVideos}/${state.videos.length} 个视频 · ${baselinePins} 个点位`;
     return;
   }
   let newPins = 0;
   for (const locs of Object.values(state.contributions)) newPins += locs.length;
   const parts = [];
-  if (newPins) parts.push(`${newPins} new`);
-  if (state.updates.length) parts.push(`${state.updates.length} edit${state.updates.length === 1 ? "" : "s"}`);
-  if (state.removals.length) parts.push(`${state.removals.length} removal${state.removals.length === 1 ? "" : "s"}`);
+  if (newPins) parts.push(`${newPins} 个新增`);
+  if (state.updates.length) parts.push(`${state.updates.length} 个编辑`);
+  if (state.removals.length) parts.push(`${state.removals.length} 个删除`);
   statsEl.textContent = parts.length
-    ? `${parts.join(" + ")} · ${baselinePins} on map`
-    : `${baselinePins} pins on map · none of yours yet`;
+    ? `${parts.join(" + ")} · 地图上有 ${baselinePins} 个点位`
+    : `地图上有 ${baselinePins} 个点位 · 您尚未有任何更改`;
 }
 
 // ===== Helpers =====

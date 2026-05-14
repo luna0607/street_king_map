@@ -74,9 +74,9 @@ def main() -> int:
     with socketserver.ThreadingTCPServer(("127.0.0.1", port), Handler) as server:
         server.allow_reuse_address = True
         print(f"street_king_map dev server: http://127.0.0.1:{port}")
-        print(f"  admin: http://127.0.0.1:{port}/web/admin.html")
-        print(f"  merge: http://127.0.0.1:{port}/web/merge_review.html")
-        print(f"  map:   http://127.0.0.1:{port}/web/index.html")
+        print(f"  admin: http://127.0.0.1:{port}/admin.html")
+        print(f"  merge: http://127.0.0.1:{port}/merge_review.html")
+        print(f"  map:   http://127.0.0.1:{port}/index.html")
         try:
             server.serve_forever()
         except KeyboardInterrupt:

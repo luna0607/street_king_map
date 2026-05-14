@@ -1,0 +1,3288 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "en",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.0,
+      "sid": 1,
+      "location": 2,
+      "content": "Here we are at the largest nuclear weapons facility in the United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 2.0,
+      "to": 3.24,
+      "sid": 2,
+      "location": 2,
+      "content": "the home of PTX",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 3.24,
+      "to": 4.96,
+      "sid": 3,
+      "location": 2,
+      "content": "along the historic Route 66, which passes through a population of 200,000",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 4.96,
+      "to": 6.24,
+      "sid": 4,
+      "location": 2,
+      "content": "in the small Texas city of Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 6.24,
+      "to": 8.22,
+      "sid": 5,
+      "location": 2,
+      "content": "though the downtown streets are completely empty",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 8.22,
+      "to": 10.86,
+      "sid": 6,
+      "location": 2,
+      "content": "Amarillo is the largest city in the Texas Panhandle region",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 10.86,
+      "to": 13.18,
+      "sid": 7,
+      "location": 2,
+      "content": "an area comprising the 26 most northwestern counties of Texas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 13.18,
+      "to": 14.96,
+      "sid": 8,
+      "location": 2,
+      "content": "which can be considered the most desolate part of Texas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 14.96,
+      "to": 17.1,
+      "sid": 9,
+      "location": 2,
+      "content": "with an area roughly comparable to the Ningxia Hui Autonomous Region",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 17.1,
+      "to": 19.02,
+      "sid": 10,
+      "location": 2,
+      "content": "But the total population is less than 430,000",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 19.02,
+      "to": 21.46,
+      "sid": 11,
+      "location": 2,
+      "content": "with 72% of them living in and around Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 21.46,
+      "to": 22.16,
+      "sid": 12,
+      "location": 2,
+      "content": "the small town area",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 22.16,
+      "to": 23.78,
+      "sid": 13,
+      "location": 2,
+      "content": "After all, the largest employer in the region",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 23.78,
+      "to": 25.56,
+      "sid": 14,
+      "location": 2,
+      "content": "PANTX with 4,600 employees",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 25.56,
+      "to": 28.36,
+      "sid": 15,
+      "location": 2,
+      "content": "along with some oil and ranching companies, are all located around the town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 28.36,
+      "to": 29.52,
+      "sid": 16,
+      "location": 2,
+      "content": "Although the data shows",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 29.52,
+      "to": 31.16,
+      "sid": 17,
+      "location": 2,
+      "content": "that the town's population is growing",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 31.16,
+      "to": 33.3,
+      "sid": 18,
+      "location": 2,
+      "content": "why does the city center look like a ghost town?",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 33.3,
+      "to": 34.66,
+      "sid": 19,
+      "location": 2,
+      "content": "You won’t see a soul out in broad daylight",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 34.66,
+      "to": 36.44,
+      "sid": 20,
+      "location": 2,
+      "content": "You can stroll down the streets as you please",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 36.44,
+      "to": 37.62,
+      "sid": 21,
+      "location": 2,
+      "content": "This has led to the hollowing out of downtown areas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 37.62,
+      "to": 40.16,
+      "sid": 22,
+      "location": 2,
+      "content": "The main reason is that office and residential areas are separated in the United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 41.78,
+      "to": 43.26,
+      "sid": 23,
+      "location": 2,
+      "content": "Most people are on vacation at home",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 43.26,
+      "to": 44.9,
+      "sid": 24,
+      "location": 2,
+      "content": "Add to that the widespread use of cars in America",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 44.9,
+      "to": 47.29,
+      "sid": 25,
+      "location": 2,
+      "content": "All new commercial developments are along the highways",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 47.29,
+      "to": 49.67,
+      "sid": 26,
+      "location": 2,
+      "content": "Declining city centers are not unique to Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 49.67,
+      "to": 51.49,
+      "sid": 27,
+      "location": 2,
+      "content": "I’m now driving through Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 51.49,
+      "to": 52.66,
+      "sid": 28,
+      "location": 2,
+      "content": "On Interstate 40",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 52.66,
+      "to": 54.12,
+      "sid": 29,
+      "location": 2,
+      "content": "both sides used to be wasteland",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 54.12,
+      "to": 55.4,
+      "sid": 30,
+      "location": 2,
+      "content": "there are abundant land resources",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 55.4,
+      "to": 57.3,
+      "sid": 31,
+      "location": 2,
+      "content": "the cost of developing the land on both sides of the highway is low",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 57.3,
+      "to": 59.58,
+      "sid": 32,
+      "location": 2,
+      "content": "it's quite surprising that a small city of 200,000 can have such a wide highway",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 59.58,
+      "to": 60.92,
+      "sid": 33,
+      "location": 2,
+      "content": "which is quite characteristic of Texas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 60.92,
+      "to": 62.38,
+      "sid": 34,
+      "location": 2,
+      "content": "and right next to this highway is a place called",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 62.38,
+      "to": 63.96,
+      "sid": 35,
+      "location": 2,
+      "content": "Texas Steak Ranch, a farm-to-table experience",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 63.96,
+      "to": 65.8,
+      "sid": 36,
+      "location": 2,
+      "content": "here, there are noticeably more people than in the city center",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 65.8,
+      "to": 67.59,
+      "sid": 37,
+      "location": 2,
+      "content": "The parking lot here is also huge.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 67.59,
+      "to": 68.55,
+      "sid": 38,
+      "location": 2,
+      "content": "Apart from the front row,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 68.55,
+      "to": 70.53,
+      "sid": 39,
+      "location": 2,
+      "content": "there are dedicated spots for trucks at the back.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 70.53,
+      "to": 72.05,
+      "sid": 40,
+      "location": 2,
+      "content": "This complex has more than just restaurants,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 72.05,
+      "to": 73.49,
+      "sid": 41,
+      "location": 2,
+      "content": "it also comes with a motel.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 73.49,
+      "to": 76.43,
+      "sid": 42,
+      "location": 2,
+      "content": "In a way, it’s quite like a Texas-themed amusement park.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 76.43,
+      "to": 78.87,
+      "sid": 43,
+      "location": 2,
+      "content": "Although the motel looks colorful from the outside,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 78.87,
+      "to": 79.63,
+      "sid": 44,
+      "location": 2,
+      "content": "once you go inside,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 79.63,
+      "to": 82.46,
+      "sid": 45,
+      "location": 2,
+      "content": "it’s not much different from most of the other motels I’ve stayed in.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 82.46,
+      "to": 83.5,
+      "sid": 46,
+      "location": 2,
+      "content": "I don't actually live here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 83.5,
+      "to": 84.94,
+      "sid": 47,
+      "location": 2,
+      "content": "I just slipped in to take a photo while cleaning the guest room",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 84.94,
+      "to": 86.18,
+      "sid": 48,
+      "location": 2,
+      "content": "The room looks pretty tidy inside",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 86.18,
+      "to": 88.24,
+      "sid": 49,
+      "location": 2,
+      "content": "A night here costs $80",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 88.24,
+      "to": 89.7,
+      "sid": 50,
+      "location": 2,
+      "content": "I'm not sure if it's worth it or not",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 89.7,
+      "to": 90.9,
+      "sid": 51,
+      "location": 2,
+      "content": "This huge yellow house across from the car hotel is the steakhouse",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 90.9,
+      "to": 93.24,
+      "sid": 52,
+      "location": 2,
+      "content": "It makes sense to have a steakhouse in Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 93.24,
+      "to": 94.26,
+      "sid": 53,
+      "location": 2,
+      "content": "The steakhouse is inside",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 94.26,
+      "to": 96.44,
+      "sid": 54,
+      "location": 2,
+      "content": "Opening a steakhouse in Amarillo is actually quite fitting",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 96.44,
+      "to": 97.98,
+      "sid": 55,
+      "location": 2,
+      "content": "There are many animal farms in this area",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 97.98,
+      "to": 99.22,
+      "sid": 56,
+      "location": 2,
+      "content": "a quarter of the beef in the United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 99.22,
+      "to": 101.0,
+      "sid": 57,
+      "location": 2,
+      "content": "is produced around Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 101.0,
+      "to": 102.78,
+      "sid": 58,
+      "location": 2,
+      "content": "the most famous thing about this steakhouse is the 72-ounce",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 102.78,
+      "to": 104.64,
+      "sid": 59,
+      "location": 2,
+      "content": "which is a 2-kilogram steak challenge",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 104.64,
+      "to": 106.2,
+      "sid": 60,
+      "location": 2,
+      "content": "finish this steak within an hour",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 106.2,
+      "to": 108.68,
+      "sid": 61,
+      "location": 2,
+      "content": "along with the complimentary bread, salad, and potatoes, and your meal is free",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 108.68,
+      "to": 110.52,
+      "sid": 62,
+      "location": 2,
+      "content": "long-time viewers know I have a pretty big appetite",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 110.52,
+      "to": 112.18,
+      "sid": 63,
+      "location": 2,
+      "content": "I was indeed planning to take on the challenge",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 112.18,
+      "to": 113.68,
+      "sid": 64,
+      "location": 2,
+      "content": "But today, Thanksgiving is packed.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 113.68,
+      "to": 114.36,
+      "sid": 65,
+      "location": 2,
+      "content": "There’s even a queue.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 114.36,
+      "to": 114.92,
+      "sid": 66,
+      "location": 2,
+      "content": "Let me think about it.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 114.92,
+      "to": 116.64,
+      "sid": 67,
+      "location": 2,
+      "content": "I don’t want to cause any trouble for the staff.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 116.64,
+      "to": 119.17,
+      "sid": 68,
+      "location": 2,
+      "content": "The main reason is that they have a special Thanksgiving lunch here today.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 119.17,
+      "to": 120.77,
+      "sid": 69,
+      "location": 2,
+      "content": "It’s pretty much typical white American fare.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 120.77,
+      "to": 122.44,
+      "sid": 70,
+      "location": 2,
+      "content": "Similar to what you’d get in a U.S. college cafeteria.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 122.44,
+      "to": 123.36,
+      "sid": 71,
+      "location": 2,
+      "content": "To be honest, I don’t quite understand.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 123.36,
+      "to": 125.16,
+      "sid": 72,
+      "location": 2,
+      "content": "Why so many people bring their families to wait in line for a meal.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 125.16,
+      "to": 127.2,
+      "sid": 73,
+      "location": 2,
+      "content": "This might be to get a feel for the festive atmosphere.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 127.2,
+      "to": 128.93,
+      "sid": 74,
+      "location": 2,
+      "content": "It costs $35 per person.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 128.93,
+      "to": 130.21,
+      "sid": 75,
+      "location": 2,
+      "content": "If it were only $3.50,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 130.21,
+      "to": 131.79,
+      "sid": 76,
+      "location": 2,
+      "content": "I might consider waiting in line.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 131.79,
+      "to": 133.01,
+      "sid": 77,
+      "location": 2,
+      "content": "Even though I didn’t spend any money here,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 133.01,
+      "to": 134.91,
+      "sid": 78,
+      "location": 2,
+      "content": "the staff are all quite friendly.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 134.91,
+      "to": 136.21,
+      "sid": 79,
+      "location": 2,
+      "content": "I wandered around taking footage,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 136.21,
+      "to": 137.28,
+      "sid": 80,
+      "location": 2,
+      "content": "and everyone was very welcoming.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 137.28,
+      "to": 137.84,
+      "sid": 81,
+      "location": 2,
+      "content": "To be honest",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 137.84,
+      "to": 139.56,
+      "sid": 82,
+      "location": 2,
+      "content": "Shooting videos in these remote areas in America",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 139.56,
+      "to": 140.86,
+      "sid": 83,
+      "location": 2,
+      "content": "there really isn’t much good food",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 140.86,
+      "to": 143.02,
+      "sid": 84,
+      "location": 2,
+      "content": "fortunately, I always carry this multi-grain shake",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 143.02,
+      "to": 144.1,
+      "sid": 85,
+      "location": 2,
+      "content": "it really fills me up",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 144.1,
+      "to": 145.1,
+      "sid": 86,
+      "location": 2,
+      "content": "and takes care of my gut",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 145.1,
+      "to": 147.2,
+      "sid": 87,
+      "location": 2,
+      "content": "it directly solves my problem of irregular eating habits",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 147.2,
+      "to": 147.68,
+      "sid": 88,
+      "location": 2,
+      "content": "experts say",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 147.68,
+      "to": 149.34,
+      "sid": 89,
+      "location": 2,
+      "content": "we should consume 1/2 cup of mixed beans daily",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 149.34,
+      "to": 152.34,
+      "sid": 90,
+      "location": 2,
+      "content": "but usually, people consume refined soybeans and flour",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 152.34,
+      "to": 154.46,
+      "sid": 91,
+      "location": 2,
+      "content": "Such a composition of grains is very detrimental to health.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 154.46,
+      "to": 157.16,
+      "sid": 92,
+      "location": 2,
+      "content": "This shake uses imported New Zealand milk powder.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 157.16,
+      "to": 157.9,
+      "sid": 93,
+      "location": 2,
+      "content": "It is rich in quinoa,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 157.9,
+      "to": 158.46,
+      "sid": 94,
+      "location": 2,
+      "content": "chickpeas,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 158.46,
+      "to": 160.26,
+      "sid": 95,
+      "location": 2,
+      "content": "white kidney beans, and 11 other freeze-dried grains.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 160.26,
+      "to": 161.36,
+      "sid": 96,
+      "location": 2,
+      "content": "All of these are good sources of protein,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 161.36,
+      "to": 163.58,
+      "sid": 97,
+      "location": 2,
+      "content": "B vitamins, and minerals.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 163.58,
+      "to": 165.76,
+      "sid": 98,
+      "location": 2,
+      "content": "It also includes Psyllium Husk from Yuanbang,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 165.76,
+      "to": 167.44,
+      "sid": 99,
+      "location": 2,
+      "content": "which, in addition to controlling blood sugar,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 167.44,
+      "to": 168.4,
+      "sid": 100,
+      "location": 2,
+      "content": "It helps to keep your bowel movements smooth",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 168.4,
+      "to": 170.06,
+      "sid": 101,
+      "location": 2,
+      "content": "and promotes the growth of probiotics",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 170.06,
+      "to": 171.24,
+      "sid": 102,
+      "location": 2,
+      "content": "I often don’t have time for meals",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 171.24,
+      "to": 172.68,
+      "sid": 103,
+      "location": 2,
+      "content": "or I’m worried about eating late at night",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 172.68,
+      "to": 173.6,
+      "sid": 104,
+      "location": 2,
+      "content": "so I just grab a packet",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 173.6,
+      "to": 175.12,
+      "sid": 105,
+      "location": 2,
+      "content": "and mix it with milk or warm water",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 175.12,
+      "to": 176.54,
+      "sid": 106,
+      "location": 2,
+      "content": "which makes it thick and delicious",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 176.54,
+      "to": 177.74,
+      "sid": 107,
+      "location": 2,
+      "content": "and it provides a strong feeling of fullness",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 177.74,
+      "to": 180.84,
+      "sid": 108,
+      "location": 2,
+      "content": "the packaging is even made with a four-layer composite aluminum foil, similar to pharmaceuticals",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 180.84,
+      "to": 182.84,
+      "sid": 109,
+      "location": 2,
+      "content": "All performance metrics meet the highest industry standards",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 182.84,
+      "to": 183.96,
+      "sid": 110,
+      "location": 2,
+      "content": "You can consume it with peace of mind",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 183.96,
+      "to": 185.92,
+      "sid": 111,
+      "location": 2,
+      "content": "The key point is that this pack contains only 106 calories",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 185.92,
+      "to": 187.7,
+      "sid": 112,
+      "location": 2,
+      "content": "Ideal for a nutritious meal replacement during work or exercise",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 187.7,
+      "to": 188.4,
+      "sid": 113,
+      "location": 2,
+      "content": "Low-fat and low-calorie",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 188.4,
+      "to": 189.26,
+      "sid": 114,
+      "location": 2,
+      "content": "Healthy and delicious",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 189.26,
+      "to": 191.44,
+      "sid": 115,
+      "location": 2,
+      "content": "The product shot straight to the top of the bestsellers list upon release",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 191.44,
+      "to": 194.12,
+      "sid": 116,
+      "location": 2,
+      "content": "Now, Junjun has introduced two flavors: taro paste and cocoa",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 194.12,
+      "to": 194.84,
+      "sid": 117,
+      "location": 2,
+      "content": "Low-fat and filling",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 194.84,
+      "to": 195.38,
+      "sid": 118,
+      "location": 2,
+      "content": "High protein",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 195.38,
+      "to": 196.32,
+      "sid": 119,
+      "location": 2,
+      "content": "Stock up quickly",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 196.32,
+      "to": 198.36,
+      "sid": 120,
+      "location": 2,
+      "content": "And their young chewable tablets",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 198.36,
+      "to": 199.9,
+      "sid": 121,
+      "location": 2,
+      "content": "At first, I just thought the packaging was cute",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 199.9,
+      "to": 201.12,
+      "sid": 122,
+      "location": 2,
+      "content": "But after trying them, I found out they're a star product",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 201.12,
+      "to": 202.1,
+      "sid": 123,
+      "location": 2,
+      "content": "They really are impressive",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 202.1,
+      "to": 203.26,
+      "sid": 124,
+      "location": 2,
+      "content": "If you're like me",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 203.26,
+      "to": 203.98,
+      "sid": 125,
+      "location": 2,
+      "content": "Struggling to wake up in the morning",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 203.98,
+      "to": 204.74,
+      "sid": 126,
+      "location": 2,
+      "content": "And having trouble sleeping at night",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 204.74,
+      "to": 206.2,
+      "sid": 127,
+      "location": 2,
+      "content": "If your body and mood are constantly feeling off",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 206.2,
+      "to": 207.84,
+      "sid": 128,
+      "location": 2,
+      "content": "it might be your gut calling for help",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 207.84,
+      "to": 210.78,
+      "sid": 129,
+      "location": 2,
+      "content": "Gut health directly impacts my sleep quality and mental state",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 210.78,
+      "to": 211.48,
+      "sid": 130,
+      "location": 2,
+      "content": "The Jin Xing family",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 211.48,
+      "to": 212.72,
+      "sid": 131,
+      "location": 2,
+      "content": "The main ingredients of this product include",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 212.72,
+      "to": 215.34,
+      "sid": 132,
+      "location": 2,
+      "content": "K1 lactic acid bacteria among 12 strains of postbiotics",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 215.34,
+      "to": 217.16,
+      "sid": 133,
+      "location": 2,
+      "content": "Each capsule contains 20 billion live bacteria",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 217.16,
+      "to": 218.76,
+      "sid": 134,
+      "location": 2,
+      "content": "able to reach the gut and regulate the microbial balance",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 218.76,
+      "to": 220.76,
+      "sid": 135,
+      "location": 2,
+      "content": "improving gut health from the root",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 220.76,
+      "to": 222.48,
+      "sid": 136,
+      "location": 2,
+      "content": "Good Morning Probiotics are specially enhanced with yerba mate",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 222.48,
+      "to": 223.58,
+      "sid": 137,
+      "location": 2,
+      "content": "to freshen your breath",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 223.58,
+      "to": 224.28,
+      "sid": 138,
+      "location": 2,
+      "content": "and boost your energy",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 224.28,
+      "to": 226.46,
+      "sid": 139,
+      "location": 2,
+      "content": "taking two capsules in the morning keeps you energized all day",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 226.46,
+      "to": 227.84,
+      "sid": 140,
+      "location": 2,
+      "content": "and take another two before bedtime",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 227.84,
+      "to": 230.79,
+      "sid": 141,
+      "location": 2,
+      "content": "the Good Night Probiotics contain a new international sleep aid ingredient, gamma",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 230.79,
+      "to": 232.42,
+      "sid": 142,
+      "location": 2,
+      "content": "which works much better than melatonin",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 232.42,
+      "to": 233.7,
+      "sid": 143,
+      "location": 2,
+      "content": "the key point is that it’s non-habit-forming",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 233.7,
+      "to": 235.62,
+      "sid": 144,
+      "location": 2,
+      "content": "perfect for those who often stay up late gaming",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 235.62,
+      "to": 237.02,
+      "sid": 145,
+      "location": 2,
+      "content": "After I stuck to it for a while,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 237.02,
+      "to": 238.54,
+      "sid": 146,
+      "location": 2,
+      "content": "not only did my sleep quality improve significantly,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 238.54,
+      "to": 240.579,
+      "sid": 147,
+      "location": 2,
+      "content": "but my overall mental state also got much better.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 240.579,
+      "to": 242.659,
+      "sid": 148,
+      "location": 2,
+      "content": "Now, with a coupon, you can get 30 off the four flavors,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 242.659,
+      "to": 243.759,
+      "sid": 149,
+      "location": 2,
+      "content": "plus four full-size bags for free,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 243.759,
+      "to": 245.299,
+      "sid": 150,
+      "location": 2,
+      "content": "which brings the cost down to just one dollar per piece.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 245.299,
+      "to": 246.819,
+      "sid": 151,
+      "location": 2,
+      "content": "It’s perfect for anyone looking to improve their sleep,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 246.819,
+      "to": 248.579,
+      "sid": 152,
+      "location": 2,
+      "content": "and boost their mental state.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 248.579,
+      "to": 249.339,
+      "sid": 153,
+      "location": 2,
+      "content": "As the client said,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 249.339,
+      "to": 251.819,
+      "sid": 154,
+      "location": 2,
+      "content": "Whether you're ordering from Yao Yao Ying or Houshengyuan, everyone",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 251.819,
+      "to": 252.899,
+      "sid": 155,
+      "location": 2,
+      "content": "can contact customer service",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 252.899,
+      "to": 255.54,
+      "sid": 156,
+      "location": 2,
+      "content": "to claim an additional box of Zhenye Natural Vitamin C for just 39.9 yuan",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 255.54,
+      "to": 257.48,
+      "sid": 157,
+      "location": 2,
+      "content": "Everyone, hurry and place your orders through the link in the comments section",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 257.48,
+      "to": 258.38,
+      "sid": 158,
+      "location": 2,
+      "content": "Back at the steakhouse",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 258.38,
+      "to": 261.24,
+      "sid": 159,
+      "location": 2,
+      "content": "it's not just a dining hall; there are also displays showcasing some Texan cultural features",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 261.24,
+      "to": 264.08,
+      "sid": 160,
+      "location": 2,
+      "content": "You can even try your hand at playing with some Texan specialties",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 267.58,
+      "to": 269.86,
+      "sid": 161,
+      "location": 2,
+      "content": "While this steakhouse may look harmless",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 269.86,
+      "to": 272.86,
+      "sid": 162,
+      "location": 2,
+      "content": "it's actually quite close to the PTAX nuclear weapons facility",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 272.86,
+      "to": 273.7,
+      "sid": 163,
+      "location": 2,
+      "content": "To put it mildly",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 273.7,
+      "to": 275.78,
+      "sid": 164,
+      "location": 2,
+      "content": "the steak here might actually be wagyu",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 275.78,
+      "to": 277.7,
+      "sid": 165,
+      "location": 2,
+      "content": "I've met many strangers in steak houses",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 277.7,
+      "to": 280.02,
+      "sid": 166,
+      "location": 2,
+      "content": "and a fair number of them probably work at the nuclear weapons plant",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 280.02,
+      "to": 282.4,
+      "sid": 167,
+      "location": 2,
+      "content": "but I won't be taking you on a tour of the facility",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 282.4,
+      "to": 283.4,
+      "sid": 168,
+      "location": 2,
+      "content": "for one, my clearance level isn't high enough",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 283.4,
+      "to": 283.96,
+      "sid": 169,
+      "location": 2,
+      "content": "to get in",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 283.96,
+      "to": 286.549,
+      "sid": 170,
+      "location": 2,
+      "content": "and secondly, I don't want to draw attention from the FBI",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 286.549,
+      "to": 289.549,
+      "sid": 171,
+      "location": 2,
+      "content": "so let's check out the wilderness behind this farmstead instead",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 289.549,
+      "to": 292.7,
+      "sid": 172,
+      "location": 2,
+      "content": "This Big Texas Road is named after the steakhouse.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 292.7,
+      "to": 295.06,
+      "sid": 173,
+      "location": 2,
+      "content": "The train just casually sits by the roadside.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 295.06,
+      "to": 297.14,
+      "sid": 174,
+      "location": 2,
+      "content": "Apart from the lack of railway tracks around the nuclear weapons plant,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 297.14,
+      "to": 298.2,
+      "sid": 175,
+      "location": 2,
+      "content": "it looks pretty much the same.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 298.2,
+      "to": 299.42,
+      "sid": 176,
+      "location": 2,
+      "content": "Drive along the tracks.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 299.42,
+      "to": 302.24,
+      "sid": 177,
+      "location": 2,
+      "content": "I also found an unattended railway office here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 302.24,
+      "to": 303.289,
+      "sid": 178,
+      "location": 2,
+      "content": "You can just walk in.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 303.289,
+      "to": 305.649,
+      "sid": 179,
+      "location": 2,
+      "content": "Amarillo is also a major freight rail hub.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 305.649,
+      "to": 307.38,
+      "sid": 180,
+      "location": 2,
+      "content": "Hundreds of trains pass through every day.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 307.38,
+      "to": 308.38,
+      "sid": 181,
+      "location": 2,
+      "content": "But they are all for freight.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 308.38,
+      "to": 310.62,
+      "sid": 182,
+      "location": 2,
+      "content": "The passenger station was closed in the 1970s.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 310.62,
+      "to": 312.1,
+      "sid": 183,
+      "location": 2,
+      "content": "I'm sure there will be Danmu saying",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 312.1,
+      "to": 314.49,
+      "sid": 184,
+      "location": 2,
+      "content": "The grasslands here are very suitable for cattle farming or agriculture.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 314.49,
+      "to": 316.95,
+      "sid": 185,
+      "location": 2,
+      "content": "Amarillo's agriculture and livestock industry are indeed strong.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 316.95,
+      "to": 318.8,
+      "sid": 186,
+      "location": 2,
+      "content": "That's why there are many Latinos here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 318.8,
+      "to": 319.6,
+      "sid": 187,
+      "location": 2,
+      "content": "During the seven-day Thanksgiving holiday,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 319.6,
+      "to": 321.54,
+      "sid": 188,
+      "location": 2,
+      "content": "Most supermarkets and restaurants are closed.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 321.54,
+      "to": 323.38,
+      "sid": 189,
+      "location": 2,
+      "content": "But Latino supermarkets remain open.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 323.38,
+      "to": 324.46,
+      "sid": 190,
+      "location": 2,
+      "content": "It's quite lively inside.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 324.46,
+      "to": 327.28,
+      "sid": 191,
+      "location": 2,
+      "content": "Generally, larger Mexican supermarkets have a deli section.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 327.28,
+      "to": 328.28,
+      "sid": 192,
+      "location": 2,
+      "content": "You can buy fast food here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 328.28,
+      "to": 329.48,
+      "sid": 193,
+      "location": 2,
+      "content": "The prices are usually very reasonable.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 329.48,
+      "to": 330.64,
+      "sid": 194,
+      "location": 2,
+      "content": "And you don’t need to tip.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 330.64,
+      "to": 331.52,
+      "sid": 195,
+      "location": 2,
+      "content": "I ordered a chicken soup.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 331.52,
+      "to": 333.56,
+      "sid": 196,
+      "location": 2,
+      "content": "Plus two small servings of Mexican cured pork.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 333.56,
+      "to": 336.38,
+      "sid": 197,
+      "location": 2,
+      "content": "This Mexican supermarket must be in my top three for taste.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 336.38,
+      "to": 337.95,
+      "sid": 198,
+      "location": 2,
+      "content": "It really caters to Chinese palates.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 337.95,
+      "to": 339.15,
+      "sid": 199,
+      "location": 2,
+      "content": "If there really are passersby",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 339.15,
+      "to": 341.91,
+      "sid": 200,
+      "location": 2,
+      "content": "I recommend you visit the steak farm restaurant here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 341.91,
+      "to": 344.64,
+      "sid": 201,
+      "location": 2,
+      "content": "and then drive to this Mexican supermarket for a quick meal",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 344.64,
+      "to": 346.14,
+      "sid": 202,
+      "location": 2,
+      "content": "Since we're on the topic",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 346.14,
+      "to": 346.96,
+      "sid": 203,
+      "location": 2,
+      "content": "let me also recommend",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 346.96,
+      "to": 349.8,
+      "sid": 204,
+      "location": 2,
+      "content": "the $40 presidential suite I stayed in last night",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 349.8,
+      "to": 352.3,
+      "sid": 205,
+      "location": 2,
+      "content": "it might really be because there's so much land in Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 352.3,
+      "to": 354.76,
+      "sid": 206,
+      "location": 2,
+      "content": "that you can book a huge motel room for just $40",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 354.76,
+      "to": 355.33,
+      "sid": 207,
+      "location": 2,
+      "content": "the room",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 355.33,
+      "to": 356.73,
+      "sid": 208,
+      "location": 2,
+      "content": "It might not be obvious from the camera",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 356.73,
+      "to": 358.71,
+      "sid": 209,
+      "location": 2,
+      "content": "but you can use my bag as a reference",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 358.71,
+      "to": 360.23,
+      "sid": 210,
+      "location": 2,
+      "content": "this bed is really huge",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 360.23,
+      "to": 361.53,
+      "sid": 211,
+      "location": 2,
+      "content": "even if only four people are staying here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 361.53,
+      "to": 362.53,
+      "sid": 212,
+      "location": 2,
+      "content": "it won’t feel crowded at all",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 362.53,
+      "to": 364.93,
+      "sid": 213,
+      "location": 2,
+      "content": "there’s also a massive workspace over here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 364.93,
+      "to": 366.19,
+      "sid": 214,
+      "location": 2,
+      "content": "and there’s complimentary breakfast",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 366.19,
+      "to": 367.67,
+      "sid": 215,
+      "location": 2,
+      "content": "though if you sleep in, it gets cleared away",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 367.67,
+      "to": 369.789,
+      "sid": 216,
+      "location": 2,
+      "content": "but things like bread are still available to take",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 369.789,
+      "to": 371.88,
+      "sid": 217,
+      "location": 2,
+      "content": "And both the coffee maker and the juicer are functional.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 371.88,
+      "to": 374.44,
+      "sid": 218,
+      "location": 2,
+      "content": "I have a peculiar preference for coffee with an apple flavor.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 374.44,
+      "to": 376.56,
+      "sid": 219,
+      "location": 2,
+      "content": "I truly feel that this hotel is the best value for money I've experienced in America.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 376.56,
+      "to": 377.64,
+      "sid": 220,
+      "location": 2,
+      "content": "If you split the cost among four people,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 377.64,
+      "to": 379.24,
+      "sid": 221,
+      "location": 2,
+      "content": "it only comes to ten dollars per person.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 379.24,
+      "to": 380.53,
+      "sid": 222,
+      "location": 2,
+      "content": "And this motel is right next to Interstate 40,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 380.53,
+      "to": 382.57,
+      "sid": 223,
+      "location": 2,
+      "content": "which was originally the famous Route 66.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 382.57,
+      "to": 385.07,
+      "sid": 224,
+      "location": 2,
+      "content": "Therefore, Amarillo has a few attractions for road trippers.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 385.07,
+      "to": 387.65,
+      "sid": 225,
+      "location": 2,
+      "content": "So, Amarillo also has some attractions for road trips.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 387.65,
+      "to": 388.919,
+      "sid": 226,
+      "location": 2,
+      "content": "A spot for tourists to check in",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 388.919,
+      "to": 391.159,
+      "sid": 227,
+      "location": 2,
+      "content": "The most famous one is this Cadillac Ranch",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 391.159,
+      "to": 393.92,
+      "sid": 228,
+      "location": 2,
+      "content": "It's essentially ten scrapped Cadillacs buried in the ground",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 393.92,
+      "to": 395.86,
+      "sid": 229,
+      "location": 2,
+      "content": "And tourists can graffiti on the cars",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 395.86,
+      "to": 397.86,
+      "sid": 230,
+      "location": 2,
+      "content": "It serves as an officially sanctioned graffiti area",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 397.86,
+      "to": 401.14,
+      "sid": 231,
+      "location": 2,
+      "content": "But graffiti on public roads outside the car ranch is illegal",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 401.14,
+      "to": 402.38,
+      "sid": 232,
+      "location": 2,
+      "content": "The restless Americans",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 402.38,
+      "to": 405.19,
+      "sid": 233,
+      "location": 2,
+      "content": "Have long sprayed the roads and roadside trash bins",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 405.19,
+      "to": 407.71,
+      "sid": 234,
+      "location": 2,
+      "content": "If you're not satisfied with your graffiti at Cadillac Ranch",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 407.71,
+      "to": 410.35,
+      "sid": 235,
+      "location": 2,
+      "content": "There are also many merchants along the highway who mimic this by buying a few cars",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 410.35,
+      "to": 412.409,
+      "sid": 236,
+      "location": 2,
+      "content": "to attract tourists in front of their shops",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 412.409,
+      "to": 414.729,
+      "sid": 237,
+      "location": 2,
+      "content": "like the graffiti area behind which is actually a motorhome campsite",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 414.729,
+      "to": 416.449,
+      "sid": 238,
+      "location": 2,
+      "content": "and there are still people painting on the fashion cars in front",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 416.449,
+      "to": 418.9,
+      "sid": 239,
+      "location": 2,
+      "content": "During the election, Trump's rival Harris was considered trash",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 418.9,
+      "to": 419.54,
+      "sid": 240,
+      "location": 2,
+      "content": "Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 419.54,
+      "to": 420.74,
+      "sid": 241,
+      "location": 2,
+      "content": "this area of the Texas Panhandle",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 420.74,
+      "to": 423.18,
+      "sid": 242,
+      "location": 2,
+      "content": "is indeed one of the most conservative places in the entire United States",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 423.18,
+      "to": 423.94,
+      "sid": 243,
+      "location": 2,
+      "content": "2024",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 423.94,
+      "to": 426.06,
+      "sid": 244,
+      "location": 2,
+      "content": "81% of the people here voted for Trump",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 426.06,
+      "to": 428.66,
+      "sid": 245,
+      "location": 2,
+      "content": "There's also a Second Amendment sign supporting gun rights by the roadside",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 428.66,
+      "to": 430.38,
+      "sid": 246,
+      "location": 2,
+      "content": "The cowboy is likely a local farmer",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 430.38,
+      "to": 431.2,
+      "sid": 247,
+      "location": 2,
+      "content": "They’re just placed casually",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 431.2,
+      "to": 432.55,
+      "sid": 248,
+      "location": 2,
+      "content": "It looks very simple and rustic",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 432.55,
+      "to": 435.05,
+      "sid": 249,
+      "location": 2,
+      "content": "At the cowboy’s feet are two Texas specialties",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 435.05,
+      "to": 436.19,
+      "sid": 250,
+      "location": 2,
+      "content": "When I went to take photos at night",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 436.19,
+      "to": 438.1,
+      "sid": 251,
+      "location": 2,
+      "content": "His face actually looks a bit eerie",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 438.1,
+      "to": 438.84,
+      "sid": 252,
+      "location": 2,
+      "content": "Besides these",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 438.84,
+      "to": 441.04,
+      "sid": 253,
+      "location": 2,
+      "content": "The gas prices in Amarillo are ridiculously low.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 441.04,
+      "to": 442.8,
+      "sid": 254,
+      "location": 2,
+      "content": "It's only $2.10 per gallon here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 442.8,
+      "to": 444.42,
+      "sid": 255,
+      "location": 2,
+      "content": "But this video was shot last year.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 444.42,
+      "to": 446.18,
+      "sid": 256,
+      "location": 2,
+      "content": "I wonder if the prices have gone up this year.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 446.18,
+      "to": 446.9,
+      "sid": 257,
+      "location": 2,
+      "content": "Overall,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 446.9,
+      "to": 448.06,
+      "sid": 258,
+      "location": 2,
+      "content": "Amarillo might be the city that most fits the Texas stereotype of any place I've visited.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 448.06,
+      "to": 449.94,
+      "sid": 259,
+      "location": 2,
+      "content": "The residential areas here are built right next to the prairie.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 449.94,
+      "to": 452.12,
+      "sid": 260,
+      "location": 2,
+      "content": "The only downside is that the city is quite remote.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 452.12,
+      "to": 453.98,
+      "sid": 261,
+      "location": 2,
+      "content": "The location of this city is just too remote.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 453.98,
+      "to": 455.4,
+      "sid": 262,
+      "location": 2,
+      "content": "There are hardly any Chinese people around here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 455.4,
+      "to": 457.54,
+      "sid": 263,
+      "location": 2,
+      "content": "And it’s a good five to six hundred kilometers drive to places like Dallas, where there are more Chinese.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 457.54,
+      "to": 459.23,
+      "sid": 264,
+      "location": 2,
+      "content": "But if you have an RV,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 459.23,
+      "to": 460.89,
+      "sid": 265,
+      "location": 2,
+      "content": "the land here is vast,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 460.89,
+      "to": 461.97,
+      "sid": 266,
+      "location": 2,
+      "content": "and you can find RV campsites everywhere to park.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 461.97,
+      "to": 463.89,
+      "sid": 267,
+      "location": 2,
+      "content": "I just picked a random campsite and drove around it,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 463.89,
+      "to": 466.07,
+      "sid": 268,
+      "location": 2,
+      "content": "so I can show you what it looks like.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 466.07,
+      "to": 467.57,
+      "sid": 269,
+      "location": 2,
+      "content": "Now I’m leaving Amarillo.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 467.57,
+      "to": 468.61,
+      "sid": 270,
+      "location": 2,
+      "content": "Now I'm leaving Amarillo",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 468.61,
+      "to": 470.19,
+      "sid": 271,
+      "location": 2,
+      "content": "Let's check out the rundown town nearby",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 470.19,
+      "to": 472.29,
+      "sid": 272,
+      "location": 2,
+      "content": "Although Amarillo looks quite rural",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 472.29,
+      "to": 475.69,
+      "sid": 273,
+      "location": 2,
+      "content": "its effect of drawing people from surrounding rural areas is very noticeable",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 475.69,
+      "to": 478.49,
+      "sid": 274,
+      "location": 2,
+      "content": "Now I'm 33 minutes west of Amarillo, in a town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 478.49,
+      "to": 480.92,
+      "sid": 275,
+      "location": 2,
+      "content": "called Vega, with a population of 879",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 480.92,
+      "to": 483.06,
+      "sid": 276,
+      "location": 2,
+      "content": "which was originally on the old Route 66",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 483.06,
+      "to": 484.46,
+      "sid": 277,
+      "location": 2,
+      "content": "but now the motels here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 484.46,
+      "to": 486.15,
+      "sid": 278,
+      "location": 2,
+      "content": "along with gas stations and the like, have all closed down",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 486.15,
+      "to": 488.07,
+      "sid": 279,
+      "location": 2,
+      "content": "the locals here mainly raise cattle and the like",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 488.07,
+      "to": 491.039,
+      "sid": 280,
+      "location": 2,
+      "content": "Or set up a few wind turbines on your own land",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 491.039,
+      "to": 493.239,
+      "sid": 281,
+      "location": 2,
+      "content": "Texas leads the pack in wind power generation",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 493.239,
+      "to": 494.94,
+      "sid": 282,
+      "location": 2,
+      "content": "compared to the other 49 states in the U.S.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 494.94,
+      "to": 497.76,
+      "sid": 283,
+      "location": 2,
+      "content": "The wind energy produced in Texas could meet the annual electricity needs of four superpowers",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 497.76,
+      "to": 498.46,
+      "sid": 284,
+      "location": 2,
+      "content": "outside of China, the U.S.,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 498.46,
+      "to": 499.56,
+      "sid": 285,
+      "location": 2,
+      "content": "Germany, and India,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 499.56,
+      "to": 502.12,
+      "sid": 286,
+      "location": 2,
+      "content": "as well as the rest of the world's countries",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 502.12,
+      "to": 502.92,
+      "sid": 287,
+      "location": 2,
+      "content": "In this area,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 502.92,
+      "to": 506.53,
+      "sid": 288,
+      "location": 2,
+      "content": "it's common to see scenes of cattle grazing alongside wind turbines",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 506.53,
+      "to": 507.81,
+      "sid": 289,
+      "location": 2,
+      "content": "From here, head north all the way.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 507.81,
+      "to": 510.27,
+      "sid": 290,
+      "location": 2,
+      "content": "There’s also a troubled youth center in the wilderness here.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 510.27,
+      "to": 511.25,
+      "sid": 291,
+      "location": 2,
+      "content": "Boys Ranch",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 511.25,
+      "to": 512.29,
+      "sid": 292,
+      "location": 2,
+      "content": "As you drive further north,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 512.29,
+      "to": 513.11,
+      "sid": 293,
+      "location": 2,
+      "content": "the landscape becomes drier.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 513.11,
+      "to": 514.25,
+      "sid": 294,
+      "location": 2,
+      "content": "Without irrigation equipment,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 514.25,
+      "to": 515.89,
+      "sid": 295,
+      "location": 2,
+      "content": "it’s impossible to grow crops.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 515.89,
+      "to": 517.47,
+      "sid": 296,
+      "location": 2,
+      "content": "So the land here is less valuable.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 517.47,
+      "to": 518.23,
+      "sid": 297,
+      "location": 2,
+      "content": "In 1939,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 518.23,
+      "to": 520.27,
+      "sid": 298,
+      "location": 2,
+      "content": "A former professional wrestler named Fly",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 520.27,
+      "to": 522.299,
+      "sid": 299,
+      "location": 2,
+      "content": "has leased a large piece of land on this hill",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 522.299,
+      "to": 523.419,
+      "sid": 300,
+      "location": 2,
+      "content": "to build a small town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 523.419,
+      "to": 525.779,
+      "sid": 301,
+      "location": 2,
+      "content": "for children who can't attend regular schools due to behavioral or family issues",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 525.779,
+      "to": 527.9,
+      "sid": 302,
+      "location": 2,
+      "content": "because they have problems at home or with their behavior",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 527.9,
+      "to": 530.18,
+      "sid": 303,
+      "location": 2,
+      "content": "apart from the teachers and troubled children",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 530.18,
+      "to": 531.24,
+      "sid": 304,
+      "location": 2,
+      "content": "there are no other residents in the town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 531.24,
+      "to": 532.34,
+      "sid": 305,
+      "location": 2,
+      "content": "Today is Thanksgiving break",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 532.34,
+      "to": 533.4,
+      "sid": 306,
+      "location": 2,
+      "content": "and everyone has left",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 533.4,
+      "to": 535.18,
+      "sid": 307,
+      "location": 2,
+      "content": "I'm here today to show you all",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 535.18,
+      "to": 537.32,
+      "sid": 308,
+      "location": 2,
+      "content": "what a town looks like when all its residents have vanished.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 537.32,
+      "to": 539.96,
+      "sid": 309,
+      "location": 2,
+      "content": "Once humans leave, the original inhabitants of the land come out.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 539.96,
+      "to": 542.2,
+      "sid": 310,
+      "location": 2,
+      "content": "Many deer are grazing in the children's park.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 542.2,
+      "to": 544.72,
+      "sid": 311,
+      "location": 2,
+      "content": "Perhaps this is what the world will look like if humans disappear in the future.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 544.72,
+      "to": 545.24,
+      "sid": 312,
+      "location": 2,
+      "content": "This question.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 545.24,
+      "to": 548.18,
+      "sid": 313,
+      "location": 2,
+      "content": "The children's center in the town is usually open for visits to the school.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 548.18,
+      "to": 550.04,
+      "sid": 314,
+      "location": 2,
+      "content": "Most of the small houses here are libraries.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 550.04,
+      "to": 551.11,
+      "sid": 315,
+      "location": 2,
+      "content": "and other buildings like classrooms.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 551.11,
+      "to": 553.25,
+      "sid": 316,
+      "location": 2,
+      "content": "Right in the center, there’s also a post office and a fire station.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 553.25,
+      "to": 554.63,
+      "sid": 317,
+      "location": 2,
+      "content": "Beyond the core area of the town,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 554.63,
+      "to": 555.91,
+      "sid": 318,
+      "location": 2,
+      "content": "there are outdoor activities,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 555.91,
+      "to": 557.07,
+      "sid": 319,
+      "location": 2,
+      "content": "like horseback riding and fishing.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 557.07,
+      "to": 559.43,
+      "sid": 320,
+      "location": 2,
+      "content": "While it feels a bit similar to that mental hospital in Florida I visited before,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 559.43,
+      "to": 560.589,
+      "sid": 321,
+      "location": 2,
+      "content": "I still quite fancy coming here for school.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 560.589,
+      "to": 562.809,
+      "sid": 322,
+      "location": 2,
+      "content": "I wandered around this town for half an hour,",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 562.809,
+      "to": 564.589,
+      "sid": 323,
+      "location": 2,
+      "content": "and the only person I saw was a guy who came here to fish.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 564.589,
+      "to": 567.35,
+      "sid": 324,
+      "location": 2,
+      "content": "The only person I saw was an old guy who came here to fish.",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 567.35,
+      "to": 568.83,
+      "sid": 325,
+      "location": 2,
+      "content": "Leaving the Problem Children Town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 568.83,
+      "to": 571.84,
+      "sid": 326,
+      "location": 2,
+      "content": "Continuing north to a town called Channing with a population of 481",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 571.84,
+      "to": 573.82,
+      "sid": 327,
+      "location": 2,
+      "content": "The land feels increasingly barren on both sides",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 573.82,
+      "to": 577.36,
+      "sid": 328,
+      "location": 2,
+      "content": "I'm currently in Hartley County, which borders New Mexico",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 577.36,
+      "to": 578.64,
+      "sid": 329,
+      "location": 2,
+      "content": "This area can already be considered",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 578.64,
+      "to": 580.7,
+      "sid": 330,
+      "location": 2,
+      "content": "a mix of grassland and desert",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 580.7,
+      "to": 582.94,
+      "sid": 331,
+      "location": 2,
+      "content": "No wonder the road leads into the town for the cattle to graze",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 582.94,
+      "to": 584.52,
+      "sid": 332,
+      "location": 2,
+      "content": "Now I'm entering the town of Frontlin",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 584.52,
+      "to": 585.62,
+      "sid": 333,
+      "location": 2,
+      "content": "Here in the late 19th century",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 585.62,
+      "to": 586.3,
+      "sid": 334,
+      "location": 2,
+      "content": "it used to be",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 586.3,
+      "to": 588.82,
+      "sid": 335,
+      "location": 2,
+      "content": "a ranch company about twice the size of Shanghai",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 588.82,
+      "to": 590.77,
+      "sid": 336,
+      "location": 2,
+      "content": "the headquarters of the XIT Ranch",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 590.77,
+      "to": 593.45,
+      "sid": 337,
+      "location": 2,
+      "content": "After the ranch company went bankrupt in 1911",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 593.45,
+      "to": 595.09,
+      "sid": 338,
+      "location": 2,
+      "content": "the town declined as well",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 595.09,
+      "to": 597.65,
+      "sid": 339,
+      "location": 2,
+      "content": "Now Channing is more like a roadside supply station",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 597.65,
+      "to": 600.41,
+      "sid": 340,
+      "location": 2,
+      "content": "After all, there are occasionally large trucks passing through this town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 600.41,
+      "to": 602.54,
+      "sid": 341,
+      "location": 2,
+      "content": "All the businesses here are run by Mexicans",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 602.54,
+      "to": 603.76,
+      "sid": 342,
+      "location": 2,
+      "content": "Even though today is Thanksgiving",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 603.76,
+      "to": 605.54,
+      "sid": 343,
+      "location": 2,
+      "content": "the Mexican owner told me",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 605.54,
+      "to": 606.44,
+      "sid": 344,
+      "location": 2,
+      "content": "he has no wife or children",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 606.44,
+      "to": 608.56,
+      "sid": 345,
+      "location": 2,
+      "content": "running this store alone in such a remote place",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 608.56,
+      "to": 610.21,
+      "sid": 346,
+      "location": 2,
+      "content": "it doesn’t really matter whether it’s a holiday or not",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 610.21,
+      "to": 612.83,
+      "sid": 347,
+      "location": 2,
+      "content": "I took the opportunity to buy a Mexican burrito from him",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 612.83,
+      "to": 614.53,
+      "sid": 348,
+      "location": 2,
+      "content": "There are actually quite a few drivers passing through here",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 614.53,
+      "to": 616.18,
+      "sid": 349,
+      "location": 2,
+      "content": "most of them look like they are from Latin America",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 616.18,
+      "to": 617.58,
+      "sid": 350,
+      "location": 2,
+      "content": "These hollowed-out American rural areas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 617.58,
+      "to": 619.1,
+      "sid": 351,
+      "location": 2,
+      "content": "would be even more desolate without these Mexicans holding them up",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 619.1,
+      "to": 620.98,
+      "sid": 352,
+      "location": 2,
+      "content": "The current situation would definitely be even more bleak",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 620.98,
+      "to": 623.44,
+      "sid": 353,
+      "location": 2,
+      "content": "Apart from this Mexican store in Submarine Town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 623.44,
+      "to": 624.5,
+      "sid": 354,
+      "location": 2,
+      "content": "the newer-looking buildings",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 624.5,
+      "to": 625.62,
+      "sid": 355,
+      "location": 2,
+      "content": "and this old church",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 625.62,
+      "to": 627.9,
+      "sid": 356,
+      "location": 2,
+      "content": "I imagine the locals have put in a lot of effort to maintain it",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 627.9,
+      "to": 628.58,
+      "sid": 357,
+      "location": 2,
+      "content": "In addition",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 628.58,
+      "to": 630.7,
+      "sid": 358,
+      "location": 2,
+      "content": "there’s a row of huge grain silos to the north of the town",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 630.7,
+      "to": 632.859,
+      "sid": 359,
+      "location": 2,
+      "content": "They look quite impressive as you pass by",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 632.859,
+      "to": 634.579,
+      "sid": 360,
+      "location": 2,
+      "content": "This part of Texas is much more primitive compared to places like Dallas",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 634.579,
+      "to": 636.379,
+      "sid": 361,
+      "location": 2,
+      "content": "and Houston",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 636.379,
+      "to": 637.939,
+      "sid": 362,
+      "location": 2,
+      "content": "I wonder what you all think about it",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 637.939,
+      "to": 639.459,
+      "sid": 363,
+      "location": 2,
+      "content": "That's it for this video",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    },
+    {
+      "from": 639.459,
+      "to": 642.42,
+      "sid": 364,
+      "location": 2,
+      "content": "Follow me to explore more places that ordinary people don’t usually visit",
+      "music": 0.0,
+      "version": "qwen72_v0.0.4"
+    }
+  ]
+}

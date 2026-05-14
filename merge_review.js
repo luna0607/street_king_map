@@ -1,7 +1,7 @@
 'use strict';
 
-const REVIEW_URL = '../data/merge_review.json';
-const VIDEOS_URL = '../data/videos.json';
+const REVIEW_URL = 'data/merge_review.json';
+const VIDEOS_URL = 'data/videos.json';
 const API_REVIEW = '/api/merge_review';
 const LS_KEY = 'merge_review_v2';
 
@@ -416,7 +416,7 @@ async function save() {
       return;
     }
     const body = JSON.parse(text);
-    if (!body.ok) throw new Error(body.error || 'save rejected');
+    if (!body.ok) throw new Error(body.error || '保存被拒绝');
     dirty = false;
     setStatus(T.saved(body.items), 'ok');
   } catch {

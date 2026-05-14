@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>完善地图 · 街头小小小霸王地图</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="admin">
+<header class="bar">
+  <h1>完善地图 · 点位数据</h1>
+  <div class="bar-right">
+    <input id="filter" type="search" placeholder="通过标题 / 日期 / BV号过滤…">
+    <span id="stats" class="status"></span>
+    <span id="save-status" class="status" data-kind=""></span>
+    <button id="submit-gh" class="btn primary" hidden>提交到 GitHub</button>
+    <button id="download" class="btn ghost">导出</button>
+    <button id="reload" class="btn ghost">刷新</button>
+    <a class="btn ghost" href="merge_review.html">合并选择 →</a>
+    <a class="btn ghost" href="index.html">← 地图</a>
+  </div>
+</header>
+<div class="desktop-hint">💡 建议在电脑上访问管理页面以获得最佳体验。</div>
+<p id="hint" class="hint"></p>
+<main id="list"></main>
+
+<dialog id="edit-dialog" class="modal">
+  <form id="edit-form" method="dialog">
+    <header class="modal-head">
+      <h3 id="edit-title">编辑点位</h3>
+      <button type="button" class="icon-btn" data-close>×</button>
+    </header>
+    <label>地点名称
+      <input name="place_name" type="text" placeholder="可选">
+    </label>
+    <label>Google 地图 URL
+      <input name="google_maps_url" type="url" required>
+    </label>
+    <span id="edit-coord-hint" class="coord-hint"></span>
+    <label>备注
+      <textarea name="comment" rows="2" placeholder="可选"></textarea>
+    </label>
+    <footer class="modal-foot">
+      <button type="button" class="btn ghost" data-close>取消</button>
+      <button type="submit" class="btn primary">保存</button>
+    </footer>
+  </form>
+</dialog>
+
+<dialog id="submit-dialog" class="modal">
+  <div>
+    <header class="modal-head">
+      <h3>准备提交</h3>
+      <button type="button" class="icon-btn" data-close>×</button>
+    </header>
+    <p>预填好的 GitHub issue 表单已在新标签页中打开。<strong>请在该页面点击 "Submit new issue"</strong> 以完成提交 — 需要
+      <a href="https://github.com/signup" target="_blank" rel="noopener">GitHub 账号</a>。</p>
+    <p>提交后，机器人大约需要 <strong>1–2 分钟</strong> 来运行、开启 Pull Request 并将 PR 链接回复在 issue 下。您可以在 
+      <a href="https://github.com/luna0607/street_king_map/actions" target="_blank" rel="noopener">Actions 标签页</a> 观察进度。</p>
+    <p class="subtle">您的编辑仍保存在此浏览器中，因此如果出现意外，您不会丢失这些更改。在维护者合并 PR 后，这些点位将出现在公开地图上，您本地的“新”标记将自动清除。</p>
+    <div id="submit-dialog-summary" class="summary"></div>
+    <footer class="modal-foot">
+      <button type="button" class="btn ghost" id="submit-reopen">重新打开 Issue 表单</button>
+      <button type="button" class="btn ghost" id="submit-export">下载 JSON 代替</button>
+      <button type="button" class="btn primary" data-close>知道了</button>
+    </footer>
+  </div>
+</dialog>
+
+<script src="admin.js"></script>
+</body>
+</html>

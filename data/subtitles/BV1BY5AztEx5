@@ -1,0 +1,2468 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.52,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来到了美国最穷的州密西西比乡下",
+      "music": 0.0
+    },
+    {
+      "from": 2.52,
+      "to": 4.0,
+      "sid": 2,
+      "location": 2,
+      "content": "一个94.56%",
+      "music": 0.0
+    },
+    {
+      "from": 4.0,
+      "to": 5.56,
+      "sid": 3,
+      "location": 2,
+      "content": "都是黑人的2000人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 5.56,
+      "to": 6.64,
+      "sid": 4,
+      "location": 2,
+      "content": "谢尔比小智",
+      "music": 0.0
+    },
+    {
+      "from": 6.64,
+      "to": 9.62,
+      "sid": 5,
+      "location": 2,
+      "content": "这条半废弃主街上面大部分的店铺都空置了",
+      "music": 0.0
+    },
+    {
+      "from": 9.62,
+      "to": 10.88,
+      "sid": 6,
+      "location": 2,
+      "content": "除了开在街角的一家",
+      "music": 0.0
+    },
+    {
+      "from": 10.88,
+      "to": 13.1,
+      "sid": 7,
+      "location": 2,
+      "content": "已经有百年历史的中国杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 13.1,
+      "to": 15.42,
+      "sid": 8,
+      "location": 2,
+      "content": "西雅比周边的密西西比河三角洲地区",
+      "music": 0.0
+    },
+    {
+      "from": 15.42,
+      "to": 17.59,
+      "sid": 9,
+      "location": 2,
+      "content": "曾经是美国最重要的棉花产地",
+      "music": 0.0
+    },
+    {
+      "from": 17.59,
+      "to": 18.63,
+      "sid": 10,
+      "location": 2,
+      "content": "南北战争之后",
+      "music": 0.0
+    },
+    {
+      "from": 18.63,
+      "to": 19.75,
+      "sid": 11,
+      "location": 2,
+      "content": "黑人获得了自由",
+      "music": 0.0
+    },
+    {
+      "from": 19.75,
+      "to": 22.33,
+      "sid": 12,
+      "location": 2,
+      "content": "很多白人农场主为了寻求更便宜的劳工",
+      "music": 0.0
+    },
+    {
+      "from": 22.33,
+      "to": 24.9,
+      "sid": 13,
+      "location": 2,
+      "content": "从广东的4亿地区引入了不少中国人",
+      "music": 0.0
+    },
+    {
+      "from": 24.9,
+      "to": 25.92,
+      "sid": 14,
+      "location": 2,
+      "content": "来这一块种地",
+      "music": 0.0
+    },
+    {
+      "from": 25.92,
+      "to": 29.25,
+      "sid": 15,
+      "location": 2,
+      "content": "但聪慧的华人们反倒很快在这块做起了生意",
+      "music": 0.0
+    },
+    {
+      "from": 29.25,
+      "to": 30.13,
+      "sid": 16,
+      "location": 2,
+      "content": "在20世纪",
+      "music": 0.0
+    },
+    {
+      "from": 30.13,
+      "to": 32.21,
+      "sid": 17,
+      "location": 2,
+      "content": "基本上这片地区所有的黑人小镇上",
+      "music": 0.0
+    },
+    {
+      "from": 32.21,
+      "to": 34.27,
+      "sid": 18,
+      "location": 2,
+      "content": "都会有一家华人开的小杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 34.27,
+      "to": 36.11,
+      "sid": 19,
+      "location": 2,
+      "content": "但随着这块农村地区的衰落",
+      "music": 0.0
+    },
+    {
+      "from": 36.11,
+      "to": 37.61,
+      "sid": 20,
+      "location": 2,
+      "content": "就业机会也越来越少",
+      "music": 0.0
+    },
+    {
+      "from": 37.61,
+      "to": 39.93,
+      "sid": 21,
+      "location": 2,
+      "content": "最早一批老广东华人退休了之后",
+      "music": 0.0
+    },
+    {
+      "from": 39.93,
+      "to": 41.57,
+      "sid": 22,
+      "location": 2,
+      "content": "他们的后代纷纷离开了这里",
+      "music": 0.0
+    },
+    {
+      "from": 41.57,
+      "to": 43.47,
+      "sid": 23,
+      "location": 2,
+      "content": "到城市里寻找更好的生活",
+      "music": 0.0
+    },
+    {
+      "from": 43.47,
+      "to": 45.79,
+      "sid": 24,
+      "location": 2,
+      "content": "这家在谢尔比的詹姆斯品质市场",
+      "music": 0.0
+    },
+    {
+      "from": 45.79,
+      "to": 48.16,
+      "sid": 25,
+      "location": 2,
+      "content": "算是为数不多仅存的华人超市了",
+      "music": 0.0
+    },
+    {
+      "from": 48.16,
+      "to": 50.24,
+      "sid": 26,
+      "location": 2,
+      "content": "2004年老的老板退休的时候",
+      "music": 0.0
+    },
+    {
+      "from": 50.24,
+      "to": 52.19,
+      "sid": 27,
+      "location": 2,
+      "content": "就有一对福建夫妻经营",
+      "music": 0.0
+    },
+    {
+      "from": 52.19,
+      "to": 54.99,
+      "sid": 28,
+      "location": 2,
+      "content": "我这里在这个探联算中心都有人",
+      "music": 0.0
+    },
+    {
+      "from": 54.99,
+      "to": 56.87,
+      "sid": 29,
+      "location": 2,
+      "content": "一直就是比较税嘛",
+      "music": 0.0
+    },
+    {
+      "from": 56.87,
+      "to": 58.27,
+      "sid": 30,
+      "location": 2,
+      "content": "都是几块钱几块钱",
+      "music": 0.0
+    },
+    {
+      "from": 58.27,
+      "to": 59.88,
+      "sid": 31,
+      "location": 2,
+      "content": "有人进来买伊利的糖",
+      "music": 0.0
+    },
+    {
+      "from": 59.88,
+      "to": 61.58,
+      "sid": 32,
+      "location": 2,
+      "content": "有人买买饮料啊",
+      "music": 0.0
+    },
+    {
+      "from": 61.58,
+      "to": 63.17,
+      "sid": 33,
+      "location": 2,
+      "content": "这里主要比较方便嗯",
+      "music": 0.0
+    },
+    {
+      "from": 63.17,
+      "to": 66.39,
+      "sid": 34,
+      "location": 2,
+      "content": "为什么你看邮电局银行都在这对面",
+      "music": 0.0
+    },
+    {
+      "from": 66.39,
+      "to": 67.63,
+      "sid": 35,
+      "location": 2,
+      "content": "老四家是警察",
+      "music": 0.0
+    },
+    {
+      "from": 67.63,
+      "to": 69.13,
+      "sid": 36,
+      "location": 2,
+      "content": "警局火烧了",
+      "music": 0.0
+    },
+    {
+      "from": 69.13,
+      "to": 69.95,
+      "sid": 37,
+      "location": 2,
+      "content": "被烧了",
+      "music": 0.0
+    },
+    {
+      "from": 69.95,
+      "to": 74.06,
+      "sid": 38,
+      "location": 2,
+      "content": "然后现在这个整栋办公楼当关掉了关掉",
+      "music": 0.0
+    },
+    {
+      "from": 74.06,
+      "to": 76.94,
+      "sid": 39,
+      "location": 2,
+      "content": "然后警察局搬到这个图书馆里面去了",
+      "music": 0.0
+    },
+    {
+      "from": 76.94,
+      "to": 78.82,
+      "sid": 40,
+      "location": 2,
+      "content": "这个郑州西也就是你们家开",
+      "music": 0.0
+    },
+    {
+      "from": 78.82,
+      "to": 80.51,
+      "sid": 41,
+      "location": 2,
+      "content": "其他都都开了呃",
+      "music": 0.0
+    },
+    {
+      "from": 80.51,
+      "to": 82.35,
+      "sid": 42,
+      "location": 2,
+      "content": "店很多都瓜得了很多的",
+      "music": 0.0
+    },
+    {
+      "from": 82.35,
+      "to": 84.97,
+      "sid": 43,
+      "location": 2,
+      "content": "我觉得这些老黑都挺挺善良",
+      "music": 0.0
+    },
+    {
+      "from": 84.97,
+      "to": 88.07,
+      "sid": 44,
+      "location": 2,
+      "content": "别的西林里面大城市有没有他比较凶",
+      "music": 0.0
+    },
+    {
+      "from": 88.07,
+      "to": 89.65,
+      "sid": 45,
+      "location": 2,
+      "content": "她这边都挺善良",
+      "music": 0.0
+    },
+    {
+      "from": 89.65,
+      "to": 91.27,
+      "sid": 46,
+      "location": 2,
+      "content": "以前像我们到我们店",
+      "music": 0.0
+    },
+    {
+      "from": 91.27,
+      "to": 93.39,
+      "sid": 47,
+      "location": 2,
+      "content": "他就是有点小偷小偷",
+      "music": 0.0
+    },
+    {
+      "from": 93.39,
+      "to": 94.39,
+      "sid": 48,
+      "location": 2,
+      "content": "别的不会",
+      "music": 0.0
+    },
+    {
+      "from": 94.39,
+      "to": 95.59,
+      "sid": 49,
+      "location": 2,
+      "content": "嗯嗯我我跟你说",
+      "music": 0.0
+    },
+    {
+      "from": 95.59,
+      "to": 98.43,
+      "sid": 50,
+      "location": 2,
+      "content": "我这个店有两次门都忘记关了",
+      "music": 0.0
+    },
+    {
+      "from": 98.43,
+      "to": 102.97,
+      "sid": 51,
+      "location": 2,
+      "content": "有一次呢早上送货公司都送进来的货起来",
+      "music": 0.0
+    },
+    {
+      "from": 102.97,
+      "to": 103.89,
+      "sid": 52,
+      "location": 2,
+      "content": "哎呀还没开门",
+      "music": 0.0
+    },
+    {
+      "from": 103.89,
+      "to": 105.36,
+      "sid": 53,
+      "location": 2,
+      "content": "早上起来货都进来了",
+      "music": 0.0
+    },
+    {
+      "from": 105.36,
+      "to": 107.64,
+      "sid": 54,
+      "location": 2,
+      "content": "哈哈我们后面有地方住嘛",
+      "music": 0.0
+    },
+    {
+      "from": 107.64,
+      "to": 108.84,
+      "sid": 55,
+      "location": 2,
+      "content": "然后因为上班累了",
+      "music": 0.0
+    },
+    {
+      "from": 108.84,
+      "to": 110.14,
+      "sid": 56,
+      "location": 2,
+      "content": "就这样没回去了",
+      "music": 0.0
+    },
+    {
+      "from": 110.14,
+      "to": 112.72,
+      "sid": 57,
+      "location": 2,
+      "content": "然后这边开车回去要半个多小时",
+      "music": 0.0
+    },
+    {
+      "from": 112.72,
+      "to": 114.43,
+      "sid": 58,
+      "location": 2,
+      "content": "所以说我们就住到后面",
+      "music": 0.0
+    },
+    {
+      "from": 114.43,
+      "to": 115.61,
+      "sid": 59,
+      "location": 2,
+      "content": "有的男的回去",
+      "music": 0.0
+    },
+    {
+      "from": 115.61,
+      "to": 117.09,
+      "sid": 60,
+      "location": 2,
+      "content": "这些箱子都整到那",
+      "music": 0.0
+    },
+    {
+      "from": 117.09,
+      "to": 118.31,
+      "sid": 61,
+      "location": 2,
+      "content": "有的能卖好多哦",
+      "music": 0.0
+    },
+    {
+      "from": 118.31,
+      "to": 121.15,
+      "sid": 62,
+      "location": 2,
+      "content": "住的地方有有有三三个房间",
+      "music": 0.0
+    },
+    {
+      "from": 121.15,
+      "to": 123.29,
+      "sid": 63,
+      "location": 2,
+      "content": "这样店是田字形的",
+      "music": 0.0
+    },
+    {
+      "from": 123.29,
+      "to": 124.57,
+      "sid": 64,
+      "location": 2,
+      "content": "这里前面开店",
+      "music": 0.0
+    },
+    {
+      "from": 124.57,
+      "to": 126.3,
+      "sid": 65,
+      "location": 2,
+      "content": "这里就田字形的一个口",
+      "music": 0.0
+    },
+    {
+      "from": 126.3,
+      "to": 127.46,
+      "sid": 66,
+      "location": 2,
+      "content": "才开一个口",
+      "music": 0.0
+    },
+    {
+      "from": 127.46,
+      "to": 130.12,
+      "sid": 67,
+      "location": 2,
+      "content": "然后面仓库这边是住的地方",
+      "music": 0.0
+    },
+    {
+      "from": 130.12,
+      "to": 132.14,
+      "sid": 68,
+      "location": 2,
+      "content": "以前我们请了一对夫妻呀",
+      "music": 0.0
+    },
+    {
+      "from": 132.14,
+      "to": 134.86,
+      "sid": 69,
+      "location": 2,
+      "content": "这个功能它就这个就这小仙",
+      "music": 0.0
+    },
+    {
+      "from": 134.86,
+      "to": 136.85,
+      "sid": 70,
+      "location": 2,
+      "content": "他喜欢在小小的在这里面",
+      "music": 0.0
+    },
+    {
+      "from": 136.85,
+      "to": 138.89,
+      "sid": 71,
+      "location": 2,
+      "content": "不过有一说一赚钱不如省钱",
+      "music": 0.0
+    },
+    {
+      "from": 138.89,
+      "to": 140.43,
+      "sid": 72,
+      "location": 2,
+      "content": "要说省钱还得看转转",
+      "music": 0.0
+    },
+    {
+      "from": 140.43,
+      "to": 141.73,
+      "sid": 73,
+      "location": 2,
+      "content": "这时候去他们家买手机",
+      "music": 0.0
+    },
+    {
+      "from": 141.73,
+      "to": 142.55,
+      "sid": 74,
+      "location": 2,
+      "content": "非常划算",
+      "music": 0.0
+    },
+    {
+      "from": 142.55,
+      "to": 144.99,
+      "sid": 75,
+      "location": 2,
+      "content": "这台95成新IPHONE14pro只要3000",
+      "music": 0.0
+    },
+    {
+      "from": 144.99,
+      "to": 145.81,
+      "sid": 76,
+      "location": 2,
+      "content": "728元",
+      "music": 0.0
+    },
+    {
+      "from": 145.81,
+      "to": 146.99,
+      "sid": 77,
+      "location": 2,
+      "content": "相当于新机的三折",
+      "music": 0.0
+    },
+    {
+      "from": 146.99,
+      "to": 147.98,
+      "sid": 78,
+      "location": 2,
+      "content": "性价比超高",
+      "music": 0.0
+    },
+    {
+      "from": 147.98,
+      "to": 149.38,
+      "sid": 79,
+      "location": 2,
+      "content": "而且这招不止有手机",
+      "music": 0.0
+    },
+    {
+      "from": 149.38,
+      "to": 150.7,
+      "sid": 80,
+      "location": 2,
+      "content": "IPAD和大疆pocket3",
+      "music": 0.0
+    },
+    {
+      "from": 150.7,
+      "to": 151.62,
+      "sid": 81,
+      "location": 2,
+      "content": "价格也很实惠",
+      "music": 0.0
+    },
+    {
+      "from": 151.62,
+      "to": 153.58,
+      "sid": 82,
+      "location": 2,
+      "content": "这招是专业的官方一二手平台",
+      "music": 0.0
+    },
+    {
+      "from": 153.58,
+      "to": 155.3,
+      "sid": 83,
+      "location": 2,
+      "content": "拥有多种专利质检设备",
+      "music": 0.0
+    },
+    {
+      "from": 155.3,
+      "to": 157.72,
+      "sid": 84,
+      "location": 2,
+      "content": "每个商品都经过专业工程师的全面检验",
+      "music": 0.0
+    },
+    {
+      "from": 157.72,
+      "to": 160.36,
+      "sid": 85,
+      "location": 2,
+      "content": "并支持七天无理由退货和一年保修",
+      "music": 0.0
+    },
+    {
+      "from": 160.36,
+      "to": 161.68,
+      "sid": 86,
+      "location": 2,
+      "content": "现在去转转搜索口令",
+      "music": 0.0
+    },
+    {
+      "from": 161.68,
+      "to": 163.9,
+      "sid": 87,
+      "location": 2,
+      "content": "大牌补贴还能领最高千元优惠券",
+      "music": 0.0
+    },
+    {
+      "from": 163.9,
+      "to": 165.02,
+      "sid": 88,
+      "location": 2,
+      "content": "趁着平台有活动",
+      "music": 0.0
+    },
+    {
+      "from": 165.02,
+      "to": 165.84,
+      "sid": 89,
+      "location": 2,
+      "content": "大家快去转转",
+      "music": 0.0
+    },
+    {
+      "from": 165.84,
+      "to": 167.43,
+      "sid": 90,
+      "location": 2,
+      "content": "更新一波数码产品吧",
+      "music": 0.0
+    },
+    {
+      "from": 167.43,
+      "to": 168.49,
+      "sid": 91,
+      "location": 2,
+      "content": "回到希尔比小镇",
+      "music": 0.0
+    },
+    {
+      "from": 168.49,
+      "to": 170.67,
+      "sid": 92,
+      "location": 2,
+      "content": "这个房间就是老板一家住的地方",
+      "music": 0.0
+    },
+    {
+      "from": 170.67,
+      "to": 172.31,
+      "sid": 93,
+      "location": 2,
+      "content": "他们虽然在30分钟之外",
+      "music": 0.0
+    },
+    {
+      "from": 172.31,
+      "to": 175.11,
+      "sid": 94,
+      "location": 2,
+      "content": "一个大一点的城市里面还有一套纯住的房子",
+      "music": 0.0
+    },
+    {
+      "from": 175.11,
+      "to": 176.35,
+      "sid": 95,
+      "location": 2,
+      "content": "但如果上了一天班",
+      "music": 0.0
+    },
+    {
+      "from": 176.35,
+      "to": 177.35,
+      "sid": 96,
+      "location": 2,
+      "content": "累了不想回去了",
+      "music": 0.0
+    },
+    {
+      "from": 177.35,
+      "to": 178.66,
+      "sid": 97,
+      "location": 2,
+      "content": "他们就会住在店里",
+      "music": 0.0
+    },
+    {
+      "from": 178.66,
+      "to": 180.66,
+      "sid": 98,
+      "location": 2,
+      "content": "这里的房间和空间是真的多",
+      "music": 0.0
+    },
+    {
+      "from": 180.66,
+      "to": 182.26,
+      "sid": 99,
+      "location": 2,
+      "content": "甚至都可以开家旅店了",
+      "music": 0.0
+    },
+    {
+      "from": 182.26,
+      "to": 184.84,
+      "sid": 100,
+      "location": 2,
+      "content": "一些空着的房间如今就改成了储藏室",
+      "music": 0.0
+    },
+    {
+      "from": 184.84,
+      "to": 187.88,
+      "sid": 101,
+      "location": 2,
+      "content": "各位觉得这个跟超市一体的住宅区怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 187.88,
+      "to": 189.22,
+      "sid": 102,
+      "location": 2,
+      "content": "除了卖普通商品",
+      "music": 0.0
+    },
+    {
+      "from": 189.22,
+      "to": 191.32,
+      "sid": 103,
+      "location": 2,
+      "content": "这里还有一些黑人爱吃的熟食",
+      "music": 0.0
+    },
+    {
+      "from": 191.32,
+      "to": 192.5,
+      "sid": 104,
+      "location": 2,
+      "content": "炸鸡增",
+      "music": 0.0
+    },
+    {
+      "from": 192.5,
+      "to": 194.68,
+      "sid": 105,
+      "location": 2,
+      "content": "他们他们喜欢吃这个",
+      "music": 0.0
+    },
+    {
+      "from": 194.68,
+      "to": 196.88,
+      "sid": 106,
+      "location": 2,
+      "content": "对很多很多老美接受不了这个的",
+      "music": 0.0
+    },
+    {
+      "from": 196.88,
+      "to": 198.94,
+      "sid": 107,
+      "location": 2,
+      "content": "但是老黑喜欢牛肝阿萨",
+      "music": 0.0
+    },
+    {
+      "from": 198.94,
+      "to": 200.99,
+      "sid": 108,
+      "location": 2,
+      "content": "Ok is your thing yes",
+      "music": 0.0
+    },
+    {
+      "from": 200.99,
+      "to": 201.39,
+      "sid": 109,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 201.39,
+      "to": 201.77,
+      "sid": 110,
+      "location": 2,
+      "content": "Yes",
+      "music": 0.0
+    },
+    {
+      "from": 201.77,
+      "to": 202.81,
+      "sid": 111,
+      "location": 2,
+      "content": "She cool man",
+      "music": 0.0
+    },
+    {
+      "from": 202.81,
+      "to": 203.87,
+      "sid": 112,
+      "location": 2,
+      "content": "She cool man",
+      "music": 0.0
+    },
+    {
+      "from": 203.87,
+      "to": 204.89,
+      "sid": 113,
+      "location": 2,
+      "content": "You like the mo",
+      "music": 0.0
+    },
+    {
+      "from": 204.89,
+      "to": 205.99,
+      "sid": 114,
+      "location": 2,
+      "content": "哈哈good",
+      "music": 0.0
+    },
+    {
+      "from": 205.99,
+      "to": 206.41,
+      "sid": 115,
+      "location": 2,
+      "content": "Be good",
+      "music": 0.0
+    },
+    {
+      "from": 206.41,
+      "to": 209.09,
+      "sid": 116,
+      "location": 2,
+      "content": "At ui mean",
+      "music": 0.0
+    },
+    {
+      "from": 209.09,
+      "to": 210.53,
+      "sid": 117,
+      "location": 2,
+      "content": "Gime a salt tta",
+      "music": 0.0
+    },
+    {
+      "from": 210.53,
+      "to": 211.57,
+      "sid": 118,
+      "location": 2,
+      "content": "Have some drinking now",
+      "music": 0.0
+    },
+    {
+      "from": 211.57,
+      "to": 211.93,
+      "sid": 119,
+      "location": 2,
+      "content": "Well",
+      "music": 0.0
+    },
+    {
+      "from": 211.93,
+      "to": 213.87,
+      "sid": 120,
+      "location": 2,
+      "content": "在我们这边吃好了啊",
+      "music": 0.0
+    },
+    {
+      "from": 213.87,
+      "to": 215.03,
+      "sid": 121,
+      "location": 2,
+      "content": "你们有地方吃吗",
+      "music": 0.0
+    },
+    {
+      "from": 215.03,
+      "to": 216.19,
+      "sid": 122,
+      "location": 2,
+      "content": "有你做了",
+      "music": 0.0
+    },
+    {
+      "from": 216.19,
+      "to": 217.05,
+      "sid": 123,
+      "location": 2,
+      "content": "你们吃吗",
+      "music": 0.0
+    },
+    {
+      "from": 217.05,
+      "to": 217.89,
+      "sid": 124,
+      "location": 2,
+      "content": "有地方坐啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.89,
+      "to": 220.85,
+      "sid": 125,
+      "location": 2,
+      "content": "嗯我不要我不要我不要赢了",
+      "music": 0.0
+    },
+    {
+      "from": 220.85,
+      "to": 223.71,
+      "sid": 126,
+      "location": 2,
+      "content": "没事没事没事没事",
+      "music": 0.0
+    },
+    {
+      "from": 223.71,
+      "to": 224.61,
+      "sid": 127,
+      "location": 2,
+      "content": "老板很热情",
+      "music": 0.0
+    },
+    {
+      "from": 224.61,
+      "to": 225.73,
+      "sid": 128,
+      "location": 2,
+      "content": "说是要给我加点肉",
+      "music": 0.0
+    },
+    {
+      "from": 225.73,
+      "to": 226.69,
+      "sid": 129,
+      "location": 2,
+      "content": "送点饮料啥的",
+      "music": 0.0
+    },
+    {
+      "from": 226.69,
+      "to": 228.06,
+      "sid": 130,
+      "location": 2,
+      "content": "我说正常量就行",
+      "music": 0.0
+    },
+    {
+      "from": 228.06,
+      "to": 230.04,
+      "sid": 131,
+      "location": 2,
+      "content": "老观众都知道我的饭量有多大",
+      "music": 0.0
+    },
+    {
+      "from": 230.04,
+      "to": 232.04,
+      "sid": 132,
+      "location": 2,
+      "content": "但是这个饭我是真一顿吃不完",
+      "music": 0.0
+    },
+    {
+      "from": 232.04,
+      "to": 232.88,
+      "sid": 133,
+      "location": 2,
+      "content": "量太大了",
+      "music": 0.0
+    },
+    {
+      "from": 232.88,
+      "to": 233.86,
+      "sid": 134,
+      "location": 2,
+      "content": "肉量其实挺多",
+      "music": 0.0
+    },
+    {
+      "from": 233.86,
+      "to": 234.98,
+      "sid": 135,
+      "location": 2,
+      "content": "但是由于米太多",
+      "music": 0.0
+    },
+    {
+      "from": 234.98,
+      "to": 236.44,
+      "sid": 136,
+      "location": 2,
+      "content": "反倒是显得肉比较少",
+      "music": 0.0
+    },
+    {
+      "from": 236.44,
+      "to": 237.82,
+      "sid": 137,
+      "location": 2,
+      "content": "这个炒饭味道偏咸",
+      "music": 0.0
+    },
+    {
+      "from": 237.82,
+      "to": 238.94,
+      "sid": 138,
+      "location": 2,
+      "content": "酱油加的比较多",
+      "music": 0.0
+    },
+    {
+      "from": 238.94,
+      "to": 240.6,
+      "sid": 139,
+      "location": 2,
+      "content": "这比较符合黑人的口味",
+      "music": 0.0
+    },
+    {
+      "from": 240.6,
+      "to": 241.88,
+      "sid": 140,
+      "location": 2,
+      "content": "我也挺爱吃的",
+      "music": 0.0
+    },
+    {
+      "from": 241.88,
+      "to": 243.08,
+      "sid": 141,
+      "location": 2,
+      "content": "如果不在店里吃",
+      "music": 0.0
+    },
+    {
+      "from": 243.08,
+      "to": 244.7,
+      "sid": 142,
+      "location": 2,
+      "content": "店外面还有好多张椅子",
+      "music": 0.0
+    },
+    {
+      "from": 244.7,
+      "to": 247.02,
+      "sid": 143,
+      "location": 2,
+      "content": "这个超市是镇上人流量最大的地方",
+      "music": 0.0
+    },
+    {
+      "from": 247.02,
+      "to": 250.25,
+      "sid": 144,
+      "location": 2,
+      "content": "很多本地人就喜欢坐在这里晒太阳或者乘凉猫",
+      "music": 0.0
+    },
+    {
+      "from": 250.25,
+      "to": 250.93,
+      "sid": 145,
+      "location": 2,
+      "content": "是你们的吗",
+      "music": 0.0
+    },
+    {
+      "from": 250.93,
+      "to": 251.85,
+      "sid": 146,
+      "location": 2,
+      "content": "不是我们的",
+      "music": 0.0
+    },
+    {
+      "from": 251.85,
+      "to": 253.05,
+      "sid": 147,
+      "location": 2,
+      "content": "它都在我们门口",
+      "music": 0.0
+    },
+    {
+      "from": 253.05,
+      "to": 255.66,
+      "sid": 148,
+      "location": 2,
+      "content": "因为别人也会买买猫屎给它哦",
+      "music": 0.0
+    },
+    {
+      "from": 255.66,
+      "to": 257.98,
+      "sid": 149,
+      "location": 2,
+      "content": "谁说一天到晚都在这里哦",
+      "music": 0.0
+    },
+    {
+      "from": 257.98,
+      "to": 259.18,
+      "sid": 150,
+      "location": 2,
+      "content": "赶都赶不走",
+      "music": 0.0
+    },
+    {
+      "from": 259.18,
+      "to": 260.26,
+      "sid": 151,
+      "location": 2,
+      "content": "真挺可爱的",
+      "music": 0.0
+    },
+    {
+      "from": 260.26,
+      "to": 261.08,
+      "sid": 152,
+      "location": 2,
+      "content": "不是挺好",
+      "music": 0.0
+    },
+    {
+      "from": 261.08,
+      "to": 263.76,
+      "sid": 153,
+      "location": 2,
+      "content": "这头尾巴它被火烧了",
+      "music": 0.0
+    },
+    {
+      "from": 263.76,
+      "to": 266.16,
+      "sid": 154,
+      "location": 2,
+      "content": "他们也都不坐那边关门",
+      "music": 0.0
+    },
+    {
+      "from": 266.16,
+      "to": 268.32,
+      "sid": 155,
+      "location": 2,
+      "content": "然后夏天的坐在那",
+      "music": 0.0
+    },
+    {
+      "from": 268.32,
+      "to": 270.3,
+      "sid": 156,
+      "location": 2,
+      "content": "虽然说这家超市的地理位置超偏",
+      "music": 0.0
+    },
+    {
+      "from": 270.3,
+      "to": 271.98,
+      "sid": 157,
+      "location": 2,
+      "content": "但我已经来过这三次了",
+      "music": 0.0
+    },
+    {
+      "from": 271.98,
+      "to": 274.47,
+      "sid": 158,
+      "location": 2,
+      "content": "去年6月我来过一次密西西比拍视频",
+      "music": 0.0
+    },
+    {
+      "from": 274.47,
+      "to": 276.63,
+      "sid": 159,
+      "location": 2,
+      "content": "那个时候拍的超市素材不太满意",
+      "music": 0.0
+    },
+    {
+      "from": 276.63,
+      "to": 277.32,
+      "sid": 160,
+      "location": 2,
+      "content": "就没有发",
+      "music": 0.0
+    },
+    {
+      "from": 277.32,
+      "to": 278.52,
+      "sid": 161,
+      "location": 2,
+      "content": "今年第一次去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 278.52,
+      "to": 279.9,
+      "sid": 162,
+      "location": 2,
+      "content": "店里面正好准备关门",
+      "music": 0.0
+    },
+    {
+      "from": 279.9,
+      "to": 281.68,
+      "sid": 163,
+      "location": 2,
+      "content": "我也不好意思耽误老板下班",
+      "music": 0.0
+    },
+    {
+      "from": 281.68,
+      "to": 283.7,
+      "sid": 164,
+      "location": 2,
+      "content": "我后来第二天早上才又去一次",
+      "music": 0.0
+    },
+    {
+      "from": 283.7,
+      "to": 285.12,
+      "sid": 165,
+      "location": 2,
+      "content": "拍到了店里面的情况",
+      "music": 0.0
+    },
+    {
+      "from": 285.12,
+      "to": 286.88,
+      "sid": 166,
+      "location": 2,
+      "content": "如果各位能点赞支持一下",
+      "music": 0.0
+    },
+    {
+      "from": 286.88,
+      "to": 288.08,
+      "sid": 167,
+      "location": 2,
+      "content": "我将非常感谢",
+      "music": 0.0
+    },
+    {
+      "from": 288.08,
+      "to": 290.36,
+      "sid": 168,
+      "location": 2,
+      "content": "还有一个神奇的巧合是我去年去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 290.36,
+      "to": 291.28,
+      "sid": 169,
+      "location": 2,
+      "content": "只有男老板在",
+      "music": 0.0
+    },
+    {
+      "from": 291.28,
+      "to": 292.08,
+      "sid": 170,
+      "location": 2,
+      "content": "女老板不在",
+      "music": 0.0
+    },
+    {
+      "from": 292.08,
+      "to": 293.0,
+      "sid": 171,
+      "location": 2,
+      "content": "今年去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 293.0,
+      "to": 293.64,
+      "sid": 172,
+      "location": 2,
+      "content": "女老板在",
+      "music": 0.0
+    },
+    {
+      "from": 293.64,
+      "to": 295.04,
+      "sid": 173,
+      "location": 2,
+      "content": "但是男老板回国了",
+      "music": 0.0
+    },
+    {
+      "from": 295.04,
+      "to": 296.44,
+      "sid": 174,
+      "location": 2,
+      "content": "当然我来这里这么多次",
+      "music": 0.0
+    },
+    {
+      "from": 296.44,
+      "to": 298.36,
+      "sid": 175,
+      "location": 2,
+      "content": "确实也是因为我很喜欢这个小镇",
+      "music": 0.0
+    },
+    {
+      "from": 298.36,
+      "to": 299.94,
+      "sid": 176,
+      "location": 2,
+      "content": "这边的本地人都很友好",
+      "music": 0.0
+    },
+    {
+      "from": 299.94,
+      "to": 300.8,
+      "sid": 177,
+      "location": 2,
+      "content": "而且这家超市",
+      "music": 0.0
+    },
+    {
+      "from": 300.8,
+      "to": 303.28,
+      "sid": 178,
+      "location": 2,
+      "content": "在很多本地人心中的地位是蛮高的",
+      "music": 0.0
+    },
+    {
+      "from": 303.28,
+      "to": 305.52,
+      "sid": 179,
+      "location": 2,
+      "content": "再加上这一块只有这么一家中国人",
+      "music": 0.0
+    },
+    {
+      "from": 305.52,
+      "to": 308.0,
+      "sid": 180,
+      "location": 2,
+      "content": "所有本地人见我就问是不是他们的亲戚",
+      "music": 0.0
+    },
+    {
+      "from": 308.0,
+      "to": 309.04,
+      "sid": 181,
+      "location": 2,
+      "content": "我后面懒得解释",
+      "music": 0.0
+    },
+    {
+      "from": 309.04,
+      "to": 310.86,
+      "sid": 182,
+      "location": 2,
+      "content": "就统一说我是他们的nephew",
+      "music": 0.0
+    },
+    {
+      "from": 310.86,
+      "to": 312.32,
+      "sid": 183,
+      "location": 2,
+      "content": "哎呀我这都20年了",
+      "music": 0.0
+    },
+    {
+      "from": 312.32,
+      "to": 314.16,
+      "sid": 184,
+      "location": 2,
+      "content": "他这个祖宗18代我都知道了",
+      "music": 0.0
+    },
+    {
+      "from": 314.16,
+      "to": 317.52,
+      "sid": 185,
+      "location": 2,
+      "content": "又讲他爸妈妈妈那个什么外婆啊",
+      "music": 0.0
+    },
+    {
+      "from": 317.52,
+      "to": 318.84,
+      "sid": 186,
+      "location": 2,
+      "content": "你爷奶奶的我们都知道",
+      "music": 0.0
+    },
+    {
+      "from": 318.84,
+      "to": 320.26,
+      "sid": 187,
+      "location": 2,
+      "content": "孩子什么都懂哦",
+      "music": 0.0
+    },
+    {
+      "from": 320.26,
+      "to": 320.92,
+      "sid": 188,
+      "location": 2,
+      "content": "都认识",
+      "music": 0.0
+    },
+    {
+      "from": 320.92,
+      "to": 322.38,
+      "sid": 189,
+      "location": 2,
+      "content": "基本上都认识的",
+      "music": 0.0
+    },
+    {
+      "from": 322.38,
+      "to": 323.56,
+      "sid": 190,
+      "location": 2,
+      "content": "他这个很小啊",
+      "music": 0.0
+    },
+    {
+      "from": 323.56,
+      "to": 324.16,
+      "sid": 191,
+      "location": 2,
+      "content": "那个很小",
+      "music": 0.0
+    },
+    {
+      "from": 324.16,
+      "to": 326.5,
+      "sid": 192,
+      "location": 2,
+      "content": "我这个很多卖买肉的客人",
+      "music": 0.0
+    },
+    {
+      "from": 326.5,
+      "to": 328.08,
+      "sid": 193,
+      "location": 2,
+      "content": "他都是别的地方过来的",
+      "music": 0.0
+    },
+    {
+      "from": 328.08,
+      "to": 330.12,
+      "sid": 194,
+      "location": 2,
+      "content": "大概到5号六号这样的开始",
+      "music": 0.0
+    },
+    {
+      "from": 330.12,
+      "to": 332.26,
+      "sid": 195,
+      "location": 2,
+      "content": "然后他是粮食券那边钱",
+      "music": 0.0
+    },
+    {
+      "from": 332.26,
+      "to": 333.24,
+      "sid": 196,
+      "location": 2,
+      "content": "政府补贴的钱",
+      "music": 0.0
+    },
+    {
+      "from": 333.24,
+      "to": 334.66,
+      "sid": 197,
+      "location": 2,
+      "content": "进来以后就给你好",
+      "music": 0.0
+    },
+    {
+      "from": 334.66,
+      "to": 336.66,
+      "sid": 198,
+      "location": 2,
+      "content": "5号六号是他们那个snap",
+      "music": 0.0
+    },
+    {
+      "from": 336.66,
+      "to": 338.4,
+      "sid": 199,
+      "location": 2,
+      "content": "他就是一比七啊",
+      "music": 0.0
+    },
+    {
+      "from": 338.4,
+      "to": 339.56,
+      "sid": 200,
+      "location": 2,
+      "content": "对EDG那个钱",
+      "music": 0.0
+    },
+    {
+      "from": 339.56,
+      "to": 340.8,
+      "sid": 201,
+      "location": 2,
+      "content": "我第三次去超市的时候",
+      "music": 0.0
+    },
+    {
+      "from": 340.8,
+      "to": 341.84,
+      "sid": 202,
+      "location": 2,
+      "content": "老板还给我发了个图",
+      "music": 0.0
+    },
+    {
+      "from": 341.84,
+      "to": 344.26,
+      "sid": 203,
+      "location": 2,
+      "content": "说我前脚刚走就成了一个肉的大单",
+      "music": 0.0
+    },
+    {
+      "from": 344.26,
+      "to": 345.24,
+      "sid": 204,
+      "location": 2,
+      "content": "数据上来说",
+      "music": 0.0
+    },
+    {
+      "from": 345.24,
+      "to": 347.84,
+      "sid": 205,
+      "location": 2,
+      "content": "西雅比这个小镇的贫困率都到了60%",
+      "music": 0.0
+    },
+    {
+      "from": 347.84,
+      "to": 348.68,
+      "sid": 206,
+      "location": 2,
+      "content": "只要够穷的话",
+      "music": 0.0
+    },
+    {
+      "from": 348.68,
+      "to": 350.48,
+      "sid": 207,
+      "location": 2,
+      "content": "在美国是可以拿到大概200刀",
+      "music": 0.0
+    },
+    {
+      "from": 350.48,
+      "to": 351.68,
+      "sid": 208,
+      "location": 2,
+      "content": "一个月的食品补助的",
+      "music": 0.0
+    },
+    {
+      "from": 351.68,
+      "to": 353.36,
+      "sid": 209,
+      "location": 2,
+      "content": "这个店很大一部分收入是来自于",
+      "music": 0.0
+    },
+    {
+      "from": 353.36,
+      "to": 354.7,
+      "sid": 210,
+      "location": 2,
+      "content": "美国低保食品卡",
+      "music": 0.0
+    },
+    {
+      "from": 354.7,
+      "to": 356.08,
+      "sid": 211,
+      "location": 2,
+      "content": "这里的人虽然没啥钱",
+      "music": 0.0
+    },
+    {
+      "from": 356.08,
+      "to": 357.38,
+      "sid": 212,
+      "location": 2,
+      "content": "但治安却挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 357.38,
+      "to": 359.2,
+      "sid": 213,
+      "location": 2,
+      "content": "大家都算是朴实的村民",
+      "music": 0.0
+    },
+    {
+      "from": 359.2,
+      "to": 360.26,
+      "sid": 214,
+      "location": 2,
+      "content": "没什么生意",
+      "music": 0.0
+    },
+    {
+      "from": 360.26,
+      "to": 361.1,
+      "sid": 215,
+      "location": 2,
+      "content": "下午找光荣",
+      "music": 0.0
+    },
+    {
+      "from": 361.1,
+      "to": 363.69,
+      "sid": 216,
+      "location": 2,
+      "content": "然后半天准备去外面去买东西",
+      "music": 0.0
+    },
+    {
+      "from": 363.69,
+      "to": 364.55,
+      "sid": 217,
+      "location": 2,
+      "content": "往里面逛",
+      "music": 0.0
+    },
+    {
+      "from": 364.55,
+      "to": 366.55,
+      "sid": 218,
+      "location": 2,
+      "content": "就是进来这扇门忘记关了吗",
+      "music": 0.0
+    },
+    {
+      "from": 366.55,
+      "to": 368.65,
+      "sid": 219,
+      "location": 2,
+      "content": "上回是出去那扇门忘记关了",
+      "music": 0.0
+    },
+    {
+      "from": 368.65,
+      "to": 369.39,
+      "sid": 220,
+      "location": 2,
+      "content": "没事吧",
+      "music": 0.0
+    },
+    {
+      "from": 369.39,
+      "to": 370.61,
+      "sid": 221,
+      "location": 2,
+      "content": "进来这边一推诶",
+      "music": 0.0
+    },
+    {
+      "from": 370.61,
+      "to": 373.11,
+      "sid": 222,
+      "location": 2,
+      "content": "进来有人就跟警察局账",
+      "music": 0.0
+    },
+    {
+      "from": 373.11,
+      "to": 374.27,
+      "sid": 223,
+      "location": 2,
+      "content": "跟警察这样",
+      "music": 0.0
+    },
+    {
+      "from": 374.27,
+      "to": 375.57,
+      "sid": 224,
+      "location": 2,
+      "content": "我门忘记关了",
+      "music": 0.0
+    },
+    {
+      "from": 377.19,
+      "to": 378.61,
+      "sid": 225,
+      "location": 2,
+      "content": "都打到我们手机上",
+      "music": 0.0
+    },
+    {
+      "from": 378.61,
+      "to": 380.07,
+      "sid": 226,
+      "location": 2,
+      "content": "今年六十六十啊",
+      "music": 0.0
+    },
+    {
+      "from": 380.07,
+      "to": 381.03,
+      "sid": 227,
+      "location": 2,
+      "content": "我60了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 381.03,
+      "to": 383.07,
+      "sid": 228,
+      "location": 2,
+      "content": "我在中国都退休10年了",
+      "music": 0.0
+    },
+    {
+      "from": 383.07,
+      "to": 384.83,
+      "sid": 229,
+      "location": 2,
+      "content": "然后现在我们要退休了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 384.83,
+      "to": 385.59,
+      "sid": 230,
+      "location": 2,
+      "content": "就想卖掉",
+      "music": 0.0
+    },
+    {
+      "from": 385.59,
+      "to": 386.51,
+      "sid": 231,
+      "location": 2,
+      "content": "帮我宣传一下",
+      "music": 0.0
+    },
+    {
+      "from": 386.51,
+      "to": 387.47,
+      "sid": 232,
+      "location": 2,
+      "content": "我真的想卖掉",
+      "music": 0.0
+    },
+    {
+      "from": 387.47,
+      "to": 388.82,
+      "sid": 233,
+      "location": 2,
+      "content": "哈哈哈哈卖掉",
+      "music": 0.0
+    },
+    {
+      "from": 388.82,
+      "to": 390.46,
+      "sid": 234,
+      "location": 2,
+      "content": "我退休回国了啊",
+      "music": 0.0
+    },
+    {
+      "from": 390.46,
+      "to": 391.62,
+      "sid": 235,
+      "location": 2,
+      "content": "退休准备回福建",
+      "music": 0.0
+    },
+    {
+      "from": 391.62,
+      "to": 391.9,
+      "sid": 236,
+      "location": 2,
+      "content": "啊",
+      "music": 0.0
+    },
+    {
+      "from": 391.9,
+      "to": 392.54,
+      "sid": 237,
+      "location": 2,
+      "content": "啊对呀",
+      "music": 0.0
+    },
+    {
+      "from": 392.54,
+      "to": 393.12,
+      "sid": 238,
+      "location": 2,
+      "content": "回福建",
+      "music": 0.0
+    },
+    {
+      "from": 393.12,
+      "to": 395.54,
+      "sid": 239,
+      "location": 2,
+      "content": "这家杂货店不止在谢尔比小镇里很有名",
+      "music": 0.0
+    },
+    {
+      "from": 395.54,
+      "to": 396.7,
+      "sid": 240,
+      "location": 2,
+      "content": "周围的地区也都知道",
+      "music": 0.0
+    },
+    {
+      "from": 396.7,
+      "to": 397.75,
+      "sid": 241,
+      "location": 2,
+      "content": "他们家在这",
+      "music": 0.0
+    },
+    {
+      "from": 397.75,
+      "to": 400.13,
+      "sid": 242,
+      "location": 2,
+      "content": "南边还有一个百分之百的居民都是黑人的小镇",
+      "music": 0.0
+    },
+    {
+      "from": 400.13,
+      "to": 401.06,
+      "sid": 243,
+      "location": 2,
+      "content": "蒙德拜龙",
+      "music": 0.0
+    },
+    {
+      "from": 401.06,
+      "to": 402.92,
+      "sid": 244,
+      "location": 2,
+      "content": "这里有两个我们频道的老朋友",
+      "music": 0.0
+    },
+    {
+      "from": 402.92,
+      "to": 404.3,
+      "sid": 245,
+      "location": 2,
+      "content": "我也顺便问了一下老爷子",
+      "music": 0.0
+    },
+    {
+      "from": 404.3,
+      "to": 405.74,
+      "sid": 246,
+      "location": 2,
+      "content": "他对这家杂货店的印象",
+      "music": 0.0
+    },
+    {
+      "from": 405.74,
+      "to": 408.74,
+      "sid": 247,
+      "location": 2,
+      "content": "Remember growing up and knowing about this",
+      "music": 0.0
+    },
+    {
+      "from": 408.74,
+      "to": 409.78,
+      "sid": 248,
+      "location": 2,
+      "content": "The chinese store",
+      "music": 0.0
+    },
+    {
+      "from": 409.78,
+      "to": 411.08,
+      "sid": 249,
+      "location": 2,
+      "content": "Shelby uh",
+      "music": 0.0
+    },
+    {
+      "from": 411.08,
+      "to": 412.48,
+      "sid": 250,
+      "location": 2,
+      "content": "Because it was kind of always there",
+      "music": 0.0
+    },
+    {
+      "from": 412.48,
+      "to": 412.86,
+      "sid": 251,
+      "location": 2,
+      "content": "Of course",
+      "music": 0.0
+    },
+    {
+      "from": 412.86,
+      "to": 414.52,
+      "sid": 252,
+      "location": 2,
+      "content": "It's probably new ownership",
+      "music": 0.0
+    },
+    {
+      "from": 414.52,
+      "to": 415.67,
+      "sid": 253,
+      "location": 2,
+      "content": "Now you know",
+      "music": 0.0
+    },
+    {
+      "from": 415.67,
+      "to": 416.89,
+      "sid": 254,
+      "location": 2,
+      "content": "Maybe the younger kids or something",
+      "music": 0.0
+    },
+    {
+      "from": 416.89,
+      "to": 417.81,
+      "sid": 255,
+      "location": 2,
+      "content": "I have no idea",
+      "music": 0.0
+    },
+    {
+      "from": 417.81,
+      "to": 418.65,
+      "sid": 256,
+      "location": 2,
+      "content": "But yeah",
+      "music": 0.0
+    },
+    {
+      "from": 418.65,
+      "to": 420.47,
+      "sid": 257,
+      "location": 2,
+      "content": "I've always known that to me that",
+      "music": 0.0
+    },
+    {
+      "from": 420.47,
+      "to": 420.83,
+      "sid": 258,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 420.83,
+      "to": 421.03,
+      "sid": 259,
+      "location": 2,
+      "content": "Yeah",
+      "music": 0.0
+    },
+    {
+      "from": 421.03,
+      "to": 421.55,
+      "sid": 260,
+      "location": 2,
+      "content": "Long time",
+      "music": 0.0
+    },
+    {
+      "from": 421.55,
+      "to": 423.92,
+      "sid": 261,
+      "location": 2,
+      "content": "Goois good and try to get ache for you",
+      "music": 0.0
+    },
+    {
+      "from": 423.92,
+      "to": 426.51,
+      "sid": 262,
+      "location": 2,
+      "content": "I like for you from from james",
+      "music": 0.0
+    },
+    {
+      "from": 426.51,
+      "to": 427.39,
+      "sid": 263,
+      "location": 2,
+      "content": "大爷说的芙蓉蛋",
+      "music": 0.0
+    },
+    {
+      "from": 427.39,
+      "to": 429.55,
+      "sid": 264,
+      "location": 2,
+      "content": "大概是美国黑人最爱吃的中餐之一",
+      "music": 0.0
+    },
+    {
+      "from": 429.55,
+      "to": 431.03,
+      "sid": 265,
+      "location": 2,
+      "content": "不过做芙蓉蛋太麻烦了",
+      "music": 0.0
+    },
+    {
+      "from": 431.03,
+      "to": 432.73,
+      "sid": 266,
+      "location": 2,
+      "content": "很多中餐厅现在都不卖了",
+      "music": 0.0
+    },
+    {
+      "from": 432.73,
+      "to": 435.05,
+      "sid": 267,
+      "location": 2,
+      "content": "一转又来到了离谢尔比一个小时车程的",
+      "music": 0.0
+    },
+    {
+      "from": 435.05,
+      "to": 436.57,
+      "sid": 268,
+      "location": 2,
+      "content": "1700人小镇伊塔比",
+      "music": 0.0
+    },
+    {
+      "from": 436.57,
+      "to": 439.11,
+      "sid": 269,
+      "location": 2,
+      "content": "那这个小镇的主街跟谢尔比差不多",
+      "music": 0.0
+    },
+    {
+      "from": 439.11,
+      "to": 441.38,
+      "sid": 270,
+      "location": 2,
+      "content": "大部分的房子都是这种荒废状态",
+      "music": 0.0
+    },
+    {
+      "from": 441.38,
+      "to": 443.22,
+      "sid": 271,
+      "location": 2,
+      "content": "而如今来老镇中心购物的人",
+      "music": 0.0
+    },
+    {
+      "from": 443.22,
+      "to": 445.84,
+      "sid": 272,
+      "location": 2,
+      "content": "大部分都是来这家看着很有年头的杂货店",
+      "music": 0.0
+    },
+    {
+      "from": 445.84,
+      "to": 447.82,
+      "sid": 273,
+      "location": 2,
+      "content": "同样这家店也是华人开的",
+      "music": 0.0
+    },
+    {
+      "from": 447.82,
+      "to": 448.54,
+      "sid": 274,
+      "location": 2,
+      "content": "这个伊塔比",
+      "music": 0.0
+    },
+    {
+      "from": 448.54,
+      "to": 449.58,
+      "sid": 275,
+      "location": 2,
+      "content": "那也跟希尔比一样",
+      "music": 0.0
+    },
+    {
+      "from": 449.58,
+      "to": 452.32,
+      "sid": 276,
+      "location": 2,
+      "content": "是在密西西比河三角洲地区的黑人小镇",
+      "music": 0.0
+    },
+    {
+      "from": 452.32,
+      "to": 453.86,
+      "sid": 277,
+      "location": 2,
+      "content": "这家还是百年老店了",
+      "music": 0.0
+    },
+    {
+      "from": 453.86,
+      "to": 456.06,
+      "sid": 278,
+      "location": 2,
+      "content": "后来卖给几十年前移民的广东人",
+      "music": 0.0
+    },
+    {
+      "from": 456.06,
+      "to": 457.82,
+      "sid": 279,
+      "location": 2,
+      "content": "虽然大爷和阿姨都很友善",
+      "music": 0.0
+    },
+    {
+      "from": 457.82,
+      "to": 460.72,
+      "sid": 280,
+      "location": 2,
+      "content": "但是我们用普通话和英语都有一点难沟通",
+      "music": 0.0
+    },
+    {
+      "from": 460.72,
+      "to": 462.52,
+      "sid": 281,
+      "location": 2,
+      "content": "主要还是怪我不会讲广东话",
+      "music": 0.0
+    },
+    {
+      "from": 462.52,
+      "to": 463.4,
+      "sid": 282,
+      "location": 2,
+      "content": "不过问题不大",
+      "music": 0.0
+    },
+    {
+      "from": 463.4,
+      "to": 464.86,
+      "sid": 283,
+      "location": 2,
+      "content": "我点了一个他们的炒饭",
+      "music": 0.0
+    },
+    {
+      "from": 464.86,
+      "to": 465.3,
+      "sid": 284,
+      "location": 2,
+      "content": "怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 465.3,
+      "to": 467.8,
+      "sid": 285,
+      "location": 2,
+      "content": "好像跟谢尔比那个炒饭长得一模一样的呢",
+      "music": 0.0
+    },
+    {
+      "from": 467.8,
+      "to": 469.18,
+      "sid": 286,
+      "location": 2,
+      "content": "可能是黑人都爱吃这种",
+      "music": 0.0
+    },
+    {
+      "from": 469.18,
+      "to": 470.6,
+      "sid": 287,
+      "location": 2,
+      "content": "然后他们正好在吃晚饭",
+      "music": 0.0
+    },
+    {
+      "from": 470.6,
+      "to": 472.78,
+      "sid": 288,
+      "location": 2,
+      "content": "就给我送了一个鱼片之类的东西",
+      "music": 0.0
+    },
+    {
+      "from": 472.78,
+      "to": 474.02,
+      "sid": 289,
+      "location": 2,
+      "content": "虽然我不知道这个菜是什么",
+      "music": 0.0
+    },
+    {
+      "from": 474.02,
+      "to": 474.92,
+      "sid": 290,
+      "location": 2,
+      "content": "但挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 474.92,
+      "to": 476.66,
+      "sid": 291,
+      "location": 2,
+      "content": "吃了一半我才想起来拍一下",
+      "music": 0.0
+    },
+    {
+      "from": 476.66,
+      "to": 478.5,
+      "sid": 292,
+      "location": 2,
+      "content": "有广东朋友知道这是什么吗",
+      "music": 0.0
+    },
+    {
+      "from": 478.5,
+      "to": 480.46,
+      "sid": 293,
+      "location": 2,
+      "content": "我也给大家带了一点江苏特产",
+      "music": 0.0
+    },
+    {
+      "from": 480.46,
+      "to": 481.68,
+      "sid": 294,
+      "location": 2,
+      "content": "他也非常的认可",
+      "music": 0.0
+    },
+    {
+      "from": 481.68,
+      "to": 483.52,
+      "sid": 295,
+      "location": 2,
+      "content": "这个店里同样也有卖鸡爪之类的",
+      "music": 0.0
+    },
+    {
+      "from": 483.52,
+      "to": 484.4,
+      "sid": 296,
+      "location": 2,
+      "content": "南方黑人之外",
+      "music": 0.0
+    },
+    {
+      "from": 484.4,
+      "to": 485.52,
+      "sid": 297,
+      "location": 2,
+      "content": "美国人不吃的肉",
+      "music": 0.0
+    },
+    {
+      "from": 485.52,
+      "to": 486.44,
+      "sid": 298,
+      "location": 2,
+      "content": "这个店最特别的",
+      "music": 0.0
+    },
+    {
+      "from": 486.44,
+      "to": 487.78,
+      "sid": 299,
+      "location": 2,
+      "content": "好像他们卖很多渔具",
+      "music": 0.0
+    },
+    {
+      "from": 487.78,
+      "to": 489.64,
+      "sid": 300,
+      "location": 2,
+      "content": "毕竟店主人自己就爱钓鱼",
+      "music": 0.0
+    },
+    {
+      "from": 489.64,
+      "to": 490.82,
+      "sid": 301,
+      "location": 2,
+      "content": "在密西西比州乡下",
+      "music": 0.0
+    },
+    {
+      "from": 490.82,
+      "to": 493.5,
+      "sid": 302,
+      "location": 2,
+      "content": "这片完全没有新华人移民的贫困黑人农村",
+      "music": 0.0
+    },
+    {
+      "from": 493.5,
+      "to": 496.24,
+      "sid": 303,
+      "location": 2,
+      "content": "其实老华人跟黑人之间有很多有趣的历史",
+      "music": 0.0
+    },
+    {
+      "from": 496.24,
+      "to": 498.36,
+      "sid": 304,
+      "location": 2,
+      "content": "之后我还会出两期相关的视频",
+      "music": 0.0
+    },
+    {
+      "from": 498.36,
+      "to": 499.44,
+      "sid": 305,
+      "location": 2,
+      "content": "这期就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 499.44,
+      "to": 499.9,
+      "sid": 306,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 499.9,
+      "to": 502.66,
+      "sid": 307,
+      "location": 2,
+      "content": "带你去更多普通人不会涉足的地方探索",
+      "music": 0.0
+    }
+  ]
+}

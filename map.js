@@ -50,8 +50,8 @@ load();
 async function load() {
   try {
     const [videos, locations] = await Promise.all([
-      fetch("../data/videos.json", { cache: "no-store" }).then((r) => r.json()),
-      fetch("../data/locations.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/videos.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/locations.json", { cache: "no-store" }).then((r) => r.json()),
     ]);
     videoByBv = new Map(videos.map((v) => [v.bv, v]));
     locationsByBv = locations || {};
@@ -59,7 +59,7 @@ async function load() {
     // If a panel was open, keep it in sync with refreshed data.
     if (selectedBv && videoByBv.has(selectedBv)) renderPanel();
   } catch (err) {
-    statusEl.textContent = "Failed to load data";
+    statusEl.textContent = "加载数据失败";
     console.error(err);
   }
 }
@@ -91,9 +91,9 @@ function render(videos) {
     videoCount++;
   }
 
-  const pieces = [`${videoCount} videos`, `${pinCount} pin${pinCount === 1 ? "" : "s"}`];
-  if (unresolved) pieces.push(`${unresolved} unresolved`);
-  pieces.push(`${videos.length} total`);
+  const pieces = [`${videoCount} 个视频`, `${pinCount} 个点位`];
+  if (unresolved) pieces.push(`${unresolved} 个未解析点位`);
+  pieces.push(`共 ${videos.length} 个视频`);
   statusEl.textContent = pieces.join(" · ");
 }
 
@@ -155,6 +155,8 @@ function focusLocation(idx) {
 
 function openPanel() {
   panelEl.hidden = false;
+  panelEl.style.transition = '';
+  panelEl.style.transform = '';
   mapFullscreenBtn.hidden = false;
   document.body.classList.add("panel-open");
   renderPanel();
@@ -194,7 +196,7 @@ function renderPanel() {
       <span>·</span><span>▶ ${esc(video.visit_volume)}</span>
       <span>·</span><span>💬 ${esc(video.danmu_volume)}</span>
     </div>
-    ${locs.length > 1 ? `<div class="panel-hint">${locs.length} locations — primary in blue, others in orange on the map</div>` : ""}
+    ${locs.length > 1 ? `<div class="panel-hint">${locs.length} 个地点 — 蓝色为主要地点，其余在地图上显示为橙色</div>` : ""}
     <ol class="panel-locs">${locs.map((loc, i) => renderLocCard(loc, i)).join("")}</ol>
   `;
 
@@ -214,11 +216,11 @@ function renderLocCard(loc, idx) {
     <li class="loc-card ${active ? "active" : ""}" data-loc-idx="${idx}">
       <div class="loc-head">
         <span class="loc-num" style="background:${badgeColor}">${idx + 1}</span>
-        <span class="loc-place">${esc(loc.place_name || "(unnamed)")}</span>
+        <span class="loc-place">${esc(loc.place_name || "(未命名)")}</span>
       </div>
       ${loc.comment ? `<p class="loc-comment">${esc(loc.comment)}</p>` : ""}
       <iframe class="loc-embed" src="${embed}" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      ${loc.google_maps_url ? `<a class="loc-gmaps" href="${esc(loc.google_maps_url)}" target="_blank" rel="noopener">Open in Google Maps ↗</a>` : ""}
+      ${loc.google_maps_url ? `<a class="loc-gmaps" href="${esc(loc.google_maps_url)}" target="_blank" rel="noopener">在 Google 地图中打开 ↗</a>` : ""}
     </li>
   `;
 }
@@ -238,3 +240,56 @@ function esc(s) {
     "'": "&#39;",
   })[c]);
 }
+
+// Mobile drag-to-close panel logic
+let dragStartY = 0;
+let isDraggingPanel = false;
+
+panelEl.addEventListener('touchstart', (e) => {
+  if (window.innerWidth > 720) return;
+  // Only initiate drag if panel is scrolled to the very top
+  if (panelEl.scrollTop <= 0) {
+    dragStartY = e.touches[0].clientY;
+    isDraggingPanel = true;
+    panelEl.style.transition = 'none';
+  }
+}, { passive: true });
+
+panelEl.addEventListener('touchmove', (e) => {
+  if (!isDraggingPanel || window.innerWidth > 720) return;
+  const dy = e.touches[0].clientY - dragStartY;
+  
+  if (dy > 0) {
+    // Prevent default scroll behavior while dragging down
+    if (e.cancelable) e.preventDefault();
+    panelEl.style.transform = `translateY(${dy}px)`;
+  } else {
+    // Dragging up, let it scroll normally
+    panelEl.style.transform = '';
+  }
+}, { passive: false });
+
+panelEl.addEventListener('touchend', (e) => {
+  if (!isDraggingPanel || window.innerWidth > 720) return;
+  const dy = e.changedTouches[0].clientY - dragStartY;
+  
+  if (dy > 80) { // threshold to close
+    panelEl.style.transition = 'transform 0.2s ease-out';
+    panelEl.style.transform = 'translateY(100%)'; // slide all the way down
+    
+    // wait for animation to finish before actually closing
+    setTimeout(() => {
+      closePanel();
+      panelEl.style.transition = '';
+      panelEl.style.transform = '';
+    }, 200);
+  } else {
+    // snap back
+    panelEl.style.transition = 'transform 0.2s ease-out';
+    panelEl.style.transform = '';
+    setTimeout(() => {
+      panelEl.style.transition = '';
+    }, 200);
+  }
+  isDraggingPanel = false;
+});
