@@ -511,6 +511,24 @@ resetDialog.addEventListener('click', (ev) => {
 });
 document.getElementById('download-review').addEventListener('click', downloadReview);
 
+document.getElementById('confirm-all-10').addEventListener('click', () => {
+  let count = 0;
+  review.forEach(r => {
+    if (r.decision && r.decision.action === 'merge' && r.decision.similarity === 1.0 && !r.decision.confirmed) {
+      r.decision.confirmed = true;
+      count++;
+    }
+  });
+  if (count > 0) {
+    dirty = true;
+    render();
+    scheduleSave();
+    alert(`已自动确认 ${count} 项相似度为 1.0 的合并建议。`);
+  } else {
+    alert('没有待确认的 1.0 合并建议。');
+  }
+});
+
 async function load() {
   setStatus(T.loading);
   try {

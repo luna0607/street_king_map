@@ -17,6 +17,7 @@
     <span id="stats" class="status"></span>
     <span id="save-status" class="status" data-kind=""></span>
     <button id="submit-gh" class="btn primary">提交到 GitHub</button>
+    <button id="add-video-btn" class="btn primary">添加视频</button>
     <button id="download" class="btn ghost">导出</button>
     <button id="reload" class="btn ghost" hidden>刷新</button>
     <a id="back-to-all" class="btn ghost" style="display:none">显示全部</a>
@@ -26,9 +27,11 @@
 <div class="desktop-hint">💡 建议在电脑上访问管理页面以获得最佳体验。</div>
 <div class="admin-filters">
   <div id="tabs" class="social-links">
-    <button class="rv-tab active" data-tab="all">全部</button>
-    <button class="rv-tab" data-tab="no-pins">无点位</button>
-    <button class="rv-tab" data-tab="need-more">需补全</button>
+    <button class="rv-tab active" data-tab="all">全部<span class="rv-tab-count" data-count="all"></span></button>
+    <button class="rv-tab" data-tab="no-pins">无点位<span class="rv-tab-count" data-count="no-pins"></span></button>
+    <button class="rv-tab" data-tab="need-more">需补全<span class="rv-tab-count" data-count="need-more"></span></button>
+    <button class="rv-tab" data-tab="yt-only">仅 YouTube<span class="rv-tab-count" data-count="yt-only"></span></button>
+    <button class="rv-tab" data-tab="bili-only">仅 Bilibili<span class="rv-tab-count" data-count="bili-only"></span></button>
   </div>
   <p class="filter-desc" id="tab-desc">显示所有视频内容。</p>
 </div>
@@ -54,6 +57,40 @@
     <footer class="modal-foot">
       <button type="button" class="btn ghost" data-close>取消</button>
       <button type="submit" class="btn primary">保存</button>
+    </footer>
+  </form>
+</dialog>
+
+<dialog id="add-video-dialog" class="modal">
+  <form id="add-video-form" method="dialog">
+    <header class="modal-head">
+      <h3>添加新视频</h3>
+      <button type="button" class="icon-btn" data-close>×</button>
+    </header>
+    <label>平台
+      <select name="platform">
+        <option value="bilibili">Bilibili</option>
+        <option value="youtube">YouTube</option>
+      </select>
+    </label>
+    <label>视频链接 / ID
+      <input name="video_url" type="text" placeholder="https://www.bilibili.com/video/BV... 或 BV..." required>
+    </label>
+    <label>标题
+      <input name="name" type="text" required>
+    </label>
+    <label>发布日期
+      <input name="post_date" type="date" required>
+    </label>
+    <label>缩略图 URL
+      <input name="thumbnail" type="text" placeholder="可选">
+    </label>
+    <label>时长
+      <input name="length" type="text" placeholder="例如 12:34">
+    </label>
+    <footer class="modal-foot">
+      <button type="button" class="btn ghost" data-close>取消</button>
+      <button type="submit" class="btn primary">添加</button>
     </footer>
   </form>
 </dialog>

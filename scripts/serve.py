@@ -37,6 +37,12 @@ class Handler(SimpleHTTPRequestHandler):
         if self.path == "/api/merge_review":
             self._save_json(MERGE_REVIEW, expect="array")
             return
+        if self.path == "/api/videos":
+            self._save_json(REPO / "data" / "videos.json", expect="array")
+            return
+        if self.path == "/api/yt_videos":
+            self._save_json(REPO / "data" / "yt_videos.json", expect="array")
+            return
         self.send_error(HTTPStatus.NOT_FOUND)
 
     def _save_json(self, target: Path, expect: str) -> None:

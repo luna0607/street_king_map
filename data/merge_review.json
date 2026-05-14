@@ -11,7 +11,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1rcdzBnEjd/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最古老的村庄：2026年依旧不通水电网，真就这么落后？",
@@ -54,9 +54,9 @@
       "action": "merge",
       "bv": "BV1rcdzBnEjd",
       "bilibili_name": "美国最古老的村庄：2026年依旧不通水电网，真就这么落后？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -71,7 +71,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV11HQ7BXENK/?spm_id_from=333.1387.upload.video_card.click",
           "name": "18美元极限穷游实测：如何一天内逛完7个美国沙漠小镇？",
@@ -114,9 +114,9 @@
       "action": "merge",
       "bv": "BV11HQ7BXENK",
       "bilibili_name": "18美元极限穷游实测：如何一天内逛完7个美国沙漠小镇？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -131,7 +131,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1eCDCB6Ewn/?spm_id_from=333.1387.upload.video_card.click",
           "name": "勇闯美国最穷最破州府：满街陨石坑+治安极差，居民却出奇善良？",
@@ -174,9 +174,9 @@
       "action": "merge",
       "bv": "BV1eCDCB6Ewn",
       "bilibili_name": "勇闯美国最穷最破州府：满街陨石坑+治安极差，居民却出奇善良？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -191,7 +191,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV17bSdByEYR/?spm_id_from=333.1387.upload.video_card.click",
           "name": "在川普支持率85%的超保守美国农村，乡镇二本华人教授会被歧视吗？",
@@ -234,9 +234,9 @@
       "action": "merge",
       "bv": "BV17bSdByEYR",
       "bilibili_name": "在川普支持率85%的超保守美国农村，乡镇二本华人教授会被歧视吗？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -251,7 +251,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1NNDAB5EWa/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国荒村商业全倒闭，唯一营业的竟是家人气中餐老店？老板成功秘诀其实很简单！",
@@ -294,9 +294,9 @@
       "action": "merge",
       "bv": "BV1NNDAB5EWa",
       "bilibili_name": "美国荒村商业全倒闭，唯一营业的竟是家人气中餐老店？老板成功秘诀其实很简单！",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -311,7 +311,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1eXXTByECp/?spm_id_from=333.1387.upload.video_card.click",
           "name": "勇闯美国2025年治安最差城市：旅游资源还超匮乏，真就这么糟？",
@@ -354,9 +354,9 @@
       "action": "merge",
       "bv": "BV1eXXTByECp",
       "bilibili_name": "勇闯美国2025年治安最差城市：旅游资源还超匮乏，真就这么糟？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -371,7 +371,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV17xf1BuEDL/?spm_id_from=333.1387.upload.video_card.click",
           "name": "贫困衰败，但民风依旧淳朴？探秘美国最偏远黑人区",
@@ -414,9 +414,9 @@
       "action": "merge",
       "bv": "BV17xf1BuEDL",
       "bilibili_name": "贫困衰败，但民风依旧淳朴？探秘美国最偏远黑人区",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -431,7 +431,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1dKfgBNEpb/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探访美国荒原上的落寞北欧村：当地文化为何渐渐消亡?",
@@ -474,9 +474,9 @@
       "action": "merge",
       "bv": "BV1dKfgBNEpb",
       "bilibili_name": "探访美国荒原上的落寞北欧村：当地文化为何渐渐消亡?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -491,7 +491,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV18YFmzKEZT/?spm_id_from=333.1387.upload.video_card.click",
           "name": "只靠公交，在美国谋杀之都最破败街区流浪一日",
@@ -534,9 +534,9 @@
       "action": "merge",
       "bv": "BV18YFmzKEZT",
       "bilibili_name": "只靠公交，在美国谋杀之都最破败街区流浪一日",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -551,7 +551,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1Ur6NBcEry/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国全奖博士，退学去沙漠当电工？脱下长衫，小哥却更幸福了！",
@@ -594,9 +594,9 @@
       "action": "merge",
       "bv": "BV1Ur6NBcEry",
       "bilibili_name": "美国全奖博士，退学去沙漠当电工？脱下长衫，小哥却更幸福了！",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -671,7 +671,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV19ymsBLEC8/?spm_id_from=333.1387.upload.video_card.click",
           "name": "纽约最偏远的农村：被时代遗弃的工业小镇与远离喧嚣的荒凉",
@@ -714,9 +714,9 @@
       "action": "merge",
       "bv": "BV19ymsBLEC8",
       "bilibili_name": "纽约最偏远的农村：被时代遗弃的工业小镇与远离喧嚣的荒凉",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -731,7 +731,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1zx25BREJd/?spm_id_from=333.1387.upload.video_card.click",
           "name": "深夜车抛锚在美国危险黑人区?被困当地一周生存纪实",
@@ -774,9 +774,9 @@
       "action": "merge",
       "bv": "BV1zx25BREJd",
       "bilibili_name": "深夜车抛锚在美国危险黑人区?被困当地一周生存纪实",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -791,7 +791,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1z1SFBxEtg/?spm_id_from=333.1387.upload.video_card.click",
           "name": "不开车，只靠乡镇公交勇闯美国山区农村一周，究竟有多痛苦折磨？",
@@ -834,9 +834,9 @@
       "action": "merge",
       "bv": "BV1z1SFBxEtg",
       "bilibili_name": "不开车，只靠乡镇公交勇闯美国山区农村一周，究竟有多痛苦折磨？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -851,7 +851,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1u1USB1EeB/?spm_id_from=333.1387.upload.video_card.click",
           "name": "全校仅56人!在美国296人荒村的农民高中留学,是什么样的体验?",
@@ -894,9 +894,9 @@
       "action": "merge",
       "bv": "BV1u1USB1EeB",
       "bilibili_name": "全校仅56人!在美国296人荒村的农民高中留学,是什么样的体验?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -964,7 +964,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1kGyuB3Eqi/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最冷清的县城:仅剩12人,人均81.5岁!这里即将消亡?",
@@ -1007,9 +1007,9 @@
       "action": "merge",
       "bv": "BV1kGyuB3Eqi",
       "bilibili_name": "美国最冷清的县城:仅剩12人,人均81.5岁!这里即将消亡?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1084,7 +1084,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1HR1SBZEvu/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最冷门的航线!仅2名乘客,每人还补贴2500美元?",
@@ -1127,9 +1127,9 @@
       "action": "merge",
       "bv": "BV1HR1SBZEvu",
       "bilibili_name": "美国最冷门的航线!仅2名乘客,每人还补贴2500美元?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1204,7 +1204,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1zXsoz6EF1/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国人口流失最严重的县：这里真就没有未来了吗？",
@@ -1247,9 +1247,9 @@
       "action": "merge",
       "bv": "BV1zXsoz6EF1",
       "bilibili_name": "美国人口流失最严重的县：这里真就没有未来了吗？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1324,7 +1324,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1FL4Tz6EWD/?spm_id_from=333.1387.upload.video_card.click",
           "name": "在美国最贫困黑人农村，寻找被遗忘的华人历史",
@@ -1367,9 +1367,9 @@
       "action": "merge",
       "bv": "BV1FL4Tz6EWD",
       "bilibili_name": "在美国最贫困黑人农村，寻找被遗忘的华人历史",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1444,7 +1444,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1jmHnztE5x/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国昔日最种族歧视的奇葩保守派大学,2025年去这留学安全吗？",
@@ -1487,9 +1487,9 @@
       "action": "merge",
       "bv": "BV1jmHnztE5x",
       "bilibili_name": "美国昔日最种族歧视的奇葩保守派大学,2025年去这留学安全吗？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1504,7 +1504,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1DLn2znE2g/?spm_id_from=333.1387.upload.video_card.click",
           "name": "纽约最神秘的区!游客绝迹的危险贫民窟?",
@@ -1547,9 +1547,9 @@
       "action": "merge",
       "bv": "BV1DLn2znE2g",
       "bilibili_name": "纽约最神秘的区!游客绝迹的危险贫民窟?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1564,7 +1564,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1Rhn4zBEZJ/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最痛恨特朗普的州!\"白左\"们的天堂是什么样的?",
@@ -1607,9 +1607,9 @@
       "action": "merge",
       "bv": "BV1Rhn4zBEZJ",
       "bilibili_name": "美国最痛恨特朗普的州!\"白左\"们的天堂是什么样的?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1624,7 +1624,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1GLWczvEsN/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国黑户最多的唐人街:底层华人生活有多艰辛?",
@@ -1667,9 +1667,9 @@
       "action": "merge",
       "bv": "BV1GLWczvEsN",
       "bilibili_name": "美国黑户最多的唐人街:底层华人生活有多艰辛?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1684,7 +1684,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV12rWuzUE9H/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最便宜预制菜有多离谱?1块钱牛排套餐 2年保质期肉汤 连大米饭都能预制!",
@@ -1727,9 +1727,9 @@
       "action": "merge",
       "bv": "BV12rWuzUE9H",
       "bilibili_name": "美国最便宜预制菜有多离谱?1块钱牛排套餐 2年保质期肉汤 连大米饭都能预制!",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1804,7 +1804,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1uSaGznE2s/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国版超高层鸽子笼?探秘全美最大楼盘,居民61%黑人,住户幸福感超高?",
@@ -1847,9 +1847,9 @@
       "action": "merge",
       "bv": "BV1uSaGznE2s",
       "bilibili_name": "美国版超高层鸽子笼?探秘全美最大楼盘,居民61%黑人,住户幸福感超高?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1864,7 +1864,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1LTvNz2Ezc/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最冷清的火车站:年客流仅400!大山深处的落寞与辉煌",
@@ -1907,9 +1907,9 @@
       "action": "merge",
       "bv": "BV1LTvNz2Ezc",
       "bilibili_name": "美国最冷清的火车站:年客流仅400!大山深处的落寞与辉煌",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -1924,7 +1924,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1nwecz6Eqm/?spm_id_from=333.1387.upload.video_card.click",
           "name": "这就是美国鹤岗?六千买栋楼 纽约黑人老哥逆袭当上老板！",
@@ -1967,9 +1967,9 @@
       "action": "merge",
       "bv": "BV1nwecz6Eqm",
       "bilibili_name": "这就是美国鹤岗?六千买栋楼 纽约黑人老哥逆袭当上老板！",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2044,7 +2044,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1VygczBEhg/?spm_id_from=333.1387.upload.video_card.click",
           "name": "仅41人的美国偏远小岛上与世隔绝的生活是怎么样的?",
@@ -2087,9 +2087,9 @@
       "action": "merge",
       "bv": "BV1VygczBEhg",
       "bilibili_name": "仅41人的美国偏远小岛上与世隔绝的生活是怎么样的?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2104,7 +2104,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1JfK3zPEEE/?spm_id_from=333.1387.upload.video_card.click",
           "name": "被美军抛弃的小镇，如今只剩废墟和留守老人们的记忆",
@@ -2147,9 +2147,9 @@
       "action": "merge",
       "bv": "BV1JfK3zPEEE",
       "bilibili_name": "被美军抛弃的小镇，如今只剩废墟和留守老人们的记忆",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2164,7 +2164,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1fiNizwEkt/?spm_id_from=333.1387.upload.video_card.click",
           "name": "墨西哥边境毒枭小镇真是地狱？对面美国反而更破败！",
@@ -2207,9 +2207,9 @@
       "action": "merge",
       "bv": "BV1fiNizwEkt",
       "bilibili_name": "墨西哥边境毒枭小镇真是地狱？对面美国反而更破败！",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2224,7 +2224,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1XxMgz9Eu7/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最贫困印第安部落的圣山是如何变成白人川粉的度假天堂的？",
@@ -2267,9 +2267,9 @@
       "action": "merge",
       "bv": "BV1XxMgz9Eu7",
       "bilibili_name": "美国最贫困印第安部落的圣山是如何变成白人川粉的度假天堂的？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2284,7 +2284,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1hnjvzCERp/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最冷门的州! 游客量全美垫底，真就这么无聊?",
@@ -2327,9 +2327,9 @@
       "action": "merge",
       "bv": "BV1hnjvzCERp",
       "bilibili_name": "美国最冷门的州! 游客量全美垫底，真就这么无聊?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2450,7 +2450,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1RwJPzKEZh/?spm_id_from=333.1387.upload.video_card.click",
           "name": "全美国最贫困黑人县：废墟、老人和被遗忘的村庄",
@@ -2493,9 +2493,9 @@
       "action": "merge",
       "bv": "BV1RwJPzKEZh",
       "bilibili_name": "全美国最贫困黑人县：废墟、老人和被遗忘的村庄",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2510,7 +2510,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1BY5AztEx5/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国95%黑人小镇朴实农民们的生活支柱 传奇百年华人老杂货店",
@@ -2553,9 +2553,9 @@
       "action": "merge",
       "bv": "BV1BY5AztEx5",
       "bilibili_name": "美国95%黑人小镇朴实农民们的生活支柱 传奇百年华人老杂货店",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2570,7 +2570,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1k1GvzQE3E/?spm_id_from=333.1387.upload.video_card.click",
           "name": "特朗普老巢佛罗里达, 最爱和最恨川普的县差别有多大?",
@@ -2613,9 +2613,9 @@
       "action": "merge",
       "bv": "BV1k1GvzQE3E",
       "bilibili_name": "特朗普老巢佛罗里达, 最爱和最恨川普的县差别有多大?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2630,7 +2630,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV13iLxzUEGj/?spm_id_from=333.1387.upload.video_card.click",
           "name": "索马里人扎根美国苦寒之地，邻居竟然是一群苗族人?",
@@ -2673,9 +2673,9 @@
       "action": "merge",
       "bv": "BV13iLxzUEGj",
       "bilibili_name": "索马里人扎根美国苦寒之地，邻居竟然是一群苗族人?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2810,7 +2810,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1hmdRYREmB/?spm_id_from=333.1387.upload.video_card.click",
           "name": "世界最大企业总部竟然在一个五万人美国小镇？这里到处充斥着资本主义",
@@ -2853,9 +2853,9 @@
       "action": "merge",
       "bv": "BV1hmdRYREmB",
       "bilibili_name": "世界最大企业总部竟然在一个五万人美国小镇？这里到处充斥着资本主义",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2870,7 +2870,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1EgRiY5E5t/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探秘广东老板美国半废弃鬼镇上经营35年的正宗黑人菜老店",
@@ -2913,9 +2913,9 @@
       "action": "merge",
       "bv": "BV1EgRiY5E5t",
       "bilibili_name": "探秘广东老板美国半废弃鬼镇上经营35年的正宗黑人菜老店",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2930,7 +2930,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1R8R9YWE6V/?spm_id_from=333.1387.upload.video_card.click",
           "name": "挑战巴黎最危险街区！差点以为自己到了非洲",
@@ -2973,9 +2973,9 @@
       "action": "merge",
       "bv": "BV1R8R9YWE6V",
       "bilibili_name": "挑战巴黎最危险街区！差点以为自己到了非洲",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -2990,7 +2990,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1L2f3Y7E6q/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国小镇做题家：能上哈佛很幸运，但见到更大的世界后我依旧是小城少年",
@@ -3033,9 +3033,9 @@
       "action": "merge",
       "bv": "BV1L2f3Y7E6q",
       "bilibili_name": "美国小镇做题家：能上哈佛很幸运，但见到更大的世界后我依旧是小城少年",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3050,7 +3050,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1QtZwYyErj/?spm_id_from=333.1387.upload.video_card.click",
           "name": "楚门的世界为何取景在一个超偏僻佛罗里达海滨小镇?",
@@ -3093,9 +3093,9 @@
       "action": "merge",
       "bv": "BV1QtZwYyErj",
       "bilibili_name": "楚门的世界为何取景在一个超偏僻佛罗里达海滨小镇?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3110,7 +3110,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV12o9QYPEPv/?spm_id_from=333.1387.upload.video_card.click",
           "name": "上海小伙和美国农村黑人女孩在六万人小镇上的平淡生活",
@@ -3153,9 +3153,9 @@
       "action": "merge",
       "bv": "BV12o9QYPEPv",
       "bilibili_name": "上海小伙和美国农村黑人女孩在六万人小镇上的平淡生活",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3170,7 +3170,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1NdPLexEX7/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国旅游荒漠真的很无聊吗?探寻藏在玉米地里的宝藏小镇",
@@ -3213,9 +3213,9 @@
       "action": "merge",
       "bv": "BV1NdPLexEX7",
       "bilibili_name": "美国旅游荒漠真的很无聊吗?探寻藏在玉米地里的宝藏小镇",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3230,7 +3230,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1UpwReYET5/?spm_id_from=333.1387.upload.video_card.click",
           "name": "暴风雪后探访765人孤寂美国小村 本地老人为何热爱苦寒之地的平淡生活",
@@ -3273,9 +3273,9 @@
       "action": "merge",
       "bv": "BV1UpwReYET5",
       "bilibili_name": "暴风雪后探访765人孤寂美国小村 本地老人为何热爱苦寒之地的平淡生活",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3350,7 +3350,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1dJFUeWEYH/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探秘美国曾经最富裕的全黑人小镇 当地百岁老人向我诉说当年的辉煌",
@@ -3393,9 +3393,9 @@
       "action": "merge",
       "bv": "BV1dJFUeWEYH",
       "bilibili_name": "探秘美国曾经最富裕的全黑人小镇 当地百岁老人向我诉说当年的辉煌",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3410,7 +3410,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1QFC6Y7Efp/?spm_id_from=333.1387.upload.video_card.click",
           "name": "一人留守的美国村庄 仅73人超小县城 探索即将消失的美国农村",
@@ -3453,9 +3453,9 @@
       "action": "merge",
       "bv": "BV1QFC6Y7Efp",
       "bilibili_name": "一人留守的美国村庄 仅73人超小县城 探索即将消失的美国农村",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3530,7 +3530,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1EpSCYDEi4/?spm_id_from=333.1387.upload.video_card.click",
           "name": "我找到了美国谋杀之都最危险黑人区里最安全的地方",
@@ -3573,9 +3573,9 @@
       "action": "merge",
       "bv": "BV1EpSCYDEi4",
       "bilibili_name": "我找到了美国谋杀之都最危险黑人区里最安全的地方",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3590,7 +3590,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV13xCRYoESp/?spm_id_from=333.1387.upload.video_card.click",
           "name": "98%黑人美国衰败农业小镇 2024这片地区依旧种族隔离",
@@ -3633,9 +3633,9 @@
       "action": "merge",
       "bv": "BV13xCRYoESp",
       "bilibili_name": "98%黑人美国衰败农业小镇 2024这片地区依旧种族隔离",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3650,7 +3650,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1a82CYNEEj/?spm_id_from=333.1387.upload.video_card.click",
           "name": "名存实亡印第安人保留地上千人小镇 白人占绝大多数但原住民福利很多",
@@ -3693,9 +3693,9 @@
       "action": "merge",
       "bv": "BV1a82CYNEEj",
       "bilibili_name": "名存实亡印第安人保留地上千人小镇 白人占绝大多数但原住民福利很多",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3749,7 +3749,13 @@
         }
       }
     ],
-    "decision": null
+    "decision": {
+      "action": "merge",
+      "bv": "BV1ym421V7XT",
+      "bilibili_name": "四个美国贫民窟的孩子黑人区街头的无忧无虑夏日童年",
+      "similarity": 0.578,
+      "confirmed": true
+    }
   },
   {
     "youtube": {
@@ -3816,7 +3822,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1zQ4LeqEjD/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国仅21人的半废弃边境小镇上与世隔绝的生活是怎么样的?",
@@ -3859,9 +3865,9 @@
       "action": "merge",
       "bv": "BV1zQ4LeqEjD",
       "bilibili_name": "美国仅21人的半废弃边境小镇上与世隔绝的生活是怎么样的?",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3876,7 +3882,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1FixWeoEaV/?spm_id_from=333.1387.upload.video_card.click",
           "name": "比底特律更凄凉的铁锈小城 人口仅剩巅峰1/10 在废墟中寻找昔日的辉煌",
@@ -3919,9 +3925,9 @@
       "action": "merge",
       "bv": "BV1FixWeoEaV",
       "bilibili_name": "比底特律更凄凉的铁锈小城 人口仅剩巅峰1/10 在废墟中寻找昔日的辉煌",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3936,7 +3942,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1DMxkeZE8L/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国最穷州乡下原棉花种植园里藏着曾经的全美第三大赌“城” 三十块入住超大穷鬼度假区汽车旅馆",
@@ -3979,9 +3985,9 @@
       "action": "merge",
       "bv": "BV1DMxkeZE8L",
       "bilibili_name": "美国最穷州乡下原棉花种植园里藏着曾经的全美第三大赌“城” 三十块入住超大穷鬼度假区汽车旅馆",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -3996,7 +4002,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1D9sSejEqy/?spm_id_from=333.1387.upload.video_card.click",
           "name": "去美国最穷州乡下全黑人教堂蹭免费西瓜吃",
@@ -4039,9 +4045,9 @@
       "action": "merge",
       "bv": "BV1D9sSejEqy",
       "bilibili_name": "去美国最穷州乡下全黑人教堂蹭免费西瓜吃",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4116,7 +4122,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1q94mexEnw/?spm_id_from=333.1387.upload.video_card.click",
           "name": "做一回美国黑人区餐馆里的唯一非黑人顾客（孟菲斯版）",
@@ -4159,9 +4165,9 @@
       "action": "merge",
       "bv": "BV1q94mexEnw",
       "bilibili_name": "做一回美国黑人区餐馆里的唯一非黑人顾客（孟菲斯版）",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4176,7 +4182,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1H6HZe7Emo/?spm_id_from=333.1387.upload.video_card.click",
           "name": "黑人开的中餐厅！？碉堡级餐馆防御系统 重返美国谋杀之都黑人区调研中餐市场",
@@ -4219,9 +4225,9 @@
       "action": "merge",
       "bv": "BV1H6HZe7Emo",
       "bilibili_name": "黑人开的中餐厅！？碉堡级餐馆防御系统 重返美国谋杀之都黑人区调研中餐市场",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4236,7 +4242,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1LeHmerEaV/?spm_id_from=333.1387.upload.video_card.click",
           "name": "闯入大镖客原型黑水镇 活捉真·美国镇长做我的免费向导",
@@ -4279,9 +4285,9 @@
       "action": "merge",
       "bv": "BV1LeHmerEaV",
       "bilibili_name": "闯入大镖客原型黑水镇 活捉真·美国镇长做我的免费向导",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4296,7 +4302,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV11U411m7uS/?spm_id_from=333.1387.upload.video_card.click",
           "name": "四十五小时五机场四转机 二线城市到美国乡镇机场究极折磨之旅",
@@ -4339,9 +4345,9 @@
       "action": "merge",
       "bv": "BV11U411m7uS",
       "bilibili_name": "四十五小时五机场四转机 二线城市到美国乡镇机场究极折磨之旅",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4356,7 +4362,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1Ky411v7K4/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国蟑螂臭虫汽车旅馆超大总统套房 五十块即可享受悬疑恐怖片同款体验",
@@ -4399,9 +4405,9 @@
       "action": "merge",
       "bv": "BV1Ky411v7K4",
       "bilibili_name": "美国蟑螂臭虫汽车旅馆超大总统套房 五十块即可享受悬疑恐怖片同款体验",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4416,7 +4422,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1By411q719/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探索因洪灾失去八成人口的美国破败铁路乡村小镇和废弃村小",
@@ -4459,9 +4465,9 @@
       "action": "merge",
       "bv": "BV1By411q719",
       "bilibili_name": "探索因洪灾失去八成人口的美国破败铁路乡村小镇和废弃村小",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4476,7 +4482,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1yr421F7u8/?spm_id_from=333.1387.upload.video_card.click",
           "name": "二次元b友美国萧条县城农机大厂打工 公司安排高级酒店生活却枯燥",
@@ -4519,9 +4525,9 @@
       "action": "merge",
       "bv": "BV1yr421F7u8",
       "bilibili_name": "二次元b友美国萧条县城农机大厂打工 公司安排高级酒店生活却枯燥",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4536,7 +4542,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1ii421h7cQ/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国谋杀之都街头快乐干饭（生存指南）",
@@ -4579,9 +4585,9 @@
       "action": "merge",
       "bv": "BV1ii421h7cQ",
       "bilibili_name": "美国谋杀之都街头快乐干饭（生存指南）",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4596,7 +4602,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1As421M7xp/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探秘圣路易斯最大死寂商场 两个月后爆破本地老人们却超爱这里",
@@ -4639,9 +4645,9 @@
       "action": "merge",
       "bv": "BV1As421M7xp",
       "bilibili_name": "探秘圣路易斯最大死寂商场 两个月后爆破本地老人们却超爱这里",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4656,7 +4662,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1vS411w7bh/?spm_id_from=333.1387.upload.video_card.click",
           "name": "黑人老姐德州卖川普小商品 天天跟红脖打交道滋味如何",
@@ -4699,9 +4705,9 @@
       "action": "merge",
       "bv": "BV1vS411w7bh",
       "bilibili_name": "黑人老姐德州卖川普小商品 天天跟红脖打交道滋味如何",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4716,7 +4722,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV114421U78a/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探索美国副总统候选人老家--荒野上两百人小村 顺便狙击一波各路记者",
@@ -4759,9 +4765,9 @@
       "action": "merge",
       "bv": "BV114421U78a",
       "bilibili_name": "探索美国副总统候选人老家--荒野上两百人小村 顺便狙击一波各路记者",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4776,7 +4782,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1bz421b7Tx/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国原野上被遗忘的偏僻乡村里留守老人们的故事",
@@ -4819,9 +4825,9 @@
       "action": "merge",
       "bv": "BV1bz421b7Tx",
       "bilibili_name": "美国原野上被遗忘的偏僻乡村里留守老人们的故事",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4836,7 +4842,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1pS411w7H9/?spm_id_from=333.1387.upload.video_card.click",
           "name": "2024年还坚持只用马车出行？探访美国阿米什人的原始村庄",
@@ -4879,9 +4885,9 @@
       "action": "merge",
       "bv": "BV1pS411w7H9",
       "bilibili_name": "2024年还坚持只用马车出行？探访美国阿米什人的原始村庄",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4896,7 +4902,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1e4421Z7HZ/?spm_id_from=333.1387.upload.video_card.click",
           "name": "入住美国混乱街头四十块挂逼汽车旅馆 刺激体验不输GTA",
@@ -4939,9 +4945,9 @@
       "action": "merge",
       "bv": "BV1e4421Z7HZ",
       "bilibili_name": "入住美国混乱街头四十块挂逼汽车旅馆 刺激体验不输GTA",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -4956,7 +4962,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1sn4y1f7WN/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探索美国偏远原住民保留地上仅有59个毕业生的印第安人大学",
@@ -4999,9 +5005,9 @@
       "action": "merge",
       "bv": "BV1sn4y1f7WN",
       "bilibili_name": "探索美国偏远原住民保留地上仅有59个毕业生的印第安人大学",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5016,7 +5022,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1QT421k7bn/?spm_id_from=333.1387.upload.video_card.click",
           "name": "在美国乔治弗洛伊德BLM共和国街头逛吃逛喝",
@@ -5059,9 +5065,9 @@
       "action": "merge",
       "bv": "BV1QT421k7bn",
       "bilibili_name": "在美国乔治弗洛伊德BLM共和国街头逛吃逛喝",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5076,7 +5082,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1e4421Q7Hy/?spm_id_from=333.1387.upload.video_card.click",
           "name": "四十小时三转机全程廉航 纽约回国终极折磨之旅",
@@ -5119,9 +5125,9 @@
       "action": "merge",
       "bv": "BV1e4421Q7Hy",
       "bilibili_name": "四十小时三转机全程廉航 纽约回国终极折磨之旅",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5136,7 +5142,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1yp421D7SC/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探索美国60%黑人半荒废鬼镇 半夜入住镇上最便宜的穷鬼汽车旅馆",
@@ -5179,9 +5185,9 @@
       "action": "merge",
       "bv": "BV1yp421D7SC",
       "bilibili_name": "探索美国60%黑人半荒废鬼镇 半夜入住镇上最便宜的穷鬼汽车旅馆",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5196,7 +5202,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV17i421X7Ai/?spm_id_from=333.1387.upload.video_card.click",
           "name": "深夜纽约街头快乐干饭 闲逛数小时至清晨天明",
@@ -5239,9 +5245,9 @@
       "action": "merge",
       "bv": "BV17i421X7Ai",
       "bilibili_name": "深夜纽约街头快乐干饭 闲逛数小时至清晨天明",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5256,7 +5262,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1CM4m1d7sn/?spm_id_from=333.1387.upload.video_card.click",
           "name": "深夜纽约地铁探险四小时 帮流浪汉兄弟实现小愿望",
@@ -5299,9 +5305,9 @@
       "action": "merge",
       "bv": "BV1CM4m1d7sn",
       "bilibili_name": "深夜纽约地铁探险四小时 帮流浪汉兄弟实现小愿望",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5376,7 +5382,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1Xy411e7EZ/?spm_id_from=333.1387.upload.video_card.click",
           "name": "十万块在美国七千人小镇上的躺平大宅选择 本地人普通话比我还标准",
@@ -5419,9 +5425,9 @@
       "action": "merge",
       "bv": "BV1Xy411e7EZ",
       "bilibili_name": "十万块在美国七千人小镇上的躺平大宅选择 本地人普通话比我还标准",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5436,7 +5442,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1dn4y197zZ/?spm_id_from=333.1387.upload.video_card.click",
           "name": "纽约闹市区瞎逛三小时，怎么一个白人和亚洲人都碰不见？",
@@ -5479,9 +5485,9 @@
       "action": "merge",
       "bv": "BV1dn4y197zZ",
       "bilibili_name": "纽约闹市区瞎逛三小时，怎么一个白人和亚洲人都碰不见？",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5496,7 +5502,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1xx4y1s7Ej/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国偏僻农村食物沙漠 七千人县仅有一家新鲜食品超市",
@@ -5539,9 +5545,9 @@
       "action": "merge",
       "bv": "BV1xx4y1s7Ej",
       "bilibili_name": "美国偏僻农村食物沙漠 七千人县仅有一家新鲜食品超市",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5556,7 +5562,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1pE4m1R7cZ/?spm_id_from=333.1387.upload.video_card.click",
           "name": "美国谋杀之都最便宜汽车旅馆 旅居五日生存挑战",
@@ -5599,9 +5605,9 @@
       "action": "merge",
       "bv": "BV1pE4m1R7cZ",
       "bilibili_name": "美国谋杀之都最便宜汽车旅馆 旅居五日生存挑战",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5616,7 +5622,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1aH4y1w7b6/?spm_id_from=333.1387.upload.video_card.click",
           "name": "深夜流浪洛杉矶街头 零元享受专车VIP服务",
@@ -5659,9 +5665,9 @@
       "action": "merge",
       "bv": "BV1aH4y1w7b6",
       "bilibili_name": "深夜流浪洛杉矶街头 零元享受专车VIP服务",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5729,7 +5735,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1qx4y1877k/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探访美国老龄化严重偏僻乡村 萧索小镇上人们的平静生活",
@@ -5772,9 +5778,9 @@
       "action": "merge",
       "bv": "BV1qx4y1877k",
       "bilibili_name": "探访美国老龄化严重偏僻乡村 萧索小镇上人们的平静生活",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   },
   {
@@ -5789,7 +5795,7 @@
     },
     "top_bilibili_candidates": [
       {
-        "similarity": 1.0,
+        "similarity": 1,
         "bilibili": {
           "link": "https://www.bilibili.com/video/BV1nH4y1K7WB/?spm_id_from=333.1387.upload.video_card.click",
           "name": "探索几个美国印第安保留地上与世隔绝百人小镇 黑人亚洲人数量为零",
@@ -5832,9 +5838,9 @@
       "action": "merge",
       "bv": "BV1nH4y1K7WB",
       "bilibili_name": "探索几个美国印第安保留地上与世隔绝百人小镇 黑人亚洲人数量为零",
-      "similarity": 1.0,
+      "similarity": 1,
       "auto": true,
-      "confirmed": false
+      "confirmed": true
     }
   }
 ]

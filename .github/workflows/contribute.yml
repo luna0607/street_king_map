@@ -50,18 +50,21 @@ jobs:
           UPDATED: ${{ steps.merge.outputs.updated }}
           REMOVED: ${{ steps.merge.outputs.removed }}
           SKIPPED: ${{ steps.merge.outputs.skipped }}
+          ADDED_VIDEOS: ${{ steps.merge.outputs.added_videos }}
+          ADDED_YT_VIDEOS: ${{ steps.merge.outputs.added_yt_videos }}
         run: |
           set -e
           BRANCH="contrib/issue-${ISSUE_NUMBER}"
           git checkout -b "$BRANCH"
-          git add data/locations.json
+          git add data/locations.json data/videos.json data/yt_videos.json
           git commit -m "Contribution from @${ISSUE_AUTHOR} (#${ISSUE_NUMBER})
 
-          added=${ADDED} updated=${UPDATED} removed=${REMOVED} skipped=${SKIPPED}"
+          added=${ADDED} updated=${UPDATED} removed=${REMOVED} skipped=${SKIPPED}
+          added_videos=${ADDED_VIDEOS} added_yt_videos=${ADDED_YT_VIDEOS}"
           git push --force origin "$BRANCH"
 
-          BODY=$(printf 'Closes #%s\n\nAdded **%s**, edited **%s**, removed **%s** (skipped **%s** duplicate adds).' \
-            "$ISSUE_NUMBER" "$ADDED" "$UPDATED" "$REMOVED" "$SKIPPED")
+          BODY=$(printf 'Closes #%s\n\nAdded **%s** pins, edited **%s**, removed **%s** (skipped **%s** duplicate adds).\nAdded **%s** Bilibili videos, **%s** YouTube videos.' \
+            "$ISSUE_NUMBER" "$ADDED" "$UPDATED" "$REMOVED" "$SKIPPED" "$ADDED_VIDEOS" "$ADDED_YT_VIDEOS")
 
           if gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
             PR_URL=$(gh pr view "$BRANCH" --json url --jq .url)

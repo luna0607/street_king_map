@@ -88,15 +88,42 @@ load();
 
 async function load() {
   try {
-    const [mergedVideos, locations] = await Promise.all([
-      fetch("data/merged_videos.json", { cache: "no-store" }).then((r) => r.json()),
+    const [videosLegacy, ytVideosLegacy, mergeReview, locations] = await Promise.all([
+      fetch("data/videos.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/yt_videos.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/merge_review.json", { cache: "no-store" }).then((r) => r.json()),
       fetch("data/locations.json", { cache: "no-store" }).then((r) => r.json()),
     ]);
-    const videos = mergedVideos.map(v => ({
-      ...v.bilibili,
-      youtube: v.youtube
-    }));
-    videoByBv = new Map(videos.map((v) => [v.bv, v]));
+
+    const videoMap = new Map(); // id (prefer bv) -> { ...video, bilibili, youtube }
+    const ytToBv = new Map();   // vid -> bv
+
+    mergeReview.forEach((r) => {
+      // Treat as paired if confirmed OR if it's an exact similarity match
+      if (r.decision && r.decision.action === "merge" && (r.decision.confirmed || r.decision.similarity === 1.0)) {
+        ytToBv.set(r.youtube.vid, r.decision.bv);
+      }
+    });
+
+    // 1. Process Bilibili videos (main)
+    videosLegacy.forEach((v) => {
+      videoMap.set(v.bv, { ...v, bilibili: v, youtube: null });
+    });
+
+    // 2. Process YouTube videos
+    ytVideosLegacy.forEach((v) => {
+      const bv = ytToBv.get(v.vid);
+      if (bv && videoMap.has(bv)) {
+        // It's a pair! Update existing bilibili entry
+        videoMap.get(bv).youtube = v;
+      } else if (!bv) {
+        // Standalone YouTube video
+        videoMap.set(v.vid, { ...v, bilibili: null, youtube: v });
+      }
+    });
+
+    const videos = Array.from(videoMap.values());
+    videoByBv = videoMap; 
     locationsByBv = locations || {};
     render(videos);
     // If a panel was open, keep it in sync with refreshed data.
