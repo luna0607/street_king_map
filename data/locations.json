@@ -1499,5 +1499,159 @@
       "lng": -79.2798554,
       "contributor": "luna0607"
     }
+  ],
+  "BV1zx25BREJd": [
+    {
+      "place_name": "东克利夫兰",
+      "google_maps_url": "https://www.google.com/maps/place/East+Cleveland,+OH/@41.3022553,-82.6513132,6.62z/data=!4m6!3m5!1s0x8830fe860c20d48b:0x2efabfe98067cc38!8m2!3d41.5331066!4d-81.5790137!16s%2Fm%2F020lymj?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.3022553,
+      "lng": -82.6513132,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "挂壁旅馆",
+      "google_maps_url": "https://www.google.com/maps/place/McCall's+Motor+Inn/@41.5323368,-81.5816192,17z/data=!3m1!4b1!4m9!3m8!1s0x8830fe9fd209ebdb:0x2a199d3fdaceb63d!5m2!4m1!1i2!8m2!3d41.5323328!4d-81.5790443!16s%2Fg%2F1v5k3nw4?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.5323368,
+      "lng": -81.5816192,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "沃尔玛修车中心",
+      "google_maps_url": "https://www.google.com/maps/place/Walmart+Supercenter/@41.4609735,-81.6947658,17z/data=!4m15!1m8!3m7!1s0x8830f00013b5a90b:0xc8c68262429bd621!2s3400+Steelyard+Dr,+Cleveland,+OH+44109!3b1!8m2!3d41.4609695!4d-81.6921909!16s%2Fg%2F11bw3x0zl4!3m5!1s0x8830e5555102dad3:0x19429364206ee1f6!8m2!3d41.4615191!4d-81.6928838!16s%2Fm%2F03nzl8j?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.4609735,
+      "lng": -81.6947658,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "1890年开业的高端商场",
+      "google_maps_url": "https://www.google.com/maps/place/The+Arcade/@41.4999484,-81.6928193,17z/data=!3m2!4b1!5s0x8830fa7ffc6b20f1:0x30b52bc9b2938bbe!4m6!3m5!1s0x8830fa8007ffae13:0xf25487669de23152!8m2!3d41.4999444!4d-81.6902444!16zL20vMDU5XzF0?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.4999484,
+      "lng": -81.6928193,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "克利夫兰大巴车站",
+      "google_maps_url": "https://www.google.com/maps/place/Cleveland/@41.5031731,-81.6813787,3a,75y,269.96h,90t/data=!3m7!1e1!3m5!1sPR8JDhTsdXQndMl8qCd3yQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DPR8JDhTsdXQndMl8qCd3yQ%26yaw%3D269.95886!7i16384!8i8192!4m13!1m2!2m1!1sGreyhound!3m9!1s0x8830fa7c8a68d1cd:0xa29db2b932a1e94c!8m2!3d41.5031769!4d-81.6823613!10e5!14m1!1BCgIgARICCAI!15sCglHcmV5aG91bmQiA4gBAZIBCGJ1c19zdG9w4AEA!16s%2Fg%2F11dxjzhmpy?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.5031731,
+      "lng": -81.6813787,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "大巴车停靠加油站",
+      "google_maps_url": "https://www.google.com/maps/place/Crosby's+-+Perry+Highway/@42.0687814,-81.1935672,9z/data=!4m10!1m2!2m1!1sCrosby's!3m6!1s0x8832810fd5c0b6e1:0x8c468c05a387088d!8m2!3d42.0687814!4d-80.0400027!15sCghDcm9zYnkncyIDiAEBWgoiCGNyb3NieSdzkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F1tdkbqr5?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.0687814,
+      "lng": -81.1935672,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "水牛城大巴车站",
+      "google_maps_url": "https://www.google.com/maps/place/Greyhound:+Bus+Station/@42.8833762,-78.8716241,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgID9oZGGSg!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFWNGpx6O54q9IR-oYIUsord0K3v_OWLEAa6Bq6KxifwYuShRTLrd57dnFKynjytNY-qfSqWg67XCyeKsNWjZ7KS5OGIH6lcpTvRSdskLSYUad8xqCrOa6ckL-Gm23mW_ZW1SQ%3Dw114-h86-k-no!7i4000!8i3000!4m7!3m6!1s0x89d31247ff728791:0x74c170c020406705!8m2!3d42.8834398!4d-78.872013!10e5!16s%2Fg%2F11c4kzg18c?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.8833762,
+      "lng": -78.8716241,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "水牛城破烂Airbnb",
+      "google_maps_url": "https://www.google.com/maps/place/Kash+Pro+YOU+SELL,+WE+BUY/@43.0953519,-79.0420534,17z/data=!3m1!4b1!4m6!3m5!1s0x89d342bf1f6bae41:0x14b615c3b548f508!8m2!3d43.095348!4d-79.0394785!16s%2Fg%2F11csq94_9q?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.0953519,
+      "lng": -79.0420534,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "水牛城黑人酒吧",
+      "google_maps_url": "https://www.google.com/maps/place/Shorty's+Patio+Grill+%26+Lounge/@43.0953983,-79.0323071,17z/data=!3m1!4b1!4m6!3m5!1s0x89d3430026f9a88f:0xff16b79658988a0c!8m2!3d43.0953944!4d-79.0297322!16s%2Fg%2F11x7zc61t0?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.0953983,
+      "lng": -79.0323071,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "杂货店",
+      "google_maps_url": "https://www.google.com/maps/place/Ashland+deli+inc./@43.0991812,-79.0418093,17z/data=!3m1!4b1!4m6!3m5!1s0x89d3438b0ee0c789:0x91368cfc77a8af74!8m2!3d43.0991773!4d-79.0392344!16s%2Fg%2F11yk2ccjgg?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.0991812,
+      "lng": -79.0418093,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "大瀑布",
+      "google_maps_url": "https://www.google.com/maps/place/Niagara+Falls,+NY/@43.0997807,-79.0910217,12z/data=!3m1!4b1!4m6!3m5!1s0x89d363ea29e633b7:0x61975ae4b9c5aab3!8m2!3d43.0962143!4d-79.0377388!16zL20vMHkzazk?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.0997807,
+      "lng": -79.0910217,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "捡瓶子小哥",
+      "google_maps_url": "https://www.google.com/maps/place/Niagara+Bottle+Refund+LLC/@43.0992003,-79.0495341,15z/data=!4m10!1m2!2m1!1scash+for+bottles!3m6!1s0x89d3430671b636ef:0x719a9ffe9186f1f0!8m2!3d43.1004653!4d-79.0387909!15sChBjYXNoIGZvciBib3R0bGVzWhIiEGNhc2ggZm9yIGJvdHRsZXOSASBib3R0bGVfYW5kX2Nhbl9yZWRlbXB0aW9uX2NlbnRlcpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSS0xUbHhja2RSRUFF4AEA-gEECAAQPA!16s%2Fg%2F11v608hrgn?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.0992003,
+      "lng": -79.0495341,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "游客网红早餐店",
+      "google_maps_url": "https://www.google.com/maps/place/Marketside+Restaurant/@43.0958477,-79.0579166,15z/data=!3m1!4b1!4m6!3m5!1s0x89d342bf142e50c3:0x7d96f0bda4537ade!8m2!3d43.0958335!4d-79.0394627!16s%2Fg%2F1wb8vp2y?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.0958477,
+      "lng": -79.0579166,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "废弃养老院",
+      "google_maps_url": "https://www.google.com/maps/place/515+6th+St,+Niagara+Falls,+NY+14301/@43.0913861,-79.0555144,17z/data=!4m6!3m5!1s0x89d342e7ba3436cd:0x432af696343e7d78!8m2!3d43.0913767!4d-79.0551762!16s%2Fg%2F11c24d9dc0?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Mt. St. Mary’s Nursing Home",
+      "lat": 43.0913861,
+      "lng": -79.0555144,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "水牛城运河步道",
+      "google_maps_url": "https://www.google.com/maps/place/Canalside/@42.8769317,-78.8819693,17z/data=!3m1!4b1!4m6!3m5!1s0x89d3123231c7a86b:0x304d61fdeda3dad4!8m2!3d42.8769278!4d-78.8793944!16s%2Fm%2F03y00wq?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.8769317,
+      "lng": -78.8819693,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "\"Buffalo Wings\"起源地",
+      "google_maps_url": "https://www.google.com/maps/place/Anchor+Bar/@42.9023132,-78.94063,13z/data=!4m10!1m2!2m1!1sanchor+bar!3m6!1s0x89d312f626e2aae7:0x42feff60b17ba88c!8m2!3d42.9023405!4d-78.868499!15sCgphbmNob3IgYmFyIgOIAQFaDCIKYW5jaG9yIGJhcpIBDWJhcl9hbmRfZ3JpbGzgAQA!16zL20vMDUyMTB2?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.9023132,
+      "lng": -78.94063,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "克利夫兰1912年开业的菜市场",
+      "google_maps_url": "https://www.google.com/maps/place/West+Side+Market/@41.4847078,-81.7028394,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICnkIeB4gE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEd4KSDJPi_7lVA9FIWbgMvlP3nCp27QK5SB-onZIJ11OpqRFrjuyJiH7-LdH7n4eBYA3rg8JDz7yDi_qFFUGfQ2DIHYOpTXv63Nhc-jz8MzynusGuU__sSrbwdEeERaef1TrXYVQ%3Dw114-h86-k-no!7i4032!8i3024!4m7!3m6!1s0x8830f06dbbd9379f:0xabb436e31c9dcc5e!8m2!3d41.4847078!4d-81.7028394!10e5!16zL20vMGI4NHYx?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.4847078,
+      "lng": -81.7028394,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "炸鲶鱼饭店（不好吃）",
+      "google_maps_url": "https://www.google.com/maps/place/Greenlite+Beverage+%26+Liquor/@41.5564945,-81.5525034,17z/data=!3m1!4b1!4m6!3m5!1s0x8830fe5aff348f89:0xb793c19365ee6c61!8m2!3d41.5564905!4d-81.5499285!16s%2Fg%2F1thw7cnr?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.5564945,
+      "lng": -81.5525034,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "低端超市",
+      "google_maps_url": "https://www.google.com/maps/place/Save+A+Lot/@41.5565553,-81.5911282,13z/data=!4m10!1m2!2m1!1ssave+a+lot!3m6!1s0x8830fe5aff348f89:0x3a3eb91296343c88!8m2!3d41.5575269!4d-81.5511744!15sCgpzYXZlIGEgbG90IgOIAQFaDCIKc2F2ZSBhIGxvdJIBDWdyb2Nlcnlfc3RvcmXgAQA!16s%2Fg%2F119tvkd1t?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.5565553,
+      "lng": -81.5911282,
+      "contributor": "luna0607"
+    }
   ]
 }
