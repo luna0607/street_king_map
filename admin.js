@@ -70,7 +70,7 @@ function setupHint() {
       <strong>贡献者模式。</strong> 您可以在下方的任何视频中添加、编辑或删除点位 — 您的更改仅保存在此浏览器中。
       完成后，点击 <strong>提交到 GitHub</strong> 以打开预填好的 issue；机器人将开启一个 Pull Request（约 1–2 分钟）
       并标记您为贡献者。需要 <a href="https://github.com/signup" target="_blank" rel="noopener">GitHub 账号</a>。
-      没有账号？请使用 <strong>导出</strong> 并将文件发送给维护者。`;
+      没有账号？请使用 <strong>导出</strong> 并将文件发送给维护者jtxxxbw@gmail.com。`;
     exportBtn.textContent = "导出";
     exportBtn.title = "将您的更改下载为 contributions.json";
     submitBtn.hidden = false;
