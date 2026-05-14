@@ -1657,11 +1657,11 @@
   ],
   "BV1VEsdevEbq": [
     {
-      "place_name": "test",
-      "google_maps_url": "https://www.google.com/maps/place/Save+A+Lot/@41.5565553,-81.5911282,13z/data=!4m10!1m2!2m1!1ssave+a+lot!3m6!1s0x8830fe5aff348f89:0x3a3eb91296343c88!8m2!3d41.5575269!4d-81.5511744!15sCgpzYXZlIGEgbG90IgOIAQFaDCIKc2F2ZSBhIGxvdJIBDWdyb2Nlcnlfc3RvcmXgAQA!16s%2Fg%2F119tvkd1t?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "place_name": "疯马雕像",
+      "google_maps_url": "https://www.google.com/maps/place/Crazy+Horse+Memorial/@43.8366229,-103.6259787,17z/data=!3m1!4b1!4m6!3m5!1s0x8762cc001c5578df:0x7a29925e509a0c7!8m2!3d43.8366191!4d-103.6234038!16zL20vMDM3M3c0?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
       "comment": "",
-      "lat": 41.5565553,
-      "lng": -81.5911282,
+      "lat": 43.8366229,
+      "lng": -103.6259787,
       "contributor": "luna0607"
     }
   ],
@@ -1946,6 +1946,516 @@
       "comment": "",
       "lat": 35.194652,
       "lng": -101.9734378,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1BY5AztEx5": [
+    {
+      "place_name": "谢尔比",
+      "google_maps_url": "https://www.google.com/maps/place/Shelby,+MS+38774/@33.9498788,-90.7858301,14z/data=!3m1!4b1!4m6!3m5!1s0x862b0f932ecb9189:0x4759c2eb6b2cf146!8m2!3d33.9509439!4d-90.7678781!16zL20vMHdwa20?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.9498788,
+      "lng": -90.7858301,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1k1GvzQE3E": [
+    {
+      "place_name": "霍尔姆斯县",
+      "google_maps_url": "https://www.google.com/maps/place/Holmes+County,+FL/@30.8501252,-86.0975411,10z/data=!3m1!4b1!4m6!3m5!1s0x8893b732757fb51d:0xc44408f02fd66ada!8m2!3d30.8740806!4d-85.80766!16zL20vMGpqNno?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 30.8501252,
+      "lng": -86.0975411,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV15kLRzTEAb": [
+    {
+      "place_name": "佛州州立医院（精神病院）",
+      "google_maps_url": "https://www.google.com/maps/place/Florida+State+Hospital/@30.7072327,-84.8454891,17z/data=!3m1!4b1!4m6!3m5!1s0x88ecd6b3929f6eb7:0x63363d275b27933a!8m2!3d30.7072281!4d-84.8429142!16s%2Fm%2F03c988p?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 30.7072327,
+      "lng": -84.8454891,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV13iLxzUEGj": [
+    {
+      "place_name": "明尼阿波利斯索马里区",
+      "google_maps_url": "https://www.google.com/maps/place/Karmel+Mall/@44.9493588,-93.2813152,18z/data=!3m1!5s0x87f6278bb8c90b8f:0x8d4bd31101734dd4!4m6!3m5!1s0x87f6278bb9b41e8f:0x9826c506ca2f857e!8m2!3d44.9497937!4d-93.2816161!16s%2Fg%2F11h19ddps?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.9493588,
+      "lng": -93.2813152,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1hY57zREQX": [
+    {
+      "place_name": "哈里森",
+      "google_maps_url": "https://www.google.com/maps/place/Harrison,+AR+72601/@36.2443787,-93.1534482,13z/data=!3m1!4b1!4m6!3m5!1s0x87cc2ae0c3bfdbd3:0xfd2175e931756162!8m2!3d36.2297712!4d-93.107405!16zL20vMHFydzU?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.2443787,
+      "lng": -93.1534482,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1QadZYaE3R": [
+    {
+      "place_name": "佩内洛普",
+      "google_maps_url": "https://www.google.com/maps/place/Penelope,+TX+76676/@31.8583994,-96.9384222,15z/data=!3m1!4b1!4m6!3m5!1s0x864f0d8500587645:0x46cbd13e7b4a8185!8m2!3d31.8601595!4d-96.9266638!16zL20vMDEwM3pw?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 31.8583994,
+      "lng": -96.9384222,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1U2oVYMErk": [
+    {
+      "place_name": "莫比尔",
+      "google_maps_url": "https://www.google.com/maps/place/Mobile,+AL/@30.6877853,-88.2771432,11z/data=!3m1!4b1!4m6!3m5!1s0x889a4e1df14cf8a9:0x4ce80e5477899e1a!8m2!3d30.6953657!4d-88.0398912!16zL20vMDU4Y20?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 30.6877853,
+      "lng": -88.2771432,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1EgRiY5E5t": [
+    {
+      "place_name": "海伦娜",
+      "google_maps_url": "https://www.google.com/maps/place/Helena,+Helena-West+Helena,+AR+72342/@34.3359129,-90.9624698,8.93z/data=!4m6!3m5!1s0x862b2c858fbd6487:0x564468f41826d7b9!8m2!3d34.5291253!4d-90.5900273!16zL20vMHF3ODE?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.3359129,
+      "lng": -90.9624698,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1QtZwYyErj": [
+    {
+      "place_name": "西塞德",
+      "google_maps_url": "https://www.google.com/maps/place/Seaside,+FL+32459/@30.3226522,-86.1499225,15z/data=!3m1!4b1!4m6!3m5!1s0x8893e4e34d131d19:0x1b3d5a5e81bb9d58!8m2!3d30.3216504!4d-86.1429286!16zL20vMDNwOHIw?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 30.3226522,
+      "lng": -86.1499225,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV12o9QYPEPv": [
+    {
+      "place_name": "唯一黑人饭店",
+      "google_maps_url": "https://www.google.com/maps/place/Shug's+Comfort+Food/@41.1359809,-95.897152,16.41z/data=!4m6!3m5!1s0x8793875060120f45:0x82aff717ba1984ba!8m2!3d41.1362553!4d-95.8942485!16s%2Fg%2F11ry5jv579?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.1359809,
+      "lng": -95.897152,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1NdPLexEX7": [
+    {
+      "place_name": "普雷斯科特",
+      "google_maps_url": "https://www.google.com/maps/place/Prescott,+IA+50859/@41.0234218,-94.6237443,15z/data=!3m1!4b1!4m6!3m5!1s0x87eb6f661e85e8a9:0x7af16f06219fa2d1!8m2!3d41.0230428!4d-94.6135795!16zL20vMHNyYzk?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.0234218,
+      "lng": -94.6237443,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV15pAdejE8g": [
+    {
+      "place_name": "怀特克莱",
+      "google_maps_url": "https://www.google.com/maps/place/White+Clay,+NE+69360/@48.0334256,-102.9767733,4.06z/data=!4m15!1m8!3m7!1s0x877b8ec0f4135843:0xe27cf94f05b27325!2sWhite+Clay+Rd,+West+Oglala+Lakota,+SD+57770!3b1!8m2!3d43.0079726!4d-102.5544509!16s%2Fg%2F1thzpd79!3m5!1s0x877b8eef90e8802d:0xd8d0a26dd09f2fe8!8m2!3d42.9967677!4d-102.5545021!16zL20vMDJnN3pr?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.0334256,
+      "lng": -102.9767733,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1UpwReYET5": [
+    {
+      "place_name": "埃尔姆伍德",
+      "google_maps_url": "https://www.google.com/maps/place/Elmwood,+NE+68349/@40.8425872,-96.3050658,15z/data=!3m1!4b1!4m6!3m5!1s0x879419114e2b9581:0xf4cc228e02e14c70!8m2!3d40.8416672!4d-96.2936215!16zL20vMHg1MDk?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8425872,
+      "lng": -96.3050658,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV13VKweeEdr": [
+    {
+      "place_name": "小西贡",
+      "google_maps_url": "https://www.google.com/maps/place/Hau+Hau+Market/@47.6078431,-122.3388257,14z/data=!4m6!3m5!1s0x54906abe4d194eb9:0x627a4ce6fc2c78cf!8m2!3d47.598609!4d-122.3168223!16s%2Fg%2F1tcwqvh7?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 47.6078431,
+      "lng": -122.3388257,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1dJFUeWEYH": [
+    {
+      "place_name": "芒德拜龙",
+      "google_maps_url": "https://www.google.com/maps/place/Mound+Bayou,+MS+38762/@33.8801668,-90.7377088,15z/data=!3m1!4b1!4m6!3m5!1s0x862b05d9aeb7b699:0x2c45b9eb1252e550!8m2!3d33.8781674!4d-90.7273204!16zL20vMHdwajc?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.8801668,
+      "lng": -90.7377088,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV16FfmYsE6n": [
+    {
+      "place_name": "格伦里奥",
+      "google_maps_url": "https://www.google.com/maps/place/Glenrio,+TX+79045/@35.187602,-103.0919066,10.33z/data=!4m6!3m5!1s0x8703625be5803f51:0x5230b5c5462faa10!8m2!3d35.1789464!4d-103.0421683!16zL20vMDZkMngw?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.187602,
+      "lng": -103.0919066,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1QFC6Y7Efp": [
+    {
+      "place_name": "莫诺维",
+      "google_maps_url": "https://www.google.com/maps/place/Monowi,+NE+68746/@42.8304164,-98.3481759,15z/data=!3m1!4b1!4m6!3m5!1s0x878506359d81c0b3:0x71737008ed28c70!8m2!3d42.8286091!4d-98.3298021!16zL20vMHg0a3c?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.8304164,
+      "lng": -98.3481759,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1kWqUYGEZc": [
+    {
+      "place_name": "格拉纳达",
+      "google_maps_url": "https://www.google.com/maps/place/Granada,+CO+81041/@40.4435115,-104.8172318,5.24z/data=!4m6!3m5!1s0x870c1c437b4e9c9b:0xa14ac039282d1785!8m2!3d38.0638981!4d-102.3104673!16zL20vMHJjY18?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.4435115,
+      "lng": -104.8172318,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1FbikYDEDH": [
+    {
+      "place_name": "梅迪纳",
+      "google_maps_url": "https://www.google.com/maps/place/Medina,+WA/@47.6273443,-122.28303,13z/data=!3m1!4b1!4m6!3m5!1s0x549013066fbcac77:0x6835473b0b26318f!8m2!3d47.6248333!4d-122.2360597!16zL20vMDEwcm1i?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 47.6273443,
+      "lng": -122.28303,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1UfUoYzEgD": [
+    {
+      "place_name": "德克萨卡纳",
+      "google_maps_url": "https://www.google.com/maps/place/Texarkana,+TX/@33.450013,-94.1894037,12z/data=!3m1!4b1!4m6!3m5!1s0x86344132c2a06457:0x9d583c9261db5b70!8m2!3d33.425125!4d-94.0476882!16zL20vMF95amQ?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.450013,
+      "lng": -94.1894037,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1EpSCYDEi4": [
+    {
+      "place_name": "The Ville",
+      "google_maps_url": "https://www.google.com/maps/place/The+Ville,+St.+Louis,+MO/@38.6591173,-90.2499117,15z/data=!3m1!4b1!4m6!3m5!1s0x87df4b494054b461:0x9991ed5f8ab46ef2!8m2!3d38.6606011!4d-90.2408846!16zL20vMGJjczZn?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6591173,
+      "lng": -90.2499117,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV17eSLYzEDH": [
+    {
+      "place_name": "墨西哥",
+      "google_maps_url": "https://www.google.com/maps/place/Mexico,+MO+65265/@39.1594716,-91.9447094,12z/data=!3m1!4b1!4m6!3m5!1s0x87dcf8324fa9bba9:0xba90fd3bd3e323b1!8m2!3d39.1730652!4d-91.8872934!16zL20vMHdzZGo?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.1594716,
+      "lng": -91.9447094,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV13xCRYoESp": [
+    {
+      "place_name": "兰伯特",
+      "google_maps_url": "https://www.google.com/maps/place/Lambert,+MS/@34.1999944,-90.2948297,15z/data=!3m1!4b1!4m6!3m5!1s0x862abf702221d4d3:0x76e076648d34b4ec!8m2!3d34.2017783!4d-90.2834261!16zL20vMHdyZ2s?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.1999944,
+      "lng": -90.2948297,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1a82CYNEEj": [
+    {
+      "place_name": "雨果",
+      "google_maps_url": "https://www.google.com/maps/place/Hugo,+OK+74743/@34.0660601,-95.6713382,10.13z/data=!4m6!3m5!1s0x864ae9c55c896099:0x5c7de375c6dd6257!8m2!3d34.01066!4d-95.5096821!16zL20vMHo0dzY?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.0660601,
+      "lng": -95.6713382,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1zQ4LeqEjD": [
+    {
+      "place_name": "安特勒",
+      "google_maps_url": "https://www.google.com/maps/place/Antler,+ND+58711/@49.0039318,-101.497351,9.13z/data=!4m6!3m5!1s0x52de5b30f94cb62f:0x2480276f2f1b7773!8m2!3d48.9708532!4d-101.2823803!16zL20vMHluMWc?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 49.0039318,
+      "lng": -101.497351,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1FixWeoEaV": [
+    {
+      "place_name": "开罗",
+      "google_maps_url": "https://www.google.com/maps/place/Cairo,+IL+62914/@37.0296916,-89.264588,12z/data=!3m1!4b1!4m6!3m5!1s0x8879c6ace405f89f:0x1ea46c834803db68!8m2!3d37.0053293!4d-89.1764608!16zL20vMHMyenE?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 37.0296916,
+      "lng": -89.264588,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1DMxkeZE8L": [
+    {
+      "place_name": "赌场",
+      "google_maps_url": "https://www.google.com/maps/place/Gold+Strike+Casino+Resort/@36.0417223,-90.8515447,6.8z/data=!4m9!3m8!1s0x87d53fcc05ecea19:0x9b07ff208b092581!5m2!4m1!1i2!8m2!3d34.846395!4d-90.332588!16zL20vMDk2dDM2?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.0417223,
+      "lng": -90.8515447,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1D9sSejEqy": [
+    {
+      "place_name": "蒂妮卡",
+      "google_maps_url": "https://www.google.com/maps/place/Tunica,+MS+38676/@34.6960339,-90.4196394,13.23z/data=!4m6!3m5!1s0x87d53a06fb947a97:0x2da99b6cdc5f5c65!8m2!3d34.6845455!4d-90.3828769!16zL20vMHdyemQ?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.6960339,
+      "lng": -90.4196394,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1LKtBehEoo": [
+    {
+      "place_name": "华盛顿圣路易斯大学",
+      "google_maps_url": "https://www.google.com/maps/place/Washington+University+in+St.+Louis/@38.6487937,-90.3133711,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5460f9c0fcf:0x94fa9481183c7669!8m2!3d38.6487895!4d-90.3107962!16zL20vMGcyamw?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6487937,
+      "lng": -90.3133711,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1EGtHepEKt": [
+    {
+      "place_name": "Bass Pro",
+      "google_maps_url": "https://www.google.com/maps/place/Bass+Pro+Shops+at+the+Pyramid/@35.155113,-90.1964576,12z/data=!3m1!5s0x87d57ee9461a3fa5:0xde0c202a15bce396!4m10!1m2!2m1!1sbass+pro+shop+memphis!3m6!1s0x87d57fb0a736a201:0xd12514b55e244afc!8m2!3d35.155113!4d-90.052262!15sChViYXNzIHBybyBzaG9wIG1lbXBoaXMiA4gBAVoXIhViYXNzIHBybyBzaG9wIG1lbXBoaXOSARRzcG9ydGluZ19nb29kc19zdG9yZeABAA!16s%2Fg%2F11qgyjtbsq?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.155113,
+      "lng": -90.1964576,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1q94mexEnw": [
+    {
+      "place_name": "黑人饭",
+      "google_maps_url": "https://www.google.com/maps/place/Memphis+Best+Soul+Food/@35.1063833,-90.0581838,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57c3fddc8d1c7:0x24805c00e3e76acd!8m2!3d35.1063789!4d-90.0556089!16s%2Fg%2F11c1vk9xfp?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.1063833,
+      "lng": -90.0581838,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1H6HZe7Emo": [
+    {
+      "place_name": "黑人餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/Mandarin+Inn+Chop+Suey/@38.6693452,-90.238674,17z/data=!3m1!4b1!4m6!3m5!1s0x87df4b43740732c3:0xd4476f1955a1b761!8m2!3d38.669341!4d-90.2360991!16s%2Fg%2F1tdcbbxc?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6693452,
+      "lng": -90.238674,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1LeHmerEaV": [
+    {
+      "place_name": "黑水镇",
+      "google_maps_url": "https://www.google.com/maps/place/Blackwater,+MO+65322/@38.9804035,-93.0274791,14z/data=!3m1!4b1!4m6!3m5!1s0x87c30cee2f236819:0x1b88ee4254a11ae2!8m2!3d38.9802996!4d-92.99075!16zL20vMHd2MGg?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.9804035,
+      "lng": -93.0274791,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV11U411m7uS": [
+    {
+      "place_name": "林肯机场",
+      "google_maps_url": "https://www.google.com/maps/place/Lincoln+Airport/@40.8485464,-96.7628773,16z/data=!3m1!4b1!4m6!3m5!1s0x8796c74fc1b3cd0f:0x36101f7e1ca524b3!8m2!3d40.8485424!4d-96.7603024!16zL20vMDdmczY2?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8485464,
+      "lng": -96.7628773,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1Ky411v7K4": [
+    {
+      "place_name": "蟑螂旅馆",
+      "google_maps_url": "https://www.google.com/maps/place/Econo+Lodge/@40.8316214,-96.7164431,12.01z/data=!4m9!3m8!1s0x8796bf4e76756a13:0xc96b5d060679cd65!5m2!4m1!1i2!8m2!3d40.838262!4d-96.737398!16s%2Fg%2F1tpf7mrj?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8316214,
+      "lng": -96.7164431,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1ii421h7cQ": [
+    {
+      "place_name": "黑人酒吧",
+      "google_maps_url": "https://www.google.com/maps/place/Denese's+Place/@38.6108158,-90.1965809,12z/data=!4m6!3m5!1s0x87d8b299fdc66e8f:0x4ba70aafbf4de9e0!8m2!3d38.6271575!4d-90.15879!16s%2Fg%2F113j6v5j5?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6108158,
+      "lng": -90.1965809,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV114421U78a": [
+    {
+      "place_name": "皮尤特",
+      "google_maps_url": "https://www.google.com/maps/place/Butte,+NE+68722/@42.9132587,-98.8585013,15z/data=!3m1!4b1!4m6!3m5!1s0x8784674c1706cfc1:0xb405d6c1fce9e385!8m2!3d42.9113874!4d-98.8492562!16zL20vMHg0anY?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Butte, hometown of Tim Walz",
+      "lat": 42.9132587,
+      "lng": -98.8585013,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1sn4y1f7WN": [
+    {
+      "place_name": "原住民大学",
+      "google_maps_url": "https://www.google.com/maps/place/Lac+Courte+Oreilles+Ojibwe+University/@45.9425933,-91.3678309,17z/data=!3m1!4b1!4m6!3m5!1s0x52ac0c454d6e73fd:0xb501c9be0ddbea73!8m2!3d45.9425896!4d-91.365256!16s%2Fm%2F064qdzl?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 45.9425933,
+      "lng": -91.3678309,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1Xy411e7EZ": [
+    {
+      "place_name": "佩里",
+      "google_maps_url": "https://www.google.com/maps/place/Perry,+IA+50220/@41.8373424,-94.2395164,12z/data=!3m1!4b1!4m6!3m5!1s0x87ec4acbf2c9bfa7:0xda5a697c71841b8!8m2!3d41.8385964!4d-94.1071797!16zL20vMHN0d20?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Perry",
+      "lat": 41.8373424,
+      "lng": -94.2395164,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1QT421k7bn": [
+    {
+      "place_name": "乔治佛洛依德纪念地",
+      "google_maps_url": "https://www.google.com/maps/place/George+Perry+Floyd+Sq,+Minneapolis,+MN+55407/@44.9341658,-93.2650741,17z/data=!3m1!4b1!4m6!3m5!1s0x87f627de896f0997:0xa2c0c18d2f4433e5!8m2!3d44.934162!4d-93.2624992!16s%2Fg%2F11s_yy1vmq?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.9341658,
+      "lng": -93.2650741,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV19E421w7Mj": [
+    {
+      "place_name": "阿肯色州赌场",
+      "google_maps_url": "https://www.google.com/maps/place/Cherokee+Hotel+%26+Casino+West+Siloam+Springs/@36.1777409,-94.570393,17z/data=!4m9!3m8!1s0x87c9a279cb2b49d5:0xf792bf26a690c27f!5m2!4m1!1i2!8m2!3d36.1777366!4d-94.5678181!16s%2Fg%2F1v1slrvx?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 36.1777409,
+      "lng": -94.570393,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1Pf421i7bv": [
+    {
+      "place_name": "卡车博物馆",
+      "google_maps_url": "https://www.google.com/maps/place/Iowa+80+Trucking+Museum/@41.6207413,-90.783729,17z/data=!3m1!4b1!4m6!3m5!1s0x87e3b843ab49378f:0x98fa3ed88efbca79!8m2!3d41.6207373!4d-90.7811541!16s%2Fg%2F1td5m7lb?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.6207413,
+      "lng": -90.783729,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1xx4y1s7Ej": [
+    {
+      "place_name": "凯维尔",
+      "google_maps_url": "https://www.google.com/maps/place/Kevil,+KY+42053/@37.0834636,-89.0484904,11.56z/data=!4m15!1m8!3m7!1s0x8879ee5393da5d07:0xd4d0077309e068ae!2sLa+Center,+KY+42056!3b1!8m2!3d37.0767199!4d-88.9736762!16zL20vMHRjbHA!3m5!1s0x8879f0ddb250d267:0xfad19c796aaf0b3e!8m2!3d37.0850537!4d-88.8867275!16zL20vMHRjbGI?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 37.0834636,
+      "lng": -89.0484904,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1uW42197JH": [
+    {
+      "place_name": "底特律",
+      "google_maps_url": "https://www.google.com/maps/place/Detroit,+MI/@42.3527307,-83.2639249,11z/data=!3m1!4b1!4m6!3m5!1s0x8824ca0110cb1d75:0x5776864e35b9c4d2!8m2!3d42.3297182!4d-83.0424533!16zL20vMDJkdGc?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.3527307,
+      "lng": -83.2639249,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1e4421Z7HZ": [
+    {
+      "place_name": "克拉克斯代尔",
+      "google_maps_url": "https://www.google.com/maps/place/Clarksdale,+MS/@34.1909906,-90.6164908,13z/data=!3m1!4b1!4m6!3m5!1s0x862adf11f3370ec5:0x8fd019ae64018bd6!8m2!3d34.2001086!4d-90.5709323!16zL20vMHdwdGo?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.1909906,
+      "lng": -90.6164908,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1pS411w7H9": [
+    {
+      "place_name": "卡罗纳",
+      "google_maps_url": "https://www.google.com/maps/place/Kalona,+IA+52247/@41.4859173,-91.7227791,14z/data=!3m1!4b1!4m6!3m5!1s0x87e430e90de80fa5:0xe3cb9f05c20e5895!8m2!3d41.4830723!4d-91.7060015!16zL20vMHQ0NDU?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.4859173,
+      "lng": -91.7227791,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1vS411w7bh": [
+    {
+      "place_name": "巴黎",
+      "google_maps_url": "https://www.google.com/maps/place/Paris,+TX/@33.6796226,-95.6140656,12z/data=!3m1!4b1!4m6!3m5!1s0x864a580616272b9b:0xc9b909662fd3f349!8m2!3d33.6609389!4d-95.555513!16s%2Fm%2F0gfgglz?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.6796226,
+      "lng": -95.6140656,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1mH4y1F7sj": [
+    {
+      "place_name": "斯莱奇",
+      "google_maps_url": "https://www.google.com/maps/place/Sledge,+MS/@34.4316383,-90.2311166,15z/data=!3m1!4b1!4m6!3m5!1s0x862ab38c78358a79:0x445aad5a18f48f30!8m2!3d34.4320519!4d-90.2209265!16zL20vMHdyaDc?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 34.4316383,
+      "lng": -90.2311166,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1pE4m1R7cZ": [
+    {
+      "place_name": "黑人酒吧",
+      "google_maps_url": "https://www.google.com/maps/place/Denese's+Place/@38.6271617,-90.1613649,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b299fdc66e8f:0x4ba70aafbf4de9e0!8m2!3d38.6271575!4d-90.15879!16s%2Fg%2F113j6v5j5?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.6271617,
+      "lng": -90.1613649,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1aH4y1w7b6": [
+    {
+      "place_name": "洛杉矶机场",
+      "google_maps_url": "https://www.google.com/maps/place/Los+Angeles+International+Airport/@33.9432711,-118.4094963,16z/data=!3m1!4b1!4m6!3m5!1s0x80c2b0d213b24fb5:0x77a87b57698badf1!8m2!3d33.942153!4d-118.4036052!16zL20vMDRseWs?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 33.9432711,
+      "lng": -118.4094963,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1DT421a7TX": [
+    {
+      "place_name": "马斯卡廷",
+      "google_maps_url": "https://www.google.com/maps/place/Muscatine,+IA+52761/@45.1841555,-96.4544167,5.17z/data=!4m6!3m5!1s0x87e3e521a40b18ab:0x8398f6022e24c5fd!8m2!3d41.424473!4d-91.0432051!16zL20vMHQxdjY?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 45.1841555,
+      "lng": -96.4544167,
       "contributor": "luna0607"
     }
   ]
