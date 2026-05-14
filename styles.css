@@ -24,6 +24,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 
 html, body {
   margin: 0;
@@ -153,6 +154,15 @@ a { color: inherit; transition: all 0.2s ease; }
 }
 .btn.danger:hover { background: #f87171; }
 
+.btn.primary.map-preview-btn {
+  background: #059669; /* Emerald Green */
+  box-shadow: 0 4px 12px rgba(5, 150, 105, 0.3);
+}
+.btn.primary.map-preview-btn:hover {
+  background: #10b981;
+  box-shadow: 0 6px 20px rgba(5, 150, 105, 0.4);
+}
+
 #filter {
   background: var(--surface-2);
   color: var(--text);
@@ -171,6 +181,50 @@ a { color: inherit; transition: all 0.2s ease; }
   background: #1f2538;
 }
 
+/* ===== Tabs ===== */
+.admin-filters {
+  max-width: 980px;
+  margin: 16px auto 0;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.filter-desc {
+  margin: 0;
+  font-size: 13px;
+  color: var(--muted);
+  opacity: 0.8;
+}
+
+.rv-tab {
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--muted);
+  border: 1px solid var(--border);
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.rv-tab:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text);
+}
+.rv-tab.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3);
+}
+
+.panel-hint.warn {
+  background: rgba(245, 158, 11, 0.1);
+  border-color: rgba(245, 158, 11, 0.3);
+  color: var(--accent-orange);
+}
+
 /* ===== Map + stage ===== */
 .stage {
   display: flex;
@@ -185,15 +239,6 @@ a { color: inherit; transition: all 0.2s ease; }
 }
 
 /* Leaflet control tweaks */
-.leaflet-control-zoom a {
-  background: var(--surface-solid) !important;
-  color: var(--text) !important;
-  border: 1px solid var(--border-strong) !important;
-  backdrop-filter: blur(8px);
-  border-radius: 6px !important;
-  box-shadow: var(--shadow-sm);
-}
-.leaflet-control-zoom a:hover { background: var(--surface-2) !important; }
 .leaflet-control-attribution {
   background: rgba(11, 13, 18, 0.55) !important;
   color: var(--muted) !important;
@@ -272,6 +317,50 @@ a { color: inherit; transition: all 0.2s ease; }
   transition: background-size 0.2s;
 }
 .panel-title a:hover { background-size: 100% 1px; }
+
+.panel-links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+.links-cta {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  margin-right: 2px;
+}
+.video-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.video-btn.bilibili {
+  background: #fb7299; /* Bilibili Pink */
+  box-shadow: 0 4px 12px rgba(251, 114, 153, 0.3);
+}
+.video-btn.bilibili:hover {
+  background: #ff85ad;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(251, 114, 153, 0.4);
+}
+.video-btn.youtube {
+  background: #ff0000; /* YouTube Red */
+  box-shadow: 0 4px 12px rgba(255, 0, 0, 0.3);
+}
+.video-btn.youtube:hover {
+  background: #ff3333;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(255, 0, 0, 0.4);
+}
 
 .panel-meta {
   display: flex;
@@ -707,25 +796,27 @@ body.contributor-mode .bar::before {
 .fab-btn {
   position: fixed;
   right: 20px;
-  bottom: 100px;
+  bottom: 80px;
   z-index: 1000;
-  background: var(--accent);
+  background: rgba(30, 30, 35, 0.85); /* Darker, cleaner semi-transparent */
   color: #fff;
-  padding: 12px 20px;
+  padding: 10px 18px;
   border-radius: 999px;
-  font-weight: 600;
-  font-size: 14px;
+  font-weight: 500;
+  font-size: 13px;
   text-decoration: none;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.1);
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  transition: all 0.2s ease;
   display: flex;
   align-items: center;
-  gap: 8px;
+  justify-content: center;
+  white-space: nowrap;
 }
 .fab-btn:hover {
-  background: var(--accent-hover);
+  background: rgba(45, 45, 50, 0.95);
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.3);
 }
 .fab-btn:active {
   transform: translateY(0);
@@ -745,7 +836,12 @@ body.contributor-mode .bar::before {
 }
 @media (max-width: 720px) {
   .desktop-hint { display: block; margin: 12px 16px 0; }
-  .fab-btn { right: 16px; bottom: 90px; padding: 10px 16px; font-size: 13px; }
+  .fab-btn { 
+    right: 16px; 
+    bottom: 30px; /* Move it up slightly from the very bottom on mobile */
+    padding: 8px 14px;
+    font-size: 12px;
+  }
 }
 
 @media (max-width: 720px) {

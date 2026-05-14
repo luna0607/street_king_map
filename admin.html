@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>完善地图 · 街头小小小霸王地图</title>
+<title>修改模式 · 街头小小小霸王地图</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,19 +11,27 @@
 </head>
 <body class="admin">
 <header class="bar">
-  <h1>完善地图 · 点位数据</h1>
+  <h1>修改模式 · 点位数据</h1>
   <div class="bar-right">
     <input id="filter" type="search" placeholder="通过标题 / 日期 / BV号过滤…">
     <span id="stats" class="status"></span>
     <span id="save-status" class="status" data-kind=""></span>
-    <button id="submit-gh" class="btn primary" hidden>提交到 GitHub</button>
+    <button id="submit-gh" class="btn primary">提交到 GitHub</button>
     <button id="download" class="btn ghost">导出</button>
-    <button id="reload" class="btn ghost">刷新</button>
-    <a class="btn ghost" href="merge_review.html">合并选择 →</a>
-    <a class="btn ghost" href="index.html">← 地图</a>
+    <button id="reload" class="btn ghost" hidden>刷新</button>
+    <a id="back-to-all" class="btn ghost" style="display:none">显示全部</a>
+    <a class="btn primary map-preview-btn" href="index.html">预览地图</a>
   </div>
 </header>
 <div class="desktop-hint">💡 建议在电脑上访问管理页面以获得最佳体验。</div>
+<div class="admin-filters">
+  <div id="tabs" class="social-links">
+    <button class="rv-tab active" data-tab="all">全部</button>
+    <button class="rv-tab" data-tab="no-pins">无点位</button>
+    <button class="rv-tab" data-tab="need-more">需补全</button>
+  </div>
+  <p class="filter-desc" id="tab-desc">显示所有视频内容。</p>
+</div>
 <p id="hint" class="hint"></p>
 <main id="list"></main>
 

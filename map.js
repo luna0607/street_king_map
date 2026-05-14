@@ -3,7 +3,6 @@ const US_ZOOM = 4;
 const FOCUS_ZOOM = 8;
 
 const map = L.map("map", { zoomControl: false }).setView(US_CENTER, US_ZOOM);
-L.control.zoom({ position: "bottomright" }).addTo(map);
 // Carto Voyager — cleaner, higher-DPI tiles than default OSM.
 L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
   attribution:
@@ -40,6 +39,8 @@ let locationsByBv = {};
 let selectedBv = null;
 let selectedLocIdx = 0;
 
+const NEED_MORE_PINS_BVS = new Set(["BV1HR1SBZEvu", "BV1e4421Z7HZ", "BV1txC4BaEqY", "BV1RwJPzKEZh", "BV1QtZwYyErj", "BV1VEsdevEbq", "BV1D9sSejEqy", "BV1XxMgz9Eu7", "BV1DMxkeZE8L", "BV1FbikYDEDH", "BV1LTvNz2Ezc", "BV1aH4y1w7b6", "BV1q94mexEnw", "BV1mH4y1F7sj", "BV1nwecz6Eqm", "BV1UuENz4E4J", "BV13VKweeEdr", "BV1pE4m1R7cZ", "BV1EGtHepEKt", "BV1zQ4LeqEjD", "BV1zXsoz6EF1", "BV1vS411w7bh", "BV15pAdejE8g", "BV1H6HZe7Emo", "BV1pS411w7H9", "BV17eSLYzEDH", "BV13iLxzUEGj", "BV1xx4y1s7Ej", "BV1Ky411v7K4", "BV1fiNizwEkt", "BV1BY5AztEx5", "BV16FfmYsE6n", "BV1GLWczvEsN", "BV1DT421a7TX", "BV1FixWeoEaV", "BV1kGyuB3Eqi", "BV11U411m7uS", "BV19E421w7Mj", "BV1KCWXzMEAy", "BV1DLn2znE2g", "BV1uW42197JH", "BV114421U78a", "BV1jNp4z5E8n", "BV1NdPLexEX7", "BV1UpwReYET5", "BV1Rfb4zZEH4", "BV1Rhn4zBEZJ", "BV1ii421h7cQ", "BV1Xy411e7EZ", "BV1QT421k7bn", "BV1Pf421i7bv", "BV1U2oVYMErk", "BV1k1GvzQE3E", "BV1QadZYaE3R", "BV1VygczBEhg", "BV1uSaGznE2s", "BV1AVHkzcEFE", "BV1sn4y1f7WN", "BV1LKtBehEoo", "BV1hY57zREQX", "BV12o9QYPEPv", "BV1u1USB1EeB", "BV1jmHnztE5x", "BV1QFC6Y7Efp", "BV1EgRiY5E5t", "BV1EpSCYDEi4", "BV1Fpxxz9EFg", "BV13xCRYoESp", "BV1LeHmerEaV", "BV1JfK3zPEEE", "BV1kWqUYGEZc", "BV1fgyxB2ENe", "BV1UfUoYzEgD", "BV1dJFUeWEYH", "BV1z1SFBxEtg"]);
+
 panelClose.addEventListener("click", closePanel);
 mapFullscreenBtn.addEventListener("click", () => { closePanel(); window.scrollTo({ top: 0, behavior: "smooth" }); });
 map.on("click", closePanel); // clicking empty map area closes panel
@@ -49,10 +50,14 @@ load();
 
 async function load() {
   try {
-    const [videos, locations] = await Promise.all([
-      fetch("data/videos.json", { cache: "no-store" }).then((r) => r.json()),
+    const [mergedVideos, locations] = await Promise.all([
+      fetch("data/merged_videos.json", { cache: "no-store" }).then((r) => r.json()),
       fetch("data/locations.json", { cache: "no-store" }).then((r) => r.json()),
     ]);
+    const videos = mergedVideos.map(v => ({
+      ...v.bilibili,
+      youtube: v.youtube
+    }));
     videoByBv = new Map(videos.map((v) => [v.bv, v]));
     locationsByBv = locations || {};
     render(videos);
@@ -112,6 +117,10 @@ function selectVideo(bv) {
   renderSecondaryMarkers();
   flyToLocation(0);
   openPanel();
+
+  // Update FAB button link to point to this specific video in admin
+  const fab = document.querySelector(".fab-btn");
+  if (fab) fab.href = `admin.html#${bv}`;
 }
 
 function flyToLocation(idx) {
@@ -172,6 +181,11 @@ function closePanel() {
   mapFullscreenBtn.hidden = true;
   document.body.classList.remove("panel-open");
   secondaryLayer.clearLayers();
+
+  // Reset FAB button link
+  const fab = document.querySelector(".fab-btn");
+  if (fab) fab.href = "admin.html";
+
   requestAnimationFrame(() => map.invalidateSize());
 }
 
@@ -190,12 +204,18 @@ function renderPanel() {
     <h2 class="panel-title">
       <a href="${esc(video.link)}" target="_blank" rel="noopener">${esc(video.name)}</a>
     </h2>
+    <div class="panel-links">
+      <span class="links-cta">一键直达原视频 →</span>
+      <a class="video-btn bilibili" href="${esc(video.link)}" target="_blank" rel="noopener">Bilibili</a>
+      ${video.youtube && video.youtube.link ? `<a class="video-btn youtube" href="${esc(video.youtube.link)}" target="_blank" rel="noopener">YouTube</a>` : ""}
+    </div>
     <div class="panel-meta">
       <span>${esc(video.post_date)}</span>
       <span>·</span><span>${esc(video.length)}</span>
       <span>·</span><span>▶ ${esc(video.visit_volume)}</span>
       <span>·</span><span>💬 ${esc(video.danmu_volume)}</span>
     </div>
+    ${NEED_MORE_PINS_BVS.has(selectedBv) ? `<div class="panel-hint warn">💡 本视频可能包含更多地点，欢迎提供补充。</div>` : ""}
     ${locs.length > 1 ? `<div class="panel-hint">${locs.length} 个地点 — 蓝色为主要地点，其余在地图上显示为橙色</div>` : ""}
     <ol class="panel-locs">${locs.map((loc, i) => renderLocCard(loc, i)).join("")}</ol>
   `;

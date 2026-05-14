@@ -3,6 +3,8 @@ const CONTRIB_KEY = "street_king_map.edits.v2";
 const ISSUE_URL = "https://github.com/luna0607/street_king_map/issues/new";
 const MAX_PREFILL_LEN = 6000; // GitHub issue form URL prefill cap (approx)
 
+const NEED_MORE_PINS_BVS = new Set(["BV1HR1SBZEvu", "BV1e4421Z7HZ", "BV1txC4BaEqY", "BV1RwJPzKEZh", "BV1QtZwYyErj", "BV1VEsdevEbq", "BV1D9sSejEqy", "BV1XxMgz9Eu7", "BV1DMxkeZE8L", "BV1FbikYDEDH", "BV1LTvNz2Ezc", "BV1aH4y1w7b6", "BV1q94mexEnw", "BV1mH4y1F7sj", "BV1nwecz6Eqm", "BV1UuENz4E4J", "BV13VKweeEdr", "BV1pE4m1R7cZ", "BV1EGtHepEKt", "BV1zQ4LeqEjD", "BV1zXsoz6EF1", "BV1vS411w7bh", "BV15pAdejE8g", "BV1H6HZe7Emo", "BV1pS411w7H9", "BV17eSLYzEDH", "BV13iLxzUEGj", "BV1xx4y1s7Ej", "BV1Ky411v7K4", "BV1fiNizwEkt", "BV1BY5AztEx5", "BV16FfmYsE6n", "BV1GLWczvEsN", "BV1DT421a7TX", "BV1FixWeoEaV", "BV1kGyuB3Eqi", "BV11U411m7uS", "BV19E421w7Mj", "BV1KCWXzMEAy", "BV1DLn2znE2g", "BV1uW42197JH", "BV114421U78a", "BV1jNp4z5E8n", "BV1NdPLexEX7", "BV1UpwReYET5", "BV1Rfb4zZEH4", "BV1Rhn4zBEZJ", "BV1ii421h7cQ", "BV1Xy411e7EZ", "BV1QT421k7bn", "BV1Pf421i7bv", "BV1U2oVYMErk", "BV1k1GvzQE3E", "BV1QadZYaE3R", "BV1VygczBEhg", "BV1uSaGznE2s", "BV1AVHkzcEFE", "BV1sn4y1f7WN", "BV1LKtBehEoo", "BV1hY57zREQX", "BV12o9QYPEPv", "BV1u1USB1EeB", "BV1jmHnztE5x", "BV1QFC6Y7Efp", "BV1EgRiY5E5t", "BV1EpSCYDEi4", "BV1Fpxxz9EFg", "BV13xCRYoESp", "BV1LeHmerEaV", "BV1JfK3zPEEE", "BV1kWqUYGEZc", "BV1fgyxB2ENe", "BV1UfUoYzEgD", "BV1dJFUeWEYH", "BV1z1SFBxEtg"]);
+
 const state = {
   videos: [],
   baseline: {},       // bv -> [loc] — from data/locations.json (immutable in contributor mode)
@@ -10,16 +12,27 @@ const state = {
   updates: [],        // { bv, match_url, set: {...} } — baseline pins the contributor edited
   removals: [],       // { bv, match_url } — baseline pins the contributor wants removed
   filter: "",
+  activeTab: "all",
 };
 
 const listEl = document.getElementById("list");
 const statsEl = document.getElementById("stats");
 const saveStatusEl = document.getElementById("save-status");
 const filterEl = document.getElementById("filter");
+const tabsEl = document.getElementById("tabs");
+const tabDescEl = document.getElementById("tab-desc");
 const hintEl = document.getElementById("hint");
+
+const tabDescriptions = {
+  all: "显示所有视频内容。",
+  "no-pins": "筛选尚未在地图上标注任何点位的视频（访谈类、非美国内容等）。",
+  "need-more": "筛选出可能包含多个地点但目前标注不足的视频列表。"
+};
+
 const exportBtn = document.getElementById("download");
 const reloadBtn = document.getElementById("reload");
 const submitBtn = document.getElementById("submit-gh");
+const backToAllBtn = document.getElementById("back-to-all");
 
 const editDialog = document.getElementById("edit-dialog");
 const editForm = document.getElementById("edit-form");
@@ -33,6 +46,28 @@ let lastSubmitUrl = null;     // remembered for "Reopen issue form"
 
 filterEl.addEventListener("input", () => {
   state.filter = filterEl.value.trim().toLowerCase();
+  renderList();
+  updateBackToAllVisibility();
+});
+
+backToAllBtn.addEventListener("click", () => {
+  state.filter = "";
+  filterEl.value = "";
+  if (location.hash) history.pushState("", document.title, window.location.pathname + window.location.search);
+  renderList();
+  updateBackToAllVisibility();
+});
+
+function updateBackToAllVisibility() {
+  backToAllBtn.style.display = (state.filter || (location.hash && location.hash !== "#")) ? "inline-flex" : "none";
+}
+
+tabsEl.addEventListener("click", (e) => {
+  const btn = e.target.closest(".rv-tab");
+  if (!btn) return;
+  state.activeTab = btn.dataset.tab;
+  tabsEl.querySelectorAll(".rv-tab").forEach(t => t.classList.toggle("active", t === btn));
+  tabDescEl.textContent = tabDescriptions[state.activeTab];
   renderList();
 });
 
@@ -65,6 +100,9 @@ function setupHint() {
     hintEl.innerHTML = "";
     exportBtn.textContent = "导出";
     exportBtn.title = "下载当前 data/locations.json 的副本";
+    submitBtn.hidden = false;
+    reloadBtn.textContent = "刷新";
+    reloadBtn.hidden = false; // Show it anyway as requested
   } else {
     hintEl.innerHTML = `
       <strong>贡献者模式。</strong> 您可以在下方的任何视频中添加、编辑或删除点位 — 您的更改仅保存在此浏览器中。
@@ -75,6 +113,7 @@ function setupHint() {
     exportBtn.title = "将您的更改下载为 contributions.json";
     submitBtn.hidden = false;
     reloadBtn.textContent = "舍弃我的编辑";
+    reloadBtn.hidden = false;
   }
 }
 
@@ -93,7 +132,27 @@ async function boot() {
     reconcileAgainstBaseline(); // drop items already present in baseline
   }
   await migrateLegacyDraft();
+
+  // Handle direct link from map
+  const hash = location.hash.replace("#", "");
+  if (hash && hash.startsWith("BV")) {
+    state.filter = hash.toLowerCase();
+    filterEl.value = hash;
+  }
+
   renderList();
+  updateBackToAllVisibility();
+
+  if (hash && hash.startsWith("BV")) {
+    const el = document.querySelector(`[data-bv="${hash}"]`);
+    if (el) {
+      setTimeout(() => {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+        el.style.boxShadow = "0 0 0 3px var(--accent)";
+        setTimeout(() => { el.style.boxShadow = ""; }, 2000);
+      }, 100);
+    }
+  }
 }
 
 function loadContributionsFromStorage() {
@@ -299,13 +358,29 @@ function showSubmitDialog(payload) {
 
 function renderList() {
   const q = state.filter;
+  const tab = state.activeTab;
+
   const videos = state.videos.filter((v) => {
-    if (!q) return true;
-    return (
-      v.name.toLowerCase().includes(q) ||
-      v.post_date.includes(q) ||
-      (v.bv || "").toLowerCase().includes(q)
-    );
+    // 1. Text filter
+    if (q) {
+      const match = (
+        v.name.toLowerCase().includes(q) ||
+        v.post_date.includes(q) ||
+        (v.bv || "").toLowerCase().includes(q)
+      );
+      if (!match) return false;
+    }
+
+    // 2. Tab filter
+    const pinCount = (state.baseline[v.bv] || []).length;
+    if (tab === "no-pins") {
+      return pinCount === 0;
+    }
+    if (tab === "need-more") {
+      return NEED_MORE_PINS_BVS.has(v.bv);
+    }
+
+    return true;
   });
 
   listEl.innerHTML = videos.map(renderCard).join("");
