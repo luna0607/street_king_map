@@ -2459,5 +2459,47 @@
       "lng": -96.4544167,
       "contributor": "luna0607"
     }
+  ],
+  "BV1LuRMBDEcX": [
+    {
+      "place_name": "新奥尔良",
+      "google_maps_url": "https://www.google.com/maps/place/New+Orleans,+LA/@30.0328442,-90.2122233,10z/data=!3m1!4b1!4m6!3m5!1s0x8620a454b2118265:0xdb065be85e22d3b4!8m2!3d29.9508941!4d-90.0758356!16zL20vMGYydGo?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 30.0328442,
+      "lng": -90.2122233,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "阿尔及尔角",
+      "google_maps_url": "https://www.google.com/maps/place/Algiers+Point,+New+Orleans,+LA+70114/@30.0328442,-90.2122233,10z/data=!4m6!3m5!1s0x8620a63f3ad3db09:0xc106dd061ebee396!8m2!3d29.9523621!4d-90.0501574!16zL20vMDljcmJy?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 30.0328442,
+      "lng": -90.2122233,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "友善咖啡店",
+      "google_maps_url": "https://www.google.com/maps/place/Morning+Call+Coffee+Stand/@29.9824698,-90.1128483,17z/data=!3m1!4b1!4m6!3m5!1s0x8620af9bd6cc59e1:0x2a1baa13dfaac5fa!8m2!3d29.9824652!4d-90.1102734!16s%2Fg%2F11t06jm0vb?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 29.9824698,
+      "lng": -90.1128483,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "轮渡",
+      "google_maps_url": "https://www.google.com/maps/place/Chalmette+%2F+Lower+Algiers+Ferry+Landing/@29.9236864,-89.9749558,15.94z/data=!4m10!1m2!2m1!1slower+algiers+ferry+schedule!3m6!1s0x889e1d078ccfc281:0x5b1e5a07d4879d39!8m2!3d29.9276364!4d-89.9711502!15sChxsb3dlciBhbGdpZXJzIGZlcnJ5IHNjaGVkdWxlkgEOZmVycnlfdGVybWluYWzgAQA!16s%2Fg%2F1jkxd3699?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 29.9236864,
+      "lng": -89.9749558,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "市中心老街",
+      "google_maps_url": "https://www.google.com/maps/place/Boot+Scootin+Rodeo/@29.9574683,-90.0666886,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhDuSS0LdnGdSPrO4utTsWKY!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAE5qAU9ItZZje2joOWCfr9BzfDUJcmwYkkN-toyx6gb9zAbHU1NSN1SkB4oW06_4sBUmF-qQ9qYmrqo25F5fFjEErotWwZf4F5nHkPzu8kelyYQ9pxRPLvDE_vz0KWgQ-2S1fMnM0hQTT_e%3Dw86-h114-k-no!7i3000!8i4000!4m7!3m6!1s0x8620a7f5012e407d:0xe0c5a8b6cfa636f5!8m2!3d29.9573465!4d-90.0665566!10e5!16s%2Fg%2F11h27ws1kj?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 29.9574683,
+      "lng": -90.0666886,
+      "contributor": "luna0607"
+    }
   ]
 }
