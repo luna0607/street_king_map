@@ -2122,12 +2122,20 @@
   ],
   "BV1kWqUYGEZc": [
     {
-      "place_name": "格拉纳达",
-      "google_maps_url": "https://www.google.com/maps/place/Granada,+CO+81041/@40.4435115,-104.8172318,5.24z/data=!4m6!3m5!1s0x870c1c437b4e9c9b:0xa14ac039282d1785!8m2!3d38.0638981!4d-102.3104673!16zL20vMHJjY18?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+      "place_name": "Amache National Historic Site",
+      "google_maps_url": "https://www.google.com/maps/place/Amache+National+Historic+Site/@38.056303,-102.3317669,17z/data=!3m1!4b1!4m6!3m5!1s0x870c1c398a0916a7:0x71de615396e8d6ba!8m2!3d38.056303!4d-102.329192!16s%2Fm%2F06z_zqz?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
       "comment": "",
-      "lat": 40.4435115,
-      "lng": -104.8172318,
-      "contributor": "luna0607"
+      "lat": 38.056303,
+      "lng": -102.3317669,
+      "contributor": "yanlai00"
+    },
+    {
+      "place_name": "Sand Creek Massacre National Historic Site",
+      "google_maps_url": "https://www.google.com/maps/place/Sand+Creek+Massacre+National+Historic+Site/@38.5442305,-102.5062944,17z/data=!3m1!4b1!4m6!3m5!1s0x870c4455ebe8e931:0xca42dc2930980e25!8m2!3d38.5442305!4d-102.5037195!16zL20vMDZneXFf?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.5442305,
+      "lng": -102.5062944,
+      "contributor": "yanlai00"
     }
   ],
   "BV1FbikYDEDH": [
