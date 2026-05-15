@@ -2510,5 +2510,55 @@
       "lng": -90.0666886,
       "contributor": "luna0607"
     }
+  ],
+  "BV1R8R9YWE6V": [
+    {
+      "place_name": "巴黎戴高乐国际机场",
+      "google_maps_url": "https://www.google.com/maps/place/%E5%B7%B4%E9%BB%8E%E5%A4%8F%E5%B0%94%C2%B7%E6%88%B4%E9%AB%98%E4%B9%90%E6%9C%BA%E5%9C%BA/@49.0080711,2.556362,14z/data=!4m6!3m5!1s0x47e63e038e4ccf5b:0x42be0982f5ba62c!8m2!3d49.0078827!4d2.5507855!16zL20vMHFrNzk?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 49.0080711,
+      "lng": 2.556362,
+      "contributor": "AKMYAN"
+    },
+    {
+      "place_name": "古桑维尔车站",
+      "google_maps_url": "https://www.google.com/maps/place/Gare+des+Noues/@49.0321137,2.4764224,17z/data=!4m14!1m7!3m6!1s0x47e63e038e4ccf5b:0x42be0982f5ba62c!2z5be06buO5aSP5bCUwrfmiLTpq5jkuZDmnLrlnLo!8m2!3d49.0078827!4d2.5507855!16zL20vMHFrNzk!3m5!1s0x47e63ff45faf6ad7:0xaa2340061d0d39d0!8m2!3d49.03231!4d2.47635!16s%2Fg%2F11r0h8q7dj?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "机场附近的小镇",
+      "lat": 49.0321137,
+      "lng": 2.4764224,
+      "contributor": "AKMYAN"
+    },
+    {
+      "place_name": "巴黎93区的挂壁旅店",
+      "google_maps_url": "https://www.google.com.hk/maps/place/hotelF1+Paris+Saint-Denis+Universit%C3%A9/@48.9381531,2.3654456,17z/data=!3m1!4b1!4m9!3m8!1s0x47e61456c36f1773:0x8c4fc0124fbc65e7!5m2!4m1!1i2!8m2!3d48.9381531!4d2.3680205!16s%2Fg%2F1hc89q7h6?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.9381531,
+      "lng": 2.3654456,
+      "contributor": "AKMYAN"
+    },
+    {
+      "place_name": "圣丹尼市场",
+      "google_maps_url": "https://www.google.com.hk/maps/place/March%C3%A9+de+Saint-Denis/@48.93856,2.3532951,17z/data=!3m1!4b1!4m6!3m5!1s0x47e6694b6d99a911:0xa5d9518d63e9deed!8m2!3d48.93856!4d2.35587!16s%2Fg%2F11mhwp75xc?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.93856,
+      "lng": 2.3532951,
+      "contributor": "AKMYAN"
+    },
+    {
+      "place_name": "法兰西体育场",
+      "google_maps_url": "https://www.google.com.hk/maps/place/%E6%B3%95%E5%85%B0%E8%A5%BF%E4%BD%93%E8%82%B2%E5%9C%BA/@48.924504,2.3574592,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66ebadd2263bf:0x70c04f7109156311!8m2!3d48.924504!4d2.3600341!16zL20vMDM4eGcz?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.924504,
+      "lng": 2.3574592,
+      "contributor": "AKMYAN"
+    },
+    {
+      "place_name": "圣丹尼圣殿",
+      "google_maps_url": "https://www.google.com.hk/maps/place/%E5%9C%A3%E5%BE%B7%E5%B0%BC%E5%9C%A3%E6%AE%BF/@48.9322656,2.3567014,16.75z/data=!4m6!3m5!1s0x47e66eb312fc18bd:0xf2ffbe58c6ffe57c!8m2!3d48.9356939!4d2.3591168!16zL20vMGhrYjg?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.9322656,
+      "lng": 2.3567014,
+      "contributor": "AKMYAN"
+    }
   ]
 }
