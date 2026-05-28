@@ -2560,5 +2560,15 @@
       "lng": 2.3567014,
       "contributor": "AKMYAN"
     }
+  ],
+  "BV1WmGv63EXH": [
+    {
+      "place_name": "贫民窟",
+      "google_maps_url": "https://www.google.com/maps/place/Skid+Row,+Los+Angeles,+CA/@34.0422802,-118.2550184,15z/data=!3m1!4b1!4m6!3m5!1s0x80c2c636190c5c5d:0xc1ffe1113f3e4030!8m2!3d34.044205!4d-118.2439226!16zL20vMGd5bTJ3?entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Skid Row",
+      "lat": 34.0422802,
+      "lng": -118.2550184,
+      "contributor": "luna0607"
+    }
   ]
 }
