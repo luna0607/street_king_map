@@ -2570,5 +2570,103 @@
       "lng": -118.2550184,
       "contributor": "luna0607"
     }
+  ],
+  "BV1FZVu6aEW7": [
+    {
+      "place_name": "饺子馆",
+      "google_maps_url": "https://www.google.com/maps/place/Zhu+Ji+Dumpling+House/@40.7565645,-73.8298758,15.83z/data=!3m1!5s0x89c2601213a719d1:0xd233129a7c8adbb5!4m14!1m7!3m6!1s0x89e830f2d11e02ed:0xfc93d16adc8c4dfd!2sNY+State+Office+Building!8m2!3d40.821094!4d-73.220025!16s%2Fg%2F11vj4z5_87!3m5!1s0x89c26011ff00852d:0x6e130ac8867f61c6!8m2!3d40.758097!4d-73.8299576!16s%2Fg%2F11cs36k24s?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "Zhu Ji Dumpling House",
+      "lat": 40.7565645,
+      "lng": -73.8298758,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Ellen E. Ward Memorial Clock Tower",
+      "google_maps_url": "https://www.google.com/maps/place/Ellen+E.+Ward+Memorial+Clock+Tower/@40.7995947,-73.6509241,18.88z/data=!4m14!1m7!3m6!1s0x89e830f2d11e02ed:0xfc93d16adc8c4dfd!2sNY+State+Office+Building!8m2!3d40.821094!4d-73.220025!16s%2Fg%2F11vj4z5_87!3m5!1s0x89c287de9bd02563:0x75b9a408689e6f13!8m2!3d40.7997597!4d-73.6504939!16s%2Fg%2F11q8jqr0rn?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.7995947,
+      "lng": -73.6509241,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Salvador Grocery & Deli.",
+      "google_maps_url": "https://www.google.com/maps/place/Salvador+Grocery+%26+Deli./@40.7682409,-73.5260926,17z/data=!4m10!1m2!2m1!1sdeli!3m6!1s0x89c28102be3836ed:0x89c6abafd574cb5f!8m2!3d40.7673896!4d-73.523395!15sCgRkZWxpWgYiBGRlbGmSAQ1ncm9jZXJ5X3N0b3JlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1U1lXTnFUbkpPV0VwNFdXeENRazVZY0d0aVJGcHFXVmRXTlZGVlJSQULgAQD6AQQIABBD!16s%2Fg%2F11frkcgm58?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.7682409,
+      "lng": -73.5260926,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "NEW YORK STATE OFFICE BUILDING",
+      "google_maps_url": "https://www.google.com/maps/place/NEW+YORK+STATE+OFFICE+BUILDING/@40.8201862,-73.2222341,17z/data=!3m1!4b1!4m6!3m5!1s0x89e830f2e84126bd:0x5df298f0a2d31f3e!8m2!3d40.8201822!4d-73.2196592!16s%2Fg%2F11h7rnzz3v?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8201862,
+      "lng": -73.2222341,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "麦当劳",
+      "google_maps_url": "https://www.google.com/maps/place/McDonald's/@40.9170015,-72.6624651,17.12z/data=!4m6!3m5!1s0x89e88b2abdfc0e6d:0x797a901d7ec5129c!8m2!3d40.9149993!4d-72.6611897!16s%2Fg%2F1tph2s6x?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9170015,
+      "lng": -72.6624651,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "The Big Duck",
+      "google_maps_url": "https://www.google.com/maps/place/The+Big+Duck/@40.9034685,-72.6405376,14.5z/data=!4m6!3m5!1s0x89e88b534fc78911:0x537c9f5a6b95e41!8m2!3d40.9072782!4d-72.6224801!16zL20vMGQ0bnls?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9034685,
+      "lng": -72.6405376,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Greenport",
+      "google_maps_url": "https://www.google.com/maps/place/Greenport,+NY+11944/@41.1041265,-72.3601052,15.96z/data=!4m6!3m5!1s0x89e896dc7cb248c3:0x4db742bd62420f64!8m2!3d41.1034326!4d-72.3592501!16zL20vMDExcTVf?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.1041265,
+      "lng": -72.3601052,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Cross Sound Ferry at Orient Point",
+      "google_maps_url": "https://www.google.com/maps/place/Cross+Sound+Ferry+at+Orient+Point/@41.1566532,-72.2440435,16.75z/data=!4m15!1m8!3m7!1s0x89e896dc7cb248c3:0x4db742bd62420f64!2sGreenport,+NY+11944!3b1!8m2!3d41.1034326!4d-72.3592501!16zL20vMDExcTVf!3m5!1s0x89e8a0ac19e6eed5:0x48e1e6c1aeeae061!8m2!3d41.1551904!4d-72.2416914!16s%2Fg%2F125_zj8bz?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.1566532,
+      "lng": -72.2440435,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Opties and Dinghies",
+      "google_maps_url": "https://www.google.com/maps/place/Opties+and+Dinghies/@41.0746447,-72.3527828,15.58z/data=!4m15!1m8!3m7!1s0x89e896dc7cb248c3:0x4db742bd62420f64!2sGreenport,+NY+11944!3b1!8m2!3d41.1034326!4d-72.3592501!16zL20vMDExcTVf!3m5!1s0x89e8a111c236968f:0xd0c6739c2f80f07e!8m2!3d41.0745223!4d-72.3418769!16s%2Fg%2F11h59pt979?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.0746447,
+      "lng": -72.3527828,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Sag Harbor",
+      "google_maps_url": "https://www.google.com/maps/place/Sag+Harbor,+NY+11963/@40.9972819,-72.3013563,15.29z/data=!4m15!1m8!3m7!1s0x89e896dc7cb248c3:0x4db742bd62420f64!2sGreenport,+NY+11944!3b1!8m2!3d41.1034326!4d-72.3592501!16zL20vMDExcTVf!3m5!1s0x89e8bd23cca70ca7:0xd8ff0f5b96c0899d!8m2!3d40.9978773!4d-72.2925819!16zL20vMHk5N2M?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9972819,
+      "lng": -72.3013563,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Hunts Point Produce Market",
+      "google_maps_url": "https://www.google.com/maps/place/Hunts+Point+Produce+Market/@40.8079506,-73.8780717,16.04z/data=!4m15!1m8!3m7!1s0x89e896dc7cb248c3:0x4db742bd62420f64!2sGreenport,+NY+11944!3b1!8m2!3d41.1034326!4d-72.3592501!16zL20vMDExcTVf!3m5!1s0x89c2f503dc219a4b:0x41fc67f6ea713150!8m2!3d40.8130478!4d-73.8786601!16s%2Fg%2F11bwc0kmw2?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8079506,
+      "lng": -73.8780717,
+      "contributor": "lyxmemo"
+    },
+    {
+      "place_name": "Fulton Fish Market Cooperative",
+      "google_maps_url": "https://www.google.com/maps/place/Fulton+Fish+Market+Cooperative/@40.8079506,-73.8780717,16.04z/data=!4m15!1m8!3m7!1s0x89e896dc7cb248c3:0x4db742bd62420f64!2sGreenport,+NY+11944!3b1!8m2!3d41.1034326!4d-72.3592501!16zL20vMDExcTVf!3m5!1s0x89c2f5120473969b:0x5b520545dbc47a2b!8m2!3d40.8025894!4d-73.8752431!16zL20vMDJiX3F3?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.8079506,
+      "lng": -73.8780717,
+      "contributor": "lyxmemo"
+    }
   ]
 }
