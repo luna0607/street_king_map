@@ -1485,14 +1485,6 @@
   ],
   "BV19ymsBLEC8": [
     {
-      "place_name": "Chautauqua County",
-      "google_maps_url": "https://www.google.com/maps/place/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E5%AD%B8%E6%89%98%E6%93%B4%E9%83%A1/@42.341193,-80.0702857,9z/data=!3m1!4b1!4m6!3m5!1s0x89d2b5c77bcd8a47:0x6612237daa58990f!8m2!3d42.2312829!4d-79.560344!16zL20vMGRyc18?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
-      "comment": "",
-      "lat": 42.341193,
-      "lng": -80.0702857,
-      "contributor": "luna0607"
-    },
-    {
       "place_name": "Jamestown?",
       "google_maps_url": "https://www.google.com/maps/place/14701%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E8%A9%B9%E5%A7%86%E6%96%AF%E6%95%A6/@42.1012953,-79.2798554,13z/data=!3m1!4b1!4m6!3m5!1s0x89d2a8e4143e8a2b:0x650f6a65c85e2b7b!8m2!3d42.0970023!4d-79.2353259!16zL20vMHh5bmw?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
       "comment": "",
@@ -1500,6 +1492,14 @@
       "lng": -79.2798554,
       "contributor": "luna0607",
       "last_edited_by": "luna0607"
+    },
+    {
+      "place_name": "Saint Regis QC",
+      "google_maps_url": "https://www.google.com/maps/place/Akwesasne,+%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81+H0M+0A1%E5%8A%A0%E6%8B%BF%E5%A4%A7/@45.0012362,-74.6605887,15z/data=!3m1!4b1!4m6!3m5!1s0x4ccc10147179f5c1:0x2511c2201425cf73!8m2!3d45.001222!4d-74.650289!16s%2Fg%2F11bc68h3kj?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "in Canada",
+      "lat": 45.0012362,
+      "lng": -74.6605887,
+      "contributor": "nuckyal-sys"
     }
   ],
   "BV1zx25BREJd": [
