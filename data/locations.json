@@ -1485,21 +1485,53 @@
   ],
   "BV19ymsBLEC8": [
     {
-      "place_name": "Chautauqua County",
-      "google_maps_url": "https://www.google.com/maps/place/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E5%AD%B8%E6%89%98%E6%93%B4%E9%83%A1/@42.341193,-80.0702857,9z/data=!3m1!4b1!4m6!3m5!1s0x89d2b5c77bcd8a47:0x6612237daa58990f!8m2!3d42.2312829!4d-79.560344!16zL20vMGRyc18?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
-      "comment": "",
-      "lat": 42.341193,
-      "lng": -80.0702857,
-      "contributor": "luna0607"
-    },
-    {
-      "place_name": "Jamestown?",
+      "place_name": "Jamestown, NY",
       "google_maps_url": "https://www.google.com/maps/place/14701%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E8%A9%B9%E5%A7%86%E6%96%AF%E6%95%A6/@42.1012953,-79.2798554,13z/data=!3m1!4b1!4m6!3m5!1s0x89d2a8e4143e8a2b:0x650f6a65c85e2b7b!8m2!3d42.0970023!4d-79.2353259!16zL20vMHh5bmw?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
-      "comment": "",
+      "comment": "Below addresses marked in order of passing",
       "lat": 42.1012953,
       "lng": -79.2798554,
       "contributor": "luna0607",
-      "last_edited_by": "luna0607"
+      "last_edited_by": "nuckyal-sys"
+    },
+    {
+      "place_name": "Akwesasne, NY",
+      "google_maps_url": "https://www.google.com/maps/place/Akwesasne,+%E7%B4%90%E7%B4%84%E7%BE%8E%E5%9C%8B/@44.9813872,-74.717061,12z/data=!4m6!3m5!1s0x4ccc102c94d608f7:0x70c9e5ff305c5977!8m2!3d44.97859!4d-74.6826452!16s%2Fg%2F11bc6njltv?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "The Akwesasne reservation straddles the US and Canada, as well as New York State, Ontario, and Quebec. Strictly speaking, only reservation residents can travel freely between the three jurisdictions without restrictions. So Steet-King didn't enter Saint Regis QC and just turned back",
+      "lat": 44.9813872,
+      "lng": -74.717061,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Fort Covington, NY",
+      "google_maps_url": "https://www.google.com/maps/place/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E5%8D%A1%E6%BA%AB%E9%A0%93%E5%A0%A1/@44.9260643,-74.7500235,10.67z/data=!4m6!3m5!1s0x4ccc08f3cf1d4839:0xf2b5627f4edf3b48!8m2!3d44.988444!4d-74.49651!16zL20vMHhfeHo?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.9260643,
+      "lng": -74.7500235,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Massena, NY",
+      "google_maps_url": "https://www.google.com/maps/place/13662%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E9%A6%AC%E5%A1%9E%E7%B4%8D/@44.9262449,-74.9331491,13z/data=!3m1!4b1!4m6!3m5!1s0x4ccc3e334844bb3d:0xf3532d54519c10d7!8m2!3d44.9279308!4d-74.891794!16zL20vMDN6MHE0?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "a delicious chinese restaurant on Main ST",
+      "lat": 44.9262449,
+      "lng": -74.9331491,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Rouses Point, NY",
+      "google_maps_url": "https://www.google.com/maps/place/Rouses+Point,+%E7%B4%90%E7%B4%84%E7%BE%8E%E5%9C%8B/@44.9877188,-73.365756,13.16z/data=!4m6!3m5!1s0x4cc98802cc912f89:0xad9eaa68dfbebc70!8m2!3d44.9939279!4d-73.3648557!16zL20vMHh6NzY?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.9877188,
+      "lng": -73.365756,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Newburgh, NY",
+      "google_maps_url": "https://www.google.com/maps/place/12550%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E7%B4%90%E5%A0%A1/@41.5032403,-74.0423107,14z/data=!4m15!1m8!3m7!1s0x89dd2bf1836bd927:0xf745d68dec3c106e!2zMTI1NTDnvo7lnIvntJDntITntJDloKE!3b1!8m2!3d41.5034271!4d-74.0104178!16zL20vMDFtZjQ5!3m5!1s0x89dd2bf1836bd927:0xf745d68dec3c106e!8m2!3d41.5034271!4d-74.0104178!16zL20vMDFtZjQ5?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 41.5032403,
+      "lng": -74.0423107,
+      "contributor": "nuckyal-sys"
     }
   ],
   "BV1zx25BREJd": [
@@ -1832,12 +1864,85 @@
   ],
   "BV1jNp4z5E8n": [
     {
-      "place_name": "吕贝克",
+      "place_name": "Lubec, ME(吕贝克)",
       "google_maps_url": "https://www.google.com/maps/place/Lubec,+ME/@44.8130542,-67.591666,10z/data=!3m1!4b1!4m6!3m5!1s0x4ca8be2f59384917:0xc12605a6654e78ca!8m2!3d44.8580113!4d-66.9870513!16zL20vMHRzbno?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
-      "comment": "",
+      "comment": "Lubec is a town in Washington County, Maine, United States. It is the easternmost municipality in the contiguous U.S",
       "lat": 44.8130542,
       "lng": -67.591666,
-      "contributor": "luna0607"
+      "contributor": "luna0607",
+      "last_edited_by": "nuckyal-sys"
+    },
+    {
+      "place_name": "West Quoddy Head Lighthouse",
+      "google_maps_url": "https://www.google.com/maps/place/West+Quoddy+Head+Lighthouse/@44.7748074,-67.0343238,11.68z/data=!4m6!3m5!1s0x4ca895c70fd9230d:0xb812c5046bb0c370!8m2!3d44.8150709!4d-66.9504905!16zL20vMDN4MDls?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.7748074,
+      "lng": -67.0343238,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Franklin Delano Roosevelt Bridge",
+      "google_maps_url": "https://www.google.com/maps/place/Franklin+Delano+Roosevelt+Bridge/@44.9418198,-67.048424,11.11z/data=!4m6!3m5!1s0x4ca8bda38c0cd87b:0x6765f2e6c25d5ca2!8m2!3d44.8592767!4d-66.9803777!16s%2Fg%2F11r99n626n?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "way to Canada",
+      "lat": 44.9418198,
+      "lng": -67.048424,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Cohill's Inn",
+      "google_maps_url": "https://www.google.com/maps/place/Cohill's+Inn/@44.8618938,-66.9864589,17z/data=!3m1!4b1!4m9!3m8!1s0x4ca8bdbffbda9b97:0x913120e895bd88ea!5m2!4m1!1i2!8m2!3d44.86189!4d-66.983884!16s%2Fg%2F1tlkbzkm?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.8618938,
+      "lng": -66.9864589,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Eastport, ME",
+      "google_maps_url": "https://www.google.com/maps/place/Eastport+Charter/@44.9006872,-67.0090958,14.22z/data=!4m6!3m5!1s0x4ca8bd1baaf6ca73:0xe6299af69923529f!8m2!3d44.906489!4d-66.9834359!16s%2Fg%2F11x79ytr70?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.9006872,
+      "lng": -67.0090958,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Look Lobster",
+      "google_maps_url": "https://www.google.com/maps/place/Look+Lobster/@44.9057253,-66.9904824,16.13z/data=!4m6!3m5!1s0x4ca8bdeb4bd018b3:0xa24d83ea8c438c63!8m2!3d44.9023136!4d-66.9848858!16s%2Fg%2F11v1015dy8?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.9057253,
+      "lng": -66.9904824,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "St Croix Island Visitor Center",
+      "google_maps_url": "https://www.google.com/maps/place/St+Croix+Island+Visitor+Center/@45.1206138,-67.1472642,14.94z/data=!4m6!3m5!1s0x4ca6003345b45e27:0x6c1c22f474754294!8m2!3d45.124166!4d-67.147515!16s%2Fg%2F11dyqsj7f5?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 45.1206138,
+      "lng": -67.1472642,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "U.S. Customs",
+      "google_maps_url": "https://www.google.com/maps/place/U.S.+Customs+and+Border+Protection+-+Ferry+Point+Port+of+Entry/@45.1914224,-67.2834372,19.12z/data=!4m6!3m5!1s0x4ca5f9308f75d605:0xeb543926dc36170f!8m2!3d45.1909168!4d-67.2833788!16s%2Fg%2F11f0xxmkf9?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 45.1914224,
+      "lng": -67.2834372,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "King China Chinese Restaurant",
+      "google_maps_url": "https://www.google.com/maps/place/King+China+Chinese+Restaurant/@45.1846588,-67.2862321,16.4z/data=!4m6!3m5!1s0x4ca5f92c21120f9d:0x962afa0498a38709!8m2!3d45.1843366!4d-67.2821753!16s%2Fg%2F1tcv5xr1?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 45.1846588,
+      "lng": -67.2862321,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "McDonald",
+      "google_maps_url": "https://www.google.com/maps/place/McDonald's/@45.1846588,-67.2862321,16.4z/data=!4m6!3m5!1s0x4ca5f92ea2220a75:0x371d8af8485d5896!8m2!3d45.1841411!4d-67.2832192!16s%2Fg%2F1td5865f?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 45.1846588,
+      "lng": -67.2862321,
+      "contributor": "nuckyal-sys"
     }
   ],
   "BV1AVHkzcEFE": [
