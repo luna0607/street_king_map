@@ -2996,5 +2996,15 @@
       "lng": -91.0395179,
       "contributor": "luna0607"
     }
+  ],
+  "BV1y7Ju6nEDg": [
+    {
+      "place_name": "世界最孤独小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Whittier,+AK+99693/@60.7872001,-148.7108519,14663m/data=!3m2!1e3!4b1!4m6!3m5!1s0x56b81ad99e929553:0xf6d71b0f8e5d2ee2!8m2!3d60.7745903!4d-148.6858407!16s%2Fm%2F01z23nx?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 60.7872001,
+      "lng": -148.7108519,
+      "contributor": "luna0607"
+    }
   ]
 }
