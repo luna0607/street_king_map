@@ -2313,12 +2313,69 @@
   ],
   "BV1zQ4LeqEjD": [
     {
-      "place_name": "安特勒",
+      "place_name": "Antler, ND(安特勒)",
       "google_maps_url": "https://www.google.com/maps/place/Antler,+ND+58711/@49.0039318,-101.497351,9.13z/data=!4m6!3m5!1s0x52de5b30f94cb62f:0x2480276f2f1b7773!8m2!3d48.9708532!4d-101.2823803!16zL20vMHluMWc?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
       "comment": "",
       "lat": 49.0039318,
       "lng": -101.497351,
-      "contributor": "luna0607"
+      "contributor": "luna0607",
+      "last_edited_by": "nuckyal-sys"
+    },
+    {
+      "place_name": "Antler City Police Department",
+      "google_maps_url": "https://www.google.com/maps/place/Antler+City+Police+Department/@48.9706212,-101.282474,18.29z/data=!4m6!3m5!1s0x52de5b3409111ea7:0x994417c9b19a68d6!8m2!3d48.9708501!4d-101.2825786!16s%2Fg%2F1v8j02h0?hl=en&entry=ttu&g_ep=EgoyMDI2MDUzMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.9706212,
+      "lng": -101.282474,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Customs",
+      "google_maps_url": "https://www.google.com/maps/place/U.S.+Customs+and+Border+Protection+-+Antler+Port+of+Entry/@48.9989515,-101.2987812,17.17z/data=!4m6!3m5!1s0x52de44e62b56dd2d:0x833ce0d1dcf50799!8m2!3d48.9984673!4d-101.298785!16s%2Fg%2F1tyt4_qf?hl=en&entry=ttu&g_ep=EgoyMDI2MDUzMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "quiet",
+      "lat": 48.9989515,
+      "lng": -101.2987812,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Farmers Union Oil Company",
+      "google_maps_url": "https://www.google.com/maps/place/Farmers+Union+Oil+Company/@48.9087495,-101.0230202,17.06z/data=!4m6!3m5!1s0x52de615a9bc3d44d:0x7918e05f6ad62708!8m2!3d48.9086734!4d-101.0205155!16s%2Fg%2F1tkn_ftm?hl=en&entry=ttu&g_ep=EgoyMDI2MDUzMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "in Westhope",
+      "lat": 48.9087495,
+      "lng": -101.0230202,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "grocery store",
+      "google_maps_url": "https://www.google.com/maps/place/Jason%E2%80%99s+Super+Foods+of+Westhope/@48.9107586,-101.0223904,16z/data=!4m6!3m5!1s0x52de6136034cf4d7:0x42d771a883d93557!8m2!3d48.9094977!4d-101.0213278!16s%2Fg%2F11hdp4htpb?hl=en&entry=ttu&g_ep=EgoyMDI2MDUzMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.9107586,
+      "lng": -101.0223904,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Souris town",
+      "google_maps_url": "https://www.google.com/maps/place/Souris,+ND+58783,+USA/@48.914618,-100.6836887,13.84z/data=!4m6!3m5!1s0x52de80760459bf3d:0x67edc3552027f4cf!8m2!3d48.9097383!4d-100.6815394!16zL20vMHluNHA?hl=en&entry=ttu&g_ep=EgoyMDI2MDUzMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.914618,
+      "lng": -100.6836887,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "International Peace Garden",
+      "google_maps_url": "https://www.google.com/maps/place/10939+US-281,+Dunseith,+ND+58329,+USA/@48.9969973,-100.0533433,17.17z/data=!4m6!3m5!1s0x52ddaddab572163f:0xf8b67b6a0abf7b9b!8m2!3d48.9981607!4d-100.0523677!16s%2Fg%2F11ht4944hh?hl=en&entry=ttu&g_ep=EgoyMDI2MDUzMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.9969973,
+      "lng": -100.0533433,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Border Marker",
+      "google_maps_url": "https://www.google.com/maps/place/Border+Marker/@48.9948335,-100.0790077,14.85z/data=!4m6!3m5!1s0x52ddadfc85e3f217:0x11fae7e16bea6860!8m2!3d48.9992699!4d-100.0696259!16s%2Fg%2F11hy9n9893?hl=en&entry=ttu&g_ep=EgoyMDI2MDUzMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.9948335,
+      "lng": -100.0790077,
+      "contributor": "nuckyal-sys"
     }
   ],
   "BV1FixWeoEaV": [
