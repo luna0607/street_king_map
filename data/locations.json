@@ -2906,12 +2906,13 @@
       "contributor": "luna0607"
     },
     {
-      "place_name": "酒店大道",
+      "place_name": "拉斯维加斯酒店大道",
       "google_maps_url": "https://www.google.com/maps/place/2890+S+Las+Vegas+Blvd,+Las+Vegas,+NV+89109/@36.1359595,-115.1652796,1517m/data=!3m2!1e3!4b1!4m17!1m10!3m9!1s0x80c8c41262fe1db7:0x6a6c092083e4eb94!2sLas+Vegas+Hilton+at+Resorts+World!5m2!4m1!1i2!8m2!3d36.1352744!4d-115.166924!16s%2Fg%2F11lky43654!3m5!1s0x80c8c4729a82e5ef:0x9434598464cefbb1!8m2!3d36.1359552!4d-115.1627047!16s%2Fg%2F11bw3xvdbf?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D",
       "comment": "",
       "lat": 36.1359595,
       "lng": -115.1652796,
-      "contributor": "luna0607"
+      "contributor": "luna0607",
+      "last_edited_by": "luna0607"
     },
     {
       "place_name": "西雅图机场",
@@ -2993,6 +2994,16 @@
       "comment": "",
       "lat": 33.8487219,
       "lng": -91.0395179,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1y7Ju6nEDg": [
+    {
+      "place_name": "世界最孤独小镇",
+      "google_maps_url": "https://www.google.com/maps/place/Whittier,+AK+99693/@60.7872001,-148.7108519,14663m/data=!3m2!1e3!4b1!4m6!3m5!1s0x56b81ad99e929553:0xf6d71b0f8e5d2ee2!8m2!3d60.7745903!4d-148.6858407!16s%2Fm%2F01z23nx?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 60.7872001,
+      "lng": -148.7108519,
       "contributor": "luna0607"
     }
   ]
