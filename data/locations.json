@@ -2175,12 +2175,53 @@
   ],
   "BV15pAdejE8g": [
     {
-      "place_name": "怀特克莱",
+      "place_name": "White Clay, NE(怀特克莱)",
       "google_maps_url": "https://www.google.com/maps/place/White+Clay,+NE+69360/@48.0334256,-102.9767733,4.06z/data=!4m15!1m8!3m7!1s0x877b8ec0f4135843:0xe27cf94f05b27325!2sWhite+Clay+Rd,+West+Oglala+Lakota,+SD+57770!3b1!8m2!3d43.0079726!4d-102.5544509!16s%2Fg%2F1thzpd79!3m5!1s0x877b8eef90e8802d:0xd8d0a26dd09f2fe8!8m2!3d42.9967677!4d-102.5545021!16zL20vMDJnN3pr?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
-      "comment": "",
+      "comment": "It borders the Pine Ridge Reservation and is known for selling alcohol",
       "lat": 48.0334256,
       "lng": -102.9767733,
-      "contributor": "luna0607"
+      "contributor": "luna0607",
+      "last_edited_by": "nuckyal-sys"
+    },
+    {
+      "place_name": "Whiteclay Grocery Inc",
+      "google_maps_url": "https://www.google.com/maps/place/Whiteclay+Grocery+Inc/@42.9976422,-102.5573987,17z/data=!3m1!4b1!4m6!3m5!1s0x877b8ef2907aceff:0x5460604adedc2745!8m2!3d42.9976383!4d-102.5548238!16s%2Fg%2F11v6d81pyc!5m1!1e4?hl=en&entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.9976422,
+      "lng": -102.5573987,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Fireside Inn",
+      "google_maps_url": "https://www.google.com/maps/place/Fireside+Inn/@42.9975253,-102.5560702,18.27z/data=!4m14!1m7!3m6!1s0x877b8ef2907aceff:0x5460604adedc2745!2sWhiteclay+Grocery+Inc!8m2!3d42.9976383!4d-102.5548238!16s%2Fg%2F11v6d81pyc!3m5!1s0x877b8eec9538df1b:0xd8cd79df656df6d2!8m2!3d42.9970392!4d-102.5542852!16s%2Fg%2F11bw5svk4q!5m1!1e4?hl=en&entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.9975253,
+      "lng": -102.5560702,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Liquor store",
+      "google_maps_url": "https://www.google.com/maps/place/Barrel+House+Liquor/@42.7179424,-102.4668472,18z/data=!4m6!3m5!1s0x877bb8c9cb06e49b:0xafbc3cf15120775f!8m2!3d42.7178706!4d-102.4659938!16s%2Fg%2F1tdr8pdw!5m1!1e4?hl=en&entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.7179424,
+      "lng": -102.4668472,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Art museum",
+      "google_maps_url": "https://www.google.com/maps/place/Rushville+Sheridan+County+Historical+Museum/@42.7183759,-102.4603607,17z/data=!3m1!4b1!4m6!3m5!1s0x877bb8b7aa3e7f0d:0x4e0f39be161f98d7!8m2!3d42.718372!4d-102.4577858!16s%2Fg%2F1q644x5nk!5m1!1e4?hl=en&entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.7183759,
+      "lng": -102.4603607,
+      "contributor": "nuckyal-sys"
+    },
+    {
+      "place_name": "Motol",
+      "google_maps_url": "https://www.google.com/maps/place/Western+Sands+Motel/@42.8000301,-102.2071129,17z/data=!3m1!4b1!4m9!3m8!1s0x877bdda8ccf26165:0x39b1dd1e7d8a7ba!5m2!4m1!1i2!8m2!3d42.8000262!4d-102.204538!16s%2Fg%2F1tkbyqjp!5m1!1e4?hl=en&entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.8000301,
+      "lng": -102.2071129,
+      "contributor": "nuckyal-sys"
     }
   ],
   "BV1UpwReYET5": [
