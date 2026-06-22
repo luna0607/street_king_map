@@ -236,7 +236,7 @@ function renderSecondaryMarkers() {
       radius: 8,
       color: "#fff",
       weight: 2,
-      fillColor: "#f59e0b",
+      fillColor: "#fb7299",
       fillOpacity: 1,
     });
     m.on("click", (e) => {
@@ -312,7 +312,7 @@ function renderPanel() {
       <span>·</span><span>💬 ${esc(video.danmu_volume)}</span>
     </div>
     ${NEED_MORE_PINS_BVS.has(selectedBv) ? `<div class="panel-hint warn">💡 本视频可能包含更多地点，欢迎提供补充。</div>` : ""}
-    ${locs.length > 1 ? `<div class="panel-hint">${locs.length} 个地点 — 蓝色为主要地点，其余在地图上显示为橙色</div>` : ""}
+    ${locs.length > 1 ? `<div class="panel-hint">${locs.length} 个地点 — 蓝色为主要地点，其余在地图上显示为粉色</div>` : ""}
     <ol class="panel-locs">${locs.map((loc, i) => renderLocCard(loc, i)).join("")}</ol>
   `;
 
@@ -404,7 +404,7 @@ function renderLocCard(loc, idx) {
   const active = idx === selectedLocIdx;
   const embed = getEmbedUrl(loc);
   const localPreview = getLocalPreviewPath(loc.lat, loc.lng);
-  const badgeColor = idx === 0 ? "var(--accent-blue)" : "var(--accent-orange)";
+  const badgeColor = idx === 0 ? "var(--accent-blue)" : "var(--accent-pink)";
   
   const gLink = getProviderUrl("google", loc);
   const bLink = getProviderUrl("bing", loc);
