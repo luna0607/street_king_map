@@ -282,13 +282,15 @@ a { color: inherit; transition: all 0.2s ease; }
   width: 100%;
   height: 100%;
   display: block;
+  transition: transform 0.15s ease;
+}
+.marker:hover svg {
+  transform: translateY(-2px);
 }
 .marker-primary {
   color: var(--accent-blue);
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.45));
-  transition: transform 0.15s;
 }
-.marker-primary:hover { transform: translateY(-2px); }
 .marker-primary.active {
   color: var(--accent-blue);
   filter: drop-shadow(0 4px 10px rgba(14, 165, 233, 0.45));
@@ -296,11 +298,9 @@ a { color: inherit; transition: all 0.2s ease; }
 .marker-secondary {
   color: #64748b;
   opacity: 0.65;
-  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.35));
-  transition: transform 0.15s, opacity 0.15s;
+  transition: opacity 0.15s ease;
 }
 .marker-secondary:hover {
-  transform: translateY(-2px);
   opacity: 1;
 }
 
