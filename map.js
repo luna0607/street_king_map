@@ -3,6 +3,8 @@ const US_ZOOM = 4;
 const FOCUS_ZOOM = 8;
 
 const map = L.map("map", { zoomControl: false }).setView(US_CENTER, US_ZOOM);
+map.createPane('activeSecondaryPane');
+map.getPane('activeSecondaryPane').style.zIndex = 610;
 // Carto Voyager — cleaner, higher-DPI tiles than default OSM.
 L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
   attribution:
@@ -200,10 +202,14 @@ function selectVideo(bv, locIdx = 0) {
   }
   if (prev && primaryMarkers.has(prev)) {
     primaryMarkers.get(prev).setIcon(primaryIcon);
+    primaryMarkers.get(prev).setZIndexOffset(0);
   }
   selectedBv = bv;
   selectedLocIdx = locIdx;
-  if (primaryMarkers.has(bv)) primaryMarkers.get(bv).setIcon(primaryIconActive);
+  if (primaryMarkers.has(bv)) {
+    primaryMarkers.get(bv).setIcon(primaryIconActive);
+    primaryMarkers.get(bv).setZIndexOffset(1000);
+  }
   renderSecondaryMarkers();
   flyToLocation(locIdx);
   openPanel();
@@ -238,6 +244,7 @@ function renderSecondaryMarkers() {
       weight: 2,
       fillColor: "#fb7299",
       fillOpacity: 1,
+      pane: "activeSecondaryPane",
     });
     m.on("click", (e) => {
       L.DomEvent.stopPropagation(e);
@@ -268,7 +275,10 @@ function openPanel() {
 
 function closePanel() {
   if (!selectedBv) return;
-  if (primaryMarkers.has(selectedBv)) primaryMarkers.get(selectedBv).setIcon(primaryIcon);
+  if (primaryMarkers.has(selectedBv)) {
+    primaryMarkers.get(selectedBv).setIcon(primaryIcon);
+    primaryMarkers.get(selectedBv).setZIndexOffset(0);
+  }
   selectedBv = null;
   panelEl.hidden = true;
   mapFullscreenBtn.hidden = true;
