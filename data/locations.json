@@ -3024,5 +3024,31 @@
       "lng": -156.9471102,
       "contributor": "luna0607"
     }
+  ],
+  "BV1mVjs6tEzK": [
+    {
+      "place_name": "堪萨斯城",
+      "google_maps_url": "https://www.google.com/maps/place/Kansas+City,+MO/@39.0903015,-94.9058398,94935m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87c0f75eafe99997:0x558525e66aaa51a2!8m2!3d39.0997265!4d-94.5785667!16zL20vMDRmX2Q?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0903015,
+      "lng": -94.9058398,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "生意火爆的烤肉店",
+      "google_maps_url": "https://www.google.com/maps/place/Arthur+Bryant's+Barbeque/@39.0905772,-94.908593,94935m/data=!3m1!1e3!4m10!1m2!2m1!1sbryant!3m6!1s0x87c0fa995f2a80a9:0x5e22fda798440dde!8m2!3d39.0914828!4d-94.5561741!15sCgZicnlhbnRaCCIGYnJ5YW50kgETYmFyYmVjdWVfcmVzdGF1cmFudOABAA!16zL20vMDdocmd3?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0905772,
+      "lng": -94.908593,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "萨尔瓦多餐厅",
+      "google_maps_url": "https://www.google.com/maps/place/El+Pulgarcito+Salvadorean+Restaurant+%232+LLC/@39.0604648,-94.4791886,742m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87c11d45a848bec5:0xb663fa0f06a97452!8m2!3d39.0604607!4d-94.4743231!16s%2Fg%2F11yjfttyqy?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.0604648,
+      "lng": -94.4791886,
+      "contributor": "luna0607"
+    }
   ]
 }
