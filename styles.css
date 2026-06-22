@@ -278,6 +278,11 @@ a { color: inherit; transition: all 0.2s ease; }
 .leaflet-control-attribution a { color: #a5b3c9 !important; }
 
 /* Custom markers */
+.marker svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
 .marker-primary {
   color: var(--accent-blue);
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.45));
@@ -288,6 +293,17 @@ a { color: inherit; transition: all 0.2s ease; }
   color: var(--accent-blue);
   filter: drop-shadow(0 4px 10px rgba(14, 165, 233, 0.45));
 }
+.marker-secondary {
+  color: #64748b;
+  opacity: 0.65;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.35));
+  transition: transform 0.15s, opacity 0.15s;
+}
+.marker-secondary:hover {
+  transform: translateY(-2px);
+  opacity: 1;
+}
+
 
 /* ===== Side panel ===== */
 #panel {

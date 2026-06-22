@@ -23,7 +23,14 @@ const primaryIconActive = L.divIcon({
   iconSize: [34, 44],
   iconAnchor: [17, 44],
 });
+const secondaryIcon = L.divIcon({
+  className: "marker marker-secondary",
+  html: primaryIcon.options.html,
+  iconSize: [18, 23],
+  iconAnchor: [9, 23],
+});
 
+const globalSecondaryLayer = L.layerGroup().addTo(map);
 const primaryLayer = L.layerGroup().addTo(map);
 const secondaryLayer = L.layerGroup().addTo(map);
 const primaryMarkers = new Map(); // bv -> marker
@@ -136,6 +143,7 @@ async function load() {
 
 function render(videos) {
   primaryLayer.clearLayers();
+  globalSecondaryLayer.clearLayers();
   secondaryLayer.clearLayers();
   primaryMarkers.clear();
   let videoCount = 0;
@@ -149,16 +157,29 @@ function render(videos) {
       if (!Number.isFinite(loc.lat) || !Number.isFinite(loc.lng)) unresolved++;
       else pinCount++;
     }
-    const primary = locs.find((l) => Number.isFinite(l.lat) && Number.isFinite(l.lng));
-    if (!primary) continue;
+    const primaryIdx = locs.findIndex((l) => Number.isFinite(l.lat) && Number.isFinite(l.lng));
+    if (primaryIdx === -1) continue;
+    const primary = locs[primaryIdx];
     const marker = L.marker([primary.lat, primary.lng], { icon: primaryIcon, riseOnHover: true });
     marker.on("click", (e) => {
       L.DomEvent.stopPropagation(e);
-      selectVideo(bv);
+      selectVideo(bv, primaryIdx);
     });
     marker.addTo(primaryLayer);
     primaryMarkers.set(bv, marker);
     videoCount++;
+
+    // Add other resolved locations as small grey pins
+    locs.forEach((loc, idx) => {
+      if (idx === primaryIdx) return;
+      if (!Number.isFinite(loc.lat) || !Number.isFinite(loc.lng)) return;
+      const secMarker = L.marker([loc.lat, loc.lng], { icon: secondaryIcon, riseOnHover: true });
+      secMarker.on("click", (e) => {
+        L.DomEvent.stopPropagation(e);
+        selectVideo(bv, idx);
+      });
+      secMarker.addTo(globalSecondaryLayer);
+    });
   }
 
   const pieces = [`${videoCount} 个视频`, `${pinCount} 个点位`];
@@ -167,20 +188,24 @@ function render(videos) {
   statusEl.textContent = pieces.join(" · ");
 }
 
-function selectVideo(bv) {
+function selectVideo(bv, locIdx = 0) {
   const prev = selectedBv;
   if (prev === bv) {
-    renderPanel();
+    if (selectedLocIdx !== locIdx) {
+      focusLocation(locIdx);
+    } else {
+      renderPanel();
+    }
     return;
   }
   if (prev && primaryMarkers.has(prev)) {
     primaryMarkers.get(prev).setIcon(primaryIcon);
   }
   selectedBv = bv;
-  selectedLocIdx = 0;
+  selectedLocIdx = locIdx;
   if (primaryMarkers.has(bv)) primaryMarkers.get(bv).setIcon(primaryIconActive);
   renderSecondaryMarkers();
-  flyToLocation(0);
+  flyToLocation(locIdx);
   openPanel();
 
   // Update FAB button link and text to point to this specific video in admin
