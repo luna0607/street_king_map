@@ -3,6 +3,8 @@ const US_ZOOM = 4;
 const FOCUS_ZOOM = 8;
 
 const map = L.map("map", { zoomControl: false }).setView(US_CENTER, US_ZOOM);
+map.createPane('activeSecondaryPane');
+map.getPane('activeSecondaryPane').style.zIndex = 610;
 // Carto Voyager — cleaner, higher-DPI tiles than default OSM.
 L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
   attribution:
@@ -200,10 +202,14 @@ function selectVideo(bv, locIdx = 0) {
   }
   if (prev && primaryMarkers.has(prev)) {
     primaryMarkers.get(prev).setIcon(primaryIcon);
+    primaryMarkers.get(prev).setZIndexOffset(0);
   }
   selectedBv = bv;
   selectedLocIdx = locIdx;
-  if (primaryMarkers.has(bv)) primaryMarkers.get(bv).setIcon(primaryIconActive);
+  if (primaryMarkers.has(bv)) {
+    primaryMarkers.get(bv).setIcon(primaryIconActive);
+    primaryMarkers.get(bv).setZIndexOffset(1000);
+  }
   renderSecondaryMarkers();
   flyToLocation(locIdx);
   openPanel();
@@ -222,7 +228,7 @@ function flyToLocation(idx) {
   );
   const loc = locs[idx];
   if (!loc) return;
-  map.flyTo([loc.lat, loc.lng], FOCUS_ZOOM, { duration: 0.75 });
+  map.flyTo([loc.lat, loc.lng], map.getZoom(), { duration: 0.75 });
 }
 
 function renderSecondaryMarkers() {
@@ -236,8 +242,9 @@ function renderSecondaryMarkers() {
       radius: 8,
       color: "#fff",
       weight: 2,
-      fillColor: "#f59e0b",
+      fillColor: "#fb7299",
       fillOpacity: 1,
+      pane: "activeSecondaryPane",
     });
     m.on("click", (e) => {
       L.DomEvent.stopPropagation(e);
@@ -268,7 +275,10 @@ function openPanel() {
 
 function closePanel() {
   if (!selectedBv) return;
-  if (primaryMarkers.has(selectedBv)) primaryMarkers.get(selectedBv).setIcon(primaryIcon);
+  if (primaryMarkers.has(selectedBv)) {
+    primaryMarkers.get(selectedBv).setIcon(primaryIcon);
+    primaryMarkers.get(selectedBv).setZIndexOffset(0);
+  }
   selectedBv = null;
   panelEl.hidden = true;
   mapFullscreenBtn.hidden = true;
@@ -312,7 +322,7 @@ function renderPanel() {
       <span>·</span><span>💬 ${esc(video.danmu_volume)}</span>
     </div>
     ${NEED_MORE_PINS_BVS.has(selectedBv) ? `<div class="panel-hint warn">💡 本视频可能包含更多地点，欢迎提供补充。</div>` : ""}
-    ${locs.length > 1 ? `<div class="panel-hint">${locs.length} 个地点 — 蓝色为主要地点，其余在地图上显示为橙色</div>` : ""}
+    ${locs.length > 1 ? `<div class="panel-hint">${locs.length} 个地点 — 蓝色为主要地点，其余在地图上显示为粉色</div>` : ""}
     <ol class="panel-locs">${locs.map((loc, i) => renderLocCard(loc, i)).join("")}</ol>
   `;
 
@@ -404,7 +414,7 @@ function renderLocCard(loc, idx) {
   const active = idx === selectedLocIdx;
   const embed = getEmbedUrl(loc);
   const localPreview = getLocalPreviewPath(loc.lat, loc.lng);
-  const badgeColor = idx === 0 ? "var(--accent-blue)" : "var(--accent-orange)";
+  const badgeColor = idx === 0 ? "var(--accent-blue)" : "var(--accent-pink)";
   
   const gLink = getProviderUrl("google", loc);
   const bLink = getProviderUrl("bing", loc);
