@@ -222,7 +222,7 @@ function flyToLocation(idx) {
   );
   const loc = locs[idx];
   if (!loc) return;
-  map.flyTo([loc.lat, loc.lng], FOCUS_ZOOM, { duration: 0.75 });
+  map.flyTo([loc.lat, loc.lng], map.getZoom(), { duration: 0.75 });
 }
 
 function renderSecondaryMarkers() {
