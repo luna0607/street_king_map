@@ -3006,5 +3006,23 @@
       "lng": -148.7108519,
       "contributor": "luna0607"
     }
+  ],
+  "BV1im7A6UE5V": [
+    {
+      "place_name": "阿拉斯加大学费尔班克斯分校",
+      "google_maps_url": "https://www.google.com/maps/place/University+of+Alaska+Fairbanks/@64.8555771,-147.83664,406m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b358f76517b:0x2c49aca904591615!8m2!3d64.8555748!4d-147.8340597!16zL20vMDJ2YjBy?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 64.8555771,
+      "lng": -147.83664,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "巴罗",
+      "google_maps_url": "https://www.google.com/maps/place/Utqiagvik,+AK+99723/@71.2852718,-156.9471102,19623m/data=!3m2!1e3!4b1!4m6!3m5!1s0x50c2d8011fe06ec5:0xb9d4811209c3d850!8m2!3d71.2905556!4d-156.788611!16s%2Fm%2F01z1nwf?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 71.2852718,
+      "lng": -156.9471102,
+      "contributor": "luna0607"
+    }
   ]
 }
