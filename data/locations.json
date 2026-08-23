@@ -1714,6 +1714,54 @@
       "lat": 39.7643061,
       "lng": -105.1844042,
       "contributor": "luna0607"
+    },
+    {
+      "place_name": "雪山下的 3,000 人小镇：弗里斯科（Frisco）",
+      "google_maps_url": "https://www.google.com/maps/place/Frisco,+CO/@39.5829394,-106.0877435,9349m/data=!3m2!1e3!4b1!4m6!3m5!1s0x876a5e9a54b06f0b:0xee2c42a086c8f71f!8m2!3d39.5744309!4d-106.0975203!16zL20vMHJjc2s?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.5829394,
+      "lng": -106.0877435,
+      "contributor": "EnforcerDavid"
+    },
+    {
+      "place_name": "美国最热门的滑雪小镇之一：布雷肯里奇（Breckenridge）",
+      "google_maps_url": "https://www.google.com/maps/place/Breckenridge,+CO+80424/@39.5017224,-106.0440246,18720m/data=!3m2!1e3!4b1!4m6!3m5!1s0x876af63d6c26e7c1:0x628d8f7f6680a27a!8m2!3d39.4816537!4d-106.0383518!16zL20vMHJjcnQ?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.5017224,
+      "lng": -106.0440246,
+      "contributor": "EnforcerDavid"
+    },
+    {
+      "place_name": "布雷肯里奇 南边的 724 人小镇：费尔普莱（Fairplay）",
+      "google_maps_url": "https://www.google.com/maps/place/Fairplay,+CO+80440/@39.2245555,-105.9968899,4699m/data=!3m2!1e3!4b1!4m6!3m5!1s0x876ae842e247da0f:0x70597e9aed63730!8m2!3d39.2247125!4d-106.0019618!16zL20vMHJjYjc?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 39.2245555,
+      "lng": -105.9968899,
+      "contributor": "EnforcerDavid"
+    },
+    {
+      "place_name": "被群山环绕的小镇：萨利达（Salida）",
+      "google_maps_url": "https://www.google.com/maps/place/Salida,+CO+81201/@38.5280545,-105.9982651,9490m/data=!3m2!1e3!4b1!4m6!3m5!1s0x871517c051b82e5d:0xba2bef0021afe1b6!8m2!3d38.5347193!4d-105.9989022!16zL20vMHI5NF8?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.5280545,
+      "lng": -105.9982651,
+      "contributor": "EnforcerDavid"
+    },
+    {
+      "place_name": "荒野小镇：彭罗斯（Penrose）",
+      "google_maps_url": "https://www.google.com/maps/place/Penrose,+CO+81240/@38.4217093,-105.0237956,9504m/data=!3m2!1e3!4b1!4m12!1m5!3m4!2zMzjCsDI1JzE3LjAiTiAxMDXCsDAwJzAxLjAiVw!8m2!3d38.421389!4d-105.000278!3m5!1s0x87137e013851a607:0x7d9c2016145aa4e2!8m2!3d38.4250001!4d-105.0227624!16zL20vMHJiMXo?hl=en&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.4217093,
+      "lng": -105.0237956,
+      "contributor": "EnforcerDavid"
+    },
+    {
+      "place_name": "曾经的矿业小镇：克里普尔溪（Cripple Creek）",
+      "google_maps_url": "https://www.google.com/maps/place/Cripple+Creek,+CO/@38.7452505,-105.1890961,9461m/data=!3m2!1e3!4b1!4m6!3m5!1s0x8714a4857bc1cc4d:0xd14ac36d2725c603!8m2!3d38.7466555!4d-105.1783149!16zL20vMGM5OHo?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 38.7452505,
+      "lng": -105.1890961,
+      "contributor": "EnforcerDavid"
     }
   ],
   "BV1u1USB1EeB": [
