@@ -3106,5 +3106,83 @@
       "lng": -94.4791886,
       "contributor": "luna0607"
     }
+  ],
+  "BV1Yg756CEDi": [
+    {
+      "place_name": "阿拉斯加费尔班克斯大学",
+      "google_maps_url": "https://www.google.com/maps/place/University+of+Alaska+Fairbanks/@64.8555771,-147.8366346,17z/data=!3m1!4b1!4m6!3m5!1s0x51325b358f76517b:0x2c49aca904591615!8m2!3d64.8555748!4d-147.8340597!16zL20vMDJ2YjBy?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 64.8555771,
+      "lng": -147.8366346,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV15jKZ6uEXV": [
+    {
+      "place_name": "费尔班克斯",
+      "google_maps_url": "https://www.google.com/maps/place/Fairbanks,+AK/@64.8564812,-147.8755544,13z/data=!4m6!3m5!1s0x5132454f67fd65a9:0xb3d805e009fef73a!8m2!3d64.8400511!4d-147.7199757!16zL20vMHFmNXA?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 64.8564812,
+      "lng": -147.8755544,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1icu46fEqF": [
+    {
+      "place_name": "苏县",
+      "google_maps_url": "https://www.google.com/maps/place/Sioux+County,+NE/@44.7457048,-108.698832,6.19z/data=!4m6!3m5!1s0x877a2f4a98a03e09:0x305418f52dd67be0!8m2!3d42.5012873!4d-103.7289167!16zL20vMG42eDQ?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 44.7457048,
+      "lng": -108.698832,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1JCuM6EEne": [
+    {
+      "place_name": "奈厄布拉勒县",
+      "google_maps_url": "https://www.google.com/maps/place/Niobrara,+NE+68760/@42.7502068,-98.0427007,15z/data=!3m1!4b1!4m6!3m5!1s0x878571e95993b343:0x4d52f0a9911b0e12!8m2!3d42.7547231!4d-98.0286823!16zL20vMHg3dzU?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.7502068,
+      "lng": -98.0427007,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV13ggH6GEi6": [
+    {
+      "place_name": "哈佛",
+      "google_maps_url": "https://www.google.com/maps/place/Havre,+MT+59501/@48.54267,-109.7280946,13z/data=!3m1!4b1!4m6!3m5!1s0x53401cbe0cfc8309:0xebf50fa5ec180aa1!8m2!3d48.549999!4d-109.6840887!16zL20vMHgyNDY?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.54267,
+      "lng": -109.7280946,
+      "contributor": "luna0607"
+    },
+    {
+      "place_name": "Wolf point",
+      "google_maps_url": "https://www.google.com/maps/place/Wolf+Point,+MT+59201/@48.1674165,-111.5688206,6.97z/data=!4m6!3m5!1s0x5323294cc9c6197b:0xdf7f8f33017c03a2!8m2!3d48.0905736!4d-105.6405566!16zL20vMHgzbjA?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.1674165,
+      "lng": -111.5688206,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV13eb66VEzm": [
+    {
+      "place_name": "沙德伦",
+      "google_maps_url": "https://www.google.com/maps/place/Chadron,+NE+69337/@42.822858,-103.0457177,13z/data=!3m1!4b1!4m6!3m5!1s0x877b6e0fa91a1ad3:0xb5926242e0708989!8m2!3d42.8293845!4d-103.000642!16zL20vMHg2MWc?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.822858,
+      "lng": -103.0457177,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1868q6vESU": [
+    {
+      "place_name": "格拉斯哥",
+      "google_maps_url": "https://www.google.com/maps/place/Glasgow,+MT+59230/@48.2006308,-106.652073,14z/data=!3m1!4b1!4m6!3m5!1s0x533d00fe3b05e5b5:0x3b1949df3451c5c2!8m2!3d48.1969637!4d-106.6367127!16zL20vMHg0MXo?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.2006308,
+      "lng": -106.652073,
+      "contributor": "luna0607"
+    }
   ]
 }
