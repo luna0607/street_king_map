@@ -3184,5 +3184,45 @@
       "lng": -106.652073,
       "contributor": "luna0607"
     }
+  ],
+  "BV1nRex6cETw": [
+    {
+      "place_name": "Utqiagvik",
+      "google_maps_url": "https://www.google.com/maps/place/Utqiagvik,+AK+99723/@71.2850863,-157.093738,20358m/data=!3m2!1e3!4b1!4m6!3m5!1s0x50c2d8011fe06ec5:0xb9d4811209c3d850!8m2!3d71.2905556!4d-156.788611!16s%2Fm%2F01z1nwf?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 71.2850863,
+      "lng": -157.093738,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1T8Ys6vENP": [
+    {
+      "place_name": "Jeffery City",
+      "google_maps_url": "https://www.google.com/maps/place/Jeffrey+City,+WY+82310/@35.3563012,-103.7420748,6692765m/data=!3m1!1e3!4m6!3m5!1s0x875ea5a6906e1045:0x56169e770b5a76d9!8m2!3d42.4946782!4d-107.8273018!16zL20vMDExZmho?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 35.3563012,
+      "lng": -103.7420748,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1Pxt96AErn": [
+    {
+      "place_name": "BYUI",
+      "google_maps_url": "https://www.google.com/maps/place/Brigham+Young+University-Idaho/@43.8144681,-111.7858299,715m/data=!3m2!1e3!4b1!4m6!3m5!1s0x53540b03dc48a5cf:0x1e5534d3c38ef412!8m2!3d43.8144643!4d-111.783255!16zL20vMDJuZjY5?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 43.8144681,
+      "lng": -111.7858299,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV12u4X6cEDh": [
+    {
+      "place_name": "Kaktovik",
+      "google_maps_url": "https://www.google.com/maps/place/Kaktovik,+AK+99747/@70.1248564,-143.645867,2696m/data=!3m2!1e3!4b1!4m6!3m5!1s0x5118b4c239616e05:0x42a95e4c23c04751!8m2!3d70.121108!4d-143.6249182!16zL20vMHFnbjA?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 70.1248564,
+      "lng": -143.645867,
+      "contributor": "luna0607"
+    }
   ]
 }
