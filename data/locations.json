@@ -3224,5 +3224,25 @@
       "lng": -143.645867,
       "contributor": "luna0607"
     }
+  ],
+  "BV13LHD6DEGc": [
+    {
+      "place_name": "格兰德岛",
+      "google_maps_url": "https://www.google.com/maps/place/Grand+Island,+NE/@40.9090529,-98.4416288,23975m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87998644ec7765f7:0xa12d5b784951b17b!8m2!3d40.9263957!4d-98.3420118!16zL20vMHg3MV8?entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 40.9090529,
+      "lng": -98.4416288,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1YnJk6tE3V": [
+    {
+      "place_name": "波多黎各",
+      "google_maps_url": "https://www.google.com/maps/place/San+Juan,+Puerto+Rico/@18.0900438,-66.9955513,242085m/data=!3m1!1e3!4m15!1m8!3m7!1s0x8c0296261b92a7f9:0xf336ec2818049b1a!2sPuerto+Rico!3b1!8m2!3d18.220833!4d-66.590149!16zL20vMDVyN3Q!3m5!1s0x8c03686fe268196f:0xad6b7f0f5c935adc!8m2!3d18.4153108!4d-66.0593509!16zL20vMGZ3NHY?entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 18.0900438,
+      "lng": -66.9955513,
+      "contributor": "luna0607"
+    }
   ]
 }
