@@ -3244,5 +3244,35 @@
       "lng": -66.9955513,
       "contributor": "luna0607"
     }
+  ],
+  "BV12inz6CE4z": [
+    {
+      "place_name": "ISU",
+      "google_maps_url": "https://www.google.com/maps/place/Iowa+State+University/@42.0266613,-93.6490265,736m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87ee7a0a5e215b19:0xd7d8ed3aee6c49e8!8m2!3d42.0266573!4d-93.6464516!16zL20vMDN2NnQ?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.0266613,
+      "lng": -93.6490265,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1eDnd6MEQH": [
+    {
+      "place_name": "ISU",
+      "google_maps_url": "https://www.google.com/maps/place/Iowa+State+University/@42.0266613,-93.6490265,736m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87ee7a0a5e215b19:0xd7d8ed3aee6c49e8!8m2!3d42.0266573!4d-93.6464516!16zL20vMDN2NnQ?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 42.0266613,
+      "lng": -93.6490265,
+      "contributor": "luna0607"
+    }
+  ],
+  "BV1MwxY63Eer": [
+    {
+      "place_name": "甜草镇",
+      "google_maps_url": "https://www.google.com/maps/place/Sweet+Grass,+MT+59484/@48.9928126,-111.9769567,2602m/data=!3m2!1e3!4b1!4m6!3m5!1s0x536be248f2ae9581:0x19f7265005f0cc02!8m2!3d48.9961099!4d-111.9675751!16zL20vMDdwXzRk?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D",
+      "comment": "",
+      "lat": 48.9928126,
+      "lng": -111.9769567,
+      "contributor": "luna0607"
+    }
   ]
 }
