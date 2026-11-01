@@ -6,10 +6,10 @@ const map = L.map("map", { zoomControl: false }).setView(US_CENTER, US_ZOOM);
 map.createPane('activeSecondaryPane');
 map.getPane('activeSecondaryPane').style.zIndex = 610;
 // Carto Voyager — cleaner, higher-DPI tiles than default OSM.
-L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution:
-    '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
-  subdomains: "abcd",
+    '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  maxNativeZoom: 19,
   maxZoom: 20,
 }).addTo(map);
 
